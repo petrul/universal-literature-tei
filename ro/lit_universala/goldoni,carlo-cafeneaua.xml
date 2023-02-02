@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carlo Goldoni</title>
+            <author>Carlo Goldoni</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013-08-07T21:27:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-19T20:17:09.279409588</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                       
+      <body>
+         <author>Carlo Goldoni</author>
+         <div type="div1">
+            <head>Cafeneaua</head>
+            <div type="div2">
+               <head>Personajele</head>
+               <p>         RIDOLFO, cafegiu.</p>
+               <p>         DON MARZIO, gentilom napolitan.</p>
+               <p>         EUGENIO, negustor.</p>
+               <p>         FLAMINIO, sub numele de contele Leandro.</p>
+               <p>         PLACIDA, soţia lui Flaminio, în veşmânt de pelerină.</p>
+               <p>         VITTORIA, soţia lui Eugenio.</p>
+               <p>         LISAUKA, balerină.</p>
+               <p>         PANDOLFO, patron de tripou.</p>
+               <p>         TRAPPOLA, băiat de prăvălie la Ridolfo.</p>
+               <p>         Un ucenic de frizerie.</p>
+               <p>         Alt băiat de prăvălie de la cafenea.</p>
+               <p>         Un chelner de la han.</p>
+               <p>         Un căpitan de poliţie.</p>
+               <p>         Poliţişti, personaje mute.</p>
+               <p>         Alţi chelneri de la han, personaje mute.</p>
+               <p>         Alţi băieţi de prăvălie de la cafenea, personaje mute.</p>
+               <p>         Scena, mereu aceeaşi, reprezintă o mică piaţă din Veneţia, sau o stradă largă, cu trei prăvălii: cea din mijloc slujeşte de cafenea, cea din dreapta, de frizerie, cea din stânga, de casă de joc sau de tripou; deasupra acestor trei prăvălii se văd câteva camere ale tripoului, cu ferestrele dând spre aceeaşi stradă. De lângă Frizerie pleacă o stradă pe care se află casa balerinei, iar lângă tripou se vede hanul, cu uşi şi cu ferestre.</p>
+            </div>
+            <div type="div2">
+               <head>Actul I</head>
+               <div type="div3">
+                  <head>         SCENA 1</head>
+                  <p>         RIDOLFO, TRAPPOLA şi alţi băieţi de prăvălie.</p>
+                  <p>         RIDOLFO: Curaj, băieţi, şi purtaţi-vă frumos; fiţi iuţi şi gata să serviţi clienţii cuviincios şi cu iscusinţă, fiindcă renumele unei prăvălii ţine de multe ori de purtarea celor care servesc în ea.</p>
+                  <p>         TRAPPOLA: Ca să-ţi spun drept, jupâne dragă, sculatul ăsta cu noaptea-n cap nu-i pentru o fiinţă aşa de gingaşă ca mine!</p>
+                  <p>         RIDOLFO: Şi totuşi trebuie să ne sculăm devreme. Trebuie să-i servim pe toţi. Pe la crăpatul zorilor vin şi cei ce se aştern la drum, şi lucrătorii, şi barcagiii, şi marinarii, tot oameni care se scoală dis-de-dimineaţă.</p>
+                  <p>         TRAPPOLA: Să mori de râs nu alta, când vezi că până şi hamalii vin să bea cafea!</p>
+                  <p>         RIDOLFO: Vor cu toţii să facă ce fac ceilalţi. Altădată era la modă rachiul, acum e cafeaua.</p>
+                  <p>         TRAPPOLA: Şi cucoana aia, căreia îi duc cafea în fiecare dimineaţă, mereu mă roagă să-i cumpăr lemne de patru sfanţi, dar de cafea nu se lasă.</p>
+                  <p>         RIDOLFO: Lăcomia e boală fără leac; e o boală care, cu cât îmbătrâneşti, cu atât devine mai necruţătoare.</p>
+                  <p>         TRAPPOLA: Nu se vede venind nimeni, am mai putea trage un pui de somn!</p>
+                  <p>         RIDOLFO: Acum or să vină; şi-apoi nici nu-i chiar aşa de dimineaţă. Nu vezi? Frizerul a deschis, e în prăvălie şi lucrează la peruci. Uite, e deschis şi tripoul.</p>
+                  <p>         TRAPPOLA: Dacă e vorba de tripou, e deschis de mult. Au făcut noapte albă.</p>
+                  <p>         RIDOLFO: Bravo! Trebuie să-i fi mers bine jupanului Pandolfo.</p>
+                  <p>         TRAPPOLA: Câinelui ăstuia îi merge întotdeauna bine; câştigă la cărţi, câştigă din pungăşii, câştigă din învoielile cu măsluitorii… Cum prinde pe cineva în tripoul lui, îi ia toţi banii.</p>
+                  <p>         RIDOLFO: Să nu râvneşti niciodată la asemenea câştig, că ce e de haram, de haram se duce!</p>
+                  <p>         TRAPPOLA: Pe săracul domnu' Eugenio l-a nenorocit!</p>
+                  <p>         RIDOLFO: Ce om lipsit de judecată, dom'le! Are nevastă tânără, cuminte şi serioasă, iar el aleargă după toate fustele şi joacă ca un disperat.</p>
+                  <p>         TRAPPOLA: Distracţii de-ale tineretului de azi…</p>
+                  <p>         RIDOLFO: Joacă cu contele Leandro şi pierde întotdeauna.</p>
+                  <p>         TRAPPOLA: A, ce mai pramatie şi acest domn conte!</p>
+                  <p>         RIDOLFO: Hai, du-te şi prăjeşte cafeaua, s-o facem proaspătă.</p>
+                  <p>         TRAPPOLA: Pun şi zaţul de-aseară?</p>
+                  <p>         RIDOLFO: Nu, fă-o cum trebuie.</p>
+                  <p>         TRAPPOLA: Jupâne, eu nu prea am ţinere de minte. Cât e de când ai deschis cafeneaua?</p>
+                  <p>         RIDOLFO: Ştii foarte bine; să tot fie vreo opt luni.</p>
+                  <p>         TRAPPOLA: E vremea să cam schimbăm obiceiurile.</p>
+                  <p>         RIDOLFO: Ce vrei să spui?</p>
+                  <p>         TRAPPOLA: Când deschizi o cafenea nouă, faci cafea bună. După cel mult şase luni… apă caldă, zeamă lungă. (Iese.)</p>
+                  <p>         RIDOLFO: Îmi place băiatul ăsta; cred c-o să fie bun pentru cafeneaua mea, pentru că în cafenelele unde e câte unul care face pe caraghiosul dă fuga toată lumea.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 2</head>
+                  <p>         RIDOLFO şi JUPAN PANDOLFO, stăpânul tripoului, care se freacă la ochi, somnoros.</p>
+                  <p>         RUDOLFO: Vrei cafea, jupân Pandolfo?</p>
+                  <p>         PANDOLFO: Da, nu m-aş da în lături.</p>
+                  <p>         RUDOLFO: Băieţi, o cafea la jupân Pandolfo! Stai, ia loc, jupân Pandolfo.</p>
+                  <p>         PANDOLFO: Nu, nu, trebuie s-o beau repede şi să mă întorc la treabă.</p>
+                  <p>         (Un băiat îi aduce cafeaua lui Pandolfo.)</p>
+                  <p>         RIDOLFO: Se mai joacă şi acu' în prăvălia dumitale?</p>
+                  <p>         PANDOLFO: Se lucrează de zor.</p>
+                  <p>         RIDOLFO: Aşa de dimineaţă?</p>
+                  <p>         PANDOLFO: Joacă de aseară.</p>
+                  <p>         RIDOLFO: Ce joacă?</p>
+                  <p>         PANDOLFO: Un joc nevinovat: stos.</p>
+                  <p>         RIDOLFO: Şi cum merge?</p>
+                  <p>         PANDOLFO: Mie-mi merge bine.</p>
+                  <p>         RIDOLFO: Ai jucat şi dumneata?</p>
+                  <p>         PANDOLFO: Da, am tăiat şi eu de câteva ori.</p>
+                  <p>         RIDOLFO: Iartă-mă, prietene, n-are rost şi mă amestec în treburile dumitale, dar nu-i frumos să joace şi stăpânul, fiindcă atunci când pierde se face de râs, iar când câştigă dă de bănuit.</p>
+                  <p>         PANDOLFO: Mie mi-e destul că nu rămân păcălit; de bănuit, pot să mă bănuiască cât vor, nu-mi pasă!</p>
+                  <p>         RIDOLFO: Dragă prietene, suntem vecini şi n-aş vrea să ţi se întâmple cine ştie ce nenorocire. Ştii c-ai mai fost şi altă dată la închisoare din cauzajocului.</p>
+                  <p>         PANDOLFO: Mă mulţumesc cu puţin. Am pus mâna pe doi ţechini şi cu asta am terminat.</p>
+                  <p>         RIDOLFO: Bravo, jumuleşti găina fără să cârâie. De la cine i-ai câştigat?</p>
+                  <p>         PANDOLFO: De la o calfă de aurar.</p>
+                  <p>         RIDOLFO: Rău, foarte rău, aşa se învaţă tinerii să-şi fure stăpânii…</p>
+                  <p>         PANDOLFO: Ei, nu-mi mai face şi dumneata morală! Cine-i neghiob, să stea acasă! Eu am local de joc pentru cine vrea şi joace.</p>
+                  <p>         RIDOLFO: Că ai local de joc, hai, treacă-meargă; dar eşti luat la ochi că măsluieşti, şi asta te poate nenoroci.</p>
+                  <p>         PANDOLFO: Eu nu fac pungăşii. Ştiu să joc. Sunt norocos, de asta câştig.</p>
+                  <p>         RIDOLFO: Bravo, dă-i înainte tot aşa! Domnul Eugenio a jucat în noaptea asta?</p>
+                  <p>         PANDOLFO: Joacă şi acum. N-a mâncat, n-a dormit şi a pierdut toţi banii.</p>
+                  <p>         RUDOLFA (aparte): Bietul băiat! Cât o fi pierdut?</p>
+                  <p>         PANDOLFO: O sută de ţechini bani gheaţă; iar acum joacă pe datorie.</p>
+                  <p>         RIDOLFO: Cu cine joacă?</p>
+                  <p>         PANDOLFO: Cu domnul conte.</p>
+                  <p>         RIDOLFO: Cu pehlivanul ăla?</p>
+                  <p>         PANDOLFO: Cu el în persoană.</p>
+                  <p>         RIDOLFO: Şi cu mai cine?</p>
+                  <p>         PANDOLFO: Numai ci doi, între patru ochi.</p>
+                  <p>         RIDOLFO: Săracul de el! A intrat urât la apă!</p>
+                  <p>         PANDOLFO: Ce mă priveşte? Mic mi-e destul că merg cărţile.</p>
+                  <p>         RIDOLFO: N-aş ţine local de joc chiar dac-aş şti că mă pricopsesc!</p>
+                  <p>         PANDOLFO: Nu? Da' de ce?</p>
+                  <p>         RIDOLFO: Cred că un om cumsecade n-ar trebui să îngăduie ca oamenii să fie asasinaţi sub ochii lui.</p>
+                  <p>         PANDOLFO: Ei, prietene, dacă ai obrazul aşa de subţire, n-o să faci bani!</p>
+                  <p>         RIDOLFO: Nu-mi pasă! Până acum am fost la stăpân şi mi-ani făcut cinstit datoria. Mi-am pus deoparte ceva bănuţi, şi cu ajutorul fostului meu stăpân, care e, după cum ştii, tatăl domnului Eugenio, am deschis cafeneaua asta şi vreau să trăiesc din ea cinstit şi să nu-mi fac meseria de râs.</p>
+                  <p>         PANDOLFO: Oho, şi în meseria dumitale sunt podoabe destule…</p>
+                  <p>         RIDOLFO: Sunt în toate meseriile. Dar oamenii mai acătării care intră la mine-n cafenea nu se duc la ei.</p>
+                  <p>         PANDOLFO: N-ai şi dumneata odăiţe secrete?</p>
+                  <p>         RIDOLFO: Am, dar uşa lor nu se închide cu cheia.</p>
+                  <p>         PANDOLFO: Cafeaua n-o poţi refuza nimănui.</p>
+                  <p>         RIDOLFO: Ceştile nu se pătează.</p>
+                  <p>         PANDOLFO: Ei, lasă! Mai închizi şi dumneata ochii.</p>
+                  <p>         RIDOLFO: Nu închid nimic! În localul ăsta nu intră decât oameni cinstiţi.</p>
+                  <p>         PANDOLFO: Da, da, eşti începător.</p>
+                  <p>         RIDOLFO: Ce vrei să spui cu asta?</p>
+                  <p>         (Clienţii din tripou strigă „Cărţi!”)</p>
+                  <p>         PANDOLFO (spre tripoul lui): Îndată!</p>
+                  <p>         RIDOLFO: Pentru Dumnezeu, scoală-l de la masă pe nenorocitul acela de domnul Eugenio!</p>
+                  <p>         PANDOLFO: Din partea mea, n-are decât să-şi piardă şi cămaşa, nu-mi pasă! (Porneşte spre localul lui.)</p>
+                  <p>         RIDOLFO: Prietene, îţi trec cafeaua în cont?</p>
+                  <p>         PANDOLFO: Nu, o jucăm la stos.</p>
+                  <p>         RIDOLFO: Eu nu-s prost, prietene!</p>
+                  <p>         PANDOLFO: Ei, haide, ce rost are? Ştii doar că toţi clienţii mei îşi beau cafeaua în localul dumitale! Mă mir că te uiţi la asemenea fleacuri! (Iese. Este strigat din nou.) Am sosit! (Intra în tripou.)</p>
+                  <p>         RIDOLFO: Frumoasă meserie să trăieşti din nenorocirea şi ruina tineretului! Pe mine n-o să mă pască niciodată primejdia de-a ţine tripou. Începi cu jocuri mici şi-apoi ajungi la bacara. Nu, nu, eu numai de cafea o să mă ţin; când câştig la cafea cincizeci la sută, ce să mai caut în altă parte?</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 3</head>
+                  <p>         DON MARZIO şi RIDOLFO.</p>
+                  <p>         RIDOLFO (aparte): Uite-l şi pe ăla care dă mereu din gură şi vrea să aibă întotdeauna dreptate!</p>
+                  <p>         DON MARZIO: Cafea!</p>
+                  <p>         RIDOLFO: Îndată!</p>
+                  <p>         DON MARZIO: Ce mai e nou, Ridolfo?</p>
+                  <p>         RIDOLFO: Nu ştiu ce să vă spun, domnule…</p>
+                  <p>         DON MARZIO: N-a venit nimeni la cafenea până acum?</p>
+                  <p>         RIDOLFO: E încă devreme.</p>
+                  <p>         DON MARZIO: Devreme? A bătut de nouă.</p>
+                  <p>         RIDOLFO: Nu, illustrissime; nu e nici şapte.</p>
+                  <p>         DON MARZIO: Ia taci, caraghiosule!</p>
+                  <p>         RIDOLFO: Vă asigur că n-a bătut nici de şapte.</p>
+                  <p>         DON MARZIO: Ia taci, măgarule!</p>
+                  <p>         WDOLFO: Mă ocărâţi pe degeaba.</p>
+                  <p>         DON MARZIO: Am numărat chiar în clipa asta orele. Îţi spun că e nouă… Şi apoi uită-te la ceasul meu (Îi arată ceasul), nu greşeşte niciodată.</p>
+                  <p>         RIDOLFO: Bine, dacă ceasul dumneavoastră nu greşeşte, priviţi-l; ceasul dumneavoastră arată şase şi trei sferturi.</p>
+                  <p>         DON MARZIO: Ei, nu se poate! (Îşi scoate lorgnon-ul şi se uită.)</p>
+                  <p>         RIDOLFO: Ce spuneţi?</p>
+                  <p>         DON MARZIO: Ceasul meu merge prost. E ora nouă. Doar auzit când abătut.</p>
+                  <p>         RIDOLFO: De unde l-aţi cumpărat?</p>
+                  <p>         DON MARZIO: Mi-a fost trimis de la Londra.</p>
+                  <p>         RIDOLFO: V-au înşelat.</p>
+                  <p>         DON MARZIO: M-au înşelat? De ce?</p>
+                  <p>         RIDOLFO (ironic): V-au trimis un ceas prost.</p>
+                  <p>         DON MARZIO: Cum prost? Este unul din cele mai bune ceasuri făcute de Quaré.</p>
+                  <p>         RIDOLFO: Dac-ar fi bun, n-ar greşi cu două ore!</p>
+                  <p>         DON MARZIO: Merge întotdeauna bine, nu greşeşte niciodată.</p>
+                  <p>         RIDOLFO: Dacă arată şapte fără un sfert şi spuneţi că e nouă!</p>
+                  <p>         DON MARZIO: Ceasul meu merge bine.</p>
+                  <p>         RIDOLFO: Aşa că în curând va fi şapte, cum am spus şi eu.</p>
+                  <p>         DON MARZIO: Eşti cam îndrăzneţ! Ceasul meu merge bine, tu spui prostii şi… bagă de scamă să nu-ţi dau cu ceva în cap!</p>
+                  <p>         (Vine un băiat cu cafeaua.)</p>
+                  <p>         RIDOLFO (cu ciudă): Poftiţi cafeaua! (Aparte.) Ce dobitoc!</p>
+                  <p>         DON MARZIO: Pe domnul Eugenio l-ai văzut?</p>
+                  <p>         RIDOLFO: Nu, illustrissime domn!</p>
+                  <p>         DON MARZIO (bându-şi cafeaua): O fi stând acasă să-şi giugiulească nevasta… Ce om muieratic! Nevastă şi iar nevastă, nevastă şi iar nevastă! Nu-l mai vede nimeni, se face de râsul lumii. Un om fără caracter. Nu ştie să se poarte. Nevastă şi iar nevastă, nevastă şi iar nevastă!.</p>
+                  <p>         RIDOLFO: Ce nevastă? A jucat toată noaptea la jupân Pandolfo.</p>
+                  <p>         DON MARZIO: Păi cu ce spun: joc şi iar joc! Joc şi iar joc! (Îi dă ceaşca şi se ridică.)</p>
+                  <p>         WDOLFO (aparte): Joc şi iar joc; nevastă şi iar nevastă, şi dracu' să-l ia!.</p>
+                  <p>         DON MARZIO: A venit alaltăieri la mine, în mare taină, cu rugămintea să-i împrumut zece ţechini şi a garantat cu o pereche de cercei de-ai nevesti-si.</p>
+                  <p>         RIDOLFO: Vezi bine, orice om se găseşte uneori la strâmtoare, nu-i face plăcere să ştie şi ceilalţi; de asta o fi şi venit la dumneavoastră, crezând că n-o să spuneţi nimănui nimic.</p>
+                  <p>         DON MARZIO: A, eu nu vorbesc. Fac bucuros servicii tuturor şi nu mă laud. (Arată cerceii care se află într-o cutiuţă.) Uite-i, ăştia-s cerceii nevesti-si. I-am împrumutai zece ţechini; crezi că m-am păcălit?</p>
+                  <p>         RIDOLFO: Eu nu mă pricep, dar cred că nu.</p>
+                  <p>         DON MARZIO: Băiatul dumitale e aici?</p>
+                  <p>         RIDOLFO: Este.</p>
+                  <p>         DON MARZIO: Cheamă-l! Ei, Trappola!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 4</head>
+                  <p>         TRAPPOLA, din prăvălie, şi cei de mai înainte.</p>
+                  <p>         TRAPPOLA: Am sosit.</p>
+                  <p>         DON MARZIO: Vino aici! Du-te la giuvaergiul de-alături, arată-i cerceii ăştia, care sunt ai nevestei domnului Eugenio, şi întreabă-l, din partea mea, dacă sunt acoperit pentru cei zece ţechini pe care i-am împrumutat.</p>
+                  <p>         TRAPPOLA: La ordinele dumneavoastră! Va să zică cerceii sunt ai nevestei domnului Eugenio?</p>
+                  <p>         DON MARZIO: Da. În curând n-o să mai aibă nimic; moare de foame.</p>
+                  <p>         RIDOLFO (aparte): Săracul de el, pe ce mâini a încăput!</p>
+                  <p>         TRAPPOLA: Şi domnul Eugenio nu se supără că află toată lumea ce face el?</p>
+                  <p>         DON MARZIO: Unui om ca mine poţi să-i încredinţezi orice taină.</p>
+                  <p>         TRAPPOLA: Iar unuia ca mine nu poţi să-i încredinţezi nimic.</p>
+                  <p>         DON MARZIO: De ce?</p>
+                  <p>         TRAPPOLA: Pentru că am un păcat: repet numaidecât totul.</p>
+                  <p>         DONMARZIO: Rău, foarte rău; dac-o să faci aşa, o să-şi piardă toată lumea încrederea în dumneata şi n-o să-ţi mai spună nimeni nimic.</p>
+                  <p>         TRAPPOLA: Da, dar aşa cum dumneavoastră mi-aţi spus mie, tot aşa pot s-o spun şi cu altuia.</p>
+                  <p>         DONMARZIO: Du-te şi vezi dacă frizerul are timp să mă bărbierească.</p>
+                  <p>         TRAPPOLA: La ordinele dumneavoastră! (Aparte.) Pentru zece bani vrea să bea şi cafea şi să aibă şi slugă la poruncă… (Intră la bărbier.)</p>
+                  <p>         DON MARZIO: Spune-mi, Ridolfo, ce face balerina de-alături?</p>
+                  <p>         RIDOLFO: Ca să spun cinstit, habar n-am.</p>
+                  <p>         DON MARZIO: Mi s-a spus că e protejata contelui Leandro.</p>
+                  <p>         RIDOLFO: Mă iertaţi, domnule, dar dă cafeaua-n foc. (Aparte.) Mai bine îmi văd de-ale mele. (Intră în prăvălie.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 5</head>
+                  <p>         TRAPPOLA şi DON MARZIO.</p>
+                  <p>         TRAPPOLA: Bărbierul rade pe cineva, dar, cum o termina, vă va servi pe înălţimea-voastră.</p>
+                  <p>         DON MARZIO: Spune-mi, nu ştii nimic de balerina de-alături?</p>
+                  <p>         TRAPPOLA: De doamna Lisaura?</p>
+                  <p>         DONMARZIO: Da.</p>
+                  <p>         TRAPPOLA: Ştiu şi nu ştiu.</p>
+                  <p>         DONMARZIO: Hai, spune-mi!</p>
+                  <p>         TRAPPOLA: Dacă vorbesc despre ceea ce fac alţii, o să-şi piardă lumeaîncrederea în mine şi n-o să-mi mai spună nimeni nimic.</p>
+                  <p>         DON MARZIO: Mie poţi să-mi spui. Ştii doar cine sunt, eu nu vorbesc. Contele Leandro se duce pe la ca?</p>
+                  <p>         TRAPPOLA: Da, la ora potrivită, se duce.</p>
+                  <p>         DON MARZIO: Cum adică la ora potrivită?</p>
+                  <p>         TRAPPOLA: Adică atunci când n-o încurcă.</p>
+                  <p>         DON MARZIO: Bravo, acum înţeleg! E un prieten cu inimă bună, care nu vrea s-o încurce.</p>
+                  <p>         TRAPPOLA: Ba chiar vrea să se bucure şi alţii, pentru ca farmecele ei să-i aducă şi lui câştig.</p>
+                  <p>         DONMARZIO: Din ce în ce mai bine! A, ce băiat răutăcios! Du-te, du-te şi arată cerceii.</p>
+                  <p>         TRAPPOLA: Giuvaergiului pot să-i spun că sunt ai nevestei domnului Eugenio?</p>
+                  <p>         DONMARZIO: Da, poţi să-i spui.</p>
+                  <p>         TRAPPOLA (aparte): Don Marzio şi cu mine ştim să ţinem un secret! (Iese.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 6</head>
+                  <p>         DON MARZIO, apoi RIDOLFO.</p>
+                  <p>         DON MARZIO: Ridolfo!</p>
+                  <p>         RIDOLFO: Domnule?!</p>
+                  <p>         DON MARZIO: Dacă nu ştii nimic despre balerină, am să-ţi povestesc eu.</p>
+                  <p>         RIDOLFO: Ca să vă spun drept, cu nu mă prea ocup de ce fac alţii.</p>
+                  <p>         DON MARZIO: Dar e bine să afli câte ceva, ca să ştii cum să te porţi. E protejata pramatiei ăleia de conte Leandro, care-şi scoate preţul protecţiei din câştigurile balerinei. În loc să cheltuiască cu ea, mănâncă tot ce câştigă nenorocita, şi poate că din cauza lui e nevoită să facă ceea ce altfel n-ar face. A, ce ticălos!</p>
+                  <p>         RIDOLFO: Dar eu sunt aici toată ziua şi pot adeveri că în casa ei nu intră decât contele Leandro.</p>
+                  <p>         DON MARZIO: Da' uşa din dos la ce slujeşte? Tii, că prost mai eşti! Toată ziua du-te-vino. Asta pe uşa din dos, nătărăule!</p>
+                  <p>         RIDOLFO: Eu mă ocup de localul meu… treaba ei dacă mai are o uşă şi-n dos. Eu nu-mi bag nasul în casa nimănui!</p>
+                  <p>         DON MARZIO (ridicându-se): Dobitocule! Aşa vorbeşti cu unul ca mine?</p>
+                  <p>         RIDOLFO: Iertaţi-mă, nu poate omul nici să glumească?</p>
+                  <p>         DON MARZIO: Dă-mi un lichior!</p>
+                  <p>         RIDOLFO (aparte): Gluma asta o să mă coste nişte bani. (Face semn băieţilor să-i aducă lichiorul.)</p>
+                  <p>         DON MARZIO (aparte): Oh, povestea asta cu balerina vreau s-o afle toţi!</p>
+                  <p>         RIDOLFO: V-am adus lichiorul.</p>
+                  <p>         DON MARZIO (bându-şi lichiorul): Toată ziua du-te-vino pe uşa din dos.</p>
+                  <p>         RIDOLFO: Vai de capul ei dacă toată ziua e du-te-vino pe uşa din dos!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 7</head>
+                  <p>         EUGENIO, din tripou, în haine de seară, privind ca un lunatic spre cer şi bătând din picioare; cei de mai înainte.</p>
+                  <p>         DON MARZIO: Sluga dumitale, domnule Eugenio…</p>
+                  <p>         EUGENIO: Cât e ceasul?</p>
+                  <p>         DON MARZIO: A bătut de nouă.</p>
+                  <p>         RIDOLFO: Şi ceasul dumnealui merge bine!</p>
+                  <p>         EUGENIO: Cafea!</p>
+                  <p>         RIDOLFO: Îndată… (Se duce în prăvălie.)</p>
+                  <p>         DON MARZIO: Cum ţi-a mers, prietene?</p>
+                  <p>         EUGENIO (neluându-l în seamă pe don Marzio): Cafea!</p>
+                  <p>         RIDOLFO (de departe): Îndată!</p>
+                  <p>         DON MARZIO (lui Eugenio): Ai pierdut?</p>
+                  <p>         EUGENIO (strigând): O cafea!</p>
+                  <p>         PON MARZIO (aparte): Am înţeles, a pierdut tot! (Se duce să se aşeze).</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 8</head>
+                  <p>         PANDOLFO, din tripou, şi cei de mai înainte.</p>
+                  <p>         PANDOLFO: Domnule Eugenio, o vorbă… (Îl trage deoparte).</p>
+                  <p>         EUGENIO: Ştiu ce vrei să-mi spui. Am pierdut treizeci de ţechini pe datorie. Sunt un om de onoare, am să-i plătesc.</p>
+                  <p>         PANDOLFO: Dar domnul conte stă şi aşteaptă. Spune că şi-a riscat banii şi vrea să fie plătii.</p>
+                  <p>         DON MARZIO (aparte): Ce n-aş da să aud ce spun!</p>
+                  <p>         RIDOLFO (lui Eugenio): A sosit cafeaua.</p>
+                  <p>         EUGENIO (lui Ridolfo): Pleacă de aici! (Lui Pandolfo.) A câştigat o sută de ţechini bani gheaţă. Nu şi-a pierdut, pare-mi-se, noaptea de pomană.</p>
+                  <p>         PANDOLFO: Astea nu-s vorbe de jucător; înălţimea-voastră ştie mai bine ca mine cum merg lucrurile la joc.</p>
+                  <p>         RIDOLFO (lui Eugenio): Domnule, se răceşte cafeaua.</p>
+                  <p>         EUGENIO (lui Ridolfo): Lasă-mă-n pace!</p>
+                  <p>         RIDOLFO: Dacă n-o voiaţi…</p>
+                  <p>         EUGENIO: Pleacă de aici!</p>
+                  <p>         RIDOLFO: Am s-o beau cu. (Pleacă cu cafeaua.)</p>
+                  <p>         DON MARZIO (lui Ridolfo, care nu-i răspunde): Ce spun?</p>
+                  <p>         EUGENIO (lui Pandolfo): Ştiu şi eu că, atunci când pierzi, plăteşti; dar, când n-ai cu ce, nu poţi plăti.</p>
+                  <p>         PANDOLFO: Uite, ca să vă salvez bunul nume, sunt gata să vă găsesc treizeci de ţechini.</p>
+                  <p>         EUGENIO: A, bravo! (Strigă tare.) O cafea!</p>
+                  <p>         RIDOLFO (lui Eugenio): Acum trebuie s-o fac.</p>
+                  <p>         EUGENIO: Sunt trei ceasuri de când cer o cafea şi tot n-ai făcut-o?</p>
+                  <p>         RIDOLFO: Am adus-o, şi m-aţi pus pe goană.</p>
+                  <p>         PANDOLFO: Vorbiţi-i cu frumosul şi-o să vă răspundă la fel.</p>
+                  <p>         EUGENIO (lui Ridolfo): Spune-mi, vrei să-mi faci o cafea? Dar bună! Hai, repede!</p>
+                  <p>         RIDOLFO: Dacă mă lăsaţi s-o fac, vă servesc. (Intră în prăvălie.)</p>
+                  <p>         DON MARZIO (aparte): Trebuie să fie ceva important. Tare sunt curios să aflu.</p>
+                  <p>         EUGENIO: Pandolfo, dă-ţi osteneala şi găseşte-mi treizeci de ţechini.</p>
+                  <p>         PANDOLFO: Am un prieten care o să vi-i dea, dar numai cu gaj şi cu dobândă…</p>
+                  <p>         EUGENIO: Nu-mi vorbi de gaj că nu facem nimic. Am la Rialto postavurile alea pe care le ştii; am să le pun drept chezăşie, şi când le vând, o să plătesc.</p>
+                  <p>         DON MARZIO (aparte): O să plătesc. A spus „o să plătesc”. A pierdut pe datorie.</p>
+                  <p>         PANDOLFO: Şi ce dobândă vreţi să plătiţi?</p>
+                  <p>         EUGENIO: Fă dumneata aşa cum crezi mai nimerit.</p>
+                  <p>         PANDOLFO: Dar, să ştiţi, mai puţin de un ţechin pe săptămână n-o să vrea.</p>
+                  <p>         EUGENIO: Un ţechin pe săptămână camătă?</p>
+                  <p>         RIDOLFO (care a venit cu cafeaua, lui Eugenio): A sosit cafeaua!</p>
+                  <p>         EUGENIO (lui Ridolfo): Pleacă de aici!</p>
+                  <p>         RIDOLFO: E a doua cu care mă trimite înapoi…</p>
+                  <p>         EUGENIO (lui Pandolfo): Un ţechin pe săptămână?</p>
+                  <p>         PANDOLFO: Nu cere prea mult pentru treizeci de ţechini.</p>
+                  <p>         RIDOLFO (lui Eugenio): O vreţi sau n-o vreţi?</p>
+                  <p>         EUGENIO (lui Ridolfo): Du-te, că ţi-o arunc în cap!</p>
+                  <p>         RIDOLFO (aparte): Amărâtu'! I s-a urcat jocul la cap! (Ia cafeaua ţi se duce în prăvălie.)</p>
+                  <p>         DONMARZIO (se ridică şi se apropie de Eugenio): Domnule Eugenio, aveţi vreo neînţelegere? Vreţi să vă împac eu?</p>
+                  <p>         EUGENIO: Niciuna, don Marzio, te rog să mă laşi în pace!</p>
+                  <p>         DON MARZIO: Dacă ai trebuinţă de ceva, porunceşte-mi!</p>
+                  <p>         EUGENIO: Îţi spun că n-am nevoie de nimic.</p>
+                  <p>         DON MARZIO: Jupân Pandolfo, ce ai cu domnul Eugenio?</p>
+                  <p>         PANDOLFO: O mică problemă pe care n-avem chef s-o afle toată lumea.</p>
+                  <p>         DON MARZIO: Eu sunt prieten cu domnul Eugenio, îi cunosc toate daraverile şi ştie că nu vorbesc cu nimeni. I-am împrumutat chiar zece ţechinipe o pereche de cercei, nu-i aşa? Şi n-am spus nimănui.</p>
+                  <p>         EUGENIO: Puteai să nu spui nici acum!</p>
+                  <p>         DON MARZIO: Ei, cu jupân Pandolfo putem vorbi fără grijă. Ai pierdut pe datorie? Ai nevoie de ceva? Sunt gata să te servesc.</p>
+                  <p>         EUGENIO: Dacă vrei să ştii, am pierdut pe datorie treizeci de ţechini.</p>
+                  <p>         DON MARZIO: Treizeci de ţechini şi cu cei zece pe care ţi i-am dat fac patruzeci; cerceii nu fac atâta!</p>
+                  <p>         PANDOLFO: Găsesc eu treizeci de ţechini.</p>
+                  <p>         DON MARZIO: Bravo! Găseşte patruzeci; mi-i dai pe cei zece ai mei, şi cu îţi dau cerceii.</p>
+                  <p>         EUGENIO (aparte): Afurisită clipa când m-am încurcat cu omul ăsta!</p>
+                  <p>         DON MARZIO (lui Eugenio): De ce nu iei banii pe care ţi-i dă domnul Pandolfo?</p>
+                  <p>         EUGENIO: Pentru ca vrea un ţechin pe săptămână.</p>
+                  <p>         PANDOLFO: Pentru mine nu vreau nimic; prietenul care-l serveşte vrea.</p>
+                  <p>         EUGENIO: Uite ce poţi face: vorbeşte cu domnul conte şi spune-i să mă îngăduie douăzeci şi patru de ore: sunt om de cuvânt şi-am să-i plătesc!</p>
+                  <p>         PANDOLFO: Mi-e teamă că trebuie să plece şi că vrea banii numaidecât.</p>
+                  <p>         EUGENIO: Dac-aş putea să vând o bucată, două din postavul ăla, i-aş plăti pe loc.</p>
+                  <p>         PANDOLFO: Vreţi să vă caut eu un cumpărător?</p>
+                  <p>         EUGENIO: Da, dragul meu, caută-mi, şi-am să-ţi plătesc pentru osteneală.</p>
+                  <p>         PANDOLFO: Să-i spun o vorbă domnului conte şi mă duc. (Intră în tripou.)</p>
+                  <p>         DONMARZIO (lui Eugenio): Ai pierdut mult?</p>
+                  <p>         EUGENIO: O sută de ţechini, pe care i-am încasai ieri, şi încă treizeci pe cuvânt.</p>
+                  <p>         DON MARZIO: Puteai să-mi dai înapoi cei zece ţechini pe care ţi i-am împrumutai.</p>
+                  <p>         EUGENIO: Hai, nu mă mai necăji; am să-ţi plătesc şi cei zece ţechini ai dumitale.</p>
+                  <p>         PANDOLFO (cu manta şi pălărie, iese din localul de joc): Domnul conte a adormit cu capul pe masă. Eu mă duc să văd ce pot face pentru dumneavoastră. Dacă se trezeşte, am lăsat poruncă băiatului să-i spună despre ce e vorba. Înălţimea-voastră să nu plece de aici.</p>
+                  <p>         EUGENIO: Te aştept chiar în locul ăsta.</p>
+                  <p>         PANUOLFO (aparte): Mantaua asta e veche; a venit timpul să-mi fac una nouă, şi fără cheltuială. (Iese.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 9</head>
+                  <p>         DON MARZIO şi EUGENIO, apoi RIDOLFO.</p>
+                  <p>         DON MARZIO: Poftim, stai aici şi să ne bem cafeaua.</p>
+                  <p>         EUGENIO: Cafea! (Se aşază.)</p>
+                  <p>         RIDOLFO: Ce joc e ăsta, domnule Eugenio? Petreceţi pe socoteala mea?</p>
+                  <p>         EUGENIO: Iartă-mă, dragă prietene, sunt năuc.</p>
+                  <p>         RIDOLFO: Ei, dragă domnule Eugenio, dacă înălţimea-voastră m-ar asculta pe mine, nu s-ar afla în situaţia asta.</p>
+                  <p>         EUGENIO: Nu ştiu ce să spun, dar cred că ai dreptate.</p>
+                  <p>         RIDOLFO: Mă duc să fac altă cafea, şi pe urmă stăm de vorbă. (Pleacă în prăvălie.)</p>
+                  <p>         DON MARZIO: Ai aflat de balerina care părea că nu se uită la nimeni? O întreţine contele.</p>
+                  <p>         EUGENIO: Cred şi eu că-i convine s-o întreţină, câştigă cu sutele de ţechini.</p>
+                  <p>         DON MARZIO: Am aflat tot.</p>
+                  <p>         EUGENIO: Cum ai aflat, dragă prietene?</p>
+                  <p>         DON MARZIO: Ei, cu ştiu tot. Sunt informat despre toate. Ştiu când vine, când pleacă, ştiu ce cheltuieşte, ce mănâncă, ştiu tot!</p>
+                  <p>         EUGENIO: Contele e singurul?</p>
+                  <p>         DON MARZIO: He-he, mai e şi uşa din dos!</p>
+                  <p>         RIDOLFO (cu cafeaua, lui Eugenio): A sosit şi a treia cafea.</p>
+                  <p>         DON MARZIO: Ce spui, Ridolfo? Nu-i aşa că ştiu totul despre balerină?</p>
+                  <p>         RIDOLFO: V-am mai spus o dată că nu mă amestec.</p>
+                  <p>         DON MARZIO: Mare om mai sunt şi eu dacă le ştiu pe toate! Cine vrea să afle ce se întâmplă în casa tuturor artistelor şi a tuturor balerinelor să vină la mine.</p>
+                  <p>         EUGENIO: Şi zici că doamna balerină e o poamă?</p>
+                  <p>         DON MARZIO: Am dibuit eu cum stau lucrurile. E o marfă pe gustul oricui. Ei, Ridolfo, ştiu sau nu ştiu?</p>
+                  <p>         RIDOLFO: Dacă înălţimea-voastră mă ia drept martor, trebuie să spun adevărul. Toată strada o socoteşte femeie de treabă.</p>
+                  <p>         DON MAKZIO: Femeie de treabă? Femeie de treabă?</p>
+                  <p>         RIDOLFO: Vă spun că în casa ei nu intră nimeni.</p>
+                  <p>         DON MARZIO: Prin uşa din dos, toată ziua du-te-vino.</p>
+                  <p>         EUGENIO: Şi totuşi pare o fată destul de cuminte.</p>
+                  <p>         DON MARZIO: Da, cuminte! O întreţine contele Cap-Deştept, şi după el, cine pofteşte…</p>
+                  <p>         EUGENIO: Am încercat de câteva ori să-i spun vorbe dulci, dar degeaba.</p>
+                  <p>         DON MARZIO: Vrei să facem prinsoare? Haide!</p>
+                  <p>         RIDOLFO (aparte): Vai de mine, ce gură!</p>
+                  <p>         EUGENIO: Vin aici în fiecare zi să-mi beau cafeaua şi, ca să-ţi spun drept, n-am văzut pe nimeni intrând.</p>
+                  <p>         DONMARZIO: Nu ştii că are o uşă tainică, aici, pe străduţa din spate? Pe acolo se intră.</p>
+                  <p>         EUGENIO: Aşa o fi.</p>
+                  <p>         DONMARZIO: Fără discuţie!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 10</head>
+                  <p>         UCENICUL bărbierului şi cei de mai înainte.</p>
+                  <p>         UCENICUL (lui don Marzio): Illustrissime, dacă vreţi să vă bărbieriţi, stăpânul vă aşteaptă.</p>
+                  <p>         DON MARZIO: Vin. E aşa cum vă spun cu. Mă duc să mă bărbieresc şi, când mă întorc, vă spun restul. (Intră la bărbier şi se întoarce la momentul potrivit.)</p>
+                  <p>         EUGENIO: Ce spui, Ridolfo? Balerina s-a pus la mezat?</p>
+                  <p>         RIDOLFO: Îl credeţi pe don Marzio? Nu ştiţi ce limbă are?</p>
+                  <p>         EUGENIO: Ştiu că are o limbă care taie şi spintecă, dar vorbeşte cu atâta siguranţă, de-ţi vine să zici că ştie ce spune.</p>
+                  <p>         RIDOLFO: Uitaţi-vă, acolo e uşa care dă în străduţă. Dacă stai aici, se vede; şi jur pe cuvântul meu de om cinstit că nu intră nimeni pe-acolo.</p>
+                  <p>         EUGENIO: Dar o întreţine contele?</p>
+                  <p>         RIDOLFO: Contele se duce pe la ea, ce-i drept, dar am auzit că vrea s-o ia de nevastă.</p>
+                  <p>         EUGENIO: Dac-ar fi aşa, n-ar fi nimic rău; don Marzio spune însă că la ea intră cine pofteşte.</p>
+                  <p>         RIDOLFO: Iar eu spun că nu intră nimeni.</p>
+                  <p>         DON MARZIO (iese de la bărbier cu şervetul la gât şi cu săpun pe faţă): Vă spun că intră pe uşa din dos!</p>
+                  <p>         UCENICUL: Illustrissime, se răceşte apa.</p>
+                  <p>         DON MARZIO: Pe uşa din dos… (Intră la bărbier împreună cu Ucenicul.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 11</head>
+                  <p>         EUGENIO şi RIDOLFO.</p>
+                  <p>         RIDOLFO: Vedeţi? Asta-i e omul. Cu săpunul pe faţă…</p>
+                  <p>         EUGENIO: Da, când îi intră ceva în cap, o ţine morţiş.</p>
+                  <p>         RIDOLFO: Şi-i vorbeşte de rău pe toţi.</p>
+                  <p>         EUGENIO: Nu ştiu cum face, cum drege, că tot în treburile altora se bagă.</p>
+                  <p>         RIDOLFO: Vă spun eu: nu prea are ce face şi, fiindcă nu prea are nevoie să se gândească la treburile lui, tot la treburile altora îi stă capul.</p>
+                  <p>         EUGENIO: Într-adevăr, e un mare noroc să nu-l cunoşti.</p>
+                  <p>         RIDOLFO: Dragă domnule Eugenio, cum de v-aţi încurcat cu el? N-aveaţi cui să cereţi împrumut zece ţechini?</p>
+                  <p>         EUGENIO: Cum? Şi dumneata ştii?</p>
+                  <p>         RIDOLFO: Păi a spus aici în prăvălie, de faţă cu toţi.</p>
+                  <p>         EUGENIO: Dragă prietene, ştii cum se întâmplă: când omul se află la strâmtoare, se agaţă de orice.</p>
+                  <p>         RIDOLFO: După câte-am auzit, chiar azi-dimineaţă v-aţi agăţat de ce nu trebuia…</p>
+                  <p>         EUGENIO: Crezi că jupân Pandolfo vrea să mă tragă pe sfoară?</p>
+                  <p>         RIDOLFO: O să vedeţi cu ce fel de afaceri o să vă îmbie.</p>
+                  <p>         EUGENIO: Ce să fac? Trebuie să plătesc cei treizeci de ţechini pe care i-am pierdut pe datorie. Aş vrea să scap şi de don Marzio. Şi mai am şi alte necazuri; dacă pot vinde două bucăţi de postav, îmi aranjez toate treburile.</p>
+                  <p>         RIDOLFO: Ce fel de postav aţi vrea să vindeţi?</p>
+                  <p>         EUGENIO: Postav de Padova; face paisprezece lire cotul.</p>
+                  <p>         RIDOLFO: Vreţi să caut cu să vi-l vând cinstit?</p>
+                  <p>         EUGENIO: Ţi-aş ti tare îndatorat.</p>
+                  <p>         RIDOLFO: Daţi-mi puţin timp şi lăsaţi totul pe mine.</p>
+                  <p>         EUGENIO: Timp? Bucuros, numai că ăla aşteaptă cei treizeci de ţechini.</p>
+                  <p>         RIDOLFO: Poftiţi aici, vă rog, scrieţi pe-o hârtie că-mi încredinţaţi două bucăţi de postav şi vă împrumut chiar eu cu treizeci de ţechini.</p>
+                  <p>         EUGENIO: Da, dragul meu, îţi rămân îndatorat şi-am să te răsplătesc aşa cum se cuvine.</p>
+                  <p>         RIDOLFO: Mă mir că vorbiţi aşa! Nu vă cer nici un ban; fac toate astea numai ca o sfântă datorie faţă de tatăl dumneavoastră, a cărui amintire o păstrez ca pe a unui stăpân ce-a pus temelie întregii mele averi. N-am inima să văd cum vă nenorocesc câinii ăştia!</p>
+                  <p>         EUGENIO: Eşti cu adevărat om de treabă.</p>
+                  <p>         RIDOLFO: Binevoiţi să puneţi şi pe hârtie.</p>
+                  <p>         EUGENIO: Sunt gata. Dumneata dictează, că eu scriu.</p>
+                  <p>         RIDOLFO: Cum se numeşte omul dumneavoastră de încredere?</p>
+                  <p>         EUGENIO: Pasquino de' Cavoli.</p>
+                  <p>         RIDOLFO: „Pasquino de' Cavoli… (dictează, şi Eugenio scrie) încredinţează jupanului Ridolfo Gamboni… bucăţi de postav de Padova două… la alegerea sa, ca să le vândă pe socoteala mea… fiindcă mi-a dat cu împrumut, fără camătă… ţechini treizeci…” Puneţi data şi iscăliţi-vă.</p>
+                  <p>         EUGENIO: S-a făcut.</p>
+                  <p>         RIDOLFO: Aveţi încredere în mine?</p>
+                  <p>         EUGENIO: Ei, asta-i! Cum să n-am?</p>
+                  <p>         RIDOLFO: Şi cu am încredere în dumneavoastră. Poftim, aveţi aici treizeci de galbeni. (Îi numără treizeci de ţechini.)</p>
+                  <p>         EUGENIO: Dragă prietene, îţi rămân îndatorat!</p>
+                  <p>         RIDOLFO: Domnule Eugenio, vi-i dau ca să vă plătiţi la timp datoriile, ca un om cinstit; postavul am să-l vând eu, ca să nu vi-l mănânce alţii, şi plecchiar acum, fără să mai pierd timp; dar, din dragostea ce v-o port şi în numele vechii datorii de recunoştinţă care mă leagă de dumneavoastră, daţi-mi voie să-mi descarc puţin inima. Drumul pe care a apucat înălţimea-voastră e drumul care duce la ruină. O să vă pierdeţi curând creditul şi-o să ajungeţi la faliment. Lăsaţi-vă de joc, de toate obiceiurile rele, ţineţi-vă de negustoria dumneavoastră, de familie şi purtaţi-vă cu înţelepciune. Cuvinte puţine, dar cumpătate, spuse de un om din popor, din toată inima; dac-o să le ascultaţi, o să vă meargă ceva mai bine. (Iese.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 12</head>
+                  <p>         EUGENIO, singur, apoi LISAURA, la fereastră.</p>
+                  <p>         EUGENIO: Nu zice rău… mărturisesc că nu zice râu! Nevasta mea, săraca de ea, ce-o fi zicând oare? Noaptea asta nici nu m-a văzut; şi cine ştie ce gânduri negre şi-a mai făcut? Când nu-şi văd bărbatul acasă, femeile se gândesc la o mie de lucruri, unul mai negru ca altul. S-o fi gândit c-am umblat cu alte femei, c-am căzut în vreun canal sau c-am fugit din pricina datoriilor. Ştiu că oftează din dragoste pentru mine; o iubesc şi eu, dar îmi place să fiu liber. Văd însă că libertatea asta a mea îmi aduce mai mult râu decât bine, şi dacă aş face cum zice nevastă-mea, mi-ar merge şi mie mai bine. Trebuie să-mi vină odată mintea la cap! Vai, dar de câte ori n-am spus aşa! (O vede pe Lisaura la fereastră. Aparte.) Pe Dumnezeul meu! Ce aer nobil! Mi-e teamă că aveau dreptate să vorbească de uşiţa cu pricina! (Către Lisaura.) Stăpâna mea preaonorată.</p>
+                  <p>         LISAURA: Slugă preaplecată.</p>
+                  <p>         EUGENIO: E mult de când v-aţi sculat, doamnă?</p>
+                  <p>         LISAURA: În clipa asta.</p>
+                  <p>         EUGENIO: V-aţi băut cafeaua?</p>
+                  <p>         LISAURA: E încă devreme. N-am băut-o.</p>
+                  <p>         EUGENIO: Porunciţi să v-o aduc eu?</p>
+                  <p>         LISAURA: Vă sunt îndatorată, dar nu vă obosiţi.</p>
+                  <p>         EUGENIO: Deloc… Se poate? Băieţi, duceţi-i doamnei cafea, ciocolată şi tot ce-o mai dori, plătesc eu!</p>
+                  <p>         LISAURA: Mulţumesc, mulţumesc, cafeaua şi ciocolata mi le fac acasă.</p>
+                  <p>         EUGENIO: Aveţi ciocolată bună?</p>
+                  <p>         LISAURA: Drept să spun, foarte bună.</p>
+                  <p>         EUGENIO: Ştiţi s-o faceţi?</p>
+                  <p>         LISAURA: Slujnica mea îşi dă toată silinţa.</p>
+                  <p>         EUGENIO: Şi vin eu s-o amestec?</p>
+                  <p>         LISAURA: N-are rost să vă osteniţi.</p>
+                  <p>         EUGENIO: Dacă-mi îngăduiţi, am să vin s-o beau cu dumneavoastră.</p>
+                  <p>         LISAURA: Nu e pentru dumneavoastră, domnule.</p>
+                  <p>         EUGENIO: Eu primesc, totuşi… Hai, deschideţi, să stăm un ceas împreună.</p>
+                  <p>         LISAURA: Iertaţi-mă, dar nu deschid aşa uşor.</p>
+                  <p>         EUGENIO: Ei, ia spuneţi-mi, vreţi să intru pe uşa din dos?</p>
+                  <p>         LISAURA: Cine vine la mine, intră pe uşa din faţă.</p>
+                  <p>         EUGENIO: Hai, deschideţi-mi, să nu facem scene.</p>
+                  <p>         LISAURA: Domnule Eugenio, spuneţi-mi, vă rog, l-aţi văzut pe contele Leandro?</p>
+                  <p>         EUGENIO: Mai bine nu l-aş fi văzut!</p>
+                  <p>         LISAURA: Aţi jucat cu el azi-noapte?</p>
+                  <p>         EUGENIO: Din păcate! Dar de ce să audă toată lumea ce vorbim? Deschideţi şi vă spun tot.</p>
+                  <p>         LISAURA: V-am spus, domnule: nu deschid nimănui.</p>
+                  <p>         EUGENIO: Aveţi poate nevoie de permisiunea domnului conte? Mă duc să-l chem.</p>
+                  <p>         LISAURA: Dacă-l caut pe domnul conte, înseamnă că am motiv s-o fac.</p>
+                  <p>         EUGENIO: Vă servesc numaidecât. E aici în local şi doarme.</p>
+                  <p>         LISAURA: Dacă doarme, lăsaţi-l să doarmă.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 13</head>
+                  <p>         LEANDRU, din tripou, şi cei de mai înainte.</p>
+                  <p>         LEANDRO: Nu dorm, nu, nu dorm… Sunt aici şi-mi stă mintea-n loc de îndrăzneala domnului Eugenio!</p>
+                  <p>         EUGENIO: Ce spuneţi de purtarea nepotrivită a doamnei? Nu vrea să-mi deschidă uşa!</p>
+                  <p>         LEANDRO: Dar cine crezi dumneata că este doamna?</p>
+                  <p>         EUGENIO: După câte spune don Marzio, toată ziua du-te-vino…</p>
+                  <p>         LEANDRO: Mint şi don Marzio, şi cine-l crede.</p>
+                  <p>         EUGENIO: Bine, n-o fi aşa; dar prin mijlocirea dumitale n-aş putea avea plăcerea s-o salut?</p>
+                  <p>         LEANDRO: Ai face mai bine să-mi dai cei treizeci de ţechini!</p>
+                  <p>         EUGENIO: Am să ţi-i dau. Când pierzi pe datorie, ai timp, ca să plăteşti, douăzeci şi patru de ore.</p>
+                  <p>         LEANDRO: Vedeţi, doamnă Lisaura? Ăştia sunt pricopsiţii care-şi dau aere de oameni cinstiţi! N-au un ban şi vor să facă pe curtezanii.</p>
+                  <p>         EUGENIO: Tinerii de felul meu, dragă domnule conte, nu promit nimic înainte de-a fi siguri că se vor ţine de cuvânt. Dacă mi-ar fi deschis, nu şi-ar fi pierdut vremea, iar dumneata n-ai fi rămas aici, jos, cu neîncrederea dumitale. Poftim banii! Poftim cei treizeci de ţechini şi să ştii că un om ca mine, când nu are, găseşte. Ia-ţi banii şi învaţă să vorbeşti cu oamenii de felul meu! (Se duce şi se aşază în cafenea.)</p>
+                  <p>         LEANDRO (aparte): Mi-a plătit; acuma zică ce-o vrea, nu-mi mai pasă! (Lisaurei.) Deschide!</p>
+                  <p>         LISAURA: Unde-ai stat toată noaptea?</p>
+                  <p>         LEANDRO: Deschide!</p>
+                  <p>         LISAURA: Du-te dracului!</p>
+                  <p>         LEANDRO: Deschide! (Varsă ţechinii în pălărie, ca să-i vadă Lisaura.)</p>
+                  <p>         LISAURA: De data asta îţi deschid. (Se retrage şi deschide.)</p>
+                  <p>         LEANDRO: Îmi face cinstea fiindcă i-au făcut cu ochiul ţechinii ăştia frumoşi! (Intră în casă.)</p>
+                  <p>         EUGENIO: El da, şi eu nu? Îi arăt eu ei, să nu-mi zică mie pe nume dacă nu!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 14</head>
+                  <p>         PLACIDA, în veşmânt de pelerinaj, şi EUGENIO.</p>
+                  <p>         PLACIDA: Fie-vă milă de-o biată fiinţă care-a pornit în pelerinaj…</p>
+                  <p>         EUGENIO (aparte): Ia te uită, acum e moda pelerinajelor.</p>
+                  <p>         PLACIDA: Domnule, pentru numele lui Dumnezeu, ajutaţi-mă cu ceva!</p>
+                  <p>         EUGENIO: Ce înseamnă asta? Te-ai îmbrăcat în veşmânt de pelerinaj ca să te distrezi, sau ca să ai o scuză?</p>
+                  <p>         PLACIDA: Nici de una, nici de alta.</p>
+                  <p>         EUGENIO: Atunci de ce cutreieri lumea?</p>
+                  <p>         PLACIDA: De nevoie.</p>
+                  <p>         EUGENIO: Nevoie de ce?</p>
+                  <p>         PLACIDA: De toate.</p>
+                  <p>         EUGENIO: Şi de companie?</p>
+                  <p>         PLACIDA: De asta n-aş fi avut cu nevoie, dacă nu m-ar fi lăsat bărbatul.</p>
+                  <p>         EUGENIO: Veşnicul cântec; m-a lăsat bărbatul. De unde eşti?</p>
+                  <p>         PLACIDA: Din Piemont.</p>
+                  <p>         EUGENIO: Dar bărbatul dumitale?</p>
+                  <p>         PLACIDA: Tot din Piemont.</p>
+                  <p>         EUGENIO: Ce făcea acasă la el?</p>
+                  <p>         PLACIDA: Ţinea socotelile la un negustor.</p>
+                  <p>         EUGENIO: Şi de ce-a plecat?</p>
+                  <p>         PLACIDA: Fiindcă nu-i plăcea să muncească.</p>
+                  <p>         EUGENIO: Asta e o boală pe care am avut-o şi eu şi nu m-am lecuit încă.</p>
+                  <p>         PLACIDA: Domnule, vă rog, ajutaţi-mă! Chiar acum am ajuns la Veneţia. Nu ştiu unde să mă duc, nu cunosc pe nimeni, n-am bani, sunt disperată.</p>
+                  <p>         EUGENIO: De ce-ai venit la Veneţia?</p>
+                  <p>         PLACIDA: Să-l caut pe ticălosul ăla de bărbatu-meu.</p>
+                  <p>         EUGENIO: Cum îl cheamă?</p>
+                  <p>         PLACIDA: Flaminio Ardenţi.</p>
+                  <p>         EUGENIO: N-am auzit niciodată de numele ăsta.</p>
+                  <p>         PLACIDA: Mi-e teamă că şi l-a schimbat.</p>
+                  <p>         EUGENIO: Dă o raită prin oraş şi s-ar putea să-l găseşti, dacă-i aici.</p>
+                  <p>         PLACIDA: Fuge, dacă mă vede.</p>
+                  <p>         EUGENIO: Uite ce-ar trebui să faci: suntem în carnaval, pune-ţi o mască, aşa ai putea să-l găseşti mai uşor.</p>
+                  <p>         PLACIDA: Dar cum să fac treaba asta dacă n-am pe nimeni care să mă ajute? Nu ştiu nici măcar unde să trag.</p>
+                  <p>         EUGENIO (aparte): Am înţeles. Mai c-aş pleca şi eu în pelerinaj. (Către Placida.) Dacă vrei, aici e un han bun.</p>
+                  <p>         PLACIDA: Cu ce curaj să mă duc la han, dacă n-am nici cu ce să-mi plătesc dormitul?</p>
+                  <p>         EUGENIO: Draga mea, dacă vrei o jumătate de ducat, pot să ţi-l dau eu. (Aparte.) Tot ce mi-a rămas de la joc.</p>
+                  <p>         LUCIDA: Mulţumesc pentru milostenie, dar mai mult decât de jumătatea de ducat, mai mult decât de bani aş avea nevoie de sprijinul dumneavoastră.</p>
+                  <p>         EUGENIO (aparte): Nu vrea jumătate de ducat, vrea mai mult…</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 15</head>
+                  <p>         DON MARZIO, de la bărbier, şi cei de mai sus.</p>
+                  <p>         DON MARZIO (aparte): Eugenio cu o femeie în veşmânt de pelerinaj! Trebuie să fie ceva la mijloc! (Se aşază la cafenea, uitându-se la femeie cu lorgnon-ul.)</p>
+                  <p>         PLACIDA: Fie-vă milă, mergeţi cu mine la han şi prezentaţi-mă stăpânului, ca să nu se poarte urât cu mine şi să nu mă gonească văzându-mă singură.</p>
+                  <p>         EUGENIO: Bucuros. Merg cu dumneata. Hangiul mă cunoaşte şi, din respect pentru mine, cred că va fi cât se poate de cuviincios.</p>
+                  <p>         DON MARZIO (aparte, privind-o de la distanţă cu lorgnon-ul): Mi se pare c-am mai văzut-o.</p>
+                  <p>         PLACIDA: Vă rămân veşnic îndatorată.</p>
+                  <p>         EUGENIO: Când pot, fac bine tuturor. Dacă nu-ţi găseşti bărbatul, am să te ajut cu. Am suflet bun.</p>
+                  <p>         DON MARZIO (aparte): Ce n-aş da să aud ce vorbesc!</p>
+                  <p>         PLACIDA: Dragă domnule, mă liniştiţi cu făgăduielile dumneavoastră curtenitoare, dar n-aş vrea ca mila unui tânăr ca dumneavoastră faţă de o femeie care nu-i încă bătrână să fie greşit înţeleasă.</p>
+                  <p>         EUGENIO: Iată care e părerea mea, doamnă: dacă toţi oamenii şi-ar lua asemenea măsuri de prevedere, nimeni n-ar mai putea să facă opere de milostenie. Dacă bârfa se întemeiază pe aparenţa râului, vina bârfitorului e mai mică; dar dacă oamenii răi îşi găsesc motiv de bănuială într-o faptă bună saufăcută fără nici un gând, toată vina e a lor, şi ea nu scade meritul celui care a făcut-o. Mărturisesc că sunt şi cu om de lume, dar în acelaşi timp mă pot lăuda că sunt om cuviincios şi onorabil.</p>
+                  <p>         PLACIDA: Sentimentele unui suflet cinstit, nobil şi generos.</p>
+                  <p>         DON MARZIO (lui Eugenio): Prietene, cine e străina asta frumoasă?</p>
+                  <p>         EUGENIO (aparte): Iar vrea să-şi bage nasul peste tot. (Către Placida.) Să mergem la han.</p>
+                  <p>         PLACIDA: Vă urmez. (Intră în han cu Eugenio.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 16</head>
+                  <p>         DON MARZIO, apoi EUGENIO din han.</p>
+                  <p>         DON MARZIO: Oh, iubitul nostru domn Eugenio! Se pricepe la toate, chiar şi când e vorba de-o femeie plecată în pelerinaj! Cu siguranţă că asta e aia de anul trecut. Aş pune rămăşag că e aia care venea în fiecare scara la cafenea să ceară de pomană. Numai că eu nu i-am dat niciodată nimic. N-am cine ştie ce bani şi vreau să-i cheltuiesc cu socoteală. Băieţi, nu s-a întors Trappola? N-a adus înapoi cerceii pe care mi i-a lăsat în gaj domnul Eugenio pentru zece ţechini?</p>
+                  <p>         EUGENIO: Ce tot spune despre mine?</p>
+                  <p>         DON MARZIO: Bravo! Cu femeia plecată în pelerinaj!</p>
+                  <p>         EUGENIO: Nu poate ajuta omul o biată făptură aflată în nevoie?</p>
+                  <p>         DON MARZIO: Ba da, faci foarte bine. Nenorocita! De anul trecut şi până acum n-a găsit pe nimeni să-i dea adăpost?</p>
+                  <p>         EUGENIO: Cum de anul trecut? O cunoşti?</p>
+                  <p>         DON MARZIO: Dacă o cunosc? Şi încă cum! E-adevărat că am vederea scurtă, dar mă ajută memoria.</p>
+                  <p>         EUGENIO: Spune-mi, prietene, cine e?</p>
+                  <p>         DON MARZIO: E una care venea anul trecut aici, la cafenea, în fiecare seară, să păcălească pe unul şi pe altul.</p>
+                  <p>         EUGENIO: Dar ca spune că n-a mai fost niciodată în Veneţia!</p>
+                  <p>         DON MARZIO: Şi dumneata crezi? Prost mai eşti!</p>
+                  <p>         EUGENIO: Cea de anul trecut de unde era?</p>
+                  <p>         DON MARZIO: Din Milano.</p>
+                  <p>         EUGENIO: Asta e piemonteză.</p>
+                  <p>         DON MARZIO: A, da, aşa e, era din Piemont.</p>
+                  <p>         EUGENIO: E soţia unui anume Flaminio Ardenti.</p>
+                  <p>         DON MARZIO: Şi anul trecut ducea după ea unul care zicea că e bărbatul ei.</p>
+                  <p>         EUGENIO: Acum n-are pe nimeni.</p>
+                  <p>         DON MARZIO: Aşa e viaţa ăstora, schimbă unul pe lună!</p>
+                  <p>         EUGENIO: Dar cum poţi spune că e aceeaşi?</p>
+                  <p>         DON MARZIO: Dac-o cunosc!</p>
+                  <p>         EUGEBIO: Ai văzut-o bine?</p>
+                  <p>         DON MARZIO: Lorgnon-ul meu nu dă greş; şi pe urmă am auzit-o vorbind.</p>
+                  <p>         EUGENIO: Cum o chema pe cea de anul trecut?</p>
+                  <p>         DON MARZIO: Numele nu mi-l aduc aminte.</p>
+                  <p>         EUGENIO: Pe asta o cheamă Placida.</p>
+                  <p>         DON MARZIO: Întocmai, Placida o chema!</p>
+                  <p>         EUGENIO: Dac-aş fi sigur, i-aş zice câteva…</p>
+                  <p>         DON MARZIO: Când spun cu un lucru, poţi să-l crezi. Asta e o pelerină care dă ea găzduire, în loc să caute gazdă.</p>
+                  <p>         EUGENIO: Aşteaptă-mă, că mă întorc. (Aparte.) Vreau să ştiu adevărul! (Intră în han.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 17</head>
+                  <p>         DON MARZIO, apoi VITTORIA, mascată.</p>
+                  <p>         DON MARZIO: Ea e. Nu poate fi alta: aerul, statura, chiar şi îmbrăcămintea mi se par aceleaşi. N-am văzut-o bine la faţă, dar ea e, fără discuţie; şi-apoi, când m-a văzut, s-a şi ascuns în han.</p>
+                  <p>         VITTOR1A: Plecăciune, don Marzio… (Îşi scoate masca.)</p>
+                  <p>         DON MARZIO: O, stimată doamnă, sluga dumneavoastră…</p>
+                  <p>         VITTORIA: Nu l-aţi văzut, din întâmplare, pe soţul meu?</p>
+                  <p>         DON MARZIO: Ba da, doamnă, l-am văzut.</p>
+                  <p>         VITTORIA: Mi-aţi putea spune unde se află acum?</p>
+                  <p>         DON MARZIO: Ştiu foarte bine unde se află.</p>
+                  <p>         VITTORIA: Vă implor, spuneţi-mi!</p>
+                  <p>         DON MARZIO: Ascultaţi! (O trase la o parte.) E aici, în hanul ăsta, cu o femeie în manta de pelerinaj, una nostimă rău.</p>
+                  <p>         VITTORIA: De când e cu ca?</p>
+                  <p>         DON MARZIO: Chiar în clipa asta a picat aici; a văzut-o, a plăcut-o şi a intrat numaidecât cu ea în han.</p>
+                  <p>         VITTORIA: Om fără minte! Vrea să se facă de râsul lumii!</p>
+                  <p>         MARZIO: Cred că l-aţi aşteptat mult şi bine în noaptea asta!</p>
+                  <p>         VITTORIA: Mi-era grijă să nu i se fi întâmplat cine ştie ce nenorocire.</p>
+                  <p>         DON Marzio: Dar ce, nu e nenorocire să pierzi o sută de ţechini bani gheaţă şi treizeci pe datorie?</p>
+                  <p>         VITTORIA: A pierdut toţi banii ăştia?</p>
+                  <p>         DON MARZIO: Da! A pierdut el şi altele! Dacă toată ziua şi toată noaptea joacă ca un descreierat!</p>
+                  <p>         VITTORIA (aparte): Vai de păcatele mele! Simt că plesneşte inima-n mine!</p>
+                  <p>         DON MARZIO: Acum va trebui să dea pe mai nimica bucăţica aia depostav pe care-o mai are, şi-apoi gata.</p>
+                  <p>         VITTORIA: Sper că nu s-a ruinat încă!</p>
+                  <p>         DON MARZIO: Dacă şi-a amanetat totul!</p>
+                  <p>         VITTORIA: Iertaţi-mă, dar nu-i adevărat.</p>
+                  <p>         DON MARZIO: Mie-mi spuneţi?</p>
+                  <p>         VITTORIA: Eu ar trebui să ştiu mai bine ca dumneavoastră.</p>
+                  <p>         DON MARZIO: Dacă mi-a dat mie în gaj… Gata! Sunt un om de onoare, nu vreau să spun mai mult.</p>
+                  <p>         VITTORIA: Spuneţi-mi, vă rog, ce-a amanetat? S-ar putea să nu ştiu.</p>
+                  <p>         DON MARZIO: Ei, lasă, c-aveţi o mândreţe de bărbat.</p>
+                  <p>         VITTORIA: Îmi spuneţi ce-a pus în gaj?</p>
+                  <p>         DON MARZIO: Sunt om de onoare şi nu spun nimic!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 18</head>
+                  <p>         TRAPPOLA, cu cutia cu cerceii, şi cei de mai înainte.</p>
+                  <p>         TRAPPOLA: Ei, am sosit… Giuvaergiul a zis… (Aparte.) Vai! Ce văd? Nevasta domnului Eugenio! Nu vreau să mă audă.</p>
+                  <p>         DON MARZIO (încet, lui Trappola): Ei, ce-a zis giuvaergiul?</p>
+                  <p>         TRAPPOLA (încet, lui don Marzio): A zis c-or fi costat ei mai mult de zece ţechini, dar el nu i-ar lua pe atâta.</p>
+                  <p>         DON MARZIO (către Trappola): Va să zică nu sunt acoperit?</p>
+                  <p>         TRAPPOLA (lui don Marzio): Mă tem că nu.</p>
+                  <p>         DON MARZIO (către Vittoria): Vedeţi ce pungăşii face bărbatul dumneavoastră? Îmi dă cerceii ăştia zălog pentru zece ţechini, şi ei nu fac nici şase.</p>
+                  <p>         VITTORIA: Ăştia sunt cerceii mei.</p>
+                  <p>         DON MARZIO: Daţi-mi zece ţechini şi vi-i dau.</p>
+                  <p>         VITTORIA: Fac mai mult de treizeci.</p>
+                  <p>         DON MARZIO: Ei, treizeci de cepe degerate! Parcă n-aţi şti.</p>
+                  <p>         VITTORIA: Păstraţi-i până mâine şi vă găsesc eu zece ţechini.</p>
+                  <p>         DON MARZIO: Până mâine? Nu vă bateţi joc de mine! Mă duc să-i arăt tuturor giuvaergiilor din Veneţia.</p>
+                  <p>         VITTORIA: Cel puţin nu spuneţi că sunt ai mei, să nu mă fac de râs.</p>
+                  <p>         DON MARZIO: Ce-mi pasă mic că vă faceţi de râs? Cine nu vrea să se ştie, să nu amaneteze! (Iese.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 19</head>
+                  <p>         VITTORIA şi TRAPPOLA.</p>
+                  <p>         VITTORIA: Ce gură spartă! Şi ce prost-crescut! Trappola, unde ţi-e stăpânul?</p>
+                  <p>         TRAPPOLA: Nu ştiu, acum am venit.</p>
+                  <p>         VITTORIA: Va să zică bărbatul meu a jucat toată noaptea?</p>
+                  <p>         TRAPPOLA: Unde l-am lăsat aseară, acolo l-am găsit şi azi-dimineaţă.</p>
+                  <p>         VITTORIA: Blestemată patimă! Şi a pierdut o sută treizeci de ţechini?</p>
+                  <p>         TRAPPOLA: Aşa se zice.</p>
+                  <p>         VITTORLA: Ticălos joc! Şi acum îşi pierde vremea cu o străină, nu?</p>
+                  <p>         TRAPPOLA: Da, doamnă, trebuie să fie cu ea. L-am văzut de multe ori dându-i târcoale; s-o fi dus în casă.</p>
+                  <p>         VITTORIA: Mi s-a spus că străina asta abia a venit.</p>
+                  <p>         TRAPPOLA: Nu, doamnă, să tot fie o lună de când a venit.</p>
+                  <p>         VITTORIA: Nu e vorba de-o pelerină?</p>
+                  <p>         TRAPPOLA: La naiba, pelerină! Aţi greşit, se termină tot în „ină”, dar e balerină.</p>
+                  <p>         VITTORIA: Şi stă aici la han?</p>
+                  <p>         TRAPPOLA: Nu, doamnă, sta aici, în casa asta. (Arată casa.)</p>
+                  <p>         VITTORIA: Aici? Dar don Marzio mi-a spus că e la han c-o pelerină!</p>
+                  <p>         TRAPPOLA: Asta-i bună! Mai e şi-o pelerină?</p>
+                  <p>         VITTORIA: Pe lângă pelerină mai e şi-o balerină? Una aici, şi alta colo?</p>
+                  <p>         TRAPPOLA: Da, doamnă, o fi vrând să navigheze mereu cu vântul în pupa. După cum suflă vântul: de la miazănoapte, sau de la miazăzi.</p>
+                  <p>         VITTORIA: Şi o să ducă mereu viaţa asta? Un bărbat ca el, cu mintea şi priceperea lui, să-şi piardă vremea cu ticăloşii, să-şi toace averea şi să-şi ducă de râpă casa? Şi eu să rabd? Să mă las batjocorită fără să spun nimic? Ei, oi fi eu bună, dar proastă nu sunt! Nu vreau ca din pricina tăcerii mele să continue cu prostiile! Am să vorbesc. Am să-i spun ce cred, şi dacă vorbele nu folosesc, am să recurg la judecată.</p>
+                  <p>         TRAPPOLA: Aşa e, aveţi dreptate. Uitaţi-l că vine de la han.</p>
+                  <p>         VITTORIA: Prietene, lasă-mă singură.</p>
+                  <p>         TRAPPOLA: Poftiţi! Faceţi cum vreţi! (Intră în prăvălie.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 20</head>
+                  <p>         VITTORIA, apoi EUGENIO, care vine de la han.</p>
+                  <p>         VITTORIA: Ca să-i fie surpriza şi mai mare, am să-mi pun masca. (Se maschează.)</p>
+                  <p>         EUGENIO: Nu ştiu ce să cred: ea neagă, şi el se ţine tare. Ştiu că don Marzio are o limbă păcătoasă, dar nici pe femeile astea care umblă singure nu le poţi crede. O măscuţă? Aşa de dimineaţă? Eşti mută? Vrei o cafea? Vrei ceva? Porunceşte!</p>
+                  <p>         VITTORIA (îşi scoate masca): N-am nevoie de cafea, ci de pâine.</p>
+                  <p>         EUGENIO: Cum! Ce cauţi aici?</p>
+                  <p>         VITTORIA: M-a împins deznădejdea.</p>
+                  <p>         EUGENIO: Ce înseamnă asta? La ora asta, mascată?</p>
+                  <p>         VITTORIA: Te miri, nu? Frumoasă pierdere de vreme! Mascată la ora asta!</p>
+                  <p>         EUGENIO: Du-te imediat acasă!</p>
+                  <p>         VITTORIA: Eu să mă duc acasă, şi tu să rămâi să te distrezi!</p>
+                  <p>         EUGENIO: Tu t duci acasă, şi eu rămân unde-mi place.</p>
+                  <p>         VITTORIA: Frumoasă viaţă, domnule soţ!</p>
+                  <p>         EUGENIO: Mai puţină flecăreală, doamnă, şi du-te acasă, că e mai bine.</p>
+                  <p>         VITTORIA: Da, mă duc acasă, dar acasă la mine, nu acasă la tine.</p>
+                  <p>         EUGENIO: Adică unde?</p>
+                  <p>         VITTORIA: La tata, care e scârbit de felul în care te porţi cu mine şi va şti să-ţi ceară socoteală şi pentru purtarea ta, şi pentru zestrea mea.</p>
+                  <p>         EUGENIO: Bravo, doamnă, bravo! Asta e marea dragoste pe care mi-o porţi, asta e grija pe care-o ai faţă de mine şi de bunul meu nume?!</p>
+                  <p>         VITTORIA: Am auzit eu spunându-se că neomenia ucide dragostea. Cât am suferit, cât am plâns, dar acum nu mai pot.</p>
+                  <p>         EUGENIO: La urma urmei, ce ţi-am făcut?</p>
+                  <p>         VITTORIA: Toată noaptea la cărţi.</p>
+                  <p>         EUGENIO: Cine ţi-a spus c-am jucat?</p>
+                  <p>         VITTORIA: Mi-a spus don Marzio c-ai pierdut o sută de ţechini bani gheaţă şi treizeci pe datorie.</p>
+                  <p>         EUGENIO: Nu-l crede, nu-i adevărat.</p>
+                  <p>         VITTORIA: Şi pe urmă te-ai mai şi dus la han cu pelerina.</p>
+                  <p>         EUGENIO: Asta cine ţi-a mai spus-o?</p>
+                  <p>         VITTORIA: Don Marzio.</p>
+                  <p>         EUGENIO (aparte): Fir-ai al dracului să fii! (Către Vittoria.) Crede-mă, nu-i adevărat!.</p>
+                  <p>         VITTORIA: Şi pe deasupra ai amanetat şi lucrurile mele; să-mi iei o pereche de cercei şi să nu-mi spui nimic? Să faci asemenea lucruri unei soţii iubitoare, cuviincioase şi cinstite ca mine?</p>
+                  <p>         EUGENIO: Cum ai aflat de cercei?</p>
+                  <p>         VITTORIA: Mi-a spus don Marzio.</p>
+                  <p>         EUGENIO: Ah, i-aş smulge limba din gură!</p>
+                  <p>         VITTORIA: Acum o spune don Marzio, dar or s-o spună toţi, că mâine poimâine ai să fii ruinat, iar eu vreau să-mi pun zestrea la adăpost mai înainte de-a se întâmpla aşa ceva.</p>
+                  <p>         EUGENIO: Vittoria, dacă m-ai iubi, n-ai vorbi aşa.</p>
+                  <p>         VITTORIA: Te iubesc chiar prea mult… Dacă nu te-aş fi iubit atâta, ar fi fost mai bine pentru mine.</p>
+                  <p>         EUGENIO: Vrei să pleci la tatăl tău?</p>
+                  <p>         VITORIA: Da, sigur că vreau.</p>
+                  <p>         EUGENIO: Nu vrei să mai stai cu mine?</p>
+                  <p>         VITTORIA: Am să stau când o să-ţi vină mintea Ia cap.</p>
+                  <p>         EUGENIO (enervat): Oh, deşteapta lumii, nu mă mai pisa atâta!</p>
+                  <p>         VITTORIA: Taci, să nu facem scene pe stradă!</p>
+                  <p>         EUGENIO: Dacă ai ţine la bunul tău nume, n-ai veni să te iei la ceartă cu bărbatul tău într-o cafenea.</p>
+                  <p>         VITTORIA: N-avea grijă, n-am să mai vin.</p>
+                  <p>         EUGENIO: Haide, pleacă de-aici!</p>
+                  <p>         VITTORIA: Plec, te ascult, fiindcă o soţie cinstită trebuie să asculte chiar şi de un soţ nechibzuit. Poate c-ai să oftezi după mine când n-ai să mă mai poţi vedea. Şi poate c-ai să-ţi strigi pe nume soţia iubită când n-are să-ţi mai poată răspunde şi nici n-are să te mai poată ajuta. De dragostea mea n-ai de ce te plânge. Am făcut tot ce putea face o femeie îndrăgostită de bărbatul ei. Mi-ai răspuns cu nerecunoştinţă; dar nu-i nimic. Am să te plâng de departe, dar n-am să mai fiu mereu jignită de purtările tale. Ara să te iubesc mereu, dar n-ai să mă mai vezi niciodată. (Iese.)</p>
+                  <p>         EUGENIO: Biata femeie! M-a înduioşat. O spune, dar nu e în stare s-o facă. Am s-o urmez de la distanţă şi am s-o iau cu binele. Dacă-şi ia zestrea, sunt ruinat. Dar n-are inima să facă una ca asta. Când nevasta e înfuriată, o mai giugiuleşti puţin şi i-a trecut. (Iese.)</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Actul II</head>
+               <div type="div3">
+                  <head>         SCENA 1</head>
+                  <p>         RIDOLFO, din stradă, apoi TRAPPOLA, din fundul prăvăliei.</p>
+                  <p>         RIDOLFO: Ei, băieţi, unde sunteţi?</p>
+                  <p>         TRAPPOLA: Aici, stăpâne!</p>
+                  <p>         RIDOLFO: Lăsaţi prăvălia singură, ai?</p>
+                  <p>         TRAPPOLA: Eram aici, cu ochiul atent şi urechea trează. Şi-apoi ce-aţi vrea să fure? După tejghea nu intră nimeni.</p>
+                  <p>         RIDOLFO: Pot să fure ceşcuţele. Îi ştiu eu pe unii care-şi fac colecţie de ceşcuţe, şterpelindu-le una câte una de pe la negustori.</p>
+                  <p>         TRAPPOLA: Ca ăia care se duc pe la recepţii numai ca să-şi facă provizii de ceşti şi farfurioare.</p>
+                  <p>         RIDOLFO: Domnul Eugenio a plecat?</p>
+                  <p>         TRAPPOLA: Vai, dac-aţi şti! A venit nevastă-sa. Şi ce plânsete, şi ce vaiete! Barbarule, trădătorule, hainule! Când drăgăstoasă, când mânioasă. A spus atâtea, că l-a înduioşat.</p>
+                  <p>         WDOLFO: Şi unde s-a dus?</p>
+                  <p>         TRAPPOLA: Ce întrebare! Azi-noapte n-a fost acasă, nevastă-sa a venit să-l caute, şi mai întrebaţi unde s-a dus?</p>
+                  <p>         RIDOLFO: N-a lăsat nici o vorbă?</p>
+                  <p>         TRAPPOLA: S-a întors pe uşa din dos şi mi-a spus să aveţi grijă de postav, pentru că n-are nici un ban.</p>
+                  <p>         RIDOLFO: Am vândut amândouă bucăţile de postav cu treisprezece lire cotul. Şi am luat toţi banii, dar nu vreau să ştie. Nu vreau să-i dau toţi odată, pentru că, dacă pune mâna pe ei, într-o zi îi dă gata!</p>
+                  <p>         TRAPPOLA: Când o să afle c-aţi luat banii, o să-i vrea numaidecât.</p>
+                  <p>         RIDOLFO: N-am să-i spun că i-am luat. Am să-i dau cât îi trebuie, şi restul cu socoteală.</p>
+                  <p>         TRAPPOLA: Uitaţi-l că vine. Lupus est în fabula.</p>
+                  <p>         RIDOLFO: Ce înseamnă latineasca asta?</p>
+                  <p>         TRAPPOLA: Înseamnă: Lupul e în papură. (Intră în prăvălie râzând.)</p>
+                  <p>         RIDOLFO: Caraghios mai e şi ăsta! Vrea să vorbească latineşte şi el nici limba lui n-o ştie!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 2</head>
+                  <p>         RIDOLFO şi EUGENIO.</p>
+                  <p>         EUGENIO: Ei, prietene Ridolfo, ai făcut ceva?</p>
+                  <p>         HIDOLFO: Am făcut.</p>
+                  <p>         EUGENIO: Ştiu c-ai luat bucăţile de postav; mi-a spus băiatul. Le-ai vândut?</p>
+                  <p>         RIDOLFO: Le-am vândut.</p>
+                  <p>         EUGENIO: Cu cât?</p>
+                  <p>         RIDOLFO: Cu treisprezece lire cotul.</p>
+                  <p>         EUGENIO: Sunt mulţumit. Şi banii?</p>
+                  <p>         RIDOLFO: O parte în mână, o parte mai târziu.</p>
+                  <p>         EUGENIO: Vai de mine! Câţi în mână?</p>
+                  <p>         RIDOLFO: Patruzeci de ţechini.</p>
+                  <p>         EUGENIO: Ei, nu-i râu nici atât. Dă-mi-i, că pică la ţanc.</p>
+                  <p>         RIDOLFO: Încet, domnule Eugenio. Înălţimea-voastră ştie doar că i-am împrumutat treizeci de ţechini.</p>
+                  <p>         EUGENIO: Bine, îi iei când o să ţi se dea restul.</p>
+                  <p>         RIDOLFO: Mă iertaţi, dar asta nu-i cinstit din partea dumneavoastră. Ştiţi cât de repede v-am servit, de bunăvoie şi fără nici un interes, şi acuma vreţi să mă lăsaţi s-aştept? Am şi eu nevoie de banii mei.</p>
+                  <p>         EUGENIO: Da, ai dreptate. Iartă-mă, ai dreptate. Ţine-ţi treizeci de ţechini şi dă-mi mie zece.</p>
+                  <p>         RIGOLFO: Cu ăştia zece ţechini nu vreţi să-l plătiţi pe don Marzio? Nu vreţi să scăpaţi odată de diavolul ăsta care vă chinuie?</p>
+                  <p>         EUGINIO: Are gaj la mână, o s-aştepte.</p>
+                  <p>         RIDOLFO: Aşa de puţin vă preţuiţi înălţimea-voastră bunul renume? Să vă lăsaţi terfelit de gura unui flecar? De unul care face servicii numai ca să se laude că le-a făcut şi care n-are altă plăcere decât să arunce cu noroi în oamenii cinstiţi?</p>
+                  <p>         EUGENIO: Adevărat, trebuie să-l plătesc. Dar să rămân fără un ban? Ce termen i-ai dat cumpărătorului?</p>
+                  <p>         RIDOLFO: Câţi bani v-ar trebui?</p>
+                  <p>         EUGENIO: Ştiu eu? Zece sau doisprezece ţechini.</p>
+                  <p>         RIDOLI-O: Vă servesc numaidecât, poftiţi zece ţechini, iar când vine don Marzio răscumpăr cerceii.</p>
+                  <p>         EUGENIO: Şi ăştia zece ţechini în ce condiţii mi-i dai?</p>
+                  <p>         RIDOLFO: Luaţi-i şi gata. Când o veni vremea, ne socotim noi.</p>
+                  <p>         EUGENIO: Şi restul de la postav când îl luăm?</p>
+                  <p>         RIDOLFO: Nu vă mai gândiţi la el, cheltuiţi banii ăştia şi-apoi mai găsim noi… numai să-i cheltuiţi cum trebuie, să nu-i aruncaţi pe fereastră!</p>
+                  <p>         EUGENIO: Da, prietene, îţi rămân îndatorat, şi păstrează-ţi ceea ce ţi se cuvine din banii de pe postav.</p>
+                  <p>         RIDOLFO: Mă miră că vorbiţi aşa… Eu sunt cafegiu, nu samsar. Iar dacăfac un serviciu unui prieten, nu-l fac din interes. Fiecare om are datoria să-l ajute pe celălalt atunci când poate, şi cu în primul rând am datoria să vă ajut, drept recunoştinţă pentru binele pe care mi l-a făcut tatăl dumneavoastră. Mă socotesc răsplătit îndeajuns dacă banii ăştia, căpătaţi pe cale cinstită, vor fi cheltuiţi în folosul casei dumneavoastră, spre cinstea şi respectul persoanei dumneavoastră.</p>
+                  <p>         EUGENIO: Eşti un om tare îndatoritor şi cumsecade; păcat numai că ai asemenea meserie; ţi s-ar cuveni o situaţie mai bună şi o avere mai mare.</p>
+                  <p>         RUDOLFO: Mă mulţumesc cu ce mi-a dăruit Cerul şi nu mi-aş schimba situaţia cu mulţi alţii care au o faţadă mult mai arătoasă, dar cheag mai de loc. Mie, la rangul meu, nu-mi lipseşte nimic. Am o meserie cinstită, din breasla meşteşugarilor, o meserie curată, demnă şi la locul ei. O meserie care ajunge să placă tuturor oamenilor atunci când e făcută cu demnitate şi cuviinţă. O meserie care a devenit necesară pentru prestigiul oricărui oraş, pentru sănătatea oamenilor şi pentru distracţia cinstită a celor care vor să se odihnească o clipă. (Intră, în prăvălie.)</p>
+                  <p>         EUCENIO: Iată un om care ştie ce vrea. N-aş vrea totuşi să se spună că e prea deştept. De fapt, pentru un cafegiu, s-ar părea că spune prea multe, dar în toate meseriile există oameni capabili şi cinstiţi. La urma urmei, nu vorbeşte nici de filosofie, nici de matematică… vorbeşte ca un om cu judecată… De-ar da Dumnezeu să am şi eu atâta câtă are el!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 3</head>
+                  <p>         CONTELE LEANDRO, ieşind din casa Lisaurei, şi EUGENIO.</p>
+                  <p>         LEANDRO: Domnule Eugenio, uite banii dumitale, sunt toţi aici, în punga asta; dacă vrei să ţi-i dau înapoi, să mergem.</p>
+                  <p>         EUGENIO: Nu mai joc… n-am pic de noroc.</p>
+                  <p>         LEANDRO: Nu ştii proverbul: o dată aleargă câinele, altă dată iepurele?</p>
+                  <p>         EUGENIO: Numai că eu sunt mereu iepurele, şi dumneata mereu câinele.</p>
+                  <p>         LEANDRO: Mi-e un somn de nu te văd. Nici n-am să pot ţine cărţile în mână, dar patima asta blestemată mă face să nu-mi pese dacă pierd, numai să joc.</p>
+                  <p>         EUGENIO: Şi mie mi-e somn. Azi nu mai joc în nici un caz.</p>
+                  <p>         LEANDRO: Nu-i nimic dacă n-ai bani, mi-e de-ajuns cuvântul dumitale.</p>
+                  <p>         EUGENIO: Crezi că n-am bani? (Arătă punga cu cei zece ţechini) Am aici zece ţechini, dar nu vreau să joc.</p>
+                  <p>         LEANDRO: Să jucăm măcar pe-o ciocolată.</p>
+                  <p>         EUGENIO: N-am chef.</p>
+                  <p>         LEANDRO: Pe-o ciocolată, te rog.</p>
+                  <p>         EUGENIO: Dar dacă-ţi spun…</p>
+                  <p>         LEANDRO: Numai pe-o ciocolată, şi cine-o vrea să joace pe mai mult,pierde un ducat.</p>
+                  <p>         EUGENIO: Fie, pe-o ciocolată, haide. (Aparte.) Tot nu mă vede Ridolfo.</p>
+                  <p>         LEANDRO: S-a prins mierla-n laţ! (Intră cu Eugenio în tripou.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 4</head>
+                  <p>         DON MARZIO, apoi RIDOLFO, din prăvălie.</p>
+                  <p>         DON MARZIO: Toţi giuvaergiii spun că nu merită zece ţechini. Toţi se minunează că Eugenio m-a tras pe sfoară. Nu poţi să mai faci un bine. Nu mai dau nimănui un ban să-l văd crăpând. Unde dracu' o mai fi şi ăsta? S-o fi ascuns, ca să nu-mi plătească!</p>
+                  <p>         RIDOLFO: Domnule, sunt la dumneavoastră cerceii domnului Eugenio?</p>
+                  <p>         DON MARZIO: Uite-i! Splendorile astea de cercei care nu fac nici cât o ceapă degerată; m-a tras pe sfoară. A fugit, derbedeul, ca să nu-mi plătească. E falit, e falit!</p>
+                  <p>         RIDOLFO: Iată banii, domnule, şi nu mai faceţi gălăgie; aveţi aici zece ţechini, aşa că daţi-mi, vă rog, cerceii.</p>
+                  <p>         DON MARZIO (se uită la bani cu lorgnon-ul): Sunt ţechini adevăraţi?</p>
+                  <p>         RIDOLFO: Eu zic că da… şi, dacă nu, aici mă găsiţi.</p>
+                  <p>         DONMARZIO: Îi dai de la dumneata?</p>
+                  <p>         RIDOLFO: Eu n-am nici un amestec, sunt banii domnului Eugenio.</p>
+                  <p>         DON MARZIO: Cum de i-a găsit?</p>
+                  <p>         RIDOLFO: Nu sunt la curent cu afacerile dumnealui.</p>
+                  <p>         DON MARZIO: I-a câştigat la cărţi?</p>
+                  <p>         RIDOLFO: V-am spus că nu ştiu.</p>
+                  <p>         DON MARZIO: Ah, dacă stau şi mă gândesc, trebuie să fi vândut postavul. Da, da, a vândut postavul, i l-a vândut jupân Pandolfo.</p>
+                  <p>         RIDOLFO: Fie ca dumneavoastră; luaţi banii şi daţi-mi, vă rog, cerceii.</p>
+                  <p>         DON MARZIO: Ţi i-a dat domnul Eugenio, sau ţi i-a dat Pandolfo?</p>
+                  <p>         RIDOLFO: Oh, că vorbă lungă mai sunteţi! Îi vreţi, sau nu-i vreţi?</p>
+                  <p>         DON MARZIO: Dă-i încoa', dă-i încoa'… Săracul postav! L-o fi dat pe nimica toată!</p>
+                  <p>         RIDOLFO: Îmi daţi cerceii?</p>
+                  <p>         DON MARZIO: Trebuie să-i duci lui?</p>
+                  <p>         RIDOLFO: Lui!</p>
+                  <p>         DON MARZIO: Lui sau nevesti-sii?</p>
+                  <p>         RIDOLFO (cu nerăbdare): Lui sau nevesti-sii.</p>
+                  <p>         DON MARZIO: El unde-i?</p>
+                  <p>         RIDOLFO: Nu ştiu.</p>
+                  <p>         DON MARZIO: Va să zică îi duci nevesti-si?</p>
+                  <p>         RIDOLFO: Îi duc nevesti-si.</p>
+                  <p>         DON MARZIO: Merg şi eu.</p>
+                  <p>         RIDOLFO: Daţi-mi-i mie şi gata. Sunt un om de onoare.</p>
+                  <p>         DON MARZIO: Să mergem, să mergem să-i ducem nevesti-si. (Porneşte.)</p>
+                  <p>         RIDOLFO: Ştiu să merg şi singur.</p>
+                  <p>         DON MARZIO: Vreau să-i fac chiar eu serviciul ăsta. Să mergem, să mergem. (Iese.)</p>
+                  <p>         RIDOLFO: Când vrea ceva, n-o mai scoţi la capăt cu el! Băieţi, aveţi grijă de prăvălie! (Îl urmează.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 5</head>
+                  <p>         BĂIEŢII în prăvălie, şi EUGENIO, din tripou.</p>
+                  <p>         EUGENIO: Blestemată soartă! I-am pierdut pe toţi. Pentru o ciocolată am pierdut zece ţechini. Dar purtarea lui mă supără mai mult decât pierderea. Să mă momească, să-mi ia toţi banii, şi apoi să nu mă creadă pe cuvânt? Acuma chiar că sunt jignit… acuma da, m-aş prinde să joc şi până mâine. Zică Ridolfo ce-o vrea, trebuie să-mi dea alţi bani. Băieţi, unde-i stăpânul?</p>
+                  <p>         BĂIATUL: A plecat chiar în clipa asta.</p>
+                  <p>         EUGENIO: Unde-a plecat?</p>
+                  <p>         BĂIATUL: Nu ştiu, domnule!</p>
+                  <p>         EUGENIO: Afurisit om! Unde dracu' s-o fi dus? (În uşa tripoului.) Domnule conte, aşteaptă-mă, că mă întorc numaidecât. Trebuie să-l găsesc pe blestematul ăsta de Ridolfo. (Se pregăteşte să plece.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 6</head>
+                  <p>         PANDOLFO, de pe stradă, şi EUGENIO.</p>
+                  <p>         PANDOLFO: Încotro, domnule Eugenio, aşa înfierbântat?</p>
+                  <p>         EUGENIO: L-ai văzut pe Ridolfo?</p>
+                  <p>         PANDOLFO: Eu nu.</p>
+                  <p>         EUGENIO: N-ai făcut nimic cu postavul?</p>
+                  <p>         PANDOLFO: Ba da, am făcut.</p>
+                  <p>         EUGENIO: Bravo, ce-ai făcut?</p>
+                  <p>         PANDOLFO: Am găsit un cumpărător, dar cu greu! L-au văzut mai bine de zece, dar toţi dau preţ mic.</p>
+                  <p>         EUGENIO: Cumpărătorul ăsta cât vrea să dea?</p>
+                  <p>         PANDOLFO: Abia l-am înduplecat să-mi dea opt lire pe cot.</p>
+                  <p>         EUGENIO: Ce dracu' spui? Opt lire cotul? Ridolfo mi-a vândut două bucăţi cu treisprezece lire.</p>
+                  <p>         PANDOLFO: Banii pe loc?</p>
+                  <p>         EUGENIO: O parte pe loc, şi restul mai târziu.</p>
+                  <p>         PANDOLFO: Frumoasă negustorie! Şi restul mai târziu! Eu vă aduc toţi banii grămadă. Câţi coţi de postav, atâţia ducaţi veneţieni de argint.</p>
+                  <p>         EUGENIO (aparte): Ridolfo nu mă vede. Vreau bani, sunt jignit…</p>
+                  <p>         PANDOLFO: Dacă-l dădeaţi pe datorie, îl vindeam şi cu şaisprezece lire. Dar bani gheaţă, în ziua de azi, când poţi să-i iei, îi iei numaidecât.</p>
+                  <p>         EUGENIO: Dar pe mine mă costă zece lire.</p>
+                  <p>         PANDOLFO: Ce-are a face dacă pierdeţi două lire la cotul de postav, când aveţi bani ca să vă faceţi interesele şi să răscumpăraţi şi ce-aţi pierdut?</p>
+                  <p>         EUGENIO: Nu s-ar putea un preţ mai bun? Să-l dăm cu cât m-a costat?</p>
+                  <p>         PANDOLFO: Nu e nădejde nici de o para în plus.</p>
+                  <p>         EUGENIO (aparte): De nevoie trebuie să fac şi aşa. (Tare.) Haide, fă ce-i de făcut!</p>
+                  <p>         PANDOLFO: Daţi-mi o hârtie pentru bucăţile alea două de postav, şi în jumătate de oră vă aduc banii.</p>
+                  <p>         EUGENIO: Numaidecât. Băieţi, aduceţi-mi de scris!</p>
+                  <p>         (Băieţii aduc măsuţa cu tot ce trebuie pentru scris.)</p>
+                  <p>         PANDOLFO: Scrieţi-i omului dumneavoastră de încredere să-mi dea bucăţile de postav pe care le-am însemnat.</p>
+                  <p>         EUGENIO: Foarte bine, pentru mine e totuna. (Scrie.)</p>
+                  <p>         PANDOLFO (aparte): Tii, ce haină frumoasă o să-mi fac!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 7</head>
+                  <p>         RIDOLFO, din stradă, şi cei de mai înainte.</p>
+                  <p>         RIDOLFO (aparte): Domnul Eugenio serie în înţelegere cu jupân Pandolfo. Nu-mi prea miroase-a bine.</p>
+                  <p>         PANDOLFO (aparte, văzându-l pe Ridolfo): N-aş vrea să-mi pună ăsta beţe-n roate tocmai acum!</p>
+                  <p>         RIDOLFO: Domnule Eugenio, sluga dumneavoastră.</p>
+                  <p>         EUGENIO (continuând să scrie): Oh, te salut.</p>
+                  <p>         RIDOLFO: Afaceri, afaceri, domnule Eugenio? Afaceri?</p>
+                  <p>         EUGENIO (scriind): O mică afacere.</p>
+                  <p>         RIDOLFO: Pot să aflu şi cu despre ce-i vorba?</p>
+                  <p>         EUGENIO: Vezi ce înseamnă să dai marfa pe datorie? Nu pot să mă bucur de bunul meu; am nevoie de bani şi trebuie să arunc pe gârlă alte două bucăţi de postav.</p>
+                  <p>         PANDOLFO: Nu le aruncaţi pe gârlă, ci le vindeţi aşa cum se poate.</p>
+                  <p>         RIDOLFO: Cât vă dă pe cot?</p>
+                  <p>         EUGENIO: Mi-e şi ruşine să spun. Opt lire.</p>
+                  <p>         PANDOLFO: Dar banii pe loc.</p>
+                  <p>         RIDOLFO: Şi înălţimea-voastră vrea să-şi dea marfa de pomană?</p>
+                  <p>         EUGENIO: Dacă nu pot altfel?! Am nevoie de bani.</p>
+                  <p>         PANDOLFO: Şi nu-i uşor să găseşti bani de la o oră la alta.</p>
+                  <p>         RIDOLFO (lui Eugenio): Cât v-ar trebui?</p>
+                  <p>         EUGENIO: Ce? Poţi să-mi dai?</p>
+                  <p>         PANDOLFO (aparte): Să vezi că ăsta îmi strică toate socotelile!</p>
+                  <p>         RIDOLFO: Dacă v-ar ajunge şase sau şapte galbeni, i-aş găsi.</p>
+                  <p>         EUGENIO: Ei, lasă! Nu mai umbla cu fleacuri! Am nevoie de bani.</p>
+                  <p>         PANDOLFO (aparte): Slavă domnului!</p>
+                  <p>         RIDOLFO: Staţi un pic! Cât luaţi pe cele două bucăţi de postav la opt lire cotul?</p>
+                  <p>         EUGENIO: Să facem socoteala. Bucăţile măsoară şaizeci de coţi una; de două ori şaizeci, o sută douăzeci. O sută douăzeci de ducaţi de argint.</p>
+                  <p>         ANDOLFO: Dar mai e şi comisionul.</p>
+                  <p>         RIDOLFO (lui Pandolfo): Cine ia comisionul?</p>
+                  <p>         PANDOLFO (lui Ridolfo): Eu, domnule, cu.</p>
+                  <p>         RIDOLFO: Foarte bine. O sută douăzeci de ducaţi de argint a opt lire unul câţi ţechini fac?</p>
+                  <p>         EUGENIO: Unsprezece ducaţi fac patru ţechini. De zece ori unsprezece – o sută zece, şi încă unsprezece – o sută douăzeci şi unu. De patru ori unsprezece, patruzeci şi patru. Patruzeci şi patru de ţechini fără un ducat. Patruzeci şi trei de ţechini şi paisprezece lire, bani veneţieni.</p>
+                  <p>         PANDOLFO: Să zicem patruzeci de ţechini. Mărunţişul merge la comision.</p>
+                  <p>         RIDOLFO: Şi cei trei ţechini tot mărunţiş sunt?</p>
+                  <p>         PANDOLFO: Sigur, dar banii pe loc.</p>
+                  <p>         EUGENIO: Bine, bine, n-are a face. Sunt ai dumitale.</p>
+                  <p>         RIDOLFO (aparte): Vai, ce pungaş! (Tare.) Să facem acuma socoteala, domnule Eugenio, cât aduc cele două bucăţi de postav cu treisprezece lire cotul?</p>
+                  <p>         EUGENIO: Oh, aduc mult mai mult.</p>
+                  <p>         PANDOLFO: Dar trebuie să aştepte şi nu-şi poate face interesele.</p>
+                  <p>         RIDOLFO: Să facem socoteala.</p>
+                  <p>         EUGENIO: O fac acum, cu condeiul. O sută douăzeci de coţi, cu treisprezece lire cotul. Trei ori zero: doi ori trei – şase; unu ori trei; unu ori zero; unu ori doi; unu ori unu; total: zero, şase, doi plus trei – cinci; unu. O mie cinci sute şaizeci de lire.</p>
+                  <p>         RIDOLFO: Câţi ţechini fac?</p>
+                  <p>         EUGENIO: Îţi spun numaidecât. (Socoteşte.) Şaptezeci de ţechini şi douăzeci de lire.</p>
+                  <p>         RIDOLFO: Fără comision.</p>
+                  <p>         EUGENIO: Fără comision.</p>
+                  <p>         PANDOLFO: Dar să-i aştepte cine ştie cât. Nu da vrabia din mână pe cioara din par.</p>
+                  <p>         RIDOLFO: Până acum v-am dat: întâi treizeci de ţechini, pe urmă zece, fac patruzeci; zece de la cerceii pe care i-am luat îndărăt, fac cincizeci. Va săzică v-am dat până acum cu zece ţechini mai mult decât vă dă pe loc, în mână, grămadă, acest preacinstit domn cămătar!</p>
+                  <p>         PANDOLFO (aparte): Lua-te-ar dracu'!</p>
+                  <p>         EUGENIO: E-adevărat, ai dreptate, dar acum am nevoie de bani.</p>
+                  <p>         RIDOLFO: Aveţi nevoie de bani? Poftiţi bani: douăzeci de ţechini şi douăzeci de lire, atât cât a mai rămas din cei şaptezeci de ţechini şi douăzeci de lire, costul celor o sută douăzeci de coţi de postav, cu treisprezece lire cotul, fără un ban comision, pe loc, în mână, grămadă, fără pungăşie, fără tragere pe sfoară, fără ticăloşii şi şarlatanii.</p>
+                  <p>         EUGENIO: Dacă e aşa, dragă Ridolfo, îţi mulţumesc din toată inima; ba, mai mult, rup hârtia asta. (Către Pandolfo) Iar de la dumneata, domnule samsar, nu-mi mai trebuie nimic!</p>
+                  <p>         PANDOLFO (Aparte): Dracu' l-a adus aici! S-a dus haina mea. (Tare.) Bine, n-are a face, m-am ostenit de pomană.</p>
+                  <p>         EUGENIO: Îmi pare rău că te-ai ostenit atâta.</p>
+                  <p>         PANDOLFO: Măcar să beau un rachiu.</p>
+                  <p>         EUGENIO: Stai, ia ducatul ăsta. (Scoate un ducat din punga pe care i-a dat-o Ridolfo.)</p>
+                  <p>         PANDOLFO: Vă rămân îndatorat. (Aparte.) Tot o să-mi cadă în mână!</p>
+                  <p>         RIDOLFO (aparte): Ia te uită cum îşi aruncă banii!</p>
+                  <p>         PANDOLFO (lui Eugenio): Îmi mai porunciţi ceva?</p>
+                  <p>         EUGENIO: Bunăvoinţa dumitale.</p>
+                  <p>         PANDOLFO (îi face semn dacă vrea să joace, aşa ca să nu vadă Ridolfo): Vreţi?</p>
+                  <p>         EUGENIO (şi el pe ascuns de Ridolfo): Du-te, că vin…</p>
+                  <p>         PANDOLFO (aparte): Îi joacă şi pe ăştia înainte de masă. (Se duce în prăvălie şi apoi iese din nou.)</p>
+                  <p>         EUGENIO: Cum ai făcut, Ridolfo? Te-ai întâlnit aşa de repede cu datornicul? Ţi-a dat numaidecât banii?</p>
+                  <p>         RIDOLFO: Ca să vă spun adevărul, îi aveam în buzunar de la început, dar nu voiam să vi-i dau pe toţi, ca să nu-i aruncaţi atât de repede pe gârlă.</p>
+                  <p>         EUGENIO: Să ştii că mă nedreptăţeşti vorbind astfel; nu mai sunt copil. Ei, gata… unde sunt cerceii?</p>
+                  <p>         RIDOLFO: Drăguţul de don Marzio, după ce i-am dat cei zece ţechini, a vrut cu tot dinadinsul să ducă cerceii singur, cu mâna lui, doamnei Vittoria.</p>
+                  <p>         EUGENIO: Ai vorbit cu nevastă-mea?</p>
+                  <p>         RIDOLFO: Sigur c-am vorbit. M-am dus şi eu cu don Marzio.</p>
+                  <p>         EUGENIO: Ce spune?</p>
+                  <p>         RIDOLFO: Plânge tot timpul, sărăcuţa! Ţi se rupe inima de milă.</p>
+                  <p>         EUGENIO: Dac-ai şti ce furioasă era pe mine! Voia să se întoarcă la taică-său, voia să-şi ia zestrea înapoi, voia să facă lucruri mari.</p>
+                  <p>         RIDOLFO: Şi cum aţi împăcat-o?</p>
+                  <p>         EUGENIO: Cu câteva dezmierdări.</p>
+                  <p>         RIDOLFO: Se vede că vă iubeşte şi e tare bună la suflet!</p>
+                  <p>         EUGENIO: Dar când se mânie e ca o fiară.</p>
+                  <p>         RIDOLFO: Nu trebuie să vă purtaţi urât cu ea. E o doamnă de familie bună, cu educaţie aleasă. M-a rugat să vă spun, dacă vă văd, să vă duceţi devreme la masă.</p>
+                  <p>         EUGENIO: Da, da, mă duc chiar acum.</p>
+                  <p>         RIDOLFO: Dragă domnule Eugenio, vă rog, lăsaţi jocul şi ocupaţi-vă de lucruri mai serioase, nu vă pierdeţi vremea după fuste… Când înălţimea-voastră are o nevastă tânără, frumoasă, iubitoare, ce vreţi mai mult?</p>
+                  <p>         EUGENIO: Bine-ai grăit, îţi mulţumesc din suflet!</p>
+                  <p>         (Pandolfo îţi suflă nasul cu zgomot din prăvălia lui, aşa ca Eugenio să-l audă şi să se uite la el; Eugenio se întoarce; Pandolfo îi face semn că Leandro îl aşteaptă să joace; Eugenio face semn cu mâna că va veni; Pandolfo se întoarce în prăvălie; Ridolfo nu observă nimic.)</p>
+                  <p>         RIDOLFO: Eu v-aş sfătui să vă duceţi acum acasă. Nu mai e mult până la prânz. Duceţi-vă şi mângâiaţi-vă nevestica!</p>
+                  <p>         EUGENIO: Da, mă duc numaidecât. Ne vedem mai încolo.</p>
+                  <p>         RIDOLFO: Dacă vă pot fi de vreun folos, porunciţi-mi!</p>
+                  <p>         EUGENIO: Îţi rămân foarte îndatorat. (Ar vrea să se ducă la cărţi, dar se teme să nu-l vadă Ridolfo.)</p>
+                  <p>         RIDOLFO: Nu-mi porunciţi nimic? N-aveţi nevoie de nimic?</p>
+                  <p>         EUGENIO: De nimic, de nimic. La revedere.</p>
+                  <p>         RIDOLFO: Sluga dumneavoastră! (Se întoarce spre prăvălia lui.)</p>
+                  <p>         (Eugenio, văzând că Ridolfo nu-l observă, intră în tripou.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 8</head>
+                  <p>         RIDOLFO, apoi DON MARZIO.</p>
+                  <p>         RIDOLFO: Nădăjduiesc că, încetul cu încetul, am să-l aduc pe drumul cel bun. Cineva ar putea să-mi spună: de ce-ţi baţi cu un tânăr care nu ţi-e rudă, care nu ţi-e nimic? Ei şi? Parcă la un prieten nu poţi ţine? Nu poţi face un serviciu unei familii faţă de care te simţi îndatorat? Meseria asta a noastră nu-ţi cerc cine ştie ce osteneală. Şi mulţi îşi irosesc timpul de prisos jucând cărţi sau vorbindu-şi de râu aproapele. Eu îl folosesc făcând câte o faptă bună, dacă pot.</p>
+                  <p>         DON MARZIO: Tii, ce dobitoc! Ce dobitoc! Ce măgar!</p>
+                  <p>         RIDOLFO: Cine v-a supărat, don Marzio?</p>
+                  <p>         DON MARZIO: Ia ascultă numai, Ridolfo, dacă vrei sa râzi! Un doctor susţine că apa caldă e mai sănătoasă decât apa rece.</p>
+                  <p>         RIDOLFO: Dumneavoastră nu sunteţi de părerea asta?</p>
+                  <p>         DON MARZIO: Apa caldă slăbeşte stomacul.</p>
+                  <p>         RIDOLFO: Sigur, înmoaie fibra.</p>
+                  <p>         DON MARZIO: Ce-i aia fibră?</p>
+                  <p>         RIDOLFO: Am auzit că în stomacul nostru sunt două fibre, aşa, ca doi nervi, care macină mâncarea, şi când fibrele astea două îşi încetinesc mersul, mistuirea e proastă.</p>
+                  <p>         DON MARZIO: Da, domnule, apa caldă înmoaie ventricolul, iar sistola şi diastola nu mai pot macină hrana.</p>
+                  <p>         RIDOLFO: Ce-are a face stomacul cu sistola şi cu diastola?</p>
+                  <p>         DON MARZIO: Ce ştii tu, care eşti un prostovan? Sistola şi diastola sunt cele două fibre care macină hrana din stomac.</p>
+                  <p>         RIDOLFO (aparte): Vai, ce mai bazaconii! Trappola al meu e nimic pe lângă el!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 9</head>
+                  <p>         LISAURA, la fereastră, şi cei de mai înainte.</p>
+                  <p>         DON MARZIO (lui Ridolfo): Ei, ce zici? Persoana cu uşa din dos.</p>
+                  <p>         RIDOLFO: Cu îngăduinţa dumneavoastră mă duc să-mi văd de cafenea. (Intră în prăvălie.)</p>
+                  <p>         DON MARZIO: Ăsta e un prostovan care vrea să rămână repede fără prăvălie. (Lisaurei, privind-o din când în când cu obişnuitul lui lorgnon). Sluga dumneavoastră, doamnă!</p>
+                  <p>         LISAURA: Slugă preaplecată.</p>
+                  <p>         DON MARZIO: Sunteţi sănătoasă?</p>
+                  <p>         LISAURA: Mulţumesc, sănătoasă.</p>
+                  <p>         DON MARZIO: De când nu l-aţi mai văzut pe contele Leandro?</p>
+                  <p>         LISAURA: Să fie un ceas.</p>
+                  <p>         MARZIO: Contele e prietenul meu.</p>
+                  <p>         LISAURA: Îmi pare bine.</p>
+                  <p>         DON MARZIO: Ce om de onoare!</p>
+                  <p>         LISAURA: Sunteţi foarte bun.</p>
+                  <p>         DON MARZIO: E soţul dumneavoastră?</p>
+                  <p>         LISAURA: Nu discut de la fereastră despre viaţa mea.</p>
+                  <p>         DON MARZIO: Deschideţi, deschideţi, să discutăm.</p>
+                  <p>         LISAURA: Iertaţi-mă, nu primesc vizite.</p>
+                  <p>         DON MARZIO: Vorbă să fie!</p>
+                  <p>         LISAURA: V-am spus: nu primesc.</p>
+                  <p>         DON MARZIO: Vin pe uşa din dos.</p>
+                  <p>         LISAURA: Şi dumneavoastră visaţi la uşa din dos? Nu deschid nimănui.</p>
+                  <p>         DON MARZIO: Nu mă luaţi pe mine cu lucruri de-astea. Ştiu foarte bine că pe acolo-i aduceţi.</p>
+                  <p>         LISAURA: Eu sunt femeie cinstită.</p>
+                  <p>         DON MARZIO: Vreţi nişte castane pisate? (Le scoate din buzunar.)</p>
+                  <p>         LISAURA: Vă foarte mulţumesc.</p>
+                  <p>         DON MARZIO: Sunt bune, să ştiţi. Le pisez la mine, la moşie.</p>
+                  <p>         LISAURA: Se vede că vă pricepeţi tare bine la pisat.</p>
+                  <p>         DON MARZIO: De ce?</p>
+                  <p>         LISAURA: Pentru că mă pisaţi şi pe mine.</p>
+                  <p>         DON MARZIO: Bravo! Glumeaţă! Dacă ştiţi să faceţi piruete dintr-astea, înseamnă că sunteţi o bună balerină.</p>
+                  <p>         LISAURA: Nu vă priveşte pe dumneavoastră dacă sunt bună sau nu.</p>
+                  <p>         DON MARZIO: La drept vorbind, mă doare-n cot.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 10</head>
+                  <p>         PLACIDA, în veşmânt de pelerinaj, la fereastra hanului, şi cei de mai înainte.</p>
+                  <p>         PLACIDA (aparte): Nu-l mai văd pe domnul Eugenio!</p>
+                  <p>         DON MARZIO (Lisaurei, după ce s-a uitat la Placida cu lorgnon-ul): Ei! Aţi văzut-o pe pelerină?</p>
+                  <p>         LISAURA: Asta cine mai e?</p>
+                  <p>         DON MARZIO: Una din alea cu care-ţi pierzi vremea.</p>
+                  <p>         LISAURA: Şi hangiul primeşte astfel de femei?</p>
+                  <p>         DON MARZIO: E întreţinută.</p>
+                  <p>         LISAURA: De cine?</p>
+                  <p>         DON MARZIO: De domnul Eugenio.</p>
+                  <p>         LISAURA: De un bărbat însurat? Frumos!</p>
+                  <p>         DON MARZIO: Anul trecut şi-a făcut de cap.</p>
+                  <p>         LISAURA (retrăgându-se): Sluga dumneavoastră.</p>
+                  <p>         DON MARZIO: Plecaţi?</p>
+                  <p>         LISAURA: Nu pot sta la fereastră când în faţa mea se află o femeie cu o asemenea purtare. (Se retrage.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 11</head>
+                  <p>         PLACIDA, la fereastră, DON MARZIO, în stradă.</p>
+                  <p>         DON MARZIO: Ei, asta-i bună! Balerina fuge de frică să nu-şi piardă reputaţia! (Uitându-se cu lorgnon-ul) Doamnă pelerină, vă salut cu plecăciunc!</p>
+                  <p>         PLACIDA: Slugă credincioasă.</p>
+                  <p>         DON MARZIO: Unde e domnul Eugenio?</p>
+                  <p>         PLACIDA: Îl cunoaşteţi pe domnul Eugenio?</p>
+                  <p>         DON MARZIO: A, suntem prieteni buni. Adineauri am fost la nevasta lui.</p>
+                  <p>         PLACIDA: Va să zică domnul Eugenio are nevastă?</p>
+                  <p>         DON MARZIO: Sigur că are nevasta, dar îi place să-şi piardă vremea şi cufetele frumoase. Ai văzut-o pe doamna de la fereastră?</p>
+                  <p>         PLACIDA: Am văzut-o. A avut delicateţea să-mi închidă fereastra în nas fără un cuvânt, după ce s-a uitat bine la mine.</p>
+                  <p>         DON MARZIO: E una care trece drept balerină, dar… mă înţelegeţi…</p>
+                  <p>         PLACIDA: Nu-i mare lucru de capul ci, nu-i aşa?</p>
+                  <p>         DON MARZIO: Ba aşa e. Şi domnul Eugenio e unul din protectorii ei.</p>
+                  <p>         PLACIDA: Şi are nevastă?</p>
+                  <p>         DON MARZIO: Şi încă frumoasă.</p>
+                  <p>         PLACIDA: Tineri desfrânaţi se găsesc peste tot.</p>
+                  <p>         DON MARZIO: V-a dat cumva de înţeles că e neînsurat?</p>
+                  <p>         PLACIDA: Mie puţin îmi pasă dacă e sau nu e.</p>
+                  <p>         DON MARZIO: Sunteţi o femeie care nu se pierde cu firea. Îl luaţi aşa cum e.</p>
+                  <p>         PLACIDA: Pentru ce-mi trebuie mie, totuna mi-e.</p>
+                  <p>         DON MARZIO: Da, se înţelege. Azi unul, mâine altul.</p>
+                  <p>         PLACIDA: Ce vreţi să spuneţi? Explicaţi-vă!</p>
+                  <p>         DON MARZIO: Nu vreţi nişte castane pisate? (Le scoate din buzunar.)</p>
+                  <p>         PLACIDA: Foarte îndatorată.</p>
+                  <p>         DON MARZIO: Serios, dacă vreţi, vi le dau!</p>
+                  <p>         PLACIDA: Sunteţi foarte generos, domnule.</p>
+                  <p>         DON MARZIO: E drept că, pentru meritele dumneavoastră, o pungă cu castane nu e mare lucru. Dacă vreţi, pot să mai adaug la castane şi două lire.</p>
+                  <p>         PLACIDA: Măgar prost-crescut! (Închide fereastra şi pleacă.)</p>
+                  <p>         DON MARZIO: Nu catadicseşte cu două lire, da' anul trecut se mulţumea şi cu mai puţin… (Strigă.) Ridolfo!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 12</head>
+                  <p>         RIDOLFO şi DON MARZIO.</p>
+                  <p>         RIDOLFO: Domnule?</p>
+                  <p>         DON MARZIO: Secetă de femei. Nu mai catadicsesc cu două lire.</p>
+                  <p>         RIDOLFO: Dumneavoastră le puneţi pe toate într-o oală.</p>
+                  <p>         DON MARZIO: De-astea care vântură lumea? Nu dau doi bani pe ele.</p>
+                  <p>         RIDOLFO: Vântură lumea şi oameni cumsecade.</p>
+                  <p>         DON MARZIO: O pelerină? Taci, caraghiosule!</p>
+                  <p>         RIDOLFO: Nu putem şti cine este.</p>
+                  <p>         DON MARZIO: Eu ştiu. E aia de anul trecut.</p>
+                  <p>         RIDOLFO: Eu n-am mai văzut-o.</p>
+                  <p>         DON MARZIO: Pentru că eşti un nătărău.</p>
+                  <p>         RIDOLFO: Mulţumesc pentru curtenia dumneavoastră! (Aparte.) Ce i-aş mai scărmăna peruca aia!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 13</head>
+                  <p>         EUGENIO, de la tripou, şi cei de mai înainte.</p>
+                  <p>         EUGENIO (vesel şi zâmbitor): Sluga dumneavoastră, domnii mei.</p>
+                  <p>         RIDOLFO: Cum? Domnul Eugenio aici?</p>
+                  <p>         EUGENIO (râzând): Sigur, aici sunt.</p>
+                  <p>         DON MARZIO: Ai câştigat?</p>
+                  <p>         EUGENIO: Da, domnule, am câştigat… da, domnule!</p>
+                  <p>         DON MARZIO: O, ce minune!</p>
+                  <p>         EUGENIO: Ce mare lucru? Eu adică nu pot să câştig? Ce sunt cu? Vreun tâmpit?</p>
+                  <p>         RIDOLFO: Domnule Eugenio, asta e promisiunea că nu mai jucaţi?</p>
+                  <p>         EUGENIO: Taci din gură! Am câştigat.</p>
+                  <p>         RIDOLFO: Şi dacă pierdeaţi?</p>
+                  <p>         EUGENIO: Azi nu puteam să pierd.</p>
+                  <p>         RIDOLFO: Nu? De ce?</p>
+                  <p>         EUGENIO: Când e să pierd, simt cu.</p>
+                  <p>         RIDOLFO: Şi când simţiţi, de ce jucaţi?</p>
+                  <p>         EUGENIO: Pentru că trebuie să pierd.</p>
+                  <p>         RIDOLFO: Şi acasă când vă duceţi?</p>
+                  <p>         EUGENIO: Ei, ştii c-ai început să mă plictiseşti?</p>
+                  <p>         RIDOLFO: Nu mai zic nimic. (Aparte.) Vai de vorbele mele!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 14</head>
+                  <p>         LEANDRO, din tripou, şi cei de mai înainte.</p>
+                  <p>         LEANDRO: Bravo, bravo, mi-a luat banii şi, dacă nu mă opream, mă curăţa!</p>
+                  <p>         EUGENIO: Ei? Sunt sau nu cineva? Numai ce am tăiat de trei ori şi l-am şi dat gata.</p>
+                  <p>         LEANDRO: Curajul disperatului.</p>
+                  <p>         EUGENIO: Curajul jucătorului.</p>
+                  <p>         DON MARZIO (lui Leandro): Cât ţi-a luat?</p>
+                  <p>         LEANDRO: Destul.</p>
+                  <p>         DON MARZIO (lui Eugenio): Ei, hai, spune cât ai câştigat?</p>
+                  <p>         EUGENIO (vesel): Încă şase ţechini…</p>
+                  <p>         RIDOLFO (aparte): Bată-l Dumnezeu de smintit! De ieri-scară pân-acum a pierdut o sută treizeci şi i se pare c-a pus mâna pe-o comoară dacă a câştigat şase!</p>
+                  <p>         LEANDRO (aparte): Ca să-l momeşti, trebuie să-l laşi să mai câştige şi el din când în când.</p>
+                  <p>         DON MARZIO (lui Eugenio): Ce ai de gând să faci cu ăştia şase.</p>
+                  <p>         EUGENIO: Dacă vreţi să-i mâncăm, sunt gata.</p>
+                  <p>         DON MARZIO: Să-i mâncăm atunci.</p>
+                  <p>         RIDOLFO (aparte): Vai, săraca osteneala mea!</p>
+                  <p>         EUGENIO: Mergem la han. Fiecare îşi plăteşte partea lui.</p>
+                  <p>         RIDOLFO (încet, lui Eugenio): Nu vă duceţi. O să vă tragă iar la joc.</p>
+                  <p>         EUGENIO (încet, lui Ridolfo): Lasă-i în pace, astăzi am mână bună.</p>
+                  <p>         RIDOLFO (aparte): Râul n-are leac.</p>
+                  <p>         LEANDRO: În loc să mai mergem la han, ar putea să ne pregătească masa aici, sus, în camerele lui jupân Pandolfo.</p>
+                  <p>         EUGENIO: Da, unde vreţi. Poruncim masa la han şi ne-o aduce acolo, sus.</p>
+                  <p>         DON MARZIO: Cu voi, care sunteţi oameni de onoare, merg oriunde.</p>
+                  <p>         RIDOLFO (aparte): Neghiobul! Nu-şi dă seama!</p>
+                  <p>         LEANDRO: Hei, jupân Pandolfo!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 15</head>
+                  <p>         PANDOLFO şi cei de mai înainte.</p>
+                  <p>         PANDOLFO: Aici sunt, la poruncă!</p>
+                  <p>         LEANDRO: Vrei să ne împrumuţi camerele dumitale ca să mâncăm?</p>
+                  <p>         PANDOLFO: La porunca dumneavoastră, dar, vedeţi, şi eu… plătesc chirie…</p>
+                  <p>         LEANDRO: Se înţelege, plătim şi pentru osteneală.</p>
+                  <p>         EUGENIO: Cu cine crezi că ai de-a face? Plătim tot.</p>
+                  <p>         PANDOLFO: Foarte bine, poftiţi. Mă duc să fac curăţenie. (Intră în tripou.)</p>
+                  <p>         EUGENIO: Ei, cine se duce să comande?</p>
+                  <p>         LEANDRO (lui Eugenio): S-ar cuveni să faci dumneata treaba asta, eşti mai învăţat cu oraşul.</p>
+                  <p>         DON MARZIO (lui Eugenio): Da, du-te dumneata.</p>
+                  <p>         EUGENIO: Ce să comand?</p>
+                  <p>         LEANDRO: Ce vrei!</p>
+                  <p>         EUGENIO: Dar ştiţi vorba cântecului: Veselie nu-i în viaţă când femeia nu-i de faţă!</p>
+                  <p>         RIDOLFO (aparte): Mai vrea şi femei pe lângă toate celelalte!</p>
+                  <p>         DON MARZIO: Domnul conte ar putea să-şi aducă balerina.</p>
+                  <p>         LEANDRO: De ce nu? Între prieteni mi-e uşor s-o fac să vină.</p>
+                  <p>         DON MARZIO (lui Leandro): E adevărat că vrei s-o iei de nevastă?</p>
+                  <p>         LEANDRO: Nu e momentul să vorbim de asta.</p>
+                  <p>         EUGENIO: Iar eu voi încerca s-o aduc pe pelerină.</p>
+                  <p>         LEANDRO: Cine e pelerina asta?</p>
+                  <p>         EUGENIO: O femeie cinstită şi cu bun-simţ.</p>
+                  <p>         DON MARZIO (aparte): Da, da, las' că-i spun eu cum stau lucrurile.</p>
+                  <p>         LEANDRO: Hai, du-te să comanzi de mâncare.</p>
+                  <p>         EUGENIO: Câţi suntem? Noi trei şi două femei fac cinci. Don Marzio, dumneata ai vreo iubită?</p>
+                  <p>         DON MARZIO: Eu nu. Sunt cu voi.</p>
+                  <p>         EUGENIO: Ridolfo, vino şi dumneata să iei o îmbucătură cu noi.</p>
+                  <p>         RIDOLFO: Mulţumesc, eu trebuie să-mi văd de prăvălie.</p>
+                  <p>         EUGENIO: Ei, haide, nu te lăsa rugat.</p>
+                  <p>         RIDOLFO (încet, lui Eugenio): Cum de-aveţi inima să faceţi o treabă ca asta?</p>
+                  <p>         EUGENIO: Ce să fac? Am câştigat şi vreau să mă veselesc.</p>
+                  <p>         RIDOLFO: Şi pe urmă?</p>
+                  <p>         EUGENIO: Pe urmă, salutare! La viitor se gândesc astrologii. (Intră, în han.)</p>
+                  <p>         RIDOLFO (aparte): Ce să fac? M-am ostenit degeaba! (Se retrage.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 16</head>
+                  <p>         DON MARZIO şi CONTELE LEANDRO.</p>
+                  <p>         DONMARZIO: Hai, du-te şi ia-ţi balerina.</p>
+                  <p>         LEANDRO: Când o fi totul gata, o aduc.</p>
+                  <p>         DON MARZIO: Să stăm jos. Ce mai e nou prin lume?</p>
+                  <p>         LEANDRO: Pe mine noutăţile mă lasă rece. (Se aşază.)</p>
+                  <p>         DON MARZIO: Ştiai că trupele moscovite s-au retras să ierneze?</p>
+                  <p>         LEANDRO: Bine-au făcut. Aşa cere anotimpul.</p>
+                  <p>         DON MARZIO: Ba nu, domnule, rău au făcut; nu trebuiau să părăsească poziţiile ocupate.</p>
+                  <p>         LEANDRO: Aşa e. Trebuiau să sufere de frig, ca să nu piardă ce-au cucerit.</p>
+                  <p>         DON MARZIO: Ba nu, domnule, nu trebuiau să rămână acolo cu riscul de-a muri îngheţaţi.</p>
+                  <p>         LEANDRO: Atunci trebuiau să meargă înainte.</p>
+                  <p>         DON MARZIO: Ba nu, domnule; grozav te pricepi la război! Să mărşăluiască pe timp de iarnă?</p>
+                  <p>         LEANDRO: Atunci… ce trebuiau să facă?</p>
+                  <p>         DON MARZIO: Să mă uit pe hartă şi-am să-ţi spun unde anume trebuiau să se ducă.</p>
+                  <p>         LEANDRO (aparte): Mare ţicnit!</p>
+                  <p>         DON MARZIO: Ai fost la operă?</p>
+                  <p>         LEANDRO: Da, domnule.</p>
+                  <p>         DON MARZIO: Îţi place?</p>
+                  <p>         LEANDRO: Foarte mult.</p>
+                  <p>         DON MARZIO: Ai gusturi proaste.</p>
+                  <p>         LEANDRO: Ce să-i faci!</p>
+                  <p>         DON MARZIO: De unde eşti?</p>
+                  <p>         LEANDRO: Din Torino.</p>
+                  <p>         DON MARZIO: Urât oraş!</p>
+                  <p>         LEANDRO: Dimpotrivă, trece drept unul dintre oraşele frumoase ale Italici.</p>
+                  <p>         DON MARZIO: Eu sunt napolitan. Să vezi Napoli, şi-apoi să mori.</p>
+                  <p>         LEANDRO: Ţi-aş răspunde ca veneţianul: dar inima să-ţi bată!</p>
+                  <p>         DON MARZIO: Ai tutun?</p>
+                  <p>         LEANDRO (deschide cutia): Poftim!</p>
+                  <p>         DON MARZIO: Vai, ce prost tutun!</p>
+                  <p>         LEANDRO: Mie aşa-mi place.</p>
+                  <p>         DON MARZIO: Nu te pricepi. Adevăratul tutun e cel pisat.</p>
+                  <p>         LEANDRO: Mie-mi place tabacul spaniol.</p>
+                  <p>         DON MARZIO: Tabacul spaniol e o porcărie!</p>
+                  <p>         LEANDRO: Ba eu zic că e cel mai bun din lume.</p>
+                  <p>         DON MARZIO (ţipând): Cum? Vrei să mă înveţi pe mine ce e tutunul? Eu mi-l fac şi singur, mi-l comand când de ici, când de colo, aşa că ştiu cum e unul, şi ştiu şi cum e altul. (Ţipând tare.) Pisat, pisat, trebuie să fie pisat!</p>
+                  <p>         LEANDRO (tare şi el): Da, pisat, pisat, pisat aşa e; cel mai bun e tutunul pisat.</p>
+                  <p>         DON MARZIO: Ba nu, domnule! Cel mai bun tutun nu e întotdeauna cel pisat. Trebuie să ştii să alegi; habar n-ai ce vorbeşti!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 17</head>
+                  <p>         EUGENIO, care se întoarce de la han, şi cei de mai înainte.</p>
+                  <p>         EUGENIO: Ce-i gălăgia asta?</p>
+                  <p>         DON MARZIO: Când e vorba de tutun, nu mă dau bătut.</p>
+                  <p>         LEANDRO (lui Eugenio): Ce se-aude cu masa?</p>
+                  <p>         EUGENIO: E gata numaidecât.</p>
+                  <p>         DON MARZIO: Pelerina vine?</p>
+                  <p>         EUGENIO: Nu vrea să vină.</p>
+                  <p>         DON MARZIO: Haide, domnule ageamiu la tutun, du-te şi-ţi ia doamna.</p>
+                  <p>         LEANDRO: Mă duc. (Aparte.) Dacă face aşa la masă, îi dau cu sticla-n cap. (Bate la uşa balerinei)</p>
+                  <p>         DON MARZIO: N-ai cheile?</p>
+                  <p>         LEANDRO: Nu, domnule. (I se deschide şi intră.)</p>
+                  <p>         DON MARZIO (lui Eugenio): O fi având-o pe aia de la uşa din dos.</p>
+                  <p>         EUGENIO: Îmi pare rău că pelerina nu vrea să vină.</p>
+                  <p>         DON MARZIO: O fi vrând să fie rugată.</p>
+                  <p>         EUGENIO: Zice că n-a mai fost în viaţa ei la Veneţia.</p>
+                  <p>         DON MARZIO: Mie nu mi-ar putea spune aşa ceva.</p>
+                  <p>         EUGENIO: Eşti sigur că e tot aia?</p>
+                  <p>         DON MARZIO: Nici nu mai încape vorbă; şi, pe urmă, mai adineauri, am vorbit cu ea şi voia să-mi deschidă… Dar n-am intrat, ca să nu-mi jignesc prietenul.</p>
+                  <p>         EUGENIO: Ai vorbit cu ea?</p>
+                  <p>         DON MARZIO: Ba bine că nu!</p>
+                  <p>         EUGENIO: Te cunoştea?</p>
+                  <p>         DON MARZIO: Cine nu mă cunoaşte? Mă cunosc toţi ca pe-un cal breaz!</p>
+                  <p>         EUGENIO: Atunci uite ce să faci: du-te şi ad-o dumneata.</p>
+                  <p>         DON MARZIO: Dacă mă duc eu, intră la bănuieli. Uite ce să faci: aşteaptă să fie masa pusă, du-te de-o ia şi, fără să-i spui nimic, ad-o aici.</p>
+                  <p>         EUGENIO: Am făcut tot ce-am putut, dar mi-a spus în faţă că nu vrea să vină.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 18</head>
+                  <p>         CHELNERI de la han aduc feţe de masă, şervete, farfurii, tacâmuri, vin, pâine, pahare şi mâncăruri în prăvălia lui Pandolfo; vin şi se întorc de mai multe ori; apoi LEANDRO, LISAURA şi cei de mai înainte.</p>
+                  <p>         UN CHELNER: Domnilor, felul întâi vă aşteaptă. (Intră împreună cu ceilalţi în tripou.)</p>
+                  <p>         EUGENIO (lui don Marzio): Unde e contele?</p>
+                  <p>         DON MARZIO (bate tare la uşa Lisaurei): Ei, haideţi, repede, se răceşte supa!</p>
+                  <p>         LEANDRO (dând mâna Lisaurei): Iată-ne! Iată-ne!</p>
+                  <p>         EUGENIO (Lisaurei): Preaonorată stăpână…</p>
+                  <p>         DON MARZIO (Lisaurei, privind-o cu lorgnon-ul): Sclavul domniei-voastre.</p>
+                  <p>         LISAURA: Sluga dumneavoastră.</p>
+                  <p>         EUGENIO (Lisaurei): Mă bucur că ne cinstiţi cu prezenţa.</p>
+                  <p>         LISAURA: Ca să-i fac plăcere domnului conte.</p>
+                  <p>         DON MARZIO: Şi pentru noi deloc?</p>
+                  <p>         LISAURA: Pentru dumneata chiar că deloc.</p>
+                  <p>         DON MARZIO: Gând la gând. (Lui Eugenio, încet.) Nu mă cobor eu la aşa marfă!</p>
+                  <p>         EUGENIO: Haide, să mergem, că se răceşte mâncarea. (Lisaurei.) Poftiţi!</p>
+                  <p>         LISAURA: Cu îngăduinţa dumneavoastră. (Intră cu Leandro în tripou.)</p>
+                  <p>         DON MARZIO (lui Eugenio, făcându-i semn cu lorgnon-ul; apoi intră şi el în tripou): Uh, ce mai marfă! În viaţa mea n-am văzut ceva aşa de prost!</p>
+                  <p>         EUGENIO: Nici vulpii nu-i plăceau strugurii! Eu unul nu m-aş da în lături. (Intră şi el.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 19</head>
+                  <p>         RIDOLFO, din prăvălie.</p>
+                  <p>         RIDOLFO: Ia te uită la el, mai nebun ca niciodată. Chefuind cu femeile, şi nevasta lui oftează, şi nevasta lui suferă… Biata femeie! Ce milă mi-e de ea!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 20</head>
+                  <p>         EUGENIO, DON MARZIO, LEANDRO şi LISAURA în camerele tripoului, unde este pregătita masa; deschid cele trei ferestre, care se află deasupra celor trei prăvălii, şi apar cu toţii la aceste ferestre;</p>
+                  <p>         RIDOLFO, în stradă; apoi TRAPPOLA.</p>
+                  <p>         EUGENIO (la fereastră): Ah, ce aer plăcut! Şi ce soare frumos! Azi nu-i frig deloc.</p>
+                  <p>         DON MARZIO (la altă fereastră): Parc-ar fi primăvară.</p>
+                  <p>         LEANDRO (la altă fereastră): De-aici poţi vedea toată lumea care trece pe stradă.</p>
+                  <p>         LISAURA (lângă Leandro): După-masă o să vedem şi măştile.</p>
+                  <p>         EUGENIO: La masă! La masă! (Se aşază; lângă fereastră stau Eugenio şi Leandro.)</p>
+                  <p>         TRAPPOLA (lui Ridolfo): Jupâne, ce-i gălăgia asta?</p>
+                  <p>         RIDOLFO: Nebunul de domnu' Eugenio, cu don Marzio, cu contele şi balerina iau masa aici, sus, la jupân Pandolfo.</p>
+                  <p>         TRAPPOLA: Frumoasă treabă! (Iese afară şi se uită în sus. Către ferestre.) Să vă fie de bine!</p>
+                  <p>         EUGENIO (de la fereastră): Să trăieşti, Trappola!</p>
+                  <p>         TRAPPOLA: Să trăiţi! Aveţi nevoie de ajutor?</p>
+                  <p>         EUGENIO: Vii să ne dai de băut?</p>
+                  <p>         TRAPPOLA: Vă dau de băut, dacă-mi daţi de mâncare.</p>
+                  <p>         EUGENIO: Vino sus, că-ţi dăm.</p>
+                  <p>         TRAPPOLA (lui Ridolfo): Jupâne, cu îngăduinţa dumitale. (Vrea să intre în tripou, dar îl opreşte un chelner.)</p>
+                  <p>         CHELNERUL: Unde te duci?</p>
+                  <p>         TRAPPOLA: Să dau de băut stăpânilor mei.</p>
+                  <p>         CHELNERUL: N-au nevoie de tine. Avem noi grijă de asta.</p>
+                  <p>         TRAPPOLA: Am auzit eu odată că pe latineşte cârciumar înseamnă duşman. Şi-i adevărat, cârciumarii sunt duşmanii oamenilor săraci.</p>
+                  <p>         EUGENIO: Trappola, vino sus!</p>
+                  <p>         TRAPPOLA: Vin! (Către chelner, apoi intră.) Na, să crăpi de ciudă!</p>
+                  <p>         CHELNERUL: Păziţi farfuriile, să nu se atingă de resturi, că-s ale voastre. (Intră în han.)</p>
+                  <p>         RIDOLFO: Nu ştiu cum pot exista pe lume oameni atât de lipsiţi de judecată! Domnul Eugenio vrea să se ruineze, să se nenorocească cu orice preţ. Mie, care-am făcut atâta pentru el, şi ştie doar cu ce inimă şi cu câtă dragoste mă port cu el, să-mi răspundă aşa? Îşi bate joc de mine, face glume proaste! Ei, şi acuma gata… ce-am făcut am făcut cu gând bun, şi de binele făcut n-are să-mi pară râu niciodată.</p>
+                  <p>         EUGENIO (tare, în timp ce bea): Don Marzio, în sănătatea doamnei!</p>
+                  <p>         CU TOŢII: Trăiască! Trăiască!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 21</head>
+                  <p>         VITTORIA, mascată, şi cei de mai înainte.</p>
+                  <p>         Vittoria se plimba prin faţa cafenelei, uitându-se dacă nu-şi zăreşte bărbatul.</p>
+                  <p>         RIDOLFO: Masca ce doreşte? Ce porunceşte?</p>
+                  <p>         EUGENIO (bând): Trăiască prietenii adevăraţi.</p>
+                  <p>         (Vittoria aude glasul soţului ei, înaintează, priveşte în sus, îl vede şi o cuprinde neliniştea.)</p>
+                  <p>         EUGENIO: În sănătatea dumitale, mască! (Scoate mâna pe fereastră şi închină paharul spre Vittoria, pe care n-o recunoaşte.)</p>
+                  <p>         (Vittoria tremură de mânie şi clătină din cap.)</p>
+                  <p>         EUGENIO (Vittoriei, ca mai sus): Doreşti ceva? Cum ţi-e voia… Aici suntem cu toţii oameni de onoare.</p>
+                  <p>         LISAURA (de la fereastră): Cine e masca pe care vrei s-o pofteşti sus?</p>
+                  <p>         (Vittoria e aproape înnebunită.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 22</head>
+                  <p>         CHELNERII vin de la han cu alt rând de mâncare şi intră în aceeaşi prăvălie; cei de mai înainte.</p>
+                  <p>         RIDOLFO: Şi cine plăteşte? Prostul!</p>
+                  <p>         EUGENIO (Vittoriei, ca mai sus): Mască, dacă nu vrei să vii, nu face nimic! Avem aici ceva mai bun decât dumneata.</p>
+                  <p>         VITTORIA: Vai de mine, mi-e râu. Nu mai pot!</p>
+                  <p>         RIDOLFO (Vittoriei): Vă simţiţi râu?</p>
+                  <p>         VITTORIA (îşi scoate masca): Ah, Ridolfo, ajută-mă, pentru Dumnezeu!</p>
+                  <p>         RIDOLFO: Dumneavoastră eraţi?</p>
+                  <p>         VITTORIA: Eu, din păcate…</p>
+                  <p>         RIDOLFO: Să vă dau puţin lichior.</p>
+                  <p>         VITTORIA: Nu, dă-mi apă.</p>
+                  <p>         RIDOLFO: Ei, nu apă, lichior trebuie să beţi. Când sufletul e apăsat, are nevoie de ceva care să-l pună în mişcare. Veniţi, vă rog, înăuntru.</p>
+                  <p>         VITTORIA: Vreau să mă duc sus, la câinele ăla… vreau să mă omor sub ochii lui!</p>
+                  <p>         RIDOLFO: Pentru Dumnezeu, veniţi aici şi liniştiţi-vă!</p>
+                  <p>         EUGENIO (bând): Trăiască fata cea frumoasă… cu ochii dulci ca mierea!</p>
+                  <p>         VITTORIA: Îl auzi? Ticălosul! Îl auzi? Lasă-mă să mă duc!</p>
+                  <p>         RIDOLFO (o ţine): Nu vă las pentru nimic în lume să vă nenorociţi!</p>
+                  <p>         VITTORIA: Nu mai pot… Ajutor, că mor! (Cade leşinată).</p>
+                  <p>         RIDOLFO: Acum ce mă fac? (O ajută, susţinând-o cum poate.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 23</head>
+                  <p>         PLACIDA, în uşa hanului, şi cei de mai înainte.</p>
+                  <p>         PLACIDA: Oh, Dumnezeule, mi s-a părut c-aud la fereastră vocea bărbatului meu! Dacă e el, înseamnă c-am ajuns tocmai la timp ca să-l fac de ruşine! (Chelnerului care iese din tripou.) Băiete, spune-mi, te rog, cine e sus în camerele alea?</p>
+                  <p>         CHELNERUL: Trei domni. Unul e domnul Eugenio, altul e don Marzio, napolitanul, şi al treilea domnul conte Leandro Ardenti.</p>
+                  <p>         PLACIDA (aparte): Flaminio nu e printre ei; numai dacă nu şi-o fi schimbat numele.</p>
+                  <p>         LEANDRO (bând): Trăiască norocul domnului Eugenio!</p>
+                  <p>         CU TOŢII: Trăiască!</p>
+                  <p>         PLACIDA (aparte): Asta e fără doar şi poate vocea lui! (Chelnerului) Băiete dragă, fii bun şi du-mă la domnii de sus, că vreau să le fac o farsă.</p>
+                  <p>         CHELNERUL: La ordinele dumneavoastră! (Aparte.) Asta ne e meseria… (O introduce, făcând-o să treacă prin tripou.)</p>
+                  <p>         RIDOLFO (Vittoriei): Haideţi, curaj, n-o să se întâmple nimic!</p>
+                  <p>         VITTORIA (revenindu-şi): Simt că mor.</p>
+                  <p>         (De la ferestrele de sus se vede cum se ridică toţi de la masă, agitaţi din pricină că Leandro, surprins când o vede pe Placida, dă semne că ar vrea s-o omoare.)</p>
+                  <p>         EUGENIO: Nu, opreşte-te!</p>
+                  <p>         DON MARZIO: Să nu faci una ca asta!</p>
+                  <p>         LEANDRO: Pleacă de-aici!</p>
+                  <p>         PLACIDA: Ajutor, ajutor! (Fuge pe scară.)</p>
+                  <p>         (Leandro, cu spada în mână, vrea s-o urmărească; Eugenio îl opreşte. Trappola, cu o farfurie cu mâncare înfăşurată într-un şervet, sare pe fereastră şi fuge în cafenea.</p>
+                  <p>         Placida iese din tripou fugind şi intră în han.</p>
+                  <p>         Eugenio e cu arma în mână, ca s-o apere pe Placida împotriva lui Leandro, care o urmăreşte.)</p>
+                  <p>         DON MARZIO (iese încet din tripou şi fuge, zicând): Rumores fuge!</p>
+                  <p>         (Servitorii şi chelnerii ies din tripou, intră în han şi închid uşa. Vittoria rămâne în prăvălie, sub protecţia lui Ridolfo.)</p>
+                  <p>         LEANDRO (cu spada în mână, înfruntându-l pe Eugenio): La o parte! Vreau să intru în han!</p>
+                  <p>         EUGENIO: Nu, asta n-o să se întâmple. Te porţi cu nevasta ca un sălbatic, dar am s-o apăr până la ultima picătură de sânge!</p>
+                  <p>         LEANDRO: Pe Dumnezeul meu, o să regreţi! (Îl îmboldeşte pe Leandro cu spada.)</p>
+                  <p>         EUGENIO: Pe Dumnezeul meu, o să regreţi! (Îl îmboldeşte şi pe Leandro şi îl obligă să dea înapoi atâta, încât acesta, găsind deschisă uşa balerinei, intră şi scapă.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 24</head>
+                  <p>         EUGENIO, VITTORIA şi RIDOLFO.</p>
+                  <p>         EUGENIO (bravând, spre uşa balerinei): Laşule, mişelule, fugi? Te ascunzi? Ieşi afară, dacă ai curaj!</p>
+                  <p>         VITTORIA (venind în faţa lui Eugenio): Dacă vrei sânge, varsă-l pe-al meu!</p>
+                  <p>         EUGENIO: Pleacă de-aici, femeie nebună, femeie fără minte!</p>
+                  <p>         VITTORIA: Vie nu mă mai dezlipesc de line!</p>
+                  <p>         EUGENIO: Pe crucea mea, pleacă, sau fac vreo nebunie! (O ameninţă cu spada.)</p>
+                  <p>         RIDOLFO (cu arma în mână, aleargă s-o apere pe Vittoria şi se postează în faţa lui Eugenio): Stăpâne, ce-ai de gând? Crezi că dacă ai spada în mână, îi sperii pe toţi? Femeia asta nevinovată n-are pe nimeni s-o apere, dar cât voi avea o picătură de sânge în mine, am s-o apăr eu! O mai şi ameninţi. După cât ai umilit-o, o mai şi ameninţi? (Vittoriei.) Doamnă, veniţi cu mine şi nu vă temeţi de nimic.</p>
+                  <p>         VITTORIA: Nu, Ridolfo dragă, dacă bărbatul meu vrea să mă omoare,lasă-l s-o facă! Hai, omoară-mă! Câine, ucigaşule, trădătorule! Omoară-mă, nemernicule, om josnic, fără inimă, fără conştiinţă!</p>
+                  <p>         (Eugenio îşi pune spada în teacă, fără să vorbească, umilit.)</p>
+                  <p>         RIDOLFO (lui Eugenio): Ah, domnule Eugenio, văd că vă pare rău, aşa că vă cer iertare dac-am fost prea îndrăzneţ. Înălţimea-voastră ştie că vă iubesc, ştiţi ce-am făcut pentru dumneavoastră, aşa că luaţi izbucnirea mea tot ca un semn de dragoste. Biata doamnă, mi se rupe inima când o văd! E cu putinţă ca lacrimile ei să nu vă înduioşeze inima? (Eugenio îşi şterge ochii, dar nu spune nimic; încet, Vittoriei.) Uitaţi-vă, doamnă Vittoria, uitaţi-vă la domnul Eugenio! Plânge, s-a înduioşat, o să se pocăiască, o să-şi schimbe viaţa şi fiţi sigură c-o să vă iubească.</p>
+                  <p>         VITTORIA: Lacrimi de crocodil! De câte ori nu mi-a promis că-şi schimbă viaţa! De câte ori nu m-a încântat cu ochii ăştia plini de lacrimi! Nu-l mai cred; e un trădător, nu-l mai cred.</p>
+                  <p>         (Eugenio freamătă, plin de ruşine şi furie. Îşi aruncă pălăria pe jos, ca un om disperat şi, fără să spună nimic, intră în cafenea.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 25</head>
+                  <p>         VITTORIA şi RIUOLFO.</p>
+                  <p>         VITTORIA (lui Ridolfo): De ce nu vorbeşte?</p>
+                  <p>         RIUOLFO: I-e ruşine.</p>
+                  <p>         VITTORIA: Să se fi schimbat aşa, dintr-odată?</p>
+                  <p>         RIDOLFO: Cred că da. Şi să vă spun de ce: dacă dumneavoastră şi cu mine n-am fi făcut altceva decât să plângem şi să ne rugăm, s-ar fi purtat şi mai rău. Mânia şi hotărârea noastră l-au intimidat şi l-au făcut să se schimbe. Îşi recunoaşte vina, ar vrea să-şi ceară iertare şi nu ştie cum.</p>
+                  <p>         VITTORIA: Dragă Ridolfo, hai să-l mângâiem!</p>
+                  <p>         RIDOLFO: Lucrul ăsta trebuie să-l facă înălţimea-voastră, fără mine.</p>
+                  <p>         VITTORIA: Du-te dumneata întâi şi vino să-mi spui ce trebuie să fac.</p>
+                  <p>         RIDOLFO: Bucuros! Mă duc să văd. Sper că se căieşte. (Intra în cafenea.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 26</head>
+                  <p>         VITTORIA, apoi RIDOLFO.</p>
+                  <p>         VITTORIA: E ultima oară când mă mai vede plângând. Sau se căieşte, şi va fi soţul meu iubit, sau continuă, şi-atunci n-am să-l mai pot vedea în ochi!</p>
+                  <p>         RIDOLFO: Veşti proaste, doamnă Vittoria: a dispărut, a plecat pe uşiţadin dos…</p>
+                  <p>         VITTORIA: Nu ţi-am spus eu că e viclean şi încăpăţânat?</p>
+                  <p>         RIDOLFO: Eu cred c-a plecat de ruşine, încurcat, fiindcă n-a avut curaj să-şi ceară iertare.</p>
+                  <p>         VITTORIA: Ei, ştie el cu câtă uşurinţă poate fi iertat de o nevastă care-l iubeşte.</p>
+                  <p>         RIDOLFO: Vedeţi? A plecat fără pălărie. (Ia pălăria de pe jos.)</p>
+                  <p>         VITTORIA: Pentru că-i nebun.</p>
+                  <p>         RIDOLFO: Pentru că s-a zăpăcit şi nu mai ştie ce face!</p>
+                  <p>         VITTORIA: Dar dacă se căieşte, de ce să nu-mi spună şi mie?</p>
+                  <p>         RIDOLFO: N-are curaj.</p>
+                  <p>         VITTORIA: Mă amăgeşti. Ridolfo!</p>
+                  <p>         RIDOLFO: Uitaţi ce să faceţi: intraţi în cămăruţa mea; eu mă duc să-l caut şi sper să-l aduc aici… ca pe-un căţeluş.</p>
+                  <p>         VITTORIA: Ce bine ar fi să nu mai sper!</p>
+                  <p>         RIDOLFO: Mai faceţi şi de data asta cum spun eu şi cred că n-o să vă pară râu.</p>
+                  <p>         VITTORIA: Da, aşa am să fac. Te aştept în cămăruţă. Să nu zic că n-am încercat totul pentru soţul meu. Dar dacă îşi bate joc de mine, jur c-am să-mi schimb dragostea în dispreţ! (Intră în cafenea.)</p>
+                  <p>         RIDOLFO: Copil de mi-ar fi şi tot nu m-ar durea atâta! (Iese.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 27</head>
+                  <p>         LISAURA iese singură din tripou, uitându-se dacă nu e nimeni s-o vadă.</p>
+                  <p>         LISAURA: Vai! Săraca de mine, ce spaimă am tras! Ah, ce ticălos! E însurat şi mă amăgeşte că vrea să se însoare cu mine! Nu mai calcă în casa mea! Ce bine era dacă-mi vedeam de dans şi nu-mi mai venea cheful s-ajung contesă! Nouă, femeilor, ne cam place să trăim fără osteneală. (Intră în casa ei şi închide uşa.)</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Actul III</head>
+               <div type="div3">
+                  <head>         SCENA 1</head>
+                  <p>         LEANDRO, dat afară din casa Lisaurei, LISAURA.</p>
+                  <p>         LEANDRO: Aşa te porţi cu mine?</p>
+                  <p>         LISAURA (din uşă): Da, cu tine, mincinosule, impostorule!</p>
+                  <p>         LEANDRO: De ce te plângi, că mi-am părăsit nevasta din pricina ta?</p>
+                  <p>         LISAURA: Dac-aş fi ştiut că eşti însurat, nu te-aş fi primit în casa mea!</p>
+                  <p>         LEANDRO: N-am fost eu primul.</p>
+                  <p>         LISAURA: Dar ai fost ultimul!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 2</head>
+                  <p>         DON MARZIO, care priveşte cu lorgnon-ul râde de unul singur; cei de mai înainte.</p>
+                  <p>         LEANDRO: Nu ţi-ai pierdut timpul cu mine.</p>
+                  <p>         LISAURA: Da, am avut şi eu partea mea din câştigurile tale necinstite! Roşesc numai când mă gândesc… Să te duci dracului şi să nu le mai apropii de casa asta!</p>
+                  <p>         LEANDRO: Am să vin să-mi iau lucrurile.</p>
+                  <p>         (Don Marzio râde şi-şi bate joc pe ascuns de Leandro.)</p>
+                  <p>         LISAURA: Lucrurile o să ţi le dea servitoarea. (Intră şi închide uşa.)</p>
+                  <p>         LEANDRO: Mă insulţi în halul ăsta? Ai să mi-o plăteşti! (Don Marzio râde, dar când se întoarce Leandro, îşi ia o mină serioasă.) Ai văzut, prietene?</p>
+                  <p>         DON MARZIO: Ce? Eu acum am picat.</p>
+                  <p>         LEANDRO: N-ai văzut-o pe balerină în uşă?</p>
+                  <p>         don MARZIO: Nu, n-am văzut-o.</p>
+                  <p>         LEANDRO (aparte): Slavă Domnului!</p>
+                  <p>         DON MARZIO: Vino aici! Vorbeşte-mi ca un om de onoare, spune-mi tot şi fii sigur că n-o să ştie nimeni nimic. Dumneata eşti străin, ca şi mine, dar eu ştiu mai bine obiceiurile locului decât dumneata. Dacă ai nevoie de sprijin, de ajutor, de sfat şi, mai ales, de tăcere, eu sunt omul! Ai încredere în mine! Inima, şi tot zelul meu, îţi stau la dispoziţie… şi fără să afle nimeni nimic!</p>
+                  <p>         LEANDRO: Fiindcă ai bunătatea să-mi stai la dispoziţie, am să-mideschid inima în faţa dumitale, dar, pentru numele lui Dumnezeu, te rog să taci!</p>
+                  <p>         DON MARZIO: Dă-i drumul!</p>
+                  <p>         LEANDRO: Află că pelerina e nevasta mea.</p>
+                  <p>         DONMARZIO: Bun!</p>
+                  <p>         LEANDRO: Că am părăsit-o la Torino.</p>
+                  <p>         DON MARZIO (aparte, privindu-l cu lorgnon-ul): Oh, ce secătură!</p>
+                  <p>         LEANDRO: Află că nu sunt contele Leandro.</p>
+                  <p>         DON MARZIO (aparte, ca mai sus): Din ce în ce mai bine!</p>
+                  <p>         LEANDRO: Nu sunt nobil din naştere.</p>
+                  <p>         DON MARZIO: N-oi fi cumva băiatul vreunui poliţai?</p>
+                  <p>         LEANDRO: Îmi pare rău, domnule, m-am născut sărac, dar din oameni cinstiţi!</p>
+                  <p>         DON MARZIO: Ei, haide, haide, dă-i înainte.</p>
+                  <p>         LEANDRO: Eram socotitor…</p>
+                  <p>         DON MARZIO: Prea multă oboseală, nu?</p>
+                  <p>         LEANDRO: Şi, dorind să văd lumea…</p>
+                  <p>         DON MARZIO: Pe spinarea proştilor…</p>
+                  <p>         LEANDRO: Am venit la Veneţia…</p>
+                  <p>         DON MARZIO: Ca să te ţii de golănii!</p>
+                  <p>         LEANDRO: Dar dumneata mă jigneşti! Ce vorbe sunt astea?.</p>
+                  <p>         DON MARZIO: Ascultă-mă, ţi-am promis să te ajut, şi-am s-o fac; am promis să tac, şi-am să tac; dar cât suntem între noi trebuie să-mi dai voie să-ţi spun câte ceva… din dragoste.</p>
+                  <p>         LEANDRO: Vezi în ce situaţie mă aflu!. Dacă nevastă-mea mă descoperă, mi se poate întâmpla o nenorocire.</p>
+                  <p>         DON MARZIO: Şi ce ai de gând să faci?</p>
+                  <p>         LEANDRO: N-am putea s-o gonim din Veneţia?</p>
+                  <p>         DON MARZIO: Haide, haide! Se vede că eşti un ticălos!</p>
+                  <p>         LEANDRO: Ce vorbe-s astea, domnule?</p>
+                  <p>         DON MARZIO: Între noi doi… din dragoste.</p>
+                  <p>         LEANDRO: Atunci am să plec eu, numai să nu afle.</p>
+                  <p>         DON MARZIO: De la mine n-o să afle în nici un caz.</p>
+                  <p>         LEANDRO: Mă sfătuieşti să plec?</p>
+                  <p>         DON MARZIO: E cea mai bună soluţie. Pleacă numaidecât. Ia o gondolă, du-te la Fusina, ia de-acolo poştalionul şi pleacă la Ferrara.</p>
+                  <p>         LEANDRO: Am să plec chiar în seara asta; nu mai e mult până se întunecă. Mai întâi însă vreau să-mi iau cele câteva lucruri din casa balerinei.</p>
+                  <p>         DON MARZIO: Grăbeşte-te şi pleacă numaidecât. Să nu te vadă nimeni.</p>
+                  <p>         LEANDRO: Am să ies pe uşa din dos, ca să nu fiu văzut.</p>
+                  <p>         DON MARZIO (aparte): Ştiam eu, foloseşte uşa din dos!</p>
+                  <p>         LEANDRO: În primul rând te rog să păstrezi tăcerea.</p>
+                  <p>         DON MARZIO: De asta poţi să fii sigur.</p>
+                  <p>         LEANDRO: Şi te mai rog ceva; dă-i ăştia doi ţechini (Îi dă doi ţechini) şi pe urmă spune-i să plece. Scrie-mi şi mă întorc numaidecât!</p>
+                  <p>         DON MARZIO: Am să-i dau cei doi ţechini. Acuma du-te.</p>
+                  <p>         LEANDRO: Dar să fii sigur că pleacă…</p>
+                  <p>         DON MARZIO: Du-te odată, afurisitule…</p>
+                  <p>         LEANDRO: Mă goneşti?</p>
+                  <p>         DON MARZIO: Ţi-o spun din dragoste, pentru binele dumitale. Du-te, luate-ar dracu'!</p>
+                  <p>         LEANDRO (aparte): Ah, ce soi de om! Dacă îşi jigneşte prietenii, ce-o fi făcând cu duşmanii?! (Intră în casa Lisaurei)</p>
+                  <p>         DON MARZIO: Domnul conte! Ticălosul! Domnul conte! Dacă nu mi-ar fi cerut sprijin, i-aş fi rupt oasele în bătaie!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 3</head>
+                  <p>         PLACIDA, din han, şi DON MARZIO.</p>
+                  <p>         PLACIDA: Întâmplă-se ce s-o-ntâmpla, vreau să-l găsesc pe netrebnicul meu de bărbat!</p>
+                  <p>         DON MARZIO: Cum merge, pelerino?</p>
+                  <p>         PLACIDA: Dacă nu mă înşel, eraţi la masă cu bărbatul meu.</p>
+                  <p>         DON MARZIO: Sunt cel cu castanele pisate.</p>
+                  <p>         PLACIDA: Pentru Dumnezeu, spuneţi-mi unde e trădătorul?</p>
+                  <p>         DON MARZIO: Nu ştiu şi, chiar dac-aş şti, nu v-aş spune.</p>
+                  <p>         PLACIDA: De ce?</p>
+                  <p>         DON MARZIO: Fiindcă dacă l-aţi găsi, ar fi mai rău. V-ar ucide.</p>
+                  <p>         PLACIDA: Nu-i nimic. Cel puţin termin cu suferinţa.</p>
+                  <p>         DON MARZIO: Ei, prostii! Tâmpenii! Întoarceţi-vă la Torino.</p>
+                  <p>         PLACIDA: Fără bărbatul meu?</p>
+                  <p>         DON MARZIO: Da, fără bărbatul dumneavoastră. Ce vreţi să faceţi? E un ticălos!</p>
+                  <p>         PLACIDA: Aşa e. Dar aş vrea măcar să-l văd.</p>
+                  <p>         DON MARZIO: A, n-o să-l mai vedeţi.</p>
+                  <p>         PLACIDA: Pentru Dumnezeu, spuneţi-mi, dacă ştiţi, a plecat?</p>
+                  <p>         DON MARZIO: A plecat şi n-a plecat.</p>
+                  <p>         PLACIDA: După câte văd, înălţimea-voastră ştie ceva despre el.</p>
+                  <p>         DON MARZIO: Eu? Ştiu şi nu ştiu, dar nu scot un cuvânt!</p>
+                  <p>         PLACIDA: Domnule, fie-vă milă de mine!</p>
+                  <p>         DON MARZIO: Duceţi-vă la Torino şi gata. Iată, vă dăruiesc doi ţechini.</p>
+                  <p>         PLACIDA: Dumnezeu să vă răsplătească milostenia, dar nu vreţi să-mi spuneţi nimic de soţul meu? Ce să fac? Plec disperată! (Gata să plece, plângând.)</p>
+                  <p>         DON MARZIO (aparte): Săraca femeie! (O cheamă.) Ei!</p>
+                  <p>         PLACIDA: Domnule!</p>
+                  <p>         DON MARZIO: Bărbatul dumneavoastră e aici, în casa balerinei, îşi ialucrurile şi are de gând să iasă pe uşa din dos. (Iese.)</p>
+                  <p>         PLACIDA: E în Veneţia! N-a plecat! În casa balerinei! Dacă aş avea pe cineva să mă ajute, aş încerca din nou. Dar aşa, singură, mi-e teamă de cine ştie ce jignire.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 4</head>
+                  <p>         RIDOLFO, EUGENIO şi PLACIDA.</p>
+                  <p>         RIDOLFO: Ei, haideţi, de ce vă vine aşa de greu? Suntem oameni cu toţii, şi cu toţii supuşi greşelii. Când cineva se căieşte, puterea căinţei şterge ruşinea greşelii.</p>
+                  <p>         EUGENIO: Toate bune, numai că nevastă-mea n-o să mă mai creadă.</p>
+                  <p>         RIDOLFO: Mergeţi cu mine. Lăsaţi-mă să-i vorbesc eu. Doamna Vittoria vă iubeşte, şi totul se va termina cu bine.</p>
+                  <p>         PLACIDA: Domnule Eugenio!</p>
+                  <p>         RIDOLFO: Pe domnul Eugenio vă rog să-l lăsaţi în pace. Are altceva de făcut decât să se ocupe de dumneavoastră.</p>
+                  <p>         PLACIDA: Nu vreau să-l abat de la treburile lui. În starea nenorocită în care sunt, mă rog de toată lumea.</p>
+                  <p>         EUGENIO: Crede-mă, Ridolfo, biata femeie merită toată mila; e foarte cinstită, şi bărbatul ei e un ticălos!</p>
+                  <p>         PLACIDA: M-a părăsit la Torino, îl găsesc în Veneţia, încearcă să mă omoare, iar acum e pe cale să-mi scape iarăşi din mână.</p>
+                  <p>         RIDOLFO: Ştiţi unde se află?</p>
+                  <p>         PLACIDA: Aici, în casa balerinei, îşi strânge lucrurile şi apoi are de gând să plece.</p>
+                  <p>         RIDOLFO: Dacă pleacă, o să-l vedeţi.</p>
+                  <p>         PLACIDA: Pleacă pe uşa din dos şi n-am să-l văd; iar dacă mă descoperă, mă omoară.</p>
+                  <p>         RIDOLFO: Cine ţi-a spus că pleacă pe uşa din dos?</p>
+                  <p>         PLACIDA: Domnul acela pe care-l cheamă don Marzio.</p>
+                  <p>         RIDOLFO: Trompeta oraşului! Uite ce trebuie să faceţi: intraţi aici, în prăvălia asta, la bărbier; de acolo se vede uşiţa ascunsă. Cum iese, îmi daţi de ştire şi… lăsaţi pe mine!</p>
+                  <p>         PLACIDA: N-o să-mi dea voie să stau acolo.</p>
+                  <p>         RIDOLFO: O clipă. (Strigând.) Ei, jupân Agabito!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 5</head>
+                  <p>         UCENICUL BĂRBIERULUI, din prăvălia lui, şi cei de mai înainte.</p>
+                  <p>         UCENICUL: Ce doriţi, jupân Ridolfo?</p>
+                  <p>         RIDOLFO: Spune-i stăpânului tău s-o lase pe doamna în prăvălie până vin cu s-o iau.</p>
+                  <p>         UCENICUL: Cu plăcere. Poftim, poftim, o să învăţaţi să bărbieriţi, deşi la bărbiereli vă pricepeţi poate mai bine decât noi, bărbierii. (Intră, în prăvălie.)</p>
+                  <p>         PLACIDA: Toate astea trebuie să le îndur pentru netrebnicul ăla! Bietele femei! Mai bine să-ţi pui laţul de gât decât să te măriţi cu un om ca ăsta. (Intră la bărbier.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 6</head>
+                  <p>         RIDOLFO şi EUGENIO.</p>
+                  <p>         RIDOLFO: Dacă pot, încerc să-i fac un bine şi amărâtei ăsteia, iar dac-o fac să plece cu bărbatul ei, doamna Vittoria n-o să mai fie geloasă pe ea. Mi-a şi spus ceva despre pelerină.</p>
+                  <p>         EUGENIO: Eşti un om cu inimă bună. Dac-ai să te afli vreodată la strâmtoare, ai să găseşti o sută de prieteni care-or să-ţi sară în ajutor!</p>
+                  <p>         RIDOLFO: Îl rog pe Dumnezeu să n-am nevoie de nimeni. Dar dacă s-ar întâmpla să am, nu ştiu la ce m-aş putea aştepta. Oamenii sunt nerecunoscători!</p>
+                  <p>         EUGENIO: De mine poţi fi sigur, cât voi trăi…</p>
+                  <p>         RIDOLFO: Vă mulţumesc foarte mult, dar să ne vedem de-ale noastre. Ce aveţi de gând să faceţi? Vă duceţi în cămăruţă la nevastă sau s-o rog să vină ca aici, în prăvălie? Vă duceţi singur sau mergeţi cu mine? Porunciţi!</p>
+                  <p>         EUGENIO: În prăvălie nu-i frumos, iar dacă mergi şi dumneata, n-are să-i pice bine; dacă mă duc singur, o să-mi scoată ochii… N-are a face. Să-şi dea drumul, că o să-i treacă mânia. Mă duc singur.</p>
+                  <p>         RIDOLFO: Duceţi-vă, şi Dumnezeu să vă ajute!</p>
+                  <p>         EUGENIO: Dacă e nevoie, te chem.</p>
+                  <p>         RIDOLFO: Să ştiţi însă că martor n-am să vă fiu.</p>
+                  <p>         EUGENIO: Oh, ce bun eşti, Ridolfo! Mă duc. (Se pregăteşte să plece.)</p>
+                  <p>         RIDOLFO: Haideţi, curaj!</p>
+                  <p>         EUGENIO: Ce crezi c-o să se întâmple?</p>
+                  <p>         RIDOLFO: Nimic.</p>
+                  <p>         EUGENIO: Plânsete sau zgârieturi?</p>
+                  <p>         RIDOLFO: Câte puţin din amândouă.</p>
+                  <p>         EUGENIO: Şi-apoi?</p>
+                  <p>         RIDOLFO: „Fiecare pentru el, şi Dumnezeu pentru toţi”.</p>
+                  <p>         EUGENIO: Dacă nu te chem, să nu vii.</p>
+                  <p>         RIDOLFO: Asta se înţelege.</p>
+                  <p>         EUGENIO: Am să-ţi povestesc tot.</p>
+                  <p>         RIDOLFO: Hai, duceţi-vă!</p>
+                  <p>         EUGENIO (aparte): Grozav om şi Ridolfo! Prieten adevărat! (Intră înprăvălie.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 7</head>
+                  <p>         RIDOLFO, apoi TRAPPOLA şi băieţii din prăvălie.</p>
+                  <p>         RIDOLFO: Bărbat şi nevastă? Îi las să stea cât le-o pofti inima. Ei, Trappola, băieţi, unde sunteţi?</p>
+                  <p>         TRAPPOLA: Aici.</p>
+                  <p>         RIDOLFO: Aveţi grijă de prăvălie, că mă duc la bărbier. Dacă mă cheamă domnul Eugenio, strigaţi-mă şi vin numaidecât.</p>
+                  <p>         TRAPPOLA: Pot să-i ţin de urât domnului Eugenio?</p>
+                  <p>         RIDOLFO: Nu, să nu-i ţii, şi ai grijă să nu intre nimeni acolo.</p>
+                  <p>         TRAPPOLA: De ce nu?</p>
+                  <p>         RIDOLFO: Ca să întrebi tu.</p>
+                  <p>         TRAPPOLA: Mă duc să văd dacă are nevoie de ceva.</p>
+                  <p>         RIDOLFO: Nu te duce dacă nu te cheamă! (Aparte.) Vreau să aflu mai în amănunt de la pelerină cum merg treburile astea ale ei şi, dacă pot, să încerc să i le îndrept. (Intră la bărbier.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 8</head>
+                  <p>         TRAPPOLA, apoi DON MARZIO.</p>
+                  <p>         TRAPPOLA: Sunt curios să mă duc tocmai fiindcă mi-a spus să nu mă duc!</p>
+                  <p>         Don MARZIO: Trappola, te-ai speriat?</p>
+                  <p>         TRAPPOLA: Puţin.</p>
+                  <p>         MARZIO: L-ai mai văzut pe domnul Eugenio?</p>
+                  <p>         TRAPPOLA: Da, domnule, l-am văzut, e înăuntru. Dar… tăcere!</p>
+                  <p>         DON MARZIO: Unde e?</p>
+                  <p>         TRAPPOLA: Ssst… în cămăruţă.</p>
+                  <p>         DON MARZIO: Ce face? Joacă?</p>
+                  <p>         TRAPPOLA (râzând): Da, domnule, joacă.</p>
+                  <p>         DON MARZIO: Cu cine?</p>
+                  <p>         TRAPPOLA (pe şoptite): Cu nevastă-sa.</p>
+                  <p>         DON MARZIO: Nevastă-sa e aici?</p>
+                  <p>         TRAPPOLA: E, dar tăcere!</p>
+                  <p>         DON MARZIO: Vreau să-l văd.</p>
+                  <p>         TRAPPOLA: Nu se poate.</p>
+                  <p>         DONMARZIO: De ce?</p>
+                  <p>         TRAPPOLA: Nu vrea stăpânul.</p>
+                  <p>         DON MARZIO (vrând să se ducă): Ia lasă-mă, caraghiosule!</p>
+                  <p>         TRAPPOLA (oprindu-l): V-am spus că nu se poate!</p>
+                  <p>         DON MARZIO (ca mai sus): Ţi-am spus că vreau să-l văd!</p>
+                  <p>         TRAPPOLA (ca mai sus): Şi eu vă spun că n-o să-l vedeţi!</p>
+                  <p>         DON MARZIO: Am să-ţi trag o mamă de bătaie!.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 9</head>
+                  <p>         RIDOLFO, din frizerie, şi cei de mai înainte.</p>
+                  <p>         RIDOLFO: Ce s-a întâmplat?</p>
+                  <p>         TRAPPOLA: Vrea, cu orice preţ, să-l facă pe-al treilea în căsnicie.</p>
+                  <p>         RIDOLFO: Înţelegeţi, domnule, că acolo nu se poate intra.</p>
+                  <p>         DON MARZIO: Numai că eu vreau să intru!</p>
+                  <p>         RIDOLFO: În prăvălia mea poruncesc eu, şi n-o să intraţi. Fiţi respectuos, dacă nu vreţi s-o păţiţi! (Lui Trappola şi celorlalţi băieţi.) Şi voi, până mă întorc eu, nu lăsaţi pe nimeni să intre. (Bate la uşa balerinei şi intră.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 10</head>
+                  <p>         DON MARZIO, TRAPPOLA, băieţii; apoi PANDOLFO.</p>
+                  <p>         TRAPPOLA: Aţi auzit? Căsnicia trebuie respectată.</p>
+                  <p>         DON MARZIO (aparte, plimbându-se): Unuia ca mine? Nu intraţi?!. Fiţi respectuos?!. Unuia ca mine? Şi cu nu fac nimic? Şi nu spun nimic? Şi nu-l bat? Ticălosul! Ţărănoiul! Mie? Mic! (Tare.) Cafea! (Se aşază.)</p>
+                  <p>         TRAPPOLA: Îndată! (Se duce să ia cafeaua şi i-o aduce.)</p>
+                  <p>         PANDOLFO: Illustrissime, am nevoie de sprijinul dumneavoastră.</p>
+                  <p>         DON MARZIO: Ce e, ţiitor de tripou?</p>
+                  <p>         PANDOLFO: E de râu.</p>
+                  <p>         DON MARZIO: Ce e de rău? Spune-mi, că te-ajut.</p>
+                  <p>         PANDOLFO: Aflaţi, domnule, că există pe lume invidioşi care nu-i văd cu ochi buni pe cei ce trăiesc ceva mai bine. Au văzut că-mi dau toată silinţa să-mi întreţin familia în mod cinstit, şi s-au plâns că măsluiesc cărţile.</p>
+                  <p>         DON MARZIO (ironic): Ticăloşii! Un om de onoare ca dumneata! De unde ai aflat?</p>
+                  <p>         PANDOLFO: Mi-a spus un prieten. Mă bizui însă pe faptul că n-au dovezi; în prăvălia mea intră numai oameni de onoare şi niciunul nu mă poate vorbi de rău.</p>
+                  <p>         DON MARZIO: A, dacă m-ar întreba pe mine, aş şti multe despre iscusinţa ta.</p>
+                  <p>         PANDOLFO: Illustrissime, pentru Dumnezeu, nu mă nenorociţi! Cer milaşi sprijinul dumneavoastră pentru bieţii mei copii.</p>
+                  <p>         DON MARZIO: Haide, am să te ajut, am să te sprijin. Lasă-te în grija mea. Dar bagă de seamă, ai cărţi măsluite în prăvălie?</p>
+                  <p>         PANDOLFO: Eu nu le măsluiesc… dar se mai amuză câte-un jucător…</p>
+                  <p>         DON MARZIO: Arde-le repede, numaidecât! Eu nu vorbesc…</p>
+                  <p>         PANDOLFO: Mi-e teamă că nu mai am timp să le ard.</p>
+                  <p>         DON MARZIO: Ascunde-le!</p>
+                  <p>         PANDOLFO: Mă duc în prăvălie şi le ascund numaidecât.</p>
+                  <p>         DON MARZIO: Unde vrei să le ascunzi?</p>
+                  <p>         PANDOLFO: Am un loc tainic sub bârne, unde nu le găseşte nici dracu'… (Intră în tripou.)</p>
+                  <p>         DON MARZIO: Du-te, tâlhar ce eşti!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 11</head>
+                  <p>         DON MARZIO, apoi un CĂPITAN DE POLITIE, mascat, şi alţi poliţişti, ascunşi; apoi TRAPPOLA.</p>
+                  <p>         DON MARZIO: Ăsta e la un pas de puşcărie. Dacă descoperă cineva jumătate din ticăloşiile lui, îl bagă la răcoare cât ai zice peşte!</p>
+                  <p>         CĂPITANUL (către ceilalţi poliţişti, aflaţi la colţul străzii, care se retrag): Învârtiţi-vă pe-aici şi, când vă chem, veniţi!</p>
+                  <p>         DON MARZIO (aparte): Cărţi măsluite! Ah, ce hoţi!</p>
+                  <p>         CĂPITANUL (aşezându-se): O cafea!</p>
+                  <p>         TRAPPOLA: Îndată! (Se duce, ia cafeaua şi o aduce.)</p>
+                  <p>         CĂPITANUL: Frumoase zile…</p>
+                  <p>         DON MARZIO: N-o să mai ţină mult.</p>
+                  <p>         CĂPITANUL: Nu-i nimic. Să ne bucurăm cât e timpul frumos.</p>
+                  <p>         DON MARZIO: O să ne bucurăm scurtă vreme.</p>
+                  <p>         CĂPITANUL: Cât e vremea urâtă, te duci şi joci cărţi.</p>
+                  <p>         DON MARZIO: Numai să joci unde nu se fură.</p>
+                  <p>         CĂPITANUL: Localul de aici mi se pare cinstit.</p>
+                  <p>         DON MARZIO: Cinstit? E un cuib de hoţi.</p>
+                  <p>         CĂPITANUL: Stăpânul parcă-i jupân Pandolfo, nu?</p>
+                  <p>         DON MARZIO: El, în persoană.</p>
+                  <p>         CĂPITANUL: Ca să spun adevărul, am auzit că e un jucător norocos.</p>
+                  <p>         DON MARZIO: E un măsluitor de ultima speţă.</p>
+                  <p>         CĂPITANUL: V-a înşelat şi pe dumneavoastră?</p>
+                  <p>         DON MARZIO: Pe mine nu, că nu-s fraier, dar câţi îi încap în mână, pe toţi îi prinde în plasă.</p>
+                  <p>         CĂPITANUL: O fi bănuind ceva, de nu se vede!</p>
+                  <p>         DON MARZIO: E în prăvălie, ascunde cărţile.</p>
+                  <p>         CĂPITANUL: De ce le ascunde?</p>
+                  <p>         DON MARZIO: Pesemne fiindcă-s măsluite.</p>
+                  <p>         CĂPITANUL: Cu siguranţă. Şi unde le-o fi ascunzând?</p>
+                  <p>         DON MARZIO: Vreţi să râdeţi? Le bagă într-o ascunzătoare sub bârne.</p>
+                  <p>         CĂPITANUL (aparte): Am aflat ce trebuia.</p>
+                  <p>         DON MARZIO: Dumneavoastră vă place să jucaţi?</p>
+                  <p>         CĂPITANUL: Câteodată.</p>
+                  <p>         DON MARZIO: Nu-mi păreţi o figură cunoscută.</p>
+                  <p>         CĂPITANUL: O să mă cunoaşteţi numaidecât. (Se ridică.)</p>
+                  <p>         DON MARZIO: Plecaţi?</p>
+                  <p>         CĂPITANUL: Mă întorc îndată.</p>
+                  <p>         TRAPPOLA (către Căpitan): Ei, domnule, cafeaua!</p>
+                  <p>         CĂPITANUL: O plătesc imediat! (Iese în stradă şi fluieră.)</p>
+                  <p>         (Poliţiştii intră în prăvălia lui Pandolfo.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 12</head>
+                  <p>         DON MARZIO şi TRAPPOLA.</p>
+                  <p>         Don Marzio se ridică şi se uită cu atenţie, fără să vorbească.</p>
+                  <p>         Trappola se uită şi el cu atenţie.</p>
+                  <p>         DON MARZIO: Trappola…</p>
+                  <p>         TRAPPOLA: Don Marzio…</p>
+                  <p>         DON MARZIO: Cine sunt ăia?</p>
+                  <p>         TRAPPOLA: Sticleţi, mi se pare.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 13</head>
+                  <p>         PANDOLFO, legat, poliţiştii şi cei de mai înainte.</p>
+                  <p>         PANDOLFO: Vă rămân îndatorat, don Marzio…</p>
+                  <p>         DON MARZIO: Mie? Nu ştiu nimic!</p>
+                  <p>         PANDOLFO: Eu intru, nu intru la puşcărie, dar limba dumitale e bună de tras în ţeapă! (Pleacă împreună cu poliţiştii.)</p>
+                  <p>         CĂPITANUL (către don Marzio): Da, domnule, l-am găsit ascunzând cărţile! (Iese.)</p>
+                  <p>         TRAPPOLA: Mă duc după el, să vedem unde-l duc. (Iese.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 14</head>
+                  <p>         DON MARZIO, singur.</p>
+                  <p>         DON MARZIO: Ei, drăcia dracului! Ce-am făcut? Îl credeam om de treabă, şi el era poliţist deghizat. M-a trădat, m-a înşelat. Eu am inimă bună, repet totul cu uşurinţă.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 15</head>
+                  <p>         RIDOLFO şi LEANDRO, din casa balerinei, şi cei de mai înainte.</p>
+                  <p>         RIDOLFO (lui Leandro): Bravo, aşa-mi place, cine are minte arată tuturor că e om la locul lui, căci în lumea asta nu rămânem, până la urmă, decât cu bunul nostru nume, cu faima şi cu reputaţia.</p>
+                  <p>         LEANDRO: Uite cine m-a sfătuit să plec!</p>
+                  <p>         RIDOLFO: Bravo, don Marzio, bune sfaturi daţi! În loc să-l împăcaţi cu nevasta, îl hotărâţi s-o părăsească şi să plece.</p>
+                  <p>         DON MARZIO: Să se împace cu nevasta? Cu neputinţă, nici nu vrea s-audă de ea!</p>
+                  <p>         RIDOLFO: Pentru mine a fost cu putinţă, l-am hotărât din câteva cuvinte! Se întoarce la nevastă.</p>
+                  <p>         LEANDRO (aparte): Cu de-a sila, ca să n-o păţesc.</p>
+                  <p>         RIDOLFO: Să mergem la doamna Placida… e aici, la bărbier.</p>
+                  <p>         DON MARZIO: Du-te şi ia-ţi podoaba de nevastă.</p>
+                  <p>         LEANDRO: Don Marzio, ţi-o spun între patru ochi: ai gura mare şi rea! (Intră, cu Ridolfo, la bărbier.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 16</head>
+                  <p>         DON MARZIO, apoi RIDOLFO.</p>
+                  <p>         DON MARZIO: Ei se plâng de gura mea, şi mie mi se pare că vorbesc cum trebuie. E-adevărat că uneori mă agăţ de câte unul, dar din convingerea că spun adevărul. Repet cu uşurinţă tot ce ştiu, dar o fac fiindcă am inimă bună.</p>
+                  <p>         RIDOLFO (de la bărbier): S-a lămurit şi asta. Dacă e-adevărat ce spune, înseamnă că s-a căit. Dacă se preface, cu-atât mai râu pentru el.</p>
+                  <p>         DON MARZIO: Marele Ridolfo! Cel care uneşte căsniciile!</p>
+                  <p>         RIDOLFO: Iar dumneavoastră cel care le dezbină.</p>
+                  <p>         DON MARZIO: Eu am făcut-o cu gând bun.</p>
+                  <p>         RIDOLFO: Cine gândeşte râu nu poate spera să facă bine. Să nu te amăgeşti niciodată că dintr-un lucru rău poate ieşi ceva bun. Să desparţibărbatul de nevastă e o faptă împotriva tuturor legilor, şi că nu poate să aducă decât încurcături şi pagube.</p>
+                  <p>         DON MARZIO (cu dispreţ): Eşti mare deştept!</p>
+                  <p>         RIDOLFO: Dumneavoastră ştiţi mai multe ca mine, dar, să mă iertaţi, gura mea ştie să se descurce mai bine ca a dumneavoastră!</p>
+                  <p>         DON MARZIO: Vorbeşti ca un obraznic!</p>
+                  <p>         RIDOLFO: Iertaţi-mă, dacă vreţi; iar dacă nu vreţi, să nu-mi mai daţi nici un fel de ocrotire.</p>
+                  <p>         DON MARZIO: N-am să-ţi mai dau, n-am să-ţi mai dau, şi nici în prăvălie n-am să-ţi mai calc!</p>
+                  <p>         RIDOLFO (aparte): Oh, unde nu dă Dumnezeu!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 17</head>
+                  <p>         UN BĂIAT de la cafenea şi cei de mai înainte.</p>
+                  <p>         BĂIATUL: Stăpâne, vă cheamă domnul Eugenio. (Iese.)</p>
+                  <p>         RIDOLFO: Vin îndată. (Către don Marzio.) Cu îngăduinţa dumneavoastră.</p>
+                  <p>         DON MARZIO: Mă închin omului politic. Ce câştigi cu manevrele astea?</p>
+                  <p>         RIDOLFO: Câştig meritul de a face binele; câştig prietenia oamenilor; câştig pecetea onoarei, pe care o pun mai presus decât orice pe lume. (Intră în prăvălie.)</p>
+                  <p>         DON MARZIO: Ce nebun! Ce idei de ministru, de faţă simandicoasă! Un cafegiu care vrea să tragă toate sforile. Şi cât se oboseşte! Şi cât timp îşi pierde! Eu aş fi terminat cu toate într-un sfert de ceas.</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 18</head>
+                  <p>         RIDOLFO, EUGENIO, VITTORIA, din cafenea, şi DON MARZIO.</p>
+                  <p>         DON MARZIO (aparte): Uite-i pe cei trei nebuni: nebunul desfrânat, nebuna geloasă şi nebunul fălos.</p>
+                  <p>         RIDOLFO (Vittoriei): Ca să vă spun drept, simt o uşurare nespusă.</p>
+                  <p>         VITTORIA: Dragă Ridolfo, îmi redai pacea, liniştea, pot spune chiar viaţa!</p>
+                  <p>         EUGENIO: Crede-mă, prietene, eram sătul de viaţa pe care o duceam, dar nu ştiam cum să scap de vicii. Fii binecuvântat că mi-ai deschis ochii cu sfaturile, cu dojenile, cu bunătatea şi cu binefacerile dumitale; mi-ai limpezit mintea şi m-ai făcut să mă ruşinez… sunt alt om acum şi sper că schimbarea mea va fi de lungă durată pentru mângâierea, pentru mulţumirea dumitale, şi după pilda oamenilor cuminţi, cinstiţi şi cumsecade ca dumneata.</p>
+                  <p>         RIDOLIO: Sunteţi prea bun, nu merit atâtea laude.</p>
+                  <p>         VIRTORIA: Cât oi trăi am să-mi aduc aminte de binele pe care mi l-aifăcut; mi l-ai dat înapoi pe iubitul meu soţ, singurul lucru de preţ pe care-l am în lumea asta. Am vărsat atâtea lacrimi ca să-l iau de bărbat, atâtea când l-am pierdut şi atâtea ca să-l redobândesc… dar astea de-acuma sunt lacrimi de emoţie, de dragoste şi de duioşie, care-mi umplu sufletul de plăcere şi mă fac să uit orice durere trecută şi să aduc mulţumire Cerului şi laudă milosteniei dumitale!</p>
+                  <p>         RIDOLFO: Mă faceţi să plâng de bucurie.</p>
+                  <p>         DON MARZIO (aparte, privindu-i mereu cu lorgnon-ul): Nebunii dracului!</p>
+                  <p>         EUGENIO: Vrei să mergem acasă?</p>
+                  <p>         VITTORIA: Sunt plânsă, ciufulită şi răvăşită la faţă. Poate că ne-aşteaptă acasă mama sau vreo altă rubedenie şi n-aş vrea să mă vadă cu lacrimi în ochi.</p>
+                  <p>         EUGENIO: Hai, linişteşte-te, să mai stăm puţin.</p>
+                  <p>         VITTORIA: Ridolfo, n-ai o oglindă? Aş vrea să văd cum arăt.</p>
+                  <p>         DON MARZIO (aparte, cu lorgnon-ul în mână): I-o fi deranjat bărbatu-său moţul!</p>
+                  <p>         RIDOLFO: Dacă vreţi să vă uitaţi în oglindă, să mergem sus, în tripou.</p>
+                  <p>         EUGENIO: Nu, acolo nu mai pun piciorul!</p>
+                  <p>         RIDOI. IO: Nu ştiţi noutatea? Pandolfo e la puşcărie.</p>
+                  <p>         EUGENIO: Da? O merită, ticălosul, mi-a mâncat o grămadă de bani!</p>
+                  <p>         VITTORIA: Să mergem, dragă bărbate.</p>
+                  <p>         EUGENIO: Dacă nu mai e nimeni, să mergem!</p>
+                  <p>         VITTORIA: Mă simt tare prost aşa ciufulită. (Intră în tripou foarte veselă.)</p>
+                  <p>         EUGENIO: Sărăcuţa! Nu mai poate de bucurie! (Intră şi el.)</p>
+                  <p>         RIDOLFO: Merg şi eu, să vă conduc. (Intră şi el.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 19</head>
+                  <p>         DON MARZIO, apoi LEANDRO şi PLACIDA.</p>
+                  <p>         DON MARZIO: Eu ştiu de ce s-a împăcat Eugenio cu nevastă-sa: e ruinat şi nu mai are cu ce trăi. Nevastă-sa e tânără şi frumoasă. Nu s-a gândit rău, şi Ridolfo face pe mijlocitorul.</p>
+                  <p>         LEANDRO (ieşind de la bărbier): Să mergem atunci la han să-ţi luăm lucrurile.</p>
+                  <p>         PLACIDA: Bărbate dragă, cum ai avut inima să mă părăseşti?</p>
+                  <p>         LEANDRO: Haide, să nu mai vorbim. Îţi promit c-am să-mi schimb viaţa.</p>
+                  <p>         PLACIDA: Să dea Dumnezeu!</p>
+                  <p>         (Se apropie de han.)</p>
+                  <p>         DON MARZIO (lui Leandro, în bătaie de joc): Sluga luminăţiei-voastre, domnule conte.</p>
+                  <p>         LEANDRO: Mă închin domnului care ocroteşte pe toată lumea, domnul gură-bogată.</p>
+                  <p>         DON MARZIO (Placidei, în bătaie de joc): Plecăciuni doamnei contese.</p>
+                  <p>         PLACIDA: Sluga dumneavoastră, domnule cavaler de castane pisate! (Intră în han cu Leandro.)</p>
+                  <p>         DON MARZIO: Pleacă amândoi în pelerinaj să pungăşească oamenii. Blazonul lor o să fie o pereche de cărţi de joc!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 20</head>
+                  <p>         LISAURA, de la fereastră, şi DON MARZIO.</p>
+                  <p>         LISAURA: Pelerina s-a întors la han cu nepricopsitul ăla de Leandro. Dacă stă mai mult, atunci trebuie să plec eu din casa asta. Nu pot să-i mai văd pe niciunul din ei.</p>
+                  <p>         DON MARZIO (uitându-se la ea cu lorgnon-ul): Sluga dumneavoastră, doamnă balerină!</p>
+                  <p>         LISAURA (luându-l repede): Cu plecăciune.</p>
+                  <p>         DON MARZIO: Ce aveţi? Păreţi supărată.</p>
+                  <p>         LISAURA: Mă mir de hangiu că ţine în hanul lui asemenea oameni!</p>
+                  <p>         DON MARZIO: De cine vorbiţi?</p>
+                  <p>         LISAURA: Vorbesc de stricata aia de pelerină; prin locurile astea nu s-au mai petrecut niciodată asemenea lucruri neruşinate!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 21</head>
+                  <p>         PLACIDA, de la fereastra hanului, şi cei de mai înainte.</p>
+                  <p>         PLACIDA: Ei, domnişoară, cum vorbeşti despre mine? Eu sunt femeie cinstită. Nu ştiu dacă de dumneata se poate spune la fel.</p>
+                  <p>         LISAURA: Dacă ai fi femeie cinstită, n-ai cutreiera lumea făcând ticăloşii!</p>
+                  <p>         (Don Marzio ascultă, se uită la una şi la cealaltă cu lorgnon-ul şi râde.)</p>
+                  <p>         PLACIDA: Am venit să-mi caut bărbatul.</p>
+                  <p>         LISAURA: Da, şi anul trecut pe cine căutai?</p>
+                  <p>         PLACIDA: Eu, la Veneţia, n-am mai fost niciodată.</p>
+                  <p>         LISAURA: Eşti o mincinoasă! Anul trecut te-ai făcut de râs aici în oraş…</p>
+                  <p>         (Don Marzio se uită la ele şi râde ca mai sus.)</p>
+                  <p>         PLACIDA: Cine ţi-a spus una ca asta?</p>
+                  <p>         LISAURA: Uite-l, don Marzio mi-a spus.</p>
+                  <p>         DON MARZIO: Eu n-am spus nimic.</p>
+                  <p>         PLACIDA: Nu se poate să-ţi fi spus o asemenea minciună; în schimb, mi-a povestit mie o mulţime despre viaţa şi frumoasele dumitale obiceiuri! Mi-a spuscine eşti şi că primeşti bărbaţi pe furiş, pe uşa din dos.</p>
+                  <p>         DON MARZIO: Eu n-am spus nimic. (Se uită, tot cu lorgnon-ul, când la una, când la alta.)</p>
+                  <p>         PLACIDA: Ba da, ai spus!</p>
+                  <p>         LISAURA: E cu putinţă ca don Marzio să fi spus despre mine o ticăloşie ca asta?!</p>
+                  <p>         DON MARZIO: Dacă-ţi spun că n-am spus nimic!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 22</head>
+                  <p>         EUGENIO, la fereastra de sus, apoi RIDOLFO, de la altă fereastră, apoi VTITORIA, de la alta, deschizându-le rând pe rând, şi cei de mai înainte.</p>
+                  <p>         EUGENIO: Ba da, ai spus, şi mi-ai spus şi mic! Ai spus şi despre una, şi despre alta. De pelerină c-a fost şi anul trecut la Veneţia să facă ticăloşii, şi de balerină că primeşte vizite pe uşa din dos.</p>
+                  <p>         DON MARZIO: Am auzit de la Ridolfo.</p>
+                  <p>         RIDOLFO: Eu nu sunt în stare să spun aşa ceva. Ba ne-am şi certat chiar din pricina asta. Eu apăram onoarea doamnei Lisaura, iar înălţimea-voastră ţinea morţiş că e o femeie stricată.</p>
+                  <p>         LISAURA: Ah, nenorocitule!</p>
+                  <p>         DON MARZIO: Eşti un mincinos!</p>
+                  <p>         VITTORIA: Şi mie mi-a spus că soţul meu avea de-a face şi cu balerina, şi cu pelerina, şi mi le-a zugrăvit ca pe cele mai ticăloase femei!</p>
+                  <p>         PLACIDA: Ah, nemernicule!</p>
+                  <p>         LISAURA: Ah, afurisitule!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 23</head>
+                  <p>         LEANDRO, din uşa hanului, şi cei de mai înainte.</p>
+                  <p>         LEANDRO: Da, domnule, înălţimea-voastră a pricinuit mii de încurcături. A murdărit, cu gura lui păcătoasă, renumele a două femei cinstite.</p>
+                  <p>         DON MARZIO: Şi balerina e cinstită?</p>
+                  <p>         LISAURA: Aşa mă laud că sunt. Prietenia mea cu domnul Leandro nu avea alt scop decât să mă mărit cu el, fără să ştiu că are altă nevastă.</p>
+                  <p>         PLACIDA: Are nevastă, şi aia sunt eu.</p>
+                  <p>         LEANDRO: Şi dacă m-aş fi luat după don Marzio, aş fi fugit din nou de tine.</p>
+                  <p>         PLACIDA: Neruşinatule!</p>
+                  <p>         LISAURA: Impostorule!</p>
+                  <p>         VITTORIA: Bârfitorule!</p>
+                  <p>         EUGENIO: Palavragiule!</p>
+                  <p>         DON MARZIO: Mie-mi spuneţi ţoale astea? Mie, omul cel mai cinstit din lume?</p>
+                  <p>         RIDOLFO: Ca să fii cinstit nu-i de-ajuns să nu furi, trebuie să te şi porţi ca oamenii!</p>
+                  <p>         DON MARZIO: Eu n-am făcut niciodată o faptă rea!</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 24</head>
+                  <p>         TRAPPOLA şi cei de mai înainte.</p>
+                  <p>         TRAPPOLA: Don Marzio a făcut-o de oaie.</p>
+                  <p>         RIDOLFO: Ce-a făcut?</p>
+                  <p>         TRAPPOLA: La vândut pe jupân Pandolfo. Acuma l-au legat şi se spune că mâine va fi biciuit.</p>
+                  <p>         RIDOLFO: E o iscoadă! Afară de la mine din prăvălie! (Pleacă de la fereastră.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA 25</head>
+                  <p>         UCENICUL DE BĂRBIER şi cei de mai înainte.</p>
+                  <p>         UCENICUL: Domnule iscoadă, să nu mai intri la noi în prăvălie să te bărbiereşti! (Intră în prăvălia lui.)</p>
+               </div>
+               <div type="div3">
+                  <head>         SCENA ULTIMĂ.</head>
+                  <p>         CHELNERUL de la han şi cei de mai înainte.</p>
+                  <p>         CHELNERUL: Domnule iscoadă, să nu mai vii în han la noi să mănânci! (Intră în han.)</p>
+                  <p>         LEANDRO: Domnule ocrotitor, fie vorba-ntre noi, meseria de iscoadă e o ticăloşie! (Intră în han.)</p>
+                  <p>         PLACIDA: Ce castane pisate? Denunţător! (Pleacă de la fereastră.)</p>
+                  <p>         LISAURA: La stâlpul infamiei! La stâlpul infamiei! (Pleacă de la fereastră.)</p>
+                  <p>         VITTORIA: O, drăguţul de don Marzio! Cei zece ţechini pe care i-a împrumutat soţului meu i-o fi căpătat pentru c-a făcut pe iscoada! (Pleacă de la fereastră.)</p>
+                  <p>         EUGENIO: Plecăciune domnului confident! (Pleacă de la fereastră.)</p>
+                  <p>         TRAPPOLA: Mă închin domnului pârâtor! (Intră în prăvălie.)</p>
+                  <p>         DON MARZIO: Sunt buimăcit, sunt umilit, nu ştiu pe ce lume mă aflu. Eu iscoadă? Iscoadă eu? Că am dat în vileag, fără să vreau, proastele obiceiuri ale lui Pandolfo să fiu învinuit că sunt iscoadă? Nu-l cunoşteam pe poliţist, n-am bănuit înşelăciunea, nu sunt vinovat de-o asemenea faptă ruşinoasă! Şi totuşi mă insultă, mă terfelesc cu toţii, niciunul nu mă mai vrea, toţi mă gonesc! A, da, au dreptate, mai curând sau mai târziu gura mea trebuia să mă bage în bucluc! Ea mi-a adus ruşinea, cel mai rău dintre rele. Aici nu mai are rost să mă dezvinovăţesc. Şi-au pierdut cu toţii încrederea în mine şi n-or s-o mai recapete niciodată. Am să plec din oraşul ăsta; am să plec, deşi n-aş dori-o… Şi, din cauza gurii mele păcătoase, trebuie să renunţ la un oraş în care toţi trăiesc bine, toţi se bucură de libertate, de pace, de veselie atunci când ştiu să fie cuminţi, prevăzători şi cinstiţi! (Iese.)</p>
+                  <p>                                                                                SFÂRŞIT</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

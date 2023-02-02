@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scrieri</title>
+            <author>Negri,Costache</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date/>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) <ptr target="https://creativecommons.org/licenses/by-sa/3.0/"/>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start">Source: https://ro.wikisource.org/wiki/Autor:Costache_Negri</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro">ro</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Petru Dimulescu</name>
+               <date>2019-02-22T11:04:13.312384000</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                         
+      <body>
+         <author>Negri,Costache</author>
+         <head>Scrieri</head>
+         <p>Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) <ptr target="https://creativecommons.org/licenses/by-sa/3.0/"/>
+         </p>
+         <p rend="start">Source: https://ro.wikisource.org/wiki/Autor:Costache_Negri</p>
+         <div type="div1" rend="P5">
+            <head>Poezii</head>
+            <div type="div2">
+               <div type="div3">
+                  <head>Doină</head>
+                  <subtitle>Poezie transcrisă de A. Papadopol-Callimach după un autograf al lui C. Negri, aflat în posesia lui V. Alecsandri și publicată în Revista nouă, an II (1889-1890), nr. 11-12 (dec.-ian.)</subtitle>
+                  <lg>
+                     <l>Verde codre și tufos,</l>
+                     <l>Mult cu umbră răcoros,</l>
+                     <l>Vara cît ești de frumos,</l>
+                     <l>Toamna, putred, sîngerate,</l>
+                     <l>A tale frunze uscate,</l>
+                     <l>Roșe, roșe zac pe jos.</l>
+                  </lg>
+                  <lg>
+                     <l>Așa vara vieței mele,</l>
+                     <l>Ca dalbele floricele,</l>
+                     <l>Fost-au să fie ca ele;</l>
+                     <l>Dar de chin și muncă mare</l>
+                     <l>Trupul meu hodină n-are</l>
+                     <l>Și mi-i traiul tot în jele...</l>
+                  </lg>
+                  <lg>
+                     <l>Vîntul fioros cînd bate</l>
+                     <l>Spulberă-n străinătate</l>
+                     <l>Frunzele veșted picate,</l>
+                     <l>Departe de-a lor tulpină,</l>
+                     <l>Unde-i moartea mai streină,</l>
+                     <l>Și pier prin lume-aruncate.</l>
+                  </lg>
+                  <lg>
+                     <l>Așa vîntul de urgie</l>
+                     <l>Aspru suflă-n sărăcie,</l>
+                     <l>Și romînu-n iobăgie</l>
+                     <l>Are, pe-ntinsul pămînt,</l>
+                     <l>Numai locul de mormînt,</l>
+                     <l>Ca să moară-n duioșie.</l>
+                  </lg>
+                  <lg>
+                     <l>Daleu ! măi român bărbate,</l>
+                     <l>Mai deșteaptă-te, măi frate !</l>
+                     <l>Că de tine joc își bate,</l>
+                     <l>Și-n robie tot mereu</l>
+                     <l>Te ține-n lanțul cel greu,</l>
+                     <l>Lumea cea fără dreptate.</l>
+                  </lg>
+                  <trailer>1844, Mînjina</trailer>
+               </div>
+               <div type="div3">
+                  <head>Cîntic haiducesc </head>
+                  <lg>
+                     <l>Măi băiete, măi voinice,</l>
+                     <l>N-a rămas alta pe-aice</l>
+                     <l>Decît să-ncarci ghintul bine</l>
+                     <l>Și-apoi la drumuri te-aține,</l>
+                     <l>Ca să vezi, cine mai vine.</l>
+                  </lg>
+                  <lg>
+                     <l>Căci faină nu mai ai,</l>
+                     <l>Nici galbeni poți să mai dai</l>
+                     <l>La cel bir din ist pămînt...</l>
+                     <l>Trăsni-i-ar Dumnezeu sfînt</l>
+                     <l>Sub țărîna de mormînt !</l>
+                  </lg>
+                  <lg>
+                     <l>Eu prin grosuri tot șezui</l>
+                     <l>Și-a plăti bir nu putui...</l>
+                     <l>Bată-i crucea ! cum nu-i doar</l>
+                     <l>Să ne bată, să ne-omoare,</l>
+                     <l>Să ne-ngroape la-nchisoare !</l>
+                  </lg>
+                  <lg>
+                     <l>S-a dus vremea cea bogată,</l>
+                     <l>De-și punea nevasta spată</l>
+                     <l>Și prin zemnic și pe-afară,</l>
+                     <l>Apoi vindea pînză-n țară</l>
+                     <l>Și purta la gît odoară.</l>
+                  </lg>
+                  <lg>
+                     <l>Iar românul cu opt boi</l>
+                     <l>Și cu șaptezeci de oi</l>
+                     <l>Tot mulgea, mereu mulgea,</l>
+                     <l>Habar de nimic n-avea</l>
+                     <l>Și birul ușor plătea.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar acum, măi băiețele,</l>
+                     <l>Fără fir de mustețele,</l>
+                     <l>Mîncași nevoile grele...</l>
+                     <l>Dare-ar dracii printre ele,</l>
+                     <l>Să scăpăm de măgurele !</l>
+                  </lg>
+                  <lg>
+                     <l>Căci găsim prin codrii verzi</l>
+                     <l>Potici, cărări de te perzi...</l>
+                     <l>Vie-apoi să ne gonească !</l>
+                     <l>Iar Dumnezeu să-i ferească</l>
+                     <l>De urgia haiducească !</l>
+                  </lg>
+                  <lg>
+                     <l>Cât a fost dorul în mine</l>
+                     <l>De-a trăi cu toții bine,</l>
+                     <l>Am lucrat la cel ogor</l>
+                     <l>Ca tot omul muncitor,</l>
+                     <l>Să fiu maicei de-ajutor.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar m-am răzbătut de tot</l>
+                     <l>Și-a suferi nu mai pot</l>
+                     <l>Ocări, fiere și bătăi,</l>
+                     <l>Urgisind bieții flăcăi</l>
+                     <l>Și făcîndu-i din buni răi !</l>
+                  </lg>
+                  <lg>
+                     <l>Săriți cu toți, măi băiați,</l>
+                     <l>Și-n dușmani din greu tăiați,</l>
+                     <l>Căci acolo ne-i scăpare !</l>
+                     <l>Săriți pe cai toți călare.</l>
+                     <l>Să tragem spre lunca mare.</l>
+                  </lg>
+                  <lg>
+                     <l>Dau călcîi în negrul meu,</l>
+                     <l>S-apuc în lume mereu...</l>
+                     <l>Măcar capul să mi-l taie,</l>
+                     <l>Vreau să vărs sînge pîraie</l>
+                     <l>Sub topor și sub bătaie !</l>
+                  </lg>
+                  <lg>
+                     <l>Căci mi-i sufletul mîhnit,</l>
+                     <l>C-am ajuns de ne-au robit,</l>
+                     <l>Și m-au prins un dor nebun</l>
+                     <l>Tot amarul să-mi răzbun</l>
+                     <l>Prin desișul de alun !</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Pentru Bălcescu </head>
+                  <lg>
+                     <l>De râvnă spre maica țară, inima ta mult pătrunsă,</l>
+                     <l>Tu ce faci a se renaște niște vechi izvoare-ascunse,</l>
+                     <l>A strămoșilor izbînde, te-ai muncit a da-n lumină</l>
+                     <l>Ș-a lor verde, bărbăție de fapte voinice plină.</l>
+                  </lg>
+                  <lg>
+                     <l>Astă muncă, astă rîvnă, au în sineși mulțămire,</l>
+                     <l>Căci tu ești întîi avutul ce culegi cu răsplătire</l>
+                     <l>În comori necunoscute, ce-au fost pradă de uitare,</l>
+                     <l>Din a căror bogăție tu reverși îmbelșugare.</l>
+                  </lg>
+                  <lg>
+                     <l>Nu uita că-n întunerec, pipăind scumpe cercări,</l>
+                     <l>Deși rîul ne desparte, prin al său curs între țări,</l>
+                     <l>Tot lucește o făclie de prietene scîntei,</l>
+                     <l>Pe a căror mică pară, tu drept pravăț să o iei.</l>
+                  </lg>
+                  <lg>
+                     <l>Ca să-ndrepți gîndu-i vrodată spre Mînjina, ce jelește</l>
+                     <l>Că norocul nestatornic de prieteni o lipsește...</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                  </lg>
+                  <trailer>Mînjina, 11 aprilie 1846</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scrieri</title>
+            <author>Ranetti,George</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date/>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">
+               <ptr target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro"/>
+               <lb/>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">
+               <ptr target="https://ro.wikisource.org/wiki/Autor:George_Ranetti"/>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro">ro</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Petru Dimulescu</name>
+               <date>2019-07-21T03:26:32.609761000</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <head>Scrieri</head>
+         <author>Ranetti,George</author>
+         <p rend="start color(#000000)">
+            <ptr target="https://ro.wikisource.org/wiki/Autor:George_Ranetti"/>
+         </p>
+         <p rend="color(#000000)">
+            <ptr target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro"/>
+            <lb/>
+         </p>
+         <p rend="justify">ro</p>
+         <div type="div1">
+            <head>Poezii</head>
+            <div type="div2">
+               <div type="div3">
+                  <head>Sonet-Fabulă</head>
+                  <lg>
+                     <l>A ars în mahala o băcănie,</l>
+                     <l>Jupînul cu nevasta-i stau în drum,</l>
+                     <l>Privind sinistrele grămezi de scrum,</l>
+                     <l>Pierduta lor pe veci gospodărie.</l>
+                     <l>Pe cînd ei plîng, o mare bucurie</l>
+                     <l>Simte un porc din curtea lor acum,</l>
+                     <l>Căci scormonind maidanul plin de fum,</l>
+                     <l>Descoperi cu rîtul o scrumbie.</l>
+                     <l>Ce-i pasă de-a stăpînilor avere?</l>
+                     <l>Imundul morfolește cu plăcere</l>
+                     <l>Cadavrul din funingeni și gunoi.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Morală:</hi>
+                     </l>
+                     <l>A ars în mahala o băcănie,</l>
+                     <l>Și-i tot așa în marea Românie</l>
+                     <l>Cu-mbogățiții noștri de război.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Amintire</head>
+                  <lg>
+                     <l>Divina mea bucătăreasă,</l>
+                     <l>O unguroaică durdulie,</l>
+                     <l>Avea un păr ca de mătasă</l>
+                     <l>Și ochii plini de poesie.</l>
+                  </lg>
+                  <lg>
+                     <l>Părea o drăgălașă zână</l>
+                     <l>Din basme aevea întrupată;</l>
+                     <l>Spre a-mi găti, cu alba-i mâna</l>
+                     <l>Cea mai superbă marinată.</l>
+                  </lg>
+                  <lg>
+                     <l>Indură-te, crudelă Roză!</l>
+                     <l>Fii milostiva și cuminte;</l>
+                     <l>Voiesc să uit a vieții proză</l>
+                     <l>În sărutarea ta fierbinte.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar ea ne-ndurătoare, rece,</l>
+                     <l>Mi-a zis: „La mine am bărbat</l>
+                     <l>Nem larmă, altfel mine place</l>
+                     <l>Eu spui lui Ianoș ce-ntâmplat”.</l>
+                  </lg>
+                  <lg>
+                     <l>S-a dus infama făr-o vorbă</l>
+                     <l>Dar mi-a lăsat ca amintire</l>
+                     <l>În ziua aceea chiar în ciorbă...</l>
+                     <l>O buclă blondă și subțire!</l>
+                  </lg>
+                  <trailer>Apărut în <hi rend="italic">Sara</hi>, numărul din 20 noiembrie 1896 și purtând semnătura lui <hi rend="italic">Sandernagor</hi>.</trailer>
+               </div>
+               <div type="div3">
+                  <head>Lui C. Nottara </head>
+                  <lg>
+                     <l>Tu cel mai ideal Horațiu</l>
+                     <l>Din vecinica Fântâna Blanduziei</l>
+                     <l>Rămâne-vei izvor al Poeziei</l>
+                     <l>Din care vom sorbi fără de sațiu</l>
+                     <l>Toți fiii viitori ai României</l>
+                     <l>Rămâne-vei simbol al vredniciei</l>
+                     <l>Ș-al Artei ce desfide timp și spațiu.</l>
+                  </lg>
+                  <lg>
+                     <l>George Ranetti</l>
+                     <l>cel care a spus ieșind, într-o zi, în Calea Victoriei:</l>
+                     <l>„Ce dă lume, ce dă lume și nici un Om!”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Rapsodia Dâmboviței</head>
+                  <epigraph>D-rei Elena Văcărescu<note xml:id="ftn1" place="foot" n="">
+                        <list type="unordered">
+                           <item>Elena Văcărescu este autoarea volumului de versuri <hi rend="italic">Le rapsode de Dambovitza</hi> (1892), premiat de Academia Franceză.</item>
+                        </list>
+                     </note>
+                  </epigraph>
+                  <lg>
+                     <l>Unde-i bardul să repete, punând dreapta lui pe cruce,</l>
+                     <l>Că ești dulce și că cine te-a băut nu se mai duce?...</l>
+                     <l>Un poet spune cam multe. Pentr-o rimă, pentr-un fleac,</l>
+                     <l>El, senin, jertfește-o roză de hatâr’ unui dovleac,</l>
+                     <l>Și-o sonoră nerozie cu solemnitate-azvârlă!</l>
+                     <l>Adevăru-i că-ntre gârle tu ești cea mai proastă gârlă,</l>
+                     <l>Dâmboviță! Și Destinul a fost mare imbecil</l>
+                     <l>Când în București te puse și nu te-a pus la Mizil! [...]</l>
+                  </lg>
+                  <lg>
+                     <l>Apa îndeobște este prost lichid, nu mai e vorba:</l>
+                     <l>Scuza-i că din ea poți face baie ori o acră ciorbă...</l>
+                     <l>Însă niciodată apa nu s-a-nfățișat mai prost,</l>
+                     <l>Ca în Dâmbovița!... Lungă tocmai ca o zi de post,</l>
+                     <l>Cenușie și murdară ca manșeta unui june</l>
+                     <l>Pe care talentu-l-nalță și mizeria-l răpune;</l>
+                     <l>Dâmbovița parcă este un depozit secular</l>
+                     <l>Unde s-a strâns toata braga Principatului Bulgar!</l>
+                     <l>Sunt pe lume gârle care poartă-n undele lor pește,</l>
+                     <l>Altele p-a căror prunduri praf de aur stralucește.</l>
+                     <l>Mai sunt gârle ce au țărmuri adumbrite de răchiți</l>
+                     <l>Sau de sălcii pe sub care plutesc bărci cu-ndrăgostiți...</l>
+                     <l>Dar pe malul Dâmboviței cresc scaieți și pălămidă</l>
+                     <l>Și n-a produs pân-acuma decât... febră tifoidă!</l>
+                     <l>Toate gârlele din lume bune-s la câte ceva:</l>
+                     <l>Spre a se scălda poporul, morile spre a mișca...</l>
+                     <l>Însă-n Dâmbovița noastră (dar-ar Dumnezeu să sece!)</l>
+                     <l>Nu pot nici măcar nebunii din amor ca să se-nece!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>În noaptea de 10 mai </head>
+                  <lg>
+                     <l>E zece mai... Iluminații...</l>
+                     <l>Ăst miez de noapte pare-amiazi.</l>
+                     <l>Scînteie mii de constelații</l>
+                     <l>Printre ghirlandele de brazi.</l>
+                  </lg>
+                  <lg>
+                     <l>Orașele-s iluminate</l>
+                     <l>În chip atîta de feeric,</l>
+                     <l>Că, prin contrast, bietele sate</l>
+                     <l>Zac și-n mai negru întuneric.</l>
+                  </lg>
+                  <lg>
+                     <l>Au fost și-n satele sărace</l>
+                     <l>Iluminații... N-ar mai fi !</l>
+                     <l>Arzînd, bogatele conace</l>
+                     <l>Schimbau și-acolo noapte-n zi.</l>
+                  </lg>
+                  <lg>
+                     <l>Și totuși, nu ne-nvățăm minte !</l>
+                     <l>Tot lux ! Tot fast ! Deșertăciuni</l>
+                     <l>Ce fac dintr-un popor cuminte</l>
+                     <l>Un vast ospiciu de nebuni.</l>
+                  </lg>
+                  <lg>
+                     <l>O, stingeți lămpile acestea:</l>
+                     <l>Îmi face rău lumina lor !</l>
+                     <l>Căci ele mi-amintesc povestea</l>
+                     <l>Cea tragică a satelor...</l>
+                  </lg>
+                  <lg>
+                     <l>Privind mulțimea ce se strînge</l>
+                     <l>Sub lampioane ce sclipesc,</l>
+                     <l>În roșul razelor văd sînge</l>
+                     <l>Nevinovat și românesc !</l>
+                  </lg>
+                  <trailer>Publicată în <hi rend="italic">Furnica</hi>, an IV (1908), nr. 191 (8 mai), semnată Cyrano</trailer>
+               </div>
+               <div type="div3">
+                  <head>Triptic marin </head>
+                  <lg>
+                     <l>Marea-i verde, liniștită,</l>
+                     <l>Când se ivesc zorile.</l>
+                     <l>O câmpie nesfârșită</l>
+                     <l>                    Parc</l>
+                     <l>Smaraldina, calma mare...</l>
+                     <l>Dar unde-i sunt florile?</l>
+                  </lg>
+                  <lg>
+                     <l>Marea la amiaz e-albastră</l>
+                     <l>Cum sunt peruzelele.</l>
+                     <l>Pare-un cer... Dar nici o astră</l>
+                     <l>                    N-are</l>
+                     <l>Acest cer fără hotare</l>
+                     <l>Unde-i sunt stelele?</l>
+                  </lg>
+                  <lg>
+                     <l>Noaptea-i neagră. S-o descrie</l>
+                     <l>Cearcă-n van cuvintele.</l>
+                     <l>Noaptea-i neagră și pustie</l>
+                     <l>                    Mare.</l>
+                     <l>Ești un cimitir!.... Dar, care,</l>
+                     <l>Unde-ți sunt mormintele?</l>
+                  </lg>
+                  <lg>
+                     <l>Cer albastru fără stele.</l>
+                     <l>Verde câmp fără de flori.</l>
+                     <l>Cimitir fără morminte</l>
+                     <l>Tu-mi stârnești enigme grele,</l>
+                     <l>Tulburându-mi biata minte, —</l>
+                     <l>Și ca moartea mă-nfiori....</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Ca și odinioară... </head>
+                  <lg>
+                     <l>Am revăzut moșiea iar in floare...</l>
+                     <l>Blagoslovitul grâu prăjit de soare.</l>
+                     <l>Ca ș-altădată-ntinde pe câmpie</l>
+                     <l>O nesfârșită pânză aurie,</l>
+                     <l>Și numai ici și colo mici șuvițe</l>
+                     <l>De flori îmbălsămate și pestrițe:</l>
+                     <l>Iar printre ele țanțoșii, făloșii</l>
+                     <l>                       Maci roșii.</l>
+                  </lg>
+                  <lg>
+                     <l>Ca marea dup-o groaznică furtună.</l>
+                     <l>Așa părea azi câmpul potolit,</l>
+                     <l>Că nimeni n-ar avea temeiu de bănuit</l>
+                     <l>Că și p-aici, năpraznică, nebună.</l>
+                     <l>Deslănțuitu-s-a revolta celor mici.</l>
+                     <l>De-au tremurat palate uriașe</l>
+                     <l>Și s-au simțit mai mici, mai nevoiașe.</l>
+                     <l>Ca niște mușuroaie de furnici!....</l>
+                     <l>Cine-ar ghici că un vulcan a fost aici?...</l>
+                  </lg>
+                  <lg>
+                     <l>Ca și odinioară, subt arșița de vară.</l>
+                     <l>Țăranul strânge  snopii belșugului străin:</l>
+                     <l>Și-i calm, și-i harnic, bietul... Ce vită de povară !</l>
+                     <l>Dă zece înainte chiar boului blajin...</l>
+                  </lg>
+                  <lg>
+                     <l>Ca și odinioară, el jalea doar și-o plânge</l>
+                     <l>Cosind, în resemnatul și blândul doinei viers...</l>
+                     <l>Dar, — rătăciți în snopul ce mâna-i aspră strânge — </l>
+                     <l>Văd câțiva maci... și-mi pare că-s petele de sânge</l>
+                     <l>                       Ce încă nu s-au șters!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Plugul și tunul </head>
+                  <subtitle>Fabulă</subtitle>
+                  <lg>
+                     <l>S-au întâlnit un plug ș-un tun</l>
+                     <l>Pe drumul unui mic cătun.</l>
+                     <l>Și drumul așa strâmt era</l>
+                     <l>        Că nu putea</l>
+                     <l>Pe el sa treacă decât unul.</l>
+                     <l>Să treacă Plugu-ntâi sau Tunul?</l>
+                     <l>În marea lor nedumerire</l>
+                     <l>        Șezură-n loc,</l>
+                     <l>Dar Tunul, țanțoș, c-o privire</l>
+                     <l>        Plină de foc,</l>
+                     <l>Și fulgere țâșnind din ochi-adânci,</l>
+                     <l>Se repezi și dete-un brânci</l>
+                     <l>        Plugului, zicând: </l>
+                     <l>— „În lături, țopârlan de rând!”</l>
+                     <l>„Eu cel dintâiu să trec se cade;”</l>
+                     <l>Smerit în  urmă să-mi mergi bade!”</l>
+                     <l>Dar Plugul spuse cu sfială: </l>
+                     <l>— „Prietene, fără-ndoială,”</l>
+                     <l>„Pesemne ești smintit, ori... Krupp?”</l>
+                     <l>„Aș înțelege-o rugăminte;”</l>
+                     <l>„Dar să-mi ordoni să treci-nainte?!”</l>
+                     <l>— „Ordon! Iar de nu vrei, — te rup!”</l>
+                     <l>Ș-adaogă: „Nu mă cunoști,”</l>
+                     <l>„Desigur dacă îndrăznești”</l>
+                     <l>„Porunci-mi să te-mpotrivești</l>
+                     <l>Eu-s fruntea falnicelor oști,</l>
+                     <l>Și nu s-a-ncumetat nici unul</l>
+                     <l>A umili pan-acum Tunul !”</l>
+                     <l>      „Nemernic Plug,” </l>
+                     <l>      „Eu aș putea” </l>
+                     <l>      „Doar c-o ghiulea”</l>
+                     <l>      „Să te distrug!” </l>
+                     <l>„Ar fi să-ți fac însă o farsă” </l>
+                     <l>„Nedemnă de puterea mea.”</l>
+                     <l>„Privește!”</l>
+                     <l>„Și, spune-mi, nu te îngrozește” </l>
+                     <l>„Această gură ce foc varsă” </l>
+                     <l>„Ca un balaur din povești?” </l>
+                     <l>„Și, spune-mi, nu te îngrozești”</l>
+                     <l>„Când glasu-mi sună mânios”</l>
+                     <l>„Ca trăznetul cel fioros?”</l>
+                     <l>„Să-nfrunți, tu, forța mea haină,” </l>
+                     <l>„Tu, vierme târâtor în humă?!”</l>
+                     <l>„O, Plugule, asta-i o glumă!”</l>
+                     <l>„Eu pot preface în ruină”</l>
+                     <l>„Cetăți cu ziduri seculare”</l>
+                     <l>„Și pot trimete la plimbare”</l>
+                     <l>„Pe celălalt tărâm, o Plug,”</l>
+                     <l>„Zecimi de mii de inși !... Toți fug”</l>
+                     <l>„În fața Tunului năpraznic!...”</l>
+                     <l>„Zău, recunoaște: fuși obraznic!”</l>
+                  </lg>
+                  <lg>
+                     <l>Sărmanul Plug rămase o clipă </l>
+                     <l>        Îngândurat.</l>
+                     <l>Unui puternic îngâmfat</l>
+                     <l>E greu să-i dai răspuns în pripă.</l>
+                     <l>Dar, după ce se chibzui,</l>
+                     <l>        Grăi: </l>
+                     <l>— „Mărturisesc cu resemnare:”</l>
+                     <l>„Puterea ta este mai mare,”</l>
+                     <l>        „O Tun”</l>
+                     <l>        „Nebun!”</l>
+                     <l>„Și-și închină fața sa plânsă”</l>
+                     <l>„Mărturisește și tu însă”</l>
+                     <l>„Ca și eu deși nu-s fălos”</l>
+                     <l>„Pe lumea asta-s de folos!” </l>
+                     <l>„Urgia ta pustiitoare”</l>
+                     <l>„Distruge sate si ogoare,”</l>
+                     <l>„Și ori pe unde treci lași gol,”</l>
+                     <l>„Ruină, jale și pârjol!”</l>
+                     <l>„Ș-atunci vin eu, Plug oropsit,”</l>
+                     <l>„Și dreg ce tu ai nimicit:” </l>
+                     <l>„Colibele nefericite”</l>
+                     <l>„Și lanurile aurite,”</l>
+                     <l>„Ca-n urma brazdei Plugului”</l>
+                     <l>„Cresc spicele belșugului,”</l>
+                     <l>„Și nu-i pamânt mai mult bogat”</l>
+                     <l>„Ca cel cu sânge îngrășat!”</l>
+                  </lg>
+                  <lg>
+                     <l>Așa vorbiră plug și tun</l>
+                     <l>Pe drumul micului cătun.</l>
+                     <l>Dar, iată, după un tufan</l>
+                     <l>Le iese-n cale un țăran,</l>
+                     <l>Care le zise: — „Pace vouă!”</l>
+                     <l>„Unelte sunteți amândouă”</l>
+                     <l>„De o potrivă de utile:”</l>
+                     <l>„Tu, mândre tun, ești vitejia,”</l>
+                     <l>„Tu, plug umil, ești hărnicia!”</l>
+                     <l>„Și trebuie sa vă legați”</l>
+                     <l>„Ca frați!”</l>
+                     <l>„Și, mai ales, să nu uitați” </l>
+                     <l>„Ca eu țăranu-n veci jertfit,”</l>
+                     <l>„Ca mucenicul osândit”</l>
+                     <l>„Să piară pe aprinsul rug, —” </l>
+                     <l>„<hi rend="italic">Eu</hi> mânuesc și tun și plug!”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>0 și 1</head>
+                  <lg>
+                     <l>Țifra Zero, obosită,</l>
+                     <l>Gâfâind, cum e ea grasă,</l>
+                     <l>Vru-ntr-o zi să stea la masă,</l>
+                     <l>Căci era și flămânzită</l>
+                     <l>(Pântecu-i e vecinic gol,</l>
+                     <l>Lângă Unu. Deci domol,</l>
+                     <l>Zero roagă să-l primească</l>
+                     <l>Un minut să s-odihnească</l>
+                     <l>Și foamea să-și potolească.</l>
+                     <l>Însă Unu,</l>
+                     <l>Ca nebunu,</l>
+                     <l>Insultă pe bietul Zero:</l>
+                     <l>— „Cum îndrăznești, hahalero,</l>
+                     <l>Lângă mine să te-așezi?</l>
+                     <l>Nu te vezi</l>
+                     <l>În ce hal ești, măi fârtate?</l>
+                     <l>Un nimic!... O nulitate!</l>
+                     <l>Eu, cu capul sus, semeț,</l>
+                     <l>Și drept ca un făcăleț,</l>
+                     <l>Stau în fruntea tuturor,</l>
+                     <l>Stau în fruntea țifrelor.</l>
+                     <l>Să stai tu la prânz cu mine?!</l>
+                     <l>Tu, pe care te-am văzut</l>
+                     <l>Încă cu-n altul ca tine,</l>
+                     <l>Tot așa necunoscut,</l>
+                     <l>Stând pe uși de la latrine?</l>
+                     <l>Marș d-aici!”</l>
+                     <l>— „Nu fi mândru cu cei mici,</l>
+                     <l>Unule,</l>
+                     <l>Nebunule!</l>
+                     <l>Îi răspunse Zero-ndată:</l>
+                     <l>Darnic n-ai fost niciodată,</l>
+                     <l>Nici bărbat,</l>
+                     <l>Probă că nici nu-mpărțești,</l>
+                     <l>Nici nu-nmulțești:</l>
+                     <l>Acest fapt e demonstrat.”</l>
+                     <l>Pe când cearta era-n toi</l>
+                     <l>Și era să fie lată,</l>
+                     <l>Țifra Două, înarmată,</l>
+                     <l>Porni dârză la război</l>
+                     <l>Împotriva țifrei Unu,</l>
+                     <l>Și l-ar fi distrus, cu tunu,</l>
+                     <l>Ori mai știu eu cu ce armă,</l>
+                     <l>Dacă Unu speriat,</l>
+                     <l>Pe Zero n-ar fi chemat</l>
+                     <l>Cu un strigăt de alarmă.</l>
+                     <l>Zero, iertând pe mișel,</l>
+                     <l>Veni-ndată lângă el,</l>
+                     <l>Silind pe Două să plece,</l>
+                     <l>Căci – vă jur că nu-i minciună –</l>
+                     <l>Unu și Zero-mpreună</l>
+                     <l>Aveau putere cât Zece.</l>
+                  </lg>
+                  <lg>
+                     <l>Vechi de când cu tata Noe</l>
+                     <l>E-un proverb ce spune bine:</l>
+                     <l>„Totdauna ai nevoie</l>
+                     <l>De unul mai mic ca tine.”</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <div type="div1">
+            <head>Romeo și Julieta la Mizil</head>
+            <subtitle>Comedie în două acte </subtitle>
+            <div type="div2">
+               <head>
+                  <anchor xml:id="id_Actul_I"/>Actul I</head>
+               <p>(La Mizil. În zorii unei dimineți de vară. O uliță. În fundul scenei, două case despărțite numai prin niște uluci scunde. Câte o laviță la portița fiecăreia și câte un felinar pe trotuar. Doar cel din dreptul caselor primarului este aprins. La ridicarea cortinei, gardistul, învelit cu mantaua, tolănit pe banca de la portița lui Dom' Ghiță, doarme sforăind. Mișu iese, tiptil, din casa lui conu' Nae, se uită cercetător în toate părțile, apoi sare peste ulucele despărțitoare în curtea vecină și dispare în fund, în dosul caselor. Gardistul continuă să tragă aghioase. Mică pauză. Leonida, lampagiul, intră prin stânga, căscând, proptește o scară de felinarul aprins, se urcă, suflă și stinge lampa, pe urmă cu o cârpă scoate sticla și mașina, și toarnă gazul care a mai rămas în lampă într-un clondir din buzunarul pantalonilor. Gardistul trage în vremea aceasta o sforăitură mai puternică. Lampagiul se fâstâcește și scapă sticla care se sparge-n țăndări. Ioniță, gardistul, se deșteaptă brusc, cască, se freacă la ochi și se uită curios la operația pe care o făcea Leonida) </p>
+               <p>Gardistul: </p>
+               <p>Ce dracu faci acolo, chir Leonido? </p>
+               <p>Leonida: </p>
+               <p>Duc nițel gaz acasă, mei! </p>
+               <p>Gardistul: (îngăduitor, râzând) </p>
+               <p>Așa?... credeam că-l bei! </p>
+               <p>Leonida: </p>
+               <p>Ce vrei să fac Ioniță? Acum sunt la putere... </p>
+               <p>(semnul de bani cu degetele) </p>
+               <p>Ciupesc și io acolo un ban pe zi... Măi vere, </p>
+               <p>Să nu s-auză vorbă... Că nu mă știi cum lupt... </p>
+               <p>Am șeapte guri acasă!... M-au supt mă rog, m-au supt! </p>
+               <p>Hăinuț' asta-i întoarsă pe dos a doua oară... </p>
+               <p>Pa' zecișipa' pe lună... Ce faci cu-așa lefșoară? </p>
+               <p>Pa' zecișpa' Ioniță, -și știi că fac sirvici </p>
+               <p>Nu într-un loc, nu-n două, -ci-n trei! întâi, aici... </p>
+               <p>Gardistul: (nu te plânge) </p>
+               <p>He, asta nu-i o slujbă tocmai așa de grea! </p>
+               <p>Sunt patru felinare în tot Mizilu'... </p>
+               <p>Leonida: </p>
+               <p>Da... </p>
+               <p>Aprinz și sting doar p'alea d'aici dă la premaru', </p>
+               <p>Dă la zapciu, și doftor... Ș' am orden felenaru' </p>
+               <p>D'alături unde șade... (în șoaptă) </p>
+               <p>
+                  <lb/>Gardistul: (cunoscător) </p>
+               <p>La conu' Nae, hai? </p>
+               <p>Leonida: </p>
+               <p>Să nu-l aprinz, Ioniță, nici chiar la 10 mai! (radical) </p>
+               <p>Gardistul: (admirativ) </p>
+               <p>Al naibii'l cumbate dom' Ghiță pe ciocoiu! </p>
+               <p>Leonida: (coborând scara) </p>
+               <p>Și mai ales acuma, când sântără în toiu </p>
+               <p>Alegerilor. (oftând, scârbit) </p>
+               <p>Doamne! Tot p'ăștia să-i alegi! </p>
+               <p>Gardistul: </p>
+               <p>Mie puțin îmi pasă, fiincă, mă'țelegi, </p>
+               <p>Ori cine-o fi gubernu' care-o veni în țară, </p>
+               <p>Pă mine niciodată n'o să mă dea afară. </p>
+               <p>Leonida: (cu pizmă) </p>
+               <p>Ești tare mă loniță! Nu știu ce dregi, ce faci, </p>
+               <p>Da' și cu-ăi albi ș'ăi roșii io văz că tu te'mpaci. (râzând, insinuant) </p>
+               <p>N'oi fi măi verișcane vr'o rudă dă menistru? </p>
+               <p>Gardistul: (confidențial) </p>
+               <p>Nu's Leonido; însă, io's d'ăia... junimistru! </p>
+               <p>Le'nvârtesc io bine, ce-i drept, da' să nu crezi </p>
+               <p>Că'i mare pricopseală! Nu-i tocma moft să șezi (se laudă) </p>
+               <p>În nopțile de iarnă aci de caraulă, </p>
+               <p>Drept pat – lavița asta, drept pernă – o căciulă! </p>
+               <p>Leonida: (râzând) </p>
+               <p>Hei, lasă, că mai stai tu și pă saltea dă puf! </p>
+               <p>Relaxa, vezi tu bine! </p>
+               <p>Gardistul: </p>
+               <p>Iluzie la Frosa adicătelea?... ufff!!!... </p>
+               <p>Da'bine, măi cumetre, vieațâ este asta </p>
+               <p>S'ai trei pe cap? </p>
+               <p>Leonida: </p>
+               <p>Trei, vere? </p>
+               <p>Gardistul: </p>
+               <p>Păi, trei: întâi nevasta; </p>
+               <p>Pă urmă, când dom' Ghiță este premar, ca azi, </p>
+               <p>Cu slujnica lui trebuie la dragoste să cazi. </p>
+               <p>Leonida: </p>
+               <p>Cu Frosa? </p>
+               <p>
+                  <lb/>Gardistul: </p>
+               <p>Da. Pă urmă, când vine conu' Nae, </p>
+               <p>Consirvatori – adică, nu’mi-aș aprinde paie </p>
+               <p>Pă cap dă nu m-aș ține cu slujnica’mnealui. </p>
+               <p>Leonida: (filosofic) </p>
+               <p>Devine greu, Ioniță! </p>
+               <p>Gardistul: (scărpinându-se în cap, atotcompătimitor) </p>
+               <p>Greu nene, cui i-o spui! </p>
+               <p>Leonida: </p>
+               <p>Noroc că sunt frumoase ca două dude </p>
+               <p>coapte!</p>
+               <p rend="color(#000000)">==&gt; (încetișor, plescăind) </p>
+               <p>Gardistul: </p>
+               <p>Vezi, d-aia sunt io, neicâ, mereu serjent dă noapte </p>
+               <p>Subt orișice gubernuri, pen'că l’așa ceva </p>
+               <p>Nu poate să slujească oricare mangafa!... </p>
+               <p>Leonida: (râzând) </p>
+               <p>Văz Doamne, faci sirviciu ca Pașa din Rusciuk!... </p>
+               <p>Da' s'auzim dă bine, Ioniță, că mă duc... </p>
+               <p>Gardistul: </p>
+               <p>Noroc!... da'cât să fie acușa ceasu, frate, </p>
+               <p>Dă stinseși lampa? </p>
+               <p>Leonida: (se uită în sus, pauză două secunde) </p>
+               <p>Șease... ori șease și jumate. </p>
+               <p>Gardistul: </p>
+               <p>Atuncea pân la șeapte mai trag un puișor </p>
+               <p>Dă somn! (scoate un pește mic cu undița din curte) </p>
+               <p>Leonida: (râzând, insinuant) </p>
+               <p>Vezi dă Frusina! </p>
+               <p>Gardistul: </p>
+               <p>Nu-mi mai vorbi că mor! </p>
+               <p>Să te fereascâ sfântu' să dai peste-o muere </p>
+               <p>Cu-ambițuri, fin'că cică acușa-i la putere! </p>
+               <p>Leonida: (care se depărtase, se întoarce îngrijorat, speriat) </p>
+               <p>Or să mai stea Ioniță? Că ăilanții dă vin </p>
+               <p>Mă mătură tâlharii!... </p>
+               <p>Gardistul: </p>
+               <p>Păi de, dă ești creștin </p>
+               <p>Cinstit, consirvatorii în slujb'or să te ție. </p>
+               <p>
+                  <lb/>Leonida: </p>
+               <p>Ce-i cinstea azi, Ioniță? Să ieși din pușcărie, </p>
+               <p>Ș'așa dân cer să-ți pice 5000 dă poli venit, </p>
+               <p>Chiar procuroru-ar zice: – Ce negustor cinstit! </p>
+               <p>Gardistul: (căscând) </p>
+               <p>Taci măi că liberalii tot or s'apuce anu'. </p>
+               <p>Leonida: (întorcând pe dos tăblița de pe felinar) </p>
+               <p>Un an!... și bulivardu' lu' domnu' Brătianu </p>
+               <p>Când o fi conu' Naie premar, atunci sanchiu </p>
+               <p>Îi schimbă sicritatea: Lascăr Catargiu! </p>
+               <p>Și io, care-ori ce-ai zice's cevașilea'n Mizil, </p>
+               <p>(gardistul adoarme în timpul discuției) </p>
+               <p>Iar o să umblu iarna în pantaloni dă dril! </p>
+               <p>(ascultă sforăiturile gardistului care în vremea asta a ațipit) </p>
+               <p>A adormit... atuncea dă ce n'aș lua ș'o lambă? </p>
+               <p>Și, dacă domnu' Ghiță o să mă dea în stambă, </p>
+               <p>I-oi spune c'a furat-o... oi ști io cum s-o dreg... </p>
+               <p>Of! Of! Dă la putere cu-atâta doar m-aleg! </p>
+               <p>(se urcă din nou pe felinar, bagă lampa în buzunar, și apoi luând scara iese cu precauțiune prin dreapta. Mică pauză. Din dosul caselor primarului apar în grădiniță: Mișu și Veta la braț, în urma lor Guvernanta) </p>
+               <p>Misu: (liric) </p>
+               <p>E ora când surâde rozalba dimineață... </p>
+               <p>Guvernanta: (plictisită, căscând) </p>
+               <p>O! Jesus... morghen... uite, ridic oploane'n piață! </p>
+               <p>Misu: (și mai liric) </p>
+               <p>Cad lacrămi de adio din stele țe se sting </p>
+               <p>Si-n picături de rouă pe ierburi se preling! </p>
+               <p>Veta: </p>
+               <p>Vorbești așa de dulce! </p>
+               <p>Guvernanta: (aparte, într-o parte încet spre spectatori) </p>
+               <p>Ba, bați vasăr în piuă! </p>
+               <p>Misu: </p>
+               <p>Aș vrea ca nițiodată să nu mai fie ziuă! </p>
+               <p>O noapte de delițiu d'a pururi să trăim, </p>
+               <p>O noapte lungă, lungă, luungă... </p>
+               <p>Veta: </p>
+               <p>
+                  <lb/>Ah, sublim!... </p>
+               <p>La polul Nord o noapte întreg semestru ține, – </p>
+               <p>Hai să fugim acolo! </p>
+               <p>Guvernanta: (aparte, spre public, semn la cap) </p>
+               <p>Săraca... nu-i e bine! </p>
+               <p>Abăr, d'ar ține-o noapte-atâta, ar fi trist </p>
+               <p>Pentru mata, domn Mișu, că ești telegrafist. </p>
+               <p>Nu te plinjeai adesea că noaptea-i greu serviciul? </p>
+               <p>Misu: (transportat) </p>
+               <p>Dar care-i madam Snițel, oh, care-i sacrifițiul </p>
+               <p>De care nu-s capabil pentru al meu amor? </p>
+               <p>Ofițiant sunt astăzi. Ei bine! Chiar factor </p>
+               <p>Rural m'as fațe dac'ar țere Zulietta! </p>
+               <p>Veta: (protestând mofturoasă, dar vădit măgulită) </p>
+               <p>O cer! Eu, Julietta?! Uitași că-mi zice Veta... </p>
+               <p>Misu: </p>
+               <p>Da, Zulietta, scumpo, iar tu Romeo zi-mi </p>
+               <p>Cu glasul tău țe'ntrețe un cor de heruvimi. </p>
+               <p>Romeo zi-mi, nu Misu! Vai, soarta noastră, oare, </p>
+               <p>Nu-i tot atât de neagră si neîndurătoare </p>
+               <p>Ca tradzica ursită a țelor doi eroi? </p>
+               <p>Veta: (melancolică) </p>
+               <p>Așa e... nu se-ndură părinții nici de noi! </p>
+               <p>Misu: </p>
+               <p>De zețe ani își poartă o ură... seculară. </p>
+               <p>Li's casele veține, un gard doar îi separă; </p>
+               <p>Dar între a lor inimi durat-au zid înalt... </p>
+               <p>Veta: (oftând) </p>
+               <p>Papa e Capoletto, Montague-i celălalt... </p>
+               <p>Misu: </p>
+               <p>Politica! Infama politică-i desbină! </p>
+               <p>Din zori, când beau cafeaua cu lapte în grădină, </p>
+               <p>Si până când i-nhață în brațele-i Morfeu, </p>
+               <p>O duc doar într-o țeartă haină... </p>
+               <p>Veta: (același joc) </p>
+               <p>Tu și eu, </p>
+               <p>(minunată) </p>
+               <p>Vai, ne iubim în taină! </p>
+               <p>Misu: </p>
+               <p>Îngrozitor martir! </p>
+               <p>
+                  <lb/>Veta: </p>
+               <p>Amor fără nădejde! </p>
+               <p>Misu: </p>
+               <p>Țeva a la SEXPIR! </p>
+               <p>Când sunt la sluzbă, Veto, si bat vreo depesă, </p>
+               <p>Adesea mi se-ntâmplă să bat în loc d'adresă </p>
+               <p>Al tău pronume dulțe si nume drăgăstos. </p>
+               <p>Ascultă, o, ascultă cât sună de frumos! (bate-n masă cu degetul: /...– / . / – / .– /) </p>
+               <p>Veta: </p>
+               <p>Ce-ai zis acuma? </p>
+               <p>Misu: </p>
+               <p>Veta! Trei puncte, liniuță, un punct o liniuță... </p>
+               <p>Îți fac o rugățiune ff urdzent, drăguță: </p>
+               <p>Nu-nveți si tu ca mine asa să țiocănesti? </p>
+               <p>Veta: </p>
+               <p>Să-nvăț telegrafia? </p>
+               <p>Misu: </p>
+               <p>Zău dacă mă iubesti! </p>
+               <p>Să pot să-ți spun amoru'mi doar prin telegrafie!... </p>
+               <p>Veta: </p>
+               <p>Poemă fară vorbe!... să-ți fac hatârul. Fie! </p>
+               <p>Misu: </p>
+               <p>Ascultă Zulietto, ascult'acum țe zic! (ciocănește în masă: / – /. / .. /..– / –... / . /... /–.–. /) </p>
+               <p>Guvernanta: (spre public) Când bați la el depeșă, ești oare tot peltic? </p>
+               <p>Veta: </p>
+               <p>Ce-ai spus? </p>
+               <p>Misu: </p>
+               <p>Am spus, copilă, cuvintele ațelea </p>
+               <p>Țe fac întotd'auna să îmi furnițe pelea, </p>
+               <p>Si mii de volți prin suflet să zoațe-un danț drățesc; </p>
+               <p>Am spus – nu ghițesti oare? -am spus că te iubesc! </p>
+               <p>Veta: </p>
+               <p>Cuvintele acestea rostite d'a ta gură </p>
+               <p>(pătrunsă) </p>
+               <p>Sunt dulci, Romeo, par'că mănânc o prăjitură. </p>
+               <p>Mai spune-le odată! Ah... spune-le mereu! </p>
+               <p>Misu: </p>
+               <p>Le-as spune, Zulietto; da' vezi că e cam greu. </p>
+               <p>N-am aparatu'aițea si dacă bat în masă </p>
+               <p>
+                  <lb/>Mă doare-al naibii mâna. </p>
+               <p>Veta: </p>
+               <p>Așa? Atuncea lasă, – </p>
+               <p>Le voi citi în ochii-ți </p>
+               <p>Misu: </p>
+               <p>Țiteste, te conzur! </p>
+               <p>Iar eu țitesc în ochi-ți albastri de azur! </p>
+               <p>Guvernanta: (care începuse de mult să dea semne de nerăbdare și moțâia bătând toba cu degetele) </p>
+               <p>Tomn Misu... tomnișoară... ist morgăn.. ziuă mare... </p>
+               <p>Ih bitte... este timpul să mergem la culcare... </p>
+               <p>Misu: </p>
+               <p>O clipă, madam Snițel, mai lasă-ne' mpreună! </p>
+               <p>Guvernanta: </p>
+               <p>De știi burgmaistăr asta, îmi tai leafa p'o lună! </p>
+               <p>Veta: </p>
+               <p>Are dreptate... haidem... de ne-ar vedea aici </p>
+               <p>La ora asta... </p>
+               <p>Guvernanta: (făcând semnul crucii) </p>
+               <p>Jesus așa nici glumi să zici! </p>
+               <p>Misu: (disperat) </p>
+               <p>Să viu si mâine noapte? </p>
+               <p>Veta: </p>
+               <p>Să vii, să vii, iubite! </p>
+               <p>Guvernanta: </p>
+               <p>Dar... abăr... </p>
+               <p>Misu: </p>
+               <p>Madam Znițel, zi da! </p>
+               <p>Guvernanta: </p>
+               <p>Abăr...-ich-bite... </p>
+               <p>Misu: </p>
+               <p>Zi da... o guvemantă fidelă! </p>
+               <p>Veta: </p>
+               <p>Tu ce-mi ții loc de mamă... </p>
+               <p>Guvernanta: (înduioșată) </p>
+               <p>
+                  <lb/>Iș... muter?... bine!... ia! </p>
+               <p>Misu: </p>
+               <p>Iș tanke, madam Znițel, amabilă amică! </p>
+               <p>Si'ncă țeva, izbite: o sărutare mică! </p>
+               <p>Veta: </p>
+               <p>Zi da! </p>
+               <p>Misu: </p>
+               <p>Zi da! </p>
+               <p>Guvernanta: </p>
+               <p>Ah... Jesus!... ei bine, </p>
+               <p>La mine astup ochi, spre-a nu auzi! </p>
+               <p>(cei doi îndrăgostiți se sărută zgomotos de mai multe ori) </p>
+               <p>(Misu încalecă pe uluci, stând călare un moment ciocănește semnale telegrafice în zăbrele cu o mână, pe când cu cealaltă face bezele Vetei, care îi răspunde, mergând da'ndărătelea, până ce aceasta dispare în casă) </p>
+               <p>Misu: </p>
+               <p>Adio Zulietto! </p>
+               <p>Veta: </p>
+               <p>Să vii, Romeo! </p>
+               <p>Misu: </p>
+               <p>Viu! (Mișu când sare, pune piciorul pe lavița de la poartă, unde doarme gardistul. Acesta sare speriat și începe să dea țignale) </p>
+               <p>(șoptind) </p>
+               <p>Tați bre că nu vin turții! Nu mă cunosti? </p>
+               <p>Gardistul: (salutând militărește, smerit) </p>
+               <p>Dom' Mișu? </p>
+               <p>Misu: (băgând mâna în buzunar și dându-i câțiva gologani) </p>
+               <p>Na! Bea un spriț! </p>
+               <p>Gardistul: </p>
+               <p>Săr'mâna! E bun alișverișu' </p>
+               <p>Dă dimineață... însă... pardon... și mă ertati... </p>
+               <p>Dom' Mișule... știti, cere sirviciu... ce cătați </p>
+               <p>Peste uluci la domnu premar?... </p>
+               <p>Misu: (râzând) </p>
+               <p>Țe, Ioniță, </p>
+               <p>Văzutu-m'ai pe mine? Visezi sau esti cam criță? </p>
+               <p>Gardistul: (uitându-se la monedă) </p>
+               <p>De.. dom'le Mișulică, văz leul, nu zic ba... </p>
+               <p>
+                  <lb/>Da... te văzui io par'că, pardon, și pe 'Mneata! </p>
+               <p>Misu: </p>
+               <p>Hei, zi c-am rupt o floare... nu e nimic.. n-ai teamă... </p>
+               <p>Zi țe-oi pofti; dar fă-te că n-ai băgat de seamă! </p>
+               <p>Gardistul: (uitându-se la banii pe care îi ținea în palmă) </p>
+               <p>Să-mi dea pentru o floare un leu bacșiș? Ei aș! </p>
+               <p>Sunt deșcă veche, însă mai rar așa cevași! </p>
+               <p>Pen'ce să-mi fac'adică c'un leu tratație? </p>
+               <p>(stă pe gânduri o clipă. Lovindu-se cu palma peste obraz) </p>
+               <p>Uliuuuuu! N-o fi la mjloc vr'o cospirație? </p>
+               <p>Dom Ghiță opozantu' e tatăl lu dom' Mișu </p>
+               <p>Și pe premar cumbate... n'o fi făcut mișmișu? (semn cu degetele) </p>
+               <p>Să puie în grădină o... d-aia... o ghiulea? </p>
+               <p>Să icsplozioneze Mizilu'ntreg cu ea?... </p>
+               <p>Da'pă cât știu dom' Mișu politică nu face... </p>
+               <p>Atunci? Două băncuțe pen'ce îmi dete?... Drace! (luminat) </p>
+               <p>Da'dacă flăcăjneața o fi sărit pârleazu’ </p>
+               <p>Pentru Frusina? Dacă devine mă rog, cazu' </p>
+               <p>Dă mă traduce?... pen'că am mai văzut io d'ăi </p>
+               <p>Ce sunt râioși foc ziua, iar noaptea p'în odăi </p>
+               <p>De slujnici își fac veacu'!. Olio, olio, Frusino, (nervos rău, amenințător) </p>
+               <p>(gradat) </p>
+               <p>Dacă te-a'mpins păcatu’, atât'ți-oiu zice: „Vino </p>
+               <p>La nen'tu!”, și chiar dacă în cremenal mă duc, </p>
+               <p>De coc, de beregată, cu mâna te apuc! </p>
+               <p>Ș'atunci să știi, Frusino, că ai văzut pe dracu: </p>
+               <p>Îți toc ca pă' chioftele bojocii cu tesacu'! </p>
+               <p>(zărind-o pe Frusina) </p>
+               <p>A, uite-o, taman iese din casă. Să mă țiu! </p>
+               <p>Să aflu'ntâi sicretu'! Mă duc la un rachiu! </p>
+               <p>Să prinz coraj, și-n urmă i-oiu spune lu' domn Naie </p>
+               <p>Premaru daravela, chiar d-aș mânca bătaie. </p>
+               <p>(Pe când vrea să se depărteze, Frusina, cu un lighean în mână, î1 zărește, și-l strigă cu „psst!". Gardistul se întoarce.) </p>
+               <p>Frusina: (reproș) </p>
+               <p>Da' unde-ai fost azi noapte, măi nene Iionițâ? </p>
+               <p>Par'că știeai alt'dată să sări peste portiță? </p>
+               <p>Te-am așteptat cu lamba aprinsă. Pă grătar </p>
+               <p>Ți-oprisem o fleicuță turbată. </p>
+               <p>Gardistul (rece, implacabil, făcându-i o bezea ironico-amărâtă) </p>
+               <p>Alivoar! </p>
+               <p>Frusina: </p>
+               <p>Da'ce te-a lovit strechea? Nu vrei să stai de vorbă </p>
+               <p>Când sângele în vine îmi fierbe ca o ciorbâ? </p>
+               <p>Doar când în colțul străzei zăresc al tău chipiu </p>
+               <p>Și când 'ți-aud țignalu încep să tremur? Ce te-a găsit, musiu? </p>
+               <p>
+                  <lb/>Gardistul: (emotionat, dar energic) </p>
+               <p>Azi, madamo,' ți-am pus cruce, </p>
+               <p>Nu te fasoli-n zadar, </p>
+               <p>N-am habar dacă te-i duce </p>
+               <p>Alivoar! </p>
+               <p>O mustață să îmi rază </p>
+               <p>Dă' ți-oiu mai da io bonsoar </p>
+               <p>Când ne-om întâlni pe stradă... </p>
+               <p>Alivoar! </p>
+               <p>(iese furios) </p>
+               <p>Frusina: </p>
+               <p>Ori ești nebun, Ioniță, ori vrei ca să mă-ncerci!... </p>
+               <p>La urma urmei, dragă, na! </p>
+               <p>(îi dă o tiflă) </p>
+               <p>Pagubă-n ciuperci! </p>
+               <p>(se-nvârtește o clipă prin curte și apoi aruncă conținutul ligheanului în curtea vecină, stropind pe slujnica avocatului care tocmai atunci ieșise și ea cu un lighean în mână. Marița scoate un țipăt.) </p>
+               <p>Marița: </p>
+               <p>Da de ce arunci, fă, în curte la noi mereu ligheanu? </p>
+               <p>Să vază conu' Naie, te ia cu toroipanu'! </p>
+               <p>Frusina: </p>
+               <p>Pă mine? Să poftească, dă are gust să-i stric </p>
+               <p>Jubenu cu vătraiu!... stăpân'tu e-un calic! </p>
+               <p>Marița: </p>
+               <p>Ș-al tău ce poamă bună-i! Că are cai și droșcă? </p>
+               <p>Un mitocan ce face negoț dă piei de cloșcă? </p>
+               <p>Frusina: </p>
+               <p>Păi să nu mori? Dom Nae-i boier! Dă Fefelei!? </p>
+               <p>D-un cot îi iese limba pentru a ciupi 2 lei </p>
+               <p>La un proces! </p>
+               <p>Marița: </p>
+               <p>Stăpân'tu căra ieri cu zimbilu </p>
+               <p>Și azi la premărie face de râs Mizilu'! </p>
+               <p>Frusina: </p>
+               <p>Al tău e-un coate-rupte! </p>
+               <p>Marița: </p>
+               <p>Al tău e un bocciu! </p>
+               <p>Frusina: </p>
+               <p>Clănțău fără parale! </p>
+               <p>
+                  <lb/>Marița: </p>
+               <p>Mojic! </p>
+               <p>Frusina: </p>
+               <p>Palavragiu! </p>
+               <p>Marița: </p>
+               <p>N-o să mai pupe tontul la anul premăria! </p>
+               <p>I-arată conu' Nae! </p>
+               <p>Frusina: </p>
+               <p>Nu v-ați plătit chiriea… </p>
+               <p>Și tot râioși? Dom' Nae, ciocoiu, e-un pârlit, </p>
+               <p>Stă-n casa coanii Moașii pă gratis, miluit! </p>
+               <p>Marița: (bătând în pumni, îi dâ un „sâc") </p>
+               <p>(Cu sâc, în ciudă) Da-i nobel, fa, e nobel, și crapă negustoru'! </p>
+               <p>Frusina: </p>
+               <p>O să vă bată toba la poartă pricictoru'! </p>
+               <p>Marița: </p>
+               <p>Să nu mă scoți din pepeni! </p>
+               <p>Frusina: </p>
+               <p>Să nu mai zici nici pâs, </p>
+               <p>Că mor dă gât cu tine! </p>
+               <p>Marița: </p>
+               <p>Cu mine, fă? Ce-ai ziis? (îi aruncă un săpun) </p>
+               <p>Na, pațachino, poate dă mult n-ai făcut baie, </p>
+               <p>Lua-te-ar Aghiuță, la braț cu con'tu Naie! </p>
+               <p>(îi pune ligheanul plin cu lături în cap; pe lighean scrie lături. Frusina pune șiea ligheanul în capul adversarei. Amândouă încep să-și care la pumni, care răsună ca două tobe de pe tinichea, cu acompaniamentul țipetelor beligerantelor. Atrași de zgomot, stăpânii lor ies în curte, doar pe jumătate îmbrăcați.) </p>
+               <p>Conu Naîe: </p>
+               <p>Ches că se că sa? </p>
+               <p>Frusina: </p>
+               <p>Marița! </p>
+               <p>Dom Ghiță: </p>
+               <p>Ce-i zarva asta, bre? </p>
+               <p>Marița: (explică) </p>
+               <p>Frusina! </p>
+               <p>Frusina: </p>
+               <p>Tu! </p>
+               <p>
+                  <lb/>Marița: </p>
+               <p>Tu! </p>
+               <p>Dom Ghiță: </p>
+               <p>Fleoanca! </p>
+               <p>Conu Naie: (aruncând lui dom' Ghiță o privire disprețuitoare și așezându-se la masă) </p>
+               <p>(Rârâit): Tel metrî tel valé! </p>
+               <p>Dom' Ghiță: (aparte) </p>
+               <p>Să-ți arz una cu metru, ce mai valeu ai zice, </p>
+               <p>Ciocoi mofluz! </p>
+               <p>Conu' Naie: </p>
+               <p>(imperativ, sbârnâit) </p>
+               <p>Marițo, să-mi aduci aice </p>
+               <p>Jurnalul, șocolata... depeche-toi! Plus vite! </p>
+               <p>Frusina: (dând cu „sâc" Mariței, care vrea să intre în casă) </p>
+               <p>Sâc! sâc! îți zice vită! </p>
+               <p>Dom' Ghiță: (răstit câtre Frusina) </p>
+               <p>Hei! Te-ai ciorovăit </p>
+               <p>Destul! Adu-mi cafeaua! Mai cu caimac și groasă! </p>
+               <p>Frusina: (intrând în casă, aruncă o ultimă privire spre ușa pe unde iese Marița și-i strigă înnăbușit) </p>
+               <p>Ți-arăt eu matracucă! </p>
+               <p>Marița: (același Joc) </p>
+               <p>Te-nvăț eu, janghinoasă! </p>
+               <p>(amândoi stăpânii bat, impacientați, cu piciorul în pământ și cele două slujnici dispar repede) </p>
+               <p>Dom' Ghiță: (strigând) </p>
+               <p>Fă, adu-mi și „Voința" de azi! </p>
+               <p>Conu' Naie: (idem) </p>
+               <p>„La Roumanie"! </p>
+               <p>(pauza câteva secunde. Dom' Ghiță își răsucește și-i aprinde o țigară. Conu 'Naie fredonează „Embrasse moi Ninette", și își examinează unghiile. Înciudat, dom' Ghiță fredonează și el „Chiriac n-are parale") </p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor xml:id="id_ACTUL_II"/>Actul II</head>
+               <p>Dom' Ghiță: (după ce a tușit) </p>
+               <p>Pă cum vezi dom'le în casă io nu mai pot trăi, </p>
+               <p>Fin'c'absolut vezi bine Marița dumitale </p>
+               <p>Face-absolut tapajuri! </p>
+               <p>Conu' Naie: </p>
+               <p>Voyons! Istericale </p>
+               <p>Să nu prea ai cu mine, sunt ferm și rezolut </p>
+               <p>Să nu mai rabd! </p>
+               <p>Dom'Ghiță: </p>
+               <p>Vezi bine nici eu, dar absolut! </p>
+               <p>Conu' Naie: </p>
+               <p>Destul suport rușinea că urbea mea natală </p>
+               <p>Să fie guvernată de șleahta liberală! </p>
+               <p>Dom'Ghiță (bombănind nervos) </p>
+               <p>Strigoi! Reacțiune! Vampiri! Ciocoi! </p>
+               <p>Conu' Naie: </p>
+               <p>Plait-il? </p>
+               <p>Dom'Ghiță: </p>
+               <p>Zic dom'le c-am luat oful reacții'n Mizil! </p>
+               <p>Conu'Naie: </p>
+               <p>Îți dau rendez–vous mâine! </p>
+               <p>Dom'Ghiță: </p>
+               <p>Alegerea? Poftească </p>
+               <p>Reacția! Puiu pompa cu apă s'o stropească! </p>
+               <p>Da, absolut, voi face ceva nemaivăzut! </p>
+               <p>Conu' Naie: </p>
+               <p>Voyons! Amenințare? </p>
+               <p>Dom 'Ghiță: </p>
+               <p>Vezi bine, absolut! </p>
+               <p>Conu' Naie: </p>
+               <p>Senseramente, în cazul când Constituțiunea </p>
+               <p>Va fi iar violată... </p>
+               <p>Dom' Ghiță: </p>
+               <p>Vezi bine! </p>
+               <p>Conu' Naie: </p>
+               <p>Națiunea... </p>
+               <p>Dom 'Ghiță: </p>
+               <p>Să nu vorbești de dânsa! Ciocoii nu au drept! </p>
+               <p>D'abia-i trecu, săraca, nădufu dă pă piept! </p>
+               <p>Noi – absolut! – ai noștri, stimabile, vezi bine </p>
+               <p>I-am dat Independența! </p>
+               <p>Conu' Naie: </p>
+               <p>Vraiment, nu vă-i rușine? </p>
+               <p>Atunci nu vreați războiul! Dar Statul era copt </p>
+               <p>Pentru endepandansă! </p>
+               <p>Dom 'Ghiță: </p>
+               <p>Vezi bine, copt! Pașopt... </p>
+               <p>Divanu-ad-hoc...plus Tudor...plus Cuzea... Ei sireacii </p>
+               <p>Au pusără la cale poporul!... Vârcolacii, </p>
+               <p>Vampirii dumitale au suptără cu zor </p>
+               <p>Tot sângele dintr-însul. </p>
+               <p>Conu' Naie: (cu dispreț suveran) </p>
+               <p>Popor!? Dis donc! Popor!? </p>
+               <p>Vrei poate să zici plebea, la sale canaille de uliți? </p>
+               <p>Les sans – culottes, peut-etre? Mojici să-i vâri în suliți? </p>
+               <p>C'est ca poporul vostru, stimabile! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Rahat! </p>
+               <p>Conu' Naie: </p>
+               <p>Dar, francamente, țara, poporu-adevărat, </p>
+               <p>A fost, va fi și este conservator! Căci, popa </p>
+               <p>Și'nvățătoru'n sate la noi ca și-n Europa, </p>
+               <p>Conservă... </p>
+               <p>Dom' Ghiță: (necăjit peste măsură) </p>
+               <p>Ce conservă? Nix! Absolut! Nix! Nix! </p>
+               <p>Vezi bine că'n Rusia Reacția dă chics! </p>
+               <p>Mizilul, dom'le, este, zic, absolut, cetatea </p>
+               <p>În care zic, se cade să fie libertatea </p>
+               <p>Mai absolut, vezi bine, ca-n orișice oraș! </p>
+               <p>Altminteri ce ne facem? Mai e progres? Ei, aș! </p>
+               <p>Conu' Naie: (ironic) </p>
+               <p>Progresul dumitale! Îți spun senseramente </p>
+               <p>C'așa progres anarhic mai mult un faliment e! </p>
+               <p>Aș vrea să-ți văd progresul și – ma parole! – mă'nchin! </p>
+               <p>Dom' Ghiță: </p>
+               <p>A! Te'ncontrezi? Păi bine, icspresul dă Berlin </p>
+               <p>Cin'la oprit neicuță și la Mizil în gară, </p>
+               <p>D' a statără cu gura căscată toți în țară? </p>
+               <p>Noi, absolut! </p>
+               <p>Conu'Naie: (batjocoritor) </p>
+               <p>Hei! Mare ispravă ați făcut! </p>
+               <p>Un tren ce stă în gara Mizil doar un minut </p>
+               <p>Încât' și-azvârle omul valiza pe fereastră, </p>
+               <p>N-ai timp nici a descinde! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Mă rog, dar dumneavoastră </p>
+               <p>Ce ați făcut, stimate, c'ați fostără premar? </p>
+               <p>Conu' Naie: (indignat, repezindu-se afară și luând în brațe felinarul din fața casei). </p>
+               <p>Dar cine-i autorul acestui felinar </p>
+               <p>Pe care cârmuirea de azi l-abandonează </p>
+               <p>Și-l lasă în tenebre, iar ea își eclerează </p>
+               <p>A giorno locuința? Cin' l-a făcut? Voyons! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Vezi bine, dumneatale! Însă s'avem pardon, </p>
+               <p>Cât oi sta io ș'ai noștri la premărie </p>
+               <p>N'o să-l aprind, stimate! Io fac economie, </p>
+               <p>Nu luxuri ca ciocoii! </p>
+               <p>Conu' Naie: </p>
+               <p>În schimb, la dumneata </p>
+               <p>L-aprinzi cu grabă 'ndatâ ce'ncepe-a se'nsera. </p>
+               <p>La belle affaire! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Vezi bine, io sunt otoritate! </p>
+               <p>Conu' Naie: </p>
+               <p>Dau rendez-vous la toamnă, mon cher! </p>
+               <p>Dom' Ghiță: (facându-i o bezea, zeflemist) </p>
+               <p>Să-mi scrii, stimate! </p>
+               <p>(Intră Marița cu gazeta și șocolata; Conu' Nae începe să citească și să soarbă din ceașcă) </p>
+               <p>Conu' Naie: (slujnicei) </p>
+               <p>Să chemi pe coconașu pân' aici. </p>
+               <p>Gardistul: (intră ca o bombă, se apropie de dom'Ghiță și-i spune la ureche) </p>
+               <p>Caz dă flagrant, dom'Ghiță! Azi noapte... </p>
+               <p>Dom' Ghiță: </p>
+               <p>Cum? Ce zici?! </p>
+               <p>Gardistul: (care contmuă să-i șoptească) </p>
+               <p>Pă ochii mei, dom'Ghiță! îi știu și signalmentu! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Dă când din urbea noastră mutară reghimentu, </p>
+               <p>Bre, n'a mai fost flagranuri nici unu pân Mizil! </p>
+               <p>Gardistul: </p>
+               <p>Nu-i meletar, dom'Ghiță! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Dar? </p>
+               <p>Gardistul: </p>
+               <p>E de secs țivil! </p>
+               <p>Am prins pă domnu Mișu în curte dumitale! </p>
+               <p>Dom'Ghiță: (sărind de pe scaun) </p>
+               <p>Nu! Absolut! Ești sigur? </p>
+               <p>Gardistul: </p>
+               <p>Mi-a dat chiar și parale </p>
+               <p>Pen'ca să tac din gură. Dar nu pot dom' premar, </p>
+               <p>(semn) Că uite'mi-arde trupu par'c'ar fi plin de jar... </p>
+               <p>Nu pot să tac! Ambițu la dumneata m'aduce, </p>
+               <p>Spre-a'ți spune că Frusina... </p>
+               <p>(cu glas sugrumat, trântindu-și palma în partea stângă unde se presupunen că chiar gardiștii au o inimă:) </p>
+               <p>Frusina mă traduce! </p>
+               <p>Dom' Ghiță: (răsuflând ușurat, apoi radios) </p>
+               <p>Frusina, măi? Frusina? Ești sigur? Ai văzut? </p>
+               <p>Ai luat, zici, signalmentu' lu' Mișu? Absolut? </p>
+               <p>A! Dacă-i așa treaba, păi o să fie lată! </p>
+               <p>Lată dă tot, Ioniță!... reacția-i lucrată! </p>
+               <p>Gardistul: </p>
+               <p>Nu prea pricep, dom'Ghiță, Frusina însă... </p>
+               <p>Dom' Ghiță: (cațavencian) </p>
+               <p>Hei! </p>
+               <p>O să-i zdrobesc, Ioniță! învăț io pă mișei! </p>
+               <p>A! Careva să zică băiatu' lu' dom' Naie, </p>
+               <p>Care-mi cobește'ntr'una ca și o cucuvae </p>
+               <p>Trateaz' amor cu slujnici?! E, absolut, scandal! </p>
+               <p>Așa cevași nu face partidul liberal! </p>
+               <p>Am să lipesc pe uliți cât un cearșaf afișu, </p>
+               <p>Să afle cetățenii afrontu’ lu chir Mișu, </p>
+               <p>Și-apoi să mai poftească Reacția la urnă </p>
+               <p>După ce-am prins ciocoii c-o dandana nocturnă! </p>
+               <p>Gardistul: (implorând) </p>
+               <p>(sacrificat) </p>
+               <p>Da' io ce fac dom' Ghiță? Păcat d-așa amor! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Vezi bine! Hai să-i facem un intirogator, </p>
+               <p>Procest verbal și-n urmă s-o punem pe Frusina </p>
+               <p>Să tragă jos cu deștul mărturisindu-și vina (ies amândoi) </p>
+               <p>
+                  <lb/>Conu' Naie: (ridicându-și ochii de pe gazetă și uitându-se la ei) </p>
+               <p>N-am auzit o vorbă! Dommage! Ce i-o fi spus? </p>
+               <p>Desigur că primarul la cale iar a pus </p>
+               <p>O nouă infamie cu sbiru'n uniformă </p>
+               <p>Campania s-anunță, par consequence enormă. </p>
+               <p>Primarul cu gardistul conspiră în secret. </p>
+               <p>Spre a face, certamente cu fonduri din buget, </p>
+               <p>Vr'o bandă avinată, ca să terorizeze, </p>
+               <p>Pe opozanții noștri, și să paralizeze </p>
+               <p>O luptă ce-ncepe sub exelant augur... </p>
+               <p>Dar vom veghea, dom' Ghiță! Te anfonsez! </p>
+               <p>Misu: (intrând) </p>
+               <p>Bonjour! </p>
+               <p>Când m-a chemat Marița, tocmai eram pe cale </p>
+               <p>Să viu, spre-a-ți cere, tată... </p>
+               <p>Conu' Naie: (tăindu-i vorba scurt) Monșer, nu am parale. </p>
+               <p>Misu: (cu lirism exagerai) </p>
+               <p>Nu-i vorba de parale! Un suflet de poet, </p>
+               <p>Cum e ațel pe care îl port eu sub jachet, </p>
+               <p>Țe cu aripi de vulturi spre țeruri se repede, </p>
+               <p>Disprețuieste banul! Meschinele monede </p>
+               <p>De nichel sau d'aramă, de aur sau d'ardzint, </p>
+               <p>De-al căror drag atâția înseală, fură, mint, </p>
+               <p>S-ajung cu nebunia ades'chiar pân’la crimă. </p>
+               <p>Le-as da, papa, pe toate, pentr-o sonoră rimă, </p>
+               <p>Pentru o stea, un flutur, o roză, pentr-un vis, </p>
+               <p>Pentr-un apus de soare le-as da, papa!... am zis. </p>
+               <p>Conu' Naie: </p>
+               <p>Ș-ai zis cam prost băiete... voyons, mais francamente </p>
+               <p>Cu ce trăiesc poeții, monșer? Drept alimente </p>
+               <p>Mănâncă dânșii oare speranțe și iluzii? </p>
+               <p>Misu: </p>
+               <p>Mâncarea-i bagatelă pentru copiii muzii! </p>
+               <p>Conu' Naie: </p>
+               <p>C'est ca! Doar băutura-i lucru prensipal! </p>
+               <p>Misu: (înflăcărat) </p>
+               <p>Papa, te rog nu-ți bate zoc de vapaia sfântă </p>
+               <p>Țe-n inima mea arde, când cânt... </p>
+               <p>Conu' Naie: (aparte, arătând la cap, spre public) </p>
+               <p>Săracu-i cântă! </p>
+               <p>Misu: (extatic) </p>
+               <p>Când cânt cu păsărica din tainic luminis </p>
+               <p>
+                  <lb/>De codru; cu isvorul săgalnic... </p>
+               <p>Conu' Naie: (energic) </p>
+               <p>Je man fiș! </p>
+               <p>Misu: </p>
+               <p>Când cânt în vraza serei, luțeafărul de foc, </p>
+               <p>Papa, mă contemplează, zâmbindu-mi... </p>
+               <p>Conu' Naie: </p>
+               <p>Je man moc!... </p>
+               <p>Spuneai că vii a'mi cere... calmează-ți deci avântul! </p>
+               <p>Nu mă-mbăta cu mofturi!... vorbește, ai cuvântul. (se așează amândoi) </p>
+               <p>Misu: </p>
+               <p>Papa, povestea-i simplă: m-adoră, o ador, </p>
+               <p>Ne adorăm... si gata! Dă-mi voie să mă'nsor! </p>
+               <p>Conu' Naie: </p>
+               <p>Și cine-i... parte-adversă? Voyons! </p>
+               <p>Misu: (transportat) </p>
+               <p>E Zulietta. </p>
+               <p>Conu' Naie: </p>
+               <p>Nu o cunosc. De unde-i? </p>
+               <p>Misu: (reculegându-se) </p>
+               <p>Pardon, vream să zic: Veta! </p>
+               <p>Conu' Naie: (sărind de pe scaun) </p>
+               <p>Fata lui Ghiță Pleașcă, primarul?! </p>
+               <p>Misu: (ridicându-se și el, intimidat) </p>
+               <p>Dânsa e! </p>
+               <p>Conu' Naie: (îndârjit) </p>
+               <p>Rivalul meu politic? Jamais! </p>
+               <p>Misu: (rugător) </p>
+               <p>Papa! </p>
+               <p>
+                  <lb/>Conu' Naie: (trântind un pumn viguros în masă) </p>
+               <p>Jamais! </p>
+               <p>Colectivistul ăla? Ia-ți ori și ce speranță </p>
+               <p>Că o s-aprob vreodată așa mes alianță! </p>
+               <p>Comment? Cum e posibil ca fiul meu unic </p>
+               <p>Să se scoboare pân' la o fată de mojic, </p>
+               <p>Ce-n prăvălie vinde madipolon cu cotul? </p>
+               <p>Dis donc, uiți tu străbunii? Mă uiți pe mine? Totul? </p>
+               <p>Uiți tu, voyons, că-n timpul domniei lui Știrbey </p>
+               <p>Strămoșul meu Tănase avea la Fefelei </p>
+               <p>5 robi țigani și 10 pogoane de moșie? </p>
+               <p>Uiți tu că făceam parte din aristocrație? </p>
+               <p>Fantoma lui Tănase, sdrobită de durere, </p>
+               <p>Vrei tu să te blasfeme?... regret că n-am avere, </p>
+               <p>Fiu decăzut, ca'ndată să te dezmoștenesc! </p>
+               <p>(conu' Nae, c-o mișcare clasică de „pere noble" de melodramă, își strânge tâmplele între palme, oftând și gemând adânc) </p>
+               <p>Mișu: (căzând în genunchi) </p>
+               <p>Uțide-mă! Dar dă-mi-o, papa, căți o iubesc! </p>
+               <p>Conu'Naie: (tragic) </p>
+               <p>O, da! Să piei mai bine de propria mea mână </p>
+               <p>Îți spun senseramente, decât ca să rămână, </p>
+               <p>O pată rușinoasă pe păru-mi alb! </p>
+               <p>Misu: (sculându-se, spre public) </p>
+               <p>E chel! Cum să-i pătez eu părul, când n-are-un firițel? </p>
+               <p>Conu' Naie: </p>
+               <p>De-aș ști peste cadavrul meu propriu că voi trece, </p>
+               <p>Voi ști să te împiedec! Voi fi ca piatra rece, </p>
+               <p>Și voi uza de dreptu-mi de veto! </p>
+               <p>Misu: </p>
+               <p>Ah, papa! Te rog să nu mai ziți Veto, că pierd pă Veta mea! </p>
+               <p>Conu' Naie: </p>
+               <p>Din ambalarea-ți, oare nu te-a trezit nimică? </p>
+               <p>Nici ce-o să zică șefu-mi? Partidul ce-o să zică? </p>
+               <p>Aflând că desandantul unei familii vechi, </p>
+               <p>Conservatoare toată din tălpi până-n urechi, </p>
+               <p>Ia-n mariaj o fată de liberal? Ce tristă </p>
+               <p>E rătăcirea-ți oarbă! </p>
+               <p>Misu: </p>
+               <p>Dar nu-i colectivistă, </p>
+               <p>Papa, săraca Veta! E menazeră!.. eu, </p>
+               <p>Doar nu mă-nsor cu tat'su! </p>
+               <p>Conu' Naie: </p>
+               <p>Pre viul Dumnezeu! Căsătoria asta jamais nu se va face! </p>
+               <p>Misu: </p>
+               <p>Papa, te rog, ai milă! </p>
+               <p>
+                  <lb/>Conu' Naie: (implacabil dar zdrobit) </p>
+               <p>Va-t-en! Lasă-mă-n pace! </p>
+               <p>Misu: (cu speranță) </p>
+               <p>E ultima ta vorbă? </p>
+               <p>Conu' Naie: </p>
+               <p>Fără apel! </p>
+               <p>Misu: (dramatic) </p>
+               <p>Atunți, </p>
+               <p>În ale morții brațe, tu singur mă arunți! </p>
+               <p>Conu' Naie: </p>
+               <p>Des blagues, jeune homme! </p>
+               <p>Misu: (rătăcit) </p>
+               <p>Nu-i blagă, papa, nu-i niți o blagă; </p>
+               <p>Dacă nu iau pe Veta, o pui pe ea să-mi tragă </p>
+               <p>Un revolver în tâmplă si-i trag apoi și ei </p>
+               <p>Un glonț!... Mormântul nostru săpați-l sub un tei, </p>
+               <p>Cum zițe-n Eminescu, ca vântul când adie </p>
+               <p>Să scuture flori triste pe groapa țea pustie!... </p>
+               <p>Conu' Naie: (îngrijorat) </p>
+               <p>Le fou este capabil, parole d'honeur!... </p>
+               <p>Misu: (ca în aiurare) </p>
+               <p>Nebun? </p>
+               <p>La trup ca si la minte, papa's sănătos tun, </p>
+               <p>Dar inima mea este ca pasărea rănită </p>
+               <p>Care-si târăste-n țărână o aripă obosită. </p>
+               <p>Plângând azurul liber în care a plutit... </p>
+               <p>Papa! Papa! Adio! Cu Misu s-a sfârsit! </p>
+               <p>(începe să scâncească a plâns. Conu' Nae scoate o batistă și-și șterge cu un colț o lacrimă ce-i umezește geana) </p>
+               <p>Conu' Naie: (înduioșat spre public) </p>
+               <p>Voyons! În fond, prensipuri politice, noblețe... </p>
+               <p>Nu pot să etufeze paterna mea tandrețe! </p>
+               <p>(tare) </p>
+               <p>Vraiment, vrei Mișulică să te suisidezi? </p>
+               <p>Misu: </p>
+               <p>Cosțiugul va fi patul meu nuptial! Nu crezi? </p>
+               <p>Când voi fi mut si rețe... </p>
+               <p>Conu' Naie: </p>
+               <p>Assez! Voyon! Ajunge! </p>
+               <p>Langaju-ți al meu suflet ca fierul îl străpunge!... </p>
+               <p>J'approuve căsătoria! </p>
+               <p>Misu: (azvârlindu-i-se în brațe) </p>
+               <p>O, țerule! Țe-a zis! </p>
+               <p>Realitate-i oare sau e numai un vis? </p>
+               <p>Vei fi a mea, Vetuțo? Vetico? Vetițico? </p>
+               <p>Conu’Naie: (solemn) </p>
+               <p>Consimt ca pân'la tine să o ridici! Ridic-o… </p>
+               <p>La rangul de soție a ta, vlăstar unic </p>
+               <p>Din vechea mea tulpină </p>
+               <p>Misu: </p>
+               <p>O, da, o s-o ridic, </p>
+               <p>O s-o ridic pe-o culme de ferițiri țeleste. </p>
+               <p>Conu' Naie: (punându-și degetul la frunte) </p>
+               <p>Ah! Mais voyons!... ești sigur tu, Mișule, că este </p>
+               <p>Destul să-ți dau acuma al meu consimțământ </p>
+               <p>Ca nunta să se facă? Nu crezi că prea luași vânt? </p>
+               <p>Să știi, că Ghiță Pleașcă, colectivist la toartă, </p>
+               <p>Nu o să dea pe fi-sa, d'ar ști c-o vede moartă, </p>
+               <p>Dup' odrasla unui conservator! Să-l tai! </p>
+               <p>Misu: </p>
+               <p>Țe crudă desteptare! Asa e, vai, asa-i! </p>
+               <p>În clipa de beție a ferițirei mele </p>
+               <p>Nu mă gândisem! </p>
+               <p>Conu' Naie: (pe gânduri) </p>
+               <p>Drace!!! </p>
+               <p>Misu: </p>
+               <p>Presentimente rele </p>
+               <p>Îmi spun că a mea soartă atârnă de un fir </p>
+               <p>S-o s-o pățesc cu Veta ca-n pesa lui SEXPIR </p>
+               <p>Conu' Naie: (vorbind cu sine însuși) </p>
+               <p>Permis e ca un tată să fie crud cu fi-su? </p>
+               <p>Și nu-i incumbă oare să facă sacrifisu' </p>
+               <p>Chiar el?... la urma urmei e și cam ambetant </p>
+               <p>Pentru un boier ca mine rolu-ăsta d'opozant!... </p>
+               <p>Zău, francamente'mi vine să... </p>
+               <p>(tare) </p>
+               <p>Mișule, n-ai teamă </p>
+               <p>Voi face pentru tine o jertfă sans pareille </p>
+               <p>Și vei putea, în fine, pe Veta să o iei! </p>
+               <p>Misu: </p>
+               <p>Țe bun esti! Pentru mine, papa, ai fost o mamă! </p>
+               <p>Dar e posibil oare? </p>
+               <p>Conu' Naie: (la masă, scriind) </p>
+               <p>Voi da o telegramă, </p>
+               <p>Și vei vedea îndată că Ghiță, chiar și el, </p>
+               <p>Dintr-un feroce tigru devine-un mielușel! </p>
+               <p>(îndoiește hârtia și-o bagă-n buzunar. Strigă) </p>
+               <p>Marițo! </p>
+               <p>(servitoarea intră) </p>
+               <p>Dă-mi jobenul! (i-l aduce) </p>
+               <p>(către Mișu) </p>
+               <p>Și-acum, la telegraf! </p>
+               <p>(Tocmai când ies ei, intră Frusina și gardistul) </p>
+               <p>Frusina: </p>
+               <p>Vezi, nene Ioniță? Degeaba te faci praf! </p>
+               <p>Auzi, auzi, să-ți treacă prin cap așa drăcie </p>
+               <p>Că fac cu domnu Mișu hamur?... o sărăcie! </p>
+               <p>Un sgârie-hârtie! Un... ăla! Un.. țivil! </p>
+               <p>Gardistul: (aparte, orgolios) </p>
+               <p>Sireaca iniforma! Nu-i slujnică-n Mizil </p>
+               <p>Să nu să igzalteze când ispictez io piața </p>
+               <p>Și când ca tirbișonu îmi răsucesc mustața! </p>
+               <p>(tare) </p>
+               <p>S-avem pardon dă scuză, Frusino, pă nedrept </p>
+               <p>Te-am bănuit. </p>
+               <p>Frusina: (întinzându-i mâna) </p>
+               <p>Dă laba aicea, și te-aștept </p>
+               <p>La noapte, priparată c-un clondiraș și-o fleică. </p>
+               <p>Gardistul: </p>
+               <p>Ia, dă-mi de-acu'!... </p>
+               <p>Frusina: </p>
+               <p>Ce, nene? </p>
+               <p>Gardistul: (pupând-o) </p>
+               <p>Arvuna Froso neică! </p>
+               <p>Da' apropont, făi Froso, tu văz nu mă traduci, </p>
+               <p>Pen' cine-atunci dom' Mișu sărea peste uluci? </p>
+               <p>Frusina: </p>
+               <p>Sssssttt! Taci că oite vine dom' Ghiță! Șterge-o'n grabă! </p>
+               <p>(servitoarea iese. Dom' Ghiță apare, crunt, după el vine nemțoaica congestionată, dând din mâini și bombănind) </p>
+               <p>Gardistul: (ieșind din grădiniță și începând să se plimbe de colo până colo pe uliță) </p>
+               <p>Dom' Ghiță'și varsă focu'acuși pe biata babă. </p>
+               <p>
+                  <lb/>Dom' Ghiță: (necăjit) </p>
+               <p>Vezi bine, madam Frailăn, da, absolut, da, da! </p>
+               <p>Guvernanta: (ridicând mâinile la cer) </p>
+               <p>O, Jesus! Gum posibel să crezi așa ceva? </p>
+               <p>Dom' Ghiță: </p>
+               <p>Crez absolut, vezi bine!... La cine-atunci să vie </p>
+               <p>Descreieratul ăla?... Rușine, bre, să-ți fie </p>
+               <p>La vârsta dumitale! </p>
+               <p>Guvernanta: </p>
+               <p>Dar, tomn brimar, gum ești </p>
+               <p>Capabel ca la mine așa se'nchipuiești? </p>
+               <p>Din cel mai bune case eu am certificate. </p>
+               <p>Dom' Ghiță: </p>
+               <p>Da, absolut, vezi bine, un pol și jumătate </p>
+               <p>Eu îți plătesc pă lună, să-nveți pă fata mea </p>
+               <p>Cevașilea mai fain, și... </p>
+               <p>Guvernanta: </p>
+               <p>Vas? </p>
+               <p>Dom' Ghiță: </p>
+               <p>...Și dumneata </p>
+               <p>Te-apuci de aventuri. Ptiu! Absolut! Rușine! </p>
+               <p>Guvernanta: (spre public) </p>
+               <p>Se spui pe tomnișoară? Să taci? Ce faci la mine? </p>
+               <p>Veta: (care intrase, se oprise pe prag și auzise o parte din cele de mai sus) </p>
+               <p>Tăticule! Rușinea – de-i vreo rușine-aici, – </p>
+               <p rend="color(#000000)">e-a mea! </p>
+               <p>Guvernanta: (frângându-și mâmile) </p>
+               <p>Mei Gott, ce zice? </p>
+               <p>Veta: (hotărâtă) </p>
+               <p>Ce-aveam de zis. </p>
+               <p>Dom'Ghiță: (sărind în sus) </p>
+               <p>Ce zici? </p>
+               <p>Veta: </p>
+               <p>Că Mișu pentru mine sărea pârleazu'n taină! </p>
+               <p>Dom' Ghiță: (căutându-se prin buzunar) </p>
+               <p>Uliuuu! Unde-i briceagu?... E'n ailaltă haină!... </p>
+               <p>
+                  <lb/>Pen'tine sărea, Veto? Pen'tine ma gazelle? </p>
+               <p>Veta: (rezolută) </p>
+               <p>Iubesc pe Mișu, tată! </p>
+               <p>Guvernanta: (arătând-o) </p>
+               <p>Și tumnealui pe el! </p>
+               <p>Dom' Ghiță: (către guvernantă) </p>
+               <p>Pe dumneata, madamo, te rog să taci din gură! </p>
+               <p>(către Veta) </p>
+               <p>Păi d-aia'mi-am pus, Veto, io carnea'n saramură </p>
+               <p>Ca să înveți pianu cinci ani la pansion? </p>
+               <p>Noroc că biata mă-ta e moartă...absolut! </p>
+               <p>C'ar fi băut chibrituri dacă te-ar fi văzut! </p>
+               <p>Veta: </p>
+               <p>Dar, tată, Mișu are o slujbă foarte bună: </p>
+               <p>Telegrafist! </p>
+               <p>Guvernanta: </p>
+               <p>Ain hundert und svanțig franc pe lună! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Vezi bine-o să-l trimeață guvernul la spațir, </p>
+               <p>Că astăzi tiligrafu devine fără fir </p>
+               <p>De când cu Macaroni... </p>
+               <p>Guvernanta: </p>
+               <p>Marconi! </p>
+               <p>Dom' Ghiță: (enervat) </p>
+               <p>Nu-i totuna? </p>
+               <p>Nu-i talian madamo? </p>
+               <p>Guvernanta: (aparte) </p>
+               <p>Mi se-mplinește luna </p>
+               <p>Se-mi dai salar, căci abăr un grose macaron </p>
+               <p>Înghiți tu de la mine, ghemaine person! </p>
+               <p>Veta: </p>
+               <p>Compune ș'achrostișuri!... </p>
+               <p>Dom' Ghiță: </p>
+               <p>Ca să te bage-n cofă! </p>
+               <p>Veta: </p>
+               <p>Este poet... </p>
+               <p>Guvernanta: </p>
+               <p>Ca Heine! </p>
+               <p>Veta: </p>
+               <p>Și are-ntr-însul stofă. </p>
+               <p>Dom' Ghiță: (neîndurător) </p>
+               <p>Ce-mi tot cântați de haine, de stofă?...Filfison! </p>
+               <p>Din stofa lui n-aș face un crac de pantalon! </p>
+               <p>Veta: (scâncind) </p>
+               <p>De nu consimți, tătică... </p>
+               <p>Guvernanta: (rugătoare) </p>
+               <p>Meinher... </p>
+               <p>Veta: (idem) </p>
+               <p>...La-a mea iubire... </p>
+               <p>Dom' Ghiță: (îndărătnic) </p>
+               <p>Nu, absolut, vezi bine! </p>
+               <p>Veta: (izbucnind în plâns) </p>
+               <p>Mă duc la mănăstire! </p>
+               <p>Guvernanta: (emoționată) </p>
+               <p>Și eu cu domnișoara mă fac chelugheriț! </p>
+               <p>Dom' Ghiță: (induioșându-se) </p>
+               <p>Nu plânge, Veto!... Veto... îți trece... un capriț! </p>
+               <p>Guvernanta: </p>
+               <p>Das ist nicht var, seraca, mein herr, se veștejește </p>
+               <p>Ca floarea chind la dânsa cu vasăr nu stropește! </p>
+               <p>Dom' Ghiță: (către fiica sa) </p>
+               <p>Cum? Să mă lași tu singur? </p>
+               <p>Guvernanta: (aparte) </p>
+               <p>Se crape de urât! </p>
+               <p>Veta: (scâncind, râsfățată) </p>
+               <p>N-o să-ți mai leg eu funda matale de la gât? </p>
+               <p>Guvernanta: </p>
+               <p>Nici eu nu faci cocoașe și ștrudele cu mere! </p>
+               <p>Dom' Ghiță: (aparte) </p>
+               <p>Să-mi compromiț io grantu taman că-s la putere? </p>
+               <p>Nu, absolut, vezi bine! </p>
+               <p>(tare) </p>
+               <p>Dar, Veto, tată, știi... </p>
+               <p>
+                  <lb/>Că'n caz la o adică, afară dă copii, </p>
+               <p>Mai sântără părinții... </p>
+               <p>Veta: </p>
+               <p>A! Știu ce vrei să spui: </p>
+               <p>Că nu ești din partidul din care-i tatăl lui? </p>
+               <p>Să suferim, prin urmare, și eu și Mișu pentru </p>
+               <p>Politica matale? (plânge cu hohote) </p>
+               <p>Dom' Ghiță: (aparte... ideea salvatoare) </p>
+               <p>Dacă'aș trânti la centru </p>
+               <p>O tiligramă? </p>
+               <p>(tare) </p>
+               <p>Veto! Nu plânge, că-mi rupi </p>
+               <p>Ficații, dragăVeto! </p>
+               <p>(o sărută) </p>
+               <p>Veta: (prefăcută) </p>
+               <p>Da, tată, să mă pupi, </p>
+               <p>Că-i cea din urmă oară când suntem împreună </p>
+               <p>Dom' Ghiță: </p>
+               <p>Nu plânge, Veto! </p>
+               <p>Veta: </p>
+               <p>Tată, pardon, sunt o nebună: </p>
+               <p>Nu intru-n mănăstire </p>
+               <p>Dom' Ghiță: (înseninat) </p>
+               <p>Nu? Absolut? Parol? </p>
+               <p>Veta: (sumbră) </p>
+               <p>Da-mi torn pă gât... </p>
+               <p>Guvernanta: </p>
+               <p>Oh... Jezus! </p>
+               <p>Veta: </p>
+               <p>Un chil de vitriol! </p>
+               <p>Dom' Ghiță: (disperat) </p>
+               <p>Să nu faci una ca asta!... Să nu faci vr-o prostie! </p>
+               <p>Veta: (exaltată) </p>
+               <p>Ce-i viața fără Mișu? </p>
+               <p>Dom' Ghiță: (prăpădit) </p>
+               <p>Ei bine, Veto... fie!... </p>
+               <p>Voi face una lată!... Sunt bun de balamuc!... </p>
+               <p>Da' fin'că țiu la tine, da, absolut... mă duc... </p>
+               <p>(iese repede) </p>
+               <p>
+                  <lb/>Veta: (frângându-și mâinile) </p>
+               <p>Oh, dragă madam Șnițel! </p>
+               <p>Guvernanta: (același joc, și ducându-se repede să se uite pe gaura ușei) </p>
+               <p>Oh... Jezus, Oh Maria! </p>
+               <p>Vez cum tumnealui scrie... el a trimis hîrtia </p>
+               <p>Cu serfitor Fruzina.... </p>
+               <p>Veta: </p>
+               <p>Scrisoare de comerț, </p>
+               <p>Desigur... o! Cât sufer! </p>
+               <p>Guvernanta: (sprijinind-o și mângâind-o pe frunte) </p>
+               <p>Nu plinj, nu plinj main herț! </p>
+               <p>Veta: </p>
+               <p>Dar nu vezi, madam Șnițel, că inima-mi zdrobește? </p>
+               <p>Conu' Naie: (ieșind împreună cu fiul său din casă, deschide portița care dă în stradă și se îndreaptă spre casa primarului) </p>
+               <p>Haidem la el! </p>
+               <p>Misu: </p>
+               <p>Dar dacă, papa, nu ne primeste? </p>
+               <p>Conu' Naie: </p>
+               <p>Voyons donc, pas possible! </p>
+               <p>Misu: </p>
+               <p>Să merdzem, dacă vrei... </p>
+               <p>Conu' Naie: </p>
+               <p>Nepot al lui Tănase, boier de Fefelei </p>
+               <p>Ai confiansă-n tine, ... Uite fata </p>
+               <p>Și guvernanta! </p>
+               <p>Veta: (zărindu-i) </p>
+               <p>Doamne, ei caută pe tata! Ce-or fi vroind? </p>
+               <p>Guvernanta: </p>
+               <p>O, Jesus! </p>
+               <p>Conu' Naie: (salutând cu o galanterie afectată) </p>
+               <p>Pardon, mesdames, pardon... </p>
+               <p>Est-ce que dom'ghiță pleașcă est-il a la maison? </p>
+               <p>Veta: </p>
+               <p>Da, domnule, e-acasă. </p>
+               <p>Conu' Naie: </p>
+               <p>Anunță-l de ești bună. </p>
+               <p>
+                  <lb/>Vrem să tranșăm o mică afacere-mpreună. </p>
+               <p>Veta: (face semn guvernantei care pleacă să cheme pe primar.) </p>
+               <p>Luați loc, vă rog. </p>
+               <p>Tăticu îndată va veni. </p>
+               <p>Conu' Naie: (salutând din nou ca mai sus) </p>
+               <p>Merci... </p>
+               <p>(încet către fi-su) </p>
+               <p>Elle est charmante! </p>
+               <p>(tare) </p>
+               <p>Merci. </p>
+               <p>(încet) </p>
+               <p>Du chic! </p>
+               <p>(tare) </p>
+               <p>Merci! </p>
+               <p>(se așează) </p>
+               <p>Misu: (șoptind Vetei) </p>
+               <p>Niți aparatul Morse nu țăcăne mai tare </p>
+               <p>Ca inima mea, Veto; si ard de nerăbdare </p>
+               <p>S'aud țe-o să-i răspunză. </p>
+               <p>Veta: </p>
+               <p>De ce-a venit? </p>
+               <p>Mișu: </p>
+               <p>Papa la domnu Ghiță vine să-i țeară mâna ta! </p>
+               <p>Veta: (surprinsă) </p>
+               <p>S'o ceară el? </p>
+               <p>Mișu: </p>
+               <p>Adică s-o țeară pentru mine... </p>
+               <p>Curaz, curaz, iubito! </p>
+               <p>Veta: </p>
+               <p>A, uite tata, vine... </p>
+               <p>(Dom 'Ghiță intră în grădiniță, urmat de guvernantă. Când zărește pe adversarul său, se oprește brusc, face un ....PAGINA LIPSĂ) [46–47] </p>
+               <p>Misu: (rugător) </p>
+               <p>Papa... </p>
+               <p>Conu' Naie: (reașezându-se) </p>
+               <p>Voyons, uitasem... </p>
+               <p>Veta: (rugătoare) </p>
+               <p>Tăticule! </p>
+               <p>Dom' Ghiță: (muindu-se și așezându-se) </p>
+               <p>
+                  <lb/>Așa e! </p>
+               <p>Conu' Naie: (dulceag) </p>
+               <p>Monșer voisin, venisem... </p>
+               <p>Dom' Ghiță: (idem) </p>
+               <p>Pen'ce, cucoane Naie? </p>
+               <p>Conu' Naie: </p>
+               <p>Declar senseramente și francamente că </p>
+               <p>Aș vrea ca să ne spunem, vecine, tu și mă! </p>
+               <p>Voyons, e oare bine Mizilul a-l divide? </p>
+               <p>Prin lupte intestine... </p>
+               <p>Dom' Ghiță: </p>
+               <p>Și-n plus și fraticide! </p>
+               <p>Conu' Naie: </p>
+               <p>Zic, bref, că este timpul că acest război civil </p>
+               <p>Să-l suspandăm. </p>
+               <p>Dom' Ghiță: </p>
+               <p>Suspandă-l! </p>
+               <p>Conu' Naie: (concluzionând) </p>
+               <p>Voyons, ești în Mizil </p>
+               <p>Primar, ești la putere, ești donc mai în măsură </p>
+               <p>Drapoul alb al păcei să-ntinzi p'a nostră ură! </p>
+               <p>Guvernanta: (cu admirație) </p>
+               <p>Ca'n „Ilustrirter Zeitung" forpești! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Da, absolut! </p>
+               <p>Conu' Naie: </p>
+               <p>Par consequence, eu primul ruptura am făcut </p>
+               <p>Cerându-ți mâna... </p>
+               <p>Dom' Ghiță: (întinzându-i mâna) </p>
+               <p>Uite-o! </p>
+               <p>Conu' Naie: (dându-i încet pese mână) </p>
+               <p>P'a madmoazelei Veta, </p>
+               <p>Nu pe'a dumitale, pentru unicu-mi fiu! </p>
+               <p>Veta: </p>
+               <p>Ah, tremur! </p>
+               <p>Misu: (susținând-o) Țin-te, Veto! </p>
+               <p>Conu' Naie: </p>
+               <p>Ei se iubesc! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Hmmm, știu... </p>
+               <p>Conu' Naie: </p>
+               <p>Consimți? Băiatul are post exelant la poștă. </p>
+               <p>Dom' Ghiță: (fără entuziasm) </p>
+               <p>Consimț! </p>
+               <p>Veta și Misu: </p>
+               <p>O, cer, consimte! </p>
+               <p>Dom' Ghiță: (aparte) </p>
+               <p>Doar eu știu cât mă costâ! </p>
+               <p>Conu' Naie: </p>
+               <p>Și, spre a nu pune piedici la mariajul său, </p>
+               <p>Am dat chiar adineaori depeșă la Buzău </p>
+               <p>Și m-am retras din Clubul Conservator... amice, </p>
+               <p>Acuma sunt d-ai voștri! </p>
+               <p>Dom' Ghiță: (sărind în sus, năucit) </p>
+               <p>Cum? Ce? Ce-ai zis? Ce zice? </p>
+               <p>Conu’Naie: </p>
+               <p>D-un sfert de ceas sunt membru'n partidul Liberal! </p>
+               <p>Dom' Ghiță: (desperat) </p>
+               <p>Dar bine, coane Nae, acușa, momental, </p>
+               <p>Am dat și io depeșă pă cum ca să se știe </p>
+               <p>La țentru că de astăzi mă las de premărie </p>
+               <p>(triumfător) </p>
+               <p>Pe'n că mărit pe Veta!! </p>
+               <p>Conu' Naie: </p>
+               <p>Vraiment? </p>
+               <p>Dom' Ghiță: </p>
+               <p>Parol! Să mor! Și – ce mai turavura – acu's conservator! </p>
+               <p>Conu' Naie: </p>
+               <p>Ce-ai făcut, Dom' Ghiță? </p>
+               <p>Dom' Ghiță: (necăjiT) </p>
+               <p>M-ai băgat mesa nene! </p>
+               <p>Vezi bine acușica poți să te umfli'n pene, </p>
+               <p>Mneata ești la putere și io sunt opozant, </p>
+               <p>Mneata iei primăria, și io... (făcând gestul c-a rămas mofluz) </p>
+               <p>Conu' Naie: </p>
+               <p>C'est epatant! </p>
+               <p>Donc, iarăși facem parte din tabere adverse! </p>
+               <p>Dom' Ghiță: </p>
+               <p>Hmmmm! Astfel merse treaba? Cam prost, stimate, merse! </p>
+               <p>Veta: </p>
+               <p>Tăticule, ce cior'le, hai vă-mpăcați! </p>
+               <p>Misu: </p>
+               <p>Papa! Zău, te conzur... </p>
+               <p>Guvernanta: </p>
+               <p>O, Jesus? </p>
+               <p>Dom' Ghiță: </p>
+               <p>Nu, absolut! </p>
+               <p>Conu' Naie: </p>
+               <p>Peux pas! </p>
+               <p>Misu: (funebru) </p>
+               <p>Durerea mea doar glonțul s-aline e-n stare! </p>
+               <p>Veta: (idem) </p>
+               <p>Oțetul cu chibrituri e singura-mi scăpare! </p>
+               <p>Conu' Naie: (înduplecat) </p>
+               <p>Dom' Ghiță! </p>
+               <p>Dom' Ghiță: (idem) </p>
+               <p>Coane Naie! </p>
+               <p>Conu' Naie: </p>
+               <p>Voyons, să fim amici! </p>
+               <p>Dom' Ghiță: (emoționat) </p>
+               <p>Păi... absolut... vezi bine... hai bate lab'aici! </p>
+               <p>(se îmbrățișează.... de asemenea Misu și Veta. Guvernanta, cu brațele întinse și ea, se duce de la o pereche la alta, dar e dată la o parte) </p>
+               <p>Gardistul: (din stradă, privindu-i) </p>
+               <p>Adică Conu' Nae de mâine e premarul? </p>
+               <p>Să-i spui lui Leonida s-aprinză felenaru' la dumnealui... </p>
+               <p>Veta: </p>
+               <p>Romeoo! </p>
+               <p>Misu: </p>
+               <p>Ah, Zulietta mea! </p>
+               <p>Gardistul: (mutându-se pe lavița de la poarta caselor Conului Naie) </p>
+               <p>Să-mi schimb și domițilu'... </p>
+               <p>(zărind pe Marița care iese din casă) Ia vin'la nen'tu'ncoa! </p>
+               <p>(CORTINA)</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

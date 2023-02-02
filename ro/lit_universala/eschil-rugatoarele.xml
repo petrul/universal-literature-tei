@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eschil</title>
+            <author>Eschil</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013-08-17T15:14:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-02-02T14:01:01.164295702</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                       
+      <body>
+         <author>Eschil</author>
+         <div type="div1">
+            <head>Rugătoarele</head>
+            <p>        PERSOANELE (în ordinea intrării în scenă)</p>
+            <p>         CORUL Danaidelor</p>
+            <p>         DANAOS</p>
+            <p>         PELASGOS, regele de Argos</p>
+            <p>         L fiilor lui Aigyptos Danaidelor, stră» înarmate, Drama se desfăşoară pe ţărmul Argolidei. Partea din spate a scenei mai ridicată, eventual ca un gorgan, este împodobită cu altare şi statui de zei. Prin partea din faţă, liberă de orice decor, intră Corfol, alcătuit din cincizeci de fecioare cu feţe tuciurii, urmate de Danaos, tatăl lor şi de slujitoare.</p>
+            <p>         CORIFEUL</p>
+            <p>         Aplece-şi Zeus Ocrotitorul Rugătorilor2 privirea binevoitoare peste ceata noastră, pornită pe o navă de pe coasta cu nisip mărunt a deltei Nilului!</p>
+            <p>         Lăsând în urmă glia zeului 3, ce mărgineşte ţara Sirieir noi pribegim, dar nu fiindcă vreo cetate ne-ar fi hărăzit exilul, pedeapsa hotărâtă de popor, prin care se plăteşte ' pentru sângele vărsat; ci pentru că, fiindu-ne din fire silă de bărbaţi4, urâm căsătoria cu fiii lui Aigyptos şi sminteala lor nelegiuită.</p>
+            <p>         Danaos, tatăl şi îndrumătorul gândurilor noastre, al revoltei noastre, a cumpănit împrejurările şi din atâtea chinuri l-a ales pe cel mai nobil: fugind năprasnic prin talazurile mării, să coborâm pe ţărmul Argolidei, de unde ni se trage neamul, născut, prin răsuflarea şi atingerea lui Zeus, din junca oropsită de tăun 5.</p>
+            <p>         În care altă ţară mai prielnică am fi putut sosi, purtând în braţe semnul rugătorilor, aceste ramuri de măslin încinse cu fâşii de lână 6?</p>
+            <p>         O, de-ar primi cetatea, glia sa şi apele-i strălucitoare, zeii de sus şi cei de subpământ, grei la mânie, locuitorii din. Morminte şi Zeus Mântuitorul, straja casei pentru oamenii cucernici7, această ţară-nsufleţită de îngăduinţă de le-ar primi ca rugătoare pe fecioarele dinpâlcul nostru mai</p>
+            <p>         Înainte ca bărbaţii, năpustiţi în hoardă, fără cuviinţă, stirpea lui Aigyptos, să fi pus piciorul pe pământul no-roios, ieşind din nava lor cu vâsle repezi!</p>
+            <p>         Departe, în vârtej cu bice de furtună, în tunete şi fulgere, în vânturi ce revarsă ploaie, să aibă parte de sălbăticia mării!</p>
+            <p>         Aşa să piară, înainte de a se înstăpâni, deşi nu este legiuit8, asupra fetelor unchiului lor9, suind în aşternuturi unde nu sunt aşteptaţi.</p>
+            <p>         CORUL ' Strofa I</p>
+            <p>         Acuma cu glasul înalt vom chema</p>
+            <p>         Tăureanul de peste mare, Sprijinul nostru, Zămislitul de Zeus din străbuna</p>
+            <p>         Junincă de flori păscătoare.</p>
+            <p>         Prin suflarea lui Zeus, prin atingerea lui, Din care-i decurge şi numele, Sorocul sarcinii se împlini</p>
+            <p>         Şi Epaphos iată veni pe lume 10.</p>
+            <p>         Antistrofa I</p>
+            <p>         Striga-vom astăzi numele lui</p>
+            <p>         Chiar în meleagul unde</p>
+            <p>         Străbuna noastră maică păştea, Depăna-vom aici suferinţele ei de pe vremuri, Drept mărturii despre naşterea noastră, Pe cât părând de neaşteptate, Pe atât de cinstite;</p>
+            <p>         Într-asta vor face lumină cuvintele noastre.</p>
+            <p>         Strofa II</p>
+            <p>         Dacă se află în preajmă vreun băştinaş care citeşte în zborul şi cântecul păsărilor, Luând aminte la plânsul nostru ar crede c-aude glasul soţiei haine a lui Tereus, c-aude plânsul privighetorii hăituită de şoim.</p>
+            <p>         Antistrofa II</p>
+            <p>         El o goneşte din aşezările sale, Ea plânge amarnic după cele pierdute, Şi spune destinul de moarte al fiului, Cum l-a ucis chiar ea, Lovindu-l cu braţul, În furia sa de mamă răznită 11.</p>
+            <p>         Strofa III</p>
+            <p>         Şi noi, la fel, iubitoare de gemete, Jelim pe iaonice 12 tonuri, Ne sfâşiem obrazul gingaş</p>
+            <p>         Pârguit de arşiţa Nilului</p>
+            <p>         Şi inima neînvăţată cu plânsul.</p>
+            <p>         Îiispăimântate, vărsăm mănunchiuri de lacrimi</p>
+            <p>         Găsi-vom prieteni, aici, voind</p>
+            <p>         Să ocrotească surghiunul nostru</p>
+            <p>         Departe de Ţara Pâcloasă 13?</p>
+            <p>         Antistrofa III</p>
+            <p>         Ascultaţi-ne ruga, Voi, zeităţi ale naşterii noastre</p>
+            <p>         Ce căutaţi spre dreptate!</p>
+            <p>         Iar dacă această-mplinire</p>
+            <p>         Nu e pe placul ursitei, Fiţi gata mereu, cel puţin, Să urâţi depăşirea măsurii, Vădiţi-vă drepte faţă de nunţile noastre.</p>
+            <p>         Chiar pentru cei care fug</p>
+            <p>         Istoviţi de război, Altarul, sălaşul măririi divine, E un meterez împotriva năpastei.</p>
+            <p>         Rugătoarele, Perşii, Şapte contra Thebei</p>
+            <p>         Strofa IV</p>
+            <p>         De s-ar sfârşi încercările noastre cu bine! Nu e uşor să pătrunzi dorinţa Iui Zeus. Oricum, ea sclipeşte în beznă, însoţită de-o neagră pedeapsă, pentru norodul de oameni ce se prefiră prin viaţă.</p>
+            <p>         Antistrofa IV</p>
+            <p>         Pururea cade fără greşeală destinul, Nicicând cu spinarea-n ţărână, Cel hotărât de Zeus, Printr-o mişcare din creştet, Să se-mplinească 14.</p>
+            <p>         Căile înţelepciunii sale</p>
+            <p>         Curg spre ţintă prin ascunzişuri</p>
+            <p>         Şi prin umbrare;</p>
+            <p>         Nici o privire nu le-ar putea desluşi.</p>
+            <p>         Strofa V</p>
+            <p>         Pe muritori îi azvârle</p>
+            <p>         Din semeţele turnuri ale speranţei şi-i nimiceşte, Fără să se-narmeze cu vreo putere;</p>
+            <p>         Totul este netrudnic pentru divinitate.</p>
+            <p>         Gândirea lui Zeus domneşte în slavă, De-acolo se desăvârşeşte prin fapte, Necoborând de pe scaunu-i sfânt15.</p>
+            <p>         Antistrofa V</p>
+            <p>         Zeus, apleacă-ţi privirea</p>
+            <p>         Spre omeneasca sfruntare, Mlădiţă din rădăcina neamului care, Ca să facă nuntă cu noi, înfrunzeşte</p>
+            <p>         De îndărătnice gânduri16!</p>
+            <p>         O voinţă nebună-l împunge, Un bold arzător, Şi-l întoarce să cadă-n capcana</p>
+            <p>         De neocolit întinsă de Ate 17.</p>
+            <p>         (Corul se zbuciumă, invocând năpraznic zeii prin ţipete, gesturi, dansuri sălbatice, lovirea de sine şi sfâşierea veşmintelor.)</p>
+            <p>         Strofa VI</p>
+            <p>         Atât de amare dureri izvorăsc din cântecul nostru, Ţipăm ascuţit, agreu suspinăm, Ne îneacă valuri de lacrimi, Vai, vai, ne văităm de jale, Noi înşine, încă din viaţă, ne trăgănăm un bocet.</p>
+            <p>         Rugămu-ne ţie, Tărâm deluros al lui Apis 18!</p>
+            <p>         Înţelegi oare bine, pământ, Rostirea străină?</p>
+            <p>         Cad mâinile noastre mereu</p>
+            <p>         Şi rup ţesătura de in</p>
+            <p>         A veşmintelor sidoniene 19.</p>
+            <p>         Antistrofa VI</p>
+            <p>         Când ameninţă moartea din preajmă, Dau buzna spre zei jurăminte, Făgăduinţe de fapte curate:</p>
+            <p>         Vai, vai, nestatornice vânturi, Încotro ne împinge talazul acesta?</p>
+            <p>         Rugămu-ne ţie, Tărâm deiuros al lui Apis!</p>
+            <p>         Înţelegi oare bine, pământ, Rostirea străină?</p>
+            <p>         Cad mâinile noastre mereu</p>
+            <p>         Şi rup ţesătura de in</p>
+            <p>         A veşmintelor sidoniene.</p>
+            <p>         Strofa VII</p>
+            <p>         Vâsla şi coaja de scânduri a navei încinsă cu funii, nebiruită de valuri, ne-au adus aici, ajutate de vânturi şi fără furtună; noi nu avem a ne plânge.</p>
+            <p>         Deie-ne tatăl atotvăzătorul, Cu bunăvoinţă sfârşitul dorit!</p>
+            <p>         Să scape urmaşele</p>
+            <p>         Mamei slăvite</p>
+            <p>         De-a împărţi cu bărbaţii culcuşul, Scutite să fie de nuntă</p>
+            <p>         Şi de-mblânzire!</p>
+            <p>         Antistrofa VII</p>
+            <p>         Fiica lui Zeus, Artemis, neprihănită, Îndurătoare cu cel care strigă după-ndurare, Coboare-şi din ochii auguşti</p>
+            <p>         Peste noi o privire întăritoare.</p>
+            <p>         Greu supărată</p>
+            <p>         Pentru c-am fost urmărite, Ea însăşi fecioară, Să mântuie nişte fecioare!</p>
+            <p>         Să scape urmaşele</p>
+            <p>         Mamei slăvite</p>
+            <p>         De-a împărţi cu bărbaţii culcuşul, Scutite să fie de nuntă</p>
+            <p>         Şi de-mblânzire!</p>
+            <p>         Strofa VIII</p>
+            <p>         Altminteri noi, de culoarea florilor negre, Arse de razele soarelui, Vom merge, cu crengi rugătoare în mâini, Spre celălalt Zeus 20, al adâncului gliei, Mult primitor pentru cei strămutaţi</p>
+            <p>         Din istovelile vieţii;</p>
+            <p>         Vom muri atârnate în laţ, Dacă nu am aflat ascultare la cei din Olimp 21</p>
+            <p>         Ah, Zeus, o zeiască mânie</p>
+            <p>         Ne urmăreşte, vrând s-o lovească pe Io;</p>
+            <p>         Recunoaştem într-asta ura soţiei22</p>
+            <p>         Asupra cerului biruitoare.</p>
+            <p>         Din vremea grea, vânturoasă, Se iscă furtuna.</p>
+            <p>         Antistrofa VIII</p>
+            <p>         Se va spune atunci despre Zeus</p>
+            <p>         Că nu este drept, Deoarece nu l-a cinstit pe copilul junincii, Zămislit de el însuşi odinioară, Că de la el îşi întoarce privirea</p>
+            <p>         Şi de la rugile noastre.</p>
+            <p>         Asculte din cele mai mari înălţimi</p>
+            <p>         Chemările noastre!</p>
+            <p>         Ah, Zeus, o zeiască mânie</p>
+            <p>         Ne urmăreşte voind s-o lovească pe Io, Recunoaştem într-asta ura soţiei</p>
+            <p>         Asupra cerului biruitoare.</p>
+            <p>         Din vremea grea, vânturoasă, Se iscă furtuna.</p>
+            <p>         (In timpul cântecului dansat al corului, a intrat Da-naos şi s-a urcat pe înălţimea din ultimul plan al scenei; •priveşte îndelung în zare, apoi rosteşte fiicelor, 'sale:)</p>
+            <p>         DANAOS</p>
+            <p>         Copiii mei, noi trebuie să fim prevăzători.</p>
+            <p>         Cu prevedere şi cu bună cumpănă, eârmaciul navei, bătrânul vostru tată, v-a călăuzit aici.</p>
+            <p>         Iar pe uscat, de-asemeni, din grija ce v-o port, vă dau poruncă să păziţi şi în voi înşivă să-nscrieţi sfaturile me'e.</p>
+            <p>         Zăresc un nor de praf, sol mut al unei oşti.</p>
+            <p>         Când spiţele se-nvârt, butucii roţilor fac larmă.</p>
+            <p>         O ceată văd acum de luptători ce poartă lănci şi scuturi, cu armăsari şi cu strunjite care.</p>
+            <p>         Desigur, însuşi regele acestei ţări, înştiinţat de-un vestitor, vine să ne cerceteze de aproape.</p>
+            <p>         Dar, fie că mai-marele care însufleţeşte ceata se îndreaptă fără gânduri rele către noi, fie că, dimpotrivă, e ascuţit de o mânie crudă, mai bine, orişice s-ar întâmpla, copilelor, să ne-aşezăm pe-această movilă închinată zeilor ce ocrotesc întrecerile obştii.</p>
+            <p>         Mai tare decât orice meterez, altarul e o pavăză de nezdrobit.</p>
+            <p>         Veniţi, grăbiţi-vă, purtaţi cucernice pe braţul stâng aceste crengi încununate cu ghirlande albe, podoabele lui Zeus al Rugătorilor, rostiţi-le străinilor cuvinte rugătoare de jale şi tânguitoare, cum li se cade unor venetice şi grăiască şi spuneţi-le apăsat că nici un strop de sânge n mânjeşte fuga voastră.</p>
+            <p>         Dar vocii voastre să nu-i scape vreun sunet de încre dere prea mare-n sine!</p>
+            <p>         Să nu vi se citească vreo sfruntare pe obrazele cuj frunţi cuviincioase, în ochii cu priviri cuminţi.</p>
+            <p>         Să nu fiţi nici prea grabnice la vorbă, dar nici să n~o| tărăgănaţi prea mult, căci neamul celor de pe-aici se su-j pară uşor.</p>
+            <p>         Luaţi aminte, nu vă-mpotriviţi, voi sunteţi obidite] străine, surghiunite.</p>
+            <p>         Un fel prea sigur de a cuvânta nu sade bine celor slabij</p>
+            <p>         CORIFEUL</p>
+            <p>         Tu le vorbeşti de prevedere, tată, unor copii prevăzător Voi sta de veghe să-mi aduc aminte de sfaturile taj înţelepte.</p>
+            <p>         Privească Zeus, străbunul nostru23, ' către noi!</p>
+            <p>         DANAOS Aşa să fie; ochiul lui să ne privească plin de bunătatej</p>
+            <p>         CORIFEUL Să vrea numai şi voia noastră se va împlini.</p>
+            <p>         DANAOS Deci nu mai zăbovi, urmează sfatul meu.</p>
+            <p>         CORIFEUL Aş vrea să stau şi eu în preajma ta.</p>
+            <p>         (Urcă pe gorgan, urmată de cor; îl invocă mai întâi ' pe Zeus.)</p>
+            <p>         O, Zeus, ai milă de durerea noastră până nu pierim!</p>
+            <p>         DANAOS</p>
+            <p>         Chemaţi în rugă şi această pasăre-a lui Zeus 24.</p>
+            <p>         CORIFEUL Chem razele mântuitoare ale Soarelui.</p>
+            <p>         DANAOS Şi pe Apolo cel curat, pe zeul izgonit din cer odinioară25.</p>
+            <p>         CORIFEUL</p>
+            <p>         Cel cu destin asemeni nouă trebuie să înţeleagă suferinţa noastră.</p>
+            <p>         DANAOS</p>
+            <p>         S-o înţeleagă şi să ne ajute cu buneţe.</p>
+            <p>         CORIFEUL</p>
+            <p>         (arătând spre celelalte statui) Pe care dintre zeii de aici să-i mai chemăm în rugă?</p>
+            <p>         DANAOS Văd un trident acolo, semnul unui zeu 26.</p>
+            <p>         CORIFEUL</p>
+            <p>         Acela care ne-a călăuzit cu bine peste mare să ne prj mâască bine şi pe ţărm!</p>
+            <p>         DANAOS Şi iarăşi văd un Hermes cum e obiceiul la helleni.</p>
+            <p>         CORIFEUL De ne-ar trimite o solie de mândră libertate 2”!</p>
+            <p>         DANAOS</p>
+            <p>         Rugaţi-vă, la fel, de toţi stăpânii preaslăviţi pe-ace altar comun.</p>
+            <p>         Pe urmă, aşezaţi-vă aici în locul sfânt, precum un s de porumbele fugind de teama şoimilor – şi ei tot zb rătoare, dar rude duşmănoase care se pătează cu o mâ: vie săvârşită chiar faţă de neamul lor.</p>
+            <p>         O pasăre care mănâncă alte păsări cum mai poate neprihănită?</p>
+            <p>         Şi cum mai poate fi neprihănit bărbatul ce vrea să-ş ia femeie peste voinţa ei şi-a tatălui care se-mpotriveşte2^</p>
+            <p>         Nu, nici în Hades, mort, nu va putea să scape de înv1» nuirea că a fost un desfrânat, dacă s-a purtat în felul ăs</p>
+            <p>         Se spune că acolo se află un alt Zeus, ce stă la ju cată printre umbre, rostind în orice vină hotărârea pe urmă 29.</p>
+            <p>         Băgaţi de seamă, să răspundeţi cum v-am sfătuit, vreţi să biruie cu bine cauza voastră!</p>
+            <p>          (Intră regele ţării, Pelasgos şi însoţitori înarmaţi.)</p>
+            <p>         PELASGOS</p>
+            <p>         De unde a sosit această ceată, spre care se îndread vorba mea, purtând îmbrăcăminte negrecească, bogat îr|</p>
+            <p>         Podobita cu veşminte şi cu legături de cap din ţări străine «»?</p>
+            <p>         Aceste haine nu-s ale femeilor din Argolida, nici din iveo altă parte a Helladei.</p>
+            <p>         Şi totuşi este vrednic de uimire faptul că aţi cutezat, neînfricate, să veniţi aici, lipsindu-vă de crainic, fără călăuze şi fără să aveţi la noi ocrotitori de oaspeţi.</p>
+            <p>         E drept că voi aţi închinat aceste ramuri zeilor cetăţii noastre, cum cere rânduiala rugătorilor; într-asta, doar prin potrivire s-ar putea întrezări Hellada.</p>
+            <p>         Ci ar mai fi îndreptăţite şi multe alte presupuneri.</p>
+            <p>         (Adresându-se Corifeului)</p>
+            <p>         Acum, fiindcă eşti aici, vorbeşte, să ne faci lumină!</p>
+            <p>         CORIFEUL</p>
+            <p>         Când ai grăit despre îmbrăcămintea noastră nu te-ai [înşelat.</p>
+            <p>         Dar eu cu cine stau acum de vorbă, cu unul dintre cetăţenii paznici ai nuielei sacre 31 sau cu mai-marele cetăţii?</p>
+            <p>         PELASGOS</p>
+            <p>         Îmi poţi răspunde şi vorbi încrezătoare în privinţa asta.</p>
+            <p>         Eu sunt Pelasgos 32, fiul lui Palaichton, care s-a născut din Glie şi căpetenia cea mai de sus a ţării, iar pe-lasgii, poporul care strânge roadele acestui lut, au dobândit acelaşi nume, în chip firesc, de la poruncitorul lor.</p>
+            <p>         Domnesc peste întreg pământul străbătut de sfântul Strymon 33, atât cât se întinde către soare-apune.</p>
+            <p>         De-asemeni, stăpânirea mea cuprinde ţarina Perraibi-lor3/' şi locurile care, dincolo de Pind, se-nvecinează cu Paionia 35 şi lanţul munţilor dodonici 36.</p>
+            <p>         Hotarul meu este tăiat de valul mării.</p>
+            <p>         Eu pretutindeni am putere, dincoace de graniţele-icestea.</p>
+            <p>         Cât despre ţara Apia 37, pământul său a fost numit aşa amintirea unui tămăduitor de altădată.</p>
+            <p>         Deci, Apis, medic şi proroc, feciorul lui Apolo, venind| de peste mare, de la Naupaktos 38, a curăţit acest meleag de monştrii ucigaşi ai muritorilor, de iazmele iscate la Iu mină într-o bună zi de însăşi Glia mâniată – deoareci fusese pângărită de sângele unor străvechi omoruri – mul ţime de balauri, tovărăşie neplăcută!</p>
+            <p>         Cu leacuri ce stârpesc din rădăcină răul, Apis a mân tuit fără tăgadă ţara, şi, drept răsplată, i se pomeneşti numele în rugăciuni la Argos.</p>
+            <p>         Deoarece ţi-am dat temeiuri să mă poţi cunoaşte, ros teşte-ţi neamul, spune-mi totul mai departe.</p>
+            <p>         Dar nu uita, cetatea noastră nu iubeşte vorba lung</p>
+            <p>         CORIFEUL</p>
+            <p>         Am să grăiesc pe scurt şi limpede. Ne lăudăm a fi de stirpe argiană, ne tragem din ninca bună de prăsilă 39.</p>
+            <p>         Acesta-i adevărul şi am să-l întăresc.</p>
+            <p>         CORIFEUL</p>
+            <p>         Se spune că aici, în Argolida, a trăit odinioară Io, preu-teasă paznică la templul Herei.</p>
+            <p>         PELASGOS</p>
+            <p>         Desigur, spusa încă e puternică în multe guri.</p>
+            <p>         CORIFEUL</p>
+            <p>         Şi se mai povesteşte, despre-această muritoare, că a fost ibovnica lui Zeus.</p>
+            <p>         PELASGOS</p>
+            <p>         Iar zbaterile lor de dragoste nu au rămas ferite de mâ-nia Herei.</p>
+            <p>         PELASGOS</p>
+            <p>         Străinelor, de necrezut îmi sună în urechi rostirej voastră.</p>
+            <p>         Cum v-aţi găsit a fi de stirpe argiană?</p>
+            <p>         Voi semănaţi mai mult cu libyenele 40, nu cu femeill din ţară.</p>
+            <p>         Asemenea vlăstare le-ar putea hrăni şi Nilul.</p>
+            <p>         La trăsături aduceţi însă şi cu obrazul cipriot, pe ce| re-l» făuresc bărbaţii, tumându-l în femei ca în tipare.</p>
+            <p>         ? Am auzit, la fel, despre nomade indiene, care gonesd înj şa, călare pe cămile, prin tărâmurile din apropierea EtJ opiei 41.</p>
+            <p>         Dacă-aţi purta şi arcuri, lesne v-aş lua drept AmazoanJ făpturi necunoscând bărbat, de carne mâncătoare 42.</p>
+            <p>         Deci tu învaţă-mă, să înţeleg mai bine cum de sunt^ argiene, după obârşie şi sânge.</p>
+            <p>         CORIFEUL Şi cum s-a încheiat gâlceava celor din Olimp?</p>
+            <p>         PELASGOS Zeiţa Argosului a schimbat femeia în junincă.</p>
+            <p>         CORIFEUL Dar Zeus s-a mai alăturat făpturii cu frumoase coarne?</p>
+            <p>         I PELASGOS</p>
+            <p>         Aşa se zice, sub înfăţişarea unui taur încălecător de</p>
+            <p>         CORIFEUL CORIFEUL</p>
+            <p>         Ce a făcut, atunci soţia neînduplecată a lui Zeus? Din nou se potriveşte întru totul spusa ta cu-a mea.</p>
+            <p>         PELASGOS</p>
+            <p>         A rânduit un paznic cu privire fără greş pentru ji nincă.</p>
+            <p>         CORIFEUL</p>
+            <p>         Cine a fost atoatevăzătorul care păzea o singură cor] nută?</p>
+            <p>         PELASGOS Copilul Gliei, Argos 43, omorât apoi de Hermes.</p>
+            <p>         CORIFEUL Pe urmă ce-a mai născocit pentru sărmana juncă?</p>
+            <p>         PELASGOS</p>
+            <p>         O gânganie care ciupeşte şi alungă vitele, scoţându-le din minţi.</p>
+            <p>         CORIFEUL Cei de pe malurile Nilului numesc gângania tăun.</p>
+            <p>         PELASGOS</p>
+            <p>         Tăunul a gonit-o din pământul ţării pe drumuri fără capăt.</p>
+            <p>         PELASGOS Ajunge Io la Kanobos şi la Memphis 44.</p>
+            <p>         CORIFEUL Acolo o atinge Zeus cu mâna, întemeind un neam.</p>
+            <p>         PELASGOS</p>
+            <p>         Şi cine are cinstea de a fi vlăstarul vacii45, zămislit de Zeus?</p>
+            <p>         CORIFEUL</p>
+            <p>         Îl cheamă Epaphos, pe drept, în amintirea chipului cum a venit pe lume.</p>
+            <p>         PELASGOS</p>
+            <p>         CORIFEUL Stăpâna celei mai întinse părţi a lumii, Libya 47.</p>
+            <p>         PELASGOS Nu-mi spui ce alt vlăstar a răsărit din ea?</p>
+            <p>         CORIFEUL Belos 48, părintele a doi copii, care a fost şi tatăl tatii.</p>
+            <p>         PELASGOS Rosteşte-mi numele acestui tată înţelept al tău.</p>
+            <p>         CORIFEUL</p>
+            <p>         Danaos; el are şi un frate, dăruit cu cincizeci de copii.</p>
+            <p>         PELASGOS Spune-mi şi numele acestuia, nu mi-l ascunde!</p>
+            <p>         CORIFEUL</p>
+            <p>         Aigyptos. Ai aflat acum obârşia-mi străveche: socoa-te-le drept argiene pe străinele din ceata care stă în faţa ta, PELASGOS ^</p>
+            <p>         Într-adevăr, se pare că sunteţi din vechime legate de acest pământ.</p>
+            <p>         Dar cum de-aţi cutezat să părăsiţi lăcaşul părintesc? Ce soartă rea s-a prăbuşit asupra voastră?</p>
+            <p>         CORIFEUL</p>
+            <p>         Stăpâne al Pelasgilor, necazurile omului sunt schimbătoare.</p>
+            <p>         Durerile nu se înfăţişează niciodată cu aceleaşi aripi.</p>
+            <p>         Cine ar fi putut să creadă că exilul nostru cel neaş-^ teptat va strămuta în Argos un neam odinioară înrudit cu voi, fugar aici din scârbă pentru patul căsniciei?</p>
+            <p>         PELASGOS</p>
+            <p>         Ce le cerşiţi, ca rugătoare, zeilor cetăţii noastre, ţinânC în mâini aceste ramuri proaspăt retezate, cu lână albă-r cununate?</p>
+            <p>         CORIFEUL Să nu ajungem slujnicele seminţiei lui Aigyptos.</p>
+            <p>         PELASGOS</p>
+            <p>         Oare la mijloc este ura sau vorbeşti cumva de vreo nelegiuire?</p>
+            <p>         CORIFEUL Cine-ar dori să dobândească prieteni, cumpărându-i?</p>
+            <p>         PELASGOS Prin astfel de căsătorii puterea muritorilor sporeşte.</p>
+            <p>         CORIFEUL E şi un mijloc lesnicios de a scăpa de sărăcie.</p>
+            <p>         PELASGOS</p>
+            <p>         Cum aş putea să vă ajut şi totodată să slujesc evlavia faţă de zei?</p>
+            <p>         CORIFEUL Să nu ne dai, dacă ne cer feciorii lui Aigyptos!</p>
+            <p>         PELASGOS</p>
+            <p>         Cuvinte grele ai rostit; înseamnă să aprindem un război!</p>
+            <p>         CORIFEUL</p>
+            <p>         PELASGOS</p>
+            <p>         Dreptatea luptă laolaltă cu cel care o apără la rândul</p>
+            <p>         Sau.</p>
+            <p>         PELASGOS</p>
+            <p>         Aşa-i, dar numai dacă s-a aflat de partea voastră de la început.</p>
+            <p>         CORIFEUL</p>
+            <p>         (arătând ramurile de măslin ale rugătoarelor)</p>
+            <p>         Acest prinos cinsteşte-l, de la cârma vasului cetăţii.</p>
+            <p>         PELASGOS</p>
+            <p>         Mă trec fiori când văd, căzute pe altare, umbrele acestor ramuri.</p>
+            <p>         CORIFEUL într-adevăr, e grea mânia lui Zeus al Rugătorilor49.</p>
+            <p>         CORUL Strofa I</p>
+            <p>         ' Copil al lui Palaichton, ascultă-ne cu inima prietenoasă, domn al Pelasgilor! Priveşte spre noi, rugătoarele, fugare gonind pretutindeni, aşa cum aleargă juninca vânată de lup, sărind sub perete de stânci să-şi afle scăpare, şi-i spune, mugind, păstorului caznele sale.</p>
+            <p>         La umbra ramurilor de curând tăiate, zăresc un pâlc ciudat în preajma zeilor ce ocrotesc întrecerile obştii.</p>
+            <p>         De nu ar fi dăunătoare năzuinţa străinelor încredinţate găzduirii noastre!</p>
+            <p>         De nu s-ar naşte pentru Argos nici o sfadă neaşteptată, nedorită; n-avem nevoie-n ţară de aceasta 50.</p>
+            <p>         CORUL Antistrofa I</p>
+            <p>         Themis 51, a rugătorilor pavăză, Fiica lui Zeus, drămuitorul ursitelor, Îndrepte-şi privirea spre noi, Ca surghiunul nostru aici să nu dăuneze!</p>
+            <p>         În pofida ştiinţei şi-a vârstei tale, învaţă</p>
+            <p>         De la unii mai tineri ca tine aceasta:</p>
+            <p>         Celuia care-l ajută pe rugător</p>
+            <p>         Îi merge din plin, Iar zeii jertfele nu le primesc</p>
+            <p>         Decât din mâinile unora fără prihană.</p>
+            <p>         PELASGOS</p>
+            <p>         Aici voi nu v-aţi aşezat la vatra casei mele şi dacă pângărirea este a oraşului, a obştii, trudească tot poporul să-i găsească leacul.</p>
+            <p>         Eu unul n-am să vă făgăduiesc nimic, mai înainte de-a îe spunetuturor bărbaţilor cetăţii aceste întâmplări.</p>
+            <p>         CORUL Strofa II</p>
+            <p>         Tu eşti cetatea, sfatul poporului tu eşti;</p>
+            <p>         Stăpân nesupus judecăţii, Tu eşti mai-mare peste altar, peste vatra ţării.</p>
+            <p>         Numai un vot are preţ: înclinarea capului tău. Numai un sceptru are greutate: cel folosit de tine pe tron. Tu porunceşti peste toate. Fereşte-te de sacrilegiu!</p>
+            <p>         PELASGOS</p>
+            <p>         Mânjească-se duşmanii mei cu sacrilegiu! Eu nu ştiu cum să vă ajut şi să rămân nevătămat, dar nu-mi este uşor să trec pe lângă ruga voastră. Sunt la răscruce, frica îmi cuprinde inima. Ce-i de făcut şi ce nu-i de făcut? Cum să aleg la întâmplare?</p>
+            <p>         CORUL Antistrofa II</p>
+            <p>         Înalţă privirea spre cel</p>
+            <p>         Care priveşte din slavă la toate</p>
+            <p>         Şi îi veghează pe muritorii</p>
+            <p>         Striviţi de dureri;</p>
+            <p>         Ei s-aşază smeriţi lângă-aproapele lor</p>
+            <p>         Dar dreptul ce li se cuvine</p>
+            <p>         Nu-l dobândesc după lege.</p>
+            <p>         Bagă de seamă: mânia lui Zeus RugătoruJ</p>
+            <p>         Îi ajunge pe cei care nu se-ndulcesc</p>
+            <p>         La suspinele suferitorilor!</p>
+            <p>         PELASGOS</p>
+            <p>         Dacă feciorii lui Aigyptos se-nstăpânesc asupra voastrl prin însăşi legea ţării lor, rostindu-se a fi atât de înrudif cu voi, cine ar fi în stare să li se-mpotrivească?</p>
+            <p>         Va trebui să dovediţi, spre apărare, că legile de-acas nu le dau nici o putere suverană peste voi 52.</p>
+            <p>         CORUL Strofa III</p>
+            <p>         Să nu încăpem vreodată pe mâna</p>
+            <p>         Bărbaţilor stăpânitori; mai bine fugim, Călăuzite numai de stele, Să ne ferim de o nuntă nesuferită!</p>
+            <p>         Cheamă Dreptatea să lupte-mpreună cu tine, Ia hotărâre cucernică faţă de zei.</p>
+            <p>         PELASGOS</p>
+            <p>         A hotărî nu e atât de lesne; nu mă alegeţi drept judecător pe mine.</p>
+            <p>         Am spus-o mai devreme; oricât sunt de puternic, n-aş fi în stare să înfăptuiesc nimic fără popor 53.</p>
+            <p>         Iar dacă, din nenorocire, s-ar întâmpla aceasta, n-aş vrea cândva să mă-nvinovăţească argienii, zicându-mi: „I-ai cinstit pe venetici, dar ai pierdut cetatea.”</p>
+            <p>         CORUL</p>
+            <p>         Antistrofa II</p>
+            <p>         Acelaşi sânge, străbunul tău şi al nostru, Zeus, priveşte-această-nfruntare; el înclină balanţa de-o parte sau alta, socotindu-i, precum se cuvine, pe cei ticăloşi vinovaţi, pe cei trăitori după noime sfinţi. Şi dacă totul se cântăreşte cu nepărtinire, ide ce să te umpli de griji, când împlineşti ce e drept?</p>
+            <p>         PELASGOS</p>
+            <p>         Îmi trebuie un gând profund, mântuitor; să-alunec în adâncul lui, ca un scufundător, cu ochiul limpede, neîmbătat de vin54 pentru ca, mai întâi, aceste întâmplări să fie fără pagubă pentru cetate, apoi ca ele să se-ncheie frumos şi pentru mine.</p>
+            <p>         Să nu se-abată peste ţară vreun război de pedepsire şi în aceiaşi timp să nu vă. Dau urmăritorilor, aşa cum staţi îngenunchiate lingă scaunele zeilor, ca nu cumva să mă aleg c-un locatar copleşitor în casă, atotnimicitorul zeu şi duh al răzbunării, ce nu-l sloboade din strânsoare nici pe mort în Hades 55.</p>
+            <p>         Nu crezi că-mi trebuie un gând mântuitor?</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Gândeşte şi, după dreptate, fii pentru noi</p>
+            <p>         Un paznic de oaspeţi evlavios.</p>
+            <p>         Nu da din Argos fugarele</p>
+            <p>         Azvârlite din depărtare pe ţărmul acesta</p>
+            <p>         Într-un exil certat cu zeii!</p>
+            <p>         Antistrofa I</p>
+            <p>         Nu te-nvoi să vezi că ne smulg</p>
+            <p>         Din sfântul sălaş</p>
+            <p>         Atâtor zei închinat, O, tu stăpânul atoate în ţară!</p>
+            <p>         Cunoaşte purtarea sfruntată a unor bărbaţj</p>
+            <p>         Ocoleşte mânia divină!</p>
+            <p>         Strofa II</p>
+            <p>         Nu te-nvoî să vezi rugătoarea, Târâtă de lângă altar, ca o mânză, Împotriva dreptăţii, de legăturile părului săi|</p>
+            <p>         Să vezi cum ne-apucă</p>
+            <p>         De straiele noastre, cu deasă urzeală.</p>
+            <p>         Antistrofa II</p>
+            <p>         Orice ai face, să ştii</p>
+            <p>         Că odraslele tale şi casa ta</p>
+            <p>         Îi vor plăti lui Ares despăgubire un preţ pe potrivă56. Cumpăneşte-n minte aceasta: e dreaptă domnia lui Zeus.</p>
+            <p>         PELASGOS</p>
+            <p>         Am cugetat temeinic, însă m-am împotmolit la mal.</p>
+            <p>         Nevoia mă sileşte să pornesc un greu război sau împotriva unorasau împotriva altora; corabia mi-e ca bătută cu piroane pe un grind; parcă au ridicat-o nişte scripeţi 57.</p>
+            <p>         Şi nu încape nici o dezlegare fără suferinţă 58.</p>
+            <p>         Când bunurile sunt împrăştiate dintr-o casă, pot altele să le înlocuiască, mai scumpe decât cele care s-au pierdut, până se umple iar încărcătura, prin graţia lui Zeus, în-mulţitorul bogăţiilor.</p>
+            <p>         Iar dacă limba ta a săgetat nepotrivite vorbe ce zguduie amarnic inima şi o căznesc, tot prin cuvinte mol-comeşti durerea izvorâtă din cuvinte.</p>
+            <p>         În schimb, când trebuie împiedicată vărsarea sângelui de frate, e datina să se aducă sacrificii, să fie multor zei înjunghiate multe victime, în stare a molcomi năpasta.</p>
+            <p>         Sau poate mă înşel prea tare cu privire la gâlceava viitoare.</p>
+            <p>         Aş vrea să fiu mai bine un nătâng, decât un înţelept vestind nenorociri. '</p>
+            <p>         Să se petreacă toate minunat, chiar împotriva minţii mele!</p>
+            <p>         CORIFEUL</p>
+            <p>         După mulţimea spuselor prin care te-am rugat, ascultă Şi cuvântul meu din urmă.</p>
+            <p>         PELASGOS</p>
+            <p>         Ascult, rosteşte-l, nu</p>
+            <p>         Îmi va scăpa!</p>
+            <p>         CORIFEUL Port brâu şi legături care îmi ţin veşmintele.</p>
+            <p>         PELASGOS Desigur lucruri potrivite portului femeilor.</p>
+            <p>         CORIFEUL Şi totodată pentru mine, să ştii, un ajutor de seamă.1]</p>
+            <p>         PELASGOS Ce fel de vorbe, spune-mi, vei face să răsune?</p>
+            <p>         CORIFEUL</p>
+            <p>         De nu-ţi vei împlini cu cinste datoria faţă de casij noastră<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         PELASGOS Ce ajutor aştepţi de la centuri şi brâie?</p>
+            <p>         CORIFEUL Acela de a dărui statuile de faţă cu podoabe rare.</p>
+            <p>         PELASGOS întorsătură enigmatică: vorbeşte fără ocolişuri!</p>
+            <p>         CORIFEUL Acela de-a ne spânzura de zeii voştri, cât mai grabnic!</p>
+            <p>         PELASGOS Aud cuvinte care mă lovesc în inimă ca nişte bice.</p>
+            <p>         CORIFEUL Ai înţeles acuma, te-am făcut să vezi mai limpede.</p>
+            <p>         PELASGOS</p>
+            <p>         De pretutindeni mă-nconjoară griji de neînvins.</p>
+            <p>         Noian de rele trece peste mine ca un râu.</p>
+            <p>         Plutesc în largul mării, deasupra unui hău de chinuri şi drumul de întoarcere nu-i lesne de găsit şi nici un port nu se îmbie nenorocirii mele.</p>
+            <p>         De nu voi împlini dorinţa voastră, pângărirea despre care îmi vorbiţi întrece orişice închipuire.</p>
+            <p>         Iar dacă, dimpotrivă, ajung la încheierea că trebuie să ies în faţa zidurilor noastre şi să lupt cu neamurile tale, feciorii lui Aigyptos, n-ar firisipa oare prea amară a sân-gelui bărbaţilor scurs în câmpie din pricina unor femei?</p>
+            <p>         Dar sunt silit să-mi fie teamă de mânia lui Zeus al Rugătorilor, căci nu se află frică mai înaltă printre oameni.</p>
+            <p>         Deci tu, bătrâne, tată al acestor fete, ia ramurile iute j în braţe şi le-nchină pe celelalte capişti ale daimonilor ţării, ca oamenii cetăţii, desluşind însemnul străinelor sosite aici ca rugătoare, să nu-mi arunce vorbe de ocară. '</p>
+            <p>         Norodul este cârcotaş cu stăpânirea.</p>
+            <p>         În el, văzând această mărturie, se va stârni desigur mila: poporul argian urăşte nemăsura şlehtei bărbăteşti şi se va dovedi faţă de voi mai înclinat spre bine.</p>
+            <p>         Bunăvoinţa stă mereu de partea celor slabi.</p>
+            <p>         DANAOS</p>
+            <p>         Noi trebuie să preţuim nespus de mult că te avem pe tine drept apărător al legii găzduirii, milostiv cu suplicanţii.</p>
+            <p>         Dă-mi străji însoţitoare dintre băştinaşi, să îmi arate unde sunt altarele din faţa templelor zidite zeilor cetăţii, sălaşuriie lor de oaspeţi primitoare; să fiu în siguranţă când voi trece prin oraş.</p>
+            <p>         Natura nu ne-a îmbrăcat cu-aceleaşi chipuri.</p>
+            <p>         Alt neam hrăneşte Nilul decât fluviul Inachos 60.</p>
+            <p>         Să ne păzim; după încrederea prea mare să nu urmeze teama.</p>
+            <p>         Destui sunt cei care au omorât din neştiinţă un prieten.</p>
+            <p>         PELASGOS</p>
+            <p>         (adresându-se străjilor)</p>
+            <p>         Porniţi cu el, oşteni, grăieşte cu temei străinul, călău-ziţi-l la altarele cetăţii, la jeţurile zeilor, iar celor care vă întreabă, răspundeţi-le fără vorbă lungă că însoţiţi un om al mării care cerşeşte milă de la zeii noştri.</p>
+            <p>         (Danaos pleacă însoţit de străji.)</p>
+            <p>         CORIFEUL</p>
+            <p>         CORIFEUL</p>
+            <p>         I-ai spus acestuia porunca ta, să plece întovărăşit de' ăji.</p>
+            <p>         Dar eu siguranţă?</p>
+            <p>         Străji.</p>
+            <p>         Dar eu ce trebuie să fac, unde socoti că m-aş afla în |</p>
+            <p>         PELASGOS Aceste ramuri, semnele durerii tale, să le lepezi!</p>
+            <p>         CORIFEUL Le las aici să le păzească braţul şi cuvântul tău<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         PELASGOS</p>
+            <p>         Acum adăposteşte-te în partea unde sanctuarul este neted.</p>
+            <p>         Cum oare mă va scoate din primejdie un sanctuar deschis intrării orişicui?</p>
+            <p>         PELASGOS Nu te voi da, nu-ţi fie teamă, păsărilor răpitoare.</p>
+            <p>         CORIFEUL Ci unora mai groaznici decât</p>
+            <p>         Cei mai crunţi balauri.</p>
+            <p>         PELASGOS Celui care-ţi grăieşte „ai încredere'</p>
+            <p>         Să i te-ncrezi.</p>
+            <p>         CORIFEUL</p>
+            <p>         Să nu te mi</p>
+            <p>         Miri că inima, de frică, îmi este răvăşită.</p>
+            <p>         PELASGOS Un rege pururi nu cunoaşte frica.</p>
+            <p>         CORIFEUL j să mă întăreşti prin vorbe şi prin</p>
+            <p>         PELASGOS</p>
+            <p>         Să te lase singură prea multă vreme tatăl. 3u chema-voi laolaltă norodul oamenilor tă</p>
+            <p>         De partea ta părerea obştii, apoi am s;</p>
+            <p>         Ce trebuie să cuvânteze.</p>
+            <p>         Rămâi şi zeilor cetăţii cere-le în rugăciuni să-ţi împlinească ceea ce pofteşti să se întâmpie.</p>
+            <p>         Mă duc să pun la cale totul; de-ar fi să mă urmeze Peitho şi Tyche cea prielnică 61!</p>
+            <p>         (Pelasgos şi însoţitorii lui pleacă. Între timp Corul a coborât în etajul inferior al scenei, în orchestra.)</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Stăpân al stăpânilor, Preafericit al fericiţilor</p>
+            <p>         Cea mai deplină Putere între depline puteri, Bucurosule Zeus, ai milă de noi!</p>
+            <p>         Întoarce de la neamul tău</p>
+            <p>         Bărbăteasca sfruntare, ţie urâtă!</p>
+            <p>         Scufundă năpasta – corabie neagră —</p>
+            <p>         În talazul mării asemenea purpurii!</p>
+            <p>         Antistrofa I</p>
+            <p>         Priveşte prielnic temeiul acestor femei, Seminţia lor din vechime vestită;</p>
+            <p>         Străbuna lor ţi-a fost dragă.</p>
+            <p>         Adu-ţi aminte de bunătatea ta de pe vremuri!</p>
+            <p>         De cum ai atins-o cu mâna pe Io.</p>
+            <p>         Ne lăudăm a fi vlăstarele tale;</p>
+            <p>         Noi am purces de pe ţărmul acesta.</p>
+            <p>         Strofa II</p>
+            <p>         Ne-am întors pe urmele vechi ale~ mamei</p>
+            <p>         În pajiştea florilor unde</p>
+            <p>         Vegheată păştea 62, În imaşul de vaci hrănitor.</p>
+            <p>         Io, de-acolo, stârnind-o tăunul, Fuge cu mintea pierdută, Ajunge la multe popoare şi neamuri, Taie strâmtoarea brăzdată de valuri şi trece – o mână ursita – peste hotarul a două pământuri aşezate faţă în faţă 63.</p>
+            <p>         Antistrofa II;</p>
+            <p>         Se-avântă prin ţările Asiei, Cutreieră, de la un capăt la altul, Frigia M plină de oi, Îşi află popas la cetatea lui Teuthras 65, în Mysia, Pe urmă ajunge în văile Lydiei 66, Peste şirul de munţi din Kilikia</p>
+            <p>         Şi din Pamphyiia 67, La fluvii de-a pururi curgând 68, În tărâmul belşugului celui adânc 69, În vestitul meleag roditor de grâu</p>
+            <p>         Al Afroditei 70.</p>
+            <p>         Strofa III</p>
+            <p>         Mereu sfredelită de boldul</p>
+            <p>         Bouarului înaripat71, Soseşte în sfânta luncă-a lui Zeus</p>
+            <p>         Bogată-n mulţime de roade 72, În zăvoiul hrănit de topirea zăpezii73</p>
+            <p>         Peste care se-abate mânia lui Typhon 74;</p>
+            <p>         La Nilul cu ape neturburate de molimi, Soseşte scoasă din minţi</p>
+            <p>         De cazne umilitoare, De chinuri – ţepuşele Herei, Dezlănţuită ca o thyadă7j.</p>
+            <p>         Antistrofa III</p>
+            <p>         Şi muritorii pe-atunci locuind în acele meleaguri, '</p>
+            <p>         Simţiră inima lor, Tremurând de o galbenă spaimă j</p>
+            <p>         În faţa ciudatei privelişti.</p>
+            <p>         Văzură o vită să-ţi facă silă, îmbinând trăsături omeneşti, parte junincă, parte femeie; minunea-i' lăsă năuci de uimire. Cine atunci a fost vraciul care a vindecat-o pe rătăcitoarea, pe oropsita, pe vălătucită de zborul tăunului, Io?</p>
+            <p>         Strofa IV, Cel ce domneşte în veacul fără sfârşit, Vlaga lui, puterile sale blânde şi dumnezeiasca-i suflare i-au adus liniştire. Atunci sfiala ei suferindă i s-a topit în lâncede lacrimi. Sarcina o dobândise chiar de la Zeus, spusa aceasta nu-i mincinoasă, şi-a născut un fiu lipsit de cusur, Antistrofa IV</p>
+            <p>         Care vreme-ndelungă a vieţuit fericit, într-asta păhiîntul întreg a strigat: „Adevărat, născutul acesta, altoi de viaţă, e al lui Zeus!” Cine altul ar fi putut să aline • boala voită de Hera? Zeus a-mplinit aceasta. De-aceea suntem numite şi noi: stirpea lui Epaphos.</p>
+            <p>         Strofa V</p>
+            <p>         Ce zeu ar fi, după fapte, mai îndreptăţit să-l strigăm cu temei în rugă?</p>
+            <p>         Stăpânul şi tatăl nostru, Care cu mâinile lui ne-a sădit tulpina, Vechiul şi marele zămislitor al neamului nostru, Leacul a toată nevoia, Adierea prielnică, Zeus!</p>
+            <p>         Antistrofa V</p>
+            <p>         Nici o domnie nu e deasupra tronului său, nici o putere nu e mai tare decât a lui. Nimenea nu-i aşezat mai în slavă din cei cărora li se aduce de jos închinare. Fapta pe loc îi urmează cuvântul spre a-mplinihotărârile minţii sale 77. (Se întoarce Danaos.)</p>
+            <p>         DANAOS</p>
+            <p>         Copilelor, fiţi împăcate, toate-s bune în privinţa oamenilor ţării.</p>
+            <p>         Poporul a votat o hotărâre răspicată.</p>
+            <p>         CORIFEUL</p>
+            <p>         Bine-ai venit, moşnege, aducătoarul unor ştiri atât de dragi!</p>
+            <p>         Grăieşte-ne şi nouă ce cuprinde hotărârea şi cum a dobândit izbândă mâna celor mulţi?</p>
+            <p>         DANAOS</p>
+            <p>         Voinţa argienilor n-a stat în cumpănă, ci a fost una;: simt că-mi întinereşte sufletul bătrân.</p>
+            <p>         Întreg poporul, ridicându-şi mâna dreaptă, a zguduit văzduhul, dând putere următoarelor cuvinte:</p>
+            <p>         Vom dobândi „sălaş în ţară, liberi şi dreptul de azil ne va feri să fim luaţi drept pradă; nu vor putea să ne răpească nici băştinaşul şi nici veneticul, iar dacă se va</p>
+            <p>         Folosi puterea împotriva noastră, tot argianul care nu ne 'va sări în ajutor, se va face vinovat de necredinţă şi va fi surghiunit prin votul adunării.”</p>
+            <p>         Aceasta e rostirea susţinută pentru noi de regele pe-lasgilor; el a-ndemnat cetatea nu cumva să răscolească-n vremea viitoare năprasnica mânie a lui Zeus Ocrotitorul Rugătorilor şi a grăit despre o îndoită pângărire, cetăţenească şi străină totodată 78, ce ar cădea peste oraş precum un monstru neînduplecat şi lacom de durere.</p>
+            <p>         La spusele acestea, mâiniîe poporului din Argos, neîndemnat de nici un crainic, au hotărât aşa să fie.</p>
+            <p>         Obştea pelasgilor şi-a aplecat urechea la temeiurile unei iscusite cuvântări; dar Zeus a dus până la capăt hotă-rârea 79.</p>
+            <p>         CORIFEUL</p>
+            <p>         Haide, cântaţi pentru Argos, menindu-i de bine, drept mulţumire pentru aceste faceri de bine!</p>
+            <p>         Iar Zeus Primitorul de Oaspeţi să caute spre rugăciunea rostită din gură de oaspe şi întru totul s-o împlinească, fără greşeală!</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Asculte-ne zeii acum, Născuţii lui Zeus, În vreme ce vom închina</p>
+            <p>         Menirile noastre de bine.</p>
+            <p>         Nicicând să nu cadă pământul pelasgic</p>
+            <p>         În seama lui Ares, Mistuitorul prin foc, mâniosul;</p>
+            <p>         El destramă, cu ţipătul său, orice dans</p>
+            <p>         Şi-i seceră pe muritori, bântuind</p>
+            <p>         Prin holde străine!</p>
+            <p>         Celor din Argos de noi le-a fost milă, au votat spre binele nostru, pe noi ne-au cinstit, rugătoare încredinţate lui Zeus, o turmă mâhnită.</p>
+            <p>         Antistrofa I</p>
+            <p>         Nu şi-au dat votul bărbaţilor, Nu au nepreţuit a femeilor pricină;</p>
+            <p>         L-au avut în vedere pe Zeus, Ochiul său treaz şi răzbunător</p>
+            <p>         Ce nu poate fi biruit!</p>
+            <p>         Cine-ar putea să-l ţină departe de casa-i, Când vrea să-i păteze acoperişul?</p>
+            <p>         Cu multă povară-l apasă!</p>
+            <p>         Argienii cinstesc drept neamuri de sânge</p>
+            <p>         Pe rugătoarele încredinţate</p>
+            <p>         Preasfântului Zeus.</p>
+            <p>         De-aceea, curate vor fi altarele lor</p>
+            <p>         De unde cerşesc priinţa divină.</p>
+            <p>         Strofa II</p>
+            <p>         Din gurile noastre umbrite sub crengi de măslin, Desprindă-se rugi iubitoare de slavă.</p>
+            <p>         Ciuma să nu le golească</p>
+            <p>         De bărbaţi vreodată cetatea!</p>
+            <p>         Străinul să nu le păteze pământul</p>
+            <p>         Cu sângele de băştinaşi căzuţi în război.</p>
+            <p>         Tinerii lor să rămână</p>
+            <p>         Flori care nu pot fi rupte de pe tulpină!</p>
+            <p>         Ares, părtaşul de pat al Kypridei 80</p>
+            <p>         Şi ucigaşul de oameni, Să nu le reteze splendoarea!</p>
+            <p>         Antistrofa II</p>
+            <p>         Bătrânii să umple sălaşele sfinte, În care se-adună</p>
+            <p>         La focul altarelor 81!</p>
+            <p>         Şi astfel, cetatea să propăşească, Cinstire-nălţând măritului Zeus, Celui Ocrotitor de Oaspeţi îndeosebi, A căruia lege căruntă îndreaptă ursita82.</p>
+            <p>         Rugămu-ne să zămislească neîncetat</p>
+            <p>         Căpetenii această glie, Să le poarte la naşteri femeilor sale</p>
+            <p>         De grijă Artemis Hecate 83!</p>
+            <p>         Strofa III</p>
+            <p>         Nici o năprasnă mistuitoare.de oameni</p>
+            <p>         Să nu nimicească oraşul, Înarmându-l pe Ares din creştet în tălpi, Pe zeul străin de dans şi chitară, Aducătorul de lacrimi, Stârnind cu larmă războiul lăuntric!</p>
+            <p>         Roiul potrivnic al bolilor</p>
+            <p>         Să nu împresoare capul celor din Argos;</p>
+            <p>         Ocrotească-le bine Apolo Lykeios 84</p>
+            <p>         Întregul norod de copii şi de tineri!</p>
+            <p>         Antistrofa III</p>
+            <p>         Această ţărână rodească din plin</p>
+            <p>         Seminţe şi poame, Prin grija lui Zeus, de-a lungul întregului an</p>
+            <p>         Oile păşunătoare pe câmpuri</p>
+            <p>         Să plodească-nmulţit!</p>
+            <p>         Sporească în totul, Oblăduită de daimoni, îmbelşugarea!</p>
+            <p>         Evlavios să răsune</p>
+            <p>         Cântul aezilor lângă altare!</p>
+            <p>         Din neprihănite guri să se-nalţe</p>
+            <p>         Lauda glasului lor împletit cu al lirei!</p>
+            <p>         Strofa IV</p>
+            <p>         Sfatul ce dă hotărâri în cetate păzească-şi puterile nezdruncinate, prevăzătoare domnie, veghind asupra obştescului bine!</p>
+            <p>         Pe străini să-i îmbie, mai înainte</p>
+            <p>         De a purcede războiul lui 'Ares, Cu prilej de-mpăcare prin înţelegeri;</p>
+            <p>         Astfel vor fi scutiţi de năpaste!</p>
+            <p>         Iar zeii acestui pământ</p>
+            <p>         Să fie de-a pururi slăviţi</p>
+            <p>         De oameni purtând pe creştet frunze de lauri</p>
+            <p>         Prin cultul jertfirii de boi</p>
+            <p>         Rânduit din vechime!</p>
+            <p>         Cinstirea părinţilor este</p>
+            <p>         A treia poruncă înscrisă</p>
+            <p>         În cartea Dreptăţii multpreţuită85.</p>
+            <p>         (Danaos urcă din nou pe locul mai ridicat al scenei, priveşte îndelung spre mare, apoi se adresează fiicelor sale.)</p>
+            <p>         DANAOS</p>
+            <p>         Nu pot decât să laud, copilelor, cele rostite în ruga voastră înţeleaptă.</p>
+            <p>         Voi, totuşi, să nu tremuraţi de teamă, când tatăl vostru, pe neaşteptate, vă dă acum o veste nouă.</p>
+            <p>         Din locul pândei mele, din adăpostul rugătorilor, zăresc corabia.</p>
+            <p>         E lesne de recunoscut: nu-mi scapă nici câte pânze-au înălţat, nici puntea şi nici prora, de unde ochii taie dinainte calea navei; aceasta e supusă cârmei, ce o călăuzeşte de la spate, mult prea supusă, după noi, pentru că neprietenoasă nouă.</p>
+            <p>         Văd limpede năierii, cu braţe şi picioare negre des-prinzându-se din straie albe 86.</p>
+            <p>         Iată şi celelalte nave, întreaga oaste în lumină.</p>
+            <p>         Acum corabia conducătoare e sub ţărm, vâsleşte zgomotos, cu pânze coborâte.</p>
+            <p>         Dar întâmplarea trebuie să o privim cu linişte şi prevedere şi fără să uităm de zeii locului.</p>
+            <p>         Mă duc să aflu pentru voi apărători şi împuterniciţi ai drepturilorvoastre.</p>
+            <p>         — Rugătoarele, Perşii, Şapte contra Thebe-i</p>
+            <p>         Se poate ca un vestitor sau o solie să vină pentru a vă înşfăca şi a vă duce înapoi ca pe o pradă cuvenită.</p>
+            <p>         Dar nu va fi aşa, să nu vă temeţi.</p>
+            <p>         Însă de vom întârzia cu ajutorul, ar fi mai bine totuşi să vă păstraţi încrederea nezdruncinată în această aşezare sfântă.</p>
+            <p>         Fiţi liniştite, fiecărui om necinstitor de zei, la vremea şi în ziua hotărâtă, i se dă pedeapsa.</p>
+            <p>         CORIFEUL</p>
+            <p>         Mi-e frică, tată, navele cu aripi iuţi au şi sosit; nu mai avem răgaz.</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Ne cuprinde o turbure spaimă.</p>
+            <p>         La ce ne-ar sluji să fugim pe toate cărările?</p>
+            <p>         Iată, ne pierdem de spaimă.</p>
+            <p>         DANAOS</p>
+            <p>         Copilă, votul argienilor e lege, fii pe pace; ei pentru voi se vor lupta, nu mă-ndoiesc.</p>
+            <p>         CORIFEUL</p>
+            <p>         Nelegiuită e sămânţa lui Aigyptos, pofticioasă, de bătălii nicicând sătulă, ştii şi tu 87.</p>
+            <p>         CORUL Antistrofa I</p>
+            <p>         Pe vinete nave</p>
+            <p>         Cu scânduri vârtos îmbinate, Ei au plutit peste mare, O numeroasă şi neagră oaste;</p>
+            <p>         Înverşunarea i-a dus degrabă la ţintă.</p>
+            <p>         DANAOS</p>
+            <p>         Aici şi ei vor întâlni o numeroasă oaste, cu braţele călite de flăcările-amiezii.</p>
+            <p>         CORIFEUL</p>
+            <p>         Nu mă lăsa, te rog fierbinte, tată, singură.</p>
+            <p>         Femeia singură este nimic; în ea nu locuieşte Ares 88.</p>
+            <p>         CORUL Strofa II</p>
+            <p>         Urzind ucigaşe, făţarnice gânduri, cu inimi nesfinte, ca nişte corbi, lor nici nu le pasă de-altare.</p>
+            <p>         DANAOS</p>
+            <p>         Ar fi o binecuvântare pentru noi, copila mea, de i-ar urî pe verii tăi şi zeii precum tu însăţi îi urăşti.</p>
+            <p>         CORIFEUL</p>
+            <p>         Ei de tridentele acestea nu se tem, nici de slăvitele statui dumnezeieşti; mâinile lor vor coborî asupra noastră, tată.</p>
+            <p>         CORUL</p>
+            <p>         Antistrofa II</p>
+            <p>         Plini de-ngâmfare, stârniţi de mârşavă neobrăzare, asemenea câinilor fără ruşine, nu vor s-audă vocile zeilor.</p>
+            <p>         DANAOS</p>
+            <p>         Dar câinii sunt învinşi de lupi89, grăieşte un proverb, iar dintre roade, griul nu e slugă la papyrus 90.</p>
+            <p>         CORIFEUL</p>
+            <p>         Mai mult: ei au porniri de fiare destrăbălate şi pân-găritoare.</p>
+            <p>         Păzimu-ne să nu ajungem sub porunca lor!</p>
+            <p>         DANAOS</p>
+            <p>         Ostaşii unei flote nu. Sunt gata să înceapă chiar atât de grabnic lupta, ieşirea din corăbii nu se face într-o clipă, trebuie trase pe pământ odgoanele mântuitoare.</p>
+            <p>         Şi chiar dacă a fost înfiptă ancora, mai-marii navelor nu-şi află liniştea ca prin minune, îndeosebi când nimeresc în ţară fără port, la ora când alunecă spre noapte soarele, căci noaptea este mama fricii pentru cârmaciul înţelept.</p>
+            <p>         ] N [u poate coborî cu bine pe uscat nici o armată câtă vreme nu-i adăpostită fiecare navă.</p>
+            <p>         Iar dacă totuşi te cuprinde teama, nu cumva să uiţi de scutul zeilor.</p>
+            <p>         Am să mă-ntorc îndată ce voi face rost de ajutoare. Oraşul Argos nu-l va ponegri pe vestitor; deşi bătrân de ani, la minte este tânăr şi cuvântează pe potrivă. (Danaos pleacă 91. J</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Tărâm deluros, venerat de noi cu dreptate92, ce va fi dat să-ndurăm?</p>
+            <p>         Încotro să fugim? Se află-n pământul lui Apis vreo peşteră întunecată?</p>
+            <p>         De ne-am preface-n negru fum, vecine cu norii lui Zeus! Cu totul de ne-am risipi,. De-am pieri ca o pulbere, care, zburând fără aripi, se-mprăştie!</p>
+            <p>         Antistrofa I</p>
+            <p>         Sufletul nostru nu e scutit de fiori, Inima noastră, neagră, se zbate.</p>
+            <p>         Cele zărite de tata ne-au zguduit;</p>
+            <p>         Suntem răpuse de spaimă.</p>
+            <p>         Am dori, spânzurate, să dobândim</p>
+            <p>         Prin juvăţ destinul din urmă, Mai înainte ca nişte scârbavnici bărbaţi</p>
+            <p>         Să ne-atingă cu mâinile pielea93.</p>
+            <p>         Mai bine, murind, să ne fie Hades stăpânul!</p>
+            <p>         Strofa II</p>
+            <p>         De ce nu se-ntâmplă să locuim în eter</p>
+            <p>         Unde umezii nouri se schimbă-n zăpadă?</p>
+            <p>         De ce nu aflăm o stâncă abruptă, Părăsită de capre, ascunsă vederii, sălbatic-răzleaţă, Atâniată în hău printre vulturi, Prilej pentru noi de cădere adâncă, Mai înainte să facem, silite, Nuntă ce sfâşie inima cu răpitorii?</p>
+            <p>         Antistrofa II</p>
+            <p>         Apoi am mai vrea să fim aruncate pradă la câlini, Ospăţ la păsări din împrejurime.</p>
+            <p>         Cel care moare se izbăveşte</p>
+            <p>         De vaier şi chinuri!</p>
+            <p>         Moartea sosească-ne, mai înainte</p>
+            <p>         Să ne aşternem patul de nuntă!</p>
+            <p>         Oare se află vreo trecătoare să o străbatem</p>
+            <p>         Spre a scăpa de căsătorie?</p>
+            <p>         Strofa III</p>
+            <p>         Sunaţi pân' la cer cântările voastre, cerşind de la zei şi zeiţe! Cum oare se vor împlini? Tată, priveşte spre noi să ne mântui, chiar dacă ar fi nevoie de luptă! Nu răsfăţa, după cum e şi drept, cu prielnici ochi silnicia! Cinsteşte-le pe rugătoarele tale, ţiitor al acestui pământ, preaputernice Zeus!</p>
+            <p>         Antistrofa III</p>
+            <p>         Neamul de masculi sădit de Aigyptos</p>
+            <p>         Aleargă pe urmele noastre, Sfruntare de neîndurat, Ne asupreşte, pribege, Cu şuiere, chiote destrăbălate, Voind să ne smulgă cu sila.</p>
+            <p>         Braţul cumpenei numai de tine ascultă.</p>
+            <p>         Nimic nu-mplinesc muritorii</p>
+            <p>         Fără de tine.</p>
+            <p>         (Danaidele zăresc apropiindu-se ceata egipteană.)</p>
+            <p>         Oh, oh, oh, ah, ah, ah!</p>
+            <p>         Răpitorul acolo<hi rend="color(#000000)">…</hi>94</p>
+            <p>         Corabia<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Glia.</p>
+            <p>         Mai bine-ar pieri, înaintea răpirii!</p>
+            <p>         Izbucnim într-un ţipăt al nenorocirii, înalt.</p>
+            <p>         Iată, ne-aşteaptă</p>
+            <p>         Preludiul caznelor siluitoare.</p>
+            <p>         Vai, vai<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Purcedeţi în fugă spre adăpost. Ticăloşie cu sufletul crud, de neîndurat şi pe ţărm şi pe valuri! Domn al acestui pământ, ocroteşte-ne!</p>
+            <p>         (Aleargă la altar înspăimântate. Intră un sol urmat de ostaşi în veşminte exotice.)</p>
+            <p>         CRAINICUL</p>
+            <p>         Luaţi-o din loc, luaţi-o din loc, La luntre cu toată graba picioarelorvoastre!</p>
+            <p>         Altminteri vom smulge, Altminteri vom smulge smocuri de păr</p>
+            <p>         Din creştetul vostru, Vă vom arde pielea cu fierul încins 95, Vor cădea căpăţâni retezate, Sângele roşu va gâlgâi.</p>
+            <p>         Luaţi-o din loc, luaţi-o din loc<hi rend="color(#000000)">…</hi>!</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Pe ce n-ai pierit</p>
+            <p>         Pe drumul sărat</p>
+            <p>         Între valuri nenumărate, Cu toată sfruntarea stăpânilor tăi</p>
+            <p>         În corabia lor vârtos împănată?</p>
+            <p>         CRAINICUL</p>
+            <p>         Părăsiţi aceste sălaşuri, Purcedeţi spre navă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL Antistrofa I</p>
+            <p>         Ba nu: să nu mai zărim niciodată apele Nilului care sporesc rodnicia96, Făcând şi la oameni să crească şi să-nflorească un sânge plămăditor de viaţă!</p>
+            <p>         CRAINICUL</p>
+            <p>         Mergeţi pe navă, pe navă, Iute, De bună voie sau de nevoie!</p>
+            <p>         Cu sila, cu sila<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL Strqfa II</p>
+            <p>         Aiai, aiai!</p>
+            <p>         Să pieri de-o năpraznică moarte, Sorbit în sfintele mării talazuri</p>
+            <p>         După lungi pribegiri</p>
+            <p>         La cheremul înaltelor vânturi, În preajma mormântului unde</p>
+            <p>         Doarme surpat sub nisip Sarpedon97.</p>
+            <p>         CRAINICUL</p>
+            <p>         Răcniţi, urlaţi, strigaţi la zei! Când veţi pluti pe luntrea egipteană, nu veţi sări în apă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL Antistrofa II</p>
+            <p>         Vai, vai, vai, vai!</p>
+            <p>         Marele Nil 98 stăvilească-ţi nemăsurata sfruntare!</p>
+            <p>         CRAINICUL</p>
+            <p>         Vă-ndemn să mergeţi în corabia cu pântecele legănat de valuri şi cât mai grabnic, fără-ntârziere.</p>
+            <p>         Când o târăşti pe o femeie răzvrătită, nu-i cruţi părul.</p>
+            <p>         (Crainicul şi pilcul însoţitorilor suie pe movilă şi încearcă să ducă Danaidele cu sila.)</p>
+            <p>         CORUL Strofa III</p>
+            <p>         Vai, tată, vai</p>
+            <p>         Adăpostul zeiesc</p>
+            <p>         A fost pierzania noastră!</p>
+            <p>         Ne trage cu sine, pas cu pas, Ca un păianjen, Năluca, neagra nălucă.</p>
+            <p>         Jale şi vai!</p>
+            <p>         O, mamă Glie, o, mamă Glie, Dă-l la o parte</p>
+            <p>         Pe urlătorul acesta de spaimă.</p>
+            <p>         O tată, feciorul Gliei, Zeus „!</p>
+            <p>         CRAINICUL</p>
+            <p>         Nu mă înfricoşează daimonii acestei ţări, nu ei m-au îngrijit când eram prunc şi nici nu m-au hrănit la bă-trâneţe.</p>
+            <p>         CORUL Antistrofa III</p>
+            <p>         Şarpele-n două picioare ţâşneşte aproape de noi. Ca o năpârcă… Jale şi vai!</p>
+            <p>         O, mamă Glie, o mamă Glie, dă-l la o parte</p>
+            <p>         Pe urlătorul acesta de spaimă. O tată, fecior al Gliei. Zeus!</p>
+            <p>         CRAINICUL</p>
+            <p>         De nu vă-nduplecaţi şi nu purcedeţi la corabie, vom sfâşia îmbrăcămintea voastră lucrată cu migală.</p>
+            <p>         CORUL</p>
+            <p>         Suntem pierdute, stăpâne, îndurăm o purtare nelegiuită!</p>
+            <p>         CRAINICUL</p>
+            <p>         Nu peste multă vreme veţi avea destui stăpâni: feciorii lui Aigyptos.</p>
+            <p>         Fiţi liniştite, nu veţi duce lipsă de cârmuitori.</p>
+            <p>         CORUL</p>
+            <p>         Priviţi căpetenii, fruntaşi ai ţării, ne prăbuşim înaintea puterii!</p>
+            <p>         CRAINICUL</p>
+            <p>         Va trebui, socot, să, vă înşfac de păr, să vă târăsc, devreme ce nu ascultaţi cuvântul meu.</p>
+            <p>         (Intră regele Pelasgos însoţit de ostaşi.)</p>
+            <p>         PELASGOS</p>
+            <p>         Ce faci, acolo, omule?</p>
+            <p>         Ce îngâmfare te împinge să nesocoteşti ţara bărbaţilor pelasgi?</p>
+            <p>         Sau poate crezi că ai sosit într-o cetate de muieri? Bolborosind un grai străin, te ţii prea mândru faţă de</p>
+            <p>         Helleni.</p>
+            <p>         Faci prea multe greşeli şi nu te-arăţi de loc a fi cuminte.</p>
+            <p>         CRAINICUL Cu ce-am greşit, cu ce am supărat dreptatea?</p>
+            <p>         PELASGOS</p>
+            <p>         În primul rând că nu ştii care sunt îndatoririle unui străin.</p>
+            <p>         CRAINICUL în ce fel? Am găsit aici doar ceea ce pierdusem.</p>
+            <p>         PELASGOS</p>
+            <p>         Cărui ocrotitor de oaspeţi dintre băştinaşi i-ai cuvân-tat?</p>
+            <p>         CRAINICUL</p>
+            <p>         Celui mai mare dintre toţi ocrotitorii, lui Hermes, zeul priceput în căutări 10°.</p>
+            <p>         PELASGOS Vorbeşti cu zeii, dar nu-i venerezi deloc pe zei.</p>
+            <p>         CRAINICUL îi venerez numai pe daimonii din preajma Nilului.</p>
+            <p>          'jjlilj! J I</p>
+            <p>         M</p>
+            <p>         PELASGOS Ai noştri pentru tine sunt nimic, chiar tu ai spus-o!</p>
+            <p>         CRAINICUL</p>
+            <p>         Cu mine voi lua fugarele acestea, de nu mi le va smulge cineva.</p>
+            <p>         PELASGOS Atinge-le, nu va fi pentru multă vreme şi te vei căi.</p>
+            <p>         CRAINICUL Aud cuvinte prea puţin de oaspeţi iubitoare.</p>
+            <p>         PELASGOS Nu-i recunosc drept oaspeţi pe jefuitorii zeilor.</p>
+            <p>         CRAINICUL Am să mă plâng de asta la fiii lui Aigyptos.</p>
+            <p>         PELASGOS Nu-i pasă sufletului meu de grija voastră!</p>
+            <p>         CRAINICUL</p>
+            <p>         Dar, pentru ca rostirea mea către stăpâni să fie limpede şi cât mai lămurită – e datoria crainicului să vestească fiecare lucru răspicat – cum să le spun?</p>
+            <p>         Cine mi-a smuls pilcul acesta de femei, de verişoare?</p>
+            <p>         Ares e cel ce judecă astfel de pricini, lipsiadu-se de martori; asemenea gâlceavă nu se poate stinge cu argint.</p>
+            <p>         Cădea-vor mai întâi mulţime de bărbaţi, împrăştiin-du-şi vieţile în bătălii.</p>
+            <p>         PELASGOS</p>
+            <p>         De ce să-ţi fac ştiut numele meu?</p>
+            <p>         11 veţi afia cu vremea, tu şi cei care te-au întovărăşit pe drum.</p>
+            <p>         Pribegele acestea le vei lua cu tine, doar dacă ele vor pleca de bună voie şi vei găsi temeiuri de înduplecare iz-vorâte din evlavie.</p>
+            <p>         În adunarea ţării, într-un singur glas, am hotărât: nicicând să nu fie lăsată o ceată de femei în seama silniciei.</p>
+            <p>         Acesta-i un piron bătut vârtos, înfipt în lemn, să nu mai poată fi clintit.</p>
+            <p>         Nu-i vorba de poveşti înscrise pe tăbliţe şi nici pecet-luite-n faldurile unei cărţi.</p>
+            <p>         Rostirea ce-o auzi, din gură liberă, e răspicată 101.</p>
+            <p>         Şi-acuma, piei din ochii mei, cât mai degrabă!</p>
+            <p>         CRAINICUL</p>
+            <p>         Să ştii, dintr-asta se aprinde un război neprevăzut! De-ar câştiga bărbaţii biruinţa şi puterea!</p>
+            <p>         PELASGOS</p>
+            <p>         Veţi întâlni bărbaţi locuitori şi în această ţară, ce nu beau vinul pregătit din orz i02.</p>
+            <p>         (Crainicul şi ai săi pleacă. Pelasgos se adresează Corului.)</p>
+            <p>         Iar voi să dobândiţi din nou încredere şi toate, laolaltă cu însoţitoarele la care ţineţi, purcedeţi în cetatea fără greş închisă, păzită de zidirea meterezelor înalte!</p>
+            <p>         Obştea poporului are sălaşuri numeroase; eu însumi am primit şi nu cu mână strimtă, case.</p>
+            <p>         Acolo vă aşteaptă locuinţe pe care să le împărţiţi cu alţii.</p>
+            <p>         Eter sunteţi slobode, dacă aşa vă place, să vă mutaţi în aşezări lăsate numai pentru voi.</p>
+            <p>         Alegeţi ceea ce poftiţi, în libertate, după placul inimii.</p>
+            <p>         Răspunzător de voi sunt eu şi tot poporul a cărui hotărâre trebuie să se-mplinească 103.</p>
+            <p>         Ori v-aţi dori chezaşi cumva şi mai puternici?</p>
+            <p>         CORIFEUL</p>
+            <p>         Pentru atâtea faceri de bine, să te scalde belşug de bine, stăpân luminos al Pelasgilor!</p>
+            <p>         Trimite-l, cu inimă bună, aici pe părintele nostru, pe neînfricatul Danaos; el pentru noi este gând şi voinţă:</p>
+            <p>         Mai întâi să ia hotărâre în care sălaşuri trebuie să vieţuim şi care alegere fi-va mai primitoare.</p>
+            <p>         Oricine e gata oricând să-l vorbească de rău pe străin; să stăm de veghe şi noi ca totul să se întâmple cât mai spre bine!</p>
+            <p>         (Regele pleacă.)</p>
+            <p>         În numele faimei noastre curate, pentru ca locuitorii acestui pământ să nu ne facă de râs, rânduiţi-vă, roabelor scumpe, în felul în care Danaos ne-a dat fiecăreia o slujitoare drept zestre.</p>
+            <p>         (Intră Danaos urmat de străjile regelui.)</p>
+            <p>         DANAOS</p>
+            <p>         Fiicelor, se cade să le-aduceţi argienilor prinos de rugăciuni, de jertfe şi libaţii, ca unor zei olimpieni, căci fără să se drămuiască, ei au fost mântuitorii noştri.</p>
+            <p>         Astfel, m-au ascultat prieteneşte, ca pe-o rudă, cu verii voştri s-au purtat amarnic, iar mie, ca un semn de preţuire şi de cinste, mi-au dat însoţitori, o ceată de oşteni, ca nu cumva vreo suliţă ucigătoare să mă lovească pe neaşteptate şi de moarte, aducând mânjire veşnică acestei ţări m.</p>
+            <p>         Iar pentru cele petrecute, drept răsplată, dacă în inimă avem un bun cârmaci, să le-nchinăm o mulţumire care să-i ridice-n slavă.</p>
+            <p>         Şi-acum, pe lângă multe sfaturi despre cumpătare primite de la tatăl vostru, să-l înscrieţi şi pe-acesta: un pâlc necunoscut, în orice ţară, e preţuit numai cu timpul.</p>
+            <p>         Oricine pentru venetici stă gata cu limba-nveninată, să-i împroaşte.</p>
+            <p>         Nimic nu zboară mai uşor decât cuvintele ce spurcă.</p>
+            <p>         Vă rog să nu mă umpleţi de ruşine, cum vă aflaţi la vârsta tinereţii, spre care îşi îndreaptă ochii muritorii.</p>
+            <p>         Nu e uşoară paza fragedelor fructe la sfârşitul verii; şi fiarele şioamenii le dăunează, precum ştiţi, jivinele înaripate sau umblătoare pe pământ.</p>
+            <p>         Tot astfel preţuieşte Kypris făpturile la vremea verii şi cheamă dragostea să le culeagă tinereţea.</p>
+            <p>         Asupra frumuseţii albe de fecioară, învinşi de patimă, toţi trecătorii îşi azvârl săgeţile privirilor ispititoare.</p>
+            <p>         Să nu ni se întâmple asta tocmai nouă, care, spre a scăpa de-o soartă asemănătoare, am suferit nespus de mult şi am arat cu vârful navei largurile mării!</p>
+            <p>         Să nu ne facem de ruşine, veselindu-i pe duşmanii noştri!</p>
+            <p>         De casă nu vom duce lipsă, primim din două părţi, una ne-o dă Pelasgos, cetatea ce^alaltă; vom locui în ele fără să vărsăm dobândă.</p>
+            <p>         Căderea zarurilor a fost norocoasă.</p>
+            <p>         Rămâne numai să urmaţi învăţătura părintească de a cinsti, mai tare decât însăşi viaţa, cumpătarea 105.</p>
+            <p>         CORIFEUL</p>
+            <p>         Să facem alte legăminte zeilor olimpieni!</p>
+            <p>         În ce priveşte tinereţea noastră, tată, fii pe pace.</p>
+            <p>         I</p>
+            <p>         ŞI</p>
+            <p>         De nu ne hărăzesc nemuritorii vreo năpastă nouă, noi nu ne vom întoarce inima de pe cărarea dinainte.</p>
+            <p>         (Danaos părăseşte scena. Corul Danaidelor şi slujitoarele lor se pregătesc să-l urmeze.)</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Haidem, să-i sărbătorim pe zeii</p>
+            <p>         Fericiţi, domnind în ţară, În cetate şi pe malul</p>
+            <p>         Râului Erâsinos 106, străvechiul.</p>
+            <p>         Hai, însoţitoarelor, răspundeţi</p>
+            <p>         Cântecului nostru!</p>
+            <p>         Să slăvim oraşul lui Pelasgos!</p>
+            <p>         Nu vom mai cinsti de-acuma Nilul</p>
+            <p>         Şi-ale sale guri prin imne, Antistrofa I</p>
+            <p>         Ci doar râurile, care</p>
+            <p>         Trec prin ţara argiană</p>
+            <p>         Şi o scaldă-n blânde ape şi-o adapă, Zămislind pâraie multe</p>
+            <p>         Rodnice, molcomitoare.</p>
+            <p>         Să-şi îndrepte ochii milostivi Artemis</p>
+            <p>         Cea neprihănită către pâlcul nostru!</p>
+            <p>         Să ne cruţe Kythereia I07</p>
+            <p>         Pururea de jugul nunţii!</p>
+            <p>         Deie-le această încercare</p>
+            <p>         Celora pe care îi urâm 108!</p>
+            <p>         SLUJITOARELE Strofa II</p>
+            <p>         În smerita-ne chemare nu o vom uita pe Kypris. Ea, cu Hera, ca putere vine-ndată după Zeus.</p>
+            <p>         Astfel proslăvim zeiţa</p>
+            <p>         Gândurilor iscusite</p>
+            <p>         Pentru faptele-i auguste.</p>
+            <p>         Stau în preajmă-i, să-şi ajute mama, Pothos şi fermecătoarea Peitho</p>
+            <p>         Căceia nu-i stă-mpotrivă</p>
+            <p>         Nimeni; mai primesc tainuri</p>
+            <p>         De la Kypris Harmonia, Eroşii cu gingaş cântec 109.</p>
+            <p>         Antistrofa II</p>
+            <p>         Presimţim cu teamă pentru Danaide</p>
+            <p>         Vânt potrivnic, rele chinuri</p>
+            <p>         Şi războaie sângeroase 110.</p>
+            <p>         Cum de au avut prigonitorii</p>
+            <p>         Parte de plutire bună, Grabnice-adieri însoţitoare?</p>
+            <p>         Ceea ce urzeşte soarta</p>
+            <p>         Pururea se împlineşte.</p>
+            <p>         Nu se poate trece de gândirea</p>
+            <p>         Nepătrunsă, mare, a lui Zeus.</p>
+            <p>         Veţi nunti şi voi până la urmă</p>
+            <p>         Ca femeile de totdeauna 114.</p>
+            <p>         CORUL Strofa III</p>
+            <p>         O, mărite Zeus, fereşte-ne de nunta cu feciorii lui Aigyptos!</p>
+            <p>         SLUJITOARELE Totuşi ar fi calea cea mai bună.</p>
+            <p>         CORUL</p>
+            <p>         Vreţi să îndulciţi fiinţe care nu pot fi-ndulcite.</p>
+            <p>         SLUJITOARELE Dar voi nu ştiţi ce v-aşteaptă.</p>
+            <p>         CORUL Antistrofa III</p>
+            <p>         Nu-i putem scruta lui Zeus gândirea, nici pătrunde cu privirea în abis.</p>
+            <p>         Şi cu numai două părţi de fericire 113. Dacă ţii de ruga noastră seamă, dă o hotărâre dreaptă, cum dreptatea însăşi cere! P©artă-ne pe ale tale căi dumnezeieşti mântuitoare! (Corul Danaidelor, urmat de slujitoare, părăseşte scena.)</p>
+            <p>         SLUJITOARELE Fiţi mai cu măsură-n ruga voastră!</p>
+            <p>         CORUL Vreţi să ne-nvăţaţi cumva un lucru nou?</p>
+            <p>         SLUJITOARELE Chiar şi-n cele ale zeilor „nimic prea mult” 112!</p>
+            <p>         CORUL Strofa IV</p>
+            <p>         Cruţă-ne, stăpâne Zeus, de nuntă</p>
+            <p>         Crâncenă, de miri nesuferiţi, După cum ai dezlegat cu</p>
+            <p>         Mâna ta vindecătoare</p>
+            <p>         De durere grea pe Io</p>
+            <p>         Şi-ai silit-o să-nţeleagă</p>
+            <p>         Blinda ta putere.</p>
+            <p>         Antistrofa IV</p>
+            <p>         Hărăzeşte-le femeilor izbândă, Noi ne mulţumim chiar şi c-un dram de rău</p>
+            <p>                                                                                SFÂRŞIT</p>
+         </div>
+      </body>
+   </text>
+</TEI>

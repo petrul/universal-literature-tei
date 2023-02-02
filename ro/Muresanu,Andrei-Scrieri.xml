@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scrieri</title>
+            <author>Mureșanu,Andrei</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date/>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">
+               <ptr target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro"/>
+               <lb/>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">
+               <ptr target="https://ro.wikisource.org/wiki/Autor:Andrei_Mureșanu"/>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro">ro</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Petru Dimulescu</name>
+               <date>2019-03-30T13:29:32.570178000</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <head>Scrieri</head>
+         <author>Mureșanu,Andrei</author>
+         <p rend="start color(#000000)">
+            <ptr target="https://ro.wikisource.org/wiki/Autor:Andrei_Mureșanu"/>
+         </p>
+         <p rend="color(#000000)">
+            <ptr target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro"/>
+            <lb/>
+         </p>
+         <p rend="justify">ro</p>
+         <div type="div1">
+            <head>Poezii</head>
+            <div type="div2">
+               <div type="div3">
+                  <head>Un rămas bun de la Brașov </head>
+                  <lg>
+                     <l>Sus pe deal, ori jos la vale,</l>
+                     <l>În deșert privesc oftând,</l>
+                     <l>Cătră bine nu văd cale,</l>
+                     <l>Simț că soartea are-n gând</l>
+                     <l>Să m-arunce-n munți cu gheață,</l>
+                     <l>Ah, amara mea viață!</l>
+                  </lg>
+                  <lg>
+                     <l>Soare, lună, cerești stele,</l>
+                     <l>Pre voi vă chem mărturii,</l>
+                     <l>Spuneți greșalele mele,</l>
+                     <l>Șters să fiu dintre cei vii</l>
+                     <l>D-am făcut vro strâmbătate</l>
+                     <l>La dușman, amic sau frate!</l>
+                  </lg>
+                  <lg>
+                     <l>Voi, plăntuțe tinerele,</l>
+                     <l>Mielușei nevinovațți,</l>
+                     <l>Ce-ați fost sub grijele mele,</l>
+                     <l>Spuneți, v-am dat să gustați</l>
+                     <l>Vrun venin din mugur verde,</l>
+                     <l>Iarbă-de-fier, ce vă pierde?</l>
+                  </lg>
+                  <lg>
+                     <l>Rămâi, țară, sănătoasă,</l>
+                     <l>În al tău leagăn firesc,</l>
+                     <l>Nu-n deșert, că ești muntoasă,</l>
+                     <l>Încât ție nu-ți sosesc</l>
+                     <l>Caldele soarelui raze</l>
+                     <l>Ce prin munți pustii s-așează.</l>
+                  </lg>
+                  <lg>
+                     <l>Rămâneți, baști învechite,</l>
+                     <l>Ce ades vă cercetam,</l>
+                     <l>P-a voastre ruini turtite,</l>
+                     <l>Doamne, mult mai cugetam</l>
+                     <l>Că asemenea ursită</l>
+                     <l>Va fi mie rânduită!</l>
+                  </lg>
+                  <lg>
+                     <l>Tâmpă, frumoasă Sioane!</l>
+                     <l>P-al tău vârf când mă suiam,</l>
+                     <l>Ca în nescari vii icoane,</l>
+                     <l>Tot ținutul revedeam!</l>
+                     <l>Oar, lăsa-m-a cruda soarte</l>
+                     <l>Să te mai calc pân-la moarte?</l>
+                  </lg>
+                  <lg>
+                     <l>Oltule, vale frumoasă!</l>
+                     <l>Mult voi fi ție dator,</l>
+                     <l>De mi-i trece cătră casă,</l>
+                     <l>Ma, trecând , să nu m-omori!</l>
+                     <l>Că dușmanii vor fi-n stare</l>
+                     <l>Să nu-mi dea loc de-ngropare!</l>
+                  </lg>
+                  <trailer>1840</trailer>
+               </div>
+               <div type="div3" rend="P40">
+                  <head>Deșteaptă-te, române!</head>
+                  <subtitle>(Un răsunet) </subtitle>
+                  <lg>
+                     <l>Deșteaptă-te, române, din somnul cel de moarte,</l>
+                     <l>În care te-adânciră barbarii de tirani</l>
+                     <l>Acum ori niciodată croiește-ți altă soarte,</l>
+                     <l>La care să se-nchine și cruzii tăi dușmani.</l>
+                  </lg>
+                  <lg>
+                     <l>Acum ori niciodată să dăm dovezi în lume</l>
+                     <l>Că-n aste mâni mai curge un sânge de roman,</l>
+                     <l>Și că-n a noastre piepturi păstrăm cu fală-un nume</l>
+                     <l>Triumfător în lupte, un nume de Traian.</l>
+                  </lg>
+                  <lg>
+                     <l>Înalță-ți lata frunte și cată-n giur de tine,</l>
+                     <l>Cum stau ca brazi în munte voinicii sute de mii;</l>
+                     <l>Un glas ei mai așteaptă și sar ca lupi în stâne,</l>
+                     <l>Bătrâni, bărbați, juni, tineri, din munți și din câmpii.</l>
+                  </lg>
+                  <lg>
+                     <l>Priviți, mărețe umbre, Mihai, Ștefan, Corvine,</l>
+                     <l>Româna națiune, ai voștri strănepoți,</l>
+                     <l>Cu brațele armate, cu focul vostru-n vine,</l>
+                     <l>„Viață-n libertate ori moarte” strigă toți.</l>
+                  </lg>
+                  <lg>
+                     <l>Pre voi vă nimiciră a pizmei răutate</l>
+                     <l>Și oarba neunire la Milcov și Carpați</l>
+                     <l>Dar noi, pătrunși la suflet de sfânta libertate,</l>
+                     <l>Jurăm că vom da mâna, să fim pururea frați.</l>
+                  </lg>
+                  <lg>
+                     <l>O mamă văduvită de la Mihai cel Mare</l>
+                     <l>Pretinde de la fii-și azi mână d-ajutori,</l>
+                     <l>Și blastămă cu lacrămi în ochi pe orișicare,</l>
+                     <l>În astfel de pericul s-ar face vânzători.</l>
+                  </lg>
+                  <lg>
+                     <l>De fulgere să piară, de trăsnet și pucioasă,</l>
+                     <l>Oricare s-ar retrage din gloriosul loc,</l>
+                     <l>Când patria sau mama, cu inima duioasă,</l>
+                     <l>Va cere ca să trecem prin sabie și foc.</l>
+                  </lg>
+                  <lg>
+                     <l>N-ajunge iataganul barbarei semilune,</l>
+                     <l>A cărui plăgi fatale și azi le mai simțim;</l>
+                     <l>Acum se vâră cnuta în vetrele străbune,</l>
+                     <l>Dar martor ne de Domnul că vii nu oprimim.</l>
+                  </lg>
+                  <lg>
+                     <l>N-ajunge despotismul cu-ntreaga lui orbie,</l>
+                     <l>Al cărui jug de seculi ca vitele-l purtăm;</l>
+                     <l>Acum se-ncearcă cruzii, cu oarba lor trufie,</l>
+                     <l>Să ne răpească limba, dar morți numai o dăm.</l>
+                  </lg>
+                  <lg>
+                     <l>Români din patru unghiuri, acum ori niciodată</l>
+                     <l>Uniți-vă în cuget, uniți-vă-n simțiri.</l>
+                     <l>Strigați în lumea largă că Dunărea-i furată</l>
+                     <l>Prin intrigă și silă, viclene uneltiri.</l>
+                  </lg>
+                  <lg>
+                     <l>Preoți, cu crucea-n frunte căci oastea e creștină,</l>
+                     <l>Deviza-i libertate și scopul ei preasfânt.</l>
+                     <l>Murim mai bine-n luptă, cu glorie deplină,</l>
+                     <l>Decât să fim sclavi iarăși în vechiul nost'pământ.</l>
+                  </lg>
+                  <trailer>1848</trailer>
+               </div>
+               <div type="div3">
+                  <head>Simpatie la Viena </head>
+                  <lg>
+                     <l>Spune-mi, mamă, ce să fie, </l>
+                     <l>Ce mă trage-așa cumplit, </l>
+                     <l>Cât abea aștept să vie, </l>
+                     <l>Ceasul care e menit, </l>
+                     <l>Ca să-mi treacă pe-nainte </l>
+                     <l>În pas bine regulat </l>
+                     <l>Cavalerul cel cuminte </l>
+                     <l>De ostași încunjurat.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah, mamă, sunt vulnerată </l>
+                     <l>D-o săgeată care-n veac </l>
+                     <l>Va sta-n inimă vibrată,</l>
+                     <l>Și s-o vindec nu am leac. </l>
+                     <l>Mă usc, mamă, pe picioare, </l>
+                     <l>De mă culc, de stau sau șed, </l>
+                     <l>Nicăiri n-aflu răcoare</l>
+                     <l>Ceas bun, sau minut nu văd.</l>
+                  </lg>
+                  <lg>
+                     <l>Ce te prinde dar mirare, </l>
+                     <l>Măiculiță, când mă vezi, </l>
+                     <l>Că mă scol de la mâncare </l>
+                     <l>Numai ca să mă așez </l>
+                     <l>Vizavi cu-a lui ședere </l>
+                     <l>Ochii mei în ochii lui, </l>
+                     <l>Să-l descriu după plăcere, </l>
+                     <l>Când altă scăpare nu-i.</l>
+                  </lg>
+                  <lg>
+                     <l>De mă duc la promenadă, </l>
+                     <l>Ochii-mi zboară-n sus și-n jos, </l>
+                     <l>La surori fac semn să șadă, </l>
+                     <l>Și-ntorcându-mă dau dos,</l>
+                     <l>Fac pasuri înduplecate</l>
+                     <l>Cu scop ca să-l întâlnesc,</l>
+                     <l>De-aș merge chiar și-n cetate </l>
+                     <l>P-acela care-l doresc.</l>
+                  </lg>
+                  <lg>
+                     <l>Bate ora, una, două, </l>
+                     <l>Bate, c-încă n-a sosit;</l>
+                     <l>Bate două peste nouă </l>
+                     <l>Aud marșul, a venit! </l>
+                     <l>Să gătim în ceea casă, </l>
+                     <l>Azi e marți, azi vine el </l>
+                     <l>Pune-ți lucrul tău pe masă,</l>
+                     <l>Azi vine cel tinerel.</l>
+                  </lg>
+                  <trailer>1839</trailer>
+               </div>
+               <div type="div3">
+                  <head>O privire peste lume </head>
+                  <lg>
+                     <l>Deșert e tot ce vede semețul ochi supt soare </l>
+                     <l>Și nu e fericire deplină pre pământ; </l>
+                     <l>Un vis e ce-amăgește ființa muritoare </l>
+                     <l>Din oara când se naște și până la mormânt!</l>
+                  </lg>
+                  <lg>
+                     <l>Văzutu-s-a om cândva să zică l-a sa moarte: </l>
+                     <l>“Mă duc cu bucurie, c-am fost și-s fericit”?</l>
+                     <l>Un rege-a stat în lume, a cărui rară soarte </l>
+                     <l>La altul în natură cu greu a mai zâmbit;</l>
+                  </lg>
+                  <lg>
+                     <l>Și iată că el singur a scris cu-amărăciune, </l>
+                     <l>Târât de-a lumei valuri, ce turbă ne-ncetat:</l>
+                     <l>“Nimic supt cer statornic, ci tot deșărtăciune, </l>
+                     <l>Deplină fericire supt soare n-am aflat!”</l>
+                  </lg>
+                  <lg>
+                     <l>Un tată se silește s-adune-averi în lume</l>
+                     <l>Încungiură oceanuri cu mii nefericiri, </l>
+                     <l>Când fiu-i se răsfață văzând că are sume </l>
+                     <l>Ce pot să corespundă la oarbele-i simțiri!</l>
+                  </lg>
+                  <lg>
+                     <l>Un jude calcă legea, cu scop să mulțămească </l>
+                     <l>Desfrâul unei patimi de care-i subjugat;</l>
+                     <l>În urmă dă prinoase, cu scop să amuțească</l>
+                     <l>Simțirea conștiinței ce-l mustră ne-ncetat.</l>
+                  </lg>
+                  <lg>
+                     <l>Un trântor suge mierea ce crudele albine, </l>
+                     <l>Zburând în armonie mai multe zeci de mii, </l>
+                     <l>Adună dimineața, în oarele senine,</l>
+                     <l>Când soarele străluce pe verzile câmpii.</l>
+                  </lg>
+                  <lg>
+                     <l>Fățarnicul să-nchină cu buzele pătate, </l>
+                     <l>Iar inima-i vicleană gonește mijiociri</l>
+                     <l>Să guste-n răsfățare-și ce altor nu-s iertate, </l>
+                     <l>Să-ncarce pe săracul cu mii de asupriri.</l>
+                  </lg>
+                  <lg>
+                     <l>În gura-i pângărită de false jurăminte, </l>
+                     <l>Bucată neiertată de lege n-a întrat,</l>
+                     <l>Iar vorbe necurate, ocări de lucruri sânte, </l>
+                     <l>Ca ploaia primăverei din rostu-i au zburat.</l>
+                  </lg>
+                  <lg>
+                     <l>Deșert e dar ce vede semețul ochi sub soare, </l>
+                     <l>Și nu e fericire deplină pre pământ;</l>
+                     <l>Un vis e ce-amăgește ființa muritoare </l>
+                     <l>Din oara când se naște și până la mormânt!</l>
+                  </lg>
+                  <trailer>1845</trailer>
+               </div>
+               <div type="div3">
+                  <head>Omul frumos </head>
+                  <lg>
+                     <l>Frumos e omul, Doamne, când mintea e regină, </l>
+                     <l>Și simțul ce ca șerpe spre rele îl înclină, </l>
+                     <l>Supus, loial și drept;</l>
+                     <l>Vârtutea-atunci măreață răsare ca ș-o floare, </l>
+                     <l>De brumă neatinsă la rumena-i coloare </l>
+                     <l>În fragedul lui piept!</l>
+                  </lg>
+                  <lg>
+                     <l>Pe fruntea lui senină dreptatea strălucește</l>
+                     <l>Întocma ca ș-un soare pe sferă când pășește</l>
+                     <l>De nori neturburat;</l>
+                     <l>E crimă, se retrage, e silă, se ferește,</l>
+                     <l>E negură,-o străbate, e nor, îl împărțește </l>
+                     <l>Și iesă nepătat.</l>
+                  </lg>
+                  <lg>
+                     <l>Frumos e omul, Doamne, cu inimia curată </l>
+                     <l>Cu floarea conștiinței de crime nepătată, </l>
+                     <l>Sincer, nefățărit;</l>
+                     <l>Conspire lumea toată, răzbată-l orice soarte, </l>
+                     <l>Închidă-l să nu vază lumină pân' la moarte, </l>
+                     <l>Și iată-l neclintit!</l>
+                  </lg>
+                  <lg>
+                     <l>Arunce-l în deșerturi lipsite d-orice floare, </l>
+                     <l>Pe unde nu s-arată nici om, nici zburătoare, </l>
+                     <l>Ci șerpi veninători;</l>
+                     <l>Vârtutea-i va fi scutul ș-azilul de scăpare, </l>
+                     <l>Întocma ca și cedrul, cu umbra sa cea mare, </l>
+                     <l>La oameni călători;</l>
+                  </lg>
+                  <lg>
+                     <l>Frumos e omul, Doamne, cu generozitate, </l>
+                     <l>Când iartă pe tiranul ce-apasă p-al său frate, </l>
+                     <l>Cu scop d-a-l subjuga;</l>
+                     <l>Și-n loc să răsplătească, cum cere pofta-n lume, </l>
+                     <l>Dușmana lui lucrare, îi cruță negrul nume, </l>
+                     <l>Voind a-l îndrepta!</l>
+                  </lg>
+                  <lg>
+                     <l>De ce nu vine, Doamne, a Ta împărăție,</l>
+                     <l>Când oamenii să șteargă și umbra de sclavie,</l>
+                     <l>Fiind creștini curați;</l>
+                     <l>Și-n locu-i să domnească dreptatea nepătată,</l>
+                     <l>Egala-dreptățire și pacea-adevărată,</l>
+                     <l>Ca între fii și frați!</l>
+                  </lg>
+                  <trailer>1849</trailer>
+               </div>
+               <div type="div3">
+                  <head>Către martirii români din 1848-1849</head>
+                  <lg>
+                     <l>Dormiți în pace, umbre, martirii românimei, </l>
+                     <l>Ce-ați îngrășat pământul cu sânge de eroi!</l>
+                     <l>Bătrâni cărunți cu vază, voi floarea tinerimei,</l>
+                     <l>Ce-n lupte sângeroase căzând, v-ați rupt de noi!</l>
+                  </lg>
+                  <lg>
+                     <l>Pământul ne desparte, iar cerul ne unește </l>
+                     <l>În patria cea sfântă, egală pentru toți,  </l>
+                     <l>Acolo nedreptatea și ura nu răzbește,</l>
+                     <l>Nu cumperi cu vieața pământul de trei coți.</l>
+                  </lg>
+                  <lg>
+                     <l>Voi v-ati plinit chemarea și sânta datorință, </l>
+                     <l>Când pentru-a Patrii bine cu glorii v-ați luptat! </l>
+                     <l>Păstrând viitorimei modelul de credință, </l>
+                     <l>Ce Patria ni-l cere ș-augustul împărat!</l>
+                  </lg>
+                  <lg>
+                     <l>A voastre brave fapte sunt scrise-n istorie, </l>
+                     <l>Iar dulcea suvenire în inimi de roman! </l>
+                     <l>Mihalțul, Luna, Bradul, au dat dovadă vie, </l>
+                     <l>Că nu e laș românul, nu fuge de dușman!</l>
+                  </lg>
+                  <lg>
+                     <l>Un Iancu, un Buteanu, un Dobra ș-alți o sută </l>
+                     <l>Vor sta pururea față cu orișice eroi,</l>
+                     <l>Și până când națiunea română-i prevăzută </l>
+                     <l>Cu stâlpi așa gigantici, nu-i pasă de nevoi!</l>
+                  </lg>
+                  <lg>
+                     <l>Uniți-vă cu Mircea, voi umbre glorioase, </l>
+                     <l>Al cărui nume-însuflă respect și la păgân, </l>
+                     <l>Precum a lui bravure și fapte generoase </l>
+                     <l>Fac sacră suvenirea-i la fiece român!</l>
+                  </lg>
+                  <lg>
+                     <l>Uniți-vă cu Ștefan, principele cel mare </l>
+                     <l>Ce-l recunoaște întreaga Europa de erou, </l>
+                     <l>Supt care românimea scăpată d-apăsare, </l>
+                     <l>Putea cu drept să zică, c-a re-nviat de nou!</l>
+                  </lg>
+                  <lg>
+                     <l>Sau cu Mihai eroul și cu Ioan Corvinul, </l>
+                     <l>Genii românimei d-a căror rari numiri </l>
+                     <l>Ce luce-n Istorie întocma ca rubinul, </l>
+                     <l>Și astăzi se înfioară a turcilor oștiri!</l>
+                  </lg>
+                  <lg>
+                     <l>Nu plângeți mame, fiii, căci ei ne-au scos din moarte </l>
+                     <l>Onoarea, existința, tezaurul mai frumos;</l>
+                     <l>Prin sângele lor sacru s-a șters tirana soarte, </l>
+                     <l>S-a stins pentru pururea suspinul dureros,</l>
+                  </lg>
+                  <lg>
+                     <l>Surori, nu plângeți frații, căci ei vă liberară </l>
+                     <l>De turmele rebele, al căror scop au fost:</l>
+                     <l>Să taie tot, să arză, cu furie tătară,</l>
+                     <l>La prunci, femei, fetițe, să nu dea adăpost.</l>
+                  </lg>
+                  <lg>
+                     <l>Copile rușinoase, voi plângeti cu durere </l>
+                     <l>Pre-amanții, cari în lupte cu glorii au căzut! </l>
+                     <l>Dar nu știți, că-a lor inimi juraseră-n tăcere, </l>
+                     <l>A fi eroi prin moarte, iar nu sclavi, ca-n trecut!</l>
+                  </lg>
+                  <lg>
+                     <l>Dormiți, dormiți în pace, voinici feciori de munte, </l>
+                     <l>Subțiri și-nalți ca bradul, cu brațe de eroi, </l>
+                     <l>Dedați din tinerețe a merge tot în frunte,</l>
+                     <l>A nu ști de pericul, de moarte și nevoi!</l>
+                  </lg>
+                  <lg>
+                     <l>Iar voi, plăntuțe crude, ce-acum pășiți în lume, </l>
+                     <l>Păstrați cu reverință acest act omenos,</l>
+                     <l>Săpând profund în inimi al bravilor frați nume, </l>
+                     <l>Ce sângele-și vărsară în câmpul glorios!</l>
+                  </lg>
+                  <trailer>1850</trailer>
+               </div>
+               <div type="div3">
+                  <head>Mintea</head>
+                  <lg>
+                     <l>Te măresc ființă fără de-nceput</l>
+                     <l>Pentru tot ce vede ochiul meu sub soare, </l>
+                     <l>Pentru tot ce dreapta-ți sântă a făcut, </l>
+                     <l>De la om și feară, până l-acea floare, </l>
+                     <l>Carea vegetează numai un minut!</l>
+                  </lg>
+                  <lg>
+                     <l>Ce mă face însă, ca să te ador</l>
+                     <l>Este mintea, Doamne, care-mi strălucește, </l>
+                     <l>Ca și un luceafăr, în al nopții nuor, </l>
+                     <l>Și-n vuietul lumii blând mă însoțește, </l>
+                     <l>De când văd lumina, și până când mor!</l>
+                  </lg>
+                  <lg>
+                     <l>Ea-mi conduce pașii, să mă pot feri </l>
+                     <l>De leu și de tigru, care varsă sânge, </l>
+                     <l>De foc și de apă, ce m-ar nimici;</l>
+                     <l>Ea mă luminează ca să știu resfrânge </l>
+                     <l>Cursele dușmane, verunde vor fi.</l>
+                  </lg>
+                  <lg>
+                     <l>Ea departă ceața de la ochiul meu, </l>
+                     <l>Ca să nu amestec credința deșartă</l>
+                     <l>Cu credința dreaptă, într-un Dumnezeu </l>
+                     <l>Care o propuse simplu fără ceartă </l>
+                     <l>Ca la frați din fire, însuși fiul său.</l>
+                  </lg>
+                  <lg>
+                     <l>Seculi se-nchinase genul omenesc </l>
+                     <l>Soarelui și lunei, stelelor pompoase, </l>
+                     <l>Până când să vie dascălul ceresc</l>
+                     <l>Ce prin suferirea morții glorioase </l>
+                     <l>A plântat în lume spirit creștinesc.</l>
+                  </lg>
+                  <lg>
+                     <l>În deșert se-ncearcă ai nopții argați </l>
+                     <l>Să revarsă umbră în loc de lumină, </l>
+                     <l>Ură-n loc de pace între fii și frați</l>
+                     <l>Ale lor cuvinte nu prind rădăcină</l>
+                     <l>Căci nu ies din inimi, ci din crieri stricați.</l>
+                  </lg>
+                  <lg>
+                     <l>Te măresc ființă fără de finit </l>
+                     <l>Pentru-acea scânteie, ce-i zic conștiință, </l>
+                     <l>Carea greu mă mustră de-am păcătuit, </l>
+                     <l>Și mă desfătează cu bunăvoință,</l>
+                     <l>De-am făcut dreptate celui asuprit!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Eremitul din Carpați </head>
+                  <lg>
+                     <l>Pe munți, de unde neaua cu greu se dezlipește, </l>
+                     <l>Întocma ca și mușchiul de vechiul său copaci, </l>
+                     <l>Pe unde om cu suflet atunci numai pășește </l>
+                     <l>Când oarba soarte-aduce vrun vânător ghibaci;</l>
+                  </lg>
+                  <lg>
+                     <l>Aci, săpată-n pietre, se află-a mea chilie, </l>
+                     <l>Sub fagi cărunți de zile, ce nu știu de săcuri; </l>
+                     <l>Pe unde primăvara cu multă maiestrie </l>
+                     <l>Așează-ale lor cuiburi ulii, șoimi și vulturi.</l>
+                  </lg>
+                  <lg>
+                     <l>Un pat, un vas de apă, măsuța mea pătrată, </l>
+                     <l>Pe dânsa tubul magic, de care mă servesc. </l>
+                     <l>Cu-aceste scule simple se află mobilată </l>
+                     <l>Căsuța mea de munte în care locuiesc.</l>
+                  </lg>
+                  <lg>
+                     <l>Eu n-am fugit de lume c-ar fi prea păcătoasă,</l>
+                     <l>Cum fac părinți și mame ce intră-n monăstiri, </l>
+                     <l>Ducând vieață aspră, nu însă virtuoasă,</l>
+                     <l>Că-n lume e vârtute a fi domn pe simțiri.</l>
+                  </lg>
+                  <lg>
+                     <l>Nici cred că e deșeartă a omului silință</l>
+                     <l>Spre tot ce mintea-ncearcă, geniu-i deplinit, —</l>
+                     <l>Străbate apa-n piatră și stric-a ei ființă, </l>
+                     <l>De ce nu chiar și omul cu naltul său spirit?</l>
+                  </lg>
+                  <lg>
+                     <l>O faptă glorioasă, păstrată-n istorie</l>
+                     <l>Din evii barbariei străvechi ce au trecut, </l>
+                     <l>Însuflă până astăzi curagi și bărbăție </l>
+                     <l>Și-ndeamnă-a merge sigur pe drumul început.</l>
+                  </lg>
+                  <lg>
+                     <l>Pruncuțul mic de zile se-mpiedecă și cade, </l>
+                     <l>Se vaietă și plânge, se trage-ncetișor;</l>
+                     <l>S-apucă cu iuțeală de verice palisade,</l>
+                     <l>Să-și afle numai scopul de-a merge pe picior.</l>
+                  </lg>
+                  <lg>
+                     <l>Popoare sugrumate se luptă cu tărie </l>
+                     <l>A rumpe jugul aspru și mult apăsător; </l>
+                     <l>Prin aste însă cheamă asupră-și o mânie </l>
+                     <l>A celor ce le-apasă, și-n urmă-s prada lor.</l>
+                  </lg>
+                  <lg>
+                     <l>Ma, toată încercarea de ceață ș-apăsare, </l>
+                     <l>De sâlă și sclăvie e un triumf părut; </l>
+                     <l>Căci spiritul culturei străbate de mirare </l>
+                     <l>Și viitoru-nvață cu fruct de la trecut.</l>
+                  </lg>
+                  <lg>
+                     <l>Martirii legei nouă, vărsându-și sacrul sânge </l>
+                     <l>În cauza cea morală și plină d-adevăr, </l>
+                     <l>Formară o falangă ce nu se mai înfrânge, </l>
+                     <l>Și care stă din seculi, ca stâlpul cel de fier.</l>
+                  </lg>
+                  <lg>
+                     <l>Cât pentru-a mea chemare aci-n singurătate, </l>
+                     <l>Vă spun că am plăcere a fi un privitor</l>
+                     <l>La tot ce se întâmplă prin urbi, cetăți și sate </l>
+                     <l>Prin casă și-n afară la-ntregul nost' popor.</l>
+                  </lg>
+                  <lg>
+                     <l>Ocheanul meu pătrunde la Dunăre devale </l>
+                     <l>Prin negura din fumul gâtlegelor de foc;</l>
+                     <l>Ce fac, ce cochetează colo în căpitale</l>
+                     <l>Românii prin saloane, eu văd și-aud de loc.</l>
+                  </lg>
+                  <lg>
+                     <l>Din timp în timp voi scrie, să știe fiecine </l>
+                     <l>Pe cel ce s-amăgește prin jucării pruncești </l>
+                     <l>De-și vinde fii și mamă în urmă și pre sine; </l>
+                     <l>Pre cei ce varsă ura în inime frățești.</l>
+                  </lg>
+                  <lg>
+                     <l>Iar dacă-un caz fatale ar da vot de pierire,</l>
+                     <l>Ștergând din cartea vieței p-acest prea blând popor </l>
+                     <l>Atunci în astă lume neavând vro mulțămire, </l>
+                     <l>Aci p-o stâncă rece doresc ca să și mor!</l>
+                  </lg>
+                  <trailer>1854</trailer>
+               </div>
+               <div type="div3">
+                  <head>Cele două căpățâni goale</head>
+                  <lg>
+                     <l>La săparea unei groape, </l>
+                     <l>Un cap mort desființat, </l>
+                     <l>Văzând lângă sine-aproape</l>
+                     <l>Alt cap gol alăturat,</l>
+                     <l>„Cine e, care-ndrăznește,</l>
+                     <l>Îi strigă c-un glas de domn, </l>
+                     <l>De mine de se lipește, </l>
+                     <l>Turburându-mă din somn?”</l>
+                  </lg>
+                  <lg>
+                     <l>„Eu, zice-acea căpățână, </l>
+                     <l>Am fost numai matelot; </l>
+                     <l>Pâne neagră și puțină,</l>
+                     <l>Apă, din bălți, a fost tot </l>
+                     <l>Cu ce-am trăit în vieață;</l>
+                     <l>Desculț, trențos, urgisit,</l>
+                     <l>Dusei cărarea-mi cu greață;</l>
+                     <l>Acum moartea, ce-am dorit </l>
+                     <l>M-așeză în libertate,</l>
+                     <l>Care-n lume n-am aflat,</l>
+                     <l>Scuturând jugu-mi din spate,</l>
+                     <l>Ce atâta l-am purtat.”</l>
+                  </lg>
+                  <lg>
+                     <l>„Om de rând dă-te-ntr-o parte!</l>
+                     <l>Strigă capu-nfumurat,</l>
+                     <l>Tu ești prost, tu nu știi carte, </l>
+                     <l>Genu-ți apus, blăstămat!</l>
+                     <l>Alt soi sunt eu, nu ca tine: </l>
+                     <l>Sunt boier, cu prinți rudit, </l>
+                     <l>Iată-aici pe piept la mine </l>
+                     <l>Orduri, stele, sunt mărit!</l>
+                     <l>Eu mă plimb tot în calește,</l>
+                     <l>Aur, scule, am prisos,</l>
+                     <l>Vinu-mi în buți mucezește,</l>
+                     <l>Ah, să-ți spui, n-ai vreun folos!”</l>
+                  </lg>
+                  <lg>
+                     <l>„Eu sunt! Am! Ce nebunie!</l>
+                     <l>Am fost, avui, vrei să zici,</l>
+                     <l>O-ntoarse cel din sclavie;</l>
+                     <l>Căci nimic nu văd aici,</l>
+                     <l>Nu văd orduri, nice stele,</l>
+                     <l>Mărturii rangului tău,</l>
+                     <l>Aur, vin și calești grele</l>
+                     <l>Au rămas la locul său;</l>
+                     <l>Ce-ai avut în stăpânire</l>
+                     <l>Ai lăsat pe lume tot,</l>
+                     <l>Să-ți ajute-aici, nu pot;</l>
+                     <l>Acolo-a fost osebire,</l>
+                     <l>Aici avem o mărire,</l>
+                     <l>Capul de prinț domnitor</l>
+                     <l>E ca și cel de păstor,</l>
+                     <l>Dat la viermi prin putrezire.”</l>
+                  </lg>
+                  <lg>
+                     <l>Pe boier și pe țăran,</l>
+                     <l>Pe păgân și pe creștin,</l>
+                     <l>Pe amic și pe dușman,</l>
+                     <l>Moartea-i cuprinde-ntr-un sân.</l>
+                  </lg>
+                  <trailer>1843</trailer>
+               </div>
+               <div type="div3">
+                  <head>Glasul unui român </head>
+                  <lg>
+                     <l>La ceriu, părinte bune, de caut cu umilire, </l>
+                     <l>În darn 'mi este ruga, deșert al meu suspin! </l>
+                     <l>Un vierme, de se mișcă, tu scii de a lui clătire; </l>
+                     <l>Dar luptele, ce cercă un nem, de unde vin? </l>
+                  </lg>
+                  <lg>
+                     <l>Se poate, că străbunii s'au mormîntat în crime; </l>
+                     <l>Dar răul străvechimii dor nu-l cerți<hi rend="color(#0b0080)">
+                           <note xml:id="ftn1" place="foot" n="">pedepsești</note>
+                        </hi> pân'la noi! </l>
+                     <l>Căci altfel era bine, ca fiii de sclăvime </l>
+                     <l>Să vie orbi pe lume, născuți pentru nevoi!</l>
+                  </lg>
+                  <lg>
+                     <l>Eșiți, voi umbre moarte, eroii gintei mele! </l>
+                     <l>Și dați dovezi la lume, ce atât v'a înegrit; </l>
+                     <l>Strigați în gura mare, că voi de-atâtea rele, </l>
+                     <l>Ce cercă strănepoții, nu v'ați vinovățit! </l>
+                  </lg>
+                  <lg>
+                     <l>Să spuie Retezatul, acel asil de pace, </l>
+                     <l>D-a fost Românul trândav în timpuri de nevoi? </l>
+                     <l>De n-a păzit credința, de n-a vrut toate-a face, </l>
+                     <l>Să scape numai țara din curse de războiu! </l>
+                  </lg>
+                  <lg>
+                     <l>La undele de sânge, ce-au curs în Câmpul Pânii, </l>
+                     <l>Vărsat prin iatagane și paloș de Osman: </l>
+                     <l>Au n-au învins Corvinul p-acel cumplit dușman? </l>
+                     <l>Au n-au avut în parte amestec și Românii? </l>
+                  </lg>
+                  <lg>
+                     <l>Ah ! căci nu-mi pot răspunde străvechile morminte! </l>
+                     <l>Spunând, ce țin în sînuși: Român, au gen străin? </l>
+                     <l>Atunci s-ar frânge cearta, ce curge acum fierbinte, </l>
+                     <l>S-ar șterge atunci ca ceața și vechiul meu suspin! </l>
+                  </lg>
+                  <lg>
+                     <l>De tace omenimea, glas va da stânca'n munte, </l>
+                     <l>Și apele nu vuet prin ton nepomenit. </l>
+                     <l>Nu mai e timp s'apuie un gen, ce-a mers în frunte, </l>
+                     <l>La toată năvălirea, ce țara-a copleșit. </l>
+                  </lg>
+                  <lg>
+                     <l>Numai e timp s'apuie un gen faimos în lume, </l>
+                     <l>Nutrit prin o minune, din zei provenitor, </l>
+                     <l>A căruia mărire, virtute și renume </l>
+                     <l>Pusese sub picioare p'ai lumei domnitori. </l>
+                  </lg>
+                  <lg>
+                     <l>Nu mai e timp s'apuie o viță strălucită, </l>
+                     <l>Ce-a dat în zeci de secoli din sînul său eroi! </l>
+                     <l>De-a și supus-o soarta a fi nefericită: </l>
+                     <l>Răsare-i însă steaua și scapă din nevoi! </l>
+                  </lg>
+                  <lg>
+                     <l>E verde încă bradul și umed după fire; </l>
+                     <l>Dar' razele căldurei au nu-l vor sci usca? </l>
+                     <l>E nor încă pe ceriuri; dar norul e subțire, </l>
+                     <l>Si-un vînt de primăvară au nu-l va depărta? </l>
+                  </lg>
+                  <lg>
+                     <l>La ceriu, părinte sfinte, căzând cu umilire, </l>
+                     <l>O ginte părăsită tu n-o vei lăpăda! </l>
+                     <l>Ești drept și ierți păcatul, văzând o pocăire! </l>
+                     <l>Ești bun și-ți este milă de tot ce-i mâna ta!</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

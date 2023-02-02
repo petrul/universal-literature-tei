@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Platon</title>
+            <author>Platon</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013-09-08T15:24:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-02-02T08:35:48.538615293</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                         
+      <body>
+         <author>Platon</author>
+         <div type="div1" rend="P2">
+            <head>Lysis </head>
+            <subtitle>sau <lb/>Despre prietenie, <lb/>gen maieutic<note xml:id="ftn1" place="foot" n="1"> Termenul este propriu pentru obstetrică. Metaforic, Socrate, fiul moaşei Phainarete, prin dialectica învăţăturii sale aduce la viaţă adevărurile aflate în stare de latenţă în spiritul interlocutorilor săi.</note>
+            </subtitle>
+            <subtitle>Socrate Hippothales Ctesip Menexenos Lysis.</subtitle>
+            <p rend="justify">Mergeam de la Academie către Liceu<note xml:id="ftn2" place="foot" n="2">Academia şi Liceul, denumiri destinate unei atât de importante valorizări în civilizaţia modernă, se raportează la bine cunoscute împrejurimi ale Atenei. Academia, iniţial un parc umbros cu platani şi ulmi aflat la 6 stadii nord-vest de Atena, cuprinzând un lăcaş închinat eroului local Academos, era în vremea lui Socrate sediul unui gimnaziu mult frecventat de atenieni. Pe aleile acestui gimnaziu şi-a început şi Platon prelegerile conferindu-i celebritate. Liceul (Lykeion) fiind un loc împădurit a fost ales încă din vremea lui Pisistrate ca sediu al unui gimnaziu în imediata vecinătate a unui lăcaş consacrat lui Apollo Lykeios. Ca şi Academia, devine un loc favorit al prelegerilor sofistice, unde îşi stabileşte şi Aristotel şcoala timp de 13 ani.</note>  pe drumul dinafara zidului, care trece chiar pe sub el. Când am ajuns în dreptul portiţei unde se află fântâna lui Panops<note xml:id="ftn3" place="foot" n="3">Panops este un erou al mitologiei locale a Aticei, din zona Atenei, care dă numele fântânii amintite.</note>, am dat peste Hippothales, fiul lui Hieronymos, peste Ctesip, fiul lui Paianieus şi alţi tineri care stăteau strânşi acolo.</p>
+            <p rend="justify">Văzându-mă că vin, Hippothales mă întrebă: „Unde te duci şi de unde vii, Socrate?</p>
+            <p rend="justify">—  De la Academie, i-am răspuns, şi mă îndrept spre Liceu.</p>
+            <p rend="justify">—  Vino aici la noi, spuse el. Să ştii că merită osteneala să te opreşti din drum.</p>
+            <p rend="justify">—  Unde zici să vin şi despre cine e vorba? l-am întrebat.</p>
+            <p rend="justify">—  Aici, spuse, arătându-mi o incintă din faţa zidului care avea poarta deschisă, aici ne petrecem timpul, noi, împreună cu mulţi băieţi, unul mai frumos ca altul.</p>
+            <p rend="justify">—  Ce este acolo şi despre ce petrecere e vorba?</p>
+            <p rend="justify">—  Este o palestră, spuse, de curând construită şi ne petrecem timpul vorbind despre multe lucruri pe care cu drag ţi le-am împărtăşi şi ţie.</p>
+            <p rend="justify">—  Bine faceţi, am spus. Dar cine este dascăl acolo?</p>
+            <p rend="justify">—  Chiar prietenul, răspunse el, şi admiratorul tău, Miccos<note xml:id="ftn4" place="foot" n="4">Nu este vorba de un maestru de gimnastică (pedotrib), ci de un educator (σοφιστής), altminteri necunoscut, care îi instruia pe copii şi pe adolescenţi în acea πολυμάθεμα, profesată de sofiştii contemporani cu Socrate. în Norii, Aristofan îl identifică pe Socrate, pe nedrept, eu asemenea profesionişti ai omniscienţei.</note>.</p>
+            <p rend="justify">—  Pe Zeus, am spus, omul nu este un nepriceput, ci chiar un sofist destoinic.</p>
+            <p rend="justify">—  Vrei, deci, să vii cu mine ca să-i vezi pe cei dinăuntru?</p>
+            <p rend="justify">—  Mi-ar plăcea mai întâi să ştiu ce-aş avea de făcut şi care este băiatul cel mai frumos de acolo<note xml:id="ftn5" place="foot" n="5">Întrebarea pe care o pune Socrate conţine în aparenţă două chestiuni de ordin diferit. Răspunzând enigmatic numai la cea de-a doua chestiune, Hippothales declanşează acţiunea dialogului în cursul căruia se defineşte în mod implicit şi rostul prezenţei lui Socrate în palestră. Astfel, prima chestiune pusă de filosof nu rămâne fără răspuns.</note>.</p>
+            <p rend="justify">—  Fiecare cu preferatul său, Socrate.</p>
+            <p rend="justify">—  Al tău cine este, Hippothales? Asta să-mi spui”.</p>
+            <p rend="justify">Văzându-l că roşeşte la întrebarea mea, i-am zis: „O, Hippothales, fiu al lui Hieronymos, n-ai decât să nu-mi spui dacă iubeşti pe cineva sau nu. Căci îmi dau singur seama nu numai că iubeşti, dar şi că ai ajuns departe cu dragostea. Altminteri sunt netrebnic şi nepriceput, dar zeul mi-a dat harul să cunosc imediat pe cel care iubeşte şi pe cel iubit”6. Iar el, auzindu-mă, s-a înroşit încă mai tare.</p>
+            <p rend="justify">Atunci Ctesip zise: „îţi şade bine, Hippothales, să te înroşeşti şi să te codeşti să-i spui Iui Socrate numele băiatului. Ar fi însă destul să zăbovească puţin în preajma ta ca să-i fie lehamite tot auzindu-te cum vorbeşti despre el. Pe noi ne-a ameţit Socrate, împuindu-ne urechile cu Lysis al lui. Dacă mai şi bea ceva, chiar când ne trezim din somn, nu ne mirăm că tot numele lui Lysis îl avem în urechi. Iar ceea ce ne povesteşte – deşi de speriat – nu e nimic în comparaţie cu poezia şi proza pe care le revarsă alteori asupra noastră7. Şi mai cumplit încă este când îşi cântă iubitul cu o voce de toată minunăţia pe care trebuie, cu voie sau fără voie, s-o ascultăm. Iar acum, când îl întrebi, se înroşeşte8.</p>
+            <p rend="justify">—  Lysis acesta trebuie să fie foarte tânăr, am spus eu. Aşa cred cel puţin pentru că n-am mai auzit de numele lui.</p>
+            <p rend="justify">—  Asta pentru că nu prea i se spune pe nume, ci e chemat încă după numele tatălui său care este foarte cunoscut. Sunt sigur că nu se poate să nu-l ştii pe băiat, după chip, ceea ce este de ajuns ca să fie cunoscut.</p>
+            <p rend="justify">—  Spune-mi, al cui este? – Ε fiul cel mare al lui Democrates din Aixonea.</p>
+            <p rend="justify">—  Bravo, Hippothales, am spus atunci. Te-ai îndrăgostit de un băiat nobil şi strălucit în toate privinţele. Dar arată-mi şi mie acum ceea ce ai arătat celorlalţi. Vreau să-mi dau seama dacă ştii cum trebuie să vorbească un îndrăgostit despre iubitul său, fie în faţa acestuia, fie în faţa celorlalţi.</p>
+            <p rend="justify">—  Pui vreun preţ, Socrate, pe cele ce spune el?</p>
+            <p rend="justify">—  Doar nu vei nega – i-am răspuns – că eşti îndrăgostit de el.</p>
+            <p rend="justify">—  Asta nu, dar neg că fac versuri şi proză, spuse el. „Nu-i zdravăn la minte, spuse Ctesip, ci bate câmpii”9. Atunci eu i-am spus: „Nu am nevoie, Hippothales, să-ţi ascult versurile sau cântecele pe care le-ai făcut pentru băiat, ci mă interesează ce gândeşti, ca să văd în ce fel te porţi cu iubitul tău10.</p>
+            <p rend="justify">—  Asta-ţi va spune chiar Ctesip, îmi răspunse, care desigur îşi aminteşte şi ştie totul pe de rost, din moment ce spune că i s-a făcut lehamite să mă tot asculte.</p>
+            <p rend="justify">—  Pe zei, spuse Ctesip, e întocmai aşa, şi este chiar de râs, Socrate. Şi cum să nu fie când, îndrăgostit fiind şi gândindu-te la băiat mai mult ca la orice, nu eşti în stare să spui de la tine nici cât îl duce mintea pe un copil? Cele ce cântă întreaga cetate despre avuţiile, hergheliile şi victoriile pythice, istmice şi nemeene, la cvadrigă şi la cursele de întrecere ale lui Democrates, ale lui Lysis, bunicul băiatului şi ale tuturor strămoşilor lor, toate acestea le recită şi le povesteşte el, precum şi alte lucruri străvechi11. Deunăzi, ne-a descris într-un poem găzduirea lui Heracles de către strămoşul său: cum l-a primit acesta pe erou, datorită înrudirii lor, căci şi el era născut din Zeus şi din fiica întemeietorului demei şi multe altele de acelaşi soi12, tot lucruri pe care le cântă babele. Iată ce ne cântă şi ne recită el, silindu-ne să-i dăm ascultare”.</p>
+            <p rend="justify">Iar eu, auzindu-l, am spus: „Te faci de râs, Hippothales, dacă-ţi compui şi-ţi cânţi ţie însuţi imnul de triumf13, mai înainte de a învinge.</p>
+            <p rend="justify">—  Dar nu-mi compun şi nu-mi cânt nimic mie însumi, o, Socrate.</p>
+            <p rend="justify">—  Aşa crezi cel puţin, i-am spus eu.</p>
+            <p rend="justify">—  Cum vine asta? spuse el.</p>
+            <p rend="justify">—  Mai presus de toate ţie ţi se adresează aceste cântece. Dacă ai să cucereşti un asemenea iubit, recitările şi cântecele vor fi spre fala ta, ca adevărate elogii pentru un învingător, dat fiind că ai avut parte de un asemenea iubit. însă dacă ei îţi scapă, cu cât sunt mai mari elogiile rostite pentru iubitul tău, cu atât mai tare te vei face de râs, ca unul care se vede lipsit de un lucru frumos şi bun14. Cine se pricepe în dragoste15, prietene, nu-şi laudă iubitul mai înainte de a-l cuceri, căci se teme de ce are să-i aducă viitorul. Şi totodată, dacă sunt lăudaţi şi ridicaţi în slăvi, băieţii frumoşi se umplu de vanitate şi trufie. Sau nu-ţi vine să crezi?</p>
+            <p rend="justify">—  Ba da, spuse.</p>
+            <p rend="justify">—  Şi nu ajung ei cu atât mai greu de cucerit cu cât sunt mai vanitoşi?</p>
+            <p rend="justify">—  Se poate.</p>
+            <p rend="justify">—  Ce crezi despre vânătorul care-şi sperie vânatul şi-l face mai greu de prins?</p>
+            <p rend="justify">—  Desigur că e un prost vânător.</p>
+            <p rend="justify">—  Nu este cumva o mare stângăcie să sălbăticeşti pe cineva prin vorbe şi prin cântece, în loc să-l ademeneşti?16 – Cred că da.</p>
+            <p rend="justify">—  Vezi, Hippothales, să nu te expui la toate acestea din pricina poeziei tale! Nu vrei să susţii totuşi că un om care-şi face singur râul prin versurile sale este un bun poet, de vreme ce se vatămă pe sine însuşi17.</p>
+            <p rend="justify">—  Nu, pe Zeus, spuse. Ar fi cu totul absurd. Tocmai de aceea mă încredinţez ţie, Socrate, ca să mă sfătuieşti, dacă ai vreo idee, prin ce fel de vorbe sau de fapte poţi ajunge drag celui pe care-l iubeşti18.</p>
+            <p rend="justify">—  Nu-i uşor de spus. Dacă ai vrea să-l faci să intre în vorbă cu mine, poate aş reuşi să-ţi arăt cum trebuie să discuţi cu el, în loc să vorbeşti şi să cânţi, aşa cum spun ei că faci”19. – „Asta nu-i deloc greu, spuse. Dacă mergi înăuntru cu Ctesip şi te aşezi să discuţi, cred că are să se înfiinţeze şi el. Căci este deosebit de interesat să asculte. Şi totodată, cu prilejul sărbătorilor lui Hermes, adolescenţii şi copiii sunt la un loc unii cu alţii20. Aşa că are să vină la tine. Dacă nu, el îl cunoaşte pe Ctesip prin vărul acestuia, Menexenos. Iar cu Menexenos el este cel mai bun camarad. Aşa că are să-l cheme Ctesip în caz că nu vine el însuşi”. – „Aşa trebuie să facem”, am spus eu. Şi luându-l cu mine pe Ctesip ne-am îndreptat spre palestră; ceilalţi veneau în urma noastră.</p>
+            <p rend="justify">Intrând acolo, i-am văzut pe toţi copiii îmbrăcaţi de sărbătoare şi jucând cu arşice21, în timp ce jertfele şi celelalte ceremonii erau pe isprăvite. Mulţi se jucau afară, în curte, în timp ce alţii, într-un colţ al vestiarului, înşirau o groază de arşice pe care le alegeau din nişte coşuleţe. în jurul lor stăteau ceilalţi ca privitori. Printre ei era şi Lysis, care, stând în picioare şi cu cununa pe cap în mijlocul copiilor şi adolescenţilor, se deosebea într-atât prin înfăţişarea sa încât merita să se spună că e nu numai frumos, ci şi desăvârşit în frumuseţea sa22.</p>
+            <p rend="justify">Ne-am dus să ne aşezăm în partea opusă, unde era linişte, şi am început să vorbim între noi. Lysis se tot întorcea să ne privească, fiind limpede că dorea să vină la noi. O vreme însă a zăbovit, şovăind să vină de unul singur; apoi a intrat Menexenos care se jucase în mijlocul curţii. Zărindu-ne, pe mine şi pe Ctesip, a venit să se aşeze lângă noi. Lysis, văzându-l, l-a urmat şi a venit şi el lângă Menexenos. S-au apropiat apoi ceilalţi, printre care şi Hippothales. Acesta, văzând că sunt mai mulţi de faţă, s-a ascuns după ei, rămânând acolo unde credea că n-o să-l zărească Lysis, de teamă să nu-l supere. Şi a stat astfel, ascultând totul de aproape23.</p>
+            <p rend="justify">Iar eu, privindu-l pe Menexenos, i-am spus: „Fiu al lui Demophon, care din voi doi este mai mare?</p>
+            <p rend="justify">—  Suntem în dispută, spuse.</p>
+            <p rend="justify">—  De bună seamă că şi în privinţa neamului poate fi controversă, am spus.</p>
+            <p rend="justify">—  Bineînţeles, îmi răspunse.</p>
+            <p rend="justify">—  Şi în privinţa frumuseţii, la fel”. Amândoi au râs. „Dar n-am să vă întreb care-i mai bogat dintre voi, deoarece sunteţi prieteni. Nu-i aşa? – întocmai, mi-au răspuns.</p>
+            <p rend="justify">—  Doar se zice că bunurile prietenilor sunt comune24, aşa că în privinţa asta nu vă deosebiţi cu nimic între voi, dacă-i adevărat ce spuneţi despre prietenia voastră”. Au încuviinţat.</p>
+            <p rend="justify">Eram pe cale, după aceasta, să-i întreb care dintre ei este mai drept şi mai învăţat. Dar tocmai atunci a venit cineva să-l ia pe Menexenos, spunând că-l cheamă pedotribul. Cred că avea de adus jertfe25.</p>
+            <p rend="justify">Aşa că a plecat, iar eu l-am întrebat pe Lysis: „Lysis, oare te iubesc mult tata şi mama?</p>
+            <p rend="justify">—  De bună seamă, mi-a răspuns. Deci ţi-ar dori să fii cât mai fericit?</p>
+            <p rend="justify">—  Cum de nu?</p>
+            <p rend="justify">—  Dar crezi că e fericit omul care robeşte şi care nu este lăsat să facă nimic din ceea ce ar dori?</p>
+            <p rend="justify">—  Nu, pe Zeus, spuse.</p>
+            <p rend="justify">—  Iar dacă tatăl şi mama te iubesc şi doresc să fii fericit, este clar atunci că se străduie în toate chipurile să devii fericit.</p>
+            <p rend="justify">—  De bună seamă, spuse.</p>
+            <p rend="justify">—  Te lasă cumva să faci ce vrei fără să te dojenească şi fără să te împiedice de la ceea ce doreşti să faci?</p>
+            <p rend="justify">—  Ba, dimpotrivă, Socrate, de la câte şi mai câte mă opresc, pe Zeus!</p>
+            <p rend="justify">—  Ce vorbeşti? l-am întrebat. Vor ci să fii fericit, dar te împiedică să faci ceea ce vrei? Ia spune-mi, dacă ai vrea să te urci pe unul din carele tatălui tău şi să iei hăţurile când participă la o întrecere, te-ar lăsa ei ori te-ar împiedica?</p>
+            <p rend="justify">—  Pe Zeus, fireşte că nu m-ar lăsa.</p>
+            <p rend="justify">—  Dar pe cine ar lăsa?</p>
+            <p rend="justify">—  Pe un vizitiu care primeşte plată de la tatăl meu.</p>
+            <p rend="justify">—  Ce spui? îi îngăduie unui simbriaş mai degrabă decât ţie să facă cu caii ce vrea, şi încă îi mai dau şi bani pentru asta?</p>
+            <p rend="justify">—  Păi cum altfel? spuse.</p>
+            <p rend="justify">—  Dar o căruţă cu măgari te lasă ei să conduci, şi dacă vrei să iei biciul şi să-i loveşti, îţi dau voie?</p>
+            <p rend="justify">—  Cum o să-mi dea voie?</p>
+            <p rend="justify">—  De ce nu? am întrebat eu. Nu-i e nimănui permis să-i lovească?</p>
+            <p rend="justify">—  Ba da, catârgiului, spuse.</p>
+            <p rend="justify">—  Care este sclav, sau om liber?</p>
+            <p rend="justify">—  Sclav, spuse.</p>
+            <p rend="justify">Pun, pare-se, mai mult preţ pe un sclav decât pe tine, fiul lor şi lui îi încredinţează bunurile, mai degrabă decât ţie, şi-l Iasă să facă ce vrea, în timp ce ţie îţi pun oprelişti?! Dar să-mi mai spui ceva. Te lasă ei să te conduci singur, ori nici asta nu-ţi îngăduie?</p>
+            <p rend="justify">—  Cum or să-mi îngăduie?!</p>
+            <p rend="justify">—  Deci te conduce cineva?</p>
+            <p rend="justify">—  Uite pedagogul acela.</p>
+            <p rend="justify">—  Care este sclav.</p>
+            <p rend="justify">—  Dar cum altfel? Ε sclavul nostru, spuse.</p>
+            <p rend="justify">—  Este un lucru neobişnuit, am spus eu, ca un om liber să fie condus de un sclav. Şi în ce fel te conduce pedagogul acesta?</p>
+            <p rend="justify">—  De pildă, mă duce la şcoală26.</p>
+            <p rend="justify">—  Dar nu te conduc şi cei de aici, dascălii?</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Deci tatăl tău îţi pune, cu bună ştiinţă, o sumedenie de stăpâni şi cârmuitori. Dar când te duci acasă, la mama, te lasă ea ca să te fericească să faci ce vrei cu lâna, ori cu stativul ei, când ţese? Şi nu te opreşte să pui mâna pe spatulă, pe vârtelniţă, ori vreo altă unealtă de lucru?” Atunci el râzând spuse: „Pe Zeus, Socrate, nu numai că mă opreşte, dar m-ar şi bate, dac-aş pune mâna”.</p>
+            <p rend="justify">—  Heracle! am spus eu, oare n-ai greşit cu ceva tatălui sau mamei tale?” – Pe Zeus, nicidecum”, spuse el.</p>
+            <p rend="justify">„Atunci, pentru ce te împiedică ci cu atâta străşnicie să fii fericit şi să faci ceea ce vrei şi te cresc cât e ziua de lungă, ţinându-te la cheremul altcuiva şi, într-un cuvânt, nelăsându-te să faci mai nimic din ce doreşti? S-ar zice, deci, că avuţia, oricât de mare este, nu-ţi e de nici un folos, din moment ce oricine dispune de ea mai degrabă decât tine. Şi până şi trupul tău, atât de frumos, şi el este cultivat şi îngrijit de altcineva. Tu nu dispui de nimic, Lysis, şi nu faci nimic din ceea ce doreşti.</p>
+            <p rend="justify">—  Pentru că n-am încă vârsta, Socrate”.</p>
+            <p rend="justify">—  Nu cred că asta te-ar opri, fiu al lui Demophon, pentru că, de bună seamă, sunt lucruri pe care şi tata şi mama ţi le îngăduie, fără să aştepte să fii de o anumită vârstă. Când vor să li se citească sau să li se scrie ceva, desigur că recurg la tine, mai degrabă decât la oricine altul din casă. Nu-i aşa? – întocmai, spuse.</p>
+            <p rend="justify">—  Aşa că ţi-e permis atunci să scrii care literă vrei tu mai întâi, şi care în al doilea rând; şi tot aşa când citeşti. Şi când iei lira, fireşte, nu te împiedică nici tata, nici mama, să întinzi şi să destinzi oricare coardă vrei tu, să le faci să vibreze şi să le loveşti cu arcuşul. Sau te împiedică?27 – Nu, desigur, – Care să fie motivul, Lysis, că de la acestea nu te împiedică, dar te împiedică în celelalte cazuri, de care vorbeam?</p>
+            <p rend="justify">—  Probabil, spuse, pentru că în unele privinţe mă pricep, iar în altele nu.</p>
+            <p rend="justify">—  Bine, prietene, am spus. Deci tata nu aşteaptă să ajungi la o anumită vârstă spre a-ţi încredinţa totul, ci, în ziua în care o să considere că te pricepi mai bine decât el, atunci o să se dea pe mâna ta, el şi cu tot ce-i al lui.</p>
+            <p rend="justify">—  Aşa cred, spuse.</p>
+            <p rend="justify">—  Bine, dar ia să vedem, am spus; n-are şi vecinul aceeaşi socoteală ca şi tatăl tău, cu privire la tine? Ce crezi? Are să-ţi încredinţeze el conducerea gospodăriei, când o să considere că te pricepi mai bine ca el să gospodăreşti, ori o să rămână tot el stăpân?</p>
+            <p rend="justify">—  Cred că are să mi-o încredinţeze mie.</p>
+            <p rend="justify">—  Dar atenienii? Nu crezi că or să-ţi încredinţeze şi ei treburile lor, când au să vadă că te pricepi deajuns?</p>
+            <p rend="justify">—  Ba da.</p>
+            <p rend="justify">—  Pe Zeus, am spus, dar Marele Rege? O să-i îngăduie, oare, fiului său mai mare, căruia îi va trece stăpânirea Asiei, să puie în zeama de carne fiartă ce-o vrea el? Ori nouă, dacă venind la el îi arătăm că ne pricepem mai bine decât fiul său la gătit carnea? – Ε clar că nouă, spuse. Şi pe el n-or să-l lase să puie nimic în mâncare, în timp ce pe noi n-o să ne oprească să punem câtă sare vrem.</p>
+            <p rend="justify">—  Cum altfel?!</p>
+            <p rend="justify">—  Iar dacă fiul său ar suferi de ochi, i-ar da voie să şi-i trateze singur, deşi nu se pricepe în medicină, ori l-ar opri?</p>
+            <p rend="justify">—  L-ar opri.</p>
+            <p rend="justify">—  Dar pe noi, dacă ne-ar şti că suntem medici28, cred că nu ne-ar împiedica, chiar dacă am vrea să-i deschidem ochii şi să presarăm cenuşă în ei socotind că ne pricepem cum trebuie.</p>
+            <p rend="justify">—  Ai dreptate.</p>
+            <p rend="justify">—  Oare nu s-ar încrede în noi, mai degrabă decât în el însuşi sau în fiul său, în toate privinţele în câte ne-ar socoti mai pricepuţi decât ei?29 – Neapărat, o, Socrate, spuse.</p>
+            <p rend="justify">—  Aşa stau lucrurile deci, dragă Lysis; în privinţele în care dobândim pricepere, cu toţii or să se încreadă în noi, şi elenii şi barbarii, şi bărbaţii şi femeile. Iar noi o să facem în aceste cazuri tot ce vrem, fără ca cineva să ne împiedice dinadins. Aşa că vom fi liberi şi, poruncind altora, noi vom fi stăpânii, ca unii care avem de tras foloasele.</p>
+            <p rend="justify">Însă acolo unde n-am dobândit pricepere, n-o să ne îngăduie nimeni să facem ce credem de cuviinţă; cu toţii ne vor împiedica, pe cât vor putea, nu numai străinii, ci chiar tata, mama şi oricare rudă. în această privinţă ne vom supune altora, lăsând totul în seama lor, astfel că nu vom mai avea de tras nici un folos30. Eşti de acord că aşa se întâmplă?</p>
+            <p rend="justify">—  Sunt de acord.</p>
+            <p rend="justify">—  Atunci, vom putea oare să ne împrietenim31 şi să ne facem iubiţi de cineva, într-o privinţă în care nu-i suntem de nici un folos?32 – Nu, desigur, spuse.</p>
+            <p rend="justify">—  Aşa că nici tata nu te va îndrăgi pe tine, nici vreun om pe un altul, dacă acesta nu-i este de folos.</p>
+            <p rend="justify">—  Nu, după cum se pare.</p>
+            <p rend="justify">—  Dar atunci când ai să ajungi priceput, băiatule, cu toţii îţi vor fi prieteni şi apropiaţi, căci vei fi folositor şi bun; iar dacă nu, nimeni n-are să te îndrăgească, nici tata, nici mama, nici rudele. Şi atunci, o, Lysis, poate să se grozăvească cineva în privinţa unor lucruri pe care încă nu le ştie?33.</p>
+            <p rend="justify">—  Cum o să poată?</p>
+            <p rend="justify">—  Deci ţie, care-ţi mai trebuie dascăl, îţi lipseşte ştiinţa.</p>
+            <p rend="justify">—  Ai dreptate.</p>
+            <p rend="justify">—  Prin urmare nu poţi să te grozăveşti cu ştiinţa ta din moment ce eşti încă neştiutor34.</p>
+            <p rend="justify">—  Pe Zeus, spuse, nu pot, Socrate.”</p>
+            <p rend="justify">Iar eu, ascultându-l, m-am uitat pe furiş la Hippothales, şi mai că era să fac o imprudenţă; îmi venise ideea să-i spun:- Aşa trebuie, Hippothales, să vorbeşti cu băieţii, ţinându-i la respect şi tăindu-le din pretenţii, şi nu cum faci tu, care-i răsfeţi şi-i umpli de trufie”. Văzându-l, însă, frământat şi tulburat de cele spuse, mi-am amintit cum voise să nu-l vadă Lysis că e pe aproape. Aşa că m-am răzgândit şi am tăcut35.</p>
+            <p rend="justify">În acest timp s-a întors Menexenos şi s-a aşezat lângă Lysis, de unde se ridicase. Atunci Lysis mi-a şoptit, alintându-se: „Socrate, ce mi-ai spus mie, spune-i şi lui Menexenos”36.</p>
+            <p rend="justify">—  Iar eu i-am răspuns: „Asta tu ai să-i spui, Lysis. Doar ai fost cu toată luarea-aminte. – întocmai aşa, spuse. – încearcă, deci, să-ţi aminteşti cât mai bine de cele vorbite, ca să-i poţi reproduce totul cu claritate; iar dac-o să uiţi ceva, să mă întrebi de îndată ce ne vedem din nou.</p>
+            <p rend="justify">—  Să ştii, Socrate, că o să-mi dau toată silinţa să fac aşa. Dar spune-i şi lui ceva, ca să stau şi eu să ascult, până ce vine ora de plecat acasă.</p>
+            <p rend="justify">—  Trebuie să fac aşa cum ţi-e vrerea. Dar vezi, să mă ajuţi dacă Menexenos se apucă să mă combată. Ori nu-l ştii cât este de amator de controverse?37.</p>
+            <p rend="justify">—  Ba da, pe Zeus, îl ştiu foarte bine, şi tocmai de aceea vreau să discuţi cu el.</p>
+            <p rend="justify">—  Ca să mă fac de râs? l-am întrebat.</p>
+            <p rend="justify">—  Nu, pe Zeus, spuse, ci ca să-i vii de hac. – în ce fel? l-am întrebat. Asta nu-i uşor cu un om de temut ca el. Doar e discipolul lui Ctesip38. Şi e de faţă Ctesip însuşi. Nu-l vezi?</p>
+            <p rend="justify">—  Să nu-ţi pese de nimeni, Socrate, şi să discuţi cu el.</p>
+            <p rend="justify">—  Văd că trebuie să discut, am zis.</p>
+            <p rend="justify">Acestea le vorbeam între noi, până când Ctesip ne-a întrebat: „Dar ce-i cu voi? Petreceţi de unii singuri şi noi nu ne împărtăşim din discuţie?39.</p>
+            <p rend="justify">—  Ba da, i-am răspuns, vi Ie împărtăşim. Lysis nu pricepe cele ce-i spun, dar crede că Menexenos o să înţeleagă, şi-mi cere să-l întreb pe el.</p>
+            <p rend="justify">—  Atunci de ce nu-l întrebi?</p>
+            <p rend="justify">—  Ba o să-l întreb, i-am răspuns. Răspunde-mi, deci, Menexenos, la cele ce-am să te întreb40. Mi se întâmplă, încă de când eram copil, să doresc dobândirea unui lucru, aşa cum fiecare îşi doreşte câte ceva. Unul vrea să capete cai, altul câini, altul aur sau onoruri. Faţă de acestea, cu rămân indiferent; în schimb sunt foarte avid să-mi fac prieteni şi mi-aş dori să dobândesc un bun prieten mai degrabă decât prepeliţa ori cocoşul cel mai grozav din lume; şi, pe Zeus, mai degrabă chiar decât un cal sau un câine. Şi cred, pe câine, că decât să dobândesc aurul lui Darius, aş fi mai bucuros de un prieten41. Într-atât sunt de dornic să am prieteni! Iar când vă văd, pe tine şi pe Lysis, sunt uimit şi vă fericesc că atât de tineri fiind, sunteţi în stare să dobândiţi lucrurile atât de iute şi de uşor, că tu te-ai împrietenit atât de repede şi de bine cu Lysis, şi la fel el cu tine. în ce mă priveşte, sunt într-atât de departe de aşa ceva, încât nu ştiu nici măcar în ce chip ajunge cineva drag altcuiva42, ceea ce tocmai vreau să aflu de la tine, care eşti un ştiutor. Aşa că spune-mi: când cineva iubeşte pe altul43 care dintre cei doi este prietenul, cel ce poartă prietenie sau cel căruia i se poartă? Ori nu e nici o deosebire?</p>
+            <p rend="justify">—  Cred, răspunse, că nu e nici o deosebire.</p>
+            <p rend="justify">—  Ce spui? l-am întrebat. Sunt amândoi prieteni unul faţă de altul şi dacă numai unul din ei poartă prietenie celuilalt?</p>
+            <p rend="justify">—  După părerea mea, da.</p>
+            <p rend="justify">—  Ia să vedem. Nu se Poate ca cel ce iubeşte să nu fie în schimb îndrăgit de către iubitul său?</p>
+            <p rend="justify">—  Ba da.</p>
+            <p rend="justify">—  Dar nu se poate ca cel ce îndrăgeşte să fie detestat aşa cum se pare că păţesc uneori cei iubitori cu iubiţii lor?44. Iubind pe cât de mult le stă în putinţă, unii consideră că nu li se răspunde cu iubire, iar alţii că sunt chiar urâţi. Sau crezi că asta nu e adevărat?</p>
+            <p rend="justify">—  Ba, da, spuse, e foarte adevărat.</p>
+            <p rend="justify">—  Nu înseamnă asta oare că unul iubeşte iar celălalt este iubit?</p>
+            <p rend="justify">—  Desigur.</p>
+            <p rend="justify">—  Care din doi este atunci prieten al celuilalt? Cel ce iubeşte, chiar dacă nu i se răspunde cu dragoste şi chiar dacă este detestat, ori cel ce este iubit? Sau în situaţia asta nici unui nu-i prieten al celuilalt, din moment ce nu se îndrăgesc reciproc?</p>
+            <p rend="justify">—  Mai degrabă aşa. – înseamnă că suntem acum de altă părere decât adineauri. Atunci amândoi erau prieteni când unul din ei iubea pe celălalt; iar acum, dacă nu se iubesc amândoi, niciunul din ei nu este prieten al celuilalt.</p>
+            <p rend="justify">—  Tot ce se poate, spuse.</p>
+            <p rend="justify">—  Deci nu-i cu putinţă să fie prieten cel ce iubeşte, dacă nu se răspunde dragostei sale.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Deci nu sunt prieteni ai cailor cei cărora caii nu le răspund la dragoste, nici prieteni ai prepeliţelor, de asemenea nici prieteni ai câinilor, ai vinului, ai gimnasticii ori ai înţelepciunii, dacă înţelepciunea nu le răspunde la dragoste45. Sau fiecare dintre ei iubeşte, fără să-l aibă drept prieten pe cel iubit46, şi se înşală poetul când spune: „Fericit cine are drept prieteni copiii, caii cei vajnici, Iuţii copoi şi pe oaspele cel străin”?47.</p>
+            <p rend="justify">—  Nu cred, spuse el.</p>
+            <p rend="justify">—  Crezi, deci, că are dreptate?</p>
+            <p rend="justify">—  Da.</p>
+            <p rend="justify">—  Se pare, deci, Menexenos, că cel iubit îi este prieten iubitorului său, chiar dacă nu-l iubeşte şi chiar dacă-l urăşte? Cum se întâmplă cu pruncii nou născuţi, care încă nu iubesc, ba chiar prind ură când sunt pedepsiţi de mamă sau de tată; dar şi atunci când ei urăsc, sunt mai dragi părinţilor ca orice pe lume.</p>
+            <p rend="justify">—  Cred că aşa este, spuse.</p>
+            <p rend="justify">—  Rezultă că prieten nu e cel ce poartă, ci cel căruia i se poartă prietenie.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Iar duşman este cel urât şi nu cel ce urăşte.</p>
+            <p rend="justify">—  Pesemne.</p>
+            <p rend="justify">—  Atunci mulţi sunt iubiţi de duşmanii lor, dar sunt urâţi de prieteni şi sunt prieteni faţă de duşmani iar faţă de prietenii lor sunt duşmani, dacă prietenie înseamnă a fi iubit şi nu a iubi. Este totuşi absurd, prietene dragă, şi cred, mai cu seamă, că este imposibil să fii duşman prietenului şi prieten duşmanului tău.</p>
+            <p rend="justify">—  Se pare că ai dreptate, Socrate, spuse.</p>
+            <p rend="justify">—  Prin urmare, dacă asta este imposibil, înseamnă că cel ce iubeşte trebuie să fie prietenul celui iubit.</p>
+            <p rend="justify">—  Pesemne.</p>
+            <p rend="justify">—  Şi tot aşa, cel ce urăşte să fie duşmanul celui urât.</p>
+            <p rend="justify">—  Neapărat.</p>
+            <p rend="justify">—  Deci vom fi siliţi să recunoaştem aceleaşi lucruri ca adineauri, anume că adesea cineva este prieten cu cine nu-i e prieten, adesea chiar cu cel ce-i e duşman, atunci când iubeşte pe cel ce nu răspunde iubirii sale sau chiar îl urăşte. Adesea poţi fi duşman celui ce nu-ţi e duşman sau chiar ţi-e prieten, dacă urăşti pe cel ce nu te urăşte sau chiar te iubeşte.</p>
+            <p rend="justify">—  Tot ce se poate, spuse.</p>
+            <p rend="justify">—  Ce-o să ne facem atunci, am spus, dacă nu pot fi prieteni cei ce iubesc, nici cei ce sunt iubiţi, nici cei ce iubesc şi sunt iubiţi, ci trebuie să spunem că în afară trebuie să existe alţii care-şi sunt prieteni48.</p>
+            <p rend="justify">—  Pe Zeus, Socrate, nu am nici o idee în privinţa asta.</p>
+            <p rend="justify">—  Nu am greşit, oare, pe de-antregul în căutarea noastră, o, Menexenos?</p>
+            <p rend="justify">—  Aşa mi se pare şi mie, Socrate, interveni Lysis, şi îndată se înroşi la faţă. Cred că vorba îi scăpase fără să vrea, fiindcă urmărea cu sufletul la gură cele ce se discutau. Era clar că ascultase în această stare de spirit.</p>
+            <p rend="justify">Atunci eu, vrând să-i dau pace lui Menexenos, m-am simţit încântat de dragostea pentru înţelepciune a lui Lysis şi, Iuându-l ca interlocutor, am spus49: „- Cred că ai dreptate, Lysis, să spui că dacă am fi cercetat bine nu ne-am fi încurcat astfel. Aşa că, să nu mai mergem pe calea de-acum, căci căutarea aceasta îmi pare un drum anevoios. Cred că ar trebui să mergem pe unde am mai apucat-o, cercetând părerile poeţilor. Ei, într-adevăr, ne sunt părinţi şi călăuze ale înţelepciunii50. Ei arată limpede, fără îndoială, ce înseamnă prietenia, când spun că zeul este cel care-i împrieteneşte pe oameni, apropiindu-i pe unii de ceilalţi. Ei spun cam aşa, dacă nu mă-nşel: „Pe cei asemenea mereu zeul unul către altul îi mână” şi-i face să se cunoască51. Ori n-ai întâlnit aceste versuri?</p>
+            <p rend="justify">—  Ba da, spuse.</p>
+            <p rend="justify">—  N-ai întâlnit cumva şi sentinţele celor învăţaţi care susţin acelaşi lucru, că întotdeauna cele ce se aseamănă trebuie să fie prietene între ele? Este vorba de cei care cugetă şi scriu despre natură şi despre univers52.</p>
+            <p rend="justify">—  Ştiu despre ce e vorba, spuse.</p>
+            <p rend="justify">—  Şi n-au dreptate? l-am întrebat.</p>
+            <p rend="justify">—  Poate că da, spuse.</p>
+            <p rend="justify">—  Poate că pe jumătate, am spus, ori poate că pe de-a-ntregul, dar nu-i înţelegem noi. Căci noi credem că omul ticălos, cu cât se apropie de alt ticălos şi are mai mult de-a face cu el, cu atât îl duşmăneşte mai tare; pentru că săvârşeşte nedreptatea, iar între cei nedrepţi şi cei nedreptăţiţi nu poate fi prietenie. Nu-i aşa?</p>
+            <p rend="justify">—  Aşa e, spuse el.</p>
+            <p rend="justify">—  De aceea, pe jumătate cel puţin, nu poate fi adevărat ceea ce s-a spus, dacă ticăloşii se aseamănă între ei.</p>
+            <p rend="justify">—  Ai dreptate.</p>
+            <p rend="justify">—  După părerea mea, ar trebui să se spună că oamenii buni se aseamănă şi sunt prieteni între ei, iar cei răi, aşa cum le-a ieşit şi vorba, nici măcar în sinea lor nu-şi află potriva, căci sunt stihinici şi nestatornici53. Deci cel ce este potrivnic şi vrăjmaş faţă de sine, cu anevoie ar mai putea fi pe potrivă şi prieten faţă de altul. Sau nu eşti de aceeaşi părere?</p>
+            <p rend="justify">—  Ba da, spuse.</p>
+            <p rend="justify">—  Deci asta cred eu că vor aceia să înţeleagă, prietene, când spun că cei ce se aseamănă îşi sunt prieteni, aşa cum numai omul bun este prieten cu cel bun, în timp ce omul rău nu se poate de fel împrieteni nici cu cel bun, nici cu cel rău. Eşti de acord?” – A încuviinţat. —,Aşa că acum îi cunoaştem pe cei care-şi sunt prieteni. Din discuţie reiese că numai cei ce sunt buni. – întru totul de acord.</p>
+            <p rend="justify">—  Şi eu, la fel, am spus. Totuşi este aici ceva care mă nemulţumeşte. Să vedem, pe Zeus, ce-i cu bănuiala mea. Cei ce se aseamănă sunt oare prieteni pe măsura asemănării lor şi îşi sunt şi de folos în aceeaşi măsură?54. Iată mai precis: poate oare cineva să-i aducă asemănătorului său vreun folos sau vreun neajuns pe care acesta să nu şi-l poată aduce el însuşi?55. Ori să-l facă să resimtă ceva ce acesta n-ar putea resimţi şi singur? Şi dacă nu-şi pot fi de nici un ajutor, cum or să mai aibă afecţiune unul pentru altul? Este posibil?</p>
+            <p rend="justify">—  Nu este.</p>
+            <p rend="justify">—  Poate fi prieten cel ce nu resimte afecţiune?56.</p>
+            <p rend="justify">—  Nicidecum.</p>
+            <p rend="justify">—  Atunci nimeni nu poate fi prieten cu asemănătorul său. Dar omul bun ar putea fi prieten cu altcineva bun, în măsura în care este bun, nu în care îi seamănă?</p>
+            <p rend="justify">—  Probabil.</p>
+            <p rend="justify">—  Cum aşa? Oare omul bun, în măsura în care este bun nu-şi ajunge sieşi?</p>
+            <p rend="justify">—  Ba da.</p>
+            <p rend="justify">—  Din moment ce-şi ajunge sieşi, nu duce lipsă de nimic.</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Cine nu duce lipsă de nimic nu are de primit nici o satisfacţie.</p>
+            <p rend="justify">—  Desigur că nu.</p>
+            <p rend="justify">—  Iar cine nu simte o satisfacţie nu iubeşte.</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Şi dacă nu iubeşte, nu poate fi prieten57.</p>
+            <p rend="justify">—  Se pare că nu.</p>
+            <p rend="justify">—  Atunci, cum or să poată fi cât de cât prieteni între ei cei buni, când unii nu regretă lipsa altora, deoarece îşi ajung sieşi de unii singuri, iar când sunt împreună nu-şi sunt de nici un folos? în ce chip ar ajunge asemenea oameni să capete însemnătate unii pentru ceilalţi?</p>
+            <p rend="justify">—  In nici un chip, spuse.</p>
+            <p rend="justify">—  Deci nu pot fi prieteni dacă nu înseamnă nimic unii pentru alţii? – întocmai.</p>
+            <p rend="justify">—  Ia seama, Lysis, cum ne-am mai încurcat! Oare să ne fi înşelat chiar întru totul?</p>
+            <p rend="justify">—  Cum aşa? spuse.</p>
+            <p rend="justify">—  Am auzit odată pe cineva spunând – chiar acum mi-aduc aminte – că şi cei asemănători, şi cei buni îşi sunt cei mai mari duşmani, şi-l invoca drept martor pe Hesiod, cel ce spune că: „Olarul pizmuieşte pe olar, poetul pe poet şi săracul pe cel sărac”.58</p>
+            <p rend="justify">Si mai spunea că toate celelalte, cu cât seamănă mai mult între ele, cu atât se umplu mai tare de invidie, de vrajbă şi de duşmănie; şi cu cât sunt mai deosebite, cu atât ajung mai prietene. Că săracul e silit să fie prieten cu cel bogat, şi cel slab cu cel puternic, ca să-i fie de ajutor, iar cel bolnav cu medicul. La fel, tot neştiutorul trebuie să-i poarte mulţumire şi să-l iubească pe cel învăţat. Şi acela îşi continua ideea cu mai multă strălucire, spunând că e peste putinţă ca cei ce seamănă să fie prieteni, ci se întâmplă exact contrariul: tocmai lucrurile cu totul opuse sunt cele mai prietene. Căci fiecare doreşte contrariul şi nu asemănătorul său. Uscatul doreşte umedul, recele caldul, acrul dulcele, ascuţitul rotunjimea, cel gol doreşte umplerea, iar plinul doreşte golirea; şi toate celelalte în acelaşi mod.</p>
+            <p rend="justify">Contrariile sunt hrană unele pentru celelalte, în timp ce lucrurile asemănătoare nu-şi sunt de nici un folos59. Toate acestea el le spunea cu multă vervă, căci era un bun orator. Voi ce credeţi? am întrebat.</p>
+            <p rend="justify">—  Că avea dreptate, după câte pricep, spuse Menexenos60.</p>
+            <p rend="justify">—  Putem spune, atunci, că lucrurile contrarii sunt în cea mai mare măsură prietene? – întocmai.</p>
+            <p rend="justify">—  Fie, am spus. Dar nu ţi se pare straniu, o, Menexenos? Imediat or să sară asupra noastră acei preaînvăţaţi maeştri ai disputei61 şi or să ne întrebe dacă nu cumva duşmănia este lucrul cel mai contrar prieteniei? Şi ce-o să le răspundem? Sau nu trebuie să recunoaştem că au dreptate?</p>
+            <p rend="justify">—  Ba trebuie.</p>
+            <p rend="justify">—  Deci, vor spune ei: duşmanul este prieten cu prietenul, ori prietenul cu duşmanul?</p>
+            <p rend="justify">—  Niciuna din două.</p>
+            <p rend="justify">—  Cel drept este oare prieten cu cel nedrept, sau înţeleptul cu desfrânatul, sau cel bun cu cel rău?</p>
+            <p rend="justify">—  Nu cred că e aşa.</p>
+            <p rend="justify">—  Şi totuşi, am spus eu, dacă îndeobşte un lucru este prieten cu altul, datorită faptului că sunt contrarii62, trebuie să fie prietene şi cele dinainte.</p>
+            <p rend="justify">—  Trebuie.</p>
+            <p rend="justify">—  Deci nici lucrurile asemănătoare, nici cele contrarii nu sunt prietene între ele.</p>
+            <p rend="justify">—  Se pare că nu.</p>
+            <p rend="justify">Ne-a mai rămas încă de cercetat dacă nu cumva prieten înseamnă, de fapt, altceva decât toate acestea, anume dacă nu cumva ceea ce este nici-bun-nici-rău poate fi prieten cu cel bun.</p>
+            <p rend="justify">—  Ce vrei să spui? întrebă el.</p>
+            <p rend="justify">—  Zău că nu-mi dau bine seama, am spus, şi că de fapt eu însumi sunt ameţit de dificultatea discuţiei. – îmi vine să cred în vechea zicală că „prieten îţi este frumosul”63. Aşa cum este, el se arată a fi ceva neted şi alunecos, care ne scapă şi fuge de noi, datorită naturii lui. Spun deci că este frumos lucrul bun. Sau nu eşti de acord?</p>
+            <p rend="justify">—  Ba da64.</p>
+            <p rend="justify">—  Deocamdată fac prorocirea că prieten cu cel frumos şi bun este lucrul nici-bun-nici-rău. Ascultă ce mă face să profeţesc astfel65. Eu consider că există trei feluri de lucruri: bune, rele şi nici-bune-nici-rele. Tu ce zici?</p>
+            <p rend="justify">—  Ai dreptate.</p>
+            <p rend="justify">—  Că lucrul bun nu e prieten cu cel bun, nici cel rău cu altul rău şi nici cel bun cu cel rău, ne-a dovedit-o discuţia de până acum. Rămâne atunci, dacă admitem că ceva este prieten cu altceva, ca lucrul nici-bun-nici-rău să fie prieten ori cu cel bun, ori cu altul de acelaşi soi cu el. Căci în nici un caz n-ar putea fi prieten cu răul.</p>
+            <p rend="justify">—  Ai dreptate.</p>
+            <p rend="justify">—  Dar nici cu asemănătorul său nu poate fi, aşa cum am stabilit adineauri. Nu-i aşa?</p>
+            <p rend="justify">—  Da.</p>
+            <p rend="justify">—  Deci lucrul nici-bun-nici-rău nu poate fi prieten cu cel care este deopotrivă cu el.</p>
+            <p rend="justify">—  Se pare că nu.</p>
+            <p rend="justify">—  Rămâne ca lucrul nici-bun-nici-rău să fie prieten numai cu lucrul bun.</p>
+            <p rend="justify">—  Aşa trebuie, pare-se.</p>
+            <p rend="justify">—  Oare afirmaţia asta ne va fi o bună călăuză? Dacă am vrea să ne închipuim cum este un trup sănătos, ne-am gândi la unul care n-are nevoie de medicină şi nici de vreun alt ajutor; se înţelege că nici un om sănătos nu este prieten cu medicul în vederea sănătăţii. Ce crezi?</p>
+            <p rend="justify">—  Desigur că nu.</p>
+            <p rend="justify">—  Va fi prieten numai cel bolnav, din cauza bolii.</p>
+            <p rend="justify">—  Cum să nu fie? – însă boala este un rău, iar medicina este folositoare şi bună.</p>
+            <p rend="justify">—  Desigur.</p>
+            <p rend="justify">—  Iar trupul în sine nu este nici-bun-nici-rău. – întocmai. – însă din cauza bolii se vede el silit să îndrăgească şi să iubească medicina.</p>
+            <p rend="justify">—  Aşa cred.</p>
+            <p rend="justify">—  Deci cel nici-bun-nici-rău ajunge prieten cu lucrul bun datorită prezenţei răului.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Este clar că asta se întâmplă mai înainte ca el să fie făcut rău de către răul care-i posedă. Căci odată devenit rău nu ar mai dori binele şi nu i-ar mai fi prieten. Doar am spus că este imposibil ca răul să fie prieten cu lucrul bun.</p>
+            <p rend="justify">—  Imposibil, desigur.</p>
+            <p rend="justify">—  Luaţi acum seama la ce spun. Susţin că unele lucruri sunt şi în sine, aşa cum apar la un moment dat, în timp ce altele nu66. De pildă, dacă cineva vrea să vopsească ceva într-o culoare, pe obiectul vopsit apare culoarea aşternută.</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Oare obiectul astfel vopsit este de culoarea care i s-a aşternut?</p>
+            <p rend="justify">—  Nu pricep, spuse el.</p>
+            <p rend="justify">—  Să luăm un exemplu, am spus eu. Dacă cineva ţi-ar vopsi părul tău cel blond cu cenuşă, el ar fi alb, sau ar părea că este?</p>
+            <p rend="justify">—  Ar părea, spuse el.</p>
+            <p rend="justify">—  Deci culoarea albă ar fi o aparenţă.</p>
+            <p rend="justify">—  Da. – înseamnă că în nici un chip părul nu devine alb şi că, în ciuda culorii albe care apare, el nu este nici alb, nici negru.</p>
+            <p rend="justify">—  Ai dreptate.</p>
+            <p rend="justify">—  Dar atunci când, prietene, bătrâneţea îl va face de acea culoare, atunci părul va fi aşa cum va apărea, căci arătând alb el va fi într-adevăr alb.</p>
+            <p rend="justify">—  Cum de nu?</p>
+            <p rend="justify">—  Tocmai asta te întreb acum, dacă un lucru, de îndată ce capătă o aparenţă, devine în fiinţa sa deopotrivă cu aceasta, ori va fi aşa numai în cazul unei anumite aparenţe, altminteri nu?</p>
+            <p rend="justify">—  Mai degrabă aşa, spuse.</p>
+            <p rend="justify">—  Deci lucrul nici-bun-nici-rău, având uneori răul prezent în el, poate să nu fie încă rău, dar alteori poate să fi devenit astfel. – întocmai.</p>
+            <p rend="justify">—  Prin urmare, când încă nu este rău, dar are răul prezent în el, însăşi această prezenţă îl face să dorească binele. Dar de îndată ce aceasta l-a făcut rău, îl lipseşte de dorinţa şi totodată de prietenia către cel bun. Căci el nu mai este nici-bun-nici-rău, ci rău. Ori răul nu poate fi prieten cu binele.</p>
+            <p rend="justify">—  Nu, bineînţeles.</p>
+            <p rend="justify">—  De aceea putem spune că cei ce sunt deja înţelepţi nu mai sunt iubitori de înţelepciune, fie că sunt zei sau oameni. Dar nu sunt iubitori de înţelepciune nici cei care se află într-o ignoranţă atât de mare încât sunt răi67. Cel rău şi ignorant nu poate fi iubitor de înţelepciune. Rămân cei ce au acest rău, neştiinţa, dar n-au ajuns încă din cauza lui într-atât de obtuzi şi ignoranţi încât să considere că ştiu ceea ce nu ştiu. De aceea sunt iubitori de înţelepciune cei ce sunt încă nici-buni-nici-răi, dar nu o iubesc nici cei răi, nici cei buni. Căci am văzut din discuţia de adineauri că un lucru nu este prieten nici cu contrariul, nici cu asemănătorul său. Sau nu vă amintiţi?</p>
+            <p rend="justify">—  Ba cât se poate de bine, mi-au răspuns amândoi.</p>
+            <p rend="justify">—  Aşa că, o, Lysis şi Menexenos, am spus eu, am descoperit pe deplin ce este şi ce nu este prietenia. Spunem că există prietenie, în privinţa sufletului, a trupului precum şi în toate celelalte privinţe, atunci când cel nici-bun-nici-rău, datorită prezenţei răului, îndrăgeşte pe cel bun. Amândoi au încuviinţat şi au fost întru totul de acord că lucrurile stau întocmai68.</p>
+            <p rend="justify">Eu însumi eram tare bucuros, întocmai ca un vânător mulţumit de prada sa. Dar atunci, nu ştiu de unde, mi-a venit bănuiala cât se poate de absurdă că cele stabilite de noi sunt false69. Şi îndată am grăit cu toată mâhnirea: „Vai, Lysis şi Menexenos, teamă mi-e că ne-am îmbogăţit numai în vis!</p>
+            <p rend="justify">—  Ce s-a întâmplat? mă întreabă Menexenos.</p>
+            <p rend="justify">—  Mă tem, i-am răspuns, că, întocmai ca nişte impostori, ne-am folosit de cuvinte înşelătoare în privinţa prieteniei.</p>
+            <p rend="justify">—  Cum aşa? mă întrebă.</p>
+            <p rend="justify">—  Tocmai asta să vedem, i-am răspuns. Cel care-i prieten, este prieten cu cineva, nu?</p>
+            <p rend="justify">—  Neapărat, spuse el.</p>
+            <p rend="justify">—  Este el prieten fără nici un motiv şi scop, sau în vederea şi din pricina unui anumit lucru?</p>
+            <p rend="justify">—  Ba cu un scop şi dintr-o pricină70.</p>
+            <p rend="justify">—  Oare fiindu-i prieten lucrul în vederea căruia el este prieten cu cel cu care-i prieten, ori nefiindu-i nici prieten, nici duşman?</p>
+            <p rend="justify">—  Nu prea te înţeleg, spuse. – Ε posibil, am zis eu. Să vedem, poate că altminteri ai să mă urmăreşti şi cred că şi eu am să dau mai bine seama de ceea ce spun71. Spuneam mai înainte că bolnavul este prieten cu medicul, nu-i aşa?</p>
+            <p rend="justify">—  Da.</p>
+            <p rend="justify">—  Nu este el prieten cu medicul din cauza bolii şi în vederea sănătăţii?</p>
+            <p rend="justify">—  Ba da.</p>
+            <p rend="justify">—  Iar boala este un rău?</p>
+            <p rend="justify">—  Bineînţeles.</p>
+            <p rend="justify">—  Dar sănătatea? l-am întrebat eu, este ea un bine, un rău, ori niciuna din două? – Ε un bine, răspunse.</p>
+            <p rend="justify">—  Spuneam, deci, mi se pare, că trupul, cel nicibun-nici-rău, din pricina bolii, adică din pricina unui rău, este prieten cu medicina; iar medicina este un lucru bun. Mai spuneam că prietenia medicinei este căutată în vederea sănătăţii şi că sănătatea este un lucru bun. Aşa e?</p>
+            <p rend="justify">—  Desigur.</p>
+            <p rend="justify">—  Sănătatea este ea oare sau nu un prieten?</p>
+            <p rend="justify">—  Este un prieten.</p>
+            <p rend="justify">—  Iar boala este un duşman?</p>
+            <p rend="justify">—  Fără îndoială.</p>
+            <p rend="justify">—  Atunci lucrul nici-bun-nici-rău, din pricina unuia rău şi duşman este prieten cu unul bun, în vederea altui lucru bun şi prieten.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Deci un lucru este prieten cu altul în vederea unui prieten şi din pricina unui duşman.</p>
+            <p rend="justify">—  Se poate72.</p>
+            <p rend="justify">—  Fie, am spus eu. Şi pentru că am ajuns aici, să fim cu băgare de seamă, copii, ca să nu ne înşelăm. Să trecem cu vederea faptul că un prieten a devenit prieten cu prietenul său, că deci cei asemănători ajung prieteni între ei, ceea ce spuneam că este cu neputinţă. Să vedem de nu ne înşelăm cumva în ceea ce am afirmat acum. Medicina, spunem noi, este prietenă în vederea sănătăţii.</p>
+            <p rend="justify">—  Da.</p>
+            <p rend="justify">—  Atunci şi sănătatea ne este prietenă.</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Dacă ne este prietenă, ea ne este în vederea a ceva.</p>
+            <p rend="justify">—  Da.</p>
+            <p rend="justify">—  In vederea unui prieten, dacă ne ţinem de ce am recunoscut mai înainte. – întocmai.</p>
+            <p rend="justify">—  Va fi şi acesta prieten în vederea altui prieten?</p>
+            <p rend="justify">—  Da.</p>
+            <p rend="justify">—  Nu trebuie, oare, să contenim cu mersul nostru mai departe, ori să ajungem la un principiu care să nu mai trimită la altă prietenie, ci care să fie tocmai el, prietenul cel dintâi, în vederea căruia să putem spune că toate celelalte lucruri ne sunt prietene?</p>
+            <p rend="justify">—  Neapărat.</p>
+            <p rend="justify">—  Spun aceasta, pentru ca toate celelalte, de care zicem că sunt prietene în vederea prietenului celui dintâi, să nu ne mai amăgească întocmai unor simulacre ale sale, dat fiind că numai el este cel cu adevărat prieten73. Să ne gândim în felul următor: când cineva pune mare preţ pe un lucru, aşa cum un tată îşi preţuieşte fiul mai mult decât toate celelalte bunuri, nu va pune el preţ şi pe altceva, tocmai pentru că-şi îndrăgeşte fiul mai presus de toate? De pildă, când ar afla că acesta a băut cucută, n-ar pune el mare preţ pe vin dac-ar socoti că vinul îi poate salva fiul?</p>
+            <p rend="justify">—  Cum să nu? spuse.</p>
+            <p rend="justify">—  N-ar pune şi pe vasul în care s-ar afla vinul?</p>
+            <p rend="justify">—  Bineînţeles.</p>
+            <p rend="justify">—  Asta nu înseamnă nicidecum că el pune mai mare preţ pe un vas de lut şi nici pe trei măsuri de vin, decât pe fiul său. Iată ce se petrece: toată strădania nu este depusă pentru cele pregătitoare în vederea unui lucru, ci tocmai pentru acel lucru în vederea căruia se fac asemenea pregătiri. Nu rareori spunem că punem mare preţ pe aur şi pe argint, ceea ce nu înseamnă nicidecum că-i aşa în realitate. Căci lucrul pe care punem cel mai mare preţ se vede a fi tocmai acela în vederea căruia se agonisesc şi aurul şi toate celelalte. Putem vorbi astfel?</p>
+            <p rend="justify">—  Fără îndoială.</p>
+            <p rend="justify">—  Oare nu se poate judeca la fel şi în privinţa prieteniei? ori de câte ori spunem că nişte lucruri ne sunt prietene în vederea altui lucru prieten, exprimăm numai o aparenţă; căci în realitate se întâmplă să ne fie prieten numai acel lucru către care ţintesc toate cele ce reprezintă prietenii.</p>
+            <p rend="justify">—  într-adevăr, aşa se întâmplă.</p>
+            <p rend="justify">—  Deci, ceea ce ne este realmente prieten nu mai poate fi prieten în vederea altui lucru prieten. – într-adevăr.</p>
+            <p rend="justify">—  Atunci trebuie să abandonăm părerea aceasta, pentru ca nu cumva şi el să fie prieten în vederea altui lucru prieten. însă binele ne este prieten?</p>
+            <p rend="justify">—  Sunt de părere că da.</p>
+            <p rend="justify">Înseamnă că binele este îndrăgit din cauza răului, şi atunci lucrurile stau astfel: dacă, aşa cum spuneam adineauri, date fiind cele trei stări, binele, răul şi nici-binelenici-răul, am lua în consideraţie numai primele două, răul rămânând cu totul deoparte şi nemaiafectând nimic, nici trupul, nici sufletul, nici pe celelalte de care spuneam că în sine nu sunt nici-bune-nici-rele, ne-ar mai fi atunci binele de vreun folos, ori ar deveni cu totul inutil? Dacă nimic nu ne-ar mai vătăma şi nu am mai avea nevoie de ajutor în nici o privinţă, ar deveni astfel limpede că îndrăgim şi iubim binele din pricina răului, pentru că binele este un leac împotriva răului, iar răul este o boală. Şi în lipsa bolii, nu avem nevoie de nici un leac. Oare aşa, prin natura sa, este iubit binele din pricina răului, de către noi, care suntem la mijloc între rău şi bine? Căci binele pentru sine însuşi nu are nevoie de nimic.</p>
+            <p rend="justify">—  Se pare, spuse el, că aşa este.</p>
+            <p rend="justify">—  Prin urmare ne este prieten acel lucru către care tind toate celelalte – despre care am afirmat că sunt prietene în vederea altui prieten – fără ca acesta să le fie asemănător. Dat fiind că acestea au în vedere un prieten, ele se numesc prietene, când în realitate prieten pare să fie tocmai contrariul; doar am văzut că prietenul există în vederea duşmanului74. Ori dacă duşmanul ar dispărea, se pare că nici prieten nu am mai avea.</p>
+            <p rend="justify">—  După câte afirmăm, nici eu nu cred că am mai avea.</p>
+            <p rend="justify">—  Pe Zeus, am spus, dar dacă răul ar dispărea, n-ar mai exista foamea, setea şi celelalte? Ori foame va fi cât vor dăinui oamenii şi celelalte vieţuitoare, însă fără să le fie vătămătoare? La fel, setea şi celelalte dorinţe, ce nu sunt rele, vor mai exista ele după dispariţia răului? Ori este ridicol să te întrebi ce va exista atunci şi ce nu va mai exista? Cine-ar putea să ştie? Deocamdată asta ştim, că acum foamea poate fi vătămătoare dar poate fi şi folositoare. Nu-i aşa?75.</p>
+            <p rend="justify">—  Fără îndoială.</p>
+            <p rend="justify">—  Deci, a fi însetat şi a avea toate dorinţele de acest fel este când dăunător, când folositor, când niciuna, nici alta.</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Iar când dispar lucrurile rele, trebuie oare să dispară laolaltă cu ele şi cele ce prin natura lor nu sunt nici-bune-nici-rele?</p>
+            <p rend="justify">—  Nicidecum.</p>
+            <p rend="justify">—  Aşadar, dorinţele, care nu sunt nici-bunenici-rele, vor dăinui chiar dacă dispar lucrurile rele.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Este oare posibil ca cel ce iubeşte şi doreşte ceva să nu fie şi prieten al lucrului pe care-l doreşte şi iubeşte?76.</p>
+            <p rend="justify">—  Nu cred că se poate.</p>
+            <p rend="justify">—  Se pare deci că există lucruri prietene chiar şi după dispariţia relelor.</p>
+            <p rend="justify">—  Da.</p>
+            <p rend="justify">—  însă dacă răul ar fi pricina existenţei prieteniei, odată cu dispariţia sa nu s-ar mai putea ca un lucru să fie prieten cu altul. Deoarece ar fi imposibil ca după dispariţia pricinei să mai existe lucrul care a rezultat din aceasta.</p>
+            <p rend="justify">—  Ai dreptate.</p>
+            <p rend="justify">—  Dar noi recunoscusem că prietenia se iveşte când îndrăgeşti ceva dintr-o anumită pricină. Şi nu socoteam noi că din pricina răului, lucrul nici-bun-nici-rău este prieten cu cel bun? – întocmai.</p>
+            <p rend="justify">—  Ori acum, pare-se, din altă pricină eşti prieten cu cineva, ori cineva îţi este prieten.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Nu cumva, aşa cum tocmai spuneam, dorinţa este, de fapt, pricina prieteniei, iar cel ce doreşte este prieten cu cel pe care-I doreşte, atunci când îl doreşte? Aşa că tot ce discutam mai înainte despre prietenie era o sporovăială, însăilată ca un lung poem77.</p>
+            <p rend="justify">—  Tot ce se poate, spuse.</p>
+            <p rend="justify">—  Numai că, am spus eu, doritorul doreşte lucrul de care-i lipsit. Nu-i aşa?</p>
+            <p rend="justify">—  Aşa este.</p>
+            <p rend="justify">—  Deci cel aflat în lipsă este prieten cu lucrul care-i lipseşte?</p>
+            <p rend="justify">—  Aşa cred.</p>
+            <p rend="justify">—  Şi duce lipsa lucrului care-i este luat.</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Se pare, atunci, că dragostea, prietenia şi dorinţa au în vedere un lucru care ne este apropiat78, după cum se vede, o, Lysis şi Menexenos.</p>
+            <p rend="justify">—  Au fost de acord.</p>
+            <p rend="justify">—  Deci, voi care sunteţi prieteni între voi prin natură sunteţi apropiaţi unul de celălalt.</p>
+            <p rend="justify">—  Cu siguranţă, au răspuns.</p>
+            <p rend="justify">—  Deci, copii, dacă cineva doreşte pe un altul, sau îl iubeşte, nu-l poate dori, nici iubi, nici nu-i poate fi prieten fără să-i fie, într-un fel sau altul, apropiat: fie prin sufletul său, fie prin vreo înclinaţie sufletească, prin obiceiurile sau prin chipul său.</p>
+            <p rend="justify">—  De bună seamă, spuse Menexenos, în timp ce Lysis tăcea.</p>
+            <p rend="justify">—  Bine, am spus. Iar ceea ce ne este apropiat prin natură, se pare că trebuie să ne fie şi prieten.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Trebuie, deci, ca iubitorul cel sincer şi neprefăcut să fie îndrăgit de către iubit.</p>
+            <p rend="justify">Lysis şi Menexenos abia dac-au încuviinţat, în timp ce Hippothales, de plăcere, schimba feţe-feţe.</p>
+            <p rend="justify">Dar eu, vrând să mai cercetez această idee, am spus:</p>
+            <p rend="justify">—  Dacă apropiatul diferă de asemănător, cred că am putea, o, Lysis şi Menexenos, să definim şi prietenia. Dar dacă se întâmplă ca apropiatul să fie identic cu asemănătorul, nu ne va fi uşor să respingem opinia dinainte, că asemănătorul nu-i este de folos asemănătorului său din pricina asemănării. Căci este absurd să consideri că nefolositorul îţi este prieten. Vreţi, deci, dat fiind că suntem ca şi îmbătaţi de discuţie, să admitem şi să afirmăm că apropiatul este altceva decât asemănătorul?79.</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Vom putea susţine, atunci, că binele ne este îndeobşte apropiat, în timp ce răul ne este străin? Ori că răul este apropiat răului, binele celui bun, şi că cel nici-bun-nicirău este apropiat de cel nici-bun-nici-rău?80.</p>
+            <p rend="justify">—  Ei încuviinţară că fiecăruia îi este apropiat cel de acelaşi fel cu el. Ne-am întors, deci, copii, iarăşi la părerea pe care mai întâi o respingeam, din moment ce nedreptul poate fi prieten cu cel nedrept şi răul cu cel rău, tot aşa cum binele este prieten cu cel bun.</p>
+            <p rend="justify">—  Aşa se pare.</p>
+            <p rend="justify">—  Dar cum aşa? Dacă spunem că binele şi apropiatul sunt identice, asta înseamnă altceva decât că binele este prieten numai cu cel bun?</p>
+            <p rend="justify">—  De bună seamă.</p>
+            <p rend="justify">—  Şi noi care credeam că trebuie să combatem tocmai această idee?! Sau nu vă amintiţi?</p>
+            <p rend="justify">—  Ne amintim81.</p>
+            <p rend="justify">—  Mai putem aduce ceva în discuţie? Ori e limpede că nimic? Trebuie, prin urmare, întocmai ca maeştrii tribunalelor, să reluăm toate cele afirmate. Iar dacă nici cei iubiţi, nici cei iubitori, nici asemănătorii, nici neasemănătorii, nici cei buni, nici cei apropiaţi, nici toate celelalte cazuri câte le-am cercetat – pe care, de fapt, nu mi le mai amintesc, atât au fost de multe – dacă niciunul, deci, dintre ei nu poate fi prieten, cu nu mai ştiu ce să zic.</p>
+            <p rend="justify">in timp ce spuneam acestea, aveam de gând să provoc la discuţie pe careva dintre cei mai vârstnici. Dar atunci, ca nişte demoni, se iviră pedagogii, cel al lui Menexenos şi cel al lui Lysis, împreună cu fraţii acestora, şi le porunciră să meargă acasă82. Căci se făcuse târziu. La început, noi şi cei din jur am încercat să-i îndepărtăm. Cum însă nu le păsa de noi şi continuau să-i cheme, bolborosind furioşi, şi, cum ne-am dat seama că băuseră în cinstea lui Hermes, astfel că nu se putea trata cu ei, ne-am lăsat păgubaşi şi am pus capăt adunării. La plecare le-am mai spus totuşi: – „O, Lysis şi Menexenos, ne-am făcut acum de râs, atât eu, om bătrân, cât şi voi. Cei de faţă, plecând, or să spună că deşi ne socotim prieteni unii cu ceilalţi, căci eu mă pun în rând cu voi, n-am fost în stare în nici un chip să descoperim ce este prietenia”.</p>
+            <div type="div2">
+               <head>Note</head>
+               <p rend="justify">Preambul. în suita aproximativă a operelor platoniciene Lysis ocupă un loc destul de incert şi controversat de către comentatorii moderni. Aceasta întrucât se remarcă o neconcordanţă între factura compoziţională a dialogului şi orientarea speculativă ce-i este specifică, în acest sens, Lysis are afinităţi structurale cu dialogurile socratice, fiind ca şi Ion, Lahes, Charmides, cei doi Hippias, un dialog de tip protreptic al cărui demers inductiv conclude provizoriu şi aparent în mod negativ. Şi în Lysis întâlnim aceleaşi turnuri ale spiritului retoric ca şi în celelalte dialoguri, în care există încă multe afinităţi cu tipul de argumentare sofistică, de pildă, investigaţia eristică, ce induce paradoxul şi negarea premiselor, referinţa la texte poetice citate ca autoritare puncte de plecare pentru noi demersuri, interlocuţiunea cu parteneri succesivi etc. Din toate aceste motive Lysis este aşezat printre dialogurile de tinereţe de către unii învăţaţi ca Alfred Croiset. Pe de altă parte, în investigaţia asupra corelatelor prieteniei demersul inductiv ajunge să circumscrie termeni ontologici fără să se oprească în mod definitoriu asupra lor, constituind însă un preludiu pentru maieutica unor dialoguri de maturitate, ca Banchetul şi Phaidros. Pentru acest motiv P. Friedlander consideră că Lysis este un satelit al Banchetului, aşezându-l în cronologia operei platoniciene între Phaidros şi Banchetul.</p>
+               <p rend="justify">Din punct de vedere literar, Lysis, ca şi Charmides, presupune un cadru mediator, anume naraţiunea lui Socrate către un auditor implicit. Pe canavaua acestei relatări se brodează succesivele interlocuţii ale lui Socrate cu celelalte personaje ale dialogului, la care naratorul Socrate se referă prin reflexii psihologice sau prin explicitări şi detalii privind timpul şi spaţiul acţiunii relatate. Acest procedeu, dealtminteri neuzitat In celelalte dialoguri, cu excepţia lui Charmides, face ca în Lysis elementele de cadru epic şi descriptiv (spaţiul, evoluţia caracterelor) să capete o pondere considerabilă. Condiţionat în bună măsură de aceste elemente, distingem mai întâi preambulul (de la 203 a-206 e) ce se petrece în afara Atenei, la intrarea unei palestre. Socrate, trecând prin dreptul acesteia, în drum, de la o palestră la alta, este oprit de câţiva tineri ce-i erau bine cunoscuţi. în controversa care se iscă imediat cu privire la sentimentele lui Hippothales faţă de Lysis, Socrate este luat ca arbitru şi invitat să intre în palestră. Urmează (între 206 d-207 c) o descriere expresivă şi succintă a reperelor privind scena în care se va petrece dezbaterea socratică. Astfel se succed, în ordinea firească oricărei naraţii, intrarea lui Socrate şi a grupului de tineri în palestră, înregistrarea prezenţei copiilor şi efebilor îmbrăcaţi în haine de sărbătoare în cinstea lui Hermes, îndeletnicirile oţioase ale copiilor şi, în sfârşit, identificarea, am zice epifania, lui Lysis. în acest moment am căpătat cunoştinţă de toate personajele dialogului, a căror atentă conturare psihologică şi intelectuală este urmărită în tot cursul dialogului, atât prin notaţiile marginale cât mai ales prin replicile interlocuţiei. Cu toţii par să fie personaje autentice, existente în Alena lui Socrate într-o perioadă ce nu se poate stabili cu rigoare. Cu toţii pot, fi consideraţi martori şi discipoli al învăţăturii socratice. Lysis, centrul de interes în dialog, fiind încă un copil, uimeşte prin frumuseţea şi graţia sa fizică şi sufletească, dar nu mai revine ca personaj în alte dialoguri. Hippothales, menţionat ca discipol al lui Socrate de Diogenes Laertios (Vieţile filosofilor, III, 46), este un efeb, format intelectual după maniera tradiţională, persiflată de Socrate; Ctesip este prezent împreună cu vărul său Menexenos la ultimele clipe ale lui Socrate, în Phaidon, în timp ce lui Menexenos îi este consacrat un dialog sui-generis, în care Socrate face elogiul Atenei.</p>
+               <p rend="justify">S-ar putea stabili în economia dialogului o anumită intenţionalitate de marcare a personajelor în funcţie de tezele ce li se atribuie şi de felul reacţiilor lor. Se poate vorbi, astfel, de pindarismul lui Hippothales, de eleatismul lui Lysis, ce conotează şi o anumită inocenţă şi spontaneitate sufletească, faţă de care Socrate-Platon manifestă o vădită congenialitate. Tot astfel se poate vorbi despre heraclitismul lui Menexenos şi Ctesip, personaje de tip reflexiv.</p>
+               <p rend="justify">Într-adevăr, fiecare din etapele dialogului se poate demarca în funcţie de participarea succesivă a câte două din personajele amintite. Astfel, în preambul, Hippothales şi Ctesip se întreţin alternativ cu Socrate, în timp ce dezbaterea propriu-zisă este constituită exclusiv din dialogul alternativ al lui Socrate cu cei doi copii, Lysis şi Menexenos. Fiecare etapă a dialogului ce comportă o structură recurentă (expunerea tezei, explicitarea şi argumentarea, apoi contra-argumentarea şi refutaţia) are ca actanţi, variabili în mod alternativ, pe unul din cei doi copii. Se poate observa cum şi tezele prezentate sunt congruente cu spiritul respectivului interlocutor al lui Socrate. Astfel, discuţia iniţială despre condiţiile prieteniei (între 207 d – 211 a) este purtată împreună cu Lysis. Urmează un scurt intermezzo, în care Lysis se întrece pe sine în graţie şi afabilitate iar Socrate se străduieşte să-i răspundă spiritual şi îndatoritor. Apoi, odată cu revenirea lui Menexenos, discuţia ce se poartă cu el se axează asupra definirii termenilor prieteniei (211 d-213 d), până ce se iese din impas prin revenirea lui Lysis ca interlocutor şi stabilirea unei reiaţii eleatice între prietenie şi asemănare (214 a —215 c). Se iese apoi din noul impas odată cu revenirea lui Menexenos, cel apt pentru subtilităţi dialectice. Se cercetează mai întâi relaţia de tip heraclitian între prietenie şi contrarietate (215 c – 218 c), pentru ca de aici înainte Socrate să formuleze mai mult către sine o serie de exigenţe ce induc aporii succesive, privind medietatea relaţiei de prietenie (218 c —220 e), soluţia utilizării termenului οικείος, culminând cu impasul şi confuzia finală. In aceste aporii şi iluminări consecutive, nici Menexenos, şi cu atât mai puţin Lysis, nu urmăresc cu uşurinţă logica argumentaţiei lui Socrate, ce iese, de fapt, din cadrul structural iniţial propus, evoluând gradual către postulările de tip ideatic. Socrate însuşi pare derutat de ceea ce rezultă din maieutica sa, încercând să fie solidar cu tinerii săi interlocutori. Potrivit acestei noi turnuri a dezbaterii se modifică în paragrafele finale (de la 218 c înainte) şi datele structurale ale dialogului: elementele de cadru se estompează, atenţia cea mai mare se îndreaptă asupra zadarnicelor tribulaţii speculative ale personajului Socrate ce încearcă să iasă dintr-un impas crescând. Totul se curmă însă, în mod cvasi-dramatic, prin intervenţia ex-machina a pedagogilor care, nevrând să ştie de nimic, pun capăt discuţiei tocmai când Socrate se gândea să reîmprospăteze discuţia făcând apel la interlocutori mai maturi, adică la premise mai solide. Acest lucru se va petrece în Banchetul, justificându-se astfel rolul dc satelit ce i se atribuie lui Lysis pe lângă marele dialog ce-l complineşte şi-l supradetermină în mod evident.</p>
+            </div>
+            <div type="div2">
+               <head>Note de subsol</head>
+               <p>1</p>
+               <p rend="justify">2 </p>
+               <p rend="justify">3 </p>
+               <p rend="justify">4 </p>
+               <p rend="justify">5 </p>
+               <p rend="justify">6  Pasajul oferă o anticipare a discuţiei despre Eros din Banchetul, Vorbind despre „harul” său (τοϋτο. έκ θεοϋ δέδοται), Socrate îşi limitează în mod ironic competenţa, îndrumând discuţia către relaţia de prietenie.</p>
+               <p rend="justify">7  în original: ποιήματα. καΐ συγγράμματα, cu referire atât la genul tradiţional al elogiilor în versuri, cât şi la noul gen al encomiilor în proză, inovat de retorica sofistică, în special ilustrat de Gorgias. Termenul de έγκώμιον apare mai jos la 205 d.</p>
+               <p rend="justify">8  Este pentru a patra oară că se menţionează înroşirea lui Hippothales. Tot ceea ce se mai observă privitor la firea personajului dovedeşte interesul lui Platon pentru o atentă conturare psihologică a personajelor. Hippothales este o fire avântată şi romanţioasă care se îndrăgosteşte de un alt emotiv, de Lysis.</p>
+               <p rend="justify">9  Termenii folosiţi în text (ληρεΐ τε καΐ μαίνεται) definesc starea dionisiacă în care se poate afla un artist în proces de inspiraţie. Hippothales are în acelaşi timp susceptibilitatea artistului şi a îndrăgostitului.</p>
+               <p rend="justify">10 Socrate este interesat de (dianoia) gândul lui Hippothales, mai precis de felul cum acesta se traduce în comportamentul său faţă de Lysis. Mai puţin îl interesează expresia acestui gând (lexis) în forma poeziei. Dianoia este un concept-cheie în estetica şi în psihologia platoniciană şi aristotelică (cf. R, 395 d; Ti., 88 a; Poetica, 6 etc.).</p>
+               <p rend="justify">11 Textual, κρονικώτερα, ceea ce ar însemna „chiar din timpul lui Cronos”.</p>
+               <p rend="justify">12 Este redat în acest pasaj tiparul consacrat al unei ode encomiastice scrise pentru învingătorii la jocurile elenice, de felul compoziţiilor lui Pindar, Stesihor ori Bacchylides. Se evoca felul întrecerii, genealogia eroului şi mitul care constituia nucleul compoziţiei. Este evident în această evocare tonul de zeflemea căruia i se va conforma şi Socrate, referindu-se, un rând mai jos, la encomionul în cinstea victoriei în spe asupra lui Lysis. Poezia anacreontică ne familiarizează cu această asimilare a jocului erotic cu cel sportiv.</p>
+               <p rend="justify">13 în text, ποιείν şi αδειν se pot referi fie la diferenţa de gen dintre proză şi versuri lirice, fie la succesiunea compoziţie-interpretare a producţiei poetice. Mai jos, la 205 e, am tradus λεχθέντα καΐ άσθέντα prin „recitări şi cântece”.</p>
+               <p rend="justify">14 Textual: καλών τε κάγαθών, expresie generică pentru o valoare etic-estetică.</p>
+               <p rend="justify">15 Textual: σοφός τα ερωτικά —, învăţat şi priceput în cele ale dragostei – indică presupoziţia de caracter empiric ce se cere verificată şi filosofic în cursul dialecticii discuţiei.</p>
+               <p rend="justify">16 Metafora de tip anacreontic comentată mai sus apare şi în această asimilare a seducţiei cu vânătoarea.</p>
+               <p rend="justify">17 Acest tip de raportare pragmatică este totdeauna prezent ca un criteriu axiologic în dezbaterea socraticilor, la Xenofon, Platon, Antistene, Aristip etc.</p>
+               <p rend="justify">18 Astfel Hippothales ajunge să-l solicite el însuşi pe Socrate în termeni similari adresării de mai înainte a filosofului, de la 205 a, către Hippothales, în acel moment recalcitrant.</p>
+               <p rend="justify">19 Se subliniază o dată mai mult superioritatea dialecticii (διαλέγεσθαι) asupra reprezentării artistice (λέγειν, αδεΐν), ca mijloc de persuasiune.</p>
+               <p rend="justify">20 Sărbătorile lui Hermes, în original „Hermaia”, în cinstea zeuluipatron al jocurilor gimnice şi al palestrelor. Este bine marcată în cursul dialogului diferenţa de vârstă şi de regim dintre copii (între 12 —14 ani) şi adolescenţi (între 14-18 ani). Ctesip şi Hippothales sunt în preajma vârstei de 18 ani dinaintea efebiei.</p>
+               <p rend="justify">21 Grupul „jucătorilor de arşice” a fost imortalizat de Policlet într-o celebră piesă statuară, Astragalizontes, citată de Pliniu printre operele de artă adunate în palatul imperial al lui Titus (Istoria Naturală, XXXVI, 4).</p>
+               <p rend="justify">22 Textual: καλός τε κάγαθός. Apariţia lui Lysis este o culminantă, în vestibulul palestrei aflăm antecedente şi referinţe directe asupra sa, iar în palestră, când Socrate trece în revistă grupurile de tineri îl identifică imediat graţie aureolei atât de vizibile a kalokagathiei ce-l pune mai presus de ceilalţi. Este poate una dintre cele mai plenare epifanii ale graţiei şi armoniei fizice şi spirituale din cultura literară antică, congenială celebrelor reprezentări plastice fidiace şi policletice. Este anticipat orie, în acelaşi timp, pentru o neuitată reprezentare a efebului, cum este cea din Moartea la Veneţia a lui Thomas Mann.</p>
+               <p rend="justify">23 Abia acum, după o apreciabilă retardaţie, se constituie cadrul scenic pentru discuţia dialectică ce va urma, în vestiarul palestrei. Vor evolua Socrate, Menexenos, Lysis şi Ctesip, în timp ce Hippothales va rămâne tăcut şi ascuns după ceilalţi privitori anonimi, participând însă afectiv la cele ce se discutau. Intrarea sau ieşirea câte unui personaj (Menexenos) punctează etape ale dialogului iar în final năvala pedagogilor pune capăt discuţiei.</p>
+               <p rend="justify">24 Ar putea fi o referinţă la norma societăţilor pitagoreice cunoscute de Platon în Sudul Italiei.</p>
+               <p rend="justify">25 Pedotribul exercita, pe lângă funcţia de maestru de gimnastică, rolul de organizator de festivităţi, de medic chiar. Reproducerea acestor incidenţe, plecarea, apoi revenirea lui Menexenos, fac ca povestirea lui Socrate să se apropie cât mai mult de firescul situaţiei.</p>
+               <p rend="justify">26 în antichitate, pedagogul (etimologic paidagogos – cel ce conduce copii), era un sclav, de cele mai multe ori barbar, care-i supraveghea şi-i însoţea pretutindeni pe copiii de oameni liberi, precum nişte dădace bărbăteşti.</p>
+               <p rend="justify">27 Instrucţia în litere şi în muzică, alături de gimnică, constituiau trivium-ul educaţiei copiilor atenieni.</p>
+               <p rend="justify">28 A fi medic la curtea Marelui Rege al Persiei nu este numai o presupoziţie retorică, întrucât istoricul Ctesias din Cnidos a avut această funcţie în contemporaneitatea lui Platon.</p>
+               <p rend="justify">29 în această discuţie, Socrate îl aduce pe Lysis la recunoaşterea uneia din tezele „iluministe” cele mai importante ale epocii, susţinute de către sofişti îndeobşte, cu privire la îndreptăţirea cunoaşterii şi a priceperii empirice, de a fi atotputernice în viaţa publică şi în cea privată. Vârsta, ori poziţia socială sau familială nu generează de la sine şi capacitatea profesională sau cetăţenească. Consecinţele unei atare teze sunt deformate tendenţios în Norii lui Aristofan. Am redat cu predilecţie prin „pricepere” şi „a se pricepe”, termenii originali φρόνησις, επιστήμη (209 c 6, 209 d 2, 209 c 2, 210 a 4).</p>
+               <p rend="justify">30 Este încă o subliniere a tezei „iluministe” de mai sus: cunoaşterea şi capacitatea profesională sunt: criterii ale libertăţii şi importanţei sociale, mai presus de apartenenţa de clasă. în funcţie de această φρνόησις, omul este liber (ελεύθερος) sau aservit (υπήκοος) social.</p>
+               <p rend="justify">31 Termenul original, φιλέω, conciliază în greacă două sensuri ce sunt destul de bine delimitabile în română: „a fi cuiva prieten” şi „a iubi, a îndrăgi pe cineva”. Dacă în această frază φιλέω comportă ambiguitate semantică, mai jos cu un rând el nu se poate traduce decât prin a iubi, fiind vorba de sentimentele tatălui faţă de fiu.</p>
+               <p rend="justify">32 Conceptul prieteniei este acum enunţat în formularea sa specific elenică, ca o relaţie utilitară, ceea ce nu se pierde nici un moment din vedere în cursul investigaţiei dialectice.</p>
+               <p rend="justify">33 în original este un joc de cuvinte, de fapt o diafora, între verbul φρονεϊν – „a se pricepe”, în acest context, şi μεγα φρονεϊν – „a se făli, a se grozăvi”. Ceea ce nu se poate reda mulţumitor în traducere.</p>
+               <p rend="justify">34 în text aceeaşi figură de stil între μεγαλόφρων şi άφρων – orgolios, trufaş şi lipsit de minte.</p>
+               <p rend="justify">35 în interludiul cuprins între 210 e —211 a, naraţia se împleteşte cu monologul interior ce comportă preţioase valenţe psihologice. Iese astfel mai bine în relief rolul exemplar al lui Socrate de dascăl spiritual, în raport cu nereuşita lui Hippothales care devine acum ucenicul lui Socrate.</p>
+               <p rend="justify">36 Este o mărturie mişcătoare a afecţiunii ce şi-o poartă cei doi copii, revelând lui Socrate o dimensiune inedită a prieteniei pe care va încerca să o definească mai departe.</p>
+               <p rend="justify">37 în text εριστικός, de unde termenul de eristică – arta de a discuta în contradictoriu iniţiată de sofiştii contemporani cu Socrate. Metoda eristică a avut multă trecere în cultura antichităţii. Dialecticienii şcolii din Megara, tributari lui Socrate, au perfecţionat o metodă căreia i se conforma dealtminteri Socrate însuşi. Renunţând la inducţia socratică, ei au absolutizat controversa, argumentând în felul lui Zenon eleatul, şi au redus la absurd concluziile privind teza negată. Discuţia care urmează cu Menexenos are un caracter eristic întrucât propune în mod succesiv teze asupra philia-ei pe care le reduce în mod sistematic la aporii.</p>
+               <p rend="justify">38 Este o evidentă simulare ironică a slăbiciunii şi temerii lui Socrate faţă de adversarii reali sau presupuşi, exprimată şi în alte rânduri în cursul dialogului, în preambul, şi mai departe chiar.</p>
+               <p rend="justify">39 Aceeaşi expresie – μεταδίδωμι των λόγων – a fost folosită la începutul dialogului (201 a 2), când Socrate era invitat în aceşti termeni să ia parte la discuţia tinerilor din palestră. în genere, Socrate nu discuta într-un cadru restrâns, bucurându-se să aibă un auditoriu cât mai larg. Deşi interpela de obicei câte un singur interlocutor, nu se temea de schimbarea acestuia aşa cum se vede şi din pasajul de faţă, când schimbă pe Lysis cu Menexenos, pentru ca mai târziu să-l reia pe cel dintâi iar la sfârşit se gândeşte să se adreseze şi altora „mai maturi” pentru a încheia cu bine discuţia (223 a).</p>
+               <p rend="justify">40 începutul discuţiei cu un nou interlocutor comportă un anumit protocol, care este în întregime redat în acest pasaj. Momentul întrebării ce demarează discuţia este anunţat de trei ori până să fie în sfârşit actualizat.</p>
+               <p rend="justify">41 Pentru a evidenţia preţul prieteniei se uzează de un climax retoric al valorilor comune cu al cărui termen culminant prietenia nu se poate totuşi compara.</p>
+               <p rend="justify">42 Afirmaţia contrazice flagrant, în aparenţă, atitudinea de la început (204 e, 205 a) a Iui Socrate faţă de Hippothales, când se erijase în cunoscător şi inspirat. Se poate presupune implicarea acelei disimulări ironice specifice, dar se poate da şi altă explicaţie. Menexenos şi Lysis înseamnă un alt referenţial decât Hippothales şi sunt ca atare abordaţi cu toată prudenţa de către Socrate ce procedează ca şi în alte părţi, disimulându-şi ştiinţa în neştiinţă şi improvizaţie spontană.</p>
+               <p rend="justify">43 Din acest pasaj se poate desluşi relaţia binară pe care o comportă termenul de prieten – φίλος, îndată ce devine predicatul unei stări active; ca participiu activ ο φιλών, sau ca participiu pasiv ό φιλούμενος corespunde denotaţiei celor două sensuri ale relaţiei de prietenie, activă sau pasivă. Potrivit distincţiei pe care o făceam Ia nota 31, asupra contextualităţii semantice a termenului, vom reda ό φιλών prin „cel ce poartă prietenie cuiva, cel ce iubeşte pe cineva”, iar ό φιλούμενος, prin „cel căruia i se poartă prietenie, cel ce este iubit de cineva”. Această ambiguitate se rezolvă univoc îndată ce termenul φιλεΐν este pus în relaţie antinomică cu μισεϊν care înseamnă exclusiv „a detesta”, aşa cum se va întâmpla de pildă la 212 b.</p>
+               <p rend="justify">44 Limba greacă denumeşte pe iubitor – έραστής şi pe cel iubit – τά παιδικά.</p>
+               <p rend="justify">45 Omologarea prieteniei dintre oameni, pe de o parte cu opţiunea către obiecte sau valori morale şi sociale, pe de altă parte cu atracţia dintre obiecte şi fenomene naturale (cf. 215 e), este un sofism semantic. Graţie acestei extinderi a sensului, Socrate va induce o contradicţie între termenii relaţiei de prietenie la 213 b. Ceea ce nu împiedică, în tot cursul dialogului, până la 220 e, ca discuţia să se poarte pe plan antropologic, fizic sau cosmologic, folosindu-se aceeaşi accepţie ontologică a termenului de φιλία.</p>
+               <p rend="justify">46 în această enumerare progresivă lexicul grec permite compunerea firească a lui φίλος cu fiecare din termeni. Astfel, φίλιπποι, φιλόκυνές, φίλοινοι, φιλογυμνασταΐ, φιλόσοφοι sunt bine atestaţi: numai φιλόρτυγες (iubitori de prepeliţe) este forjat de Platon prin analogie cu celelalte.</p>
+               <p rend="justify">47 Citatul pare a fi din Solon. Aceasta este prima invocare a mărturiei poeţilor menită să dea un nou curs argumentării, folosind un procedeu favorit al sofiştilor.</p>
+               <p rend="justify">48 Socrate conclude negativ asupra aporiei ce rezultă din cele trei încercări de a defini prietenia în funcţie de stare (activă, pasivă sau ambivalenţă), pregătind astfel spiritele pentru o nouă modalitate de abordare.</p>
+               <p rend="justify">49 împreună cu un nou interlocutor Socrate va încerca o nouă modalitate de abordare care să corespundă temperamentului şi interesului acestuia. Nu va mai fi o dezbatere eristică, de vreme ce Lysis nu este un εριστικός, ca prietenul său Menexenos, ci un φιλόσοφος, îndrăgind speculaţia asupra înţelepciunii. Ca atare, va fi interlocutorul potrivit pentru a încerca o determinare a esenţei prieteniei, premergând, după cum vom vedea, doctrinei ideilor din dialogurile de maturitate, Banchetul în primul rând. Lysis, ca şi Socrate, face parte dintre cei ce „iubesc filosofia, chiar dacă aceasta nu le răspunde dragostei lor” (212 e).</p>
+               <p rend="justify">50 Autoritatea poeţilor este acum invocată în toate consecinţele, într-o formulare menită să devină un topos cultural de mare importanţă, ilustrat, după mai bine de un mileniu, de reprezentarea lui Vergiliu în Infernul dantesc. Poetul cel mai mare este şi depozitarul prin excelenţă al înţelepciunii în a cărui carte se află răspuns la toate îndoielile care frământă cugetul omenesc.</p>
+               <p rend="justify">51 Vers din Odiseea, XVII, 218. Trebuie remarcat că Platon îşi va revizui radical părerea despre poeţi, condamnând în Republica (598 d – 601 b) pe Homer şi pe Hesiod din punctul de vedere al pedagogiei şi al eticii.</p>
+               <p rend="justify">52 Socrate pare să se refere la Empedocle sau la Parmenide. A se vedea un comentariu asupra acestei chestiuni în ediţia iui Lysis îngrijită de C. Noica, pp. 74-76. în ceea ce priveşte corespondentul grec pentru „asemănător” sunt de observat următoarele: „Ομοιος, ce se traduce îndeobşte prin „asemănător”, semblable, gleicher, în elenă comportă de fapt o fluctuaţie destul de derutantă între „similitudine” şi „identitate” ori „natură comună”, tinzând să se confunde cu όμός, „identic”. Această fluctuantă a stat dealtminteri la baza faimoasei dispute dogmatice din evul mediu timpuriu între όμοιο-ούσία şi όμο-ούσία membrilor trinităţii creştine. In limba română „asemănător” dovedeşte mai multă elasticitate semantică decât „deopotrivă” sau „similar”.</p>
+               <p rend="justify">53 Ideea nesociabilităţii şi dezbinării celor vicioşi este reluată de Platou în R., 351 e-352 b.</p>
+               <p rend="justify">53 Teza este pusă la probă de către argumentul utilităţii, ea mai sus la 210 c, însă cu consecinţe mult mai importante.</p>
+               <p rend="justify">54 Pasajul prezintă dificultăţi de traducere mai cu seamă datorită anacolutului care marchează ultima propoziţie a frazei. Sensul este însă destul de clar: nimeni nu poate datora împlinirea sa, fie în sens activ – dobândirea unui bine sau a unui rău —, fie în sens pasiv – încercarea unei stări sufleteşti, sentimentale – celui ce este asemănător cu el, deci având aceleaşi disponibilităţi şi apetenţe.</p>
+               <p rend="justify">56 Termenul άγαπων are în greacă un sens primar – „a îndrăgi pe cineva”, sinonim cu φιλεΐν, şi un al doilea sens, care corespunde conotaţiei utilitariste inerente noţiunii de prietenie, a fi satisfăcut, a fi mulţumit de cineva.</p>
+               <p rend="justify">57 Doar zeii sunt cei care au acest atribut al autosuficienţei. O argumentare asemănătoare foloseşte Epicur pentru a susţine ideea indiferenţei zeilor faţă de existenţa muritorilor.</p>
+               <p rend="justify">58 Citatul provine din Hesiod, Munci şi zile, v. 25. încă o dată, de data aceasta în modul cel mai clar, Platon foloseşte artificiul citării unei maxime acreditate de un text poetic pentru a atenua trecerea bruscă la o poziţie antitetică: predicatul prieteniei este neasemănarea.</p>
+               <p rend="justify">59 După cum se vede, referinţa priveşte tezele dialectice heraclitiene, la care Platon face acum apel pentru a contracara parmenidismul tezei anterioare.</p>
+               <p rend="justify">60 Menexenos îşi reia rolul de interlocutor pe care-l va juca până ia sfârşitul dialogului, fiind cel mai potrivit pentru subtilităţile care urmează.</p>
+               <p rend="justify">61 In original: πάσσοφοι. άντιλοικοί – „preaînvăţaţi” este ironic folosit. Se referă la sofiştii retoricieni ce au inaugurat antilogiile, discursuri-tip, în care se formulează teze contradictorii asupra aceluiaşi obiect. De obicei o teză paradoxală este în competiţie cu poziţia bunuluisimţ, care se lasă biruit de argumentele specioase ale celei dintâi. Protagoras este iniţiatorul antilogiilor.</p>
+               <p rend="justify">62 Contrarietatea (εναντίωσις), graţie fol:)sirii tezei heraclitiene considerată condiţie a relaţiei de prietenie, este o poziţie dialectică deplin câştigată. Rămâne numai să se stabilească măsura contrarietăţii ce este pertinentă cu prietenia.</p>
+               <p rend="justify">63 Este un nou recurs la o autoritate exterioară, de data aceasta un proverb. Nu trebuie să ne inducă în eroare aparenţa de sinceritate a lui Sacrale. Este un artificiu psihologic obişnuit ce mediază o tranziţie neaşteptată, dar logică, graţie căreia interlocutorul capătă impresia că cercetează împreună cu Socrate, aflându-se deopotrivă în stare de perplexitate. Aceasta s-ar datora constatării că prietenia este o relaţie între entităţi de natură diferită, între nivele de existenţă diferite. Ceea ce face ca deocamdată izotopia asemănării să fie abandonată.</p>
+               <p rend="justify">64 Identificarea atât de lesnicioasă a binelui cu frumosul ţine de o habitudine etică şi psihologică specifică culturii elene, ei fiind termeni comutabili ce funcţionează ca supreme categorii antropologice. Pentru moment, insezisabilitatea, eventual alteritatea frumosului este intuită ca un aspect empiric şi în acelaşi timp anecdotic.</p>
+               <p rend="justify">65 invocarea repetată a caracterului profetic (μαντεύομαι, προμαντεύομαι), presentimental deci al tezei este încă o precauţie luată în mod artificios pentru a atenua, a învălui, neaşteptata enunţare a trihotomiei ontice: binele, răul, nici-binele-nici-răul. în ceea ce priveşte termenul το δ'οΰτ άγαθόν οΰτε κακόν, nu-l putem reda prin neutru, într-un context în care prietenia apare ca rezultantă a unei relaţii procesuale, evolutive dinspre un termen aflat în continuă metamorfoză către un termen stabil, definitoriu pentru perfecţiune. Ca atare, cea mai bună aproximare a celui dintâi termen este traducerea lui literală.</p>
+               <p rend="justify">A  se vedea aceeaşi procesualitate în doctrina Diotimei despre Eros, din Banchetul, 204 a-b.</p>
+               <p rend="justify">66 Platon face aici una dintre acele distincţii filosofice ce vor fi reformulate cu stringenţă de către Aristotel (Analiticele, II, 2), între ούσία – cauză finală şi παρουσία – accident. Pentru denotarea accidentului, Platon foloseşte atât forma substantivală cât şi pe cea verbală (πάρεστι), în timp ce pentru esenţă foloseşte exclusiv forma verbală έστί. în alte dialoguri foloseşte însă şi forma substantivală, οοσία, de pildă, în Phd., 65 d, Tht., 185 c.</p>
+               <p rend="justify">67 în afara distincţiei pertinente investigaţiei, între σοφία şi φιλοσοφία, corespunzând respectiv categoriei binelui şi nici-binelui-nici-răului, remarcăm în acest pasaj şi teza preferată platoniciană a identificării răului (κακία) cu necunoaşterea (άγνοια) şi a binelui cu cunoaşterea. O formulare aproape identică a acestor distincţii întâlnim în Banchetul. 204 a-b.</p>
+               <p rend="justify">68 Conchizând provizoriu asupra unei definiri mulţumitoare a prieteniei, Socratele platonician convorbeşte cu ambii interlocutori. Adeziunea lor este simbolică pentru concilierea şi sinteza celor două poziţii succesiv criticate, cea eleatică şi cea heraclitiană.</p>
+               <p rend="justify">69 Este una din acele întorsături spectaculare în care se vădeşte spiritul dialectic platonician, totdeauna pregătit să reconsidere poziţii ce păreau consolidate şi definitive. Ca şi la 216 d, ca şi în alte momente de criză ale dialogului, Socratc mărturiseşte un presentiment, de a cărui iraţionalitate pare surprins. Άτοπωτάτη τις υποψία, am tradus prin „bănuiala cât se poate de absurdă”. Aşa cum se exprimă P. Friedlander, dialectica vie nu suportă poziţiile fixe, rigide.</p>
+               <p rend="justify">70 Socrate se întreabă, aşadar, asupra mobilurilor prieteniei, asupra cauzalităţii (οία τι) şi asupra finalităţii ei (ενεκά του); ceea ce Aristotel va formula mai târziu drept cauză finală şi cauză eficientă a unui proces sau a unei stări.</p>
+               <p rend="justify">71 Este încă o simulare a unui demers spontan, cu iluminările şi ezitările de rigoare. De fapt Socrate a enunţat deocamdată în termeni conceptuali ce înţelege prin cauza finală (prieten-scop), la care se ajunge trecând printr-un şir de condiţionări intermediare (prieten-mediator). A se vedea comentariul lui C. Noica, op.cit., p. 106 ş.u. şi P. Friedlander, ibidem.</p>
+               <p rend="justify">72 Adică orice fiinţă sau obiect neutru are drept cauză finală binele şi drept cauză eficientă răul. Aceştia sunt termenii incipienţi, de natură empirică ai demersului inductiv.</p>
+               <p rend="justify">73 Deci, în mod necesar, termenul final al demersului, care este şi origine (αρχή) a prieteniei şi este denumit ca atare „prietenul cei dintâi” (τό πρώτον φίλον), „prietenul cel adevărat” (ό άληθώς φίλος) este identificabil ca valoare absolută, ca idee. Tot astfel, frumosul şi binele sunt termenii absoluţi ai unor demersuri similare din Banchetul, din Republica, ce purced de la lumea empirică tinzând către realitatea transcendentă. în raport cu această realitate transcendentă, cu „prietenul originar” (αρχή), termenii empirici intermediari, ca sănătatea, bunăstarea, trebuie consideraţi, în consecinţă, drept prieteni-simulacre.</p>
+               <p rend="justify">74 Textual: „în vederea unui lucru duşman”, ar fi un non-sens, din moment ce răul a fost tot timpul considerat drept cauză eficientă în vederea căutării binelui. De fapt, însă, în abstracţia lumii empirice, la capătul demersului, distincţia între cauză eficientă şi cauză finală nu mai este pertinentă. în schimb este configurată o relaţie surprinzătoare între cele două principii ontice, binele şi răul, în care răul apare drept condiţie sine qua non a binelui.</p>
+               <p rend="justify">75 Deoarece discuţia anterioară asupra mobilurilor exterioare rămâne în suspensie, se ia în seamă mobilul lăuntric şi trupesc care este dorinţa – επιθυμία, care implică toate cele trei ipostaze: binele, răul, nici-binele-nici-răul.</p>
+               <p rend="justify">76 Pentru definirea prieteniei se uzitează două noi corelate: ερώς şi έπιθυμία – iubirea şi dorinţa, ce configurează sfera afectelor umane, ale căror ponderabile sunt cercetate în detaliu în cursul Republicii. Introdu când aceşti noi parametri, Platon restrânge de fapt accepţia prieteniei, pentru prima dată, de la planul general ontologic la un plan strict antropologic, cu consecinţele pe care le vom vedea.</p>
+               <p rend="justify">77 Desigur că într-o atare relaţie între prietenie şi dorinţă, restrângerea planului de referinţă face inutil cadrul dialectic desfăşurat mai înainte. De aici şi ideea comparării argumentării anterioare cu un poem filosofic de genul celor despre natura lucrurilor (Peri physeos).</p>
+               <p rend="justify">78 în original οικείος, derivând din οικία – casă, familie, cere să fie tradus prin familiar (în versiunea citată a lui C. Noica) sau prin apropiat, care redă mai bine în limba română ideea afinităţii structurale, marcând raportarea socială şi individuală umană a conceptului. Dacă dorinţa pentru ceea ce este apropiat este extinsă pe un plan fizic, cosmologic logic şi metafizic, atunci se evită aporia anterioară, din moment ce răul – cauză eficientă universală – este eliminat.</p>
+               <p rend="justify">79 Desigur că distincţia între οικείος şi όμοιος, între asemănător şi apropiat este în semantica unei limbi moderne mai greu de făcut decât în greacă. Lucrurile devin mai clare dacă ţinem seama de remarca de la nota 52, cu privire la semantica lui όμοιος. în mod analog şi οικείος comportă o fluctuanţă a sensului care-l poate duce până la identificarea cu όμοιος. Astfel se explică pentru ce Socrate simte nevoia să postuleze distincţia între όμοιος şi οικείος.</p>
+               <p rend="justify">80 Prima identificare ar trimite la teza binelui, considerat cauză finală, iar cea de-a doua la teza eleata afirmată în cadrul discuţiei cu Lysis.</p>
+               <p rend="justify">81 Demersul dialectic în spirală a dus pe interlocutori, prin sinteza contrariilor, la un nivel izotopic începutului discuţiei; de fapt nu reiese teza identităţii cu sine a binelui, ci a apropiatului, ceea ce face să se evite impasul provocat mai înainte de considerarea răului drept cauză eficientă.</p>
+               <p rend="justify">Aporia este aşadar numai aparentă, are o valoare retorică, aşa cum demonstrează şi fraza care urmează, în care se face analogia între discuţia dialectică şi dezbaterea de tribunal. în felul acesta subiectul este pe deplin epuizat.</p>
+               <p rend="justify">82 Este una din acele încheieri de dialog în care Platon vădeşte gust pentru manevrarea contrastelor scenice. A se reţine comparaţia pedagogilor cu nişte demoni ai răului, care tulbură atmosfera apollinică a dezbaterii filosofice.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eschil</title>
+            <author>Eschil</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013-08-17T15:14:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-02-02T13:59:14.779379725</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                       
+      <body>
+         <author>Eschil</author>
+         <div type="div1">
+            <head>Perşii</head>
+            <subtitle>472 î.e.n.</subtitle>
+            <p>         PERSOANELE TRAGEDIEI (în ordinea intrării în scenă)</p>
+            <p>         CORIFEUL</p>
+            <p>         CORUL, alcătuit din bătrâni din Susa</p>
+            <p>         REGINA, văduva regelui Darius şi mama lui Xerxes.</p>
+            <p>         VESTITORUL</p>
+            <p>         UMBRA LUI DARIUS</p>
+            <p>         XERXES, regele perşilor.</p>
+            <p>         Acţiunea se petrece la Susa, în faţa palatului lui Xerxes.</p>
+            <p>         Decorul înfăţişează un portic unde se adună consilierii marelui rege, cum este supranumit Xerxes.1</p>
+            <p>         Aceştia intră cu paşi rari în scenă.</p>
+            <p>         CORIFEUL</p>
+            <p>         Melodramă.</p>
+            <p>         Sosesc aleşii, oamenii de taină, Ai regelui. Sunt duşi la luptă perşii, Elada s-o stropşească, dar pe-aceşti, Prin rangul lor, al nostru rege Xerxes, Stăpânul cel din Darius 2 născut, Aici în Susa3 i-a lăsat anume, Pământul să-i păzească şi palatul Cu aurul şi tot belşugul lui<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 Xerxes (sau Khshayarsha) I: supranumit şi „regele cel mare”, a domnit între 485 – 465 î.e.n.; era fiul lui Darius I şi al reginei Atossa. După ce a înăbuşit o revoltă în Egipt, a invadat Grecia şi a ruinat Atena; înfrânt la Salamina, îşi părăseşte armata, care este zdrobită la Plateca (479 î.e.n.) şi fuge înapoi în Asia. A murit asasinat.</p>
+            <p>         2 Darius (sau Dâryavas) I: rege al Persiei (550 – 486 î.e.n.); a domnit între 521 – 486 î.e.n. Organizator priceput şi-a împărţit imperiul în 20 de satrapii, a cucerit Lidia, a subjugat Tracia şi Macedonia, dar a fost învins de greci la Maraton. A murit înainte de a porni în cea de-a doua expediţie împotriva grecilor.</p>
+            <p>         3 Susa. Capitala provinciei Elam (sau Susiana), una din satrapiile imperiului persan, oraş de reşedinţă al lui Darius şi al urmaşilor săi.</p>
+            <p>         Dar inima, prevestitoarea pururi Nedezminţită, ori de câte ori Nenorociri se-apropie, şi-acum Se-ntreabă-ngrijorată: cum s-o-ntoarce Din bătălie Xerxes? Dar armata Ce strălucea în aur la plecare? În mari şuvoaie, forţa plămădită In Asia, s-a dus în întregime -Şi inima-mi tresare speriată, Chemând un vestitor, dar în cetate N-ajung de mult nici soli, nici vestitori, Au părăsit Ecbâtana' şi Susa şi Kissia 2 cu vechi întărituri şi au pornit la bătălie perşii, Pe nave sau călări şi cei mai mulţi Pe jos s-au dus, alcătuind greimea Războinicei armate. Au plecat Să cucerească Grecia, Amistres, 3 Astâspes, 4 Megabâtes 5, Artafrenes 6, Toţi comandanţi şi regi supuşi lui Xerxes, 1 Ecbâtana. Capitala vechiului regat al mezilor.</p>
+            <p>         2 Kissia. Regiune muntoasă din Susiana, între Susa şi Ecbâtana. Eschil pare s-o considere o cetate întărită.</p>
+            <p>         3 Amistres, Artembares, Imaios, Farandakes, Sostanes: căpetenii persane.</p>
+            <p>         4 Astâspes: în realitate – Histaspes, căpetenie persană.</p>
+            <p>         5 Megabâtes: de fapt – Megabise, general al lui Darius I, participant la cel de al doilea război medic.</p>
+            <p>         6 Artafrenes: în realitate Artafernes, general persan, nepotul lui Darius, a cărui armată o comanda la Maraton (490 î.e.n.), în timpul primului război medic; a luat parte şi la expediţia lui Xerxes (480 î.e.n.). Este fiul lui Artafernes, guvernatorul Sardesului.</p>
+            <p>         Având subt braţ armate colosale! S-au revărsat nebiruiţi arcaşi Şi călăreţi grozavi la-nfăţişare, Cumpliţi în bătălii, prin vitejia Din inimile lor neclătinate<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Pe calul său de luptă, Artembares Şi el s-a dus şi dus e şi Masistres, 1 Şi s-au urnit, arcaşul cel mai straşnic, Imaios cel viteaz şi Farandakes.</p>
+            <p>         — S-a dus Sostanes, ce-şi dezlănţuieşte, Ca nimeni altul, caii în galop!</p>
+            <p>         S-au revăsat şi de la Nilul larg De hrană dătătorul, Susiskânes2 Şi Pegastâgon, 3 fiu al lui Egiptos, 4 Şi s-a urnit şi marele Arsâmes, 5 Regal stăpân al Memfisului sfânt şi s-a urnit şi din străvechea Teba, Ariomard! 6 Tot din Egipt, vâslaşi, Cu bărci ce taie bălţile de-a dreptul, 1 Masistres: căpetenie persană. Poate unul şi acelaşi cu Masistras.</p>
+            <p>         2 Susiskânes: căpetenie a trupelor egiptene din armata persană. Într-o replică din piesă apare ca un conducător med, căci numele lui este însoţit de determinativul ecbatanezul.</p>
+            <p>         3 Pegastâgon. Căpetenie a trupelor egiptene subordonate perşilor.</p>
+            <p>         4 Egiptos: numele primului rege legendar egiptean.</p>
+            <p>         5 Arsâmes: căpetenie persană de trupe egiptene din armatele subordonate perşilor.</p>
+            <p>         6 Ariomard. Căpetenie de trupe egiptene din armata aliaţilor lui Xerxes, subordonate persanilor. După Herodot ar fi fost un înalt demnitar persan însărcinat să guverneze Teba egipteană supusă. Într-alt loc din piesă este citat din nou (sriomardos) şi din context reiese că ar fi o căpetenie de oşti lidiene.</p>
+            <p>         S-au dus într-o mulţime fără capăt Şi înspăimântătoare.</p>
+            <p>         Şi s-au dus</p>
+            <p>         Spre Grecia, aleşii lidieni, Stăpâni de ginţi în continentul lor<hi rend="color(#000000)">…</hi>1 S-au dislocat şi regi ce au în grijă Mulţimi de herghelii. Aşa, s-au dus, Vitejii Metrogâtes 2 şi Areteus3 Şi a trimis şi Sardesul4 de aur Puhoi de luptători în mii de care, In pâlcuri rânduite şi purtate De câte patru cai şi câte şase, Privelişte grozavă la vedere! Pân' şi vecinii Tmolosului sacru, S-au bucurat, voind s-arunce jugul Pe-al Greciei grumaz! Cu misieni, Neîntrecuţi aruncători de suliţi, 1 în epoca războaielor medice imperiul lidian încetase a mai exista. Lidia devenise una dintre provinciile imperiului persan. Cum însă perşii obişnuiau să guverneze prin intermediul unor indigeni, nobilimea locală rămăsese stăpână peste provinciile ce alcătuiseră fostul imperiu lidian. Sardesul, fosta capitală imperială, rămânea capitala întregii acestei părţi a Asiei. În acest sens, aşadar, lidienii erau stăpâni de ginţi în continentul lor<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         2 Metrogâtes: căpetenie de trupe lidiene din armata persană.</p>
+            <p>         3 Areteus: căpetenie din trupele lidiene aflate în armatele aliaţilor lui Xerxes şi subordonate persanilor. Într-alt loc din piesă, acest Areteus pare a fi comaiidant de detaşamente egiptene.</p>
+            <p>         4 Sardes: capitala vechiului imperiu lidian, la poalele muntelui „sacru” Tmolos; pe malul vestitului fluyiu Pactol; oraş celebru prin luxul şi bogăţiile sale.</p>
+            <p>         S-au dus Tharibis ' şi Mardon 2 cel straşnic.</p>
+            <p>         — Aceste nicovale – să tocească De-mpotrivirea lor, greceasca lance! 3 Şi Babilonul cel bogat în aur învolbura potopuri de mulţimi: Soldaţi pe jos, stăpâni deplini pe arcul Ce-l încordează neşovăitori -Şi marinari cu flotele<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         În urmă, Din marginile vastului imperiu, Din Asia întreagă alergau, Cu spade scurte, mari mulţimi, plecate Poruncilor lui Xerxes! Şi, aşa, S-a dus la luptă, floarea vitejiei Din Persia şi se aude cum, Subt pasul lor, pământul strămoşesc Al Asiei, din măruntaie geme! Trec zilele şi cei rămaşi acasă Le numără şi zilele se scurg şi tremură soţiile, părinţii şi tot mai lung şi tot mai lung e timpul!</p>
+            <p>         1 Tharibis: căpetenie a trupelor misiene din armata persană.</p>
+            <p>         2 Mardon: general persan, ginere al lui Darius. În 480 î.e.n. Mardonis era unul dintre locotenenţii lui Xerxes. După înfrângerea de la Salamina iemează în Tesalia, ocupă Boeţia şi Atica şi jefuieşte Atena. În 479 î.e.n. este învins la Plateea, unde şi moare.</p>
+            <p>         3 Imaginea lăncii este asociată cu armata grecească; pe de altă parte arcul simbolizează armata persană. Antiteza va reveni, sub diverse forme, în piesă.</p>
+            <p>         CORUL</p>
+            <p>         Maiestuos şi evocator.</p>
+            <p>         De bună seamă, la strâmtoarea Helei Atamantida, 1 sunt acum ajunse Puhoaiele de oşti nimicitoare! O, parcă văd cum jugul cel de na ve L-au şi zvârlit peste grumazul mării, Iar ţărmul continentului vecin L-au şi atins, trecând pe pod de nave, Legate cu odgoane tari de in<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Subt pumnul căpeteniilor aspre încovoind armatele şi liota, Al nostru regezeilor egal, Fecior născut din ploaia cea de aur2 – Al Asiei, bogată în popoare, Nestăpânit stăpân, el, dintr-o dată Pe două căi şi-a repezit, cumplita Şi-ngrozitoarea mare de popoare – Până-n grumaji Ahaia3 5-0 îngroape!</p>
+            <p>         1 Hela Atamantida: eroină mitologică, fiică a lui Atamas (rege legendar al Beoţiei); fugind de mama ei vitregă, Ino, s-a înecat în strâmtoarea ce separă Tracia de ţărmul nord-vestic al Misiei; strâmtoarea a primit numele de Helespont, literalmente „strâmtoarea Helei”.</p>
+            <p>         2 Aluzie la episodul mitologic al naşterii lui Perseu, născut din iubirea lui Zeus şi Danae, la care Zeus coborâse sub forma unei ploi de aur. Perseu era considerat dătătorul de nume, patronul familiei regale persane, strămoşul lui Xerxes Perseidul.</p>
+            <p>         3 Ahaia: numele unei regiuni din vechea Tesalie unde, conform tradiţiei mitologice, ar fi domnit Ahaios, strămoşul mitic al aheenilor. Erau două ţinuturi cu acest nume: unuj în Pelopones, celălalt, ce se mai numea şi Ftiotida, în sud-estul Tesaliei. Armata persană se retrage prin nordul Beoţiei şi pătrunde în Tesalia prin Ahaia-Ftiotis.</p>
+            <p>         (Mai intens.)</p>
+            <p>         A u ochii lui demonici în străfunduri întunecimi albastre! Gândul lui Stârneşte milioanele de braţe Şi flote pune-n mers! Şi iată-l, dar, Cum, aşezat în carul sirian, l Repede către lăcile duşmane Neînfricaţii Asiei arcaşi!</p>
+            <p>         Ce vitejie va putea să-nfrunte Puhoiul nesfârşit de omeniri? O, nici un dig, oricât ar fi de straşnic, Nu va putea opri dezlănţuirea Talazurilor revărsatei mări! Vă spun: armata Persiei e încă Nebiruită, iar poporul ei, Neclătinat în inima vitează!</p>
+            <p>         Dar mă întreb: se află muritor, Care-ar scăpa de cursele întinse De gândurile zeilor vicleni? O, cine, dar, cu sprintene picioare, A izbutit elanul să-şi înalţe Pentru un salt spre ţinta fericirii?</p>
+            <p>         Ateea, 2 dulce şi mângâietoare, 1 Car tras de cai sirieni.</p>
+            <p>         2 Ateea. În greceşte Ate. În mitologie înfăţişează o personificare a rătăcirii minţii sau a crimei, calamităţi trimise de zei spre pedepsirea muritorilor. În ipostaza de zeiţă este o divinitate răufăcătoare alungată din Olimp pentru zâzaniile ce provoca: inspiră acţiunile criminale, aduce năpasta. În tragedie apare uneori ca o divinitate a răzbunărilor sângeroase, înrudită cu Eriniile, alteori ca o întruchipare a pedepsei.</p>
+            <p>         Spre cursele-i ascunse cheamă omul şi nu se află muritor să scape Din cursele întinse, printr-un salt<hi rend="color(#000000)">…</hi>  (Amplu.)</p>
+            <p>         E drept că zeii au vestit de mult Ce gânduri au cu perşii, când le-au dat Grozav avânt, necontenit să treacă Dintr-un război în altul, spulberând Întărituri faimoase şi le-au dat Câmpiile de luptă, potopite De colbul călărimilor şi de Cetăţile căzute în ruină<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Şi-acuma, ei, pe drumurile mării, Cu albe spume, zbuciumate-n vânturi, Pe ale mării drumuri largi, deprind Cum să contemple sfintele întinderi, Frânghiilor de în de pe corăbii încredinţându-şi zilele<hi rend="color(#000000)">…</hi>  Vioi şi mişcător.</p>
+            <p>         Pe zei!</p>
+            <p>         O, vai de tine, inimă cernită Şi sfâşiată de tristeţi! Mă tem Că în curândcetatea noastră Susa, De fiii ei războinici văduvită, Va auzi înăbuşitul strigăt: „O, tu, persană oaste, vai de tine!”</p>
+            <p>         Şi teamă mi-i că strigătului jalnic Din Kissia n-o să-i răspundă nimeni! Şi parcă văd femeile plângând, Cu văl de în în unghii sfâşiat, Răcnind: „O, vai, nefericită oaste.” (Mai lent)</p>
+            <p>         Plecară călăreţii şi pedeştrii: Poporul ca albinele roit-a Pe urma comandantului! S-au dus şi au legat un continent de altul, Cu punţi întinse peste sânul mării<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Iar paturile soţilor, acum Stropite sunt de lacrimi. Doar durerea O mai cunosc femeile persane; Şi singure şi părăsite, ele Oftează după soţii ispitiţi De-amăgitoarea luptelor iubire<hi rend="color(#000000)">…</hi>  Melodramă.</p>
+            <p>         CORIFEUL</p>
+            <p>         Noi, cei rămaşi în anticul palat, Datori suntem să fim mai înţelepţi, Mai reţinuţi în sfaturile noastre, Pân' nu aflăm ce soartă are Xerxes, Coborâtor din Darius, la rându-i Coborâtor din osul lui Perseus, 1 De nume dătătorul ginţii noastre<hi rend="color(#000000)">…</hi>  Vor birui săgeţile persane Aşa de iuţi, sau ascuţita lance 2 1 Perseus: erou mitologic grec, socotit străbunul perşilor.</p>
+            <p>         2 De fapt, nu numai armata greacă folosea lancea: şi în armata persană existau unităţi de lăncieri.</p>
+            <p>         A Grecului?</p>
+            <p>         Dar iată, o, bătrâni, Regina se apropie, măreaţă, Frumoasă ca lumina ce scânteie Doar în privirea zeilor! Plecaţi Să-ngenunchem la sfintele-i picioare<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Daţi înălţare glasurilor voastre, Mai largă înălţare, închinându-i Ofrandele cântărilor<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Corul se înclină. Intră regina, 1 pe carul ei, urmată de un impresionant alai.</p>
+            <p>         (Vorbit.)</p>
+            <p>         Sublimă, înaltă şi puternică stăpână, A tuturor femeilor persane, Cu late brâuri! Tu, preasfântă mamă A vajnicului Xerxes! Tu, ce-ai fost Soţie unui zeu şi ai născut Un zeu la rându-ţi! Văduvă iubită A straşnicului Darâus, aş vrea Ca azi măcar, norocul moştenit De fiul tău, de la străbunii vrednici, Să-i ocrotească oastea<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 Este vorba de Atossa, cea mai vestită dintre principesele persane care au purtat aceste nume, văduva lui Darius şi mama lui Xerxes.</p>
+            <p>         REGINA</p>
+            <p>         O, prieteni!</p>
+            <p>         Am părăsit acest palat de aur Şi încăperea unde am dormit Alăturea de Darâus, căci grija Atât de tare inima-mi sfâşie! Bătrâni! Eu vouă vă voi spune totul, în ora-ngrozitoare când mi-i frică Pân' şi de umbra mea! O, scumpi bătrâni! Mă tem de marea noastră bogăţie, Căci, poate, soarta pururi schimbătoare O să-şi întoarcă faţa de la noi, Stârnind noian de pulberi pe pământuri şi dărâmând acest măreţ lăcaş, Al bogăţiei, înălţat cândva, De Darius, prin mâna unui zeu! De două ori mă tem, cinstiţi bătrâni, Căci iată, bogăţii atât de mari Nu-şi au apărătorii pe potrivă; – Iar fără bogăţii, ce-ar fi puterea? Oricare-ar fi, nu poate să-şi înalţe întreaga strălucire<hi rend="color(#000000)">…</hi>  O, e drept Că nimeni nu s-atinge de averi, Dar gem de grija ochiului de pază, Căci ochiul unei case e prezenţa Stăpânului<hi rend="color(#000000)">…</hi>  De asta mă frământ, O, credincioşi, o, voi, bătrâm persani şi vă aştept nerăbdătoare sfatul<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         I-WV</p>
+            <p>         CORIFEUL</p>
+            <p>         Mă tot frământ, mă tot întreb, regină A Persiei: n-ar fi mai nimerit Dac-aş tăcea? Mă-ntreb: voi fi în stare Cu sfatul meu folositor să-ţi fiu? Dar crede-ne că-ţi stăm la îndemână Cu tot ce vom putea<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Deci, ascultaţi:</p>
+            <p>         Cumplite visuri noaptea mă frământă, Ce când s-a dus cu oastea fiul meu, Să spulbere Ionia<hi rend="color(#000000)">…</hi>  [. Dar vis Mai înspăimântător n-am mai avut, Ca visul de-astă-noapte! Hai, bătrâni, V-apropiaţi mai tare!</p>
+            <p>         Se făcea, Că două fete mândre se arată, Strălucitor înveşmântate. Una Purta veşmânt persan. Costumul doric 2 Cealaltă îl purta. Ţinuta lor De naltă, uimitoare maiestate şi frumuseţea fără de prihană, Deopotrivă parcă aminteau 1 Ionia. Ţinut în Asia Mică, la sud-vest de Lidia, pe ţărmul Mării Egee. În piesă desemnează Grecia în general, ca aluzie la teritoriile locuite de vechiul trib al ionienilor care, după ce au fost alungaţi de dorieni din Grecia, s-au stabilit pe coastele Asiei Mici.</p>
+            <p>         2 Portul dorian, al locuitorilor din ţinutul grecesc Dorida.</p>
+            <p>         Străbunele din adormite veacuri!</p>
+            <p>         Surori erau şi fiice, coborâte</p>
+            <p>         Din osul vechi al aceluiaşi neam, Dar soarta le-a prescris să locuiască în doua patrii: una în Elada, Cealaltă însă în pământ barbar;</p>
+            <p>         Eu le vedeam în vis cum se sfădeau, Şi cum, deodată, fiul meu venind, întâi a încercat să le împace, Pe urmă le-a supus subt braţul său, Şi le-a-nhămat la carul sirian, Pe amândouă cu grumajii prinşi în nodurile aceluiaşi ham!</p>
+            <p>         Şi mândră fost-a fata cea dintâi, Din frâu lăsându-şi liberă doar gura, Pe când cealaltă, de nărav cuprinsă, A început să zvârle din picioare, Şi, dintr-o dată, apucând în mâini</p>
+            <p>         Curelele ce o legau de car, Le-a rupt, şi-a rupt căpăstrul drept în două, Cu grozăvie împingându-şi şoldul</p>
+            <p>         De-a curmezişul hăţului<hi rend="color(#000000)">…</hi>  Atunci, Feciorul meu s-a prăbuşit din car, Şi, iată, a lui Darius fantomă</p>
+            <p>         I-a apărut alături, să-l deplângă, Iar fiul meu, cum a zărit fantoma, Veşmintele îşi sfâşia, gemând<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Acestea sunt, cinstiţilor bătrâni, Vedeniile nopţii! M-am sculat, Şi, scufundându-mi mâinile în apă</p>
+            <p>         Neîncepută, am luat ofrande şi la altarul zeilor le-am dus; Dar am văzut cum se rotea asupra Altarului, un vultur, 1 ridicat La înălţimea soarelui<hi rend="color(#000000)">…</hi>  Văzându-l, Mi-a amuţit şi strigătul pe buze! Şi, să vedeţi, prieteni<hi rend="color(#000000)">…</hi>  Ca săgeata S-a ridicat un şoim! 2 Subt ochii mei, S-a aruncat spre vultur, şi-ntr-o clipă I-a sfâşiat cumplit trufaşa ţeastă, încât, înspăimântat, semeţul vultur S-a strâns ca ghemul!</p>
+            <p>         Iată ce-am visat, Şi groaza mă cutremură! Chiar voi, Mă ascultaţi îngălbeniţi de spaimă! Ştiţi bine doar, ca dacă fiul meu Va birui, se va nălţa pe veci între eroii neasemuiţi, Iar dacă nu, el n-are să dea seamă -Ci, orişicum, tot el va fi stăpânul Pământului persan<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORIFEUL</p>
+            <p>         Preasfântă maică! O, cum te-aş speria sau linişti? Deci, prea plecaţi te sfătuim: ridică 1 Simbol al imperiului persan.</p>
+            <p>         2 Simbol al puterii şi iscusinţei greceşti.</p>
+            <p>         Din nou, fierbinte rugă către zei, Să spulbere vedenia grozavă, Şi-nlăturând deznodământul tragic, Noroc s-aducă, ţie, şi-alor tăi şi patriei! Apoi să-nchini libaţiil Pământului şi celor din morminte! Adânc despică-ţi inima şi roagă-l Pe Dari'us, cel apărut în vis, Din creierii tenebrelor s-aducă Augurul bun subt undele luminii, Iar cârdul prevestirilor sinistre, Să ţi-l oprească Darâus, în noaptea Din nepătrunsul Hades<hi rend="color(#000000)">…</hi>  Îţi vorbesc, Cu tot adâncul inimii deschis, Ca un profet iluminat de nimbul Sincerităţii<hi rend="color(#000000)">…</hi>  Visul tău, regină, Va odrăsli lăstarii fericirii<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Din dragoste adâncă pentru Xerxes şi pentru casa asta, mi-aţi răspuns Aşa de bine! Dragostea vă-ndeamnă Să tălmăciţi şi visul meu aşa<hi rend="color(#000000)">…</hi>  O, fiţi de partea mea, evenimente! Precum m-aţi sfătuit, voi săvârşi Chemare naltă către zei şi morţi, 1 Libaţii: câteva picături dintr-o băutură ce erau vărsate înainte de a bea, drept semn de închinare zeilor.</p>
+            <p>         Îndată ce mă-ntorc în încăpere; Dar aş mai vrea să vă întreb: Atena Cam unde vine?</p>
+            <p>         CORIFEUL</p>
+            <p>         E la asfinţit, La capătul pământului, cam unde Stăpânul nostru, Soarele, apune<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Şi fiul meu, cutezătorul Xerxes, Voia cetatea asta s-o supună?</p>
+            <p>         CORIFEUL</p>
+            <p>         El Grecia întreagă supunea, Atena cucerind<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Au grecii, oare, Armată numeroasă?</p>
+            <p>         CORIFEUL</p>
+            <p>         O, mai bine</p>
+            <p>         Ai întreba cât rău pricinuit-a Armata asta, mezilor<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Pe lângă Armata lor, au bogăţii destule?</p>
+            <p>         CORIFEUL</p>
+            <p>         Pământul lor e plin de nesecate Izvoare de argint<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Şi mânuiesc Săgeata care arcul încordează?</p>
+            <p>         CORIFEUL</p>
+            <p>         Ei poarta spade, luptă corp la corp şi poartă scut<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Ce rege li-i stăpân Şi comandant?</p>
+            <p>         CORIFEUL</p>
+            <p>         O, grecii nu sunt sclavi!</p>
+            <p>         REGINA</p>
+            <p>         Dar cum vor ţine piept unei invazii?</p>
+            <p>         CORIFEUL</p>
+            <p>         Precum au mai ţinut, când au zdrobit Puternica, lui Darâus, armată<hi rend="color(#000000)">…</hi>1 1 Aluzie la înfrângerea suferită de regele Darius, la Maraton, în anul 490 î.e.n<hi rend="color(#000000)">…</hi>  când, în timpul primului război medic, a fost învins de Miltiade.</p>
+            <p>         REGINA</p>
+            <p>         O, vai! Ce-ai spus? Tristeţe-ngrozitoare A mamelor celor plecaţi acum<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORIFEUL</p>
+            <p>         Dar iată: socotind că vrei să afli întregul adevăr, numaidecât, Priveşte omul care vine-n fugă! E-un vestitor persan! El ne va da O veste clară, fie rea sau bună<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         (Intră un vestitor.)</p>
+            <p>         VESTITORUL</p>
+            <p>         O, voi, cetăţi din Asia întreagă, O, tu, pământ al Persiei, liman Al bogăţiei fără de sfârşit – Cum a putut o izbitură numai, Prosperitatea voastră s-o distrugă? Căzut-a floarea perşilor în luptă! Vai, mie, zei! De ce mi-i dat să fiu Nenorocirii, primul vestitor? Dar trebui-va, totuşi, să vestesc, O, perşilor, nefericirea asta: Armata noastră este nimicită<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Însufleţit</p>
+            <p>         CORUL</p>
+            <p>         Îngrozitoare suferinţi veniră, Neprevăzute şi sfâşietoare!</p>
+            <p>         Hai, perşilor, daţi planşetelor drumul, Vă scufundaţi în lacrimi, auzind îngrozitoarea veste<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         VESTITORUL</p>
+            <p>         Adevărul</p>
+            <p>         Acesta e: armata e pierdută şi nici în gându-mi nu mai strălucea Speranţa de întoarcere<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         La ce</p>
+            <p>         Am mai ajuns la bătrâneţi adânci, Să te trăim, cumplită catastrofa?</p>
+            <p>         VESTITORUL</p>
+            <p>         O, perşilor, vă jur! Am fost de faţă şi nu vă spun nimic din auzite, Căci am văzut cu ochii mei venind Nenorocirea<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         O, nenorocire!</p>
+            <p>         De mii de ori nenorocire! Deci, Popoarele din Asia, zadarnic S-au îndesat cu armele, grăbind Spre Grecia funestă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         VESTITORUL</p>
+            <p>         În grămezi, Stau morţii noştri la această oră, Pe ţărmul Salaminei, 1 şi-mprejur!</p>
+            <p>         CORUL</p>
+            <p>         De mii de mii de ori, nenorocire! Deci, stârvurile semenilor noştri S-au prăbuşit, apoi s-au scufundat Şi-acum le poartă marea răscolită, Ca-n mantii largi învăluite-n valuri<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         VESTITORUL</p>
+            <p>         Nici arcurile nu ne-au folosit, Căci ne-am zdrobit de navele greceşti!</p>
+            <p>         CORUL</p>
+            <p>         Se-aude în văzduh un geamăt lung, Sfâşietor, sinistru! Pentru ce, Au abătut asupra noastră zeii, Durerile întregului pământ? Pierdută e armata<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         VESTITORUL</p>
+            <p>         Salamina, Cuvânt nenorocit! O, tu, Atena, 2 îmi stoarce lacrimi amintirea ta<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 Salamina: insulă din Marea Egee, pe coasta occidentală a Aticei, în Grecia. Aici a avut loc marea bătălie navală, în care a fost zdrobită flota persană, în anul 480 î.e.n. (în timpul celui de-al doilea război medic).</p>
+            <p>         2 Oraşul a rezistat în chip eroic atacului persan; pe de altă parte, perşii consideră Atena ca un loc nefast, deoarece Temistocle (525-460 î.e.n.), comandantul suprem al grecilor, era atenian.</p>
+            <p>         CORUL</p>
+            <p>         De mii de ori Atena odioasă! De-acum mereu ne-om aminti de ea, Şiplânge-vor, de nume auzindu-i. Femeile rămase-n văduvie Şi fără de feciori<hi rend="color(#000000)">…</hi>  Nenorocire Lipsită de prinosul mângâierii<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         (O pauză. Tăcere).</p>
+            <p>         REGINA</p>
+            <p>         De-atâta timp, mi-i amuţită gura! Strivită sunt de-ngrozitoarea veste! Cine-ar putea cuprinde-ntr-un cuvânt Dezastrul tot? Şi, totuşi, muritorii în stare sunt să-şi poarte suferinţa, Când le-au trimis-o zeii! Povesteşte Aici, în faţa noastră, cum a fost! Întâi, adună-ţi gândurile! Fii, în vorbe, cumpănit! Hai, povesteşte şi geme povestind! Şi, rând pe rând, înşiră comandanţii prăbuşiţi, Apoi conducătorii de popoare, Porniţi cu sceptrul! Câte locuri goale, Prin moartea lor, lăsară?</p>
+            <p>         VESTITORUL</p>
+            <p>         Află: Xerxes</p>
+            <p>         E viu şi liber!</p>
+            <p>         REGINA</p>
+            <p>         O, acest cuvânt E o lumină peste casa mea, E ca o zi de soare potopită, în urma unei tenebroase nopţi!</p>
+            <p>         VESTITORUL</p>
+            <p>         Căzuta-a Artembâres, comandant A zece mii de călăreţi, răpus Pe stâncile pieptişe din Silena! L Lovit de lance a pierit Dadâkes, 2 Ce comanda o mie de soldaţi:3 N-a apucat să sară de pe navă şi lancea l-a izbit<hi rend="color(#000000)">…</hi>  Apoi, Tenâgon, 4 Cel mai viteaz războinic bactrian, S-a prăbuşit pe insula lui Aias 5 Bătută de talazuri<hi rend="color(#000000)">…</hi>  Şi Lilaios, 6 Şi nobilul Arsames au pierit, Cu ţestele izbindu-se de stânci, 1. Silena: lung promontoriu stâncos la Salamina, situat la gura strâmtorii dintre insulă şi ţărm. Pe acest promontoriu grecii au înălţat, după bătălie, un trofeu memorial.</p>
+            <p>         2. Dadakes: comandant persan.</p>
+            <p>         3. În original se vorbeşte de Dadakes hiliarbos, adică cel care comandă o mie de ostaşi.</p>
+            <p>         4. Tenagorr. Comandant de trupe bactriene.</p>
+            <p>         5. Aias, Aiax: unul dintre cei doi eroi mitologici greci, participanţi la războiul troian. Eschil face aluzie la Aias (fiul lui Telamon), stăpânitor al insulei Salamina. Aici este vorba de o perifrază pentru Salamina.</p>
+            <p>         6. Lilaios, Famukos, Amestris, Amfistreus: căpetenii persane.</p>
+            <p>         Pe ţărmul unei insule bogate în porumbei'<hi rend="color(#000000)">…</hi>  Cu nava lor pieriră Cei de la Nil, 2 atât de tari în scuturi – Pieri Arcteus şi pieri Adeues3 Pieri Famukos cel cu scutul tare; Matallos Hrisianul4 comandând Vreo zece mii, murind, a mai văzut, Cum barbajui roşcată, lungă, deasă, Culoarea şi-o schimba încet-încet, în baia cea de purpură<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Şi magul</p>
+            <p>         Arâbos, 5 şi Artames 6 bactrianul, Ce comandau treizeci de mii de negri încălăraţi, sunt înghiţiţi, de-a pururi, De aspra glie unde au căzut; Pieri Amestris şi nepotolitul Aruncător de suliţi, Amfistreus! Îmbracă doliul, o, cetate Sardes, Căci marele viteaz Ariomârdos Şi el căzu! Căzut-a şi Seisâmes7 1 Insulă care, după unii comentatori, n-a putut fi încă indentificată.</p>
+            <p>         2 Egiptenii.</p>
+            <p>         3Adeues: căpetenie a trupelor lidiene subordonate perşilor.</p>
+            <p>         4 Matallos Hrisianul: războinic din Hrisa (numele mai multor insule din Marea Egee şi al unui oraş din Troada).</p>
+            <p>         5 Arâbos: căpetenie magă (din tribul magilor). Tribul magilor, a cărui existenţă este atestată de istorie (Herodot, Strabe), trebuie deosebit de numele castei preoţeşti a persanilor, celebrii magi a căror denumire ajunge, mai târziu, sinonimă cu „vrăjitori, şarlatani”.</p>
+            <p>         6 Artames: comandant persan, conducător al oştilor bactriene.</p>
+            <p>         7 Seisâmes: căpetenie de trupe misiene, din armatele subordonate perşilor.</p>
+            <p>         Din Misia! Şi Thâribis din Lima, Eroicul oştean, ce-avea subt braţ Vreo două sute şi cincizeci de nave, La rând şi el căzu, nefericitul; Şi-n ce-i priveşte pe cilicieni, Căzut-a Siennesis, comandantul Cel mai viteaz, împrăştiind în rândul Vrăjmaşilor îngrozitor măcel! Aceştia sunt, precât îmi amintesc, Căzuţii comandanţi. Dar n-a rostit Cuvântul meu, măcar a mia parte Din lanţurile de nenorociri<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         O, plângeţi ochi şi lăcrămaţi! Mărire A Persiei, pe veci ai asfinţit<hi rend="color(#000000)">…</hi>  Mai stai puţin! Întoarce-te: avură Atâtea nave grecii, de-au putut Armatele persane să înfrunte şi flota s-o scufunde?</p>
+            <p>         VESTITORUL</p>
+            <p>         Deci, aflaţi: în ce priveşte numărul de nave, Biruitori puteau să iasă perşii, Căci flota inamică a avut Trei sute numai şi încă zece nave Alcătuind rezerva! Xerxes însă Spre vălmăşag a repezit o mie şi mai avea şi două suteşapte</p>
+            <p>         De nave iuţi! O, iată, iată, deci: A noastră flotă, după cum vedeţi, Puternică era şi mai presus; Dar zeii au voit să fim zdrobiţi, Pe-ale balanţei talgere punând Izbândă pentru greci, căci ocrotesc Cetatea mândră a zeiţei Pallas<hi rend="color(#000000)">…</hi>1</p>
+            <p>         REGINA</p>
+            <p>         Atena, deci, n-a fost măcar ştirbită?</p>
+            <p>         VESTITORUL</p>
+            <p>         Bărbaţii ei sunt neînvinse ziduri!</p>
+            <p>         REGINA</p>
+            <p>         Dar care-a fost semnalul de asalt?</p>
+            <p>         Porniră, oare, grecii, bătălia, Sau fiul meu, cu nave fără număr?</p>
+            <p>         VESTITORUL</p>
+            <p>         Stăpână preaînaltă! Tot dezastrul Ni l-a adus un zeu al răzbunării, Ivit ca din senin, de nu ştiu unde. Ni l-a adus prin gura unui grec.2 într-adevăr veni un grec din oastea Ateniană. Cum s-a dus la Xerxes, 3 1 Atena, oraş închinat zeiţei Pallas-Atena, în mitologia greacă, zeiţa înţelepciunii.</p>
+            <p>         2 Numele grecului era Sikinnos, preceptorul copiilor lui Temistocle.</p>
+            <p>         3 Flota persană era ancorată la Falera, unul dintre cele trei porturi ale Atenei.</p>
+            <p>         I-a spus că grecii, la începutul nopţii, în taină vor să fugă, îmbarcaţi Pe navele în pâlcuri, încercând Să scape de pieire, fiecare Pe seama lui fugind<hi rend="color(#000000)">…</hi>  Când auzi Această veste, Xerxes n-a gândit La viclenia grecului şi nici La gelozia zeilor! Curând, El şi-a chemat la sine comandanţii Escadrelor, spunându-le că-ndată Ce soarele va asfinţi şi umbra O să cuprindă bine greul flotei, In trei temute linii, să păzească Ieşiri şi trecători, mereu izbite De valurile mării<hi rend="color(#000000)">…</hi>  Alte nave, într-o mişcare de învăluire şi insula lui Aias s-o-nconjoare! Aşa să fie! Poruncit-a Xerxes şi dacă grecii vor scăpa de moarte, Aflând spre mare drumuri tăinuite, Toţi comandanţii fi-vor osândiţi Să li se taie capetele! Mult S-a încrezut în inimă, rostind Cuvintele acestea!<hi rend="color(#000000)">…</hi>  Nu ştia Ce pun la cale zeii<hi rend="color(#000000)">…</hi>  Mai apoi.</p>
+            <p>         — Armatele s-au pregătit în tihnă. Curând cinau. În tihnă, marinarii Se pregăteau şi ei, să fie gata, Legându-şi bine vâslele-n curele! Şi cum lumina soarelui s-a stins, Şi noaptea s-a lăsat, vâslaşi, soldaţi, S-au şi întors la nave. Greul flotei S-a rânduit în linii. Fiecare Se şi afla pe locul poruncit. Statură marinarii şi soldaţii în încordată stare de alarmă! Şi noaptea a trecut. Vrăjmaşii însă N-au încercat să scape în ascuns -Dar când ivit pe albii telegari, Din unda Mării, Soarele, lumină Strălucitoare pe pământ vărsa, S-a auzit dinspre vrăjmaşi strigare Puternică, solemnă ca un imn şi stâncile din insulă purtau Necontenit, ecourile<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Grecii</p>
+            <p>         Aşa se pregăteau de bătălie, Cântându-şi imnul lor solemn, dar plin De hotărârea de-a pieri luptând! Şi trâmbiţele, mii, în vremea asta Sunau şi răsunau chemări înalte, în liniile grecilor<hi rend="color(#000000)">…</hi>  Curând, S-a auzit a vâslelor pornire, în ritm mişcând, în ritm lovind talazul! Le-am şi văzut! Venea aripa dreaptă, în linie de nave neştirbită! Şi toată flota a pornit apoi, Şi-un glas striga, aproape, o înaltă Chemare de îndemn: „Ci, haideţi, fii Ai Greciei, la lupta cea supremă!</p>
+            <p>         Veniţi! Veniţi! Eliberaţi pământul Străbunilor! Eliberaţi copiii! Eliberaţi soţiile! Veniţi! Daţi templelor străbune libertate! Eliberaţi şi locurile unde Zac îngropate oasele străbune! Veniţi! Veniţi! Acum, ori niciodată<hi rend="color(#000000)">…</hi>” „întârzierea e pieirea noastră!” Au murmurat persanii ca-ntr-un freamăt, Dar prea târziu, căci nave contra nave Pornesc îndat' şi pintenii de bronz Se şi ciocnesc! O navă inamică • Dă prima semnul crunt de năvălire, Când a tăiat parâma unei nave Feniciene! Nave contra nave Veneau! Veneau! Şi greul flotei noastre S-a îndesat în cruntă rezistenţă La început, dar s-au îngrămădit în trecătoarea-ngustă şi grozav Trosneau când se izbeau întreolaltă, Cumplit zdrobindu-şi prorele de bronz Şi sfărâmându-şi vâslele! Atunci Triremele 2 greceşti le-nvăluiră, Venind din dreapta! Le izbesc! Şi-aşa, Le-au răsturnat, încât întreaga mare 1 Se crede că primul atacant grec se numea Aminias din Palena şi ar fi fost frate al lui Eschil.</p>
+            <p>         2 Vase cu trei rânduri de vâsle.</p>
+            <p>         Nu se vedea subt multele epave Şi-nsângerate stârvuri omeneşti. Şi ţărmurii şi stâncile sunt toate Acoperite numai de cadavre<hi rend="color(#000000)">…</hi>  Pe undele în fierbere, apoi, Dezlănţuit-au vâslele rămase îngrozitoarea fugă! Iară grecii Izbesc îrvnoi ca-n nişte peşti, zdrobind Spinări şi ţeste, cu bucăţi de vâsle, Cu resturile smulse din epave; Şi răcnetele înspăimântătoare Domină doar întinderile mării, Pân' noaptea cea la chip întunecoasă Pogoară-ncet, acoperind dezastrul<hi rend="color(#000000)">…</hi>  Aşa a fost! Şi nu mă simt în stare Să-nşir aice numărul de pierderi; Nu mi-ar ajunge zece zile-n şir! O, niciodată, niciodată încă, în lungul unei zile n-au pierit Atâţia oameni<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Vai, nefericirea</p>
+            <p>         A puhoit grozav asupra noastră Şi-a tuturor popoarelor barbare<hi rend="color(#000000)">…</hi>1 1 Grecii considerau celelalte popoare drept „barbare”. Evident, Eschil comite o inadvertenţă punând în gura unei persane acest apelativ.</p>
+            <p>         VESTITORUL</p>
+            <p>         Dar tot ce-a spus cuvântul meu, acum, E prea puţin, pe jumătate doar! Dezastrul abătut e, pe puţin, De doua ori mai mare<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         O, vai mie!</p>
+            <p>         Dar ce nenorociri mai crude încă, Puteau lovi armatele?</p>
+            <p>         VESTITORUL</p>
+            <p>         Pe zei!</p>
+            <p>         A fost să piară ruşinos şi josnic Tot tineretul Persiei, atât De strălucit prin vitejia lui, Atât de nobil şi de strălucit Prin dragostea ce regelui o poartă!</p>
+            <p>         REGINA</p>
+            <p>         O, ce mi-i dat s-aud, bătrâni prieteni? Hai, inimă, primeşte izbitura! Cum au pierit, deci tinerii?</p>
+            <p>         VESTITORUL</p>
+            <p>         Se află O insuliţăl-n faţa Salaminei, 1 Insuliţa se numeşte Psittalia şi este situată la gura strâmtorii, între Salamina şi coasta Aticei.</p>
+            <p>         Spre care nici o navă nu pătrunde, Şi-al cărei ţărm îl cercetează doar Slăvitul zeu al corurilor, Pan!' Acolo, Xerxes şi-a mânat soldaţii, Să fie gata: navele greceşti Când vor porni amestecul de spaimă, Soldaţii lui să căsăpească grecii Refugiaţi pe insula aceea, Cum şi pe cei de valuri aruncaţi! Dar Xerxes n-a citit cum se cuvine Enigma viitorului: cum grecii Din vălmăşag biruitori ieşiră, Şi-au îmbrăcat pieptarele de bronz Şi au sărit pe nave! Şi aşa, înconjurat-au insula, încât Nu mai ştiau ai noştri cum să scape; Şi mii de bolovani îi omorau şi arcurile împroşcau din coarde Săgeţile! Apoi, la un semnal, Spre perşii de pe insulă porniră, într-un asalt! Măcelul săvârşit A fost îngrozitor! Pieriră perşii, Tăiaţi şi spintecaţi, până la unul! Şi-n vremea asta, Xerxes, pe-o colină 2 înaltă şi aflată lângă ţărm, Ce domina întregul front, văzând 1 Pair. În mitologia greacă, zeul turmelor şi reprezentantul naturii personificate.</p>
+            <p>         2 Probabil înălţimea Aigaleos ce domină strâmtoarea.</p>
+            <p>         Măcelul săvârşit, plângea în hohot, îşi sfâşia veşmintele, strigând Cu desperare<hi rend="color(#000000)">…</hi>  Tot atunci a dat Poruncă şi armatelor terestre, Să se retragă! Fugă a-nsemnat Retragerea aceasta!</p>
+            <p>         Iată, deci, Regină, pentru ce vei geme încă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         O, soartă duşmănoasă! Iată cum Ne-ai amăgit speranţele! Aceasta A fost pedeapsa înspăimântătoare Primită de Atena cea ilustră? O, fiul meu! N-a fost destul dezastrul Soldaţilor pieriţi la Maraton? Voind să pescuiască răzbunarea, Năvodul tău n-a scos decât pedepse! Dar spune-mi, vestitor: pe unde sunt Persanii noştri comandanţi de flote, Scăpaţi de la măcel?</p>
+            <p>         VESTITORUL</p>
+            <p>         Un vânt prielnic I-a ajutat să fugă, fiecare Pe nava sa<hi rend="color(#000000)">…</hi>  Şi pedestrimea toată Pierit-a în Beoţia, 1 de sete, 1 Beoţia. Celebră provincie din Grecia antică, situată la sud-est de Dorida, în nordul Aticei. Capitala era Teba.</p>
+            <p>         În van cătând fântâni cu ape limpezi! [Iar noi, ceilalţi, înăbuşiţi de fugă,] &lt; Am străbătut pământul foceian, Şi-apoi Dorida străbătând în fugă, Cu gâturile arse, am ajuns, în golful Maliacului, 2 la râul Ce-i spune Sperchis, limpede în ape<hi rend="color(#000000)">…</hi>  Şi-apoi.</p>
+            <p>         — Bătând câmpiile Ahaiei Şi satele Tesaliei, 3 cu pasul, Ne-am nimicit de foame şi de sete! Şi-ajuns-am la Magneţia; 4 apoi, La macedoni, la apa Axios. Şi am văzut şi muntele Pangeu 5 Şi trestiişul lacului Bolbe 6 Departe-n Edonida! 7 Şi aci Prin îndurarea cerurilor, zeii Au îngheţat de la un mal la altul Talazurile sfântului Strimon8 încât, văzând aceasta şi ateii, 1 în acest loc textul original este lacunar; versul restabilit este mai degrabă bazat pe supoziţii.</p>
+            <p>         2 Maliac. Golf pe ţărmul vestic al Mării Egee, lângă Termopile, la graniţa nordică dintre Dorida şi Tesalia.</p>
+            <p>         3 Tesalia: ţinut vestit din Grecia antică, situat pe ţărmul de vest al Mării Egee, la sudul Macedoniei.</p>
+            <p>         4 Magneţia: ţinut în nordul Tesaliei.</p>
+            <p>         5 Pangeu. Munte în nordul Macedoniei, vestit pentru minele lui de aur.</p>
+            <p>         6 Bo/be: lac în Tracia, dincolo de fluviul Strimon.</p>
+            <p>         7 Edonida: ţinut pe malul fluviului Strimon, în Tracia.</p>
+            <p>         8 StrimoiT. Struma de astăzi; fluviu în Tracia antică; se varsă în nordul Mării Egee.</p>
+            <p>         Îngenunchind, au dat strigări înalte Pământului şi sacrelor văzduhuri! Apoi, sfârşind prelunga rugăciune, Pe punţi de gheaţă fluviul l-am trecut, Dar fericiţi sunt cei ce apucară Să treacă peste fluviu, înainte De suliţele zeului luminii! Căci, în curând, când discul luminos Al Soarelui a început să bată Cu flăcările lui scânteietoare, în sfântul fluviu, gheaţa se rupea, Şi-ngrozitor se-ngrămădeau fugarii şi fericiţi cei ce piereau întâi! Iar noi, puţinii mântuiţi de moarte, Am îndurat în Tracia grozav, Şi-aşa, puţini de tot, am răzbătut Acasă, pe pământul strămoşesc! O, lăcrămează, Persie şi plângi, Căci pentru tine scuturată-i floarea Poporului<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Acesta-i adevărul! Dar gura mea puţin a fost în stare şi n-a rostit în amănunt dezastrul Cu grozăvia lui<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         (Părăseşte scena.)</p>
+            <p>         CORIFEUL O, zei! O, zei!</p>
+            <p>         Nemilostivă soartă, ce osândă Ai abătut spre PersiaL.</p>
+            <p>         REGINA</p>
+            <p>         Vai mie!</p>
+            <p>         Armata? Nimicită! O, vedenii întunecoase, aţi avut dreptate! Şi voi, bătrânii, aţi judecat uşor! Dar sfatul mi l-aţi dat; şi-acum, mă duc Şi zeilor mă voi ruga! Apoi, Ofrande în palat voi închina, Pământului şi celor din morminte<hi rend="color(#000000)">…</hi>  Trecutu-i mort, dar vine viitorul! Iar de la voi, bătrânilor prieteni, Vom aştepta credinţa datorată Odraslelor regeşti! Şi dacă vine, în lipsa mea, nefericitul Xerxes, Să-l mângâiaţi, bătrâni, cum se cuvine şi în palat să-l însoţiţi, de teamă Ca nu cumva nefericirii noastre Să-i mai aducă Xerxes încă una! 1 (Regina iese împreună cu alaiul ei.) Melodramă.</p>
+            <p>         CORIFEUL</p>
+            <p>         Deci, ceasul a sosit! Armata mândră A perşilor nenumăraţi şi falnici E nimicită! Rege, ce-ai făcut? Cu mâna ta ai îmbrăcat, o, rege, 1 Suveranii orientali obişnuiau să-şi puie capăt zilelor atunci când sufereau câte o înfrângere zdrobitoare.</p>
+            <p>         Şi Susa şi Ecbatana, în doliu!</p>
+            <p>         Mii de femei, 1 cu mâinile lor slabe, Cu unghiile vălurile-şi rup şi lacrimile – râuri se revarsă Pe sânul lor<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Soţiile persane</p>
+            <p>         Abia-şi opresc suspinele, bocindu-şi Bărbaţii morţi, şi-mbrăţişarea lor Atât de bărbătească!</p>
+            <p>         Plâng şi gem, După podoaba paturilor moi, Căci, cum să-şi uite focul tinereţii? Şi plâng şi gem soţiile, udându-şi Cu lacrimi, doliul şi le ard grumajii, Suspinele de flacără, nestinse, Şi, iată, celebrez acum, eu însumi, A oştilor obştească săvârşire<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Cu însufleţire.</p>
+            <p>         CORUL</p>
+            <p>         Sosit e ceasul! Asie întreagă, Lipsită de popoare, lăcrămează! Dar Xerxes le-a mânat spre nimicire! O, Xerxes le-a pierdut! Ca un nebun Le-a repezit spre moarte! Numai Xerxes Şi flota lui!</p>
+            <p>         1 E vorba de mamele şi de surorile ostaşilor plecaţi în bătălie. De soţii va fi vorba mai jos.</p>
+            <p>         O, Darâus, de ce</p>
+            <p>         N-ai fost în locul lui, mărite rege, Atât de bun şi-atât de bun războinic Şi neînvins? Toţi oamenii din Susa O, Darâus, atât te-au adorat!</p>
+            <p>         Şi pedestrimi şi marinari, în stol Enorm de păsări, i-a-nghiţit tenebra Văzduhului! Vai, mie! Ei au dus A tâtea na ve să le-nghită marea, O, ei le-au dus, vai, mie, la ciocnirea Dezastru/ui! Şi numai singur Xerxes A mai aflat scăpare, doar cu fuga, Din mâna cea vrăjmaşă, furişat Doar printre stânci de gheaţă şi câmpii în Tracia, pe neumblate drumuri<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         O, plângeţi, ochi, sfârşitul trist al celor Dintâi căzuţi la ţărmul lui Kihreus! Hai, plângeţi, ochi! Daţi gemetelor drumul! Cu unghiile inima v-o rumpeţi! Strigaţi atât de tare, să se-audă Până la ceruri! O, strigaţi mai tare, Mai tare implorarea ridicaţi-o! Până la ceruri geamătul urcaţi-l! Încremeniţi văzduhuri şi-ascultaţi: Ei au pierit, de furiile Mării Zvârliţi şi aruncaţi şi sfâşiaţi 1 Kihreus. Erou din insula Salamina, după numele căruia s-ar fi dat insulei vechea denumire de Kihreia.</p>
+            <p>         De multe fiinţe ale Mării Cu undele sărate! Zei din ceruri! Părinţii noştri nu mai au feciori! Bătrâni nefericiţi, mai tare gemeţi, Căci doar dureri, în valuri, ne-a adus Grozava catastrofă<hi rend="color(#000000)">…</hi>  Maiestuos şi sincer.</p>
+            <p>         Multă vreme, N-o să-şi mai plece Asia grumazul. Subt legile persane! Multă vreme Tributurile nu le-or mai plăti Popoarele supuse! Multă vreme, N-or mai cădea popoarele-n genunchi, Căci regele cel mare şi-a pierdut Puterea naltă!</p>
+            <p>         Limbilel supuse N-or mai simţi zăbala! Este liber şi liber glăsuieşte un popor, Abia când zvârle jugul de pe umeri! Puterea noastră şi-a aflat mormânt în glia cea de sânge încruntată, Pe insula luiAias, bântuită De valurile mării<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Intră regina, pe jos, îmbrăcată în veşminte simple. Este urmată de sclave cu ofrande.</p>
+            <p>         1 Limbă- popor.</p>
+            <p>         REGINA</p>
+            <p>         Voi, bătrâni, Aţi cunoscut ce-nseamnă grija neagră? De umbra lor se tem îngrijoraţii şi cred că fericirea n-are margini, Când îi atinge raza fericirii<hi rend="color(#000000)">…</hi>  Şi astfel, eu, de umbra mea mă tem şi duşmănia zeilor o văd în orice lucru! În auzul meu, Necontenit răsună ca un strigăt Tumultuos şi inima-mi încruntă De-o şi mai neagră spaimă! O, de-ar fi Al biruinţei strigăt! Dar e groaza! Pe jos venit-am din palatul meu! Lăsat-am fastul de odinioară, Căci vreau s-aduc lui Darâus prinosuri, Spre liniştirea celor din morminte! Întâi, jertfi-voi lapte alb şi dulce şi muls de la o vită ne-ntinată De-a jugului povară! Voi jertfi Şi miere aurie, de albine, Din sucul cald al florilor răpită; Şi voi jertfi licoare preacurată, Strălucitoare, bună de băut în stare pură şi anume stoarsă Din viţa cea sălbatică, aflată într-o bătrână şi vestită vie; Şi voi jertfi din rodul parfumat Al albului măslin, ce niciodată Nu-şi scutură podoaba de frunzişuri;</p>
+            <p>         Şi voi jertfi ghirlănzi de flori, suave Şi proaspete fecioare ale gliei! Deci, înălţaţi, bătrâni, cântări solemne, Spre evocarea celor din morminte! Să-l evocaţi pe Darâus divinul, In timp ce eu pământului voi da Să soarbă din licori şi să ajungă Până la gura zeilor din Hades<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Me 1 o dram ă.</p>
+            <p>         CORIFEUL</p>
+            <p>         Prinosurile varsă-le, regină, Pământul adăpând! Noi vom cânta, Prin imnurile noastre să chemăm Bunăvoinţa celor ce păzesc Preasfinţii morţi, pe celălalt tărâm!</p>
+            <p>         O, voi, divinităţilor preasfinte, O, Geea, 1 şi tu, Hermes, 2 vă-nduraţi! Înaltule stăpân ce-i ai în pază Pe morţii noştri, vă-nduraţi, o, zei şi spiritul lui Dari'us lăsaţi-l Să se ivească la lumina zilei, Căci dacă ne mai pasc nenorociri, El singur, numai, leacul le cunoaşte<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 Geea. În mitologia greacă Gfe, divinitate personificând pământul. Era de obicei invocată în formulele incantatorii şi în magie.</p>
+            <p>         2 Hermes: în mitologia greacă, ambasadorul zeilor. Printre variatele lui atribuţii (zeu al turmelor, al drumurilor, al comerţului, al elocvenţei etc.) o avea şi pe aceea de a conduce sufletele în Hades. În acest caz se numea Hermes Psihopompos şi la această ipostază face aluzie Eschil.</p>
+            <p>         Corul începe evocarea pe care o subliniază cu strigăte şi gesturi violente: suspină şi-şi loveşte pieptul, sau geme şi strigă pe cel mort.1</p>
+            <p>         CORUL</p>
+            <p>         Mărite rege, luminos ca zeii, Auzi-mă, din celălalt tărâm, A uzi-mi, dar, sfâşietorul strigăt, Ce-l smulg, gemând, din gura mea barbară, Cu plânsul meu şi cu a mea durere Din rădăcini umite! Din adâncul Cel nepătruns al umbrelor, ascultă Strigarea suferinţelor grozave!</p>
+            <p>         Auzi-mă, o, Geea! Zei ce-a veţi Al umbrelor imperiu în putere, îngăduiţi acestor mari eroi, Acestui zeu al perşilor, născut La noi în Susa – o, îngăduiţi-i Să părăsească negrele lăcaşuri! Trimiteţi-l luminii pe eroul Ce nu mai are seamăn printre cei Acoperiţi de-al Persiei pământ!</p>
+            <p>         Câtni-i de drag acest erou, o, zei! Cât ni-i de drag mormântul ce-i închide Iubitul spirit! Tu, Aidoneus, 2 1 Această mimică dezordonată a corului este ridiculizată de comediograful grec Aristofan (aproximativ 450 – aproximativ 386 î.e.n.) în Broaştele.</p>
+            <p>         2 Aidoneus: alt nume al lui Hades, zeul infernului. În mitologia greacă Hades semnifică în acelaşi timp şi infernul.</p>
+            <p>         Puternice stăpân A'âdoneus, Minunea săvârşeşte-o, zeu puternic, Neîntrecutul rege, să apară<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         El nu şi-a nimicit nicicând soldaţii! De aceea perşii îl recheamă azi, Cu sfaturile-ipline de lumină, Căci înţelept mereu a fost în sfaturi şi oştile-i mereu biruitoare!</p>
+            <p>         Stăpânul nostru vechi! O, rege, vino! Te-arată din mormânt şi ca lumina Să străluceşti, ivindu-te deasupra Mormântului! O, vadă-se acum, Sandala caşofranul! Într-un fulger De pietre scumpe ochii noştri vadă Podoabele tiarei1 tale, rege! Părinte bun, o, Darius, învie!</p>
+            <p>         Apari, stăpân peste stăpânul nostru! Văzduhu-iplin de ceţuri mortuare, De cândpieriră-n Grecia feciorii! Arată-te, părinte, o, preadarnic, O, tu, cel plâns de-o mie de prieteni!</p>
+            <p>         Sunt nimicite flotele persane! Nicicând de-acum n-or mai străbate mări<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Deasupra mormântului se ridică umbra lui Darius.</p>
+            <p>         1 Un fel de cuşmă conică, îndeobşte de fetru, având la vârf un bumb, dintr-o nestemată.</p>
+            <p>         2 O lacună de trei versuri care, în manuscrisul original, sunt desfigurate şi lipsite de orice sens.</p>
+            <p>         UMBRA LUI DARTUS</p>
+            <p>         Voi, credincioşi părtaşi ai tinereţii, Bătrânilor persani, ce suferinţă A întristat aşa cetatea Susa? De ce suspini şi gemi, o, Susa mea, Că până şi pământul se despică?' îmi văd soţia la mormântul meu, Prinosuri aducându-mi. Le primesc, Cu dragoste, dar spuneţi, o, prieteni, De ce bociţi şi gemeţi, evocând Cu-atâtajale, morţii din morminte? De ce mă cheamă gemetele voastre? Nu e plăcut deloc, să părăseşti Tărâmurile umbrelor, căci zeii Sunt învăţaţi să ţină, nu să lase Din mâna lor pe cei ajunşi la ei; Dar i-a convins să mă elibereze Renumele de care eu mă bucur şi am venit! Grăbiţi-vă răspunsul, Că-mi trece vremea! Oare, ce durere Te mai apasă, Persie?</p>
+            <p>         CORUL</p>
+            <p>         O, rege, Nu îndrăznesc să te privesc în faţă! Cum aş grăi în faţa ta? Şi stăm încremeniţi ca stanele de piatră<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 După credinţa superstiţioasă a vechilor greci, pământul se desface datorită forţei magice a incantaţiei funebre recitate de cor.</p>
+            <p>         DARIUS</p>
+            <p>         O, nu e timp! Grăbiţi-vă, căci vremea Ca umbra mi se trece! Am venit Căci m-a chemat potopul de suspine! Nu vă sfiiţi! Grăbiţi-vă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         O, zei!</p>
+            <p>         Mi-i teamă să răspund dorinţei tale! Cum aş rosti cuvintele grozave, Când te iubim atât<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         De nu puteţi</p>
+            <p>         Grăi în faţa mea, voi da cuvânt Către soţia mea, căci împreună Odinioară patul împărţirăm<hi rend="color(#000000)">…</hi>  Spre tine, deci, mă-ndrept, aleasa mea, Să-ţi ogoiesc şuvoaiele de lacrimi Şi-adâncile suspine! Hai, vorbeşte, Căci muritori sunteţi şi muritorii Supuşi au fost în veci de veci durerii<hi rend="color(#000000)">…</hi>  Dureri sosesc pe mări şi pe pământuri Şi, totuşi, viaţa curge înainte<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Tu, cel ce-ai întrecut prin fericire întreaga generaţie de oameni şi câtă vreme ai trăit sub soare Ai fost mereu invidiat ca zeii;</p>
+            <p>         Şi astăzi încă te mai pizmuim, Căci, amurgind spre celălalt tărâm, N-ai mai văzut prăpastia căscată A nemaipomenitelor dureri! Ci, află, rege Dari'us:puterea Imperiului persan s-a prăbuşit!</p>
+            <p>         DARIUS</p>
+            <p>         Dar cum? Venit-a ciuma, sau răscoala?</p>
+            <p>         REGINA</p>
+            <p>         O, nu! Ci spre Atena, puhoind, Armata noastră fost-a nimicită!</p>
+            <p>         DARIUS</p>
+            <p>         Dar spune-mi, care dintre fiii mei A dus războiul?</p>
+            <p>         REGINA</p>
+            <p>         Xerxes, fiul tău, Nestăpânitul, a golit de oameni Tot continentul<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         Pe pământ, pe mări, A încercat această nebunie?</p>
+            <p>         REGINA</p>
+            <p>         Pe mări şi pe pământ au puhoit Armatele persane, dintr-o dată, Pe două drumuri<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         Cum? Şi pedestrimea Trecut-a marea?</p>
+            <p>         REGINA</p>
+            <p>         A trecut-o! Xerxes Legat-a continentele-ntre ele, Cu pod de vase, la strâmtoarea Helei.</p>
+            <p>         DARIUS</p>
+            <p>         A cutezat, deci, fiul meu, să-nchidă Bosforul vast?</p>
+            <p>         REGINA</p>
+            <p>         A cutezat! Se vede Că zei nefaşti îi rătăciră mintea!</p>
+            <p>         DARIUS</p>
+            <p>         Grozavi erau că l-au orbit aşa<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         Sfârşitul lui a însemnat ruina!</p>
+            <p>         DARIUS</p>
+            <p>         Şi pentru ce oftaţi? Ce sorţi avură Armatele?</p>
+            <p>         REGINA</p>
+            <p>         După dezastrul flotei, S-a nimicit armata de uscat!</p>
+            <p>         DARIUS</p>
+            <p>         Şi, un întreg popor, pieri aşa?</p>
+            <p>         REGINA</p>
+            <p>         Întreaga Susă plânge, pustiită De-ai săi bărbaţi<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         O, zeilor! Asemeni Armată de uscat n-a izbutit Nimic? Nimic?</p>
+            <p>         REGINA</p>
+            <p>         Nimic! Iar bactrienii, Viteji de totdeauna, căsăpiţi Au fost, până la unul şi nicicând Nu vor avea bătrâni<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         O, bactrienii! Atât de vechi şi straşnici aliaţi!</p>
+            <p>         REGINA</p>
+            <p>         Iar Xerxes, fiul tău, ar fi fugit, Doar cu puţini soldaţi şi fără fala Alaiului<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         Dar spune-mi, oare, unde Şi-a încheiat destinul? Şi mai sunt Speranţe de scăpare?</p>
+            <p>         H-0</p>
+            <p>         REGINA</p>
+            <p>         Fericit, Nespus, a fost, când a ajuns la puntea Cu care continentele unit-a<hi rend="color(#000000)">…</hi>1</p>
+            <p>         DARIUS</p>
+            <p>         Şi a ajuns în Asia? E drept?</p>
+            <p>         REGINA</p>
+            <p>         Toţi vestitorii au grăit la fel<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         Ah, zei! Cât de curând s-a împlinit</p>
+            <p>         Oracolul! Prea repede, tu, Zeus, Ai revărsat cereasca ta mânie, Spre fiul meu! Nădăjduiam că cerul</p>
+            <p>         Va amâna şi prelungi scadenţa, Dar când cei muritori ca orbii intră</p>
+            <p>         În ghearele primejdiei, nici zeii</p>
+            <p>         Nu-i mai opresc; ei îi împing din spate!</p>
+            <p>         Izvoarele durerilor, prieteni, Le-a revărsat doar zvăpăiatul Xerxes, Cu tinereţea lui nesocotită<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Lui i-a venit în minte să oprească, Prin lanţurile sclavilor, din curs</p>
+            <p>         Preasfântul Helespont, Bosforul, unde</p>
+            <p>         Nu apa curge ci un zeu se-alintă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 E vorba de podul de vase construit de către Xerxes.</p>
+            <p>         El a avut curajul să oprească Talazul din strâmtoare şi croind Pe pod de nave drumul colosalei Armate de invazie! O, Xerxes, Tu, muritor nesocotit! Ai vrut Pe zeii toţi să-i chemi la înfruntare şi să-l înfrunţi pe-al mării Poseidon<hi rend="color(#000000)">…</hi>1 Ce nebunie! Cât de orb a fost, Feciorul meu, în zvăpăierea lui! De-acum, mă tem că marile averi, Cu trudă îndelungă adunate, Cădea-vor pradă primului venit<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         REGINA</p>
+            <p>         De vină sunt şi prefăcuţii sfetnici, Linguşitorii! Ei i-au tot şoptit, Că tu ai adunat averi imense, Cu armele, pentru copiii tăi, în timp ce el, lipsit de îndrăzneală, Stă în palatul său şi nu aduce Comorilor nici o dobândă nouă<hi rend="color(#000000)">…</hi>  I-au tot grăit, perfizii, azi şi mâine şi vorbele au prins! De-aceea, deci, Porunca expediţiei a dat-o şi au pornit<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 Poseidoir. În mitologia greacă, zeul mării, care, în reprezentările statuare, este înfăţişat ţinând în mână un trident.</p>
+            <p>         DARIUS</p>
+            <p>         Deci, iată ce-au făcut, Linguşitori perfizi, cu mâna lor Dezlănţuind spre Susa cataclismul Cel nemaipomenit! Căci n-a mai fost Asemeni cataclism, de când, tu, Zeus, Ai dat în mâna unui singur rege Tot continentul!</p>
+            <p>         Medos! Fost-a primul! Iar fiul2 său, urmându-l în mărire, Desăvârşit-a opera-ncepută, Organizând imperiul, sfătuit De naltă-nţelepciune<hi rend="color(#000000)">…</hi>  Şi urmându-i Al treilea rege, Cirus, 3 norocosul, Peste supuşi a revărsat doar pace! Prin judecata sa, el a cuprins Şi Lidia şi Frigia, apoi A subjugat Ionia întreagă, Plăcut în ochii zeilor din ceruri! Al patrulea a fost feciorul său, 4 1 Medos: primul rege legendar al mezilor, fiu al Medeei şi al lui Egeu. Mitologia greacă îl consideră dătătorul de nume, patronul mezilor; în greceşte medos înseamnă med.</p>
+            <p>         2 Rege legendar al cărui nume nu s-a păstrat.</p>
+            <p>         3 Cirus: supranumit „cel mare”, fondf torul imperiului persan; a domnit între 558 – 528 î.e.n. în al treilea an al domniei l-a detronat pe Astiages, regele mezilor, a cucerit Ecbatana, capitala Mediei, apoi s-a proclamat rege al Persiei. Atacat de Cresus, regele Lidiei, îl învinge şi supune Lidia; apoi cucereşte Babilonia şi restul Asiei Mici, organizând marele imperiu persan.</p>
+            <p>         4 Cambise, fiul lui Cirus cel Mare, a cucerit Egiptul: a domnit întrea 529-522 î.e.n.</p>
+            <p>         Şi Mardisl a domnit, ruşinea ţării Şi-a jilţului străvechi – dar, Artafrenes Cu-ai săi conspiratori, pe negândite, Prinzându-l în palat, l-au omorât! [Şi fost-a cel de al şaselea Marafis 2 Al şaptelea, chiar Artafrenes însuşi]3 Şi, în sfârşit, eu însumi, dobândind Prin zbucium mult, domnia, am domnit! Adese, am condus nenumărate Armate, la război, dar niciodată Nu m-am întors învins din bătălii! E tânăr Xerxes! Judecata lui, Prea crudă încă, a uitat atâtea Poveţe ce i-am dat! O, vechi prieteni! Dac-am uni vreodată la un loc, Tot răul cel stârnit în lungul vremii, De toţi înaintaşii şi de mine, N-ar egala această catastrofă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 Mardis: de fapt Smerdis, fratele mezin al lui Cambise, asasinat de acesta din urmă. Eschil face aluzie la falsul Smerdis, un mag, Gaumeta pe adevăratul nume, care, profitând de faptul că asasinatul fusese ţinut secret, s-a dat drept autenticul Smerdis. Uzurpatorul s-a înscăunat în martie 521 î.e.n. După şapte luni de domnie a fost ucis de un grup de şapte conspiratori printre care şi Artafrenes, guvernatorul de mai târziu al Sardesului.</p>
+            <p>         2 Marafis. Pare-se că n-ar fi existat nici un rege persan cu acest nume. De altminteri versul în care apare citat este o interpolare. Conform datelor istorice, imediat după uciderea lui Mardis (Smerdis) tronul a fost ocupat de Darius I, fiul satrapului Histaspe.</p>
+            <p>         3 Interpolare după surse incerte.</p>
+            <p>         CORIFEUL</p>
+            <p>         O, Dari'us şi-atunci, ce-i de făcut? Cum va afla de-acum poporul nostru Limanuri către zilele mai bune?</p>
+            <p>         DARIUS</p>
+            <p>         Să nu luptaţi în Grecia nicicând, Chiar cu armate şi mai numeroase, Căci grecii au de partea lor pământul<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORIFEUL</p>
+            <p>         Pământul? Cum! E aliatul lor?</p>
+            <p>         DARIUS</p>
+            <p>         De bună seamă! Va înfometa Armatele, oricât de numeroase<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORIFEUL</p>
+            <p>         Vom ridica o flotă colosală Şi oşti alese<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         DARIUS</p>
+            <p>         Nu uitaţi: cei duşi, Care-au ajuns pe-al Greciei meleag, Nicicând nu s-or întoarce<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORIFEUL</p>
+            <p>         Cum? Nicicând?</p>
+            <p>         Deci ei nu vor mai trece Helespontul? Rămâne-vor pe veci în Europa?</p>
+            <p>         DARIUS</p>
+            <p>         Aşa va fi! Oracolul nu spune Doar jumătăţi de vorbe! Fost-a scris, O mână de soldaţi să se întoarcă Şi s-a-mplinit oracolul!</p>
+            <p>         Iar Xerxes, Neînvăţând nimic din catastrofă, Şi-a mai lăsat la greci, într-o câmpie, Armata lângă unda tulburată A râului Asop, ce fecundează Ogoarele Beoţiei! Acolo, Păţi-vor perşii multe rele încă, Prin îngâmfarea şi nelegiuirea Ce-o săvârşesc!</p>
+            <p>         Statui de zei despoaie şi templele le ard! Distrug altare, Dărâmă de pe socluri monumente şi le zdrobesc! O parte din pedeapsă Şi-au şi primit-o însă nu-i de-ajuns, Prăpastia nu s-a căscat întreagă, Până-n străfund! Pedepse-i mai aşteaptă! Ca libaţiuni, în valuri abundente, Alt sânge scurs subt lancea doriana Va îngraşă câmpia la Plateea! 1 1 Plateea: oraş în vechea Beoţie, situat la izvoarele fluviului Asop. Loc al celebrei bătălii între greci şi perşi, în anul 479 î.e.n., când generalul persan Mardonis a fost înfrânt şi a pierit în luptă împreună cu şase mii de soldaţi.</p>
+            <p>         Movilele de stârvuri, uriaşe, în graiul lor cel mut, mărturisi-vor Trei generaţii, oamenilor: „Iată, Voi, muritori! Să nu uitaţi nicicând: Supuşi sunteţi puterii mărginite! Să nu lăsaţi orgoliul să-ncolţească, De nu voiţi să crească spicul crimei şi s-adunaţi recoltele durerii!” Dar aţi văzut, prieteni, cum a fost Pedeapsa dată Persiei! Mereu Să v-amintiţi de Grecia şi de Atenieni! L Vă sfătuiesc, deci: nimeni, Uitându-şi bunăstarea, nu râvnească Spre bun străin, ducându-şi la ruină Norocul său! Căci Zeus, pururi este Răzbunător şi neînduplecat şi va lovi cu trăsnetul mereu, Neînfrânareapoftelor! Bătrâni! Datori sunteţi, voi, înţelepţi prieteni, La dreapta judecată să-l aduceţi Pe fiul meu! Vă rog să-l sfătuiţi Să nu înfrunte niciodată cerul, Prin îngâmfarea sa! Iar tu, bătrână Şi preaiubită mamă a lui Xerxes, întoarce-te-n palat! Alege pentru Feciorul tău veşmintele ce-i plac, 1 Se zice că Darius poruncise ca la fiecare masă un sclav să-i spună de trei ori: „Stăpâne, aminteşte-ţi de atenieni!”</p>
+            <p>         Şi vino de-l întâmpină, căci toate Veşmintele el şi le-a sfâşiat, Cu mâna lui, pe culmile durerii! Hai, linişteşte-l prin cuvinte bune, Căci doar pe tine, Xerxes te ascultă! Eu mă întorc pe celălalt tărâm, în grelele tenebre! Deci, vă las Cu bine, voi, bătrâni! Şi, nu uitaţi: Oricât de multe rele sunt aici, Primiţi cum se cuvine bucuria De a trăi! Căci morţilor, averea Nicicând nu le ajută la nimic<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Umbra dispare. Tăcere îndelungată.</p>
+            <p>         CORIFEUL</p>
+            <p>         Fără pereche e durerea mea, Durerile prezentului trăind, Şi-aflând ce-mi pregăteşte viitorul!</p>
+            <p>         REGINA</p>
+            <p>         Cât sufăr, zei! Trăi-voi umilinţa De a-l vedea pe fiul meu în zdrenţe! Măduc în fugă în palat, să caut Veşminte noi! Apoi voi încerca Să-mi recunosc copilul, căci nu pot Uita ce-mi este drag, nici chiar pe culmea Durerilor<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Iese.</p>
+            <p>         Amplu.</p>
+            <p>         CORUL</p>
+            <p>         O, zei! Imperiul nostru Era puternic, fericit era Cât fost-a rege Dari'us bătrânul, Puternicul şi binefăcătorul Şi neînvinsul<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Lumii arătarăm Armate neîn vinse! A de vărul Şi legile dreptăţii luminau A vântul cuceririlor! Triumfuri Am cunoscut!</p>
+            <p>         Cetăţi atât de multe A cucerit bătrânul nostru rege, Păr' să se mişte din palatul său şi far-a trece peste râul Halis! L în Tracia a cucerit cetăţi Aflate-n lungul golfului Strimon şi altele, de mare depărtare, Cu turnurile către continent! Şi s-au supus subt legea lui cea blândă, Cetăţile de pe strâmtoarea Helei şi istmurile Propontidei, 2 toate; Şi am ajuns cu stăpânirea noastră, La Pontul Euxin3 1 Halis: râu în Asia Mică, frontieră naturală între imperiul medic şi Lidia.</p>
+            <p>         2 Propontida. Vechi nume al Mării de Marmara.</p>
+            <p>         3 Pontul Euxitr. Vechi nume al Mării Negre.</p>
+            <p>         Asemeni, iară, Am stăpânit şi Lesbosul şi Samos Bogată în măslini şi Păros, Chios, Tot insule, de Asia aproape şi Naxos şi Micona; şi Androsul Şi Tenos, alte insule vecine! Şi-am stăpânit şi Lemnosul, aflat în calea dintre două continente, Şi-am stăpânit şi Rodosul cândva, Icaria şi Cnida, şi, asemeni, Cetăţile din Cipru: Paf os, Soloî şi Salamina, cea aflată-n Cipru şi metropolă le era Atena, Pricină a suspinelor de astăzi! Bogatele cetăţi ioniene, 1 Cu greacă populaţie, au fost Cuprinse, doar cu buna chibzuinţă! Erau soldaţii bine echipaţi şi trupele de sprijin, numeroase, Chemate din imperiile lumii, Alcătuiau puterea neînvinsă! Şi, fără îndoială, numai zeii A u hotărât să fim acum răpuşi Printr-un dezastru, în deschisă luptă Pe mare<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         1 E vorba de marile oraşe ioniene, vestite în antichitate: Milet, Efes, Colofon, Mionte, Priena, Lebedos etc.</p>
+            <p>         I</p>
+            <p>         Un car cu patru roţi, pe care se află un fel de cort, pătrunde în scenă. Dintr-însul coboară încet, clătinându-se, Xerxes, care face câţiva paşi înspre cor. Melo dram ă.</p>
+            <p>         XERXES</p>
+            <p>         O, nefericit ce sunt! Vai, ce dezastru înspăimântător, De nimeni aşteptat! Ce soartă crudă A nimicit poporul! Ce va fi? Genunchii mi se-ndoaie, la vederea Bătrânilor aceşti! Preasfinte Zeus, De ce n-a fost să pier cu-ai mei războinici?</p>
+            <p>         CORIFEUL</p>
+            <p>         Mă plec şi plâng şi plâng cumplit, o, rege, Măreţele armate nimicite şi gloria imperiului o plâng şi vitejia celor nimiciţi De-ngrozitoarea coasă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Lent şi greoi</p>
+            <p>         CORUL</p>
+            <p>         Plângi şi gemi, O, Persie, plecată spre mormântul Feciorilor născuţi pe glia ta! O, Xerxes i-a ucis! O, Xerxes numai, A populat tot Hadesul cu umbre! O,voi, arcaşi! Voi, floarea ţării noastre, Aţi coborât de-a pururea în Hades!</p>
+            <p>         S-au dus în pâlcuri, mii şi mii de oameni, Mulţimile, în pâlcuri, mii, compacte, S-a dus la bătălie floarea ţării şi a pierit în valul catastrofei! Şi Asia, o, rege, şi-aplecat Genunchii ei sub greutatea jalei<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         (ceva mai viu)</p>
+            <p>         Vai, mie, zei! Doar eu, nefericitul, O, numai eu am revărsat dezastrul, Spre neamul meu şi patrie<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Vai, mie!</p>
+            <p>         Nu pot să te întâmpin, rege Xerxes, Decât bocind şi suspinând de jale, O, nu te pot întâmpina, decât Ca bocitorul cel mariandin<hi rend="color(#000000)">…</hi>  L</p>
+            <p>         XERXES</p>
+            <p>         Daţi glas durerii! Suspinaţi şi gemeţi, Căci împotriva mea s-a-ntors Destinul!</p>
+            <p>         CORUL</p>
+            <p>         Într-adevăr, hai, glăsuiţi, suspine, Jeliţi dezastrul nemaiauzit 1 Mariandinii erau un trib din Bitinia, care, în cinstea zeului Bormos, îşi manifestau cu frenezie jalea.</p>
+            <p>         Ce l-a lovit pe mare! Bocitor Voi fi de-acum pământului străbun Şi bocitor voi fi unui popor! Suspinele vor fi merindea mea şi băutura mea<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Doar zeul Ares Iordanull ne-a răpit puterea! El a condus pe mări ioniene Vrăjmaşa flotă, numai zeul Ares Acoperi cu resturile noastre O mare duşmănoasă şi un ţărm Nenorocit! Suspină deci şi plângi, Şi-ntreaba-mă, căci totul îţi voi spune<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Doar singur vii? Dar unde-ţi sunt soldaţii? Pe Farandakes unde l-ai lăsat? Darsusas? 2 Dar Dotamas? 3 Pelagon? Dar Agdabatas? Singur? Numai singur? DarPsammis, 4 unde-i? Unde-i Susiskanes Ecbatanezul?</p>
+            <p>         1 Metaforă simbolizând înflăcărarea războinică a atenienilor. Ares: în mitologia greacă era zeul războiului.</p>
+            <p>         2 Susasr. General persan; după nume, originar din Susa.</p>
+            <p>         3 Dotamas (în realitate Datamas) Pelagon, Agdabatas: căpetenii persane.</p>
+            <p>         4 Psammis. După nume, probabil, general egiptean din armata persană.</p>
+            <p>         XERXES</p>
+            <p>         Au pierit… Pierit… Ci, repezi cu nava tiriană, Spre Salamina, i-au purtat apoi Talazurile mării răzvrătite, Pierind în lungul unui ţărm stâncos!</p>
+            <p>         CORUL</p>
+            <p>         Famukosl unde-i? Unde e bătrânul Ariomardos? Singur? Numai singur? Dar unde e şi regele Seuakes? 2 Şi, unde e Lilaios? Singur? Singur? Doar singur vii? Doar singur? Numai singur? Dar Memfis? 3 Dar Tharibis? Dar Masistras? Histaihmas unde-i? Unde-i Artembares?</p>
+            <p>         XERXES</p>
+            <p>         Nenorocit ce sunt! Ei au văzut Atena odioasă şi străveche, Apoi, pierirădintr-o lovitură<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Dar nu-l zăresc venind nici pe feciorul Lui Batanakos4 fiu al lui Sesamas! 5 1 Famukos, Histaihmas, Artembares: căpetenii persane.</p>
+            <p>         2 Seuakes: rege supus lui Xerxes, comandant în armata persană.</p>
+            <p>         3 Memfis. Probabil căpetenie din trupele egiptene, cun memfit, locuitor din Memfis, capitală a vechiului Egipt, considerat oraş sfânt.</p>
+            <p>         4 Batanakos: căpetenie persană, fiul lui Sesamas.</p>
+            <p>         5 Sesamas: general persan. Poate o transcriere diferită.</p>
+            <p>         Şi unde e Alpistos, 1 mână dreapta Şi „Ochi al tău de pază”? Nu-ţi era Numărător al oştilor? 2 Dar Partos? 3 Dar marele Oi bar? 4- O, rege Xerxes, Dureri mai mari pământul nu cuprinde! I-aipărăsit? Doar singur vii? Doar singur?</p>
+            <p>         XERXES</p>
+            <p>         Nu mă-ntreba, nu-mi re-nvia durerea!</p>
+            <p>         Nu-mi aminti şi tu, nenorocirea</p>
+            <p>         Nemărginită, înspăimântătoare!</p>
+            <p>         O, nu auzi cum geamătul răzbate</p>
+            <p>         Din pieptul meu? O, nu-mi auzi un strigăt</p>
+            <p>         Din inimă?</p>
+            <p>         CORUL</p>
+            <p>         Dar Xanthis5 unde-i, rege? Dar zece mii de călăreţi ai săi? Din neamulmard? Şi unde sunt Ankhares, 6 1 Alpistosr. Căpetenie persană; supranumit „Ochiul de pază” al regelui.”Ochii de pază” erau un fel de împuterniciţi ai regelui, care inspectau provinciile imperiului. După unii istorici este vorba de agenţii secreţi ai monarhului.</p>
+            <p>         2 Aluzie la recensământul oştirilor făcut de Xerxes în Tracia.</p>
+            <p>         3 Partos. Probabil căpetenie partă (membru al unui trib scit care, alungat din ţara de origine, s-a stabilit în Asia Mică) din armata persană.</p>
+            <p>         4 Oibar. Sau Oibares, căpătenie persană.</p>
+            <p>         5 Xanthis: căpetenie persană din tribul marzilor, trib persan nomad.</p>
+            <p>         6 Ankhares, Diaixis, Toltnos, Lithimnes: generali persani. Numele căpeteniilor persane egiptene, lidiene, misiene etc, ce nu poartă în dreptul lor date suplimentare ori alte menţiuni, desemnează, îndeobşte, personaje fictive. In puţine cazuri e vorba de personaje reale al căror nume însă Eschil l-a<hi rend="color(#000000)">…</hi>  -&gt;</p>
+            <p>         Diaixis şi călăreţii lor? Răspunde-mi, rege: darArsames, unde-i? Mă uit în urma carului, zadarnic, Căci nu-i zăresc pe Tolmos şi Dadakes, Nici pe Lithimnes, el, nepotolitul Aruncător de lănci —<hi rend="color(#000000)">…</hi>  Cu vioiciune şi subliniat.</p>
+            <p>         XERXES</p>
+            <p>         Pieriră toţi! Toţi comandanţii mei!</p>
+            <p>         O, ce ruşine!</p>
+            <p>         Vai mie, zei!</p>
+            <p>         CORUL</p>
+            <p>         XERXES</p>
+            <p>         CORUL</p>
+            <p>         Într-adevăr, doar zeii Puteau desfăşura acest dezastru Spectaculos şi demn numai de zeii Groza vi, ai răzbunărilor<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         —&gt; modificat, într-o măsură mai mare sau mai mică, fie din necesităţi de ordin stilistic sau prozodic fie menţinând tradiţia orală. De fapt, numele principalilor generali persani erau cunoscute de către atenieni, însă rolul lor în armata lui Xerxes era mai puţin sau defel cunoscut.</p>
+            <p>         XERXES</p>
+            <p>         Destinul Ne-a nimicit!</p>
+            <p>         CORUL</p>
+            <p>         Destinul doar? Destinul? Dar marinarii Greciei? Pe zei! Nenorocire nemaiauzită! O bătălie numai, nimicit-a Poporul tot<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Cum mă mai rabzi, o, Soare, Când a pierit pe mări şi pe pământuri Puterea mea?</p>
+            <p>         CORUL</p>
+            <p>         Dar nu în întregime!</p>
+            <p>         XERXES</p>
+            <p>         Din toate a rămas doar aparenţa! O vezi? O vezi?</p>
+            <p>         CORUL</p>
+            <p>         O văd<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Această tolbă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Şi încă ce?</p>
+            <p>         XERXES</p>
+            <p>         Săgeţile<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         O, resturi Atât de triste, dintr-un vast tezaur<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Dar înţelege: toţi apărătorii S-au nimicit<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Şi, deci, ionienii Făţiş primiră lupta?</p>
+            <p>         XERXES</p>
+            <p>         Ei, vitejii! Nu m-aşteptam la catastrofa asta!</p>
+            <p>         CORUL</p>
+            <p>         Dar Hota noastră? A fugit, cuprinsă De vânturile spaimei?</p>
+            <p>         XERXES</p>
+            <p>         Voi, bătrâni! Mi-am sfâşiat veşmintele, văzând-o.</p>
+            <p>         CORUL</p>
+            <p>         Nefericire mie!</p>
+            <p>         XERXES</p>
+            <p>         Doar atât? „Nefericire” numai?</p>
+            <p>         CORUL</p>
+            <p>         Rege Xerxes, Dar are, oare, culmi şi mai înalte Nenorocirea?</p>
+            <p>         XERXES</p>
+            <p>         Da! E adevărul Ca Grecia se bucură<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Pe veci, Puterile imperiului pieriră<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Şi însumi eu mă-ntorc zdrobit şi singur<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Căci flota noastră a pierit pe ape<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Te plâng, îngrozitoare catastrofă!</p>
+            <p>         Hai, paşi ai mei, spre casă mă-ndreptaţi!</p>
+            <p>         CORUL</p>
+            <p>         O, ce întorsătură<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Daţi strigare, Cumplit ecou al strigătului meu<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Ne-am mângâia strigând? Ce consolare!</p>
+            <p>         XERXES</p>
+            <p>         Amestecaţi şi gemetele voastre, In cântece, cu gemetele mele! O, întreita mea nenorocire!</p>
+            <p>         CORUL</p>
+            <p>         O, întreita mea nenorocire! Mai tare gem şi plâng<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         În pieptul tău</p>
+            <p>         Izbeşte-te, izbeşte-te cu pumnii, Necontenit oftează şi suspină, De suferinţa mea<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Sunt potopit De lacrimile jalei<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Daţi strigare, Grozav ecou al strigătului meu<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Îţi sunt ecoul strigătului, Xerxes!</p>
+            <p>         XERXES</p>
+            <p>         Să strălucească lacrimile voastre! O, întreita mea nenorocire<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         O, întreita mea nenorocire!</p>
+            <p>         Suspin, în piept izbindu-mă cu pumnii<hi rend="color(#000000)">…</hi>!</p>
+            <p>         XERXES</p>
+            <p>         Loveşte-te, mai tare şi mai tare! Boceşte şi mai tare şi mai larg, Ca misienii<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         O, dureri grozave!</p>
+            <p>         XERXES</p>
+            <p>         Cu deznădejde smulge-ţi barba albă!</p>
+            <p>         CORUL</p>
+            <p>         Cu amândouă mâinile, o, rege!</p>
+            <p>         XERXES</p>
+            <p>         Şi sfâşie-ţi de jale ţesătura Ce pieptul ţi-l acoperă<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Dureri îngrozitoare!</p>
+            <p>         XERXES</p>
+            <p>         Haide, smulge-ţi părul, Armata jeluind-o<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Mi-l voi smulge Cu amândouă mâinile<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Iar ochii In lacrimi scaldă-i<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Plâng şi plâng şi plâng<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Mai tare strigă desperarea mea!</p>
+            <p>         CORUL</p>
+            <p>         O, vai! O, vai, nenorocire mie!</p>
+            <p>         XERXES</p>
+            <p>         Peste cetatea mea, nenorocire!</p>
+            <p>         CORUL</p>
+            <p>         Durerile cutreieră cetatea! De mii de ori, nenorocire mie!</p>
+            <p>         XERXES</p>
+            <p>         Porniţi plângând în jalnicul alai Al întristării<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         V îl auzi? Auzi? Îngrozitor, pământul ţării geme, Subtpaşii noştri<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         XERXES</p>
+            <p>         Morţii tânguiţi-i şi tânguiţi şi navele persane, Cu vâslele-n trei rânduri<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         CORUL</p>
+            <p>         Te urmez, Cu lacrimile întristării mele<hi rend="color(#000000)">…</hi>
+            </p>
+            <p>         Regele părăseşte scena urmat de Cor.</p>
+            <p>                                                                                SFÂRŞIT</p>
+         </div>
+      </body>
+   </text>
+</TEI>

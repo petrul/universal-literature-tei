@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eschil</title>
+            <author>Eschil</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2013-08-17T15:14:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-02-02T14:01:57.662288528</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                       
+      <body>
+         <author>Eschil</author>
+         <div type="div1">
+            <head>Prometeu înlănţuit</head>
+            <p>        PERSOANELE (în ordinea intrării în scenă)</p>
+            <p>         CRATOS şi BIA</p>
+            <p>         HEPHAISTOS</p>
+            <p>         PROMETEU</p>
+            <p>         CORUL OKEANIDELOR</p>
+            <p>         OKEANOS</p>
+            <p>         IO, fiica lui Inachos</p>
+            <p>         HERMES</p>
+            <subtitle>         Locul tragediei este o regiune septentrională muntoasă pe malul mării. Intră Cratos şi Bia 1, aducându-l pe Prometeu, legat; sunt însoţiţi de Hephaistos, zeul şchiop şi faurul nemuritorilor.</subtitle>
+            <p>         CRATOS</p>
+            <p>         Sosit-am pe pământul unui meleag îndepărtat, călătorind prin ţara sciţilor, într-un pustiu lipsit de oameni2.</p>
+            <p>         Hephaistos, e datoria ta să împlineşti poruncile rostite răspicat de tatăl tău şi pe acest răufăcător să-l legi de stân-cile cu piscuri povârnite, în piedica de nesfărmat a lanţurilor de oţel 3.</p>
+            <p>         El a furat văpaia focului atoatemeşter şi floarea faimei tale, ca s-o dăruiască muritorilor.</p>
+            <p>         Pentru asemenea greşeală trebuie să ispăşească înaintea zeilor.</p>
+            <p>         Înveţe să cinstească noua stăpânire a lui Zeus şi înceteze să mai facă pe iubitorul omenirii!</p>
+            <p>         HEPHAISTOS</p>
+            <p>         Cratos şi Bia, voi aţi împlinit porunca lui Zeus până la capăt; nimic nu vă sileşte să mai staţi aici.</p>
+            <p>         Dar nu cutez să-nlănţuiesc cu forţa o rudă 4 şi un zeu de-această culme bântuită de furtuni.</p>
+            <p>         Şi totuşi, trebuie să mă încumet; e greu să nu ţii seama de cuvântul tatălui.</p>
+            <p>         Fecior cu gânduri îndrăzneţe a drept-cumpănitoarei i Themis 5, eu te voi fereca, fără să vreau nici eu, fără să I vrei nici tu, cu noduri încâlcite de oţel, de piatra steiului acestuia, pe care n-a călcat vrun om.</p>
+            <p>         Aici nu vei mai întâlni nici glas, nici chip de muritor, iar pielea, arsă de dogoarea focurilor soarelui, ţi se va ofili.</p>
+            <p>         Şi vei fi bucuros când noaptea cu veşmânt pestriţ va înveli lumina şi tot aşa când soarele va risipi din nou în zorii zilei promoroaca.</p>
+            <p>         Durerea unui rău nestins te va căzni mereu; şi încă pentru tine nu s-a-nfiripat vreun mângâietor.</p>
+            <p>         Atât -ai_dobândit. Din i ocul tău de-a binefăcătorul_ome-nirii! ~</p>
+            <p>         ~ Zeu, de mânia zeilor neînfricat, i-ai copleşit pe oameni, dincolo de orice drept, cu cinstea datorată altora.</p>
+            <p>         De-aceea vei fi pedepsit să stai de veghe pe stânca duşmănoasă, în picioare, veşnic fără somn şi fără să-ţi îndoi genunchii.</p>
+            <p>         Vei înălţa potop de plângeri şi zadarnice suspine.</p>
+            <p>         Dar inima lui Zeus e neînduplecată; o stăpânire nouă e aspră-ntotdeauna 6.</p>
+            <p>         CRATOS</p>
+            <p>         Destul! De ce întârzii şi te tângui în deşert? Nu îl urăşti pe zeul urgisit de zei, care a dăruit pe muritori cu ceea ce doar ţie ţi se cuvenea 7?</p>
+            <p>         HEPHAISTOS Cumplite legături sunt înrudirea şi tovărăşia.</p>
+            <p>         CRATOS</p>
+            <p>         La fel socot şi eu. Dar cum este neîmplinirea poruncii părinteşti, nu ţi se pare mai "cumplită decât altceva?</p>
+            <p>         HEPHAISTOS Mereu ai fost lipsit de milă şi plin de îndârjire.</p>
+            <p>         — Rugătoarele, Perşii, Şapte conpnt»</p>
+            <p>         CRATOS</p>
+            <p>         A plânge pentru el de jale nu-i slujeşte la nimic; de-aceea nu te istovi zadarnic.</p>
+            <p>         HEPHAISTOS O, meşteşug, urât de mii de ori, al mâinii mele!</p>
+            <p>         CRATOS</p>
+            <p>         De ce să-l urgiseşti? Pentru aceste chinuri de aici, ţi-o spun fără ocol, nu poartă vină arta ta.</p>
+            <p>         HEPHAISTOS De i-ar fi fost încalţe hărăzită altuia!</p>
+            <p>         CRATOS</p>
+            <p>         Orice fiinţă a primit odinioară partea sa, afară de acela ce domneşte peste zei; nu-i liber nimeni altul decât Zeus!</p>
+            <p>         HEPHAISTOS Acum o ştiu, nu pot tăgădui.</p>
+            <p>         CRATOS</p>
+            <p>         Grăbeşte să-l cuprinzi în legături; să nu te vadă zăbovind părintele din cer.</p>
+            <p>         HEPHAISTOS N-are decât să vadă frâiele din mina mea.</p>
+            <p>         — Rugătoarele, Perşii, Şapte contra Thebei</p>
+            <p>         CRATOS</p>
+            <p>         Încinge-i braţele, apoi cât mai vârtos loveşte cu barosul, ferecă-l destâncă.</p>
+            <p>         HEPHAISTOS Această muncă tocmai se-mplineşte fără greş.</p>
+            <p>         CRATOS</p>
+            <p>         Loveşte şi mai tare, strânge, nu-l slăbi; el se pricepe să găsească o cărare chiar şi din ceea ce e fără de ieşire.</p>
+            <p>         HEPHAISTOS I-am cetluit un braţ, să nu-l mai poată dezlega.</p>
+            <p>         CRATOS</p>
+            <p>         Acum încătuşează-l zdravăn şi pe celălalt, să-nveţe iscusitul, că la faptă Zeus e mai grabnic decât el.</p>
+            <p>         HEPHAISTOS Doar el ar fi îndreptăţit să înfiereze munca mea.</p>
+            <p>         CRATOS</p>
+            <p>         Acum în piept vârtos înfige-i dintele necruţător al unei pene de oţel.</p>
+            <p>         HEPHAISTOS</p>
+            <p>         Vai, Prometeu, gem molcom pentru chinul tău!</p>
+            <p>         — L94</p>
+            <p>         CRATOS</p>
+            <p>         Tu iarăşi pregeţi, suspinând pentru potrivnicul lui Zeus. Ia seama, nu cumva să plângi odată pentru tine însuţi!</p>
+            <p>         HEPHAISTOS Vezi o privelişte de neprivit cu ochii.</p>
+            <p>         CRATOS</p>
+            <p>         Eu văd că are parte de pedeapsa cuvenită. Azvârle împrejurul lui, sub coaste, brâul greu!</p>
+            <p>         HEPHAISTOS Sunt nevoit s-o fac; îndemnul tău e de prisos. ^L</p>
+            <p>         CRATOS</p>
+            <p>         Şi totuşi te voi îndemna, te voi stârni.</p>
+            <p>         Mai jos acum! Cuprinde-i gleznele în silnicul inel!</p>
+            <p>         HEPHAISTOS E munca săvârşită şi fără caznă lungă., '</p>
+            <p>         CRATOS</p>
+            <p>         Loveşte tare, să-i pătrundă piedica în carne! E aprig cel care te urmăreşte cum munceşti.</p>
+            <p>         HEPHAISTOS Din gură-ţi ies cuvintele aidoma cu chipul tău. Rf~</p>
+            <p>         CRATOS</p>
+            <p>         Fii moale, dacă vrei, pe mine însă nu mă învinovăţi, căci sunt necruţător din fire şi aspru la mânie.</p>
+            <p>         HEPHAISTOS</p>
+            <p>         Să mergem, trupul său e nemişcat în legături8. (Hephaistos pleacă.)</p>
+            <p>         CRATOS</p>
+            <p>         Acuma n-ai decât să fii neînfrânat, răpeşte drepturile zeilor spre a le da făpturilor trăind numai o zi 9!</p>
+            <p>         Cum îţi vor face chinurile mai uşoare muritorii?</p>
+            <p>         Zeii ţi-au spus Prevăzătorul10, un nume de minciună; găseşte deci pe altul să prevadă cum te-ai putea desprinde din aceste noduri iscusite!</p>
+            <p>         (Cratos şi Bia pleacă.)</p>
+            <p>         PROMETEU</p>
+            <p>         Eter dumnezeiesc, suflări de vânt cu aripi iuţi, izvoare ale râurilor, surâsfără de număr al valurilor mării, o Glie maica tuturor şi Soare, tu rotund atoatevăzător, vă strig: priviţi cât i s-a dat din partea zeilor să pătimească unui zeu! 11</p>
+            <p>         Vedeţi jignitoarele cazne cum mă despică, cum trebuie să le îndur, de-a lungul vremii, o mie de ani.</p>
+            <p>         Legături de ocară a născocit pentru mine stăpânul cel tânăr al zeilor preafericiţi.</p>
+            <p>         Vai, vai, suferinţe de azi şi de mâine mă fac să suspin amarnic!</p>
+            <p>         Vai, când se va arăta pentru mine sfârşitul durerilor?</p>
+            <p>         Totuşi, de ce cuvintele acestea?</p>
+            <p>         MMu port în minte oare dinainte, limpede, întregul viitor 12?</p>
+            <p>         Nici o durere nu mă va lovi neprevăzută.</p>
+            <p>         E dat să îndurăm cu inima cât mai uşoară soarta, să înţelegem că Ananke-i o putere neînvinsă 13.</p>
+            <p>         Dar nu pot nici să tac necazurile mele, nici să nu le tac.</p>
+            <p>         Deoarece i-am înzestrat pe muritori c-un dar de preţ, port jugul suferinţelor, bietul de mine.</p>
+            <p>         În mijlocul unei tulpini de narthex 14, golit de miez, eu am adus izvorul focului furat din cer de mine, prada mea, care s-a dovedit a fi un dascăl pentru oameni în toate artele, o înlesnire fără seamă.</p>
+            <p>         Aceasta-i rătăcirea pentru care plătesc nemuritorilor cu chinurile mele, legat aici în lanţuri sub eter.</p>
+            <p>         Vai, cine, vai cine se-apropie?</p>
+            <p>         Zboară un vuiet sau, nevăzută, o boare?</p>
+            <p>         Însoţeşte un zeu sau un om sau o fiinţă amestecată?</p>
+            <p>         Cine soseşte la steiul cel de pe urmă al lumii să vadă caznele mele?</p>
+            <p>         Ce vrea de la mine anume?</p>
+            <p>         Priviţi-l pe încătuşatul, năpăstuitul zeu!</p>
+            <p>         Pe duşmanul lui Zeus, cel care, din iubirea prea mare de oameni, s-a ales cu ura cetei de zei umblători la curtea lui Zeus 15!</p>
+            <p>         Vai, vai, din nou ce freamăt de păsări îmi umple din preajmă urechea?</p>
+            <p>         Bătăii de sprintene aripi văzduhul îi dă răspuns cu un şuier.</p>
+            <p>         Mă bântuie teama la orice apropiere.</p>
+            <p>         (Apar fiicele lui Okeanos 16 aduse de un car înaripat, ce poposeşte Ungă piscul de care se află ţintuit Prometeu.)</p>
+            <p>         CORUL OKEANIDELOR17 Strofa I</p>
+            <p>         Nu-ţi fie teamă de nimic; un pilc prietenos, din aripi iuţi sârguind, s-a îndreptat spre piscul acesta de piatră.</p>
+            <p>         Biruit-am cu greu voinţa părintelui nostru.</p>
+            <p>         Aici ne-au adus adieri de văzduh ce poartă grabnic departe.</p>
+            <p>         Răsunet de fier izbit a pătruns în adâncul peşterii noastre, a gonit din noi ruşinea cu ochii sfielnici şi într-o suflare venit-am, desculţe, zburând în carul cu aripi.</p>
+            <p>         , PROMETEU</p>
+            <p>         Aiai, aiai, fiice-ale rodnicei Tethys, vlăstare din tatăl Okeanoş, acel ce serostogoleşte cu valuri neadormite în jurul pământului, priviţi, căutaţi la cătuşele prin care atârn ţintuit de steiul din vârful acestei râpe stâncoase; o veghe de nepizmuit!</p>
+            <p>         CORUL Antistrofa I</p>
+            <p>         Te privim, Prometeu, dar, înfricată, se lasă o ceaţă peste ochii noştri umpluţi de lacrimi, văzând că trupul tău se usucă pe steiul acesta în legături de oţel şi ocară.</p>
+            <p>         Sunt tineri stăpânii cârmuitori din Olimp.</p>
+            <p>         Zeus, în numele legilor noi poruncite, domneşte cum vrea şi-acum nimiceşte uriaşii puternici de odinioară 18.</p>
+            <p>         PROMETEU</p>
+            <p>         De ce nu m-a prăbuşit sub pământ, sub lăcaşul lui Hades cel primitor de morţi, în Târtaros 19, nemărginitul, de ce nu m-a înlănţuit acolo în legături ce nu pot fi spulberate, ca nimeni să nu mă batjocorească, nici zeu, nici altă făptură?</p>
+            <p>         În schimb, eu acum atârn, legănat de văzduhuri şi sufăr, spre bucuria duşmanilor mei.</p>
+            <p>         CORUL Strofa II</p>
+            <p>         Cine-ar avea dintre zei o inimă-atât de cruntă, încât să-şi râdă de tine?</p>
+            <p>         Pe cine nu l-ar stârni durerile tale, în afară de Zeus?</p>
+            <p>         El, pururi în focul mâniei, plămădindu-şi un suflet de nezdruncinat, vrea să strunească neamul celor născuţi din Uranos.</p>
+            <p>         Aşa va urma până când inima lui nu va fi sătulă sau până când o mai straşnică mână nu îi va smulge tronul greu de luat.</p>
+            <p>         PROMETEU</p>
+            <p>         Băgaţi de seamă, va veni o zi când el va avea nevoie de mine, de oropsitul strâns în cătuşe cumplite, el domnul preafericiţilor, dacă ţine să afle ce răsturnare a sorţii îl va lipsi de sceptrul şi de cinstirile sale!</p>
+            <p>         R Mă jur că nici vraja rostirilor lui cu limbă mieroasă nu va avea puterea să mă înduplece, nici teama de ameninţări nu mă va face să dau pe faţă taina, ci numai atunci când el va fi dezlegat aceste cătuşe sălbatice şi va voi să plătească, pentru durerile mele, despăgubire 20!</p>
+            <p>         CORUL Antistrofa II</p>
+            <p>         Eşti îndrăzneţ şi nu te-ncovoaie deloc loviturile sorţii, amare; prea slobod grăieşte gura ta.</p>
+            <p>         Pe noi, dintr-o dată, o spaimă, pătrunsă în inimi adânc, ne-nfioară.</p>
+            <p>         Pentru destinul tău ne cuprinde teama.</p>
+            <p>         Când vei putea zări odată locul în care să-şi afle liman suferinţele tale?</p>
+            <p>         O inimă poartă fiul lui Cronos, ce nu poate fi atinsă; de nestrămutat este gândul său.</p>
+            <p>         PROMETEU</p>
+            <p>         Eu ştiu că-i aspru, că dreptul pururi e la cheremul său.</p>
+            <p>         Dar cred că sufletul lui se va înmuia, când va fi zguduit precum aminteam.</p>
+            <p>         Atunci, potolindu-şi mânia de nedomolit, spre a-ncheia legătură cu mineşi prietenie, nerăbdător va zori să vină la mine, nerăbdătorul.</p>
+            <p>         CORIFEUL</p>
+            <p>         Dezvăluie-ne totul şi răspunde-ne cu vorbă limpede: ce vină îţi aduce Zeus, încât te-a prins să te jignească atâta de amarnic, atât de fără cinste?</p>
+            <p>         Învaţă-ne, dacă nu-ţi vine greu să cuvântezi.</p>
+            <p>         PROMETEU</p>
+            <p>         Mă doare şi dacă vorbesc despre acestea, dar şi dacă (păstrez tăcere, tot mă doare. ' 7</p>
+            <p>         Din toate părţile aceeaşi suferinţă 21!</p>
+            <p>         Când s-a iscat în sufletele zeilor mânia şi între ei s-a strecurat gâlceava, unii voiau să-l izgonească de pe tron pe Cronos, ca să domnească de atunci încolo Zeus, iar alţii, dimpotrivă, stăruiau ca niciodată peste zei să nu ajungă rege Zeus 22.</p>
+            <p>         Într-asta eu le-am dat cele mai potrivite sfaturi şi-am căutat să îi înduplec pe Titani, pe fiii lui Uranos şi ai Gliei; nu am izbutit.</p>
+            <p>         Nesocotind mijloacele-ascuţite ale minţii mele, ei au crezut, în străşnicia lor trufaşă, că ar putea, nestingheriţi, să-nvmgă numai cu puterea 23.</p>
+            <p>         Dar nu numai o dată maică-mea, Themis ori Gaia, o singură înfăţişare sub atâtea nume, mi-a prevestit cum va să fie viitorul 24: acela care se va dovedi mai tare, nu prin asprime şi putere, ci prin viclenie, acela va învinge.</p>
+            <p>         Le-am desluşit aceasta cu vorbe apăsate, dar n-am fost vrednic pentru ei măcar de o privire.</p>
+            <p>         Deci, în asemenea împrejurări, mi s-a părut că este cel mai bine s-o am de partea mea pe mama şi să mă rân-duiesc de bunăvoie lângă Zeus, fiind primit de bunăvoie.</p>
+            <p>         Urmare sfaturilor mele, acuma zac în Târtaros, în ascunzişul negru şi adânc, bătrânul Cronos şi împreună-lup-tătorii săi.</p>
+            <p>         Asemenea foloase-a dobândit din partea mea stăpânul zeilor şi, drept răsplată, el îmi dă aceste grele chinuri. -</p>
+            <p>         Desigur, fiecare tiranie suferă de boala neîncrederii-n prieteni!</p>
+            <p>         Şi pentru că m-aţi întrebat ce vină port, încât mi se aduce astfel de jignire, am să vă spun deschis.</p>
+            <p>         Îndată ce s-a aşezat pe tronul părintesc, a împărţit degrabă drepturile felurite fiecărui zeu, a rânduit măririle domniei.</p>
+            <p>         La muritorii însă, cei copleşiţi de cazne, nici măcar nu' s-a gândit.</p>
+            <p>         V Ba, dimpotrivă, urmărea să le stârpească neamul şi să s&amp;dească o sămânţă nouă.</p>
+            <p>         Eu singur m-am împotrivit acestor pregătiri.</p>
+            <p>         Doar eu am îndrăznit; i-am ocrotit pe muritori, să nu se prăbuşească, sfărâmaţi, în Hades.</p>
+            <p>         De-aceea sunt acum încovoiat sub astfel de dureri, cumplite să le pătimeşti şi jalnice să le priveşti.</p>
+            <p>         Deoarece am dăruit prea multă milă omenirii, am fost lipsit de mila cuvenită şi pedepsit fără cruţare, privelişte ce scade gloria lui Zeus 25.</p>
+            <p>         CORIFEUL</p>
+            <p>         Ar trebui să aibă pieptul de piatră sau de fier cel care nu s-ar întrista cu tine laolaltă pentru chinurile tale, Pro-meteu.</p>
+            <p>         Desigur, nu mi-aş fi dorit să văd aceasta, acum însă, privind, mi se topeşte inima îndurerată.</p>
+            <p>         PROMETEU într-adevăr, eu sunt o jalnică privelişte pentru prieteni.</p>
+            <p>         CORIFEUL N-ai mers cumva cu faptele şi mai departe?</p>
+            <p>         PROMETEU I-am dezlegat pe muritori de grija morţii.</p>
+            <p>         CORIFEUL</p>
+            <p>         /Găsind ce fel de leac pentru această boală? 202</p>
+            <p>         PROMETEU</p>
+            <p>         Făcând din ei sălaşul oarbelor speranţe 26.</p>
+            <p>         CORIFEUL I-ai întărit pe oameni cu o mare binefacere.</p>
+            <p>         PROMETEU Ba mai mult am făcut, le-am dăruit şi focul</p>
+            <p>         CORIFEUL</p>
+            <p>         Cum, focul strălucind de flăcări se află în puterea celor trăitori numai o zi?</p>
+            <p>         PROMETEU Iar de la el vor învăţa nenumărate meşteşuguri.</p>
+            <p>         CORIFEUL Acestea ţi-s greşelile, de-aceea te învinuieşte Zeus.</p>
+            <p>         PROMETEU Mă face de ocară şi chinurile mele nu le conteneşte.</p>
+            <p>         CORIFEUL Dar n-a fost hotărât un capăt caznei tale?</p>
+            <p>         PROMETEU Un singur capăt: bunul plac al său.</p>
+            <p>         CORIFEUL</p>
+            <p>         Bunul său plac, dar cum? Ai vreo nădejde? Nu vezi c-ai săvârşit greşeală?</p>
+            <p>         Cum ai greşit? Să ţi-o rostesc mi-e greu şi s-o auzi te doare.</p>
+            <p>         Mai bine s-o lăsăm şi caută o dezlegare caznei tale.</p>
+            <p>         R;</p>
+            <p>         PROMETEU</p>
+            <p>         E lesne să dea sfaturi acel ce nu îşi trage piciorul prin năpastă, să îl îndemne pe nenorocit la-nţelepciune.</p>
+            <p>         Dar eu ştiusem toate întâmplările mai dinainte.</p>
+            <p>         De bunăvoie am greşit, de bunăvoie, aceasta n-o tăgăduiesc 27.</p>
+            <p>         Ca să-i ajut pe muritori, m-am încărcat eu însumi de durere.</p>
+            <p>         Şi totuşi nu credeam atunci că mă vor mistui asemeni suferinţe pe stâncoase creste, că soarta mea va fi să stau pe-un vârf pustiu şi singuratic.</p>
+            <p>         Nu mai jeliţi asupra chinurilor mele de acum, ci co-borâţi piciorul vostru pe pământ şi ascultaţi nenorocirile ce stau să vină, ca să cunoaşteţi totul până la sfârşit.</p>
+            <p>         Urmaţi, urmaţi-mi rugămintea, laolaltă-pătimiţi cu cel care acum e ros de chinuri!</p>
+            <p>         Năpasta nu alege, ci rătăceşte când la unul când la al-l tul şi-l loveşte.</p>
+            <p>         CORIFEUL</p>
+            <p>         Tu ţii să stârneşti, Prometeu, fiinţe ce-s gata să te asculte.</p>
+            <p>         Cu mersul uşor părăsim acest car avântat şi eterul, a zburătoarelor sfântă cărare; coborâm pe pământul cu ascuţişuri de piatră, voind să aflăm durerile tale până la capăt.</p>
+            <p>         (Okeanidele coboară din car. Intră Okeanos 28, în carul său, tras de un animal fantastic, poate un armăsar înaripat.)</p>
+            <p>         OKEANOS</p>
+            <p>         Am ajuns la ţintă pe drumul lung ce m-a purtat, Prometeu, la tine.</p>
+            <p>         Această făptură cu aripi zorite se supune fără zăbală, voinţei mele.</p>
+            <p>         Năpastele tale, să ştii, mă fac şi pe mine să sufăr.</p>
+            <p>         Rudenia, cred, mă sileşte să-ţi fiu atât de aproape; şi încă, dacă rudenia n-ar cântări nimic, nu-i nimeni să aibă, mai mult decât tine, parte în sufletul meu 29.</p>
+            <p>         Dar vei recunoaşte îndată că spun adevărul, că nu mă pricep la cuvinte linguşitoare.</p>
+            <p>         Arată-mi, cum aş putea să-ţi fiu de folos.</p>
+            <p>         Să nu poţi grăi cândva că ai un prieten mai sigur decât pe Okeanos.</p>
+            <p>         PROMETEU</p>
+            <p>         Ce se petrece? Vii şi tu să fii la cazna mea de faţă?</p>
+            <p>         Cum de ai cutezat să te desparţi de curgerea de ape care-ţi poartă numele, de peşterile tale cu acoperiş de stâncă, boltite de la sine, ca să călătoreşti în ţara de obârşie a fierului 30?</p>
+            <p>         Sosit-ai oare să priveşti la cele hărăzite mie, să te mâh-neşti cu mine împreună pentru răul meu?</p>
+            <p>         Ia seama la spectacolul acesta: cum eu, prietenul lui Zeus, care l-am ajutat să-şi rostuiască tirania, de el sunt frânt acuma, prin câte suferinţe!</p>
+            <p>         OKEANOS</p>
+            <p>         Văd, Prometeu şi vreau să-ţi dau cel mai prielnic sfat, oricât ai fi de iscusit la minte: cunoaşte-te pe tine însuţi şi, potrivindu-te cu-mprejurările, îmbracă obiceiuri noi, căci nou e şi acela care porunceşte zeilor.</p>
+            <p>         Dacă azvârli din tine vorbe atât de crâncene şi ascuţite, s-ar prea putea să le audă Zeus, oricât ar sta pe jeţul său de sus şi de departe, şi-atunci mânia, de pe urma căreia ţi-e dat să pătimeşti acum, îţi va părea o joacă de copii.</p>
+            <p>         Sărmane, potoleşte-ţi clocotirea şi caută să scapi de chinuri!</p>
+            <p>         Tu poate crezi că nu îţi spun decât nişte cuvinte învechite.</p>
+            <p>         Dar astăzi capeţi, Prometeu, simbria pentru limba ta din cale-afară de trufaşă.</p>
+            <p>         Şi tot nu eşti smerit, nu te-au înduplecat aceste chinuri, la cele de acum vrei să adaugi altele.</p>
+            <p>         Dacă primeşti să-ţi fiu învăţător, vei înceta să mai loveşti cu pumnul în ţepuşă.</p>
+            <p>         Să nu uiţi că monarhul este aspru şi nu dă seama nimănui de cum domneşte.</p>
+            <p>         Acum, în vreme ce voi încerca, de mi se-ngăduie, să te despovărez de chinuri, stai liniştit, nu revărsa din gură prea sălbatice cuvinte.</p>
+            <p>         Ori nu ştii tu, al cărui cuget e nespus de înţelept, că limbii, când este nătângă, i se dă pedeapsă?</p>
+            <p>         PROMETEU</p>
+            <p>         Te pizmuiesc, deoarece te aflu neumbrit de vreo învinuire, deşi ai fost şitu amestecat în totul; şi tu ai fost la fel de îndrăzneţ ca mine 31.</p>
+            <p>         Deci părăseşte-ţi gândul şi nu-ţi mai face grijă.</p>
+            <p>         Oricum, nu-l vei îndupleca pe Zeus; el nu e lesne de înduplecat.</p>
+            <p>         Ia mai degrabă seama să nu primeşti chiar tu pedeapsă pentru drumul tău.</p>
+            <p>         OKEANOS</p>
+            <p>         Eşti mai destoinic în a-i face înţelepţi pe ceialalţi decât pe tine însuţi.</p>
+            <p>         Nu vorbele, ci faptele dau mărturie pentru asta. Eu totuşi plec, nu căuta să mă întârzii.</p>
+            <p>         Mă laud aşadar, mă laud să primesc în dar eliberarea ta de chinuri de la Zeus.</p>
+            <p>         PROMETEU</p>
+            <p>         Eşti vrednic să te preţuiesc şi-o să-mi aduc mereu aminte de râvna ta fără cusur.</p>
+            <p>         Ci lasă la o parte orice trudă; zadarnic vei trudi voind să mă ajuţi, dacă într-adevăr aveai în tine gândul trudei.</p>
+            <p>         Rămâi în linişte, păstrează-te departe de primejdiile mele.</p>
+            <p>         N-aş vrea, pentru că eu mă aflu sub năpastă, să văd pe alţii, numeroşi, năpăstuiţi de chinuri.</p>
+            <p>         N-aşvrea, destul îndur pentru destinul lui Atlas, cel cu mine de o mamă, care, în părţile apusului, stând în picioare, sprijină pe umeri coloana ce se-nalţă de la pă-mănt la cer, povară anevoie de purtat în braţe 32.</p>
+            <p>         Tot astfel, am fost năpădit de milă, când l-am văzut supus cu sila pe feciorul Gliei, care hălăduia în peşterile din Kilikia, pe monstrul înspăimântător cu capete o sută, furtunosul Typhon 33.</p>
+            <p>         El se sculase să înfrunte toţi nemuritorii, din fălcile cumplite şuierând înfiorare; din ochii lui străfulgera lumina groazei, voind lui Zeus năprasnic să-i răstoarne stă-pânirea.</p>
+            <p>         Dar a venit asupră-i lovitura veşnic trează a lui Zeus, trăsnetul care coboară cu suflări de flăcări şi l-a surpat din înălţimea vorbăriei lui trufaşe.</p>
+            <p>         Fiind atins în miezul vieţii, s-a spulberat puterea lui, de tunet nimicită.</p>
+            <p>         Şi astăzi, trup căzut, lipsit de vlagă, el zace-n preajma unei trecători marine, strivit sub rădăcina Etnei, în timp ce, aşezat pe creasta piscurilor sale, Hephaistos făureşte, izbind în fier topit 34.</p>
+            <p>         Cândva de-acolo vor ţâşni râuri de flăcări, înfulecând cu dinţi sălbatici câmpiile Siciliei întinse, roditoare.</p>
+            <p>         Atât va fi de straşnică mânia clocotindă, pe care Typhon o va revărsa prin săgetările aprinse ale unei vijelii de foc nesăţios, deşi l-a mistuit pân' la cărbune trăsnetul lui Zeus.</p>
+            <p>         Tu nu eşti însă un neştiutor şi n-ai nevoie să te dăscălesc.</p>
+            <p>         Salvează-te, aşa cum te pricepi s-o faci.</p>
+            <p>         Din soarta mea de astăzi mă voi împărtăşi până când se va potoli mânia inimii lui Zeus.</p>
+            <p>         OKEANOS</p>
+            <p>         Nu iei aminte oare, Prometeu, că pentru boala furiei se află vorbe tămăduitoare?</p>
+            <p>         PROMETEU</p>
+            <p>         Doar dacă inima o molcomeşti la timp şi nu încerci să micşorezi cu sila o pornire care tocmai stă să spargă.</p>
+            <p>         OKEANOS</p>
+            <p>         Dar crezi că o strădanie cutezătoare aduce după sine vreo pedeapsă? Învaţă-mă!</p>
+            <p>         PROMETEU Ruşinea trudei fără rost şi a seninătăţii uşuratice.</p>
+            <p>         OKEANOS</p>
+            <p>         Lngăduie-mi atunci să fiu bolnav de-această boală; ni mic nu este mai de preţ decât să pari smintit, având în treagă mintea.</p>
+            <p>         PROMETEU</p>
+            <p>         Greşeala-aceasta mai degrabă s-ar părea că e a mea.</p>
+            <p>         OKEANOS</p>
+            <p>         Vorbirea ta îmi spune limpede să mă întorn acasă.</p>
+            <p>         PROMETEU Ca nu cumva, bocindu-mă, să-ţi faci duşman.</p>
+            <p>         OKEANOS</p>
+            <p>         Pe zeul care de curând s-a ridicat în scaunul atotputerniciei?</p>
+            <p>         PROMETEU Tocmai de el să te păzeşti să nu-i asmuţi mânia.</p>
+            <p>         OKEANOS Nenorocirea ta mi-a fost învăţătură, Prometeu!</p>
+            <p>         PROMETEU Porneşte, du-te şi păstrează gândul înţelept!</p>
+            <p>         OKEANOS</p>
+            <p>         Purced, cuvântul tău zadarnic mă-mboldeşte.</p>
+            <p>         Pe calea largă a eterului, pasărea mea cu patru coapse bate lin din aripi, poftind să îşi îndoaie genunchii, bucuroasă, în staulul de-acasă.</p>
+            <p>         (Carul lui Okeanos se îndepărtează.)</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Vai, Prometeu, suspinăm, cum te-a lovit de greu nenorocul!</p>
+            <p>         Lacrimi, curgând din ochii duioşi, potopesc obrazul nostru cu ţâşnitoare şuvoaie.</p>
+            <p>         Luându-se doar după legi care nu-s decât toanele sale, Zeus, pe zeii de odinioară îi face să simtă vârful de lance trufaş al domniei3S.</p>
+            <p>         Antistrofa I</p>
+            <p>         Pretutindeni geme pământul.</p>
+            <p>         Gem popoarele sale după mărirea şi slava străveche smulse celor cu tine de-un sânge.</p>
+            <p>         Toţi cei care hălăduiesc în tărâmul vecin al Asiei sfinte36.</p>
+            <p>         Pătimesc laolaltă cu tine când îţi tângui durerea, cu toate că sunt muritori;</p>
+            <p>         Strofa II</p>
+            <p>         La fel şi fecioarele ţării Colchidei 37, luptătoarele neînfricate 38 şi hoardele Sciţiei, locuind la cele din urmă hotare ale pământului lângă Lacul Maiotis 89;</p>
+            <p>         Antistrofa II</p>
+            <p>         Înfloriri de bărbaţi din Arabia, neamuri trăind în cetăţi atârnate de stânciîn preajma Caucazului40, spiţe războinice făcând să vuiască pă'duri de lănci ascuţite 41.</p>
+            <p>         Epoda</p>
+            <p>         Sună un geamăt când valul în mare se sfarmă de val; adâncul suspină; în negrele tainiţe ale lui Hades bubuie surd; izvoare de fluvii cu sfinte şuvoaie plâng şi se tânguie îndurerate.</p>
+            <p>         (O lungă tăcere.)</p>
+            <p>         PROMETEU</p>
+            <p>         Să nu credeţi cumva că tac din slăbiciune sau din în-căpăţânare.</p>
+            <p>         Dar inima îmi este sfâşiată de un gând, văzându~mă jignit în acest fel: oare nu eu le-am rânduit acestor tineri zei atâtea privilegii?</p>
+            <p>         Dar despre asta voi păstra tăcere; preabine ştiţi ce aş avea de spus.</p>
+            <p>         Ci ascultaţi mai bine chinurile muritorilor şi cum din pruncii de odinioară am ridicat fiinţe gânditoare, i-am înzestrat cu judecată.</p>
+            <p>         Acestea le voi spune, nu pentru a-i ponegri pe oameni, ci doar ca să arăt bunăvoinţa ce le-am dovedit-o.</p>
+            <p>         La început vedeau fără să vadă şi ascultau fără s-audă, aidoma cu plăsmuirile stârnite-n vise, se petreceau de-a lungul vieţii fără ţel şi în amestec.</p>
+            <p>         Nu cunoşteau zidirea caselor din cărămizi arse la soare, nici lucrul lemnului; trăiau pe sub pământ, precum furnicile cu mersul iute, în bezna peşterilor din adâncuri.</p>
+            <p>         Ei n-aveau nici un semn să le arate când se-ntoarce iarna, când vine primăvara înflorită sau vara roditoare.</p>
+            <p>         Lipsiţi de înţelegere treceau prin toate, până i-am învăţat ştiinţa greu de însuşit a răsăriturilor şi apusurilor stelelor42. '</p>
+            <p>         Pe urmă le-am descoperit cea mai de preţ din cunoştinţe, numărul şi potrivirea literelor împreună, memorie a tot ce se întâmplă şi măiestrie care naşte artele 43.&lt;</p>
+            <p>         Eu cel dintâi am înjugat cu sila dobitoace, făcându-le supuse fie hamurilor, fie şeii călăreţului, să-ndeplinească muncile cele mai grele în locul muritorilor, şi-am prins la care armăsari ascultători de frâie, podoabe-n strălucirea bogăţiei.</p>
+            <p>         Nu altul decât mine a făcut acele alcătuiri cu aripi de pânză, care-l poartă departe pe corăbiei* în largurile mării.</p>
+            <p>         Şi-acum, năpăstuitul care a născocit atâtea meşteşuguri pentru muritori, nu e în stare să găsească mijlocul de a se dezlega şi el de chinul care-l asupreşte.</p>
+            <p>         CORIFEUL</p>
+            <p>         Înduri năpastă de ocară şi mintea-ţi, şubrezită, rătăceşte.</p>
+            <p>         Eşti ca un medic rău, căzut bolnav; lipsit de îndrăzneală nu mai ştii să afli leacul în stare să te vindece pe tine însuţi.</p>
+            <p>         PROMETEU</p>
+            <p>         Ascultă celelalte cum s-au întâmplat şi minunează-te mai tare ce fel de înlesniri şi meşteşuguri am închipuit!</p>
+            <p>         Îndeosebi aceasta: când cineva se-mbolnăvea, n-avea la îndemână nici unmijloc de tămăduire, nici de mâncat sau de băut şi nici de uns, ci se stingea, lipsit de leacuri, până a nu-i fi învăţat pe oameni cum să amestece fierturi alinătoare ce îndepărtează orice boală.</p>
+            <p>         Eu am orânduit, nenumărate, felurile artei de a prevesti.</p>
+            <p>         Am desluşit, întâiul, visele care se împlinesc în veghea zilei şi sunetele cu ascunse înţelesuri şi semnele ce se ivesc pe drumuri.</p>
+            <p>         Am lămurit cu grijă ce vădeşte zborul răpitoarelor cu ciocuri coroiate, care sunt pieze bune şi care pieze rele, am urmărit ce fel de viaţă duce fiecare, care li-s, între ele, duşmăniile, pornirile de dragoste şi adunările la cuiburi.</p>
+            <p>         Citesc în netezimea măruntaielor, ştiu ce culoare trebuie să aibă spre a fi pe placul zeilor şi câte sunt înfăţişările aducătoare de noroc ale ficatului şi ale fierii.</p>
+            <p>         Am ars în foc şi mădularele acoperite cu grăsime şi spinarea lungă, ca să-i îndrum pe muritori în arta prevestirii, încâlcită, ca să le fie cunoscute semnele, odinioară-n-tunecate, ce pâlpâie în flăcări 'A.</p>
+            <p>         Acestea-mi sunt înfăptuirile.</p>
+            <p>         La fel, comorile pe care glia le piteşte în adânc de oameni, aramă, fier, argint şi aur, cine ar spune că le-a scormonit mai înaintea mea?</p>
+            <p>         E limpede că nimeni, doar dacă nu cumva pofteşte să se laude cu vorbe goale.</p>
+            <p>         Veţi înţelege totul dintr-o rostire scurtă: tot ce e meşteşug şi artă oamenii au dobândit prin Prometeu 45.</p>
+            <p>         CORIFEUL</p>
+            <p>         Să nu-i ajuţi pe muritori peste măsură, gândeşte-te şi la nenorocirea ta!</p>
+            <p>         Nădăjduiesc să te desprinzi din legături odată şi să te-aşezi, ca unul deopotrivă de puternic, lângă Zeus.</p>
+            <p>         PROMETEU</p>
+            <p>         Nu, încă nu-i sosită clipa hotărâtă pentru asta de atotâmplinitoarea Moira.</p>
+            <p>         Doar după ce voi fi strivit sub mii de cazne şi dureri, voi izbuti să scap din lanţuri.</p>
+            <p>         Ananke e cu mult mai tare decât orice iscusinţă.</p>
+            <p>         CORIFEUL Dar pe Ananke cine-o cârmuieşte?</p>
+            <p>         PROMETEU Treimea Moirelor şi Eriniile aducătoare-aminte ie.</p>
+            <p>         CORIFEUL Puterea lor este cumva mai mare decât a lui Zeus?</p>
+            <p>         PROMETEU Nici el nu ar putea să fugă de ursită.</p>
+            <p>         CORIFEUL</p>
+            <p>         Şi ce ursită, dacă nu aceea de a stăpâni de-a pururi, are Zeus?</p>
+            <p>         PROMETEU Nu-mi pune despre asta întrebări, nu stărui.</p>
+            <p>         CORIFEUL E vorba de o taină sfântă, dacă atât de strâns o-nfăşurL</p>
+            <p>         PROMETEU</p>
+            <p>         Vorbiţi acuma despre altceva; nu-i împlinită vremea să dăm pe faţă taina; ea trebuie-nvelită cât mai bine; păzind-o, voi scăpa odată din cătuşele şi caznele acestea de ocară 47.</p>
+            <p>         CORUL Strofa I</p>
+            <p>         Niciodată puterea lui Zeus domnind peste toate să n-o înfruntăm cu voinţa noastră! Niciodată să nu lipsim a-i pofti pe zei la ospeţele sfinte unde se-njunghie boi, lângă drumul de apă neistovit curgând al tatălui nostru Okeanos! Să nu greşim în rugi niciodată! Să dăinuiască pururi neşterse aceste porunci în sufletul nostru!</p>
+            <p>         Antistrofa I</p>
+            <p>         Ce dulce-i să depeni un trai îndelung, întărit de speranţe, cu inima plină de bucuroase plăceri! Ne cuprind fiorii când te vedem schingiuit de dureri fără număr. Netremurând de teama lui Zeus, preţuieşti prea mult muritorii în cugetul tău, Prometeu!</p>
+            <p>         Strofa II</p>
+            <p>         Prietene, spune, ce har ai primit pentru harul facerii binelui? Unde-i puterea şi ajutorul de la cei trăitori o singură zi? Ai uitat becisnica lor neputinţă, asemenea celei din vise, care frânează mersul oarbei spiţe umane? Nicicând muritorii, prin puneri la cale, nu vor sminti armonia lumii lui Zeus.</p>
+            <p>         Antistrofa II</p>
+            <p>         Am deprins aceasta privind, Prometeu, la soarta-ţi cumplită. Iată, acuma ne fâlfâie-n minte un altfel de cântec, hymeneul de noi înălţat lângă baia şi patul nunţii tale, când ai luat-o pe sora noastră, înduplecând-o cu daruri, pe Hesione 48 să-ţi fie nevastă şi-nsoţitoare de aşternut. (Năvăleşte Io, pe frunte cu coarne de vacă.) io m Ce tara-i aceasta, ce neam?</p>
+            <p>         Pe cine să spun că-l privesc, bătut de furtună, prins în hamuri de piatră?</p>
+            <p>         Ce fărădelegi, drept ispăşire, plăteşti aici cu pieirea? Lămureşte-mă unde, în ce colţ al lumii, am fost aruncată, năpăstuita de mine?</p>
+            <p>         (Se zbuciumă, cuprinsă de spaimă).</p>
+            <p>         Ah, iară şi iar tăunul mă-mpunge, sărmana!</p>
+            <p>         E năluca lui Argos, cel zămislit de Glie.</p>
+            <p>         Vai, Glie, alungă-l! Mi-e teamă când îl văd pe boarul cu mii de ochi.</p>
+            <p>         Se-apropie, uite-i căutătura vicleană!</p>
+            <p>         Deşi a murit 49, nu-l încape pământul; din tărâmul morţilor suie să mă vâneze, sărmana de mine, rătăcitoare, flămândă, pe nisipuri la marginea mării 50.</p>
+            <p>         Strofă</p>
+            <p>         Molcom se-aude din urmă cântecul adormitor al sonorei trestii cu teaca de ceară.</p>
+            <p>         Vai, vai, alei, încotro mă târăsc rătăcirile mele de odinioară?</p>
+            <p>         Care-i greşeala ce ai găsit-o la mine, fiu al lui Cronos?</p>
+            <p>         De ce să mă prinzi în jugul unor asemenea chinuri, să istoveşti o biată năucă, gonită de spaimă ca de-un tăun?</p>
+            <p>         Arde-mă-n flăcări, cu pământ înveleşte-mă, azvârle-mă, hrană, monştrilor mării, dar împlineşte-mi ruga, stăpâne!</p>
+            <p>         Prea multă durere am încercat de când mi-am pierdut cărarea şi nu ştiu unde să-nvăţ lepădarea de chinuri.</p>
+            <p>         Auzi oare glasul fecioarei cu coarne de vacă?</p>
+            <p>         PROMETEU</p>
+            <p>         Dar cum să n-o asculţi pe fata ce se-nvârte asuprită de tăun, fiica lui Inachos, care a-nfierbântat de dragoste odinioară inima lui Zeus şi care azi, pentru că o urăşte Hera, e silită să bată drumuri lungi, istovitoare?</p>
+            <p>         Io</p>
+            <p>         Antistrofă</p>
+            <p>         De unde aflat-ai numele tatălui meu pe care-l rosteşti?</p>
+            <p>         Răspunde-mi, năpăstuita de mine, cine eşti tu, sărmane, să agrăieşti cu atât adevăr o sărmană, spunându-i pe nume bolii, de la zei coborâtă, care mă mistuie şi mă stârneşte cu boldul smintelii rătăcitoare? Alei!</p>
+            <p>         În salturi, împinsă de foame şi de ocară, minată de raznă, sosesc aici; mă sileşte voinţa pizmaşă a Herei.</p>
+            <p>         Cine mai pătimeşte, dintre nefericiţi, asemenea, vai, asemenea rele ca mine, năpăstuita?</p>
+            <p>         Limpede mărturiseşte-mi ce suferinţe mai am să îndur.</p>
+            <p>         Nu-i nici o scăpare, nici leac pentru boala mea?</p>
+            <p>         Arată-mi, de ai cunoştinţă.</p>
+            <p>         Dând glas, cuvântează-i fecioarei amarnic-rătăcitoare.'</p>
+            <p>         PBOMETEU</p>
+            <p>         Grăi-voi limpede tot ce doreşti să afli, nu împletind enigme ci cu vorbe răspicate, aşa cum este drept să le rostesc unor prieteni.</p>
+            <p>         Îl ai în faţa ta pe Prometeu, cel care muritorilor le dete focul.</p>
+            <p>         IO</p>
+            <p>         O, tu, sprijinitorul întregii omeniri, sărmane Prometeu, ce vină ispăşeşti aici?</p>
+            <p>         PROMETEU Am încetat să mai bocesc pentru necazurile mele.</p>
+            <p>         IO Deci nu-mi vei da răspuns la ceea ce aş vrea să ştiu?</p>
+            <p>         PROMETEU</p>
+            <p>         Întreabă-mă orice pofteşti, din parte-mi poţi să afli totul.</p>
+            <p>         IO Să-mi spui cine te-a fereeat de povârnişul stâncii.</p>
+            <p>         PROMETEU Cu mâinile Hephaistos, dar cu voinţa Zeus.</p>
+            <p>         IO Şi pentru ce greşeli plăteşti cu suferinţa ta?</p>
+            <p>         PROMETEU Ajunge cât ţi-am spus, ca să-nţelegi.</p>
+            <p>         IO</p>
+            <p>         Într-adevăr, totuşi dezvăluie-mi sfârşitul pribegiei mele; când se va împlini pentru năpăstuită vremea?</p>
+            <p>         PROMETEU</p>
+            <p>         Decât să ştii aceasta, e mai bine pentru tine să nu ştii nimic.</p>
+            <p>         IO</p>
+            <p>         Să nu-mi ascunzi ceea ce tot îmi este hărăzit să pătimesc odată.</p>
+            <p>         PROMETEU Nu voi lipsi să-ţi fac darul acesta de cuvinte.</p>
+            <p>         IO Atunci de ce întârzii să-mi dai de ştire totul?</p>
+            <p>         PROMETEU</p>
+            <p>         La mijloc nu este invidia ci grija de-a nu-ţi stârni în suflet turburare.</p>
+            <p>         Io •</p>
+            <p>         Nu te-ngriji prea mult de mine, rostirea ta îmi va fi dulce.</p>
+            <p>         PROMETEU</p>
+            <p>         Deoarece doreşti, mă văd silit să spun; ascultă!</p>
+            <p>         CORIFEUL</p>
+            <p>         I</p>
+            <p>         Nu încă, lasă-ne şi nouă o parte din plăcere! Întâi vrem să cunoaştem suferinţa ei, să ne vorbească ea despre năpastele care au nimicit-o.</p>
+            <p>         Pe urmă zugrăveşte-i tu durerile ce stau să-i vină.</p>
+            <p>         PROMETEU</p>
+            <p>         De tine-atârnă să le faci pe plac, supusă, Io şi mai ales că ele sunt surorile tatălui tău 51.</p>
+            <p>         A plânge, a te tângui pentru nenorociri, când poţi să-i storci de lacrimi pe ascultători, e o zăbavă vrednică să fie cheltuită.</p>
+            <p>         IO</p>
+            <p>         Nu ştiu cum aş putea să mă împotrivesc.</p>
+            <p>         Dintr-o rostire limpede o să aflaţi tot ceea ce poftiţi.</p>
+            <p>         Şi totuşi, ruşinată, şovăi să vă spun de unde mi s-a tras dumnezeiasca vijelie care s-a năpustit asupra mea, biata de mine şi mi-a schimbat înfăţişarea dinainte.</p>
+            <p>         Într-una, în odaia-mi de fecioară pluteau vedenii, noapte după noapte şi mă-ndemnau cu vorbe blânde: „O, fată copleşită de noroc, de ce să-ţi ocroteşti atâta vreme fecioria, când ai putea să dobândeşti cea mai înaltă însoţire?</p>
+            <p>         Sub săgetarea dorului de tine, arde Zeus; el vrea cu tine să împartă căile Kypridei.</p>
+            <p>         Să nu respingi nunta cu Zeus, copilă, ci mergi în pajiştea ierboasă de la Lema 52, unde se află turmele tatălui tău şi ţarcurile pentru vite, ca setea ochiului divin acolo să se potolească!"</p>
+            <p>         Acestea-s visele care mă cercetau, sărmana, în fiecare noapte, până când am îndrăznit să îi dezvălui tatei vedeniile arătate-n somn.</p>
+            <p>         Atunci el a trimis de multe ori la Delphi şi Dodona 53 soli care să ispitească zeii şi să-l înveţe ce să facă ori să spună spre a-i mulţumi pe daimoni.</p>
+            <p>         Dar aduceau, la-ntoarcere, numai oracole-ncâlcite, rostiri nelimpezi, anevoie de-nţeles.</p>
+            <p>         La urmă a primit Inachos un răspuns deschis, îi cuvânta fără ocol, îi poruncea să mă alunge şi din casă şi din ţară, făptură închinată zeilor, să rătăcesc până la marginile de pe urmă ale lumii, de nu voia să-l nimerească Zeus cu trăsnetul de flăcări şi să-i nimicească neamul.</p>
+            <p>         Înduplecat de-asemenea preziceri date de Loxias, tatăl meu mă surghiuni şi-nchise pentru mine poarta casei noastre; nevrând a săvârşit-o, nevrând am îndurat-o.</p>
+            <p>         Dar îl silea să făptuiască, peste voia lui, frâul lui Zeus.</p>
+            <p>         Pe loc înfăţişarea mea şi mintea mea s-au preschina-bat: mi-au răsărit, vedeţi preabine, două coarne, şi, înţepată de-un tăun cu gură ascuţită, m-am repezit în sărituri nebune la Kerchne, râu cu apă bună de băut şi la izvorul Lemei 54.</p>
+            <p>         Iar un boar, fecior al Gliei, Argos, plin de-o statornică mânie, mă însoţea, scrutându-mi fiecare pas cu ochii săi nenumăraţi.</p>
+            <p>         Dar un sfârşit neaşteptat îi smulse grabnic viaţa, în timp ce eu, de streche asmuţită, sub biciul zeilor, alerg din ţară-n ţară.</p>
+            <p>         Ai auzit ce-am pătimit, ci dacă poţi să-mi spui durerile rămase, arată-mi-le şi nu căuta, de milă, să mă-ncălzeşti cu vorbe mincinoase.</p>
+            <p>         Nu-mi pare nici un rău mai ruşinos decât rostirea prefăcută.</p>
+            <p>         CORUL</p>
+            <p>         Vai, vai, ferească-ne cerul, alei!</p>
+            <p>         Niciodată n-am fi crezut, niciodată, să ne pătrundă-n auz povestiri atât de ciudate: chinuri, obide şi spaime, agreu să le vezi, agreu să le-nduri, un bold cu două ţepuşe, care ne-nfige răcoare în suflet!</p>
+            <p>         Vai, Moira, Moira, ne scutură friguri trăind pătimirea lui Io!</p>
+            <p>         PROMETEU</p>
+            <p>         Voi prea devreme suspinaţi şi prea vă-neacă teama. Păstraţi-vă, să ascultaţi şi celelalte rele, care stau să vină.</p>
+            <p>         CORIFEUL</p>
+            <p>         Vorbeşte, spune-i desluşit.</p>
+            <p>         Nimic nu mângâie mai mult bolnavul, decât să ştie limpede cită durere mai urmează să-l încerce.</p>
+            <p>         PROMETEU</p>
+            <p>         Dorinţa voastră de-adineaori mi-a fost uşor s-o împlinesc.</p>
+            <p>         Doreaţi îndeosebi să auziţi şiragul întâmplărilor din gura ei. *&gt;.</p>
+            <p>         Dar ascultaţi acum şi cele viitoare, hărăzite de mânia Herei să le îndure tânăra fiinţă.</p>
+            <p>         Iar tu, sămânţa lui Inachos, păstrează-n inimă cuvântul meu, de vrei să afli capătul cărării tale.</p>
+            <p>         Plecând de-aici, întoarce-te la început spre răsăritul soarelui şi mergi, peste câmpii neplugărite, până vei da de sciţii călători, trăind în locuinţe împletite din nuiele, boltite sus pe care cu frumoase roţi, şi-având drept armă arcul ce loveşte ţinta.</p>
+            <p>         De ei să nu te-apropii, părăseşte ţara lor, umblând de-a lungul malului pe care se revarsă gemetele mării.</p>
+            <p>         În partea mâinii stingi sălăşluiesc Chalybii55, meşteşugarii fierului: păzeşte-te de ei. Sunt neciopliţi şi nu îngăduie în preajma lor străinii.</p>
+            <p>         Şi astfel vei ajunge la un fluviu, Hybristes 56, al cărui nume nu e mincinos; să nu-l treci, nu se trece lesne peste el, îndreaptă-te spre muntele cel mai înalt, Caucazul, sub ale cărui tâmple îşi rostogoleşte fluviul mânia.</p>
+            <p>         Sălta-vei peste vârfuri vecine stelelor, ca s-o apuci pe drumul către miazăzi.</p>
+            <p>         Acolo vei întâmpina oştirea Amazoanelor neiubitoare de bărbaţi, ce vor întemeia Themiskyra odată, pe Ther-modon 57, unde-şi deschide râpa ţărmului la Salmydessos 58 crunta falcă, o gazdă rea pentru navigatori şi-o mamă vitregă pentru corăbii.</p>
+            <p>         Iar ele, binevoitoare, te vor îndruma.</p>
+            <p>         Şi vei răzbi la porţile înguste ale unui lac: istmul kimmerian 59.</p>
+            <p>         De vrei să-l părăseşti, cu inima cutezătoare trebuie să tai peste maiotica strâmtoare.</p>
+            <p>         Iar muritorii trecerea ţi-o vor slăvi de-a pururi; pe drept cuvânt se va numi strâmto'area, după tine, Bos-poros 60.</p>
+            <p>         Apoi, lăsând în urmă pământul Europei, te vei muta pe continentul Asiei.</p>
+            <p>         Nu vi se pare că stăpânul zeilor se poartă cu toţi la fel de silnic?</p>
+            <p>         El, zeu fiind, îi hărăzi atâta rătăcire unei muritoare, al cărei aşternut îl jinduia.</p>
+            <p>         O, ţi-a fost dat, fecioară, să ai un peţitor amarnic şi să nunteşti cu el!</p>
+            <p>         Dar crede-mă, tot ce ţi-am înşirat abia dacă-i preludiul nenorocirii tale.</p>
+            <p>         Vai mie, mie vai!</p>
+            <p>         IO</p>
+            <p>         PROMETEU</p>
+            <p>         Tu strigi din nou, scoţi mugete; ce te vei face când vei afla noianul relelor care te-aşteaptă?</p>
+            <p>         CORIFEUL Au mai rămas deci alte chinuri să i le vesteşti?</p>
+            <p>         PROMETEU O mare viforoasă de năpastă şi obidă!</p>
+            <p>         IO</p>
+            <p>         Cât preţ mai are viaţa pentru mine? ^ De ce nu mă arunc fără zăbavă de pe stânca dură ma dezleg, sf armată pe pământ, de orice suferinţă?</p>
+            <p>         Mai bine moartă, dintr-o dată decât să pătimesc fiecare zi atât de crunt!</p>
+            <p>         Sa in</p>
+            <p>         PROMETEU</p>
+            <p>         Ţi-ar fi cu neputinţă să înduri un chin precum al meu; pe mine soarta mă împiedică să mor.</p>
+            <p>         Şi numai moartea ar putea să mă dezlege de dureri.</p>
+            <p>         Dar nu se-ngăduie sfârşit împovărării mele, mai înainte să se surpe de la cârma lumii Zeus.</p>
+            <p>         IO E cu putinţă să se surpe din domnie Zeus?</p>
+            <p>         PROMETEU Vei fi voioasă, cred, să vezi această împlinire.</p>
+            <p>         IO</p>
+            <p>         Şi cum să nu, când mi se trag atâtea suferinţe de la Zeus?</p>
+            <p>         PROMETEU i</p>
+            <p>         Acuma ştii, chiar astfel se va întâmpla.</p>
+            <p>         Io</p>
+            <p>         Cine-i va smulge sceptrul de stăpân atotputernic?</p>
+            <p>         PROMETEU El însuşi îl va pierde, prin toanele-i deşarte.</p>
+            <p>         IO</p>
+            <p>         Jn. Ce fel 7 Spune-mi, dacă poţi fără să necăjeşti pe</p>
+            <p>         PROMETEU</p>
+            <p>         O nuntă va nunti, de care, într-o zi, îi va fi dat căiască 61.</p>
+            <p>         Să se</p>
+            <p>         IO</p>
+            <p>         Dacă</p>
+            <p>         Se va-nsoţi cu o zeiţă sau c-o muritoare? Vorbeşte, ă se cuvine să grăieşti!</p>
+            <p>         Grăieşti!</p>
+            <p>         PROMETEU Ce-ţi pasă cine este? N-am dreptul să-ţi răspund.</p>
+            <p>         IO</p>
+            <p>         Îl va goni cumva nevasta de pe tron?</p>
+            <p>         PROMETEU Născându-i un fecior mai straşnic decât tatăl său.</p>
+            <p>         IO</p>
+            <p>         Şi nu e nici o cale de a-i întoarce soarta?</p>
+            <p>         — Rugătoarele, Perşii, Şapte contra Thebei</p>
+            <p>         PROMETEU Niciuna, dacă nu voi fi desferecat din lanţuri.</p>
+            <p>         IO</p>
+            <p>         Cine să te desferece, când nu doreşte Zeus?</p>
+            <p>         PROMETEU E hărăzit s-o facă un urmaş al tău.</p>
+            <p>         IO</p>
+            <p>         Ce spui? Un fiu din neamul meu te va scăpa de chinuri?</p>
+            <p>         PROMETEU întocmai, unul din a treia spiţă, după alte zece 62.</p>
+            <p>         IO Nu mi-e uşor să înţeleg această profeţie.</p>
+            <p>         PROMETEU Nu căuta să-ţi afli chinurile fir cu fir.</p>
+            <p>         IO De ce îmi fluturi un câştig de caremă lipseşti pe urmă?</p>
+            <p>         PROMETEU</p>
+            <p>         Din două spuneri îţi voi dărui doar una. ' 226</p>
+            <p>         IO</p>
+            <p>         Numeşte-le pe amândouă şi lasă-mă pe mine să aleg</p>
+            <p>         PROMETEU</p>
+            <p>         Mă învoiesc, alege: să arăt fără ocol sau chinurile care încă te aşteaptă sau cine mă va dezlega!</p>
+            <p>         CORIFEUL</p>
+            <p>         Din cele două prevestiri ei dăruieşte-i una şi cealaltă mie; să nu nesocoteşti ce te-am rugat.</p>
+            <p>         Ei să-i dezvălui mai departe drumul pribegiei sale, iar mie spune-mi cine te va dezlega; aceasta mi-e dorinţa.</p>
+            <p>         PROMETEU</p>
+            <p>         Deoarece poftiţi din toată inima, eu nu mă voi împotrivi să vă descopăr tot ce-mi cereţi.</p>
+            <p>         Deci îţi voi spune, Io, ţie mai întâi popasurile rătăcirii tale zbuciumate: înscrie-le în tablele aducerii aminte.</p>
+            <p>         Când vei fi străbătut peste şuvoiul de hotar al celor două continente, mergi spre răsărit spre soarele cu paşi de flăcări. _ trecând deasupra vuietului mării şi vei ajunge la Kis-thene 63, în câmpiile gorgonice, unde hălăduiesc Phor-kydele 64, fecioarele cu viaţă lungă, trei la număr, având înfăţişări de lebede, un singur dinte şi laolaltă doar un ochi; lor veşnic nu le-mparte vreo privire nici ziua soarele învăpăiat, nici noaptea luna.</p>
+            <p>         În preajma lor stau trei surori înaripate, cu şerpi în loc de plete, Gorgonele G5, urgia muritorilor, la care nu se uită nici un om fără să-şi deasuflarea. Acestea ţi le-nşir spre ocrotire.</p>
+            <p>         Ia seama şi la pândeâe altei privelişti: păzeşte-te de haita câinilor lui Zeus cu boturi ascuţite, nelătrători, Grifonii 66; la fel de Arimaspii C7 cu un singur ochi, oştire călăreaţă, locuitori pe malurile fluviului Pluton68 care poartă aur.</p>
+            <p>         Să nu te-apropii de nici unii dintr-aceia.</p>
+            <p>         Şi vei ajunge într-o ţară de departe, ţinută-n stăpânire de o stirpe neagră, trăind în preajma şipotelor Soarelui; acolo trece fluviul Aithâops69.</p>
+            <p>         Urmează ţărmul, până când vei nimeri la „coborâş", în locul unde, de sub creasta munţilor byblinici70, cu ape sfinte, limpezi, curge Nilul.</p>
+            <p>         În drumul său, el te va duce la triunghiul ţării Nilului, în care sunteţi hărăziţi, tu Io şi cei născuţi din tine, să ctitoriţi o colonie-ndepărtată.</p>
+            <p>         Dacă îţi pare ceva greu de înţeles, nerăspicat, întrea-bă-mă din nou şi află desluşire.</p>
+            <p>         Eu am aici mai mult răgaz decât aş vrea.</p>
+            <p>         CORIFEUL</p>
+            <p>         De-a mai rămas ori de-ai uitat să-i faci ştiut ceva din rătăcirea ei preazbuciumată, spune.</p>
+            <p>         Iar dacă toate le-ai vestit fii bun şi împlineşte rugămintea noastră; ţi-o aminteşti f ără-ndoială.</p>
+            <p>         PROMETEU</p>
+            <p>         Ea ştie totul despre capătul călătoriei sale; dar ca să se încredinţeze că rostirea mea n-a fost deşartă, am să-i arăt câte nevoi a îndurat până să vină în acest tărâm; şi astfel îi voi da o chezăşie pentru adevărul celor spuse.</p>
+            <p>         Trec peste marea gloată de-ntâmplări şi mă opresc la ultimele tale pribegiri.</p>
+            <p>         Îndată ce-ai ajuns în câmpii netezi ai molossilor 7i şi la spinarea înălţată a Dodonei, unde se află, lângă jeţul şi oracolul lui Zeus thesproticul72, minunea necrezută a stejarilor cuvântători, ai fost primită luminos, fără rostiri în dodii, drept soaţa viitoare, slăvită, a lui Zeus – ori nu te mai răsfaţă această amintire?</p>
+            <p>         De-acolo ai zvâcnit, minată de tăun, de-a lungul ţărmului, spre golful uriaş al Rheii 73, de unde vijelia te-a împins aici pe drumurile tale mereu rătăcitoare.</p>
+            <p>         De-acum, în toate vremile de mâine, acest intrând al mării se va chema, ia bine seama, Golful Ionian şi astfel muritorii îşi vor aminti de calea ta.</p>
+            <p>         Să-ţi fie asta o dovadă că mintea mea Vede mai mult decât i se dezvăluie de obicei privirii.</p>
+            <p>         Ce-a mai rămas am să vă spun şi ei şi vouă, urmând cărarea celor rostite înainte.</p>
+            <p>         Se află un oraş, Kanobos 74, la hotarul ţării, la gura şi vărsarea Nilului.</p>
+            <p>         Acolo Zeus îţi va muta din nou în matcă duhul rătăcit, prin punere de mână molcomă, abia cât să te-atingă.</p>
+            <p>         Vei naşte un fecior, pe Epaphos cel negru, numit aşa în amintirea felului în care l-a adus pe lume Zeus 75.</p>
+            <p>         El va culege roade din pământul udat de larga curgere a Nilului.</p>
+            <p>         Cinci generaţii după el, un neam întreg urmaş al său, cincizeci de fete, fără să vrea, se vor întoarce-n Argos, fugind de nişte rubedenii, chiar de verii lor aprinşi să facă nuntă.</p>
+            <p>         Aceştia, răvăşiţi de poftă, vor veni şi ei ca ulii urmărind o ceată de columbe, la vânătoarea unei nunţi de nevânat.</p>
+            <p>         Dar zeul nu le va-mplini dorinţa şi ţarina pelasgilor îi va-ngropa, fiind răpuşi de Urgisirea cu înfăţişare de femeie ce stă la pândă noaptea, îndrăzneaţă.</p>
+            <p>         Soţia fiecărui soţ îi va răpi suflarea şi va scălda în sânge sabia cu două ascuţişuri.</p>
+            <p>         Duşmanii mei să aibă parte de asemenea iubire!</p>
+            <p>         Doar una singură, din dorul de-a avea copii, va fi-mpo-trivă să-şi ucidă mirele, lăsând să i se molcomească hotă-rârea.</p>
+            <p>         Ea, dintre două nume, va alege să i se spună laşă mai degrabă decât ucigaşă.</p>
+            <p>         Din ea se va ivi un neam de basilei în Argos. Ar fi nevoie de cuvinte multe să vă desluşesc 76. Adaug doar că din sămânţa asta va vedea lumina zilei un viteaz cu arc vestit, ce mă va dezlega de chinuri.</p>
+            <p>         Aceasta-i prevestirea dezvăluită mie de maica mea străveche şi din acelaşi sânge cu Titanii, Themis.</p>
+            <p>         Dar cum, în ce fel se va întâmpla?</p>
+            <p>         Ca să vă spun mi-ar trebui atâta vreme iar tu nu vei avea nici un folos, aflând.</p>
+            <p>         IO</p>
+            <p>         Eleleu, eleleu! Un tremur, din nou, o năvală de nebunie mă arde şi vârfui de lance, neînroşit în foc, al strechei mă sfredeleşte.</p>
+            <p>         De spaimă, îmi tropăie inima-n piept şi ochii năprasnic mi se rotesc.</p>
+            <p>         Suflarea turbării, năucă, mă smulge din drum; fără putere mi-e limba şi cugetu-mi turbure, amestecat, se zba-te-n talazul cumplit al năpastei.</p>
+            <p>         (Pleacă în grabă cu privirea rătăcită.)</p>
+            <p>         CORUL</p>
+            <p>         Strofă</p>
+            <p>         A fost înţelept, a fost înţelept cel care întâiul cu mintea gândi şi cu limba rosti că doar însoţirea celor de-o seamă dă fericire, că omul de rând nu trebuie să jinduiască unirea prin nuntă cu cei trufaşi din avere sau mândri pentru obârşia lor!</p>
+            <p>         Antistrofă</p>
+            <p>         Niciodată să nu ne sortiţi, niciodată, voi Moire. Să vieţuim ca neveste-n culcuşul lui Zeus, să nu cunoaştem apropierea vreunui mire venit din cer! Tremurăm de spaimă, văzând-o pe Io, fecioria nedoritoare de-a fi cu bărbat, pe care mânia cumplită a Herei o mistuie în rătăciri dureroase.</p>
+            <p>         Epodă</p>
+            <p>         Nu ne-nspăimântă căsătoria, când e pe măsura noastră.</p>
+            <p>         Fie ca ochii nici unui mare zeu să nu ne cuprindă în mrejele dragostei.</p>
+            <p>         Asemenea luptă nu-i de luptat, asemenea cale nu-i de urmat.</p>
+            <p>         Nu ne-am pricepe să izbutim.</p>
+            <p>         Nu vedem cum am putea să fugim de voinţa lui Zeus 77.</p>
+            <p>         PROMETEU</p>
+            <p>         Oricât ar fi de îngâmfată inima lui Zeus se va smeri odată, căci nunta care-i gata s-o nuntească îl va suma «i ii va risipi din tronul stăpânirii. P ş</p>
+            <p>         Şi astfel întru totul se va-mplini blestemul lui Cr tatăl său, din ziua când s-a prăbuşit la rându-i de ne nul străvechi. '</p>
+            <p>         Dar nici un zeu, afar' de mine, nu-i în stare să-i aratP mijlocul de-a-ntoarce asemenea năpastă.</p>
+            <p>         Doar eu ştiu cum să-ndepărtez ce va să vină.</p>
+            <p>         De-aceea, n-are decât să domnească liniştit, încrezător în bubuirile de tunet şi ameninţător, cu arma ce împroaspă foc în mâini. ^ «a^d</p>
+            <p>         ^ Nimic nu-i va sluji să nu se prăvălească ruşinos într-o cădere care îl va pierde; atât de dârz este potrivnicul ne care azi chiar el şi-l pregăteşte 78, făptură uimitoare de ne ' mvins în luptă, născocitor al unui foc mai mare decât ful gerul, şi-al unui tunet răsunând mai tare decât trăsnetul™ putând să spargă-n ţăndări însăşi lancea lui Poseidon +h' dentul care răscoleşte marea şi zguduie pământul.</p>
+            <p>         Când se va poticni de-asemenea urgie, Zeus va învăţa deosebirea dintre a domni şi a sluji. ^</p>
+            <p>         CORIFEUL Tu îţi prefaci dorinţele în hulă pentru Zeus.</p>
+            <p>         PROMETEU</p>
+            <p>         Spun numai ce se va petrece, dar asta-i totodată şi dorinţa mea.</p>
+            <p>         CORIFEUL</p>
+            <p>         Oare ne va fi dat să îl vedem pe Zeus îngenuncheat de un stăpân?</p>
+            <p>         PROMETEU El va purta nevoi mai grele decât mine pe grumaz.</p>
+            <p>         CORIFEUL Nu-ţi este frică să împroşti asemenea cuvinte?</p>
+            <p>         PROMETEU De ce s-ar teme cel ce nu e hărăzit să moară?</p>
+            <p>         CORIFEUL El poate să-ţi trimită o-ncercare şi mai dureroasă.</p>
+            <p>         PROMETEU N-are decât s-o facă, sunt gata la orice.</p>
+            <p>         CORIFEUL</p>
+            <p>         Adrâsteia pe înţelepţi îi face să se-ncline79, 232</p>
+            <p>         PROMETEU</p>
+            <p>         Închină-te, îngenunchează, măguleşte-l pe cel ce sade azi la cârmă!</p>
+            <p>         Nu-mi pasă de nimic pe lume mai puţin decât de Zeus.</p>
+            <p>         Să făptuiască şi să poruncească, după cum pofteşte, în acest răgaz de vreme scurtă; mult nu mai are de împărăţii asupra zeilor.</p>
+            <p>         Dar iată-l pe alergătorul cerului, pe sluga noului tiran. _ Desigur vine să ne-aducă ştire nouă.</p>
+            <p>         (Hermes, cu încălţări înaripate, se apropie de Pro-meteu.)</p>
+            <p>         HERMES</p>
+            <p>         Tu, firoscosule, mai cârcotaş decât sunt cârcotaşii, vătămătorul zeilor, care i-ai dăruit cu-atâta cinste pe cei trăind numai o zi, tâlhar al focului, ia seama!</p>
+            <p>         Iţi cere tatăl meu, vorbeşte-mi despre nunta cu care te făleşti.</p>
+            <p>         Cine-l va răsturna din slava stăpânirii? Răspunsul tău să fie răspicat, nu-l îmbrăca de data asta în cimilituri.</p>
+            <p>         Să nu străbat de două ori aceeaşi cale, Prometeu! Vezi bine, cu asemenea tertipuri nu poţi să-l molco-meşti pe Zeus.</p>
+            <p>         PROMETEU</p>
+            <p>         Rostirea ta e plină de cuvinte mari şi de trufie, aşa cum i se cade unui servitor al zeilor.</p>
+            <p>         Voi sunteţi tineri, tânără vă e puterea şi vi se pare că veţi locui mereu în cetăţuia voastră neatinsă de durere.</p>
+            <p>         Dar oare n-am văzut până acuma doi monarhi căzuţi din slavă80?</p>
+            <p>         11 voi vedea curând şi pe al treilea, pe cel care domneşte azi, mai ruşinos, mai repede căzând.</p>
+            <p>         Nu crezi cumva că-mi este teamă, că mă pitesc de spaima tinerilor zei?</p>
+            <p>         Ai fi departe, prea îndepărtat de adevăr. Grăbeşte-te, fă drumul înapoi, pe care ai venit! Nu vei primi nici un răspuns la întrebarea ta.</p>
+            <p>         HERMES</p>
+            <p>         Tot astfel de purtări semeţe te-au adus pe acest ţărm al suferinţelor şi altădată.</p>
+            <p>         PROMETEU</p>
+            <p>         N-aş da în schimb nefericirea mea, ţi-o spun deschis, pe starea ta de slugărie.</p>
+            <p>         Mai bine să-i fiu slugă, cred, acestei stânci, decât s-ajung supusul vestitor al tatălui din ceruri, Zeus.</p>
+            <p>         Aşa se cade a le cuvânta, fără măsură, celor ce nu ţin cumpăna măsurii81.</p>
+            <p>         HERMES De suferinţa ta eşti mândru, pare-mi-se.</p>
+            <p>         PROMETEU</p>
+            <p>         Sunt mândru, da. Mândrească-se la fel duşmanii mei, iar tu eşti unul dintre ei.</p>
+            <p>         HERMES</p>
+            <p>         De ce mă-nvinuieşti pe mine pentru nenorocul tău?</p>
+            <p>         PROMETEU</p>
+            <p>         S-o spun pe scurt: urăsc toţi zeii laolaltă, deoarece drept plată pentru binele făcut82, se poartă neîngăduit de rău cu mine.</p>
+            <p>         HERMES</p>
+            <p>         Pricep că ai înnebunit şi boala ta nu e uşoară.</p>
+            <p>         PROMETEU</p>
+            <p>         Îmi place să bolesc dacă se cheamă boală ura faţă de duşmani.</p>
+            <p>         HERMES</p>
+            <p>         De-ai fi avut noroc, n-ar mai fi izbutit să te îndure nimeni.</p>
+            <p>         PROMETEU</p>
+            <p>         Vai, vai!</p>
+            <p>         HERMES</p>
+            <p>         Acest cuvânt este necunoscut lui Zeus83.</p>
+            <p>         PR®METEU</p>
+            <p>         Se-nvaţă tetul, d®ar să-mbătrânească timpul.</p>
+            <p>         HERMES</p>
+            <p>         Dar tu n-ai învăţat până acum să dai dovadă de înţelepciune.</p>
+            <p>         PROMETEU</p>
+            <p>         Într-adevăr, altminteri n-aş vorbi cu tine, un argat 23S</p>
+            <p>         HERMES</p>
+            <p>         Tu nu vrei, mi se pare, să vorbeşti nimic din ceea ce doreşte tatăl meu.</p>
+            <p>         PROMETEU</p>
+            <p>         Ba chiar aşa, îi datorez destul, ca să-i plătesc din datorie!</p>
+            <p>         HERMES</p>
+            <p>         Mă iei în râs de parc-aş fi copil.</p>
+            <p>         PROMETEU</p>
+            <p>         Oare nu eşti copil, mai fără minte decât un copil, când speri să smulgi fie şi-o vorbă de la mine?</p>
+            <p>         Nu este vătămare, nu este vicleşug, prin care m-ar putea constrânge Zeus să-i spun ceea ce ştiu, mai înainte să sfărâme cătuşele acestea de ocară.</p>
+            <p>         N-are decât să scapere asupră-mi flacăra mistuitoare, să răscolească, să răstoarne toate câte sunt în vifor de omăt cu aripi albe, în zguduiri de tunete subpământene!</p>
+            <p>         Nimic nu mă va-ncovoia destul ca să-i destăinuiesc prin mâna cui va fi surpat din scaunul puterii.</p>
+            <p>         HERMES Vezi dacă-ţi este de folos atâta-nverşunare!</p>
+            <p>         PROMETEU</p>
+            <p>         Văzut-am totul mai de mult şi-am cumpănit cu gândul. 236</p>
+            <p>         HERMES</p>
+            <p>         De ce nu te îndupleci, de ce nu te îndupleci, sminti-tule, odată, să judeci drept durerile de astăzi?</p>
+            <p>         PROMETEU</p>
+            <p>         Mă hărţuieşti zadarnic, degeaba vrei să stai de vorbă cu talazul.</p>
+            <p>         Să nu-ţi închipui că vreodată, înfricoşat de hotărârile lui Zeus, se va-ntâmpla să am simţire de muiere, că eu, asemenea femeilor, îl voi ruga cu mâinile întoarse către cer84 pe cel pe care îl urăsc năprasnic să mă desfacă din cătuşe.</p>
+            <p>         Aceasta n-o să se întâmple niciodată!</p>
+            <p>         HERMES</p>
+            <p>         Vorbind îmi pare că grăim prea mult şi în deşert.</p>
+            <p>         Rugându-te, nu te-am atins deloc şi nu te-am potolit.</p>
+            <p>         Muşcând zăbala ca un mânz prins de curând în jug, nu te supui, te lupţi cu frâiele.</p>
+            <p>         Dar înfocarea ta purcede dintr-o viclenie şubredă.</p>
+            <p>         La cel ce judecă greşit, înverşunarea nu cântăreşte, singură, mai mult decât nimic.</p>
+            <p>         Ia seama, dacă nu te-nduplecă temeiurile mele, ce vifor, ce talaz de rele întreit, va năvăli de neînlăturat asupra ta!</p>
+            <p>         Căci tatăl meu, întâi, va face ţăndări, cu tunetul şi fulgerul înflăcărat,acest perete ascuţit de stâncă; şi-atunci alcătuirea ta, înmormântată, va zace sub strânsoarea braţelor de piatră.</p>
+            <p>         Un lung răgaz de vreme se va scurge, până când te vei întoarce iarăşi la lumină.</p>
+            <p>         Dar câinele cu aripi al lui Zeus, cumplitul vultur, îţi va sfâşia sălbatic trupul, făcând din el o largă rană şi ca un oaspe nepoftit ce stăruie la masă toată ziua se va-nfrupta, la negru praznic, din ficatul tău.</p>
+            <p>         Să nu speri într-un capăt al acestor cazne, până când unul dintre zei va fi de bunăvoie gata să sufere în locul tău şi să coboare-n Hades, unde nu a licărit lumină, în Târtaros, adâncul beznei.</p>
+            <p>         Deci cumpăneşte, asta nu-i ameninţare goală, ci adevărul bine răspicat85!</p>
+            <p>         Gura lui Zeus nu se pricepe a rosti minciuni şi tot cu-vântul său se împlineşte.</p>
+            <p>         Priveşte împrejurul tău, gândeşte-te, nu socoti înverşunarea mai de preţ ca buna judecată.</p>
+            <p>         CORIFEUL</p>
+            <p>         Rostirile lui Hermes, cred, sunt pe potriva clipei. El te îndeamnă să te lepezi de înverşunare şi să apuci pe drumul bunei judecăţi: urmează-l!</p>
+            <p>         E ruşinos ca înţeleptul să stăruie-n greşeală.</p>
+            <p>         Lam</p>
+            <p>         PROMETEU</p>
+            <p>         I zumzăi vestiri pe care le ştiu dinainte.</p>
+            <p>         Dar nu e deloc ruşinos, ca duşman, să fiu asuprit de duşmani.</p>
+            <p>         Să cadă asupră-mi mănunchiul de foc împletit86, tresară eterul în zgomot de trăsnete, sub vifor de vânturi sălbatice; suflările lor, zguduind pământul, să-l smulgă din rădăcini şi străfunduri; talazul mării, cu vuiet năprasnic şi aspru, umflat pân' la cer, să şteargă cărările stelelor, nemernicu-mi trup să-l azvârle adânc în bezna din Târtaros, în vârtejirile unei neîndurate ursite! /Dar nu voi putea fi atins niciodată de moarte.</p>
+            <p>         HERMES</p>
+            <p>         Auzit-am cuvinte şi gânduri descreierate.</p>
+            <p>         Ce semn de sminteală lipseşte unor asemenea rugi?</p>
+            <p>         Oare nu-şi înfrânează deloc nebunia?</p>
+            <p>         Dar voi, care sunteţi părtaşe la suferinţele lui, plecaţi din aceste meleaguri cât mai degrabă, să nu fie minţile voastre lovite de năuceală la mugetul necruţătorului tunet!</p>
+            <p>         CORIFEUL, Grăieşte cu altfel de glas şi altfel de sfaturi, de vrei să mă-ndupleci!</p>
+            <p>         Desigur, acum ai rostit o vorbă de neîndurat. Cum, tu mă-ndemni să apuc pe drumul ticăloşiei? Eu vreau, ce i-a fost hărăzit, să îndur laolaltă cu el. Am învăţat să urăsc trădătorii şi nu este boală pe care s-o dispreţuiesc mai mult ca trădarea.</p>
+            <p>         HERMES</p>
+            <p>         Păstraţi în minte cele prezise, să nu fiţi vânate cumva de nenorocire, sănu cârtiţi mai apoi împotriva destinului vostru, învinuindu-l pe Zeus că v-a împins în năpastă neaşteptată; deoarece singure voi v-aţi făcut-o!</p>
+            <p>         V-am dat de ştire: nu dintr-o dată, pe nepregătite, veţi cădea în năvodul năpastei, fără scăpare, împletit de chiar nebunia voastră.</p>
+            <p>         (Hermes pleacă. Din pământ răzbate vuiet de cutremur, stâncile se clatină.)</p>
+            <p>         PROMETEU</p>
+            <p>         Cuvântul acum se schimbă în faptă.</p>
+            <p>         Pământul se zguduie, din adâncuri tunetul muge, fulgerul scapără, învăpăiat, şerpuiri de foc!</p>
+            <p>         Se rotesc vârtejuri de pulbere; de pretutindeni ţâşnesc suflări furtunoase, se ciocnesc între ele, război de potrivnice vânturi.</p>
+            <p>         Se-amestecă marea cu cerul.</p>
+            <p>         Aceasta e vijelia, trimisă asupră-mi, desigur să mă-nspăimânte, din partea lui Zeus.</p>
+            <p>         O sfântă putere a Maicii mele şi tu, Eter, a cărui lumină, la toţi dăruită, înconjură totul, priviţi-mă, cât pătimesc de nedrept!</p>
+            <p>         (Cutremurul pământului şi stihiile dezlănţuite îl îngroapă pe Prometeu sub dărâmăturile stâncilor. Corul Okeanidelor dispare87.)</p>
+            <p>                                                                                SFÂRŞIT</p>
+         </div>
+      </body>
+   </text>
+</TEI>

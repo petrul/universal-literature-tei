@@ -1,0 +1,2845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donici, Scrieri</title>
+            <author>Donici,Alexandru</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date/>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">
+               <ptr target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro"/>
+               <lb/>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">
+               <ptr target="https://ro.wikisource.org/wiki/Autor:Alecu_Donici"/>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro">ro</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Petru Dimulescu</name>
+               <date>2019-03-04T10:08:25.282537000</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <head>Donici, Scrieri</head>
+         <author>Donici,Alexandru</author>
+         <p rend="start color(#000000)">
+            <ptr target="https://ro.wikisource.org/wiki/Autor:Alecu_Donici"/>
+         </p>
+         <p rend="color(#000000)">
+            <ptr target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro"/>
+            <lb/>
+         </p>
+         <p rend="center color(#000000)">ro</p>
+         <div type="div1">
+            <head>Fabule</head>
+            <div type="div2">
+               <head>Cartea I</head>
+               <div type="div3">
+                  <head>Vulturul și albina</head>
+                  <lg>
+                     <l>O, cât sunt de fericiți</l>
+                     <l>Cei de soarta lor slăviți!</l>
+                     <l>Căci ei și spre fapta mare</l>
+                     <l>Au a slavei îndemnare.</l>
+                     <l>Dar și cei ce ostenesc</l>
+                     <l>Întru binele obștesc,</l>
+                     <l>Neprivind la răsplătire,</l>
+                     <l>Sunt prea vrednici de cinstire. </l>
+                  </lg>
+                  <lg>
+                     <l>Vulturul pe o albină</l>
+                     <l>Au zărit-o în grădină,</l>
+                     <l>La revărsatul de zori,</l>
+                     <l>Bâzâind pe lângă flori.</l>
+                     <l>Și i-au zis: "O, ticăloasă,</l>
+                     <l>Albină nesățioasă!</l>
+                     <l>Tu petreci a ta viață</l>
+                     <l>Tot pe flori și pe verdeață,</l>
+                     <l>Migăind necontenit</l>
+                     <l>Nu știu pentru ce sfârșit.</l>
+                     <l>Dar nici însăți tu nu știi</l>
+                     <l>Care-i munca ta cea bună,</l>
+                     <l>Când ca tine mii de mii</l>
+                     <l>Miere la un stup adună.</l>
+                     <l>Iar apoi, ce fericire</l>
+                     <l>Moștenesc eu de la fire! </l>
+                  </lg>
+                  <lg>
+                     <l>Cum aripile-mi întind</l>
+                     <l>Și mă desfătez zburând</l>
+                     <l>Către ceruri, către soare:</l>
+                     <l>De a mea putere mare,</l>
+                     <l>Păsările lumii toate</l>
+                     <l>Fug, s-ascund înspăimântate”.</l>
+                     <l>— Fii tu în veci preaslăvit,</l>
+                     <l>Albina lui au rostit.</l>
+                     <l>Joe să te norocească</l>
+                     <l>Și anii să-ți înmulțească.</l>
+                     <l>Iar eu fiind rânduită,</l>
+                     <l>Obștiei să ostenesc,</l>
+                     <l>Mă cunosc prea fericită</l>
+                     <l>Când fagurii îi privesc,</l>
+                     <l>Lucrați de mii de albine;</l>
+                     <l>Și știu că și de la mine</l>
+                     <l>Un pic de miere măcar</l>
+                     <l>S-au adus întru bun dar.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Greierul și furnica</head>
+                  <lg>
+                     <l>Greierul în desfătare,</l>
+                     <l>Trecând vara cu cântare,</l>
+                     <l>Deodată se trezește</l>
+                     <l>Că afară viscolește,</l>
+                     <l>Iar el de mâncat nu are.</l>
+                     <l>La vecina sa furnică</l>
+                     <l>Alergând, cu lacrimi pică</l>
+                     <l>Și se roagă să-i ajute,</l>
+                     <l>Cu hrană să-l împrumute,</l>
+                     <l>Ca de foame să nu moară,</l>
+                     <l>Numai pân' la primăvară.</l>
+                  </lg>
+                  <lg>
+                     <l>Furnica l-au ascultat,</l>
+                     <l>Dar așa l-au întrebat:</l>
+                     <l>— Vara, când eu adunam,</l>
+                     <l>Tu ce făceai?</l>
+                  </lg>
+                  <lg>
+                     <l> — Eu cântam</l>
+                     <l>În petrecere cu toți.</l>
+                  </lg>
+                  <lg>
+                     <l>— Ai cântat? Îmi pare bine.</l>
+                     <l>Acum joacă, dacă poți,</l>
+                     <l>Iar la vară fă ca mine.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lupul și cucul </head>
+                  <lg>
+                     <l>— Rămâi sănătos, vecine!</l>
+                     <l>Au zis lupul către cuc.</l>
+                     <l>Aceste țări de rău pline</l>
+                     <l>Le părăsesc și mă duc.</l>
+                     <l>Nu mai pot trăi aice,</l>
+                     <l>De om, câine, prigonit.</l>
+                     <l>În Arcadia, ferice!</l>
+                     <l>Este codru de trăit.</l>
+                     <l>Unde aurita vreme</l>
+                     <l>Împărățește deplin,</l>
+                     <l>Unde lupul nu se teme</l>
+                     <l>De năpăstile ce-i vin.</l>
+                     <l>Acolo nu sunt războaie,</l>
+                     <l>Toți în pace viețuiesc:</l>
+                     <l>Omul este blând ca oaie,</l>
+                     <l>Iar câinii nici hămăiesc.</l>
+                  </lg>
+                  <lg>
+                     <l>— Cale bună, măi vecine!</l>
+                     <l>Dar te rog, să-mi spui curat:</l>
+                     <l>Năravul nu-ți iei cu tine?</l>
+                     <l>Și colții ai lepădat?</l>
+                     <l>— Să-i lepăd? Da' cum se poate?</l>
+                  </lg>
+                  <lg>
+                     <l>— Apoi ține minte, frate,</l>
+                     <l>Că la viitoarea iarnă</l>
+                     <l>Ai să rămâi fără blană.</l>
+                     <l>Și așa s-au întâmplat,</l>
+                     <l>Precum cucul i-au cântat.</l>
+                  </lg>
+                  <lg>
+                     <l>Între oameni iar sunt unii</l>
+                     <l>Cu colți de lup înzestrați:</l>
+                     <l>Ori în care parte-a lumii,</l>
+                     <l>Ei vor fi tot ne-mpăcați.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Gâștele</head>
+                  <lg>
+                     <l>Cu o prăjină mare,</l>
+                     <l>Țăranul gâște de vânzare</l>
+                     <l>Mâna la târg.</l>
+                     <l>Și drept să zic:</l>
+                  </lg>
+                  <lg>
+                     <l>În cârdul gâștelor, spre buna îndemnare,</l>
+                     <l>Grăbind la zi de târg, bătea ades cam tare.</l>
+                     <l>(Dar unde de câștig sau pagubă s-atinge,</l>
+                     <l>Nu numai gâștele, și omenirea plânge.)</l>
+                     <l>Eu nu vinovățesc țăranul nicidecum;</l>
+                     <l>Iar gâștele altfel aceasta judeca</l>
+                     <l>Și, întâlnindu-se c-un trecător pe drum,</l>
+                  </lg>
+                  <lg>
+                     <l>Așa striga:</l>
+                     <l>— A! Ce necaz, ce osândire!</l>
+                     <l>Asupra gâștelor ce crudă prigonire!</l>
+                     <l>Privește, un țăran cum bate joc cu noi;</l>
+                     <l>De astă-noapte el ne mână denapoi.</l>
+                     <l>Lui, nătărăului, nu-i trece nici prin minte</l>
+                     <l>Că are datorie a ne arăta cinste;</l>
+                     <l>Căci noi ne tragem drept din neamul cel slăvit</l>
+                  </lg>
+                  <lg>
+                     <l>Ce Capitolia din Rom' au izbăvit!</l>
+                     <l>Romanii, mulțămiți, au pus și sărbătoare,</l>
+                     <l>Pentru așa a lor prea vrednică urmare.</l>
+                  </lg>
+                  <lg>
+                     <l>— Și voi tot cu aceasta vreți</l>
+                     <l>A lumii slavă să aveți?</l>
+                     <l>Au zis acel drumeț.</l>
+                     <l>— Strămoșii noștri...</l>
+                  </lg>
+                  <lg>
+                     <l> — Știu,</l>
+                     <l>Dar eu la vorba mea să viu:</l>
+                     <l>Ce faptă vrednică voi ați făcut în lume?</l>
+                     <l>— Nimica, însă noi...</l>
+                     <l>— Că numai de fripture voi</l>
+                     <l>Sunteți și bune.</l>
+                  </lg>
+                  <lg>
+                     <l>Lăsați dar pe strămoși în pace:</l>
+                     <l>Cu fapta e cinstit acel care o face.</l>
+                  </lg>
+                  <lg>
+                     <l>Această fabulă a lămuri se poate,</l>
+                     <l>Dar gâștele să nu se-ntarte.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Vulpea și bursucul </head>
+                  <lg>
+                     <l>— Da dincotro și unde</l>
+                     <l>Alergi tu așa iute?</l>
+                  </lg>
+                  <lg>
+                     <l>Bursucul întâlnind pe vulpe-au întrebat.</l>
+                     <l>— Oh, dragă cumătre, am dat peste păcat,</l>
+                  </lg>
+                  <lg>
+                     <l>Sunt, iată, surghiunită!</l>
+                     <l>Tu știi că eu am fost în slujbă rânduită</l>
+                     <l>La o găinărie.</l>
+                     <l>Cu trebile ce-aveam, odihna-mi am lăsat,</l>
+                     <l>Și sănătatea mi-am stricat;</l>
+                     <l>Dar tot eu am căzut în groaznică urgie,</l>
+                     <l>Pe niște pâri nedovedite,</l>
+                     <l>Precum că luam mite.</l>
+                  </lg>
+                  <lg>
+                     <l>Tu singur martor ești, în adevăr să spui:</l>
+                     <l>De m-ai văzut cumva, măcar cu vreun pui?</l>
+                     <l>— Nu, dragă cumătră; dar când ne întâlneam</l>
+                  </lg>
+                  <lg>
+                     <l>Eu cam ades vedeam:</l>
+                     <l>Că tu pe botișor</l>
+                     <l>Aveai și pufușor.</l>
+                  </lg>
+                  <lg>
+                     <l>Se-ntâmplă și la noi de vezi</l>
+                     <l>Cum altul, având loc, așa se tânguiește,</l>
+                     <l>Încât îți vine mai să-l crezi</l>
+                     <l>Că abia din leafă se hrănește.</l>
+                     <l>Dar astăzi butcă, mâine cai,</l>
+                  </lg>
+                  <lg>
+                     <l>De unde oare-i vin? Și când ar vrea să stai</l>
+                     <l>Să-i faci curată socoteală</l>
+                     <l>Pentru venit și cheltuială,</l>
+                  </lg>
+                  <lg>
+                     <l>N-ai zice ca bursucul că are pufușor</l>
+                     <l>Pe botișor?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Vulturul și paingul </head>
+                  <lg>
+                     <l>Prin nouri, vulturul, spre muntele Ceahlău</l>
+                     <l>Întinse zborul său.</l>
+                     <l>Pe cea mai naltă stâncă a lui, el se așează</l>
+                     <l>Și lumea dedesubt privind, se desfătează.</l>
+                     <l>Un șir de munți măreți, Moldova de o parte.</l>
+                     <l>A ei câmpii, păduri, a ei frumoase sate!</l>
+                     <l>Și ape: Bistrița, Moldova și Siret,</l>
+                     <l>Pe șesuri vesele, se văd curgând încet.</l>
+                     <l>— Să fie lăudat al tău, o, Joe! nume,</l>
+                     <l>Pentru aripele ce tu mi-ai înzestrat;</l>
+                     <l>Cu care mă ridic la înălțimea lumei,</l>
+                  </lg>
+                  <lg>
+                     <l>Pe unde nimene a fi n-au cutezat!</l>
+                     <l>Aceste vulturul rostește bucuros.</l>
+                     <l>— Da' știi, prietene, că ești lăudăros!</l>
+                     <l>Paingul de pe mușchi atunce îi răspunde.</l>
+                     <l>Dar uită-te de vezi: și eu sunt oare unde?</l>
+                     <l>Se uită vulturul și vede, înadins,</l>
+                     <l>Paingul lângă el, cum mreaja a întins.</l>
+                  </lg>
+                  <lg>
+                     <l>— De unde te-ai luat?</l>
+                     <l>Întreabă el mirat.</l>
+                     <l/>
+                     <l>Și cum te-ai târâit?</l>
+                  </lg>
+                  <lg>
+                     <l>— Să-ți spun adevărat,</l>
+                     <l>Paingul au răspuns,</l>
+                     <l>Pe coadă-ți am venit,</l>
+                     <l>Tu însuți m-ai adus;</l>
+                  </lg>
+                  <lg>
+                     <l>Cu-a mea putere, eu nici aș fi îndrăznit,</l>
+                     <l>Iar de acum nu am de tine trebuință.</l>
+                     <l>Aici, statornica să-mi fac vreau locuință!...</l>
+                     <l>El bine n-au sfârșit și un vârtej de vânt,</l>
+                     <l>Cu mreaja lui cu tot, îl suflă la pământ.</l>
+                  </lg>
+                  <lg>
+                     <l>Cum socotiți și dumneavoastră;</l>
+                     <l>Dar eu gândesc că-n lumea noastră,</l>
+                  </lg>
+                  <lg>
+                     <l>Sunt mulți asemene ca și paingul meu,</l>
+                     <l>Ce fără ostenele se trag în sus mereu,</l>
+                  </lg>
+                  <lg>
+                     <l>De coada unui mare;</l>
+                     <l>Și cărora le pare</l>
+                  </lg>
+                  <lg>
+                     <l>Că singuri vrednicesc și că li s-au căzut;</l>
+                     <l>Când spre căderea lor</l>
+                     <l>Nu trebuie mai mult,</l>
+                     <l>Decât un vântișor.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Parnas</head>
+                  <lg>
+                     <l>Pe când la greci au părăsit</l>
+                     <l>Ciopliții dumnezei,</l>
+                     <l>Iar locurile lor, pe drept le-au împărțit</l>
+                     <l>Norodul între ei:</l>
+                     <l>Atunci și muntele Parnas</l>
+                  </lg>
+                  <lg>
+                     <l>La unul muritor moșie a rămas.</l>
+                     <l>Stăpânul nou pe el îndat-au așezat</l>
+                  </lg>
+                  <lg>
+                     <l>Câțiva măgari la pășunat.</l>
+                     <l>Măgarii au aflat,</l>
+                     <l>De unde, până unde!</l>
+                     <l>Că muzele odat'</l>
+                     <l>Au locuit pe munte</l>
+                     <l>Și zic: "Se vede, dar,</l>
+                  </lg>
+                  <lg>
+                     <l>Că noi aici suntem mânați nu în zadar.</l>
+                     <l>Pesemne muzele de oameni s-au urât</l>
+                  </lg>
+                  <lg>
+                     <l>Și ei au hotărât:</l>
+                     <l>Ca noi în locul lor cântări să iscodim.</l>
+                     <l>Aideți! voinicilor! cu toții să răcnim.</l>
+                     <l>Nu pierdeți cumpătul, strigați cu îndrăzneală,</l>
+                  </lg>
+                  <lg>
+                     <l>Iar cine n-are glas</l>
+                     <l>Cum trebui la măgari, afar' de pe Parnas!</l>
+                     <l>Și credeți că, păzind această rânduială,</l>
+                     <l>Noi slavă vom lua, mai mult răsunătoare,</l>
+                     <l>Decât acele nouă vestite sorioare".</l>
+                  </lg>
+                  <lg>
+                     <l>Acest sfat măgăresc,</l>
+                     <l>Măgarii cu un glas îl îmbunătățesc.</l>
+                     <l>Și-odată toți pornesc</l>
+                     <l>Așa strigare mare,</l>
+                  </lg>
+                  <lg>
+                     <l>Încât stăpânul lor, pierzând toată răbdarea,</l>
+                     <l>Au poruncit cu ură</l>
+                     <l>Să-nchidă pe măgari, de pe Parnas, la șură.</l>
+                     <l>Eu vreau s-aduc aminte:</l>
+                     <l>Că locul nu dă minte.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Momița și două mâțe </head>
+                  <lg>
+                     <l>În a momițelor țară</l>
+                     <l>(Ce mai nu are hotară)</l>
+                     <l>Odată judecătoare</l>
+                     <l>Era o momiță, care</l>
+                     <l>Chibzuia cu scumpătate</l>
+                     <l>Cumpăna cea de dreptate.</l>
+                     <l>Și iată că la momiță</l>
+                     <l>Se arată două mâțe,</l>
+                     <l>Zgâriate, încruntate,</l>
+                     <l>În prigonire de moarte,</l>
+                     <l>Părăsind al lor lăcaș,</l>
+                     <l>Pentr-un bulgăre de caș.</l>
+                     <l>Una strigă: "Socotește!</l>
+                     <l>Cașul eu l-am fost ochit."</l>
+                     <l>Alta țipă: "Hotărăște!</l>
+                     <l>Cașul eu l-am dobândit."</l>
+                     <l>— Stați! le zise lor momița.</l>
+                     <l>În cumpăna de dreptate</l>
+                     <l>Se va lămuri ființa</l>
+                     <l>Pricinii de caș urmate.</l>
+                     <l>Apoi cașul drept în două</l>
+                     <l>Rumpându-l ea prea frumos,</l>
+                     <l>Au pus întru amândouă</l>
+                     <l>Cumpene câte un boț.</l>
+                     <l>Dar când cumpăna ridică,</l>
+                     <l>Vede c-o parte-i mai mică;</l>
+                     <l>Mușcă, cearcă, chibzuiește</l>
+                     <l>Și bine nu nimerește.</l>
+                     <l>Acum partea cea mușcată</l>
+                     <l>Nu trăgea ca ceialaltă;</l>
+                     <l>Mușcând iar din acea grea,</l>
+                  </lg>
+                  <lg>
+                     <l>Tocmai drept nu nimerea.</l>
+                     <l>Și așa pân-în sfârșit</l>
+                     <l>Tot în cumpene au tras;</l>
+                     <l>Iar mâțele s-au trezit</l>
+                     <l>Că din caș n-au mai rămas.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lupul și lupușorul </head>
+                  <lg>
+                     <l>Un lup pe puiul său voind să-l ispitească,</l>
+                     <l>De este vrednic el în breasla părintească,</l>
+                  </lg>
+                  <lg>
+                     <l>L-au fost trimis odată</l>
+                     <l>La margine să vadă:</l>
+                  </lg>
+                  <lg>
+                     <l>Pe unde-s oile? Cum stau păstorii lor?</l>
+                     <l>Și nu cumva ar fi vreun prilej ușor,</l>
+                  </lg>
+                  <lg>
+                     <l>Măcar cam cu păcat,</l>
+                     <l>Să capete vânat?</l>
+                  </lg>
+                  <lg>
+                     <l>S-au dus și au venit flămândul lupușor,</l>
+                     <l>Zicând: "Eu am aflat pe astăzi bună masă:</l>
+                     <l>Cole sub deal se pasc mulțime de oi grasă;</l>
+                     <l>Putem întru ales vreuna să luăm</l>
+                  </lg>
+                  <lg>
+                     <l>Și să mâncăm."</l>
+                     <l>— Da' bine, de păstor tu nu-mi spui ce-ai aflat?</l>
+                     <l>Bătrânul lup au întrebat.</l>
+                     <l>— Păstorul, precum spun,</l>
+                     <l>E deșteptat și bun,</l>
+                  </lg>
+                  <lg>
+                     <l>Iar câinii, i-am zărit, sunt slabi și puțintei,</l>
+                     <l>Nu-i grijă despre ei.</l>
+                     <l>— De este chiar așa, eu tot nu mă unesc</l>
+                     <l>La turmă să pornesc —</l>
+                     <l>Răspunse lupul — căci de nu-i păstorul prost,</l>
+                     <l>Apoi el câini mișei nu ține.</l>
+                     <l>Să mergem noi mai bine</l>
+                  </lg>
+                  <lg>
+                     <l>Pe unde eu am fost,</l>
+                     <l>Și știu că sunt câini mulți, dar e păstorul prost.</l>
+                     <l>Iar unde e păstorul de nimică,</l>
+                     <l>Nici câinii nu-s de frică.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Calul și călărețul</head>
+                  <lg>
+                     <l>Un vrednic călăreț</l>
+                     <l>Avea un cal prea blând și bine învățat;</l>
+                     <l>Iar singur el semeț</l>
+                     <l>Și despre cal încredințat,</l>
+                     <l>Au vrut să facă o cercare:</l>
+                     <l>Ca fără frâu, călare</l>
+                     <l>Să iasă la primblare.</l>
+                     <l>Deodată calul au pornit</l>
+                     <l>La pas, încetișor;</l>
+                  </lg>
+                  <lg>
+                     <l>Dar când au înțeles că n-are frâu strunit,</l>
+                     <l>Au prins a mai juca, a merge mai ușor.</l>
+                  </lg>
+                  <lg>
+                     <l>Apoi, luându-și vânt,</l>
+                     <l>Sărea, zvârlea fugând,</l>
+                  </lg>
+                  <lg>
+                     <l>Încât pe călăreț l-au trântit el jos,</l>
+                     <l>Iar singur au plecat la fugă mai vârtos</l>
+                  </lg>
+                  <lg>
+                     <l>Pe văi, pe dealuri, prin ponoare</l>
+                     <l>Și, dând de-o râpă mare,</l>
+                     <l>S-au zdrumicat de tot.</l>
+                  </lg>
+                  <lg>
+                     <l>Stăpânul au aflat în urmă calul mort.</l>
+                     <l>Ș-au zis: Sărmane cal, prea cruda ta pieire</l>
+                  </lg>
+                  <lg>
+                     <l>Eu însumi ți-am gătit.</l>
+                     <l>Tu sub povățuire</l>
+                     <l>A frâului strunit,</l>
+                  </lg>
+                  <lg>
+                     <l>Erai prea blând și bun și nici nu mă trânteai,</l>
+                     <l>Nici capul nu-ți rupeai.</l>
+                  </lg>
+                  <lg>
+                     <l>Și slobozenia cât e de desfătată,</l>
+                     <l>Dar când la un norod nu are</l>
+                     <l>A sa măsură înțeleaptă,</l>
+                     <l>Se face primejduitoare.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Leul și iepurele </head>
+                  <lg>
+                     <l>Un leu c-un iepure prieteni s-au făcut.</l>
+                     <l>Eu văd că vă mirați</l>
+                     <l>Și nici e de crezut;</l>
+                     <l>Dar când îți sta să căutați</l>
+                     <l>La adunările lumești,</l>
+                  </lg>
+                  <lg>
+                     <l>Apoi mai grele lucruri îți crede nefirești.</l>
+                     <l>Așa, odată au pornit</l>
+                     <l>Ei împreună la plimbare,</l>
+                     <l>Și iepurele au stârnit</l>
+                     <l>Această întrebare:</l>
+                     <l>— Prietene iubit!</l>
+                  </lg>
+                  <lg>
+                     <l>Mă mir eu și te rog să-mi spui</l>
+                     <l>Pricina, pentru ce cucoșul nimicit,</l>
+                     <l>Pe care poți pe loc c-o sfârlă mort să-l pui,</l>
+                  </lg>
+                  <lg>
+                     <l>Te sparie așa cumplit,</l>
+                     <l>Încât tu fugi de glasul lui?</l>
+                  </lg>
+                  <lg>
+                     <l>— Aceasta nu-i de vro mirare,</l>
+                     <l>Lui leul au răspuns.</l>
+                     <l>Și noi cei mari suntem cu slăbiciuni născuți.</l>
+                     <l>Precum un elefant, cât este el de mare,</l>
+                  </lg>
+                  <lg>
+                     <l>De șoareci iar se teme tare.</l>
+                     <l>Apoi pentru aceasta dar,</l>
+                     <l>Nu în zadar,</l>
+                  </lg>
+                  <lg>
+                     <l>Răspunse iepurul. Și eu ca voi cei mari,</l>
+                     <l>Mă tem de câini copoi și varvarii ogari.</l>
+                  </lg>
+                  <lg>
+                     <l>Și noi adeseori pe patimi ne silim</l>
+                     <l>Cu ale celor mari să le sămăluim.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar nu prea nimerim.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Stiglețul și ciocârlanul </head>
+                  <lg>
+                     <l>Stiglețul s-au fost prins în laț, cum e mai greu,</l>
+                     <l>Și deznădăjduit de moarte se bătea;</l>
+                  </lg>
+                  <lg>
+                     <l>Iar ciocârlanul rău</l>
+                     <l>De el încă râdea,</l>
+                     <l>Zicând: „Ce nătărău!</l>
+                     <l>Se poate ziua mare</l>
+                     <l>Să cazi în laț așa de tare;</l>
+                     <l>Când eu n-am frică</l>
+                     <l>De nimică?”</l>
+                  </lg>
+                  <lg>
+                     <l>Dar învârtindu-se pe lângă stiglețel,</l>
+                     <l>S-au prins în laț și el.</l>
+                  </lg>
+                  <lg>
+                     <l>Vezi, după faptă,</l>
+                     <l>Plată:</l>
+                     <l>Să nu mai râzi de nime niciodată!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Două poloboace</head>
+                  <lg>
+                     <l>Un poloboc cu vin</l>
+                     <l>Mergea în car pe drum, încet și foarte lin;</l>
+                     <l>Iar altul cu deșert, las' că venea mai tare,</l>
+                  </lg>
+                  <lg>
+                     <l>Dar și hodorogea,</l>
+                     <l>Făcând un vuiet mare,</l>
+                  </lg>
+                  <lg>
+                     <l>Încât cei trecători în laturi toți fugea:</l>
+                     <l>Atunci când el folos nimica n-aducea.</l>
+                  </lg>
+                  <lg>
+                     <l>Asemene în lume,</l>
+                     <l>Acel ce tuturor se laudă și spune</l>
+                     <l>În trebi puțin sporește.</l>
+                     <l>Iar cel ce tace,</l>
+                     <l>Și treabă face:</l>
+                  </lg>
+                  <lg>
+                     <l>Acela purure mai sigur isprăvește.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Racul, broasca și știuca</head>
+                  <lg>
+                     <l>Racul, broasca și o știucă</l>
+                     <l>Într-o zi s-au apucat</l>
+                     <l>De pe mal în iaz s-aducă</l>
+                     <l>Un sac cu grâu încărcat.</l>
+                     <l>Și la el toți se înhamă:</l>
+                     <l>Trag, întind, dar iau de samă</l>
+                     <l>Că sacul stă neclintit,</l>
+                     <l>Căci se trăgea neunit.</l>
+                     <l>Racul înapoi se da,</l>
+                     <l>Broasca tot în sus sălta,</l>
+                     <l>Știuca foarte se izbea</l>
+                     <l>Și nimic nu isprăvea.</l>
+                     <l>Nu știu cine-i vinovat;</l>
+                     <l>Însă, pe cât am aflat,</l>
+                     <l>Sacul în iaz nu s-au tras,</l>
+                     <l>Ci tot pe loc au rămas.</l>
+                  </lg>
+                  <lg>
+                     <l>Așa-i și la omenire,</l>
+                     <l>Când în obște nu-i unire:</l>
+                     <l>Nici o treabă nu se face</l>
+                     <l>Cu izbândă și cu pace.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Bărbatul cu trei femei</head>
+                  <lg>
+                     <l>Un om poznaș au fost schimbat</l>
+                     <l>Vro trei femei cu cununii,</l>
+                  </lg>
+                  <lg>
+                     <l>Fiind tustrele încă vii.</l>
+                     <l>Dar acolo era un aspru împărat,</l>
+                     <l>La care, cum au mers asemene știință,</l>
+                  </lg>
+                  <lg>
+                     <l>Au și găsit de cuviință</l>
+                     <l>Ca pentru așa faptă,</l>
+                     <l>Pe om să-l dea sub judecată;</l>
+                     <l/>
+                     <l>Iar spre mai aspră înfrânare,</l>
+                     <l>Judecătorilor au pus el înainte</l>
+                     <l>Să fie cu luare-aminte</l>
+                     <l>Și să închipuiască pedeapsa cea mai mare</l>
+                     <l>Unei asemene de pildă rea urmare;</l>
+                     <l>Că la de împotrivă, el hotărât era</l>
+                     <l/>
+                     <l>Pe toți a-i spânzura.</l>
+                     <l>(Asemene un împărat</l>
+                     <l>Nici pe la noi n-ar fi stricat.)</l>
+                     <l/>
+                     <l>Judecătorii văd că nu-i de șuguit;</l>
+                     <l>Să hotărască drept ei mult s-au sârguit,</l>
+                     <l>Și numai Dumnezeu de sus i-au luminat,</l>
+                     <l>Căci socotința lor aceasta au urmat:</l>
+                     <l>Ca omului să dea femeile tustrele,</l>
+                     <l>Îndatorându-se de a trăi cu ele.</l>
+                     <l/>
+                     <l>Norodul însă s-au mirat</l>
+                     <l>Pentru asemene prea slabă hotărâre,</l>
+                     <l>Și sigur toți au așteptat,</l>
+                     <l>Pe vrun judecător să vadă spânzurat.</l>
+                     <l>Dar n-au trecut nici patru zile</l>
+                     <l>Și s-au împrăștiet prin țară auzire:</l>
+                     <l>Că cel cu trei femei bărbat,</l>
+                     <l>De răul lor s-au spânzurat,</l>
+                     <l>Și de atunci în acea țară,</l>
+                     <l>Cu trei mai nime nu se-nsoară.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Vulpea și măgarul </head>
+                  <lg>
+                     <l>— Mintiosule! de unde vii?</l>
+                     <l>O vulpe pe măgar văzând l-au întrebat.</l>
+                     <l>— Drept de la leu, de vrei să știi;</l>
+                     <l>Am fost să-l văd și m-am mirat</l>
+                     <l>Cum au slăbit de tare;</l>
+                     <l>Bătrân, neputincios: îți pare</l>
+                     <l>O fiară foarte de nimică</l>
+                  </lg>
+                  <lg>
+                     <l>Acel ce când zbiera,</l>
+                     <l>Tot codrul tremura,</l>
+                     <l>Iar eu muream de frică.</l>
+                     <l>Acum însă mai toți,</l>
+                     <l>Cu coarne și cu colți,</l>
+                     <l>Cum pot îl dojenesc</l>
+                     <l>Și frica-i răsplătesc.</l>
+                  </lg>
+                  <lg>
+                     <l>— Dar tu, eu socotesc că nu-i fi îndrăznit</l>
+                     <l>De leu să te atingi? lui vulpea au vorbit.</l>
+                  </lg>
+                  <lg>
+                     <l>— Așa! măgarul i-au răspuns.</l>
+                     <l>Ba cred că l-au pătruns</l>
+                     <l>Pereche de copite</l>
+                     <l>De mine lui zvârlite.</l>
+                  </lg>
+                  <lg>
+                     <l>Și sufletele mici asemene urmează,</l>
+                     <l>Când pe acei căzuți din slavă împilează.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Leul la vânat </head>
+                  <lg>
+                     <l>Leul, lupul, vulpea și câinele odat',</l>
+                     <l>Ca niște buni vecini, s-au fost alcătuit,</l>
+                  </lg>
+                  <lg>
+                     <l>Cu toții întrunit,</l>
+                     <l>Să umble la vânat:</l>
+                  </lg>
+                  <lg>
+                     <l>Și ce vor căpăta să-mpartă măsurat.</l>
+                     <l>Se-ntâmplă dar, că vulpea-ntâi</l>
+                     <l>Un cerb frumos au prins,</l>
+                     <l>Și adunând pe toți ai săi,</l>
+                     <l>Spre jertfă l-au întins.</l>
+                     <l>— Acuma e treaba mea, băieți,</l>
+                     <l>Le zise leul lor.</l>
+                     <l>Voi trebui numai să vedeți</l>
+                     <l>Cum eu împart ușor.</l>
+                  </lg>
+                  <lg>
+                     <l>Și despicând îndat' pe cerb în patru părți,</l>
+                     <l>Au zis: "Aceste sunt frățeștile bucăți.</l>
+                     <l>Și iată: cea întâi e partea mea de frate;</l>
+                     <l>A doua, pe drept ca unui leu se cade;</l>
+                     <l>Ș-acea a treia tot mie se cuvine,</l>
+                     <l>Precum voi știți prea bine.</l>
+                     <l>Iar de a patra, oricare s-ar atinge,</l>
+                     <l>Pe loc îl voi învinge."</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Râmătorul</head>
+                  <lg>
+                     <l>Un râmător din fire născut nesățios </l>
+                     <l>Aflând destulă ghindă sub un stejar stufos </l>
+                     <l>A ros cât a putut</l>
+                     <l>Și-apoi la rădăcină să râme-a început. </l>
+                     <l>Tu surpi copacul, zise o pasăre zburând. </l>
+                     <l>Ce-mi pasă, râmătorul răspunse grohăind, </l>
+                     <l>El fie ori nu fie, nici vreau să mai gândesc: </l>
+                     <l>Eu caut numai ghindă, la care lăcomesc, </l>
+                     <l>Fiindcă ea mă-ngrașă. - Urâte râmător</l>
+                     <l>Și nemulțumitor!</l>
+                     <l>I-a zis atunci stejarul, ridică-ți surla-n sus </l>
+                     <l>Și vezi: că-această ghindă eu, eu o am produs.</l>
+                  </lg>
+                  <lg>
+                     <l>Nerozii în orbire științele urăsc, </l>
+                     <l>Când ei din a lor roduri încă se folosesc.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Vulpea pedepsită </head>
+                  <lg>
+                     <l>O vulpe la țăran se înnădis-odată</l>
+                     <l>La păsări în poiată.</l>
+                     <l>Cu-acea deprindere și iarna pe omăt,</l>
+                     <l>Ea noaptea au venit flămândă la ospăt,</l>
+                  </lg>
+                  <lg>
+                     <l>Și în găini s-au desfătat.</l>
+                     <l>Iar după ce s-au săturat,</l>
+                  </lg>
+                  <lg>
+                     <l>Apoi au zis: "Destul, mă duc degrab-acasă,</l>
+                     <l>Ca nu cumva să dau pielcica pentru masă".</l>
+                     <l>Dar îngrijirea ei, curând s-au împlinit:</l>
+                     <l>Căci urma se vedea, pe unde au venit.</l>
+                     <l>Țăranul vânător s-au și luat pe urmă,</l>
+                     <l>Și vulpea au ieșit de contăș foarte bună.</l>
+                  </lg>
+                  <lg>
+                     <l>Ce dac-ar fi și-n lumea mare</l>
+                     <l>Văzută urma la tâlhari,</l>
+                     <l>Atunci mă jur, fără mustrare,</l>
+                     <l>Că s-ar vădi și în curți mari.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Pieptenul</head>
+                  <lg>
+                     <l>Copilului de pieptănat</l>
+                     <l>Neneaca pieptene din târg au cumpărat.</l>
+                     <l>Copilul foarte mult de el s-au bucurat.</l>
+                  </lg>
+                  <lg>
+                     <l>Ce piepten bunișor!</l>
+                     <l>Cum merge de ușor!</l>
+                  </lg>
+                  <lg>
+                     <l>Mai bine de un ceas</l>
+                     <l>El perișorul său prin pieptene au tras</l>
+                     <l>Și mulțămit deplin neneacăi au rămas.</l>
+                  </lg>
+                  <lg>
+                     <l>Apoi s-au pus la carte,</l>
+                     <l>Au învățat frumos,</l>
+                     <l>Din buchi a opta parte;</l>
+                  </lg>
+                  <lg>
+                     <l>Și iar la pieptene degrabă s-au întors.</l>
+                     <l>După aceasta dând de alte jucării,</l>
+                     <l>Copilul au făcut prea multe nebunii</l>
+                     <l>Și părul de pe cap de tot și-au încâlcit.</l>
+                     <l>Dădaca lui au vrut îndat' să-l netezească,</l>
+                     <l>Dar pieptenul era prin casă zăhăit;</l>
+                     <l>Și el țipa, răcnea, acela să-i găsească!</l>
+                     <l>O fată, de sub pat, degrabă l-au și scos,</l>
+                  </lg>
+                  <lg>
+                     <l>Dar numai ce folos!</l>
+                     <l>Că cum abia-abia de păru-i s-au atins,</l>
+                     <l>Copilul de dureri au și strigat cu plâns:</l>
+                  </lg>
+                  <lg>
+                     <l>— Ce piepten îndrăcit!</l>
+                     <l>Iar pieptenul au zis:</l>
+                  </lg>
+                  <lg>
+                     <l>— Eu tot același sunt; ți-e părul încâlcit.</l>
+                  </lg>
+                  <lg>
+                     <l>Copilul însă, supărat</l>
+                     <l>Pe favoritul său,</l>
+                     <l>L-au dat într-un pârău:</l>
+                  </lg>
+                  <lg>
+                     <l>Strigoaicele mai mult cu el s-au pieptănat.</l>
+                  </lg>
+                  <lg>
+                     <l>Văzut-am eu</l>
+                     <l>În veacul meu</l>
+                  </lg>
+                  <lg>
+                     <l>Că oamenii așa cu adevărul fac.</l>
+                     <l>Cât cugetu-i curat,</l>
+                     <l>El nouă este drag;</l>
+                     <l>Iar cum pe cuget ai pătat,</l>
+                  </lg>
+                  <lg>
+                     <l>Apoi de adevăr îndat' te-ai depărtat</l>
+                     <l>Și, ca copiii, noi de pieptănat fugim</l>
+                  </lg>
+                  <lg>
+                     <l>Când capul ne-ncâlcim.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Măgarul</head>
+                  <lg>
+                     <l>La un țăran era o vită de măgar,</l>
+                     <l>Cu care el la toți se lăuda;</l>
+                     <l>Căci în părerea lui prea bine se purta.</l>
+                     <l>Și pentru că-mprejur era tot codri mari,</l>
+                     <l>Apoi ca nu cumva, păscând, să rătăcească</l>
+                  </lg>
+                  <lg>
+                     <l>Măgarul lăudat,</l>
+                     <l>Și totodată vrând ca să-l împodobească,</l>
+                     <l>Un zurgălău la gât țăranul i-au legat;</l>
+                     <l>Măgarul s-au făcut măreț și îngâmfat.</l>
+                     <l>(De decorații el pesemne auzise,</l>
+                  </lg>
+                  <lg>
+                     <l>Că prea se fudulise.)</l>
+                     <l>Dar rangul nou au fost lui spre osândă mare.</l>
+                     <l>(Urmează și la noi această întâmplare.)</l>
+                     <l>Eu însă mai întâi dator sunt să vă spun,</l>
+                     <l>Că în purtări era măgarul nu prea bun;</l>
+                  </lg>
+                  <lg>
+                     <l>Iar pân' la zurgălău el bine petrecea.</l>
+                     <l>Prin țarini, prin grădini, prin curături umbla,</l>
+                  </lg>
+                  <lg>
+                     <l>Păștea, se-ndestula;</l>
+                     <l>Ș-apoi cam pe furiș acasă se-ntorcea.</l>
+                     <l>Acum însă mai rău măgarul petrecea.</l>
+                  </lg>
+                  <lg>
+                     <l>Pentru că rangul nou,</l>
+                     <l>Sunând prin zurgălău,</l>
+                  </lg>
+                  <lg>
+                     <l>Chema când pe vecin cu vro despicătură</l>
+                     <l>Să deie pe măgar afar' din curătură,</l>
+                     <l>Când pe stăpânul său cu jărdia în mână,</l>
+                  </lg>
+                  <lg>
+                     <l>Să-l scoată din grădină;</l>
+                     <l>Apoi și pe jitar,</l>
+                  </lg>
+                  <lg>
+                     <l>Să-i rupă coastele cu parul din ogoară,</l>
+                     <l>Încât bietul măgar,</l>
+                     <l>Stâlcit și osândit, rămase mai să moară.</l>
+                  </lg>
+                  <lg>
+                     <l>Și oamenii acei la rang înaintați</l>
+                     <l>Pățesc asemene, când sunt interesați;</l>
+                  </lg>
+                  <lg>
+                     <l>Pentru că rangul nou,</l>
+                     <l>Lor este zurgălău,</l>
+                     <l>Ce sună de departe</l>
+                     <l>Vădindu-le a lor fapte.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Antereul lui Arvinte</head>
+                  <lg>
+                     <l>Arvinte coatele au ros la antereu,</l>
+                     <l>Dar n-au stat mult să socotească;</l>
+                  </lg>
+                  <lg>
+                     <l>Ci singur el, mereu</l>
+                     <l>Se puse să-l cârpească.</l>
+                  </lg>
+                  <lg>
+                     <l>Iar pentru petici de cârpit</l>
+                     <l>Din mâneci au tăiat ca o a patra parte</l>
+                  </lg>
+                  <lg>
+                     <l>Și antereul l-au gătit</l>
+                  </lg>
+                  <lg>
+                     <l>Cu mânecile prea scurtate,</l>
+                     <l>Încât oricare le vedea,</l>
+                     <l>De dâns râdea.</l>
+                  </lg>
+                  <lg>
+                     <l>Văzând aceasta el, au zis în gândul său:</l>
+                     <l>„Lăsați, că doar nu sunt așa de nătărău,</l>
+                  </lg>
+                  <lg>
+                     <l>Vreun lucru mare nu-i</l>
+                     <l>Să-mi tai eu poalele de pe la antereu</l>
+                     <l>Și mânecile să le pui</l>
+                     <l>Mai lungi decât era".</l>
+                     <l>Au zis și au făcut.</l>
+                     <l>Dar lumea se mira</l>
+                  </lg>
+                  <lg>
+                     <l>Că antereul lui era acum prea scurt,</l>
+                     <l>Și nu asemăna nici cu un bun mintean.</l>
+                  </lg>
+                  <lg>
+                     <l>Se-ntâmplă și boieri de neam</l>
+                     <l>Care-ncurcând averea lor,</l>
+                     <l>Tot cu aceeași minte,</l>
+                     <l>Să o îndrepte vor</l>
+                     <l>Și fac ca și Arvinte.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Vulpea în livadă </head>
+                  <lg>
+                     <l>O vulpe a intrat odată</l>
+                     <l>Flămândă în livadă.</l>
+                  </lg>
+                  <lg>
+                     <l>Și poamele văzând, frumoase, coapte bine,</l>
+                     <l>S-a bucurat prea mult în sine,</l>
+                     <l>Dar bucuria ei au fost în mâini străine:</l>
+                     <l>Că prunele pe crengi cam susușor era</l>
+                  </lg>
+                  <lg>
+                     <l>Și nu se scutura.</l>
+                     <l>Umblând ea în zadar mai bine de un ceas,</l>
+                     <l>A zis aceste către prune:</l>
+                     <l>— Cum v-am găsit, așa vă las,</l>
+                  </lg>
+                  <lg>
+                     <l>Măcar că la privit vă arătați prea bune,</l>
+                     <l>Dar verzi, în loc să folosiți,</l>
+                     <l>Voi dinții strepeziți.</l>
+                  </lg>
+                  <lg>
+                     <l>Un adevăr de mult văzut,</l>
+                     <l>Că neavând prilej ca să ne folosim</l>
+                     <l>De-un lucru ce ne e plăcut,</l>
+                     <l>Apoi neapărat cusururi îi găsim.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Elefantul în domnie </head>
+                  <lg>
+                     <l>Cine-i tare și mare,</l>
+                     <l>Dar minte nu prea are,</l>
+                  </lg>
+                  <lg>
+                     <l>Nu-i bine, cât de bun la inimă să fie.</l>
+                  </lg>
+                  <lg>
+                     <l>Pe elefant l-au pus în codri la domnie,</l>
+                     <l>Și de pe neam ei toți,</l>
+                     <l>De la străbunii săi până la strănepoți,</l>
+                     <l>Au îndestulă minte;</l>
+                     <l>Dar este rar acel preafericit părinte</l>
+                     <l>Să-i iasă buni copiii toți.</l>
+                     <l>Și elefantul meu, oricum era de mare,</l>
+                     <l>A înțelegerii n-avea îndemânare,</l>
+                     <l>Iar blând și plin de bunătate</l>
+                  </lg>
+                  <lg>
+                     <l>Era, cât nu se poate.</l>
+                     <l>Și iată că la domn au dat bietele oi</l>
+                     <l>O jalobă, zicând că „lupii răi pe noi</l>
+                  </lg>
+                  <lg>
+                     <l>De tot ne jecuiesc”.</l>
+                     <l>— Tâlharii, varvarii, da cum de îndrăznesc!</l>
+                     <l>Au zis duiosul domn. Iar lupii se-ndrepta</l>
+                  </lg>
+                  <lg>
+                     <l>Și-așa urla:</l>
+                     <l>— Măria ta!</l>
+                  </lg>
+                  <lg>
+                     <l>De noi nu te-ndura,</l>
+                     <l>Căci singur ne-ai fost dat poruncă astă-iarnă</l>
+                     <l>S-avem cu toții blană.</l>
+                     <l>Iar oile pârăsc, c-așa sunt învățate:</l>
+                     <l>Noi n-am luat mai mult decât pielcea de frate.</l>
+                  </lg>
+                  <lg>
+                     <l>— Atâta! domnul le răspunde,</l>
+                     <l>Să știți că strâmbătăți la mine nu-ți ascunde,</l>
+                     <l>Vă hotărăsc de-acum de oaie o pielcică,</l>
+                     <l>Și nici un păr mai mult, nimică.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Pietrenii și Bistrița<note xml:id="ftn1" place="foot" n="1">Locuitorii unui târg de acest nume și un râu repede care spală malurile acelui târg.</note>
+                  </head>
+                  <lg>
+                     <l>Pietrenii au ieșit cu totul din răbdare,</l>
+                     <l>Nemaiputând a suferi</l>
+                     <l>Ei pagube struncinătoare,<lb/>Pe care nu putea feri:</l>
+                  </lg>
+                  <lg>
+                     <l>Pentru că în tot anul, <lb/>Cuejdiul<note xml:id="ftn2" place="foot" n="2">Un pârău ce dă în Bistrița.</note>  nimicit<lb/>Pe mulți au sărăcit.<lb/>Dar cine e deprins, <lb/>ca viermele în hrean,<lb/>Greu schimbă locul lui, unde au trăit an.<lb/>Așadar, târgul tot, odat' s-au sfătuit<lb/>Să deie jalobă la Bistrița cea mare,<lb/>Prin care arătând dovezi lămuritoare<lb/>De păgubirile ce mulți au suferit</l>
+                  </lg>
+                  <lg>
+                     <l>Și sufăr mai necontenit,<lb/>Zicea: „Că pe Cuejdi, precum pe Bistrițoară<note xml:id="ftn3" place="foot" n="3">Alt pârău asemene.</note>
+                        <lb/>Nici într-o primăvară<lb/>Nu se stăvesc cu moară;</l>
+                  </lg>
+                  <lg>
+                     <l>*</l>
+                  </lg>
+                  <lg>
+                     <l>Și case cu zăplaz, ba uneori și vite</l>
+                     <l>Le sunt primejduite.”</l>
+                  </lg>
+                  <lg>
+                     <l>Deci dar, ei socotind că Bistrița cea mare</l>
+                     <l>Va face celor mici căzuta înfrânare,</l>
+                     <l>Ca una ce folos de obștie aduce,<lb/>Căci plute la Galați cu cherestele duce,<lb/>Au mers cu jaloba; dar știți ce au văzut?<lb/>Pe însăși Bistriță, răpitul lor avut,<lb/>Trecând cu valuri plini de spume!</l>
+                  </lg>
+                  <lg>
+                     <l>Iar un bătrân cu minte</l>
+                     <l>Au zis către un alt șoptind așa cuvinte:<lb/>— Eu știu mai de mult, că oamenii în lume<lb/>Asupra celor mici dreptatea nu-și găsesc:<lb/>Când ei cu cei mai mari răpirile-mpărțesc.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Galbenul</head>
+                  <lg>
+                     <l>Țăranul au găsit un galben ruginit,</l>
+                     <l>Pe care lui îi da destui bani de argint.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar el au zis în sine:</l>
+                     <l>„Să-l schimb așa nu-i bine.</l>
+                  </lg>
+                  <lg>
+                     <l>Acum am priceput că trebui curățit,</l>
+                     <l>Pentru ca să câștig pe el preț îndoit".</l>
+                     <l>Și înturnându-se acasă au luat</l>
+                  </lg>
+                  <lg>
+                     <l>Nisip și cărămidă,</l>
+                     <l>Cu care galbenul atâta l-au frecat,</l>
+                     <l>Încât l-au și făcut curat ca o oglindă,</l>
+                     <l>Dar numai au scăzut din greutate mult</l>
+                     <l>Și prețul cel dintâi la galben au pierdut.</l>
+                  </lg>
+                  <lg>
+                     <l>* </l>
+                  </lg>
+                  <lg>
+                     <l>Ideea fabulei e lesne de-nțeles.</l>
+                     <l>Părinților! pe voi privește mai ales.</l>
+                     <l>Căci voi nu trebuie să vă siliți</l>
+                     <l>Întru științe multe pe fii să pospăiți;</l>
+                     <l>Ca să le dați un lux, un amăgitor nume,</l>
+                     <l>Și să disprețuiți plecări firește bune,</l>
+                     <l>Scăzând greimea lor în cumpenele lumei.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Pizmătarețul și șarpele </head>
+                  <lg>
+                     <l>Degeaba vorovesc că nu-i la draci dreptate,</l>
+                     <l>Când ei o și păzesc cu mare scumpătate</l>
+                     <l>Și cel ce au făcut în lume rău mai mult</l>
+                     <l>La Tartar purure-i mai bine cunoscut.</l>
+                     <l>Acestui adevăr am fabulă dovadă.</l>
+                  </lg>
+                  <lg>
+                     <l>Mergînd în șir la o paradă,</l>
+                     <l>Un șarpe prea înveninat</l>
+                  </lg>
+                  <lg>
+                     <l>Cu pizmătarețul s-au fost împricinat;</l>
+                     <l>Căci șarpele voia să meargă înainte,</l>
+                     <l>Iar pizmătarețul își da a lui cuvinte,</l>
+                  </lg>
+                  <lg>
+                     <l>Precum că are</l>
+                     <l>El drit mai mare.</l>
+                  </lg>
+                  <lg>
+                     <l>Când iată, Velzevul la ei s-au arătat</l>
+                     <l>Și dând mai înapoi pe șarpe, înciudat</l>
+                     <l>Au zis: "Eu recunosc a tale vrednicii,</l>
+                     <l>Dar după drept cuvânt, în urma lui să fii.</l>
+                     <l>Ești rău în adevăr și foarte muști cumplit:</l>
+                  </lg>
+                  <lg>
+                     <l>Ești plin</l>
+                     <l>Tu de venin;</l>
+                     <l>Dar n-ai primejduit</l>
+                  </lg>
+                  <lg>
+                     <l>Pe cel ce de aproape de tine s-au ferit.</l>
+                     <l>Iar pizmătarețul pe toți au pizmuit,</l>
+                  </lg>
+                  <lg>
+                     <l>Și limba lui cea rea străbate</l>
+                     <l>Oriunde, de departe.</l>
+                  </lg>
+                  <lg>
+                     <l>Așadar de acum, vă hotărăsc să știți:</l>
+                     <l>Că pizmătareții în iad sunt mai cinstiți</l>
+                     <l>Și de la locuri voi să nu vă mai sfădiți.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Măgarul și privighetoarea</head>
+                  <lg>
+                     <l>Măgarul au văzut pe o privighetoare.<lb/>— Prieteno, i-au zis, mă rog să mă asculți:</l>
+                     <l>Eu tot am auzit o vorbă de la mulți,</l>
+                     <l>Că tu întru cântări ești meșteriță mare,</l>
+                  </lg>
+                  <lg>
+                     <l>Și iată, acum vreu</l>
+                     <l>De iscusința ta să judec singur eu.</l>
+                     <l>Iar buna păsăruică, pornită spre cântare,</l>
+                  </lg>
+                  <lg>
+                     <l>Când liniștit, abia</l>
+                     <l>În sine ciripea,</l>
+                     <l>Când tare șuiera,</l>
+                     <l>Când glasu-i tremura,</l>
+                  </lg>
+                  <lg>
+                     <l>Apoi, prin dulcea ei strigare,</l>
+                     <l>Întru a dragostei cei gingașe plecare</l>
+                  </lg>
+                  <lg>
+                     <l>Pe amorașul său chema,</l>
+                     <l>Și rediul desfătat, cântarea-i răsuna;</l>
+                     <l>Iar lumea ascultând</l>
+                     <l>Tăcea și se mira.</l>
+                     <l>Măgarul însă de pământ</l>
+                     <l>S-au rezemat cu fruntea,</l>
+                  </lg>
+                  <lg>
+                     <l>Și au răcnit așa: „Tu versuri ai plăcute,</l>
+                     <l>Dar când ai asculta</l>
+                     <l>Cucoșul de la noi, mai bine ai cânta.”</l>
+                     <l>Acestea auzind în suflet s-au jignit</l>
+                  </lg>
+                  <lg>
+                     <l>Acea privighetoare</l>
+                     <l>Și de atunci au contenit</l>
+                     <l>Pentru măgari a sa cântare.</l>
+                  </lg>
+                  <lg>
+                     <l>Dumnezeu să ne ferească</l>
+                     <l>De judecata măgărească.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lupul nazâr</head>
+                  <lg>
+                     <l>Oricât de bune rânduiele,</l>
+                     <l>Cum vor intra pe mîini de oameni necinstiți</l>
+                     <l>Și numai de al lor folos povățuiți,</l>
+                  </lg>
+                  <lg>
+                     <l>Se fac îndată rele.</l>
+                  </lg>
+                  <lg>
+                     <l>Spre pildă trebuie să știți</l>
+                     <l>Că lupul s-au cerut la leu nazâr pe oi.</l>
+                     <l>Se vede că la el, precum și pe la noi,</l>
+                  </lg>
+                  <lg>
+                     <l>Tot trebui mijlociri,</l>
+                     <l>Căci el întâi au pus pe vulpe meșteriță,</l>
+                     <l>Rege către leiță.</l>
+                     <l>Dar, pentru că de lupi sunt rele auziri,</l>
+                     <l>Prealuminatul leu ferind nemulțumiri,</l>
+                  </lg>
+                  <lg>
+                     <l>A poruncit la sfat</l>
+                     <l>Să facă tuturor chemare</l>
+                     <l>De o obștească adunare,</l>
+                  </lg>
+                  <lg>
+                     <l>La care mic și mare să fie întrebat:</l>
+                     <l>Ce știu de lup și ce purtări el are.</l>
+                     <l>Așadar, fiarele pe rând s-au adunat</l>
+                     <l>Și întru o unire glas bun de lup au dat.</l>
+                     <l>Pe urmă au ieșit porunca cea leiască:</l>
+                     <l>Pe lup, nazâr deplin, la stâne să-l pornească.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar oile ce-au arătat?</l>
+                  </lg>
+                  <lg>
+                     <l>La adunare ele au fost neapărat?</l>
+                     <l>Aceasta-i de mirare,</l>
+                     <l>Că sfatul au uitat să facă lor chemare,</l>
+                     <l>Când ele mai ales erau trebuitoare.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Teiul și stejarii </head>
+                  <lg>
+                     <l>Un teișor crescut sub deal, în depărtare,</l>
+                     <l>Odată blestema norocul de uitare,</l>
+                  </lg>
+                  <lg>
+                     <l>Așa zicând:</l>
+                     <l>— Ce fericiți stejarii sânt!</l>
+                     <l>Din fire înzestrați,</l>
+                     <l>Puternici ei și nalți,</l>
+                     <l>Văd lumea cea frumoasă,</l>
+                     <l>Aproape stau de soare;</l>
+                     <l>Iar eu, o! soartă ticăloasă!</l>
+                     <l>Aici în depărtare</l>
+                     <l>Viața-mi am urât.</l>
+                     <l>El bine n-au sfârșit</l>
+                     <l>Și s-au stârnit furtună, vânt</l>
+                     <l>Și cerul s-au întunecat</l>
+                     <l>Și fulgerul au scăpărat.</l>
+                  </lg>
+                  <lg>
+                     <l>Prin nouri tunetul se răsturna, trăsnind,</l>
+                     <l>Și risipind</l>
+                     <l>Acei mai mari</l>
+                     <l>Stejari!</l>
+                  </lg>
+                  <lg>
+                     <l>Iar teiul de sub deal era nevătămat.</l>
+                     <l>Atunci el s-au trezit că este vinovat</l>
+                     <l>Și mulțumind, au zis așa către noroc:</l>
+                     <l>— Apărătorul meu! Eu de acum te rog</l>
+                     <l>Ca parte liniștii să dăruiești tu mie</l>
+                     <l>Și traiul depărtat, drept pravilă să-mi fie,</l>
+                  </lg>
+                  <lg>
+                     <l>Pentru că am văzut prea bine</l>
+                     <l>Că cei ce stau la înălțime,</l>
+                     <l>Măcar de sunt și mari</l>
+                  </lg>
+                  <lg>
+                     <l>Și tari,</l>
+                     <l>Dar pică la pământ</l>
+                     <l>De vânt.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Veverița</head>
+                  <lg>
+                     <l>Veverița cu crenguța</l>
+                     <l>De mulți ani slujea la leu;</l>
+                     <l>Slujba cere stăruință</l>
+                     <l>Și este lucru cam greu</l>
+                     <l>A fi deștept, cu simțire,</l>
+                     <l>Ș-a întâmpina ades</l>
+                     <l>Capricii care din fire</l>
+                     <l>Au acei mari mai ales.</l>
+                     <l>Nu știu dar, cu ce purtare,</l>
+                     <l>Cu ce chip prea nimerit</l>
+                     <l>Veverița cinste mare</l>
+                     <l>De la leu au dobândit</l>
+                     <l>Ș-au luat făgăduință</l>
+                     <l>Că din dările ce vin</l>
+                     <l>Îi va da spre cunoștință</l>
+                     <l>Un car de alune plin.</l>
+                     <l>Făgăduința îi bună,</l>
+                     <l>Numai nu aduce saț;</l>
+                     <l>Și la auz ea răsună</l>
+                     <l>Cuvânt aspru: mai răbdați!</l>
+                     <l>Veverița-n ascultare</l>
+                     <l>Rânjea dinții lăcrimând</l>
+                     <l>Și din ochi clipea cu jale,</l>
+                  </lg>
+                  <lg>
+                     <l>Pururea la slujbă stând;</l>
+                     <l>Când neamurile ei toate</l>
+                     <l>Ici-cole pe crengi sălta</l>
+                     <l>Și întru alune coapte</l>
+                     <l>Gustul său își desfăta.</l>
+                     <l>Vremea trece, vremea zboară;</l>
+                     <l>Veverița au slăbit</l>
+                     <l>Și de a slujbei povară</l>
+                     <l>Lepădare au pornit.</l>
+                     <l>Leul fără prelungire</l>
+                     <l>Demision ei au dat,</l>
+                     <l>Însoțit de mulțumire</l>
+                     <l>Și de carul încărcat</l>
+                     <l>Cu preafrumoase alune;</l>
+                     <l>Dar puteți să socotiți,</l>
+                     <l>Acum ele ce sunt bune</l>
+                     <l>Veveriței fără dinți.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Cartea a II-a</head>
+               <div type="div3">
+                  <head>Înființarea fabulei </head>
+                  <lg>
+                     <l>În palat la împărat,</l>
+                     <l>Adevărul, gol din fire,</l>
+                     <l>Fără veste au intrat.</l>
+                     <l>La a lui așa privire</l>
+                     <l>Împăratul au strigat:</l>
+                     <l>— Cine ești? Cum îndrăznești,</l>
+                     <l>Gol, aici, să te ivești?</l>
+                     <l>— Adevărul sunt.</l>
+                  </lg>
+                  <lg>
+                     <l>— Ce vrei?</l>
+                     <l>— Vreau să-ți spun a mea părere:</l>
+                     <l>Tu nicicum nu ai durere</l>
+                     <l>Pentru pământenii tăi;</l>
+                     <l>Cei mai mari te măgulesc</l>
+                     <l>Și norodul jefuiesc;</l>
+                     <l>Legile îți sunt călcate...</l>
+                     <l>— Ieși afară! Ieși afară!</l>
+                     <l>Golule nerușinate!</l>
+                     <l>Dați-l uite jos pe scară!</l>
+                     <l>Iată cum fu primit</l>
+                     <l>Adevărul dezgolit;</l>
+                     <l>El, oftând, se depărtară.</l>
+                     <l>Dar a lui dorință bună</l>
+                     <l>Un alt chip i-au arătat.</l>
+                     <l>Adevărul mai pe urmă</l>
+                     <l>Iar au mers la împărat,</l>
+                     <l>Însă nu gol, ci-n veșminte</l>
+                  </lg>
+                  <lg>
+                     <l>Împrumutate la minte</l>
+                     <l>Și, cu aer de respect,</l>
+                     <l>Au vorbit frumos, încet.</l>
+                     <l>Împăratul, în mirare,</l>
+                     <l>I-au dat toată ascultarea;</l>
+                     <l>L-au pătruns, l-au înțeles,</l>
+                     <l>Și îndată au ales</l>
+                     <l>Alți miniștri, altă curte,</l>
+                     <l>Au făcut prefaceri multe,</l>
+                     <l>Trebile au îndreptat</l>
+                     <l>Ș-au fost binecuvântat.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lupul și motanul</head>
+                  <lg>
+                     <l>Un lup odată au intrat,</l>
+                     <l>De frică, nu de voie bună,</l>
+                     <l>Scăpând viața, la un sat.</l>
+                     <l>El se gonea din urmă</l>
+                  </lg>
+                  <lg>
+                     <l>De către vânători cu puște înarmați</l>
+                     <l>Și câini întărâtați;</l>
+                     <l>Iar un așa alai să nu dea Dumnezeu</l>
+                     <l>Nici la vrăjmașul meu.</l>
+                     <l>În deznădăjduire,</l>
+                  </lg>
+                  <lg>
+                     <l>Sărmanul lup căta oriunde mântuire</l>
+                     <l>Și, întâlnind pe un motan,</l>
+                     <l>Prieten de mai an,</l>
+                     <l>Îi zice: "Frățioare!</l>
+                  </lg>
+                  <lg>
+                     <l>Tu nu știi undeva aici a mea scăpare?"</l>
+                     <l>— Ba știu — răspunse el — aleargă la Trifan,</l>
+                     <l>Că este foarte blând și milostiv țăran.</l>
+                     <l>— Oh! nu pot, către dâns' sunt tare vinovat,</l>
+                     <l>Căci astă-iarnă lui vițica i-am mâncat.</l>
+                  </lg>
+                  <lg>
+                     <l>— Apoi dă fuga la Arvinte,</l>
+                     <l>El este un țăran și vrednic și cuminte.</l>
+                     <l>— Cu dânsul iarăși sunt smintit,</l>
+                     <l>Pentru c-adeseori lui oi am spârcuit.</l>
+                     <l>— Așadar ce să faci? La vornicul bătrân</l>
+                     <l>Aleargă, că e bun și primitor român.</l>
+                  </lg>
+                  <lg>
+                     <l>— Nici la acesta n-am obraz,</l>
+                     <l>Lui an cu niște miei i-am fost făcut necaz.</l>
+                     <l>— Apoi dar, cumătre, nu-i bine.</l>
+                     <l>Și ce nădejde ai aice pentru tine,</l>
+                     <l>Când tu cu toții ești stricat</l>
+                     <l>Și numai singur vinovat:</l>
+                     <l>Culege dar ce-ai semănat!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Șoarecul și guzganul </head>
+                  <lg>
+                     <l>— Vecine! Ai auzit o veste de priință?</l>
+                     <l>Zicea către guzgan un șoarec la ambari,</l>
+                     <l>Că leul au luat în unghie pe mâță</l>
+                     <l>Și noi de-acum vom fi aice mari și tari.</l>
+                     <l>— Ei, nu te bucura, prietene, degeaba --</l>
+                     <l>Guzganul au răspuns c-un aer ispitit --</l>
+                     <l>Căci de va rămânea la ei pe unghii treaba,</l>
+                     <l>Apoi sărmanul leu nu scapă nezătrit:</l>
+                     <l>Ca mâța fiară nu-i mai groaznică sub soare.</l>
+                  </lg>
+                  <lg>
+                     <l>Fricoșilor le par puternici numai cei</l>
+                     <l>De care se tem ei.</l>
+                     <l>Precum la noi au zis o treaptă oarecare:</l>
+                     <l>Doar pui, armașul mare.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Morarul</head>
+                  <lg>
+                     <l>În iaz, la iezătură,</l>
+                     <l>S-au arătat spărtură.</l>
+                     <l>Dar nu era deodată</l>
+                     <l>Atât de însemnată</l>
+                  </lg>
+                  <lg>
+                     <l>Și, dacă ar fi pus morarul osteneala,</l>
+                     <l>Ferea la început pe viitor sminteala.</l>
+                     <l>El însă, stăpânit de multa lenevire</l>
+                     <l>(Nărav ce pe la noi domnește cam din fire),</l>
+                  </lg>
+                  <lg>
+                     <l>Puțină grijă arăta;</l>
+                     <l>Iar cursul nu mai înceta.</l>
+                     <l>— Morarule, ia sama bine!</l>
+                     <l>Nu pierde vremea!</l>
+                     <l>— Las' la mine,</l>
+                  </lg>
+                  <lg>
+                     <l>Îmi știu eu treaba, nu te teme!</l>
+                     <l>Însă tot lasă, tot lungește,</l>
+                     <l>Pân' când odată se trezește</l>
+                  </lg>
+                  <lg>
+                     <l>Că apa e mai jos de stavili cu o palmă.</l>
+                     <l>Atunci și-au luat morarul meu de samă</l>
+                  </lg>
+                  <lg>
+                     <l>Și, alergând unde s-au spart,</l>
+                     <l>El vede câteva găine la un loc,</l>
+                     <l>Bând apă pe lângă lăptoc.</l>
+                     <l>— Mânca-v-ar uliul! le zice supărat.</l>
+                     <l>Tocmai acum v-ați adunat</l>
+                     <l>Să-mi beți voi apa toată!</l>
+                     <l>Și-n ele zvâr! cu o lopată.</l>
+                     <l>Pe toate le omoară,</l>
+                  </lg>
+                  <lg>
+                     <l>Pierzând găinile și apa de la moară.</l>
+                  </lg>
+                  <lg>
+                     <l>Eu am văzut boieri, ce sute cheltuiesc</l>
+                     <l>Fără căință sau cruțare</l>
+                     <l>(Și-această fabulă chiar lor o hărăzesc),</l>
+                     <l>Dar fac economie mare</l>
+                  </lg>
+                  <lg>
+                     <l>Cu căpețelele cele de lumânare;</l>
+                     <l>Sau, după vorba cea bătrână:</l>
+                     <l>Sunt la tărâțe scumpi și ieftini la făină.</l>
+                     <l>Iar cu așa economie,</l>
+                     <l>Degrabă la mezat se strigă vreo moșie.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Furnica</head>
+                  <lg>
+                     <l>O furnică</l>
+                     <l>De soi mică,</l>
+                  </lg>
+                  <lg>
+                     <l>Iar de inimă prea mare,</l>
+                     <l>Adusese furnicarul într-o nespusă mirare,</l>
+                     <l>Căci, precum al ei istoric lumea au încredințat,</l>
+                     <l>Ea purta grăunțe întregi de orzul cel mai mășcat.</l>
+                  </lg>
+                  <lg>
+                     <l>Era înc-acea furnică</l>
+                     <l>Și la războaie voinică:</l>
+                     <l>Unde viermișor vedea,</l>
+                     <l>Se repezea și-l prindea.</l>
+                  </lg>
+                  <lg>
+                     <l>Chiar paingul cu atâtea săbii, coase, înarmat,</l>
+                     <l>Al ei ac de biruință într-o vreme au cercat.</l>
+                     <l>Dar furnica, ca și omul, cu dorinți nesățioase,</l>
+                     <l>De-a furnicarului slavă prea curând se dezgustase.</l>
+                  </lg>
+                  <lg>
+                     <l>— La târg — zise ea odată --</l>
+                     <l>Mă duc lumea să mă vadă</l>
+                     <l>Și oamenii să se miere</l>
+                     <l>De vestita mea putere.</l>
+                     <l>Și așa, prea îngâmfată,</l>
+                  </lg>
+                  <lg>
+                     <l>Într-un mare car de fân ea s-au cățărat îndată;</l>
+                     <l>Au ajuns la târg, dar ah! ce cumplită lovitură</l>
+                  </lg>
+                  <lg>
+                     <l>Mândriei sale văzură.</l>
+                     <l>Căci nici unul dintre oameni la furnică nu căta,</l>
+                     <l>Când puterea să-și arăte, ea minunt nu înceta</l>
+                     <l>Și, cu toată-a ei silință, bețișori de fân trăgea</l>
+                  </lg>
+                  <lg>
+                     <l>Sau vreo muscă nătăraucă prinzând, iute împungea.</l>
+                     <l>Dar în sfârșit obosită de zadarnice cercări,</l>
+                     <l>Câinelui de lângă car, au zis: "Dragă, nu te mieri</l>
+                  </lg>
+                  <lg>
+                     <l>De-a oamenilor prostie?</l>
+                     <l>Vezi-i cum nici nu se uită, orbi sunt pentru fapte mari;</l>
+                     <l>Fieșcare cu a sale: când la noi în furnicari</l>
+                  </lg>
+                  <lg>
+                     <l>Toată furnica mă știe.”</l>
+                  </lg>
+                  <lg>
+                     <l>Sunt și oameni ce visează</l>
+                     <l>Că universul întreg de dânșii se minunează;</l>
+                     <l>Dar în furnicarul său, ei numai cât figurează.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Florile</head>
+                  <lg>
+                     <l>La niște case mari, în oale prea bogate,</l>
+                     <l>Sta falnic pe ferești,</l>
+                     <l>Pe lângă flori firești,</l>
+                     <l>Și cele prelucrate</l>
+                     <l>De mâine omenești.</l>
+                     <l>Dar iată, nori s-adună,</l>
+                     <l>Cu fulgere lucind,</l>
+                     <l>Și tunetul răsună</l>
+                     <l>De ploaie prevestind;</l>
+                  </lg>
+                  <lg>
+                     <l>Iar floricelele acele iscusite</l>
+                     <l>Îndreaptă către zei</l>
+                     <l>Smerita rugăminte:</l>
+                     <l>Ca să oprească ei,</l>
+                     <l>Cu un cuvânt din ceri,</l>
+                     <l>A ploaiei neplăceri;</l>
+                  </lg>
+                  <lg>
+                     <l>Dar rugămintea lor au fost zădărnicită</l>
+                     <l>Și ploaia cea pornită</l>
+                     <l>De un răcoare vânt</l>
+                  </lg>
+                  <lg>
+                     <l>Se varsă pre pământ,</l>
+                     <l>Potoale sfera grea,</l>
+                     <l>Verdeața înnoiește</l>
+                     <l>Și firea după ea</l>
+                     <l>Se pare că zâmbește.</l>
+                  </lg>
+                  <lg>
+                     <l>Atunci și florile acele naturale</l>
+                     <l>Se dezvelesc frumos,</l>
+                     <l>Din sânurile sale</l>
+                     <l>Dau desfătat miros;</l>
+                  </lg>
+                  <lg>
+                     <l>Iar florile de fir, mătasi și catifea,</l>
+                     <l>Ce ruge înălța când ploaia se ivea,</l>
+                     <l>De frumusețea lor lipsite și pătate,</l>
+                     <l>Au fost de pe ferești afară lepădate.</l>
+                  </lg>
+                  <lg>
+                     <l>Talentului firesc de critică nu-i pasă,</l>
+                     <l>Ea nu întunecă a lui gândiri frumoase;</l>
+                     <l>Și numai florile acele prelucrate</l>
+                     <l>Se tem de ploaie foarte.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Râul și heleșteul </head>
+                  <subtitle>(Hărăzită dlui Gr. Alexandrescu)</subtitle>
+                  <lg>
+                     <l>— Ce vrasăzică, frate!</l>
+                     <l>Zicea către un râu vecinul heleșteu —</l>
+                     <l>Eu apele-ți mereu</l>
+                     <l>Le văz că sunt mișcate;</l>
+                  </lg>
+                  <lg>
+                     <l>Și cum nu obosești mi-e greu de înțeles.</l>
+                     <l>Apoi privesc ades</l>
+                     <l>Pe unda ta plutind, când barce încărcate,</l>
+                     <l>Când plute, luntri, de care sunt mai nenumărate.</l>
+                  </lg>
+                  <lg>
+                     <l>Aceste ostenele</l>
+                     <l>Zadarnice și grele,</l>
+                  </lg>
+                  <lg>
+                     <l>Cum nu le părăsești?</l>
+                     <l>Cum nu te pilduiești</l>
+                     <l>De-a mea viață lină</l>
+                     <l>De desfătare plină;</l>
+                  </lg>
+                  <lg>
+                     <l>Căci eu, deși nu sunt pe hartă arătat,</l>
+                     <l>Deși nici un poet vrun vers nu mi-au cântat,</l>
+                  </lg>
+                  <lg>
+                     <l>Dar stau în maluri moi,</l>
+                     <l>Pe perini de noroi,</l>
+                     <l>Ca o cucoană mare</l>
+                     <l>Pe puful cel mai moale;</l>
+                  </lg>
+                  <lg>
+                     <l>De barce, plute, luntri nu sunt împovărat</l>
+                     <l>Și greutatea lor asupră-mi n-am cercat.</l>
+                     <l>Viața fără griji în pace mi-o petrec,</l>
+                     <l>Căci toate pre pământ ca vânturile trec,</l>
+                     <l>Deșertăciunile lumești eu le urăsc</l>
+                     <l>Și în filosofie prin somn mă adâncesc.</l>
+                  </lg>
+                  <lg>
+                     <l>— Dar filosofisând,</l>
+                     <l>Pătruns-ai legea bine:</l>
+                     <l>Că apele, mișcând,</l>
+                  </lg>
+                  <lg>
+                     <l>Păstrează prospețime? —</l>
+                     <l>Asupra ziselor lui, râul au răspuns --</l>
+                     <l>Și dacă astăzi eu nu sunt un râu ascuns</l>
+                     <l>De al istoriei prea falnică privire,</l>
+                     <l>Apoi pricina e a mea neadormire</l>
+                     <l>Cu care am urmat acestui înțeles</l>
+                     <l>Și pentru care sunt din râuri eu ales.</l>
+                     <l>Iar tu de secete vei fi curând uscat,</l>
+                  </lg>
+                  <lg>
+                     <l>În trândavul tău pat!</l>
+                     <l>Această zicere au fost proorocie,</l>
+                     <l>Căci heleșteul sec degrabă s-au mâlit,</l>
+                     <l>Iar râul astăzi stă un râu de toți slăvit,</l>
+                     <l>Mișcând neîncetat a sale ape vie.</l>
+                  </lg>
+                  <lg>
+                     <l>Așa talentele, când lenea le cuprinde,</l>
+                     <l>Slăbind din zi în zi, se pierd făr-a se-ntinde.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Ursul la priseci </head>
+                  <lg>
+                     <l>La o alegere, făcută după legi</l>
+                     <l>Ce dobitoacele povățuiesc din veci,</l>
+                     <l>Pe urs l-au fost ales nazâr peste priseci,</l>
+                     <l>Deși s-ar fi putut un alt, oricare fie,</l>
+                     <l>Să prindă o așa cam grea dregătorie.</l>
+                  </lg>
+                  <lg>
+                     <l>Căci ursul dacă dă de miere,</l>
+                     <l>Apoi se-ncurcă-n socotele.</l>
+                     <l>Dar pasă tu de cere</l>
+                     <l>La fiare rânduiele!..</l>
+                  </lg>
+                  <lg>
+                     <l>Oricine au dorit să intre-n așa post,</l>
+                     <l>Nevrednic, defăimat de către toți au fost</l>
+                  </lg>
+                  <lg>
+                     <l>Și parcă înadins</l>
+                     <l>Asupra ursului majorita s-au strâns.</l>
+                     <l>Toți l-au heretisit,</l>
+                     <l>Iar el au mulțumit,</l>
+                  </lg>
+                  <lg>
+                     <l>Ba încă la cei mari și labele au lins.</l>
+                     <l>Dar răul în priseci curând s-au dezvelit;</l>
+                     <l>Căci ursul, cum au mers la tact, s-au apucat</l>
+                  </lg>
+                  <lg>
+                     <l>De curățit, de retezat</l>
+                     <l>Și, drept, oricare stup în labă-i au intrat</l>
+                     <l>L-au scos de tot curat,</l>
+                     <l>Iar mierea la bârlog mergea necontenit,</l>
+                  </lg>
+                  <lg>
+                     <l>Pân' ce la sfat s-au dat de știre</l>
+                     <l>Și s-au orânduit</l>
+                  </lg>
+                  <lg>
+                     <l>La fața locului pe forme deslușire.</l>
+                     <l>Au mers, au cercetat, au scris, au lămurit,</l>
+                     <l>Dar mierea n-au înapoit;</l>
+                     <l>Iar ursul de pe loc</l>
+                     <l>S-a și trimis surghiun pe iarnă la bârlog.</l>
+                  </lg>
+                  <lg>
+                     <l>El în singurătate</l>
+                  </lg>
+                  <lg>
+                     <l>Își suge labele mult pline de păcate.</l>
+                     <l>Și, ca un călător pe mare,</l>
+                     <l>Așteaptă vântul cel de cale.</l>
+                  </lg>
+                  <lg>
+                     <l>Nici nu mai zic nimică:</l>
+                     <l>De urși mi-i tare frică.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Momița și oglinda </head>
+                  <lg>
+                     <l>În oglindă o momiță</l>
+                     <l>Chipul își văzu odată.</l>
+                     <l>La a sa tovărășiță</l>
+                     <l>Face semne și-i arată,</l>
+                     <l>Zicând: "Uită-te, privește</l>
+                     <l>La acea caricatură,</l>
+                     <l>Cum se strâmbă, se sluțește,</l>
+                     <l>Parcă-i puhavă la gură.</l>
+                     <l>Vezi grimasuri ce întoarce...</l>
+                  </lg>
+                  <lg>
+                     <l>Eu să fiu așa de slută,</l>
+                     <l>Samă singură mi-aș face</l>
+                     <l>Și m-aș spânzura de ciudă.</l>
+                     <l>Dar cam sunt din surioare</l>
+                     <l>Vro trei-patru slutișoare</l>
+                     <l>Ca aceasta, și anume</l>
+                     <l>Pot pe număr a le spune."</l>
+                     <l>— Nu mai cere trebuința --</l>
+                     <l>I-au răspuns tovărășița --</l>
+                     <l>Căci, fără de înșirare,</l>
+                     <l>Adevărul de vei vrea,</l>
+                     <l>Noi suntem cam din născare</l>
+                     <l>Tot ca una, fata mea!</l>
+                  </lg>
+                  <lg>
+                     <l>Se găsiră o momiță</l>
+                     <l>Cu de sine cunoștință;</l>
+                     <l>Iară omul niciodată,</l>
+                     <l>Precum am văzut în faptă</l>
+                     <l>Pe un jacaș domnișor,</l>
+                     <l>Căruia i se citea</l>
+                     <l>Fabula de pufușor,</l>
+                     <l>Iar el prea nurliu râdea,</l>
+                     <l>Făcând semne la un alt</l>
+                     <l>Judecător necurat.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Înțeleptul și magnatul </head>
+                  <lg>
+                     <l>Un înțelept odată ședea cu un magnat</l>
+                     <l>La sfat.</l>
+                     <l>— Tu, care cunoști lumea</l>
+                     <l>Și-n inime citești,</l>
+                     <l>Te rog să-mi lămurești</l>
+                  </lg>
+                  <lg>
+                     <l>De ce-n societăți alese mai anume,</l>
+                     <l>Nici prinzi de veste când cu oameni te trezești</l>
+                  </lg>
+                  <lg>
+                     <l>Nepotriviți și seci?</l>
+                     <l>Așa pe înțelept magnatul întrebă,</l>
+                     <l>Iar el răspuns îi dă:</l>
+                     <l>— Societățile au soartă potrivită</l>
+                     <l>Cu o bina din nou mai mult de lemn zidită.</l>
+                     <l>Spre pildă, eu acum o casă mi-am făcut</l>
+                  </lg>
+                  <lg>
+                     <l>Și nici nu m-am mutat,</l>
+                     <l>Iar greierii de mult</l>
+                     <l>În ea s-au așezat.</l>
+                  </lg>
+                  <lg>
+                     <l>Cercând cu scumpătate</l>
+                     <l>A fabulei sujet,</l>
+                     <l>Găsești c-avea dreptate</l>
+                  </lg>
+                  <lg>
+                     <l>Acel om înțelept.</l>
+                     <l>Și cum să se numească</l>
+                     <l>Gurliii mădulari,</l>
+                     <l>Ce nu știu să vorbească</l>
+                     <l>În societăți mari,</l>
+                     <l>Dar, prin a lor strigare,</l>
+                     <l>Împiedică pe alți,</l>
+                     <l>Mai ispitiți bărbați,</l>
+                     <l>Să facă vro lucrare?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Liliacul și rândunelele</head>
+                  <lg>
+                     <l>Odată, neamul rândunesc</l>
+                     <l>Având o mare ură</l>
+                     <l>Pe neamul șoricesc,</l>
+                  </lg>
+                  <lg>
+                     <l>Pentru că ouăle din cuiburi ei le fură,</l>
+                     <l>Au hotărât fără cruțare,</l>
+                     <l>Pe toți prinzându-i, să-i omoare.</l>
+                  </lg>
+                  <lg>
+                     <l>Și iarăși, cea întâi robită zburătoare</l>
+                     <l>Au fost un liliac sub streșină robit.</l>
+                  </lg>
+                  <lg>
+                     <l>El însă au protestuit,</l>
+                     <l>Înfățoșând dovezi aripile ce are,</l>
+                     <l>Că nu-i din neamul șoricesc,</l>
+                     <l>Și prin acesta chip au dobândit iertare.</l>
+                     <l>Dar rândunelele un alt război pornesc,</l>
+                  </lg>
+                  <lg>
+                     <l>Asupra tuturor</l>
+                     <l>Anume păsări mici, ce sunt de sama lor,</l>
+                     <l>Și iarăși, cea întâi robită zburătoare,</l>
+                     <l>Același liliac au fost; cu gură mare</l>
+                  </lg>
+                  <lg>
+                     <l>Că el nu-i pasăre nicicum,</l>
+                     <l>Pentru că pene n-are,</l>
+                  </lg>
+                  <lg>
+                     <l>Scăpând asemene de moarte și acum.</l>
+                  </lg>
+                  <lg>
+                     <l>Așa istețul liliac</l>
+                     <l>Din două întâmplări cu minte au scăpat;</l>
+                     <l>Dar starea-i fizică nu e de lăudat,</l>
+                     <l>Căci el, după proverb: nici turc nu-i, nici turlac</l>
+                     <l>Și tristă soartă au acei din poporeni</l>
+                     <l>Ce nu sunt nicăiuri statornici cetățeni.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lupul la pieire </head>
+                  <lg>
+                     <l>Un lup noaptea, vrând să intre tiptil la vro oierie,</l>
+                     <l>Nimeri din întâmplare tocmai într-o câinărie.</l>
+                     <l>Simțindu-l pe sur aproape, câinii toți s-au întărtat.</l>
+                     <l>Lătret, urlet, hreamăt mare, ca în iad au ridicat.</l>
+                  </lg>
+                  <lg>
+                     <l>Înarmați cu puști, ciomege,</l>
+                     <l>Vânătorii se grăbesc care dincotro s-alerge.</l>
+                     <l>Câinii în a lor iuțeală</l>
+                     <l>Dau pe unde pot năvală.</l>
+                  </lg>
+                  <lg>
+                     <l>— Nu lăsați, băieți! le strigă un vânător mai bătrân.</l>
+                     <l>Dați lumină! Dați lumină! Să-l prindem viu pe păgân!"</l>
+                  </lg>
+                  <lg>
+                     <l>Un alt scăpără îndată</l>
+                     <l>Și, când la gard: ce să vadă!</l>
+                     <l>Lupul cinchit într-un colț,</l>
+                  </lg>
+                  <lg>
+                     <l>Cu ochi crunți, cu păr pe dos, clănțăia din dinți la toți.</l>
+                     <l>Dar văzând că nu-i de șagă, că pieirea-i s-au ales:</l>
+                  </lg>
+                  <lg>
+                     <l>— Oameni buni! le zise. Stați!</l>
+                     <l>Și voi, câini, ce-mi sunteți frați!</l>
+                     <l>Eu aice sunt trimes</l>
+                     <l>Sol de la neamul lupesc</l>
+                     <l>Pace să statornicesc.</l>
+                  </lg>
+                  <lg>
+                     <l>(Sigură ca la războaie: vecinică, nestrămutată,</l>
+                     <l>Până la întâi gâlceavă cu care pacea-i curmată.)</l>
+                     <l>Prigonirile pornite între noi să le lăsăm</l>
+                  </lg>
+                  <lg>
+                     <l>Și prieteșug, credință, unii altor să jurăm.</l>
+                     <l>Vitele fără de grijă vor petrece despre noi</l>
+                     <l>Și chiar înșiși noi de alții vom păzi bietele oi...</l>
+                     <l>— Ei, măi dragă! îi răspunse vânătorul cel bătrân,</l>
+                     <l>Tu ești sur, dar eu sunt alb și-n deprindere-mi rămân</l>
+                  </lg>
+                  <lg>
+                     <l>Ca cu lupii să mă-mpac,</l>
+                     <l>Când de piele îi dezbrac,</l>
+                     <l>Și prind de pe bot parale:</l>
+                     <l>Dați, băieți, fără cruțare!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Doi câini</head>
+                  <lg>
+                     <l>Un câine, de pe neam dulău,</l>
+                     <l>Prielnic, credincios către stăpânul său,</l>
+                     <l>Odată au văzut</l>
+                     <l>Pe vechiul cunoscut,</l>
+                     <l>Juju, cățel tărcat,</l>
+                  </lg>
+                  <lg>
+                     <l>Ce din ogradă an în curte s-au luat</l>
+                     <l>Și carele acum la o fereastră-n casă,</l>
+                     <l>Șezând pe un covor de cele mai frumoase,</l>
+                  </lg>
+                  <lg>
+                     <l>Afară mândru se uita.</l>
+                     <l>— Jujucă: ce mai faci mata?</l>
+                  </lg>
+                  <lg>
+                     <l>Întreabă câinele, din coadă dând încet.</l>
+                     <l>(Acesta între câini e semnul de respect.)</l>
+                     <l>— Îți mulțumesc, mon cher! răspunse lui Juju.</l>
+                     <l>Sunt bine. Dorm, mănânc, alerg, mă hârjonesc</l>
+                     <l>Și pe saltele moi când vreau mă tăvălesc.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar spune-mi: ce faci tu?</l>
+                     <l>— Eu sunt ca purure. Rabd foame, ploaie, ger,</l>
+                     <l>Păzind ograda la boier;</l>
+                     <l>Dorm lângă poartă, sau cu caii,</l>
+                  </lg>
+                  <lg>
+                     <l>Și de la bucătari ades mănânc bătaie.</l>
+                  </lg>
+                  <lg>
+                     <l>Ba ieri și un fecior trei lovituri mi-au tras,</l>
+                     <l>Pentru că n-am lătrat la vreme și la ceas.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar tu, Juju, cu ce-ntâmplare</l>
+                     <l>Ai căpătat favor asupra-ți așa mare?</l>
+                     <l>Ce slujbă la stăpân în faptă împlinești?</l>
+                     <l>Fiind atât de mic, în ce te bizuiești?</l>
+                     <l>— Eu! au răspuns Juju. Mă mir de întrebare!</l>
+                     <l>Eu fac apporte și joc ca omul în picioare!</l>
+                  </lg>
+                  <lg>
+                     <l>Din oameni iarăși sunt la soartă în favor,</l>
+                     <l>Pentru că-n două labe știu a-umbla ușor</l>
+                  </lg>
+                  <lg>
+                     <l>Și fac apporte</l>
+                     <l>Când pot.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Calul și măgarul</head>
+                  <lg>
+                     <l>Păstorul unor oi, pe lângă turma sa</l>
+                     <l>Avea un cal și un măgar.</l>
+                     <l>Din întâmplare el găsește o harșa,</l>
+                     <l>Cusută tot în fir și în mărgăritar.</l>
+                     <l>Harșaua, precum știu acei ce merg călare,</l>
+                     <l>Se cade calului spre înfrumusețare.</l>
+                  </lg>
+                  <lg>
+                     <l>Păstorul însă-au socotit</l>
+                     <l>Că calul e destul de fire-mpodobit</l>
+                     <l>Și au găsit cu cale,</l>
+                     <l>Stăpân fiind pe ale sale,</l>
+                  </lg>
+                  <lg>
+                     <l>Să puie pe măgar harșaua delicată.</l>
+                     <l>Dar au ieșit în faptă</l>
+                     <l>Că prostul de măgar, nesocotind ce poartă</l>
+                     <l>Și nedeprins a fi-mbrăcat,</l>
+                     <l>Cu scumpa lui harșa în bahnă au intrat;</l>
+                     <l>S-au tăvălit, s-au răcorit</l>
+                     <l>Și chiar ca un măgar de glod plin au ieșit.</l>
+                  </lg>
+                  <lg>
+                     <l>Din fabulă e lămurit,</l>
+                     <l>Cum că păstorul au greșit,</l>
+                     <l>Iar el o da la întâmplare.</l>
+                  </lg>
+                  <lg>
+                     <l>Eu însă socotesc: că calul, deși are</l>
+                     <l>Nărav de tăvălit când este asudat,</l>
+                     <l>Dar nu se bagă-n glod, și cum s-au ridicat</l>
+                     <l>Îndată de pe el tot colbu-i scuturat.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Împărțeala</head>
+                  <lg>
+                     <l>Având tovărășie</l>
+                     <l>La o negustorie,</l>
+                     <l>Câțiva prieteni pe viață</l>
+                  </lg>
+                  <lg>
+                     <l>Au câștigat mulțime de bani gheață.</l>
+                     <l>Și adunându-se la casa lor obștească</l>
+                     <l>S-au apucat folosul să-mpărțească.</l>
+                  </lg>
+                  <lg>
+                     <l>(Dar sunt cam rare împărțele</l>
+                     <l>Fără gâlceve sau smintele.)</l>
+                  </lg>
+                  <lg>
+                     <l>Și-ai mei prieteni buni, câștigul împărțind,</l>
+                     <l>S-au întărtat la sfadă.</l>
+                     <l>Când, iată! deodată,</l>
+                  </lg>
+                  <lg>
+                     <l>Aud strigând:</l>
+                     <l>— Săriți! săriți! foc! casa arde!</l>
+                     <l>— Lăsați și ne vom socoti pe urmă;</l>
+                     <l>Dar trebuie să știți că mie mi se cade</l>
+                  </lg>
+                  <lg>
+                     <l>Din cea de față sumă</l>
+                     <l>O mie încă și mai bine,</l>
+                  </lg>
+                  <lg>
+                     <l>Au zis dintre tovarăși unul.</l>
+                     <l>— Iar mie în tot bunul</l>
+                     <l>Vro două mi se vine,</l>
+                  </lg>
+                  <lg>
+                     <l>Le zise lor un alt.</l>
+                     <l>— Aidem însă! — Ba stați,</l>
+                     <l>Și dreaptă partea mea îmi dați,</l>
+                  </lg>
+                  <lg>
+                     <l>Strigară celalalt.</l>
+                     <l>— Da pentru ce? Și cum?..</l>
+                  </lg>
+                  <lg>
+                     <l>Sfădindu-se așa, prietenii văd fum</l>
+                     <l>Cu pălălaie-n casă,</l>
+                     <l>Și neputând să iasă,</l>
+                     <l>Au ars ei toți, cu bani, cu tot.</l>
+                  </lg>
+                  <lg>
+                     <l>Aici a zice pot:</l>
+                     <l>Că la un rău obștesc, când cere trebuința</l>
+                     <l>Ca să-l întâmpinăm puind unit silința;</l>
+                  </lg>
+                  <lg>
+                     <l>Adeseori pierim obștește,</l>
+                     <l>Când fieștecare</l>
+                     <l>Strigând cu gură mare,</l>
+                  </lg>
+                  <lg>
+                     <l>La interesul său în parte ațintește.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lupul și șoarecul</head>
+                  <lg>
+                     <l>Din turmă lupul sur o oaie au răpit.</l>
+                     <l>În codru s-au ascuns</l>
+                     <l>Și pe mâncat s-au pus.</l>
+                     <l>Iar șoarecul au mirosit</l>
+                     <l>Aproape de mâncare;</l>
+                  </lg>
+                  <lg>
+                     <l>Din borticica lui cu pază au ieșit,</l>
+                     <l>S-au furișat prin frunzișoare,</l>
+                     <l>Și tocmai de sub lup furând o fărmătură,</l>
+                     <l>Țuști! iute-n crăpătură.</l>
+                     <l>Iar lupul au pornit un răcnet foarte mare,</l>
+                     <l>Urlând: „Săriți! Tâlharii!”</l>
+                  </lg>
+                  <lg>
+                     <l>Asemenea s-au întâmplat</l>
+                     <l>În târg o întâmplare:</l>
+                  </lg>
+                  <lg>
+                     <l>De la jăcuitor tălharii au furat</l>
+                     <l>O pungă cu parale,</l>
+                     <l>Iar el la ceastie îndat-au reclamat.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Cheltuitorul și rândunica </head>
+                  <lg>
+                     <l>Un tânăr foarte bun, dar prea cheltuitor,</l>
+                     <l>Luând în stăpânire</l>
+                     <l>O bună moștenire,</l>
+                  </lg>
+                  <lg>
+                     <l>În vreme de un an, rămase pe ușor,</l>
+                     <l>Și tot ce mai avea acum era o blană,</l>
+                     <l>Păstrată prin prilej că timpul sta de iarnă;</l>
+                     <l>Iar cine nu-i de mic cu frigul învățat</l>
+                  </lg>
+                  <lg>
+                     <l>În blană foarte crede.</l>
+                     <l>Dar într-o zi mergând după împrumutat,</l>
+                     <l>Din întâmplare el o rândunică vede.</l>
+                  </lg>
+                  <lg>
+                     <l>Găsește-ndată negustori</l>
+                     <l>Și ia pe blană bănișori.</l>
+                  </lg>
+                  <lg>
+                     <l>Căci rândunelele, cum zic din însemnare:</l>
+                     <l>A primăverii dulci sunt bine-vestitoare.</l>
+                     <l>El însă au uitat proverbul bătrânesc:</l>
+                     <l>Că-o floare nicidecum nu face primăvară.</l>
+                  </lg>
+                  <lg>
+                     <l>Și iată, se stârnesc</l>
+                     <l>Furtune, viscole cu ger cumplit afară;</l>
+                     <l>Pe uliți scârțâie omătul făinos;</l>
+                     <l>De prin ogeaguri fum ca iarna gâlgâiește;</l>
+                     <l>Și cel mai sărăiman la foc se încălzește.</l>
+                     <l>Iar tânărul meu, trist, flămând și friguros,</l>
+                  </lg>
+                  <lg>
+                     <l>Pornește în surtuc de-acasă</l>
+                     <l>Să capete vro masă.</l>
+                     <l>Dar cum la uliț-au ieșit,</l>
+                  </lg>
+                  <lg>
+                     <l>Pe rândunică el o vede înghețată</l>
+                     <l>Și, tremurând de frig, îi zice: "Blestemată!</l>
+                  </lg>
+                  <lg>
+                     <l>Pe faptă-ți ai pierit!</l>
+                     <l>Așa ți se cuvine;</l>
+                  </lg>
+                  <lg>
+                     <l>Căci fără blană eu sunt astăzi pentru tine."</l>
+                  </lg>
+                  <lg>
+                     <l>Nu vreau s-ating pe nime,</l>
+                     <l>Dar mult mă mir în sine:</l>
+                     <l>De ce, tot omul, când greșește,</l>
+                     <l>Asupra altuia se dezvinovățește?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Fierul și argintul </head>
+                  <subtitle>(Imitație)</subtitle>
+                  <lg>
+                     <l>— Nu ai cuget, ești un rău!</l>
+                     <l>Tu te-ai făcut ciocan, tu te-ai făcut ilău.</l>
+                     <l>Și-n mine bați fără cruțare!</l>
+                     <l>Au doară ai uitat, că noi chiar din născare</l>
+                     <l>Tot de un neam suntem;</l>
+                     <l>Că noi alăturea în munți ne-nființăm?</l>
+                     <l>Așa țipa la argintari</l>
+                     <l>Sub loviture tari,</l>
+                  </lg>
+                  <lg>
+                     <l>Argintul prelucrat de-a fierului unelte.</l>
+                     <l>Iar fierul au răspuns argintului aceste:</l>
+                  </lg>
+                  <lg>
+                     <l>— Te mângâie, vecine!</l>
+                     <l>Și întru suferinți ia pildă de la mine.</l>
+                     <l>Tu încă ai noroc;</l>
+                     <l>Iar pe mine, scos din foc,</l>
+                     <l>Și mai cumplit mă bate,</l>
+                     <l>Tot fierul, al meu frate!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Oracolul</head>
+                  <lg>
+                     <l>Întru un templu idolesc,</l>
+                     <l>Era un zeu de lemn cu dar proorocesc;</l>
+                     <l>El sfaturi și povețe la tot poporul da:</l>
+                  </lg>
+                  <lg>
+                     <l>Pentru aceasta sta</l>
+                     <l>În aur și argint, spre slavă ferecat,</l>
+                     <l>De jertfe-mpresurat,</l>
+                     <l>De ruge asurzit</l>
+                     <l>Și de miroazme-nădușit.</l>
+                  </lg>
+                  <lg>
+                     <l>Toți în oracolul credea, fără-ndoială.</l>
+                     <l>Dar deodată, vai! ce lucru de sminteală!</l>
+                  </lg>
+                  <lg>
+                     <l>Oracolul slăvit</l>
+                     <l>Cu totul s-au schimbat și s-au nimicnicit.</l>
+                     <l>În loc de adevăr, el tot minciuni croia</l>
+                     <l>La cei ce mângâieri sau sfaturi îi cerea.</l>
+                  </lg>
+                  <lg>
+                     <l>Iar pricina era:</l>
+                     <l>Că-n zeul cel deșert un jertfitor intra</l>
+                     <l>Și, de avea el minte,</l>
+                     <l>Apoi oracolul rostea cerești cuvinte.</l>
+                     <l>Dar când intra în zeu</l>
+                     <l>Vreunul nătărău,</l>
+                     <l>Atuncea vai de cei</l>
+                     <l>Ce mai credeau în zei.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Norocul în vizită </head>
+                  <epigraph>Când norocul schimbă pasul<lb/>N-aduc ani ce-aduce ceasul<lb/>N. N.</epigraph>
+                  <lg>
+                     <l>Norocul pururea de toți e blestemat</l>
+                     <l>Că cine boierii nu are,</l>
+                     <l>Sau cel ce nu-i destul bogat,</l>
+                     <l>Toți, de la mic și pân' la mare</l>
+                  </lg>
+                  <lg>
+                     <l>Găsesc norocul vinovat.</l>
+                     <l>Când dimpotrivă el, ca orbul rătăcit,</l>
+                     <l>În lume nicăiuri nu stă statornicit;</l>
+                     <l>Ci umblă-n vizite, atât la împărați,</l>
+                     <l>Precum la negustori, la domni și la magnați,</l>
+                     <l>Și poate mâni va fi în bordeiașul meu,</l>
+                  </lg>
+                  <lg>
+                     <l>Sau în lăcașul tău,</l>
+                     <l>Prea bune cititor!</l>
+                  </lg>
+                  <lg>
+                     <l>Dar trebuie să fii tu singur lucrător,</l>
+                  </lg>
+                  <lg>
+                     <l>Să iai aminte bine</l>
+                     <l>Și vreamea să nu pierzi</l>
+                  </lg>
+                  <lg>
+                     <l>Când de prilejul bun favorisit te vezi;</l>
+                     <l>Căci el ades nu vine.</l>
+                     <l>Iar dacă n-ai știut atunci să folosești,</l>
+                     <l>Apoi fără cuvânt norocul ocărăști.</l>
+                  </lg>
+                  <lg>
+                     <l>În margine de târg era o casă mică,</l>
+                     <l>Trei frați în ea trăia, ce nu sporea-n nimică,</l>
+                     <l>La orice se-ncerca, lor le mergea pe dos</l>
+                     <l>Și-adese blestema norocul ticălos.</l>
+                  </lg>
+                  <lg>
+                     <l>Pătruns de-a lor strigare,</l>
+                     <l>Norocul hotărî curând să-i viziteze</l>
+                     <l>Și la căsuța lor o vară să văreze.</l>
+                     <l>O vară de noroc! Cui șagă i se pare?</l>
+                     <l>De-ndată s-au văzut puternica-i lucrare:</l>
+                     <l>Căci unul dintre frați fiind cam negustor,</l>
+                     <l>Deși nainte el la toate păgubea,</l>
+                  </lg>
+                  <lg>
+                     <l>Acum orice vindea</l>
+                     <l>Pe loc agonisea folos însemnător</l>
+                     <l>Și banii aduna din zi în zi cu spor.</l>
+                  </lg>
+                  <lg>
+                     <l>Al doilea din frați</l>
+                     <l>Era cam cărturari;</l>
+                     <l>Citea, scria ca alții,</l>
+                     <l>De prin divanuri mari;</l>
+                     <l>Având însă plecare</l>
+                     <l>Să intre scriitor</l>
+                  </lg>
+                  <lg>
+                     <l>La judecătoria, ce-i zic ajutătoare,</l>
+                     <l>Prin a norocului puternic ajutor</l>
+                     <l/>
+                     <l>Ajunse boier mare.</l>
+                     <l>Acum mă întrebați:</l>
+                  </lg>
+                  <lg>
+                     <l>Cu ce s-au folosit al treilea din frați?</l>
+                     <l>Pe el în adevăr norocul au voit</l>
+                  </lg>
+                  <lg>
+                     <l>Să-l sprijine mai mult decât pe ceielalți</l>
+                     <l>Și vara lângă dânsu-au stat nedezlipit.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar numai ce folos,</l>
+                     <l>Că peste vară el tot muște au gonit,</l>
+                     <l>Însă așa de norocos,</l>
+                     <l>Încât nu da o dată</l>
+                     <l>Să iasă mâna lui deșartă.</l>
+                  </lg>
+                  <lg>
+                     <l>Plinindu-și vizita, norocul i-au lăsat</l>
+                     <l>Pe unul boierit, pe altul prea bogat;</l>
+                     <l>Iar cel al treilea norocul blestemând</l>
+                     <l>Mă rog să judecați de mai avea cuvânt,</l>
+                     <l>Și oare nu era el singur vinovat?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Doi raci </head>
+                  <lg>
+                     <l>— Ei, vezi, mă rog, ce nătărău!</l>
+                     <l>Tot înapoi se dă.</l>
+                     <l>Așa un rac pe fiul său</l>
+                     <l>Odată ocără.</l>
+                     <l>— O, bunul meu părinte!</l>
+                     <l>Răspunse racul fiu --</l>
+                     <l>Cum mergi tu înainte?</l>
+                     <l>Mă iartă că nu știu.</l>
+                     <l>Și dar, te rog, mă-nvață;</l>
+                     <l>Dă-mi pildă drept povață,</l>
+                     <l>Și-apoi, eu după tine</l>
+                     <l>Voi merge foarte bine.</l>
+                  </lg>
+                  <lg>
+                     <l>E grea pretenția fără exemple bune,</l>
+                     <l>Să fie cineva desăvârșit în lume.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Țăranul și oaia</head>
+                  <lg>
+                     <l>Țăranul au fost tras pe oaie-n judecată,</l>
+                     <l>Cu reclamație de criminală faptă.</l>
+                     <l>Iar vulpea, pe atunci fiind judecătoare,</l>
+                     <l>Îndată au luat pricina-n cercetare</l>
+                     <l>Și, după formi, întâi chemări s-au rânduit</l>
+                     <l>Atât pârâtei oi, cât și jeluitor,</l>
+                     <l>Trimise înadins prin vrednic slujitor,</l>
+                     <l>Și-adeverințele la tact s-au priimit.</l>
+                  </lg>
+                  <lg>
+                     <l>Iar la înfățișare</l>
+                     <l>Țăranul au propus aceste următoare:</l>
+                     <l>— Cutare lună, zi, cinstită judecată!</l>
+                     <l>La mine doi claponi pieriră din poiată,</l>
+                     <l>A căror penele și puful au rămas,</l>
+                     <l>Și oaia singură cu păsările-au mas.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar oaia au răspuns</l>
+                     <l>Că-asemene prepus,</l>
+                     <l>De sine-i prihănit,</l>
+                  </lg>
+                  <lg>
+                     <l>Căci toată noaptea ea atuncea au dormit;</l>
+                     <l>Că oaia furtișag nu are din natură,</l>
+                     <l>Precum vecinii câini vor spune lămurit,</l>
+                     <l>Și mai vârtos că ea nu pune carne-n gură.</l>
+                  </lg>
+                  <lg>
+                     <l>Deci dar, s-au hotărât:</l>
+                     <l>„Așa precum pârâta nu au tăgăduit,</l>
+                     <l>Că cu acei claponi au mas într-o ogradă,</l>
+                     <l>Apoi e îndestul de sigură dovadă,</l>
+                     <l>Că ea, puternică, pe slabi au biruit;</l>
+                     <l>Și prin urmare dar, nu cred că s-au răbdat</l>
+                  </lg>
+                  <lg>
+                     <l>Să nu-i fi ospătat.</l>
+                     <l>Pentru aceasta eu în cuget zic curat:</l>
+                     <l>Ca păgubașului pielcica să se deie,</l>
+                     <l>Iar carnea-n tribunal depozit să se ieie.”</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Țăranul și calul </head>
+                  <lg>
+                     <l>Țăranul semăna ovăs în primăvară,</l>
+                     <l>Iar calul, ce l-au fost adus în cărucioară,</l>
+                  </lg>
+                  <lg>
+                     <l>Privind la semănat,</l>
+                     <l>Fierbea în gândul său așa un rezultat:</l>
+                     <l>— Mă mir, cum zic de om că este o ființă,</l>
+                     <l>Aleasă prin a lui a minții iscusință?</l>
+                  </lg>
+                  <lg>
+                     <l>Eu nu văd la dâns' minte</l>
+                     <l>Măcar de un grăunte.</l>
+                  </lg>
+                  <lg>
+                     <l>Și oare poate fi mai mare nebunie</l>
+                     <l>Decât să scurme el ogoare pe câmpie,</l>
+                     <l>Și apoi să presare ovăs sau altă pâine,</l>
+                  </lg>
+                  <lg>
+                     <l>Când mult făcea mai bine</l>
+                     <l>Ovăsul să-l dea mie</l>
+                  </lg>
+                  <lg>
+                     <l>Ori murgușorului, iar pâinea la găine,</l>
+                     <l>Sau până în sfârșit să ție în păstrare?</l>
+                     <l>Încai s-ar fi văzut a lui scumpete mare.</l>
+                     <l>Iar ca să lepede pe dealuri și pe văi,</l>
+                  </lg>
+                  <lg>
+                     <l>E numai o dovadă</l>
+                     <l>Că oamenii în faptă</l>
+                     <l>Sunt foarte nătărăi!</l>
+                  </lg>
+                  <lg>
+                     <l>Dar toamna-mbelșugată</l>
+                     <l>Aduse multă roadă:</l>
+                  </lg>
+                  <lg>
+                     <l>La una douăzeci ovăsul au sporit,</l>
+                     <l>S-au strâns, s-au îmblăcit</l>
+                     <l>Și-același cal din el au ospătat tain,</l>
+                     <l>Pe zi căușul plin.</l>
+                  </lg>
+                  <lg>
+                     <l>Nu e de lăudat</l>
+                     <l>A dobitocului semețul rezultat.</l>
+                     <l>Dar, oare nu așa? din oameni, îndrăzneții</l>
+                  </lg>
+                  <lg>
+                     <l>Cutează-a cerceta voința providenții,</l>
+                     <l>Făr-a putea străbate</l>
+                     <l>A ei orânduieli și căi nestrămutate.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Poetul și bogatul </head>
+                  <lg>
+                     <l>Un sărăiman poet odat-au reclamat</l>
+                     <l>Asupra unui om prostuț, dar prea bogat;</l>
+                     <l>Iar jaloba-i era în chipul următor:</l>
+                  </lg>
+                  <lg>
+                     <l>— Tu, al Olimpului atotstăpănitor,</l>
+                     <l>Și preste zei mai mare zeu,</l>
+                     <l>O, Joe preaslăvite!</l>
+                     <l>Ascultă glasul meu,</l>
+                  </lg>
+                  <lg>
+                     <l>Ia sama la a mea smerită rugăminte:</l>
+                     <l>Cu ce ți-am greșit eu,</l>
+                     <l>De mă găsesc atât</l>
+                     <l>De soartă prigonit,</l>
+                     <l>Încât nu am nici casă,</l>
+                     <l>Nici lingură, nici masă.</l>
+                     <l>Și singura-mi avere</l>
+                     <l>E numai în părere;</l>
+                  </lg>
+                  <lg>
+                     <l>Când dimpotrivă, văd, cu toată-a lui prostie,</l>
+                     <l>Bogatul în trufie,</l>
+                     <l>De-a lui închinători fățarnici ocolit</l>
+                     <l>Și pentru interes adesea măgulit,</l>
+                     <l>În desfătare el se află tot voios,</l>
+                  </lg>
+                  <lg>
+                     <l>Gras, gros și sănătos;</l>
+                     <l>Iar eu, ca vai de mine,</l>
+                  </lg>
+                  <lg>
+                     <l>Sorb inspirație și-o mistuiesc cu rime</l>
+                     <l>Prin care, cum au zis un frate-n poezie,</l>
+                     <l>Nu poți scăpa măcar de-o mică datorie.</l>
+                  </lg>
+                  <lg>
+                     <l>— Destul! Am înțeles,</l>
+                  </lg>
+                  <lg>
+                     <l>Lui Joe au răspuns,</l>
+                     <l>De jaloba-i pătruns.</l>
+                  </lg>
+                  <lg>
+                     <l>Dar cum nu jedeci tu, că singur ți-ai ales</l>
+                     <l>Din bunurile lumii</l>
+                     <l>Al slavei falnic nume,</l>
+                  </lg>
+                  <lg>
+                     <l>Și scrierile tale în veacuri viitoare</l>
+                     <l>Vor fi nemuritoare;</l>
+                     <l>Iar desfătarea lui e numai pe viață.</l>
+                     <l>Și când el ar avea o minte mai isteață,</l>
+                  </lg>
+                  <lg>
+                     <l>Atuncea ar cunoaște</l>
+                     <l>Și-ar plânge mai amar a sa nimicnicie;</l>
+                     <l>Fiindcă cel ce naște</l>
+                     <l>Plăcuta poezie</l>
+                     <l>E mult mai însemnat</l>
+                     <l>Decât un nătărău bogat.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Autorul și hoțul</head>
+                  <lg>
+                     <l>În întunericul lăcașului de umbre,</l>
+                     <l>În tartarul cumplit</l>
+                     <l>Unde de grozăvii trist sufletu-ți se umple</l>
+                     <l>Și unde merge omul de fapte osândit,</l>
+                  </lg>
+                  <lg>
+                     <l>Sosiră totodată</l>
+                     <l>La aspra judecată</l>
+                     <l>Un hoț răutățit,</l>
+                     <l>În sânge încruntat</l>
+                     <l>Care au și murit,</l>
+                     <l>Pe viață spânzurat,</l>
+                     <l>Și un autor vestit,</l>
+                     <l>Puternic în condei,</l>
+                     <l>Care au dezvelit</l>
+                     <l>Mult slobode idei,</l>
+                  </lg>
+                  <lg>
+                     <l>Ce-ntocmai ca Sirene<note xml:id="ftn4" place="foot" n="4">Sirene: zâne de ape care cu ademenitoarele lor cântări amăgesc pe călătorii ce le plac și prinzându-i îi țin robi în fundul apelor (Mitologie).</note>
+                     </l>
+                     <l>Era la glas duios,</l>
+                     <l>Dar, potrivit cu ele,</l>
+                     <l>Și mult primejdios.</l>
+                  </lg>
+                  <lg>
+                     <l>Orânduielile la iad sunt cu grăbire,</l>
+                     <l>Nu este ca la noi zadară prelungire</l>
+                     <l>Și hotărârile se dau într-un minut.</l>
+                  </lg>
+                  <lg>
+                     <l>Fără zăbavă dar,</l>
+                     <l>Pe două strașnice grătare de metal</l>
+                     <l>S-au pus două căldări, cu smoală s-au umplut</l>
+                     <l>Și bieții vinovați în ele au intrat.</l>
+                     <l>Dar sub tălhari au pus un munte-ntreg de brad,</l>
+                     <l>La care singură Alecto<note xml:id="ftn5" place="foot" n="5">Alecto, Tizifoni și Mejer — trei furii ale tartarului (Mitologie).</note> foc au dat,</l>
+                     <l>Stârnind o flacără atâta de grozavă,</l>
+                     <l/>
+                     <l>Cât bolțile la iad</l>
+                     <l>Mai toate au crăpat;</l>
+                  </lg>
+                  <lg>
+                     <l>Iar către autor părea asprime slabă.</l>
+                     <l>Sub el la început</l>
+                     <l>Ardea un focușor abia-abia văzut,</l>
+                     <l>El însă ne-ncetat mai rău se aprindea.</l>
+                     <l>Trecură zile, ani și sub tâlhari de mult</l>
+                  </lg>
+                  <lg>
+                     <l>Cenușă s-au făcut,</l>
+                     <l>Iar focul sub autor necontenit ardea.</l>
+                     <l>Văzând așa asprime,</l>
+                     <l>Văzând neușurare,</l>
+                     <l>El strigă cu glas mare</l>
+                     <l>Că nu-i dreptate-n nime!</l>
+                     <l>Că el, trăind în lume,</l>
+                     <l>Și-au dat un mare nume</l>
+                     <l>Și, de au scris ceva</l>
+                     <l>Cam slobod, cam ghimpos,</l>
+                  </lg>
+                  <lg>
+                     <l>* </l>
+                  </lg>
+                  <lg>
+                     <l>Dar n-au crezut cândva</l>
+                     <l>A fi mai păcătos</l>
+                     <l>Decât un rău, un hoț!</l>
+                     <l>Atunci, o furioasă zână,</l>
+                  </lg>
+                  <lg>
+                     <l>O sor' din cele trei a iadului surori,</l>
+                     <l>Cu cozi împodobită de șerpi otrăvitori,</l>
+                  </lg>
+                  <lg>
+                     <l>Cu bice sângerate-n mână,</l>
+                     <l>Viind drept autor, au zis: "Nenorocite!</l>
+                     <l>Tu cum de îndrăznești</l>
+                     <l>Asupra providenței strigare să pornești</l>
+                     <l>Și să înșiri cuvinte</l>
+                     <l>Precum le înșirai</l>
+                     <l>Cât pe pământ erai!</l>
+                     <l>Și tu te socotești</l>
+                     <l>Mai bun decât un hoț?</l>
+                  </lg>
+                  <lg>
+                     <l>El răul au urmat, el au făcut și morți</l>
+                     <l>Cât au avut viață.</l>
+                     <l>Iar tu... Ea au deschis lui lumea ca să vază:</l>
+                     <l>Privește, uită-te la faptele-ți cumplite,</l>
+                     <l>Vezi fiii ce-au otrăvit pe mumă, pe părinte,</l>
+                  </lg>
+                  <lg>
+                     <l>Cu multe desfrânări</l>
+                     <l>Vezi fiice depărtate</l>
+                     <l>De-a lor nevinovate</l>
+                     <l>A sexului chemări,</l>
+                  </lg>
+                  <lg>
+                     <l>Vezi deznădăjduirea familiilor întrege,</l>
+                     <l>Adusă prin a tale mintioase încercări.</l>
+                     <l>Tu de însoțiere, de legături, de lege</l>
+                  </lg>
+                  <lg>
+                     <l>Ai râs, ai defăimat</l>
+                     <l>Și, pentru ca sujet de scris să poți alege,</l>
+                     <l>Ai fi dorit să vezi pământul răsturnat.</l>
+                     <l>De cine patima au fost descrisă bine,</l>
+                     <l>Cu dezveliri că viața e vis amăgitor?</l>
+                     <l>De cine-i încântat nemernicul amor?</l>
+                  </lg>
+                  <lg>
+                     <l>De tine!</l>
+                     <l>Simțirea tinerimii de tine-i ațâțată</l>
+                  </lg>
+                  <lg>
+                     <l>Prin o îmbrobodire de adevăr înalt</l>
+                     <l>Și răzbunarea urii de tine-nfășurată</l>
+                     <l>În scutece de sânge de om din om vărsat.</l>
+                  </lg>
+                  <lg>
+                     <l>Aceste fapte toate,</l>
+                     <l>Prin scrieri înfocate</l>
+                     <l>Certând ai proslăvit</l>
+                     <l>Și-n loc de fericire,</l>
+                  </lg>
+                  <lg>
+                     <l>Tu omului ai dat povară de gândire.</l>
+                     <l>Dar încă câte rele nici nu s-au dezvelit</l>
+                  </lg>
+                  <lg>
+                     <l>Din scrierile tale</l>
+                     <l>Ce sunt cu-mbelșugare:</l>
+                     <l>Deci rabdă, suferind!”</l>
+                     <l>Au zis Mejer scrâșnind</l>
+                  </lg>
+                  <lg>
+                     <l>Și iute au trântit capacul pe căldare.</l>
+                  </lg>
+                  <lg>
+                     <l>Dumnezeu să nu se-ndure</l>
+                     <l>De oricare autor,</l>
+                     <l>Ferindu-i pe toți de furii</l>
+                     <l>Și de-a iadului cuptor.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Prieteșugul și amorul</head>
+                  <lg>
+                     <l>— Iubite verișor,</l>
+                     <l>Pe unde-ai mai umblat?</l>
+                     <l>Prieteșugul pe amor</l>
+                     <l>Văzând l-au întrebat.</l>
+                  </lg>
+                  <lg>
+                     <l>— Umblat-am fără de cruțare</l>
+                     <l>Și un amorezat măcar nu am aflat.</l>
+                     <l>— Și eu am străbătut pustiile sub soare,</l>
+                     <l>Dar n-am putut afla prieten de crezare.</l>
+                     <l>— De ce dar oamenii ne dau numiri străine:</l>
+                  </lg>
+                  <lg>
+                     <l>Dorința</l>
+                     <l>împlinind prin mine</l>
+                     <l>Și interesul lor prin tine?</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <div type="div1">
+            <head>Din periodice</head>
+            <div type="div2">
+               <div type="div3">
+                  <head>Vărul primare </head>
+                  <lg>
+                     <l>Sub lavițe-n cămară</l>
+                     <l>Toți șoarecii de frunte făcuse-odinioară</l>
+                     <l>Sfat mare între ei,</l>
+                     <l>La care hotărâse cu multă scumpătate,</l>
+                     <l>Ca în a lor cetate</l>
+                     <l>Să nu se-ngăduiască nici unul din acei</l>
+                     <l>Ce nu vor avea coadă; pe un temei puternic,</l>
+                  </lg>
+                  <lg>
+                     <l>Că șoarecul nevrednic</l>
+                     <l>Să-și cruțe coada sa,</l>
+                     <l>La întâmplări mai grele</l>
+                     <l>Cetatea va lăsa</l>
+                     <l>În prada mâței rele.</l>
+                  </lg>
+                  <lg>
+                     <l>Se vede că ei coada o au semn de trufie,</l>
+                     <l>Sau merit osebit;</l>
+                     <l>Precum la noi fu barba cu titlu de cinstit.</l>
+                     <l>Oricum pricina fie,</l>
+                     <l>A șoarecilor act</l>
+                     <l>Sub lavițe la tact</l>
+                     <l>S-au pus în împlinire.</l>
+                  </lg>
+                  <lg>
+                     <l>La următoarea însă obștească întrunire,</l>
+                     <l>Un șoarec fără coadă cu cei de frunte sta</l>
+                  </lg>
+                  <lg>
+                     <l>Și pricini cerceta.</l>
+                     <l>Alt șoricel cu laba vecinul își ghiontește</l>
+                     <l>Șoptindu-i: „Nu vezi, frate, ce rău ni se gătește!</l>
+                  </lg>
+                  <lg>
+                     <l>Cum poate fi primit</l>
+                     <l>Un șoarec prihănit</l>
+                     <l>În astă preacinstită de cozi lungi adunare?</l>
+                     <l>Și tu, bătrân ales,</l>
+                     <l>Păzești tăcere mare”.</l>
+                  </lg>
+                  <lg>
+                     <l>— Păzesc tăcere, dragă, căci el mi-i văr primare.</l>
+                     <l>— Destul, am înțeles.</l>
+                  </lg>
+                  <lg>
+                     <l>Nici în vizunii, oare,</l>
+                     <l>Hatârul lege n-are?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Paingul și bondarul </head>
+                  <lg>
+                     <l>Talentele în lume ce nu aduc folos</l>
+                     <l>Sunt foarte de prisos.</l>
+                  </lg>
+                  <lg>
+                     <l>La negustor de pânză, paingul în dugheană,</l>
+                     <l>Văzând cum mușteriii la cumpărat se-ndeamnă,</l>
+                  </lg>
+                  <lg>
+                     <l>Au zis în gândul său:</l>
+                     <l>„Eu cu talentul meu</l>
+                     <l>Pot face o cercare</l>
+                     <l>Mai mult izbânditoare</l>
+                     <l>Decât un negustor</l>
+                  </lg>
+                  <lg>
+                     <l>Ce cumpără și vinde product străin cu spor.</l>
+                     <l>De mâine dimineață deschid o magazie</l>
+                  </lg>
+                  <lg>
+                     <l>De-o nouă pânzărie,</l>
+                     <l>De care omul încă pe lume n-au țesut”.</l>
+                  </lg>
+                  <lg>
+                     <l>Așa au zis paingul, așa au și făcut;</l>
+                     <l>Și-n colț, la o fereastră, și-au săvârșit lucrarea;</l>
+                  </lg>
+                  <lg>
+                     <l>Dar peste așteptare,</l>
+                     <l>Cu mătura, băiatul a doua zi l-au tras</l>
+                     <l>Afară din dugheană</l>
+                  </lg>
+                  <lg>
+                     <l>Și truda-i au rămas</l>
+                     <l>Fără luare-n seamă.</l>
+                  </lg>
+                  <lg>
+                     <l>Atunci mâhnit, paingul se-ntoarce la bondar</l>
+                     <l>Și-i zice: „Vezi cum omul jaluz disprețuiește</l>
+                  </lg>
+                  <lg>
+                     <l>Orice talente mari?</l>
+                     <l>Tu înțelegi mai bine: te rog dar hotărăște,</l>
+                     <l>Ce pânză-i mai subțire?”</l>
+                  </lg>
+                  <lg>
+                     <l>— A ta, nu-i îndoială! bondarul au răspuns,</l>
+                     <l>Dar nu e de ajuns</l>
+                     <l>Această însușire;</l>
+                  </lg>
+                  <lg>
+                     <l>Căci pânza e menită să-mbrace, să-ncălzească,</l>
+                     <l>Ca să se prețuiască!</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

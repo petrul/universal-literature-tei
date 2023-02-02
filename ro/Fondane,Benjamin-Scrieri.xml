@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scrieri</title>
+            <author>Fundoianu,Benjamin</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2017-05-06T23:57:05.470762000</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">
+               <anchor xml:id="id_footer-info"/>
+               <anchor xml:id="id_footer-info-copyright"/>Acest text este disponibil sub licenţa <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro">
+                  <hi rend="color(#0b0080)">Creative Commons cu atribuire şi distribuire în condiţii identice</hi>
+               </ref>; pot exista şi clauze suplimentare. Vedeţi detalii la <ref target="https://foundation.wikimedia.org/wiki/Terms_of_Use">
+                  <hi rend="color(#0b0080)">Termenii de utilizare</hi>
+               </ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">
+               <ptr target="https://ro.wikisource.org/wiki/Autor:Benjamin_Fondane"/>.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro">ro</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item>keywords here</item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-04T03:37:43.081844970</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                        
+      <body>
+         <head>Scrieri</head>
+         <author>Fundoianu,Benjamin</author>
+         <p rend="color(#000000)">
+            <anchor xml:id="id_footer-info"/>
+            <anchor xml:id="id_footer-info-copyright"/>Acest text este disponibil sub licenţa <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.ro">
+               <hi rend="color(#0b0080)">Creative Commons cu atribuire şi distribuire în condiţii identice</hi>
+            </ref>; pot exista şi clauze suplimentare. Vedeţi detalii la <ref target="https://foundation.wikimedia.org/wiki/Terms_of_Use">
+               <hi rend="color(#0b0080)">Termenii de utilizare</hi>
+            </ref>.</p>
+         <p rend="start color(#000000)">
+            <ptr target="https://ro.wikisource.org/wiki/Autor:Benjamin_Fondane"/>.</p>
+         <p rend="justify">ro</p>
+         <div type="div1">
+            <head>Poezie</head>
+            <div type="div2">
+               <div type="div3">
+                  <head>De vrei... </head>
+                  <lg>
+                     <l>De vrei să-ți deie poame, să-l cultivi;</l>
+                     <l>Dă-i azotați pământului și fosfor.</l>
+                     <l>Seraiul nu-i apururi lângă Bosfor;<lb/>În țărna seacă nu-nfloresc olivi.</l>
+                  </lg>
+                  <lg>
+                     <l>Pământul sec — ca ftizicul de sânge —</l>
+                     <l>Apropie-l de tine — ca pe-un om,</l>
+                     <l>Și dă-i fluidul sevei policrom</l>
+                     <l>Să circule prin vinele-i natânge.</l>
+                     <l/>
+                     <l>Iar când bătut de arșiță, va germe</l>
+                     <l>Din solul greu și amplu fecundat,</l>
+                     <l>Un trunchi zglobiu de plantă pe-nvărat,</l>
+                     <l>Îl curăță de pleavă și de vierme.</l>
+                     <l/>
+                     <l>Mereu să crească seva-n trupul ei,</l>
+                     <l>Ca apele captate-n apeducte.</l>
+                     <l>S-atârne-n vară coaptele producte</l>
+                     <l>Cum greu atârnă sânii la femei.</l>
+                  </lg>
+                  <trailer>1916, Din manuscrise</trailer>
+               </div>
+               <div type="div3">
+                  <head>Covoare din pereți... </head>
+                  <lg>
+                     <l>Covoare din pereți,</l>
+                     <l>cu vânători pe ele, copoi agili, vreun taur </l>
+                     <l>și fildeși de mistreți;</l>
+                     <l>Un soare roș prin geamuri prefiră praf de aur.</l>
+                     <l/>
+                     <l>Covoare din pereți,</l>
+                     <l>maro, albastre, roze, ascund ca-n niște drame,</l>
+                     <l>un șir întreg de vieți;</l>
+                     <l>tablouri anonime plângând burgheze rame.</l>
+                  </lg>
+                  <lg>
+                     <l>Covoare din pereți,</l>
+                     <l>o, nopțile cu friguri, cu spasme, vu ftizie,</l>
+                     <l>cu demoni roși și creți;</l>
+                     <l>balauri mari de stofă și spaimă de hârtie.</l>
+                  </lg>
+                  <lg>
+                     <l>Covoare din pereți,</l>
+                     <l>va scotoci Americi, imagini, intrigi, drame,</l>
+                     <l>în vremi, vreun cântăreț;</l>
+                     <l>și voi n-o să-i spuneți</l>
+                  </lg>
+                  <lg>
+                     <l>nici drama ce m-agită, și-o să-l lăsați s-aclame</l>
+                     <l>(cum mă lăsați pe mine) – imagini, câni, drumeți,</l>
+                     <l>și crierii cocli-vor a cărților arame</l>
+                     <l>de glorii rare, beți – </l>
+                     <l>Covoare din pereți!...</l>
+                  </lg>
+                  <trailer>1917, Din manuscrise</trailer>
+               </div>
+               <div type="div3">
+                  <head>Dorm florile </head>
+                  <subtitle>(Sonet)</subtitle>
+                  <lg>
+                     <l>Dorm florile ușor în plușul moale <lb/>Al nopții ce se mistuie și moare, </l>
+                     <l>Iar licurii de rouă-n cupe clare </l>
+                     <l>Au scânteieri fugare de opale.</l>
+                  </lg>
+                  <lg>
+                     <l>Și risipit în straturi și în oale </l>
+                     <l>Norodu-ntreg de flori mirositoare </l>
+                     <l>Își profilează-n noaptea visătoare </l>
+                     <l>Conturul zvelt al trupurilor goale.</l>
+                  </lg>
+                  <lg>
+                     <l>Un crin suspină-n somn; apoi se-nclină</l>
+                     <l>Extatic, în cascade de lumină</l>
+                     <l>Ce se scoboară blândă dinspre astre.</l>
+                  </lg>
+                  <lg>
+                     <l>Și dintr-atâtea cupe-nlăcrimate, </l>
+                     <l>Aromele se-nalță val, furate </l>
+                     <l>Dintr-un buchet suav de flori albastre.</l>
+                  </lg>
+                  <trailer>April, Din Periodice</trailer>
+               </div>
+               <div type="div3">
+                  <head>„Charme dangereux” </head>
+                  <lg>
+                     <l>Ah, cărțile cu pagini înflorite </l>
+                     <l>De palide și stranii acuarele, </l>
+                     <l>Cu panglici delicioase, șerpuite, </l>
+                     <l>Pe foile-nnegrite și rebele. </l>
+                     <l>Ah, cărțile ce-n inimă-ți pătrund </l>
+                     <l>Cu nostalgia zărilor fugare, </l>
+                     <l>Cu nostalgia zărilor ce-ascund </l>
+                     <l>Tulburătoare țărmuri solitare.</l>
+                  </lg>
+                  <lg>
+                     <l>Departe — șters — în zările din Sud </l>
+                     <l>În Neapole ori poate în Firentze; </l>
+                     <l>O verandă cu flori, — un Phoebus nud </l>
+                     <l>Și pomii ce se-nclin cu reverențe. </l>
+                     <l>Un cer de-azur bronzat, un aur fin, </l>
+                     <l>Pudrând prin largi boschete portocalii </l>
+                     <l>Și marea care râde în senin, </l>
+                     <l>Pe coastele romanticei Italii.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah, viața nouă, plină de tumult, </l>
+                     <l>Cu palpitări continue de seve. </l>
+                     <l>Ah, viața care-mi pare c-o ascult, </l>
+                     <l>Deși-nțeleg și știu că nu-i aeve; </l>
+                     <l>Ah, viața însorită ce-o trăim </l>
+                     <l>Pe cărțile nostalgice și sfinte. </l>
+                     <l>Ce-nchid în ele — sombru țintirim —</l>
+                     <l>Iluziile-n foi — ca în morminte.</l>
+                  </lg>
+                  <trailer>Din Periodice</trailer>
+               </div>
+               <div type="div3">
+                  <head>Hiems</head>
+                  <lg>
+                     <l>E iarnă, urlă crivăț; în vatră-i foc sărac; </l>
+                     <l>și ninge, ninge, ninge; ca-ntr-un sfârșit de veac, </l>
+                     <l>natura-și dă solemnă agonicul răsuflet, </l>
+                     <l>și-atâta somn și moarte și-atâta alb e-n suflet, </l>
+                     <l>de parcă ninge-ntr-însul necontenit de-un veac.</l>
+                  </lg>
+                  <lg>
+                     <l>De frig te-nghemi, și-o raclă îți pare-odaia toată; </l>
+                     <l>de prin hogeaguri fumul se-ncercuiește roată </l>
+                     <l>și ciori ca de funingeni așteapt-un hoit trântit; </l>
+                     <l>și gândurile pleacă în stol funinginit, </l>
+                     <l>ca ciorile ce, negre, dau peste-ntinderi roată.</l>
+                  </lg>
+                  <trailer>Din Periodice</trailer>
+               </div>
+            </div>
+         </div>
+         <div type="div1">
+            <head>Priveliști</head>
+            <subtitle>1930</subtitle>
+            <div type="div2">
+               <div type="div3">
+                  <head>Lui Taliarh </head>
+                  <subtitle>pentru Păpușu (Armand Pascal)</subtitle>
+                  <lg>
+                     <l>Boii urâți și teferi s-au limpezit în șes,</l>
+                     <l>și au țipat cocoșii târziu și fără sens.</l>
+                     <l>Ileana, care doarme cu porcii de tărîțe,</l>
+                     <l>s-a pus să mulgă vacii lapte stelar din țâțe,</l>
+                     <l>pământului să mulgă răcoare de cartof.</l>
+                     <l>Toamna bacoviană geme-n ferestre: of! —</l>
+                     <l>Prietene, dă-mi mâna și taci; așa; dă-mi mâna.</l>
+                     <l>Privește curtea, porcii, și, râcâind țărâna,</l>
+                     <l>cocoșii albi. Privește: sufletul meu e trist.</l>
+                     <l>O, Taliarh, acuma, ca și-n trecut, exist,</l>
+                     <l>și beau din vinul ăsta, și beau din cupa asta.</l>
+                     <l>Vechilul tot nu știe ce albă-i e nevasta,</l>
+                     <l>Ileana tot nu știe decât să mulgă vaci —</l>
+                     <l>și via să-și înnoade azurul pe araci.</l>
+                     <l>Vino; să stăm de vorbă cât ne mai ține vrerea;</l>
+                     <l>ca mâne, peste inimi, va izbuti tăcerea,</l>
+                     <l>și n-om vedea prin geamuri, tineri și zgomotoși,</l>
+                     <l>amurgul care-aleargă după cireadă, roș.</l>
+                     <l>Ca mâne, toamna iară se va mări prin grâne,</l>
+                     <l>și vinul toamnei poate nu-l vom mai bea. Ca mâne,</l>
+                     <l>poate s-or duce boii cu ochi de râu în știri,</l>
+                     <l>să tragă cu urechea la noile-ncolțiri.</l>
+                     <l>Și-atuncea, la braț, umbre, nu vom mai ști de toate;</l>
+                     <l>poate-am să uit nevasta și vinul acru; poate…</l>
+                     <l>Ei, poate la ospețe nu vei mai fi monarh. —</l>
+                  </lg>
+                  <lg>
+                     <l>E toamnă. Bea cotnarul din cupă, Taliarh.</l>
+                  </lg>
+                  <trailer>1919</trailer>
+               </div>
+               <div type="div3">
+                  <head>Rugă simplă </head>
+                  <lg>
+                     <l>O, ploaia primăverii care-a căzut din timp! </l>
+                     <l>lasă să-mi spăl în tine picioarele desculțe, </l>
+                     <l>lasă să-mi spăl în tine sufletul meu desculț!</l>
+                  </lg>
+                  <lg>
+                     <l>O, ploaia răcoroasă care-a căzut din timp! </l>
+                     <l>am întâlnit-o-n drumuri, oblică, pe moșie, </l>
+                     <l>cu stropii grei de soare ca boabele din spicuri.</l>
+                  </lg>
+                  <lg>
+                     <l>Oameni — sau poate-amurgul — în liniște ara</l>
+                     <l>țelina, spintecată la nesfârșit, fugea,</l>
+                     <l>și boii lingeau ploaia din cer, în arătură.</l>
+                  </lg>
+                  <lg>
+                     <l>Ploaie, spală pământul de baliga cuminte, </l>
+                     <l>cruță pământul, ploaie, de uraganul rău, </l>
+                     <l>bun, în deșertul mării, setoșilor de umblet,</l>
+                  </lg>
+                  <lg>
+                     <l>umflă sămânța bine și fă-o să plesnească; </l>
+                     <l>sămânța de lucernă, de popușoi, de orz, </l>
+                     <l>orz pentru cai, lucernă la vaci și popușoiul</l>
+                  </lg>
+                  <lg>
+                     <l>fă-l, ploaie, pentru oameni cari te așteaptă-n tindă,</l>
+                     <l>cu porci uscați de-amiază, cu vișini, cu pustiu </l>
+                     <l>și cu neveste-n care țipă copiii surzi.</l>
+                  </lg>
+                  <lg>
+                     <l>Și pune frunze-n vișini: ca să se urce-omida, </l>
+                     <l>fă grâul: să nu moară guzganii de pământ, </l>
+                     <l>și sălcii: să se poată bivolii scărpina.</l>
+                  </lg>
+                  <lg>
+                     <l>Lasă-n ocol să fete vacile roșcovane, </l>
+                     <l>lasă să se iubească, din spate, prin ogrăzi, </l>
+                     <l>scurți și cu botul umed, cânii de vânătoare.</l>
+                  </lg>
+                  <lg>
+                     <l>Lasă să se reverse podgoriile lumii! </l>
+                     <l>Fă să se coacă via și dă-ne vinul nou, </l>
+                     <l>ce ostenește capul și limpezește trupul.</l>
+                  </lg>
+                  <lg>
+                     <l>Iar mie, dă-mi femeia pământului tău negru, </l>
+                     <l>albă ca și lumina pământului tău negru, </l>
+                     <l>bună ca și nutrețul pământului tău negru.</l>
+                  </lg>
+                  <lg>
+                     <l>Și-n urmă, prăbușește-mi lumina din văzduh, </l>
+                     <l>îngroapă-mă sub toată lumina din văzduh, </l>
+                     <l>agheazmă blestemată, ploaie de primăvară.</l>
+                  </lg>
+                  <trailer>1921</trailer>
+               </div>
+               <div type="div3">
+                  <head>Femeie luminoasă…</head>
+                  <lg>
+                     <l>Femeie luminoasă ca șesurile-n toamnă,</l>
+                     <l>dă-mi gâtul tău, cuib moale cu paseri de azur,</l>
+                     <l>dă-mi mânele, mai pure ca pietrele din râuri —</l>
+                     <l>femeie cu gândirea ca un polen netrebnic</l>
+                     <l>și carnea ca oricare gândire mai zămoasă.</l>
+                  </lg>
+                  <lg>
+                     <l>Femeie, pământ negru, te vreau și te iubesc,</l>
+                     <l>aș vrea să-l ar, să-l semăn, să-l secer și să-l macin,</l>
+                     <l>pământ proaspăt în care dormiră toți ai mei,</l>
+                     <l>pământ tânăr în care mi-i tânără chemarea,</l>
+                     <l>pământul unde-n urmă vreau să adorm și eu.</l>
+                  </lg>
+                  <lg>
+                     <l>Și vreau — în ciuda celui ce seamănă-n deșert</l>
+                     <l>nisip și foc, cu umbra la brâu și soare-n ceafă —</l>
+                     <l>grăuntelui lumină să-i dăruiesc și apă;</l>
+                     <l>aș vrea să-l ar, să-l seamăn, să-l secer și să-l macin</l>
+                     <l>și-aș vrea s-adorm cu grâul cel bun la căpătâi,</l>
+                     <l>pământ, matrice dată din ziua cea dintâi,</l>
+                     <l>în care mă așteaptă, ca-ntr-o oglindă, chipul.</l>
+                  </lg>
+                  <trailer>1917</trailer>
+               </div>
+               <div type="div3">
+                  <head>Augur de toamnă</head>
+                  <lg>
+                     <l>Afară suflă vântul și ploaia bate-n geamuri,</l>
+                     <l>Și nori sporesc pe boltă ca zdrențuite flamuri.</l>
+                     <l>Mor macii-n lac de sânge pe margini de răzoare,</l>
+                     <l>Și plânge, firav, cimbrul și gingașa cicoare,</l>
+                     <l>Sălbatica răsură aprinsă-n crâng ca focul</l>
+                     <l>Pe vânt împrăștiată își plânge dus norocul.</l>
+                     <l>Și freamătă pădurea și geme-n plâns porumbul,</l>
+                     <l>Și plâng și norii negri, și cerul cum e plumbul,</l>
+                     <l>Și plânge apa-n vaduri; și sufletul meu moare</l>
+                     <l>În aiurări de spaimă și-n cânturi funerare...</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Mărior</head>
+                  <lg>
+                     <l>Vreau să ne-azvârle aceeași furtună în genunchi,</l>
+                     <l>femeie! Viața poate să-mi sape în rărunchi,</l>
+                     <l>mă pot lovi și ploaia, și vremea - amândouă!</l>
+                     <l>de-l am, stropit în mine, sufletul tău de rouă.</l>
+                     <l>Ți-i trupul o grădină pe care-o știu din timpi,</l>
+                     <l>plină-n adânc cu cântec, plină în șold cu ghimpi</l>
+                     <l>în care-aș vrea să zgârii, să darm sub piele - râie,</l>
+                     <l>femeie risipită în noi, ca o tămâie.</l>
+                     <l>Zădarnic ucizi carnea și, fără preget, dai</l>
+                     <l>visare din visarea cea fără măruntai;</l>
+                     <l>zădarnic ești cetatea cu porți de fier o mie,</l>
+                     <l>pe care-aș vrea s-o nărui în timp din temelie,</l>
+                     <l>să trec cu arătura pe piatră, ca un plug,</l>
+                     <l>ce duce-n tine soare, semințe și belșug.</l>
+                  </lg>
+                  <trailer>1921</trailer>
+               </div>
+               <div type="div3">
+                  <head>Cântece simple: Mărior III</head>
+                  <lg>
+                     <l>Din nou ne cheamă iarna la sobă, să vorbim. </l>
+                     <l>Ciori au bătut văzduhul ca niște cuie și-mi </l>
+                     <l>place-n urechi tăcerea cum scârțâie... Pesemne, </l>
+                     <l>iar au pornit, în uliți, căruțele cu lemne. </l>
+                     <l>Amurg. De-ar bate-n ușă deodată, cineva, </l>
+                     <l>desigur că i-aș spune: intră! și ai intra. </l>
+                     <l>Tăcerea-n noi și-n seara căzută-ntre covoare, </l>
+                     <l>ar fierbe ca un cântec călduț, de samovare. </l>
+                     <l>N-ai întreba nimica și-ai aștepta răspuns — </l>
+                     <l>Ți-aș spune: o lumină din mine s-a ascuns. </l>
+                     <l>Vrei să ți-i pun la sobă pantofii de mătasă ? </l>
+                     <l>Ți-aș spune: ai picioare ca iepuri mici de casă; </l>
+                     <l>și vorbele-ar rămâne limpezi și grele-n noi, </l>
+                     <l>ca ciorile surprinse de moarte într-un sloi.</l>
+                     <l>Și mi-ar fi poate frică să nu ghicesc ce-nseamnă</l>
+                     <l>făptura ta, împinsă aicea dintr-o toamnă,</l>
+                     <l>cu capu-n mâni visată, deștept, de-atâtea ori!...</l>
+                     <l> — Am bănuit că-i iarnă afară după ciori,</l>
+                     <l>și-aș fi voit să-l dărui cuiva, ca să-l ascunză, </l>
+                     <l>sufletul, cât o umbră crescută sub o frunză.</l>
+                  </lg>
+                  <trailer>1922</trailer>
+               </div>
+               <div type="div3">
+                  <head>Cântece simple: Mărior V </head>
+                  <lg>
+                     <l>Dac-ai veni pe bancă cu-n roman</l>
+                     <l>în mână,</l>
+                     <l>surâsul tău m-ar căuta în parc</l>
+                     <l>prin fila cărții.</l>
+                  </lg>
+                  <lg>
+                     <l>Romanul tău, cu litere nemțești,</l>
+                     <l>e Werther —</l>
+                     <l>l-ai părăsit pe când își încărca</l>
+                     <l>pistolul.</l>
+                  </lg>
+                  <lg>
+                     <l>Surâsul tău mă caută ca-n râu</l>
+                     <l>o undiță —</l>
+                     <l>și vrăbii lângă tine slovenesc</l>
+                     <l>romanul.</l>
+                  </lg>
+                  <lg>
+                     <l>Sunt lângă tine și tu nu mă vezi —</l>
+                     <l>sunt poate golul</l>
+                     <l>în care te apleci, sunt, poate, golful</l>
+                     <l>de liniște.</l>
+                  </lg>
+                  <lg>
+                     <l>Sunt umbra ta culcată pe nisip —</l>
+                     <l>sunt umbreluța</l>
+                     <l>cu care scrii distrată pe nisip —</l>
+                     <l>sunt muzica pe care-o iei de mână.</l>
+                  </lg>
+                  <lg>
+                     <l>Sunt lângă tine și-mi încarc pistolul —</l>
+                     <l>tu nu mă vezi;</l>
+                     <l>continui fila unde l-ai lăsat</l>
+                     <l>pe Werther.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Cântece simple: Mărior VI </head>
+                  <lg>
+                     <l>Și va veni o seară când voi pleca de-aici,</l>
+                     <l>fără să știu prea bine unde mă duc și nici</l>
+                     <l>de vine putrezirea, sau încolțirea vine:</l>
+                     <l>Tăcerea se va pune ca un pământ pe mine.</l>
+                     <l>Știu, o să vii în seară ca de-obicei, s-aduci</l>
+                     <l>pe tine umbra rece a frunzelor de nuci.</l>
+                     <l>Vei înțelege-ndată că-s dus, din nemișcare,</l>
+                     <l>la capul meu rămasă, ca-ntâia lumânare.</l>
+                     <l>N-ai să întrebi pe nimeni de ce-ți sunt de prisos</l>
+                     <l>genunchii copți, cerceii și sufletul frumos.</l>
+                     <l>Taci! Pentru noi priveliști se cer alte cuvinte,</l>
+                     <l>Mai bine-n tine, surde, aducerile-aminte,</l>
+                     <l>tumult. Dar ca un țipăt într-însul: te iubesc-</l>
+                     <l>și aș iubi o piatră cu scrisul ovreiesc.</l>
+                     <l>Toamna, în cimitirul urban din bariere,</l>
+                     <l>pune tristețea-n lespezi a stupilor cu miere,</l>
+                     <l>și în priviri, cârceii pământului rotund-</l>
+                  </lg>
+                  <lg>
+                     <l>și nu pot mai departe de moarte să m-ascund</l>
+                  </lg>
+                  <trailer>1922</trailer>
+               </div>
+               <div type="div3">
+                  <head>Gospodărie</head>
+                  <subtitle>Mărior</subtitle>
+                  <lg>
+                     <l>Frunzele din salcâmii cei mari, cu fața-ntoarsă,</l>
+                     <l>întineresc prin geamuri, umbra odăii, roasă,</l>
+                     <l>tăcerea: ca-n biserici, cu cimitire mici,</l>
+                     <l>cu piatră veche, cu pustiu și cu urzici.</l>
+                     <l>Cine a scris pe piatră cu litere slavone?</l>
+                     <l>Clipele, în odaie, sunt reci și monotone,</l>
+                     <l>ca niște muște moarte din ani, pe-un sul cu clei.</l>
+                     <l>În porumbari - ții minte? - erau albi porumbei,</l>
+                     <l>mirosul ce lipsește se dezlâna în oale</l>
+                     <l>și sufletul, în lucruri de multă vreme goale.</l>
+                     <l>În scândură sunt găuri negre, pentru guzgani.</l>
+                     <l>Aș vrea să mă joc simplu cu iepurii bălani,</l>
+                     <l>să pun storul, cu pete de soare, la fereastră,</l>
+                     <l>și somnul tău, frumoasă, în camera turcească.</l>
+                     <l>Dar nu deschide geamul spre aer. Să dormim</l>
+                     <l>ca sub două vechi pietre. Iar micul țintirim</l>
+                     <l>pe noi, crească urzică, buchi slavonești și pace.</l>
+                     <l>Din mobile, odaia pustiul și-l desface</l>
+                     <l>și liniștea-i o apă veche, care-a stătut.</l>
+                     <l>Dar dacă poți, dă-mi mâna albă, să o sărut.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Ora de vizită </head>
+                  <subtitle>lui Gala Galaction</subtitle>
+                  <lg>
+                     <l>În seara asta capul ca o lampă </l>
+                     <l>își arde restul fumegos de gaz — </l>
+                     <l>și cineva a pus mâna pe clampă, </l>
+                     <l>și cineva m-atinge pe obraz.</l>
+                  </lg>
+                  <lg>
+                     <l>În seara asta lungă, cineva </l>
+                     <l>tușește-n mine, scuipă și-și dă duhul, </l>
+                     <l>și nici măcar n-aș vrea să fug — n-aș vrea </l>
+                     <l>s-ajung din nou cu mânele văzduhul!</l>
+                  </lg>
+                  <lg>
+                     <l>Stau în odaie ca-ntr-un tren în care </l>
+                     <l>aștept în geam să crape-un peisaj, </l>
+                     <l>și-mi țin în mână sufletul de soare — </l>
+                     <l>sărmanul pașaport pentru voiaj.</l>
+                  </lg>
+                  <lg>
+                     <l>Mă doare liniștea crescută-n mine — </l>
+                     <l>mă doare întunericul crescut, </l>
+                     <l>ca o mocirlă-n care dorm pe vine </l>
+                     <l>bivolii negri de necunoscut.</l>
+                  </lg>
+                  <lg>
+                     <l>O umbră parcă mi-a fugit din trup,</l>
+                     <l>și-n seara asta mi-i atât de bine,</l>
+                     <l>că parcă-aș vrea cu mânele să rup</l>
+                     <l>urzicile care-au crescut în mine.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Ce simplu...</head>
+                  <lg>
+                     <l>Ce simplu e amurgul acesta de sfîrșit</l>
+                     <l>de toamnă ! Boi, pe dealuri, duc arătura-n vid.</l>
+                     <l>Septembre strînge-n doniți strugurii toți din toamnă,</l>
+                     <l>și-n tălpile-i desculțe îi calcă sus, în cramă.</l>
+                     <l>Ploaia veni cu sînge și cu furnici, din Sud ;</l>
+                     <l>cîte-un pîndar împușcă tăcerea ca un surd,</l>
+                     <l>și liniștea s-adună din mii de cioburi sparte.</l>
+                     <l>O fată, ici, în cîmpuri, a adormit pe spate,</l>
+                     <l>și-acum o duc țăranii pe umeri,</l>
+                     <l>pe sicriu</l>
+                     <l>un clopot își desfoaie buchetul arămiu,</l>
+                     <l>să prelungească parcă amiaza din vecerne ;</l>
+                     <l>e miros tare umed din fînuri ; e devreme,</l>
+                     <l>și-i lîngă raclă bine oriunde te întorci.</l>
+                     <l>Ca totdeauna, viața-i cu garduri și cu porci,</l>
+                     <l>cu vișini și neveste care au țîța seacă.</l>
+                     <l>În anotimp, simți pasul lui Dumnezeu cum calcă</l>
+                     <l>și numără pe mînă cîștigul din fîneți :</l>
+                     <l>mălai e pentru oameni și mei pentru stigleți.</l>
+                     <l>Cirezi halucinate mugesc pe după vie ;</l>
+                     <l>femei goale, în lanuri, au pielea pămîntie,</l>
+                     <l>și ai putea pămîntul în pielea lor să-l ai.</l>
+                     <l>Un popă — poate Naiba — cu mintea spre mălai,</l>
+                     <l>peste sicriu, cu brațul întins, blagoslovește.</l>
+                     <l>Din curba lui, pămîntul s-a-ntins, se umflă, crește,</l>
+                     <l>și cheamă către dînsul oamenii de noroi.</l>
+                     <l>Și oamenii se culcă cu sufletu-n noroi,</l>
+                     <l>îl scuipă, îl sărută, îl blastămă, îl iartă —</l>
+                  </lg>
+                  <lg>
+                     <l>și bulgării de noapte se prăbușesc pe moartă.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Corespondențe</head>
+                  <lg>
+                     <l>Eu sânt ca un sălbatec, prăpăstios castel,</l>
+                     <l>Din care cavalerul e dus în cruciadă.</l>
+                     <l>Se năruie clădirea și stâlpii stau să cadă.</l>
+                     <l>Și-au prins rugină roibă lăcățile de-oțel.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah, surlele sonore din zilele de pradă!</l>
+                  </lg>
+                  <lg>
+                     <l>S-a ros desenul sombru pe vechi tapițerii,</l>
+                     <l>Și-au devenit postume chitarele truvere.</l>
+                     <l>Prin bolți, ruina-și cântă fatalul "miserere".</l>
+                     <l>Și nu mai ies la geamuri virginele zglobii.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah, nopțile nebune de patimi și plăcere!...</l>
+                  </lg>
+                  <lg>
+                     <l>Departe, ceru-i roșu ca sângele de brav.</l>
+                     <l>Departe-s oști în zale și lupte-nsângerate...</l>
+                     <l>Târziu, o gheunoaie a prins grăbit a bate;</l>
+                     <l>Și-i miros de carnagiu și plângere de sclav.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah, clopotele păcii în inimi picurate!...</l>
+                  </lg>
+                  <lg>
+                     <l>Cohorți de foi dansează prin goluri de cavou;</l>
+                     <l>Fotolurile-așteaptă și sapă-n ziduri carii,</l>
+                     <l>În lunga așteptare sânt înțelesuri varii,</l>
+                     <l>Și liniștea se umple de nălucit ecou.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah, oștile sosite cu flamuri la fruntarii!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Eglogă marină</head>
+                  <lg>
+                     <l>În van îți zbuciumi valurile, Mare!</l>
+                     <l>În van te zvârli spre sorii de mărgean,</l>
+                     <l>Din baltă grea nu crește ocean.</l>
+                     <l>Nici cer senin din bori tumultuare.</l>
+                  </lg>
+                  <lg>
+                     <l>E clopot surd și-i amplă fremătare,</l>
+                     <l>Ca-n vila dۥIs, cântată de Renan.</l>
+                     <l>Îți zbuciumi, Mare, valurile-n van!</l>
+                     <l>În van invoci istorica chemare.</l>
+                  </lg>
+                  <lg>
+                     <l>Și-a înecat Neptun, în val, tridentul.</l>
+                     <l>Tritonii-s morți; în ape, firmamentul</l>
+                     <l>Și-a mărginit verzuiul orizon.</l>
+                  </lg>
+                  <lg>
+                     <l>Sirena nu-și mai vaieră balada &#x96; </l>
+                     <l>Praxiteles e mort; e viu Mamon;</l>
+                     <l>Și-n Casinò se zbuciumă Helada.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Eva</head>
+                  <subtitle>Carmencitei</subtitle>
+                  <lg>
+                     <l>În părul tău e blonda auroră</l>
+                     <l>Și-n ochi &#x96; eternul nimb al strălucirii.</l>
+                     <l>Făptura ta o leagănă zefirii</l>
+                     <l>Și-n glasul tău e-o muzică sonoră.</l>
+                  </lg>
+                  <lg>
+                     <l>Pe trupul tău divin întreaga floră</l>
+                     <l>Și-a dat tributul ei sortit iubirii</l>
+                     <l>Și-n sânii tăi, tăria răzvrătirii</l>
+                     <l>Suprema năzuință ți-a dat soră.</l>
+                  </lg>
+                  <lg>
+                     <l>Spre fructul cald al poamei tentatrice</l>
+                     <l>Nu poate-oricine-n fapt să se ridice!</l>
+                     <l>Nu poate-oricine roadele să guste,</l>
+                  </lg>
+                  <lg>
+                     <l>De-a fi gravat &#x96; ca-n plăci de gramofoane &#x96; </l>
+                     <l>Dospit în carnea bestiei auguste &#x96;</l>
+                     <l>Sonorul ritm al speciei umane!</l>
+                  </lg>
+               </div>
+               <div type="div3" rend="P16">
+                  <head>Herța </head>
+                  <subtitle>(fragmente) </subtitle>
+                  <div type="div4">
+                     <head>I</head>
+                     <lg>
+                        <l>În târg miroase-a ploaie, a toamnă și a fân.</l>
+                        <l>Vântul nisip aduce, fierbinte, în plămân,</l>
+                        <l>și fetele așteaptă în ulița murdară</l>
+                        <l>tăcerea care cade în fiecare seară,</l>
+                        <l>și factorul, cu gluga pe cap, greoi și surd.</l>
+                        <l>Căruțe fugărite de ploaie au trecut,</l>
+                        <l>și liniștea în lucruri de mult mucegăiește.</l>
+                        <l>În case oameni simpli vorbesc pe ovreiește.</l>
+                        <l>Gâște, cu pantofi galbeni, vin lent după-un zaplaz;</l>
+                        <l>auzi cum ploaia stinge fanarele cu gaz,</l>
+                        <l>cum învechește frunza în clopote de-aramă,</l>
+                        <l>auzi tăcerea lungă și gri care e toamnă</l>
+                        <l>și diligența care vine din Dorohoi.</l>
+                        <l>Pustiu, din șes, se urcă cirezile de boi,</l>
+                        <l>și cum mugesc, cu capul întors, de parc-ar suge -</l>
+                        <l>cu ochii roșii, târgul, cuprins de spaimă, muge.<lb/>
+                           <lb/>(...)</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>V</head>
+                     <lg>
+                        <l>În toamna asta ziua — de ce? — s-a micșorat.</l>
+                        <l>Câmpul pustiu și negru s-apropie de sat</l>
+                        <l>de parcă vrea prin garduri de lemn să se strecoare,</l>
+                        <l>să mai pătrundă încă o dată în hambare.</l>
+                        <l>Mai e ceva pe-aicea și nu-i din ce-a trecut;</l>
+                        <l>casele, după geamuri, au dușumea de lut,</l>
+                        <l>și au cerdacuri lângă camere goale, unse</l>
+                        <l>cu baligă, de ploaie și de urzici împunse.</l>
+                        <l>Poate-ar mugi aicea, de-ar fi să fie, vaci;</l>
+                        <l>vița se ține-oloagă cu mâna de araci</l>
+                        <l>și-așteapt-acum, când țâța a încetat să-i crească,</l>
+                        <l>ploaie s-o-ngălbenească, ploaie s-o putrezească.</l>
+                        <l>Șoseaua ca o talpă s-a rupt de-atâtea ploi.</l>
+                        <l>Trec porcii, cei cu suflet de baltă, spre noroi,</l>
+                        <l>trec porci urâți, să doarmă stupid într-o băltoacă -</l>
+                        <l>ca haosul pe lume din nou să se desfacă.</l>
+                        <l/>
+                        <l>(...)</l>
+                        <l/>
+                        <l>(...)</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>În evul mediu </head>
+                  <lg>
+                     <l>În mintea mea se deapănă icoane</l>
+                     <l>Din ce în ce tot mai extravagante;</l>
+                     <l>Mă văd în echipaje elegante</l>
+                     <l>Împodobite în luciuri de blazoane.</l>
+                  </lg>
+                  <lg>
+                     <l>Pe cai și-n litiere văd baroane</l>
+                     <l>La gât cu sclipitoare diamante.</l>
+                     <l>Iar eu pudrat alăturea de-un fante</l>
+                     <l>Admir vârtejul sec de milioane.</l>
+                  </lg>
+                  <lg>
+                     <l>Eu sunt marchiz și tu-o castelană;</l>
+                     <l>Și când tu-mi zbuciumi inima-mi sărmană,</l>
+                     <l>Lăsându-te la pieptul fiecărui,</l>
+                  </lg>
+                  <lg>
+                     <l>În față-ți mă înclin cu-o reverență,</l>
+                     <l>Și mă întorn râzând, pe când tu stărui</l>
+                     <l>În urma mea: &#x84;Ah, ce impertinență!&#x94;</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>În metru antic</head>
+                  <lg>
+                     <l>Iarăși se scutură frunza de visuri,</l>
+                     <l>Toamna, în poala de aur, le strânge.</l>
+                     <l>Vânăt își scutură frunzele iarăși</l>
+                     <l>Arborul vieții.</l>
+                  </lg>
+                  <lg>
+                     <l>Lasă-le-n vânturi să plece, o, lasă!</l>
+                     <l>Cântă ca altele-n cântec să nască.</l>
+                     <l>Nu cu un cântec de liră zidit-a</l>
+                     <l>Amphion, Theba?</l>
+                  </lg>
+                  <lg>
+                     <l>Crinii în vară pe moarte-s. Ce-ți pasă!</l>
+                     <l>Nu simți cum rozele-și urcă aroma?</l>
+                     <l>Dac-o iluzie piere &#x96; tu cheamă,</l>
+                     <l>Oaspete, alta.</l>
+                  </lg>
+                  <lg>
+                     <l>Umblă pe mare greoaie corăbii;</l>
+                     <l>Suie tu însuți și umflă catargul!...</l>
+                     <l>Oricine sieși dator e să-și afle</l>
+                     <l>Lâna de aur.</l>
+                  </lg>
+                  <lg>
+                     <l>Visul tău, însă, ca vinul de Caecub,</l>
+                     <l>Steie apururi sub lacăte-o sută.</l>
+                     <l>Ține-l pân-iese și ultimul lacăt &#x96; </l>
+                     <l>Lacătul morții!...</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Înserare</head>
+                  <lg>
+                     <l>În liniștea de noapte și de vise</l>
+                     <l>Amurgul țese trombele-i de fum...</l>
+                     <l>Pe pajiști sunt miresme de narcise,</l>
+                     <l>În aer: vis, culoare și parfum.</l>
+                  </lg>
+                  <lg>
+                     <l>Ard flăcări vii pe creștete de dealuri,</l>
+                     <l>Sub străvezii lăuntruri de cristal;</l>
+                     <l>În depărtări sclipirile de valuri</l>
+                     <l>Au licăriri de lame de pumnal.</l>
+                  </lg>
+                  <lg>
+                     <l>În pacea asta calmă și divină,</l>
+                     <l>Cu arome senzuale de serai,</l>
+                     <l>Cum cresc acorduri vagi de violină</l>
+                     <l>Și pier în noaptea limpede de mai!...</l>
+                  </lg>
+                  <lg>
+                     <l>Nu-i parfumatul cântec ce pe clape</l>
+                     <l>L-am fost cântat pe vremuri amândoi;</l>
+                     <l>Ci-i noaptea ce scoboară peste ape</l>
+                     <l>Cu fâșâit de surse și de foi.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lui Armand Pascal, în moarte... </head>
+                  <lg>
+                     <l>Eram un grandios poet născut să cânte bucuria,</l>
+                     <l>dar în chilia mea suspin.</l>
+                     <l>Buchetele cu apa mării se ofilesc și mor în cupe,</l>
+                     <l>cărarea inimii se-ndreaptă către Père-Lachaise;</l>
+                     <l>e porumbaru-acolo, dară fără porumbei;</l>
+                     <l>acolo moartea e atât de pură -</l>
+                     <l>Armand, ai fost incinerat aici.</l>
+                  </lg>
+                  <lg>
+                     <l>Iată viața ta imensă care topește siguranța -</l>
+                     <l>știi să vâslești, știu bine, dar cât de lung e fluviul,</l>
+                     <l>eram striviți de-această lumină inumană -</l>
+                     <l>de ce să cânți în gura mare? Cu beregata plină</l>
+                     <l>de nerăbdarea melodiei?</l>
+                  </lg>
+                  <lg>
+                     <l>Și dacă-i mâniem pe zei?</l>
+                     <l>Cu tine până la sfârșit aș fi putut iubi minunea,</l>
+                     <l>dar te-a luat viața drept o țintă vie</l>
+                     <l>și chiar în moarte tu ești pururi viu!</l>
+                  </lg>
+                  <lg>
+                     <l>N-am alergat spre tine ca un prunc?</l>
+                     <l>Din inimă, o jumătatea, cea pură, ți-o dădusem ție.</l>
+                     <l>Spitalul, spaimă albă, galben</l>
+                     <l>în parcul cu bolnavi, glasul tău, treaz;</l>
+                     <l>lasă-mă lângă vocea ta;</l>
+                     <l>splendid, te hârjoneai cu cerul ce-ți sta-n față;</l>
+                     <l>aș vrea să dorm lângă mâinile tale.</l>
+                  </lg>
+                  <lg>
+                     <l>Perdeaua se lăsa, sfârșitul se-apropia grăbit, și totuși,</l>
+                     <l>aplauda într-una viața, aplauda necontenit,</l>
+                     <l>în larma de autobuze, sfărâmături și întâmplări,</l>
+                     <l>aplauda, fără oprire;</l>
+                     <l>de ce să nu te-arăți la rampă</l>
+                     <l>de câte ori te cheamă spectatorii?</l>
+                     <l>Eram singur, peste corpul meu măturau sala,</l>
+                     <l>mă simțeam atât de murdar, că te lăsasem să pleci!</l>
+                  </lg>
+                  <lg>
+                     <l>Prietene, prietene, venisem din mare depărtare împreună,</l>
+                     <l>ca brațele crucișe de foarfecă-mbinați,</l>
+                     <l>ca sâmburii-ntr-un fruct;</l>
+                     <l>frângând în jumătate pâinea, visul,</l>
+                     <l>noi ne-am iubit mereu, ne-am înfruntat,</l>
+                     <l>sângele fiarei ar fi fost supus de tinerețea noastră,</l>
+                     <l>și leului noi i-am fi smuls mănușa,</l>
+                     <l>aveam cu ce să cucerim ceva mai mult decât o lume,</l>
+                     <l>să bicium oceanul îndărătnic.</l>
+                  </lg>
+                  <lg>
+                     <l>Făptura ta de apă dulce și bolovani sălbăticiți</l>
+                     <l>alăturea de mine-n mizerie a fost,</l>
+                     <l>alăturea de mine-n imposibil,</l>
+                     <l>mizeria era nendurătoare,</l>
+                     <l>dar noi trăiam atât de bine strânși laolaltă-ntr-o păstaie!</l>
+                  </lg>
+                  <lg>
+                     <l>Aveai ochi blânzi, copile,</l>
+                     <l>auzi tu, de acolo de unde ești, oceanul?</l>
+                     <l>Ești cel puțin la fel de viu ca mine,</l>
+                     <l>ești râsul meu, ești amintirea mea,</l>
+                     <l>sunt plin de moartea ta,</l>
+                     <l>te port mai sus de umeri,</l>
+                     <l>urăsc moartea, urăsc viața,</l>
+                     <l>nemăsurată milă mi-e de oameni,</l>
+                     <l>mă urăsc și mă iubesc,</l>
+                     <l>tu iartă-mă că-s viu și scriu poeme,</l>
+                     <l>m-am rupt bucăți, dar n-am murit,</l>
+                     <l>mi-e gura mucezită și amară,</l>
+                     <l>zac scufundat în glod până la brâu,</l>
+                     <l>în murdărie.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Lui Ilarie Voronca </head>
+                  <lg>
+                     <l>...În noaptea asta am văzut copaci smulgându-se din brazdă,</l>
+                     <l>focul rupsese coaja mării</l>
+                     <l>și aerul își pitulase țeasta-n nisip,</l>
+                     <l>așa,-n neștire.</l>
+                  </lg>
+                  <lg>
+                     <l>...A fost aievea sau a fost părere?</l>
+                     <l>Aș fi voit s-aprind o lampă,</l>
+                     <l>să caut, bâjbâind prin mușchi;</l>
+                     <l>era acolo lumea vegherii, a minunii,</l>
+                     <l>apele se culcau pe burtă,</l>
+                     <l>slove de flăcări ridicau în slavă Coasta de Cerneală,</l>
+                     <l>eu rătăceam fără vedere prin Pașii gărilor pierduți,</l>
+                     <l>și-i întrebam pe oameni spre care țel mă-ndrept,</l>
+                     <l>ce mă-ndemna să plec, să-mi las culcușul</l>
+                     <l>și să-mi hrănesc cu sloiuri nerăbdarea?</l>
+                     <l>Evreu, de bună seamă, dar totuși un Ulisse,</l>
+                     <l>zadarnic jupuisem de piele universul,</l>
+                     <l>pâini voiajau prin aer cu ochi întredeschiși,</l>
+                     <l>spațiul nu se putea mânca,</l>
+                     <l>sângele clănțănea în gol și-l presimțeam poros ca lutul,</l>
+                     <l>un pește uriaș izbea mereu cu vârful cozii lumea</l>
+                     <l>și urletu-i era slinos, prelung.</l>
+                  </lg>
+                  <lg>
+                     <l>...E-aici sfârșitul lumii, cu mine, pe balcon?</l>
+                     <l>Strigai după-ajutor cu glas pierdut,</l>
+                     <l>dar pentru ce să plâng, de ce să gem?</l>
+                     <l>O fericire neștiută îmi cuprinsese, lin, mijlocul,</l>
+                     <l>strigam că-s liber, fericit, dar groaza</l>
+                     <l>îmi arunca un soare crud,</l>
+                     <l>ce putrezea când l-atingeam cu mâna.</l>
+                     <l>Ce-aș fi putut să fac decât</l>
+                     <l>să izbucnesc în râs, cu poftă?</l>
+                     <l>SINGUR! Eram deodată-n lume singur,</l>
+                     <l>eu numai și cu râsul meu,</l>
+                     <l>singur eram și mă căzneam să aflu unde-i Dumnezeu.</l>
+                     <l>Sertarele-n sfârșit deschise, toate.</l>
+                     <l>Unde se-ascunde? Sfâșiam</l>
+                     <l>mucavaua ce-nvelea neantul.</l>
+                     <l>Unde se-ascunde, unde se strecoară?</l>
+                     <l>Unde să dau de cel</l>
+                     <l>ce pleoapa-mi apăsase-atâta vreme?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Marină</head>
+                  <subtitle>Reminiscență</subtitle>
+                  <lg>
+                     <l>Crezi tu c-afară-i toamnă, fiindc-ai toamnă-n suflet,</l>
+                     <l>crezi tu că marea plânge fiindcă-n suflet plângi.</l>
+                     <l>Și crezi că-n cazinouri</l>
+                     <l>se plâng viori obscure în seară, fiindcă-nrouri</l>
+                     <l>cu lacrimi pure ochii?</l>
+                  </lg>
+                  <lg>
+                     <l>Afară marea geme, afară marea plânge,</l>
+                     <l>ori un triton năduful și-l vaieră-ntr-o concă.</l>
+                     <l>Sunt sigur c-o femeie s-a înecat și plânge,</l>
+                     <l>și plânge că se îneacă prin alge și prin concă.</l>
+                     <l>Pe val, pătrarul lunii, din fund, îi pare-o sponcă</l>
+                     <l>desprinsă-n val, din rochii.</l>
+                     <l>De aur, peste valuri, plutesc, multipli, ochii.</l>
+                  </lg>
+                  <lg>
+                     <l>Dintr-o vioar-un cântec s-a surghiunit în mări,</l>
+                     <l>ori poate-un suflet marea și-l slobodă-n vioare,</l>
+                     <l>căci plâng viori în mare și în viori plâng mări.</l>
+                     <l>Se cerne ploaia-arare.</l>
+                     <l>Afară-i toamnă, toamnă.</l>
+                     <l>Dinspre cetate-o vacă robust și jalnic muge,</l>
+                     <l>sunt mort, o vacă muge; se cerne ploaie; toamnă,</l>
+                     <l>sunt mort; și simt pământul prin infinit cum fuge.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Metru vechi </head>
+                  <subtitle>Mamei</subtitle>
+                  <lg>
+                     <l>Prietene, prietene, e toamnă —</l>
+                     <l>un sfert de ceas, și calul ne azvîrle</l>
+                     <l>la via veche unde, lîngă cramă,</l>
+                     <l>e anotimpul cald pentru șopîrle.</l>
+                  </lg>
+                  <lg>
+                     <l>Nu-i nimeni în hambare și în șură.</l>
+                     <l>Pustiu. E-o cîrciumă aici. Vom cere,</l>
+                     <l>în sticle vechi, cu lacăte la gură,</l>
+                     <l>puțină reverie și tăcere.</l>
+                  </lg>
+                  <lg>
+                     <l>E o podgorie întreagă-n cupă —</l>
+                     <l>ascult, ca-n vremuri vechi și cunoscute,</l>
+                     <l>cum fierbe vinul copilandru după</l>
+                     <l>cuiele puse-n cea din urmă bute.</l>
+                  </lg>
+                  <lg>
+                     <l>În cupa asta udă, Amintirea,</l>
+                     <l>imagini, amintiri mai false, cearcă</l>
+                     <l>să puie-n via veche însorirea</l>
+                     <l>și sufletul cel tînăr, de la poarcă.</l>
+                  </lg>
+                  <lg>
+                     <l>Tata e-acolo, lîngă crama veche.</l>
+                     <l>Îl văd cum chibzuiește cu vierul</l>
+                     <l>(cu fierberea din vrană la ureche)</l>
+                     <l>dacă sunt semne că se schimbă cerul.</l>
+                  </lg>
+                  <lg>
+                     <l>În toamna șeasă ca o apă-ntinsă,</l>
+                     <l>nucii în pace-și desfoiau amarul</l>
+                     <l>pe iazul liniștit, cu apă linsă.</l>
+                     <l>De undeva, din fund, gornea pîndarul.</l>
+                  </lg>
+                  <lg>
+                     <l>Veneam cu tata-ngîndurați spre casă.</l>
+                     <l>Tata tăcea. Tăceam. Și toamna numa</l>
+                     <l>ofta uscat, din frunze de mătasă.</l>
+                     <l>Soseam cu liniștea pe noi și bruma.</l>
+                  </lg>
+                  <lg>
+                     <l>Ci uită-te, prietene, n-ai teamă :</l>
+                     <l>aracii cad în drumuri ? Via-i gata ?</l>
+                     <l>Și spune-mi : rîde cineva prin cramă ?</l>
+                     <l>Aș vrea, deși — știu bine — nu e tata,</l>
+                  </lg>
+                  <lg>
+                     <l>și nu e crama veche, nu-i vierul,</l>
+                     <l>nu-s goarnele în fund, nu-i bucuria,</l>
+                     <l>și uite, poate nu mai vrea nici cerul</l>
+                     <l>să coacă toamna și să coacă via.</l>
+                  </lg>
+                  <trailer>1921</trailer>
+               </div>
+               <div type="div3">
+                  <head>Muza</head>
+                  <lg>
+                     <l>Într-un apus de soare veni de mine-aproape;</l>
+                     <l>În ochi filtra azurul și zvon curat de ape</l>
+                     <l>Avea în glasu-i dulce ca notele de flaut.</l>
+                     <l>Copil &#x96; cercam zadarnic în ochii ei să caut</l>
+                     <l>Neînțeleasa taină ce mi-ascundea natura;</l>
+                     <l>O trestie bătută de vânt părea statura,</l>
+                     <l>Când ea c-un gest șăgalnic îmi potrivi pe gură,</l>
+                     <l>Cercând să suflu-n doină melodică și pură,</l>
+                     <l>Un flaut peste care neiscusita mână</l>
+                     <l>Cânta călăuzită, în farmecu-i, de zână...</l>
+                     <l>De-atunci pe-al zânei flaut trec mâini neinspirate</l>
+                     <l>Și-n note port ecouri din zări îndepărtate</l>
+                     <l>Cercând să-ntruchipeze pe clapele sonore</l>
+                     <l>Frumosul vis din vraja superbei aurore.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Natură moartă </head>
+                  <lg>
+                     <l>o sticlă de porto și un banjo</l>
+                     <l>trupeșe gutui din Van Gogh pe o masă</l>
+                     <l>inima în topire lămpile —</l>
+                     <l>ăst han troienit pe-o vâlcea din Tyrol —</l>
+                     <l>unde sunt palmierii și nisipurile</l>
+                     <l>prospectele de călătorii</l>
+                     <l>a fost de ajuns ca un tren s-o ia razna de șine</l>
+                     <l>am făcut 8 km noaptea pe jos</l>
+                     <l>viforul era un matelot în ștreanguri</l>
+                     <l>tovarășii mei din tren erau iugoslavi</l>
+                     <l>niște studenți</l>
+                     <l>vorbeau de ciorba lor de sfeclă</l>
+                     <l>vorbele noastre erau păsări moarte de ger</l>
+                  </lg>
+                  <lg>
+                     <l>o sticlă și un banjo pe perete —</l>
+                     <l>fiică a hangiului accent austriac</l>
+                     <l>arbust din Adlersberg fruct de zăpadă</l>
+                     <l>cutezanță de a te pârgui printre catastrofe</l>
+                     <l>țâșnire a gleznelor</l>
+                     <l>ghicesc acolo pielea ta tulbure ca o privire</l>
+                     <l>inima mea sau pendula</l>
+                     <l>drăguțul tău ce ți l-aș lua-n cuțit</l>
+                     <l>n-am omorât niciodată pe nimeni</l>
+                     <l>alcoolul mi se urcă la cap sau gleznele tale</l>
+                  </lg>
+                  <lg>
+                     <l>nimeni nu e scutit de accident</l>
+                     <l>noapte fără cămașă pe ea pe acoperișul zgâlțâit</l>
+                     <l>păsări din mările australe</l>
+                     <l>poate nițel prea albe</l>
+                     <l>ești atât de singur încât ți-ai uitat rolul</l>
+                     <l>despre ce voiai oare să vorbești pământul se clatină</l>
+                     <l>iată că el deja îți strigă-n trup —</l>
+                     <l>o sticlă și-un banjo</l>
+                     <l>și-această voce a nimănui</l>
+                     <l>acolo-i trecutul meu cu care nu mai am ce să fac</l>
+                     <l>sângele lui ciuruiește zăpada —</l>
+                  </lg>
+                  <lg>
+                     <l>e-un înecat ce nu mai vrea să-l scoți la mal</l>
+                     <l>privire de sus, în care păsările se rotesc</l>
+                     <l>de și-ar pierde acolo capul —</l>
+                     <l>liniște s-o tai cu diamantul</l>
+                     <l>timpul parcă dă cu banul în gol</l>
+                     <l>pe stâncile devenirii stau ciute suspendate</l>
+                     <l>nu se trăiește-aici decât din vânătoare</l>
+                     <l>nu se moare de întâmplare</l>
+                     <l>de pahar sau neprihănire de poveri sau măciucă</l>
+                     <l>toate drumurile sunt megafoane</l>
+                     <l>fiece piatră un sertar ce deschide-un abis</l>
+                     <l>nu vrei să vii cu mine în Montmartre</l>
+                     <l>e tot un tyrol pentru turiști englezi</l>
+                     <l>vino vom deschide un bar american</l>
+                     <l>în care vom asculta cântecul de cocteiluri</l>
+                     <l>încăierările se vor lăsa cu morți</l>
+                     <l>gusta-vei din scârba numită plăcere</l>
+                     <l>ne-om bate pentru frumusețea-ți perfidă și castă</l>
+                     <l>surâsul tău o să presare morți</l>
+                     <l>fiică de hangiu accent austriac</l>
+                     <l>care păstrezi pe chip un nu știu ce din alpi</l>
+                     <l>și până și-n obraji</l>
+                     <l>această fericire ce emană</l>
+                     <l>dintr-o butelcă și dintr-un banjo.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Pastel</head>
+                  <lg>
+                     <l>Privește, toamna vine și pune-n trestii flaut-</l>
+                     <l>Eu caut fără vrere și nici nu știu ce caut</l>
+                     <l>Ș-ascult cum vântul bate și sufletul din trestii.</l>
+                     <l>Adâncul umple urna tăcerilor acestii,</l>
+                     <l>Ca liniștea adâncă și fumurie a mării.</l>
+                     <l>Privește cum salcâmii se clatină la poartă-</l>
+                     <l>Pe apa din fântână se strânge frunza moartă</l>
+                     <l>Și paserile zboară ca-n fața unei iniști,</l>
+                     <l>Singurătatea cade ca un fruct copt de liniști,</l>
+                     <l>Arare, sfârticate, de-un chiot din podgorii.</l>
+                     <l>Pe căi de floare arsă, bicisnici, călătorii</l>
+                     <l>S-opresc s-asculte-ntinsul, ca-ntinderile mării,</l>
+                     <l>O roză-și cearcă haina în visul înserării,</l>
+                     <l>Și printr-un geam se uită prin colțurile casii.</l>
+                     <l>Amurgul, plin de taina îndepărtatei Asii,</l>
+                     <l>Adună pomii-n pâlcuri și-i prinde ca-ntr-o cange.</l>
+                     <l>Cireșii cresc ca-n țărmul haoticului Gange,</l>
+                     <l>Își pun scufii de floare și-și cearcă reverența;</l>
+                     <l>Și-atât de calmă-i ora, că parcă-i simți prezența.</l>
+                     <l>Și sufletul ți-l pipăi cu mâinile, eteric.</l>
+                     <l>O clipă, ca de-o umbră, te-ai rupt din întuneric,</l>
+                     <l>Căci iată, toamna vine și-și bate roibu-n pinteni</l>
+                     <l>Și pe aleea-n care dorm pomii albi și sprinteni,</l>
+                     <l>Supt stelele-n priveghe și-al lumii corn bucolic,</l>
+                     <l>În freamătul de frunză, greoi și melancolic,</l>
+                     <l>Ca zugrăviți în șagă cu vârful unei gresii,</l>
+                     <l>Simt umbra unui Faun și râsul Faunesii.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Piatra-Neamț </head>
+                  <lg>
+                     <l>Poate-ai rămas pe banca să visezi </l>
+                     <l>în toamnă </l>
+                     <l>sufletul frunzelor care-a căzut </l>
+                     <l>călcat de ploaie </l>
+                     <l>Poate-ai rămas aici, cu umbreluță </l>
+                     <l>să numeri prundul </l>
+                     <l>ori stropii tari de ploaie, ca atâtea </l>
+                     <l>ciocuri de păsări </l>
+                     <l>Nici tu nu știi ce vrei, nici tu nu știi </l>
+                     <l>în toamnă </l>
+                     <l>poate-ai rămas pe bancă să visezi </l>
+                     <l>prundul și ploaia </l>
+                     <l>Poate-a crescut neliniștea în tine </l>
+                     <l>nici tu nu știi </l>
+                     <l>și țipă ploaia-n tine, țipă toamna </l>
+                     <l>țipă neliniștea </l>
+                     <l>Cu fruntea-n mâini și cotul pe genunchi </l>
+                     <l>nu-ntoarce capul </l>
+                     <l>Toamna-i în tine ca-ntr-un porumbar </l>
+                     <l>de ziuă </l>
+                     <l>Ascultă toamna! nu întoarce capul </l>
+                     <l>și nu privi </l>
+                     <l>Stau lângă tine și tu nu mă vezi </l>
+                     <l>pe bancă</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Preludiu</head>
+                  <subtitle>Donc ce sera par un clair jour d'été... (Verlaine)</subtitle>
+                  <lg>
+                     <l>Va fi-ntr-o zi frumoasă, nu-i așa?</l>
+                     <l>Va râde luna-n crengi de chiparoasă,</l>
+                     <l>Când vei veni molatec, somnoroasă,</l>
+                     <l>În sihăstria sufletului, grea.</l>
+                  </lg>
+                  <lg>
+                     <l>Și heruvimi cânta-vor: Osanà,</l>
+                     <l>Când vei veni încet, tumultuoasă...</l>
+                     <l>O, nu-i așa? Va fi o zi frumoasă</l>
+                     <l>În ziua-n care-alăture vom sta.</l>
+                  </lg>
+                  <lg>
+                     <l>Cu ochii beți de-a dragostei parfumuri,</l>
+                     <l>Vom strânge toate florile din drumuri,</l>
+                     <l>Pân' va sclipi pe cer întâia stea...</l>
+                  </lg>
+                  <lg>
+                     <l>Și de-ar fi toamnă-ori iarnă peste fire,</l>
+                     <l>Tot zi frumoasă fi-va - nu-i așa?</l>
+                     <l>În ziua cea dintâia de iubire...</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Psalmul leprosului </head>
+                  <epigraph>Și leprosul care va avea această plagă pe dânsul să aibă vestmintele rupte și să strige: necurat, necurat! Necurat să fie el, în tot timpul cât va fi această plagă pe dânsul; necurat este și va locui singur; afară din tabără să fie locuința lui.&#x94; (Leviticul 13-45)</epigraph>
+                  <lg>
+                     <l>Zorii</l>
+                     <l>au primenit izvoarele din jgiaburi,</l>
+                     <l>au spălat gâtul mierlei din pădure,</l>
+                     <l>au spart cu plugul proaspăt arătura,</l>
+                     <l>au pus în dosul plugurilor oameni,</l>
+                     <l>și-au pus în palmieri atâtea flăcări,</l>
+                     <l>de parcă ești în orice palmier,</l>
+                     <l>de parcă-n orice flacără ești, Doamne.</l>
+                  </lg>
+                  <lg>
+                     <l>Aș vrea să cad trăznit în fața ta,</l>
+                     <l>tu, care n-ai nici început, nici capăt. Și-aș vrea </l>
+                     <l>să te sărut în palmieri și-n flăcări,</l>
+                     <l>dar teamă mi-e să nu-ți mânjesc pământul,</l>
+                     <l>să nu-ți mânjesc curata buruiană,</l>
+                     <l>să nu-ți mânjesc gândacii de prin coji, </l>
+                     <l>și lucrurile de lumină, toate,</l>
+                     <l>pe care le-ai făcut în șase zile. </l>
+                  </lg>
+                  <lg>
+                     <l>Căci trupul meu se crapă de buboaie,</l>
+                     <l>și din obraji</l>
+                     <l>vinete coji au curs vânăt puroaie;</l>
+                     <l>și ochiul meu e de privire scurs,</l>
+                     <l>și mâna mea se razimă în bâtă.</l>
+                     <l>Sunt o mocirlă-n care cântă broaște</l>
+                     <l>și-s raci de lut și lipitori murdare,</l>
+                     <l>pucioasă e de secetă și soare.</l>
+                     <l>Și sufletul meu, broască, de urât</l>
+                     <l>orăcăie, o, Doamne, către tine.</l>
+                  </lg>
+                  <lg>
+                     <l>O, dac-ai fi și tu ca mine, Doamne!</l>
+                     <l>O, dac-ai fi și tu lepros ca mine</l>
+                     <l>și de-ai avea și tu buboaie multe</l>
+                     <l>și ochii scurși de lacrima luminei!</l>
+                     <l>O, dac-ai plânge când se surpă seara,</l>
+                     <l>când vitele se-ntorc din scăldătoare,</l>
+                     <l>când oamenii vin câte doi din câmp,</l>
+                     <l>când plânsul tău nu-i nimene să-l stângă...</l>
+                     <l>O, de-ai porni și tu pe drum, bicisnic...</l>
+                  </lg>
+                  <lg>
+                     <l>Câinii cei ciolănoși te-ar strânge-n garduri,</l>
+                     <l>drumeții din șosea te-ar ocoli,</l>
+                     <l>nu te-ar primi la rugă sinagoga.</l>
+                     <l>Fecioare, la fântâni, cu șolduri dure,</l>
+                     <l>de greață ar scuipa în sânii albi,</l>
+                     <l>și pruncii care au vorbit în rugă:</l>
+                     <l>&#x93;fii proslăvit, o, Doamne, ce-ai creat</l>
+                     <l>pământul și făpturile dintr-însul&#x94;,</l>
+                     <l>ar sta să-ți scuipe-n fața de văzduh</l>
+                     <l>și te-ar goni cu blèsteme și pietre.</l>
+                     <l>Da, Doamne, dac-ai fi lepros ca mine,</l>
+                     <l>ai fi gonit cu pietre.</l>
+                  </lg>
+                  <lg>
+                     <l>Au ce-am făcut eu, Doamne, că mă bântui</l>
+                     <l>cu bube, ca pe broaștele cu râie,</l>
+                     <l>cu ce-am păcătuit</l>
+                     <l>ca să mă rupă-n incisivi dulăii,</l>
+                     <l>ca să nu fiu primit în sinagogă,</l>
+                     <l>ca pân&#x92; și pruncii tăi să-mi svârle pietre,</l>
+                     <l>și ca fecioarele cu șolduri dure</l>
+                     <l>sperios să-ntoarcă-obrazul de la mine?</l>
+                  </lg>
+                  <lg>
+                     <l>Mă miluiește, Doamne, miluiește,</l>
+                     <l>și, dacă poți, mă curăță de boală.</l>
+                     <l>Dar nu-mi lua și bulgărul de viață</l>
+                     <l>ce-și risipește-n mine untdelemnul &#x96; </l>
+                     <l>cum nu-l iei nici furnicei, nici lăcustei.</l>
+                  </lg>
+                  <lg>
+                     <l>Știu bine, Doamne,</l>
+                     <l>că tu ești teafăr fiindcă-s eu lepros,</l>
+                     <l>că am ieșit egal din neființă,</l>
+                     <l>că prosternarea mea îți dă mărire,</l>
+                     <l>că neștiința mea îți dă știință,</l>
+                     <l>că slăbiciunea mea îți dă putere,</l>
+                     <l>că murdăria mea îți dă lumină.</l>
+                  </lg>
+                  <lg>
+                     <l>Și lasă-mi plânsul, frunză clătinată,</l>
+                     <l>tu, ce mi-ai scris să fiu cuibar de șerpi,</l>
+                     <l>tu, care-ai hotărât să fiu lepros,</l>
+                     <l>tu, care-ai pus în sufletul meu ura,</l>
+                     <l>tu, care-ai vrut să fiu ca dobitocul</l>
+                     <l>din împuțite vizuini de codri,</l>
+                     <l>fără de pui și fără fericire...</l>
+                     <l>Tu n-ai voit să fiu ca pomul tânăr,</l>
+                     <l>crescut vânos la curgere de ape.</l>
+                     <l>Tu n-ai voit să am și eu cocioabă,</l>
+                     <l>să pot intra și eu în sinagogă,</l>
+                     <l>să pot avea și eu copii sălbateci</l>
+                     <l>și vreo fecioară-n prag cu dure șolduri,</l>
+                     <l>și câni la gard, pe care să-i asmut</l>
+                     <l>când trec pe drum leproșii cu buboaie.</l>
+                  </lg>
+                  <lg>
+                     <l>Și, dacă vrei, atunci ascultă-mi voia,</l>
+                     <l>lasă făptura mea necurățată</l>
+                     <l>și dăruiește-mi moartea pământească,</l>
+                     <l>așa precum e hotărârea ta.</l>
+                     <l>Și-atuncea când mă voi desface-n noapte,</l>
+                     <l>prieten bun cu viermii cafenii,</l>
+                     <l>grâu pentru încolțirea care vine,</l>
+                     <l>când voi muri și eu ca și ceilalți,</l>
+                     <l>când n-am să-ți mai mânjesc pământul, Doamne,</l>
+                     <l>n-am să-ți mânjesc curata buruiană,</l>
+                     <l>n-am să-ți mânjesc din lucrurile toate &#x96; </l>
+                     <l>făcute-n șase zile de scriptură &#x96; </l>
+                     <l>atunci când voi veni la tine, Doamne, </l>
+                     <l>și când puroiul o să-mi fie sevă,</l>
+                     <l>o, pentru vina de-a fi fost lepros,</l>
+                     <l>tu, Doamne, dacă vrei să-mi faci dreptate,</l>
+                     <l>pe toți acei ce-mi asvârliră ură</l>
+                     <l>(ura celor puternici pentru slab)</l>
+                     <l>o, nu-i trimite-n flăcările roșii, </l>
+                     <l>o, nu-i supune dureros la cazne,</l>
+                     <l>ci cheamă laolaltă toți bărbații</l>
+                     <l>(acei din câmpuri și din sinagogi),</l>
+                     <l>drumeții care-mi ocoliră drumul, [...]</l>
+                     <l>dulăii care-au vrut să-mi rupă trupul,</l>
+                     <l>și lasă-i, Doamne, ca să mai învie,</l>
+                     <l>să mai trăiască înc-o dată-n lume,</l>
+                     <l>și, ca să știe ce e fericirea,</l>
+                     <l>îi fă pe toți leproși.</l>
+                  </lg>
+                  <lg>
+                     <l>Da, ca să știe ce e fericirea,</l>
+                     <l>îi fă pe toți, o, Doamne, fă-i leproși! [...]</l>
+                  </lg>
+                  <lg>
+                     <l>Dar iartă pe fecioarele cu șoldul</l>
+                     <l>de lapte alb și țâtele de lapte,</l>
+                     <l>că ele n-au vrut nici un rău să-mi facă,</l>
+                     <l>că ele, Doamne, nu știau ce fac,</l>
+                     <l>și chiar dacă-mi fugeau sperios din cale,</l>
+                     <l>eu mă opream din drum,</l>
+                     <l>și în genunchi, pe urma din pământ,</l>
+                     <l>le sărutam picioarele desculțe.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Reverie</head>
+                  <lg>
+                     <l>O, cât aș vrea, în calm, să mor pe dună,</l>
+                     <l>Spre largul leneș al Mediteranii,</l>
+                     <l>Când asfințitu-ntunecă platanii</l>
+                     <l>Și noaptea crește albă pe lagună.</l>
+                  </lg>
+                  <lg>
+                     <l>S-ascult vuind din volburi de genună</l>
+                     <l>Cetăți în clocot, clopote, litanii;</l>
+                     <l>Când Atlantide mucede și stranii</l>
+                     <l>Își profilează stârvurile-n lună.</l>
+                  </lg>
+                  <lg>
+                     <l>S-ascult, agonic, vuiet de gondole</l>
+                     <l>Și brusc  în ritmul lent de barcarole,</l>
+                     <l>Sirenele să-și fluture năframa.</l>
+                  </lg>
+                  <lg>
+                     <l>În vraja caldă-a notelor rebele,</l>
+                     <l>Ca un copil naiv să nu-mi dau seama!</l>
+                     <l>Și să m-arunc în mare după ele.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Rondel de toamnă</head>
+                  <lg>
+                     <l>Îți plânge toamna în priviri</l>
+                     <l>Și-ți moare leneș la fereastră,</l>
+                     <l>În odăița ta albastră</l>
+                     <l>Plivești bolnavii trandafiri.</l>
+                  </lg>
+                  <lg>
+                     <l>Tu stai pe gânduri și te miri,</l>
+                     <l>Frumoasă pasăre sihastră.</l>
+                     <l>Îți plânge toamna în priviri</l>
+                     <l>Și-ți moare leneș la fereastră.</l>
+                  </lg>
+                  <lg>
+                     <l>În cripta sfintelor iubiri</l>
+                     <l>Te poartă lin iubirea noastră.</l>
+                     <l>Și te-ofilești, precum în glastră</l>
+                     <l>Se sting bolnavii trandafiri —</l>
+                  </lg>
+                  <lg>
+                     <l>Îți plânge toamna în priviri...</l>
+                  </lg>
+                  <trailer>(Iași)</trailer>
+               </div>
+               <div type="div3">
+                  <head>Spleen</head>
+                  <lg>
+                     <l>Și sufletul, în gheara beznei, țipă:</l>
+                     <l>Zadarnic bați în mine ca-ntr-o poartă,</l>
+                     <l>strigoi cu ochii roși ai vremei; spartă</l>
+                     <l>tăcerea bate-n clopote o clipă.</l>
+                  </lg>
+                  <lg>
+                     <l>O, dac-un vis ciudat, ca o aripă</l>
+                     <l>ar rătăci ca-ntr-o vioară moartă</l>
+                     <l>în mine cel afurisit de soartă,</l>
+                     <l>bătut de lepră și lovit de gripă.</l>
+                  </lg>
+                  <lg>
+                     <l>Atunci, amic cu ploaia și cu vântul,</l>
+                     <l>pleșuv de bucurie și de viață,</l>
+                     <l>voi integra, ca-n Început, Cuvântul.</l>
+                  </lg>
+                  <lg>
+                     <l>Și-apoi, ca orice veselă paiață &#x96; </l>
+                     <l>vreau să-mi destram și sufletul, și cântul,</l>
+                     <l>și oasele &#x96; ghem animal de ață.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Urâtul</head>
+                  <lg>
+                     <l>În casa de tăcere cu iederi și urzici,</l>
+                     <l>plină cu somn de bufniți cârne, cu ochii mici, </l>
+                     <l>nimeni nu știe toamna când a intrat în casă,</l>
+                     <l>și anii de când surpă pereții, ca să iasă.</l>
+                     <l>Un clopot surd la masă și la culcat cheamă;</l>
+                     <l>avea și-atuncea spartă arama, și coclea, </l>
+                     <l>și-l ascultam, cu gura pe lespede, cum geme, </l>
+                     <l>să ție-n loc moluzul și curgerea de vreme.</l>
+                     <l>Motani de porțelană, cu ochii verzi, au tors</l>
+                     <l>plecarea-n lume-a celor ce nu s-au mai întors;</l>
+                     <l>dar s-auzeau, în seară, cu geamăt de lăuze,</l>
+                     <l>clapele-ntârziate pe mâini, ca niște buze.</l>
+                     <l>Poate e mama care moțăie-n jilț, aici - </l>
+                     <l>coase ciorapi de lână moale, pentru bunici.</l>
+                     <l>Dacă-ar cădea odată ploile roșcovane, </l>
+                     <l>prin mădulare-ar curge din nou, ca prin burlane,</l>
+                     <l>și-ai fi în casă singur, pustiu și monoton —</l>
+                  </lg>
+                  <lg>
+                     <l>ca-n insula vreunui sălbatic Robinson</l>
+                  </lg>
+                  <trailer>1921</trailer>
+               </div>
+               <div type="div3">
+                  <head>Vin norii ca clipe </head>
+                  <lg>
+                     <l>Vin norii, ah, norii</l>
+                     <l>Sălbatici în cete,</l>
+                     <l>Cu sumbrele plete</l>
+                     <l>În vânt &#x96; călătorii.</l>
+                  </lg>
+                  <lg>
+                     <l>Întunec-azurul</l>
+                     <l>Cu negre aripe,</l>
+                     <l>Vin norii ca clipe</l>
+                     <l>Schimbându-și conturul.</l>
+                  </lg>
+                  <lg>
+                     <l>Și picuri de ploaie</l>
+                     <l>Cad dese &#x96; ca suliți,</l>
+                     <l>Prin geamuri, pe uluți,</l>
+                     <l>Cărare își taie.</l>
+                  </lg>
+                  <lg>
+                     <l>Și noaptea coboară,</l>
+                     <l>O! Strania noapte,</l>
+                     <l>Cu molcome șoapte</l>
+                     <l>Și-otravă amară!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Toca</head>
+                  <lg>
+                     <l>Te rup din reverie, prietenă și soră,</l>
+                     <l>ființă despletită din somn și auroră,</l>
+                     <l>balcon în vis cu bucle de păsări pentru vid.</l>
+                     <l>În mușchii tăi ai cîntec, ureche ca un zid,</l>
+                     <l>și străluciri de pietre pierdute, ca o mînă.</l>
+                     <l>Se clatină în tine oceanele de lînă.</l>
+                     <l>În părul tău din care se împletiră corzi</l>
+                     <l>s-a mistuit privirea, salină de matrozi</l>
+                     <l>plecați să se usuce la soarele din tropic.</l>
+                     <l>Cît de departe-ți pare pămîntul microscopic</l>
+                     <l>de-aici, de unde omul e-un măscărici urît,</l>
+                     <l>și-orașul îngenunche cu frunzele pe rît,</l>
+                     <l>și forța lenevoasă de-a se căta pe sine,</l>
+                     <l>și moartea adormită cu coatele pe șine,</l>
+                     <l>c-ai vrea în tine-o sevă să urci cu ochi-nchiși...</l>
+                     <l>și sîngele prea vînăt și aspru, de iriși.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
