@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Macbeth</title>
+            <author>William Shakespeare</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-04T11:50:07Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-25T22:43:26.170719734</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Macbeth</head>
+         <author>William Shakespeare</author>
+         <div type="div1">
+            <head>Macbeth</head>
+            <p rend="center">Übersetzt von Dorothea Tieck</p>
+            <div type="div2">
+               <head>Personen</head>
+               <p rend="start">DUNCAN, König von Schottland</p>
+               <p rend="bold">MALCOLM</p>
+               <p rend="start">DONALBAIN, seine Söhne</p>
+               <p rend="bold">MACBETH</p>
+               <p rend="start">BANQUO, Anführer des königlichen Heeres</p>
+               <p rend="bold">MACDUFF</p>
+               <p rend="bold">LENOX</p>
+               <p rend="bold">ROSSE</p>
+               <p rend="bold">MENTETH</p>
+               <p rend="bold">ANGUS</p>
+               <p rend="start">CATHNESS, schottische Edelleute</p>
+               <p rend="justify">FLEANCE, Banquos Sohn</p>
+               <p rend="justify">SIWARD, Graf von Northumberland, Führer der englischen Truppen</p>
+               <p rend="justify">Der JUNGE SIWARD, sein Sohn</p>
+               <p rend="justify">SEYTON, ein Offizier in Macbeths Gefolge</p>
+               <p rend="justify">Macduffs kleiner SOHN</p>
+               <p rend="justify">Ein englischer ARZT</p>
+               <p rend="justify">Ein schottischer ARZT</p>
+               <p rend="justify">Ein KRIEGER</p>
+               <p rend="justify">Ein PFÖRTNER</p>
+               <p rend="justify">Ein ALTER MANN</p>
+               <p rend="justify">[Ein LORD</p>
+               <p rend="justify">Drei MÖRDER</p>
+               <p rend="justify">Verschiedene DIENER und BOTEN]</p>
+               <p rend="bold">LADY MACBETH</p>
+               <p rend="bold">LADY MACDUFF</p>
+               <p rend="start">KAMMERFRAU der Lady Macbeth</p>
+               <p rend="justify">HEKATE und drei HEXEN</p>
+               <p rend="start">Lords [und Ladies], Edelleute, Anführer und Soldaten, Mörder,<lb/>Gefolge und Boten.<lb/>
+               </p>
+               <p rend="justify">BANQUOS GEIST und andere ERSCHEINUNGEN</p>
+               <p rend="start">(Szene: Schottland, hauptsächlich in Macbeths Schloß.<lb/>Zu Ende des vierten Aktes: England)<lb/>
+               </p>
+            </div>
+            <div type="div2">
+               <head>Erster Akt</head>
+               <div type="div3">
+                  <head>Erste szene</head>
+                  <p rend="center">(Ein freier Platz, Donner und Blitz)</p>
+                  <p rend="center">(Drei Hexen treten auf.)</p>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Wann treffen wir drei uns das nächstemal</l>
+                     <l>Bei Regen, Donner, Wetterstrahl?</l>
+                  </lg>
+                  <lg>
+                     <l>ZWEITE HEXE</l>
+                     <l>Wenn der Wirrwarr ist zerronnen,</l>
+                     <l>Schlacht verloren und gewonnen.</l>
+                  </lg>
+                  <lg>
+                     <l>DRITTE HEXE</l>
+                     <l>Noch vor Untergang der Sonnen.</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Wo der Ort</l>
+                  </lg>
+                  <p rend="justify">ZWEITE HEXE<lb/>Die Heide dort!<lb/>
+                  </p>
+                  <p rend="justify">DRITTE HEXE<lb/>Da zu treffen Macbeth. Fort!<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Ich komme, Graupelz.<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Kröte ruft;—sogleich!<lb/>Schön ist wüst, und wüst ist schön.<lb/>Wirbelt durch Nebel und Wolkenhöhn!<lb/>
+                  </p>
+                  <p rend="justify">(Sie verschwinden.)</p>
+               </div>
+               <div type="div3">
+                  <head>Zweite szene</head>
+                  <subtitle>([Freies Feld] Ein Lager bei Fores)</subtitle>
+                  <subtitle>(Kriegsgeschrei hinter der Bühne.<lb/>Es treten auf der König Duncan, Malcolm, Donalbain,<lb/>Lenox, Gefolge; ein blutender Krieger kommt ihnen entgegen.)<lb/>
+                  </subtitle>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Wer ist der blutige Mann? Er kann berichten,</l>
+                     <l>Nach seinem Ansehn scheints, den neusten Stand</l>
+                     <l>Des Aufruhrs.</l>
+                  </lg>
+                  <lg>
+                     <l>MALCOLM</l>
+                     <l>Dies ist ja der Kämpfer,</l>
+                     <l>Der mich als kecker, mutiger Soldat</l>
+                     <l>Aus meinen Feinden hieb.—Heil, tapfrer Freund!</l>
+                     <l>Dem König gib Bericht vom Handgemenge,</l>
+                     <l>Wie du's verließest.</l>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>KRIEGER</l>
+                     <l>Es stand zweifelhaft;</l>
+                     <l>So wie zwei Schwimmer ringend sich umklammern,</l>
+                     <l>Erdrückend ihre Kunst. Der grause Macdonwald—</l>
+                     <l>Wert ein Rebell zu sein; ihn so zu stempeln,</l>
+                     <l>Umschwärmen, stets sich mehrend, der Natur</l>
+                     <l>Bosheiten ihn—ward aus den Westeilanden</l>
+                     <l>Von Kernen unterstützt und Galloglassen;</l>
+                     <l>Fortuna, scheußlichem Gemetzel lächelnd,</l>
+                     <l>Schien des Rebellen Hure; doch umsonst,</l>
+                     <l>Denn Held Macbeth—wohl ziemt ihm dieser Name—,</l>
+                     <l>Das Glück verachtend mit geschwungnem Stahl,</l>
+                     <l>Der heiß von seiner blutigen Arbeit dampfte,</l>
+                     <l>Er, wie des Krieges Liebling, haut sich Bahn,</l>
+                     <l>Bis er dem Schurken gegenüber steht,</l>
+                     <l>Und nicht eh schied noch sagt' er Lebewohl,</l>
+                     <l>Bis er vom Nabel auf zum Kinn ihn schlitzte</l>
+                     <l>Und seinen Kopf gepflanzt auf unsre Zinnen.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>O tapfrer Vetter! Würdger Edelmann!</l>
+                  </lg>
+                  <lg>
+                     <l>KRIEGER</l>
+                     <l>Wie dorther, wo der Sonne Lauf beginnt,</l>
+                     <l>Wohl schiffzertrümmernd Sturm und Wetter losbricht,</l>
+                     <l>So schwillt aus jenem Quell, der Trost verhieß,</l>
+                     <l>Trostlosigkeit. Merk, Schottlands König, merk:</l>
+                     <l>Kaum schlug Gerechtigkeit, mit Mut gestählt,</l>
+                     <l>In schmähliche Flucht die leichtgefüßten Kernen,</l>
+                     <l>Als Norwegs Fürst, den Vorteil auserspähend,</l>
+                     <l>Mit noch unblutiger Wehr und frischen Truppen</l>
+                     <l>Von neuem uns bestürmt.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Entmutigte</l>
+                     <l>Das unsre Feldherrn nicht, Macbeth und Banquo?</l>
+                  </lg>
+                  <lg>
+                     <l>KRIEGER</l>
+                     <l>Jawohl: wie Spatzen Adler, Hasen Löwen.</l>
+                     <l>Gradaus gesagt, muß ich von ihnen melden,</l>
+                     <l>Sie waren wie Kanonen, überladen</l>
+                     <l>Mit doppeltem Gekrach; so stürzten sie,</l>
+                     <l>Die Doppelstreiche doppelnd, auf den Feind.</l>
+                     <l>Ob sie in heißem Blute baden wollten,</l>
+                     <l>Ob auferbaun ein zweites Golgatha,</l>
+                     <l>Ich weiß es nicht.</l>
+                     <l>Doch ich bin matt, die Wunden schrein nach Hülfe.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Wie deine Worte zieren dich die Wunden;</l>
+                     <l>Und Ehre strömt aus beiden.—Schafft ihm Ärzte!</l>
+                  </lg>
+                  <p rend="justify">(Der Krieger wird fortgeführt. [Rosse tritt auf.])</p>
+                  <lg>
+                     <l>Wer nahet hier?</l>
+                  </lg>
+                  <lg>
+                     <l>MALCOLM</l>
+                     <l>Der würdge Than von Rosse.</l>
+                  </lg>
+                  <lg>
+                     <l>LENOX</l>
+                     <l>Welch Eilen deutet uns sein Blick! So müßte</l>
+                     <l>Der blicken, der von Wundern melden will.</l>
+                  </lg>
+                  <lg>
+                     <l>(Rosse tritt auf.)</l>
+                  </lg>
+                  <lg>
+                     <l>ROSSE</l>
+                     <l>Gott schütz den König!</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Von wannen, edler Than?</l>
+                  </lg>
+                  <lg>
+                     <l>ROSSE</l>
+                     <l>Von Fife, mein König,</l>
+                     <l>Wo Norwegs Banner schlägt die Luft und fächelt</l>
+                     <l>Kalt unser Volk.</l>
+                     <l>Norwegen selbst, mit fürchterlichen Scharen,</l>
+                     <l>Verstärkt durch den abtrünnigen Verräter,</l>
+                     <l>Den Than von Cawdor, begann den grausen Kampf,</l>
+                     <l>Bis ihm Bellonas Bräutigam, kampfgefeit,</l>
+                     <l>Entgegenstürmt mit gleicher Überkraft,</l>
+                     <l>Schwert gegen Schwert, Arm gegen drohnden Arm,</l>
+                     <l>Und beugt den wilden Trotz: mit einem Wort,</l>
+                     <l>Der Sieg blieb unser—</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Großes Glück!</l>
+                  </lg>
+                  <lg>
+                     <l>ROSSE</l>
+                     <l>—so daß</l>
+                     <l>Nun Sweno, Norwegs König, Frieden fleht;</l>
+                     <l>Doch wir gestatteten ihm nicht Begräbnis</l>
+                     <l>Der Seinen, bis er auf Sankt Columban</l>
+                     <l>Zehntausend Taler in den Schatz gezahlt.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Nicht frevle länger dieser Than von Cawdor</l>
+                     <l>An unsrer Krone Heil.—Port, künde Tod ihm an;</l>
+                     <l>Mit seiner Würde grüße Macbeth dann.</l>
+                  </lg>
+                  <lg>
+                     <l>ROSSE</l>
+                     <l>Ich eile, Herr, von hinnen.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Held Macbeth soll, was der verliert, gewinnen.</l>
+                  </lg>
+                  <p rend="justify">(Alle ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>Dritte szene</head>
+                  <subtitle>(Die Heide; Gewitter)</subtitle>
+                  <subtitle>(Die drei Hexen treten auf.)</subtitle>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Wo warst du, Schwester?</l>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>ZWEITE HEXE</l>
+                     <l>Schweine gewürgt.</l>
+                  </lg>
+                  <lg>
+                     <l>DRITTE HEXE</l>
+                     <l>Schwester, wo du?</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Ein Schifferweib, Kastanien hatt's im Schoß,</l>
+                     <l>Und schmatzt', und schmatzt', und schmatzt'—Gib mir, sagt ich;</l>
+                     <l>Pack dich, du Hexe! schreit das fette Weibsstück.</l>
+                     <l>Ihr Mann ist nach Aleppo, führt den "Tiger";</l>
+                     <l>Doch segl ich nach im Sieb, ich kanns,</l>
+                     <l>Wie eine Ratte ohne Schwanz;</l>
+                     <l>Ich tu's, ich tu's, und ich tu's.</l>
+                  </lg>
+                  <lg>
+                     <l>ZWEITE HEXE 'nen Wind kriegst von mir.</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Schön von dir!</l>
+                  </lg>
+                  <lg>
+                     <l>DRITTE HEXE</l>
+                     <l>Von mir 'nen andern.</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Ich hab selber all die andern.</l>
+                     <l>In alle Häfen blasen die,</l>
+                     <l>Jede Ecke kennen sie</l>
+                     <l>Auf des Seemanns Karte.</l>
+                     <l>Dörr wie Heu ihm jedes Glied!</l>
+                     <l>Nie komm auf sein Augenlid</l>
+                     <l>Schlaf bei Tage oder Nacht!</l>
+                     <l>Leben soll er fluchbedacht!</l>
+                     <l>Schwere Wochen, neunmal neun,</l>
+                     <l>Siech er, schwind er, schrumpf er ein!</l>
+                     <l>Wird auch nicht sein Schiff zerschmettert,</l>
+                     <l>Solls doch bleiben sturmumwettert!—</l>
+                     <l>Schau, was ich hab!</l>
+                  </lg>
+                  <lg>
+                     <l>ZWEITE HEXE</l>
+                     <l>Zeig her, zeig her!</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE 'nes Seemanns Daumen hab ich da, Schiffbruch litt er der Heimat nah!</l>
+                  </lg>
+                  <lg>
+                     <l>(Trommeln hinter der Szene.)</l>
+                  </lg>
+                  <lg>
+                     <l>DRITTE HEXE</l>
+                     <l>Trommeln—Ha,</l>
+                     <l>Macbeth ist da!</l>
+                  </lg>
+                  <lg>
+                     <l>ALLE DREI</l>
+                     <l>Unheilsschwestern, Hand in Hand</l>
+                     <l>Schwärmend über Meer und Land,</l>
+                     <l>Ziehen so rundum, rundum.</l>
+                     <l>Dreimal dein und dreimal mein,</l>
+                     <l>Und dreimal noch, so macht es neun!</l>
+                     <l>Still!—Der Zauber ist geknüpft.</l>
+                  </lg>
+                  <lg>
+                     <l>(Macbeth und Banquo treten auf.)</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>So wüst und schön sah ich noch keinen Tag.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Wie weit ists noch nach Fores?—Wer sind diese?</l>
+                     <l>So eingeschrumpft, so wild in ihrer Tracht?</l>
+                     <l>Die nicht Bewohnern unsrer Erde gleichen,</l>
+                     <l>Und doch drauf stehn? Lebt ihr? Wie? Seid ihr was,</l>
+                     <l>Das man darf fragen? Ihr scheint mich zu verstehn,</l>
+                     <l>Denn jede legt zugleich den rissigen Finger</l>
+                     <l>Auf ihren faltgen Mund—ihr solltet Weiber sein,</l>
+                     <l>Und doch verbieten eure Bärte mir,</l>
+                     <l>Euch so zu deuten.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Sprecht, wenn ihr könnt: Wer seid ihr?</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Heil dir, Macbeth, Heil! Heil dir, Than von Glamis!</l>
+                  </lg>
+                  <lg>
+                     <l>ZWEITE HEXE</l>
+                     <l>Heil dir, Macbeth, Heil! Heil dir, Than von Cawdor!</l>
+                  </lg>
+                  <lg>
+                     <l>DRITTE HEXE</l>
+                     <l>Heil dir, Macbeth, dir, künftgem König, Heil!</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Was schreckst du, Mann? Erregt dir Furcht, was doch</l>
+                     <l>So lieblich lautet?—In der Wahrheit Namen,</l>
+                     <l>Seid ihr Wahnbilder oder wirklich das,</l>
+                     <l>Was körperlich ihr scheint? Den edeln Kampffreund</l>
+                     <l>Grüßt ihr mit neuem Erb und Prophezeiung</l>
+                     <l>Von hoher Würd und königlicher Hoffnung,</l>
+                     <l>Daß er verzückt da steht; mir sagt ihr nichts!</l>
+                     <l>Wenn ihr durchschauen könnt die Saat der Zeit</l>
+                     <l>Und sagen: dies Korn sproßt und jenes nicht,</l>
+                     <l>So sprecht zu mir, der nicht erfleht noch fürchtet</l>
+                     <l>Gunst oder Haß von euch.</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Heil!</l>
+                  </lg>
+                  <lg>
+                     <l>ZWEITE HEXE</l>
+                     <l>Heil!</l>
+                  </lg>
+                  <lg>
+                     <l>DRITTE HEXE</l>
+                     <l>Heil!</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Kleiner als Macbeth, und größer.</l>
+                  </lg>
+                  <lg>
+                     <l>ZWEITE HEXE</l>
+                     <l>Nicht so beglückt, und doch weit glücklicher.</l>
+                  </lg>
+                  <lg>
+                     <l>DRITTE HEXE</l>
+                     <l>Könge erzeugst du, bist du selbst auch keiner.</l>
+                     <l>So, Heil, Macbeth und Banquo!</l>
+                  </lg>
+                  <lg>
+                     <l>ERSTE HEXE</l>
+                     <l>Banquo und Macbeth Heil!</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Bleibt, ihr einsilbgen Sprecher, sagt mir mehr:</l>
+                     <l>Mich macht, so hör ich, Sinels Tod zum Glamis;</l>
+                     <l>Doch wie zum Cawdor? Der Than von Cawdor lebt</l>
+                     <l>Als ein gesunder Mann; und König sein,</l>
+                     <l>Das steht so wenig im Bereich des Glaubens, Als</l>
+                     <l>Than von Cawdor. Sagt, von wannen euch</l>
+                     <l>Die wunderbare Kund ward? Weshalb</l>
+                     <l>Auf dürrer Heid ihr unsre Schritte hemmt</l>
+                     <l>Mit so prophetschem Gruß?—Sprecht, ich beschwör euch.</l>
+                  </lg>
+                  <lg>
+                     <l>(Die Hexen verschwinden.)</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Die Erd hat Blasen, wie das Wasser hat,</l>
+                     <l>So waren diese—wohin schwanden sie?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>In Luft, und was uns Körper schien, zerschmolz</l>
+                     <l>Wie Hauch im Wind. O wären sie noch da!</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>War so was wirklich hier, wovon wir sprechen?</l>
+                     <l>Oder aßen wir von jener giftgen Wurzel,</l>
+                     <l>Die die Vernunft bewältigt?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Eure Kinder,</l>
+                     <l>Sie werden Könige.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Ihr sollt König werden.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Und Than von Cawdor auch; hieß es nicht so?</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Ganz so in Weis' und Worten. Wer kommt da?</l>
+                  </lg>
+                  <lg>
+                     <l>(Rosse und Angus treten auf.)</l>
+                  </lg>
+                  <lg>
+                     <l>ROSSE</l>
+                     <l>Der König hörte hoch erfreut, Macbeth,</l>
+                     <l>Die Kunde deines Siegs, und wenn er liest,</l>
+                     <l>Wie im Rebellenkampf du selbst dich preisgabst,</l>
+                     <l>So streiten in ihm Staunen und Bewundrung,</l>
+                     <l>Was dir, was ihm gehört. Doch überschauend,</l>
+                     <l>Was noch am selbigen Tag geschehn, verstummt er:</l>
+                     <l>In Norwegs kühnen Schlachtreihn sieht er dich,</l>
+                     <l>Vor dem nicht bebend, was du selber schufest,</l>
+                     <l>Abbilder grausen Tods. Wie Wort auf Wort</l>
+                     <l>In schneller Rede, so kam Bot auf Bote,</l>
+                     <l>Und jeder trug dein Lob, im großen Kampf</l>
+                     <l>Für seinen Thron, und schüttets vor ihm aus.</l>
+                  </lg>
+                  <lg>
+                     <l>ANGUS</l>
+                     <l>Wir sind gesandt vom königlichen Herrn,</l>
+                     <l>Dir Dank zu bringen; vor sein Angesicht</l>
+                     <l>Dich zu geleiten nur, nicht dir zu lohnen.</l>
+                  </lg>
+                  <lg>
+                     <l>ROSSE</l>
+                     <l>Und als das Handgeld einer größern Ehre</l>
+                     <l>Hieß er, als Than von Cawdor dich zu grüßen:</l>
+                     <l>Heil dir in diesem Titel, würdger Than,</l>
+                     <l>Denn er ist dein.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Wie, spricht der Teufel wahr?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Der Than von Cawdor lebt; was kleidet Ihr</l>
+                     <l>Mich in erborgten Schmuck?</l>
+                  </lg>
+                  <lg>
+                     <l>ANGUS</l>
+                     <l>Der Than war, lebt noch;</l>
+                     <l>Doch unter schwerem Urteil schwebt das Leben,</l>
+                     <l>Das er verwirkt. Ob er im Bund mit Norweg,</l>
+                     <l>Ob, Rückhalt der Rebellen, er geheim</l>
+                     <l>Sie unterstützte, ob vielleicht mit beiden</l>
+                     <l>Er half zu seines Lands Verderb, ich weiß nicht;</l>
+                     <l>Doch Hochverrat, gestanden und erwiesen,</l>
+                     <l>Hat ihn gestürzt.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH (beiseit.)</l>
+                     <l>Glamis und Than von Cawdor:</l>
+                     <l>Das Höchst ist noch zurück.—Dank Eurer Müh!—</l>
+                     <l>Hofft Ihr nicht Euren Stamm gekrönt zu sehen,</l>
+                     <l>Da jene, die mich Than von Cawdor nannten,</l>
+                     <l>Nichts Mindres prophezeit?</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Darauf gefußt,</l>
+                     <l>Möcht es wohl auch zur Krone Euch entflammen,</l>
+                     <l>Jenseits dem Than von Cawdor. Aber seltsam!</l>
+                     <l>Oft, uns in eignes Elend zu verlocken,</l>
+                     <l>Erzählen Wahrheit uns des Dunkels Schergen,</l>
+                     <l>Verlocken erst durch schuldlos Spielwerk, um</l>
+                     <l>Vernichtend uns im Letzten zu betrügen.</l>
+                  </lg>
+                  <lg>
+                     <l>([Zu Rosse und Angus.])</l>
+                  </lg>
+                  <lg>
+                     <l>Vettern, ein Wort!</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH (beiseit.)</l>
+                     <l>Zweimal gesprochne Wahrheit,</l>
+                     <l>Als Glücksprologe zum erhabnen Schauspiel</l>
+                     <l>Von königlichem Inhalt.—Freund', ich dank Euch!</l>
+                  </lg>
+                  <lg>
+                     <l>(beiseit.)</l>
+                  </lg>
+                  <lg>
+                     <l>Die Anmahnung von jenseits der Natur</l>
+                     <l>Kann schlimm nicht sein—kann gut nicht sein.</l>
+                     <l>Wenn schlimm, Was gibt sie mir ein Handgeld des Erfolgs,</l>
+                     <l>Wahrhaft beginnend? Ich bin Than von Cawdor.</l>
+                     <l>Wenn gut, warum befängt mich die Versuchung?</l>
+                     <l>Deren entsetzlich Bild aufsträubt mein Haar,</l>
+                     <l>So daß mein festes Herz ganz unnatürlich</l>
+                     <l>An meine Rippen schlägt. Erlebte Greuel</l>
+                     <l>Sind schwächer als das Graun der Einbildung.</l>
+                     <l>Mein Traum, des Mord nur noch ein Hirngespinst,</l>
+                     <l>Erschüttert meine schwache Menschheit so,</l>
+                     <l>Daß jede Lebenskraft in Ahnung schwindet,</l>
+                     <l>Und nichts ist, als was nicht ist.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Seht den Freund,</l>
+                     <l>Wie er verzückt ist!</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH (beiseit.)</l>
+                     <l>Will das Schicksal mich</l>
+                     <l>Als König, nun, mag mich das Schicksal krönen,</l>
+                     <l>Tu ich auch nichts.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Die neue Würde engt ihn,</l>
+                     <l>Wie fremd Gewand sich auch nur durch Gewohnheit</l>
+                     <l>Dem Körper fügt.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH (beiseit.)</l>
+                     <l>Komme, was kommen mag;</l>
+                     <l>Die Stund und Zeit durchläuft den rauhsten Tag.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Edler Macbeth, wir harren Eurer Muße.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Habt Nachsicht—in vergeßnen Dingen wühlte</l>
+                     <l>Mein dumpfes Hirn. Ihr gütigen Herrn, Eur Mühn</l>
+                     <l>Ist eingeschrieben, wo das Blatt ich täglich</l>
+                     <l>Umschlag und lese.—Laßt uns nun zum König!—</l>
+                  </lg>
+                  <lg>
+                     <l>([Beiseit zu Banquo.])</l>
+                  </lg>
+                  <lg>
+                     <l>Denkt dessen, was geschah, und bei mehr Muße,</l>
+                     <l>Wenn einige Zeit es reifte, laßt uns frei</l>
+                     <l>Aus offner Seele reden!</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Herzlich gern.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Bis dahin still.—Kommt, Freunde!</l>
+                  </lg>
+                  <subtitle>(Alle ab.)</subtitle>
+               </div>
+               <div type="div3">
+                  <head>Vierte szene</head>
+                  <subtitle>(Fores, im Palast)</subtitle>
+                  <subtitle>(Trompeten. Es treten auf Duncan, Malcolm, Donalbain,<lb/>Lenox, Gefolge.)<lb/>
+                  </subtitle>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Ist Cawdor hingerichtet? Oder jene,</l>
+                     <l>Die wir beauftragt, noch nicht wieder da?</l>
+                  </lg>
+                  <lg>
+                     <l>MALCOLM</l>
+                     <l>Sie sind noch nicht zurück, mein Oberherr;</l>
+                     <l>Doch sprach ich einen, der ihn sterben sah,</l>
+                     <l>Der sagte mir, er habe den Verrat</l>
+                     <l>Freimütig eingestanden, um Eur Hoheit</l>
+                     <l>Verzeihn gefleht und tiefe Reu gezeigt.</l>
+                     <l>Nichts stand in seinem Leben ihm so gut,</l>
+                     <l>Als wie er es verlassen hat; er starb</l>
+                     <l>Wie einer, der sich auf den Tod geübt,</l>
+                     <l>Und wart das Liebste, was er hatte, von sich,</l>
+                     <l>Als wärs unnützer Tand.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Kein Wissen gibts,</l>
+                     <l>Der Seele Bildung im Gesicht zu lesen;</l>
+                     <l>Es war ein Mann, auf den ich gründete</l>
+                     <l>Ein unbedingt Vertraun.—</l>
+                  </lg>
+                  <lg>
+                     <l>(Es treten auf Macbeth, Banquo, Rosse und Angus.)</l>
+                  </lg>
+                  <lg>
+                     <l>Würdigster Vetter!</l>
+                  </lg>
+                  <lg>
+                     <l>([Es treten auf Macbeth, Banquo, Rosse und Angus.])</l>
+                  </lg>
+                  <lg>
+                     <l>Die Sünde meines Undanks drückte schwer</l>
+                     <l>Mich eben jetzt. Du bist so weit voraus,</l>
+                     <l>Daß der Belohnung schnellste Schwing erlahmt,</l>
+                     <l>Dich einzuholen. Hättst du wenger doch verdient,</l>
+                     <l>Daß ich ausgleichen könnte das Verhältnis</l>
+                     <l>Von Dank und Lohn! Nimm das Geständnis an:</l>
+                     <l>Mehr schuld ich, als mein Alles zahlen kann.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Dienst sowie Lehnspflicht lohnt sich selbst im Tun.</l>
+                     <l>Genug, wenn Eure Hoheit unsre Pflichten</l>
+                     <l>Annehmen will; und unsre Pflichten sind</l>
+                     <l>Die Söhn und Diener Eures Throns und Staates</l>
+                     <l>Und tun nur, was sie müssen, tun sie alles,</l>
+                     <l>Was Lieb und Ehrfurcht heischt.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Willkommen hier!</l>
+                     <l>Ich habe dich gepflanzt und will dich pflegen,</l>
+                     <l>Um dein Gedeihn zu fördern.—Edler Banquo,</l>
+                     <l>Nicht minder ist dein Wert, und wird von Uns</l>
+                     <l>Nicht minder anerkannt. Laß dich umschließen</l>
+                     <l>Und an mein Herz dich drücken.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Wachs' ich da,</l>
+                     <l>So ist die Ernte Euer.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Meine Wonne,</l>
+                     <l>Üppig im Übermaß, will sich verbergen</l>
+                     <l>In Schmerzenstropfen.—Söhne, Vettern, Thans</l>
+                     <l>Und ihr, die nächsten</l>
+                     <l>Unserm Thron, vernehmt:</l>
+                     <l>An Malcolm, Unsern Ältsten, übertragen</l>
+                     <l>Wir Unser Thronrecht; Prinz von Cumberland</l>
+                     <l>Heißt er demnach, und solche Ehre soll</l>
+                     <l>Nicht unbegleitet ihm verliehen sein,</l>
+                     <l>Denn Adelszeichen sollen, Sternen gleich,</l>
+                     <l>Auf jeden Würdigen strahlen.—Fort von hier</l>
+                     <l>Nach Inverness, und sei uns näher stets.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Mühsal ist jede Ruh, die Euch nicht dient.</l>
+                     <l>Ich selbst bin Euer Bote und beglücke</l>
+                     <l>Durch Eures Nahens Kunde meine Hausfrau:</l>
+                     <l>So scheid ich demutsvoll.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Mein würdger Cawdor!</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH (für sich.)</l>
+                     <l>Ha! Prinz von Cumberland!—Das ist ein Stein,</l>
+                     <l>Der muß, sonst fall ich, übersprungen sein,</l>
+                     <l>Weil er mich hemmt. Verbirg dich. Sternenlicht!</l>
+                     <l>Schau meine schwarzen, tiefen Wünsche nicht!</l>
+                     <l>Sieh, Auge, nicht die Hand, doch laß geschehen,</l>
+                     <l>Was, wenns geschah, das Auge scheut zu sehen.</l>
+                  </lg>
+                  <lg>
+                     <l>(Er geht ab.)</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Ja, teurer Banquo, er ist ganz so edel,</l>
+                     <l>Und ihn zu preisen, ist mir eine Labung;</l>
+                     <l>Es ist ein Fest für mich. Laßt uns ihm nach,</l>
+                     <l>Des Lieb uns vorgeeilt, uns zu begrüßen.</l>
+                     <l>Wer gleicht dem teuren Vetter?</l>
+                  </lg>
+                  <p rend="justify">(Trompeten. Alle gehn ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>Fünfte szene</head>
+                  <subtitle>(Inverness; Zimmer in Macbeths Schloß)</subtitle>
+                  <subtitle>(Lady Macbeth tritt auf mit einem Brief.)</subtitle>
+                  <lg>
+                     <l>LADY MACBETH (liest.)</l>
+                     <l>Sie begegneten mir am Tage des</l>
+                     <l>Sieges; und ich erfuhr aus den sichersten Proben,</l>
+                     <l>daß sie mehr als menschliches Wissen besitzen.</l>
+                     <l>Als ich vor Verlangen brannte, sie weiter zu befragen,</l>
+                     <l>verschwanden sie und zerflossen in Luft. Indem ich noch,</l>
+                     <l>von Erstaunen betäubt, da stand, kamen die Abgesandten des</l>
+                     <l>Königs, die mich als Than von Cawdor begrüßten, mit</l>
+                     <l>welchem Titel mich kurz vorher diese Zauberschwestern</l>
+                     <l>angeredet und mich durch den</l>
+                     <l>Gruß: Heil dir, dem künftigen König, auf die Zukunft</l>
+                     <l>verwiesen hatten. Ich habe es für gut gehalten.</l>
+                     <l>Dir dies zu vertrauen, meine geliebteste Teilnehmerin</l>
+                     <l>der Hoheit, auf daß Dein Mitgenuß an der</l>
+                     <l>Freude Dir nicht entzogen werde, wenn Du nicht erfahren</l>
+                     <l>hättest, welche Hoheit Dir verheißen ist. Leg es an</l>
+                     <l>Dein Herz und lebe wohl.—</l>
+                     <l>Glamis bist du, und Cawdor; und sollst werden,</l>
+                     <l>Was dir verheißen!—Doch fürcht ich dein Gemüt;</l>
+                     <l>Es ist zu voll von Milch der Menschenliebe,</l>
+                     <l>Den nächsten Weg zu gehn. Groß möchtst du sein,</l>
+                     <l>Bist ohne Ehrgeiz nicht; doch fehlt die Bosheit,</l>
+                     <l>Die ihn begleiten muß. Was recht du möchtest,</l>
+                     <l>Das möchtst du rechtlich; möchtest falsch nicht spielen,</l>
+                     <l>Und unrecht doch gewinnen; möchtest gern</l>
+                     <l>Das haben, großer Glamis, was dir zuruft:</l>
+                     <l>Dies mußt du tun, wenn du es haben willst!—</l>
+                     <l>Und was du mehr dich scheust zu tun, als daß</l>
+                     <l>Du ungetan es wünschest. Eil hieher,</l>
+                     <l>Auf daß ich meinen Mut ins Ohr dir gieße,</l>
+                     <l>Und alles weg mit tapfrer Zunge geißle,</l>
+                     <l>Was von dem goldnen Zirkel dich zurückdrängt,</l>
+                     <l>Womit das Schicksal dich und Zaubermacht</l>
+                     <l>Im voraus schon gekrönt zu haben scheint.—</l>
+                  </lg>
+                  <lg>
+                     <l>(Ein Diener tritt auf.)</l>
+                  </lg>
+                  <lg>
+                     <l>Was gibt es Neues?</l>
+                  </lg>
+                  <lg>
+                     <l>DIENER</l>
+                     <l>Noch vor Abend kommt</l>
+                     <l>Hieher der König.</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Tolle Rede sprichst du;</l>
+                     <l>Ist nicht dein Herr bei ihm, der, wär es so,</l>
+                     <l>Der Anstalt wegen es gemeldet hätte?</l>
+                  </lg>
+                  <lg>
+                     <l>DIENER</l>
+                     <l>Verzeiht; es ist doch wahr. Der Than kommt gleich,</l>
+                     <l>Denn ein Kamrad von mir ritt ihm voraus;</l>
+                     <l>Fast tot von großer Eil hatt er kaum Atem,</l>
+                     <l>Die Botschaft zu bestellen.</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Sorg für ihn,</l>
+                     <l>Er bringt uns große Zeitung.</l>
+                  </lg>
+                  <lg>
+                     <l>(Der Diener geht ab.)</l>
+                  </lg>
+                  <lg>
+                     <l>Selbst der Rabe,</l>
+                     <l>Der Duncans schicksalsvollen Eingang krächzt</l>
+                     <l>Unter mein Dach, ist heiser.—Kommt, ihr Geister,</l>
+                     <l>Die ihr auf Mordgedanken lauscht, entweiht mich,</l>
+                     <l>Füllt mich vom Wirbel bis zur Zeh, randvoll,</l>
+                     <l>Mit wilder Grausamkeit! Verdickt mein Blut,</l>
+                     <l>Sperrt jeden Weg und Eingang dem Erbarmen,</l>
+                     <l>Daß kein anklopfend Mahnen der Natur</l>
+                     <l>Den grimmen Vorsatz lähmt, noch friedlich hemmt</l>
+                     <l>Vom Mord die Hand! Kommt an die Weibesbrust,</l>
+                     <l>Trinkt Galle statt der Milch, ihr Morddämonen,</l>
+                     <l>Wo ihr auch harrt in unsichtbarem Wesen</l>
+                     <l>Auf Unheil der Natur! Komm, schwarze Nacht,</l>
+                     <l>Umwölk dich mit dem dicksten Dampf der Hölle,</l>
+                     <l>Daß nicht mein scharfes Messer sieht die Wunde,</l>
+                     <l>Die es geschlagen, noch der Himmel,</l>
+                     <l>Durchschauend aus des Dunkels Vorhang, rufe:</l>
+                     <l>Halt, halt!—</l>
+                  </lg>
+                  <lg>
+                     <l>(Macbeth tritt auf.)</l>
+                  </lg>
+                  <lg>
+                     <l>O großer Glamis! Edler Cawdor!</l>
+                     <l>Größer als beides durch den künftgen Heilruf!</l>
+                     <l>Dein Brief hat über das armselge Heut</l>
+                     <l>Mich weit verzückt, und ich empfinde nun</l>
+                     <l>Das Künftige im Jetzt.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Mein teures Leben,</l>
+                     <l>Duncan kommt heut noch.</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Und wann geht er wieder?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Morgen, so denkt er.</l>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Oh, nie soll die Sonne</l>
+                     <l>Den Morgen sehn! Dein Angesicht, mein Than,</l>
+                     <l>Ist wie ein Buch, wo wunderbare Dinge</l>
+                     <l>Geschrieben stehn.—Die Zeit zu täuschen, scheine</l>
+                     <l>So wie die Zeit: den Willkomm trag im Auge,</l>
+                     <l>In Zung und Hand; blick harmlos wie die Blume,</l>
+                     <l>Doch sei die Schlange drunter. Wohl versorgt</l>
+                     <l>Muß der sein, der uns naht; und meiner Hand</l>
+                     <l>Vertrau das große Werk der Nacht zu enden,</l>
+                     <l>Daß alle künftgen Tag und Nächt uns lohne</l>
+                     <l>Alleinge Königsmacht und Herrscherkrone.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Wir sprechen noch davon.</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Blick hell und licht;</l>
+                     <l>Mißtraun erregt verändert Angesicht.</l>
+                     <l>Laß alles andre mir!</l>
+                  </lg>
+                  <p rend="justify">(Sie gehen ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>Sechste szene</head>
+                  <subtitle>(Daselbst, vor dem Schloß)</subtitle>
+                  <subtitle>(Oboen. Macbeths Dienstboten warten auf. Es treten auf<lb/>Duncan, Malcolm, Donalbain, Banquo, Lenox, Macduff, Rosse,<lb/>Angus, Gefolge.)<lb/>
+                  </subtitle>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Dies Schloß hat eine angenehme Lage;</l>
+                     <l>Gastlich umfängt die lichte, milde Luft</l>
+                     <l>Die heitern Sinne.</l>
+                  </lg>
+                  <lg>
+                     <l>BANQUO</l>
+                     <l>Dieser Sommergast,</l>
+                     <l>Die Schwalbe, die an Tempeln nistet, zeigt</l>
+                     <l>Durch ihren fleißgen Bau, daß Himmelsatem</l>
+                     <l>Hier lieblich haucht; kein</l>
+                     <l>Vorsprung, Fries noch Pfeiler,</l>
+                     <l>Kein Winkel, wo der Vogel nicht gebaut</l>
+                     <l>Sein hängend Bett und Wiege für die Brut:</l>
+                     <l>Wo er am liebsten heckt und wohnt, da fand ich</l>
+                     <l>Am reinsten stets die Luft.</l>
+                  </lg>
+                  <lg>
+                     <l>(Lady Macbeth tritt auf.)</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Seht, unsre edle Wirtin!</l>
+                     <l>Die Liebe, die uns folgt, wird oft uns lästig;</l>
+                     <l>Doch dankt man ihr als Liebe. Lernt daraus,</l>
+                     <l>Noch "Gottes Lohn" und Dank zu sagen uns</l>
+                     <l>Für Eure Last und Müh!</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>All unsre Dienste</l>
+                     <l>Zwiefach in jedem Punkt, und dann verdoppelt,</l>
+                     <l>Wär nur ein arm und schwaches Tun, verglichen</l>
+                     <l>Der hohen Gunst, womit Eur Majestät</l>
+                     <l>Verherrlicht unser Haus. Für frühre Würden,</l>
+                     <l>Wie für die letzte, Kron der andern, bleiben</l>
+                     <l>Wir im Gebet für Euch.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Wo ist denn Cawdor?</l>
+                     <l>Wir folgten auf dem Fuß ihm, denn wir wünschten</l>
+                     <l>Ihn anzumelden; doch er reitet schnell,</l>
+                     <l>Und seine Liebe, schärfer als sein Sporn,</l>
+                     <l>Bracht ihn vor uns hierher.</l>
+                     <l>Höchst edle Wirtin,</l>
+                     <l>Wir sind zu Nacht Eur Gast.</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Für allezeit</l>
+                     <l>Besitzen Eure Diener nur das Ihre,</l>
+                     <l>Sich selbst und was sie haben, als Verwalter,</l>
+                     <l>Und legen Rechnung ab, nach Eurer Hoheit</l>
+                     <l>Befehl, und geben Euch zurück, was Euer.</l>
+                  </lg>
+                  <lg>
+                     <l>DUNCAN</l>
+                     <l>Reicht mir die Hand; führt mich zu meinem Wirt.</l>
+                     <l>Wir lieben herzlich ihn, und Unsre Huld</l>
+                     <l>Wird seiner stets gedenken.</l>
+                     <l>Teure Wirtin, Erlaubt!</l>
+                  </lg>
+                  <p rend="justify">([Er nimmt ihre Hand und führt sie in das Schloß, die übrigen folgen.] Alle ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>Siebente szene</head>
+                  <subtitle>(Daselbst, [Schloßhof] eine Vorhalle im<lb/>Schloß)<lb/>
+                  </subtitle>
+                  <subtitle>(Oboen und Fackeln. Ein Vorschneider und mehrere Diener mit<lb/>Schüsseln gehn über die Bühne; dann kommt Macbeth.)<lb/>
+                  </subtitle>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Wärs abgetan, so wie's getan, wärs gut,</l>
+                     <l>'s wär schnell getan. Wenn nur der Meuchelmord</l>
+                     <l>Aussperren könnt aus seinem Netz die Folgen</l>
+                     <l>Und bloß Gelingen aus der Tiefe zöge,</l>
+                     <l>Daß mit dem Stoß, einmal für immer, alles</l>
+                     <l>Sich abgeschlossen hätte, hier, nur hier,</l>
+                     <l>Auf dieser Sandbank unsrer Zeitlichkeit,</l>
+                     <l>So setzt ich weg mich übers künftge Leben.—</l>
+                     <l>Doch immer wird bei solcher Tat uns schon</l>
+                     <l>Vergeltung hier: daß, wie wir ihn gegeben,</l>
+                     <l>Den blutgen Unterricht, er, kaum gelernt,</l>
+                     <l>Zurückschlägt, zu bestrafen den Erfinder.</l>
+                     <l>Dies Recht, mit unabweislich fester Hand,</l>
+                     <l>Setzt unsern selbstgemischten, giftgen Kelch</l>
+                     <l>An unsre eignen Lippen.</l>
+                     <l>Er kommt hieher, zwiefach geschirmt: Zuerst</l>
+                     <l>Weil ich sein Vetter bin und Untertan;</l>
+                     <l>Beides hemmt stark die Tat; dann, ich—sein Wirt,</l>
+                     <l>Der gegen seinen Mörder schließen müßte</l>
+                     <l>Die Tore und nicht selbst das Messer führen.</l>
+                     <l>Dann hat auch dieser Duncan seine Würde</l>
+                     <l>So mild getragen, blieb im großen Amt</l>
+                     <l>So rein, daß seine Tugenden wie Engel,</l>
+                     <l>Posaunenzüngig, werden Rache schrein</l>
+                     <l>Dem tiefen Höllengreuel seines Mords</l>
+                     <l>Und Mitleid, nackt, ein neugebornes Kind,</l>
+                     <l>Reitend auf Sturm, oder Himmels Cherubim</l>
+                     <l>Auf unsichtbaren, luftigen Rennern blasen</l>
+                     <l>Die Schreckenstat in jedes Aug, bis Tränen</l>
+                     <l>Den Wind ertränken. Keinen Sporn hab ich,</l>
+                     <l>Die Flanken meines Plans zu stacheln, nur den</l>
+                     <l>Kunstreiter Ehrgeiz, der sich überspringt</l>
+                     <l>Und auf den andern fällt.</l>
+                  </lg>
+                  <lg>
+                     <l>(Lady Macbeth tritt auf.)</l>
+                  </lg>
+                  <lg>
+                     <l>Nun, was denn gibts?</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Er hat fast abgespeist.</l>
+                     <l>Warum hast du den Saal verlassen?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Hat er</l>
+                     <l>Nach mir gefragt?</l>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Weißt du nicht, daß ers tat?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Wir wolln nicht weiter gehn in dieser Sache;</l>
+                     <l>Er hat mich jüngst belohnt, und goldne Achtung</l>
+                     <l>Hab ich von Leuten aller Art gekauft,</l>
+                     <l>Die will getragen sein im neusten Glanz,</l>
+                     <l>Und nicht so plötzlich weggeworfen.</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>War</l>
+                     <l>Die Hoffnung trunken, worin du dich hülltest?</l>
+                     <l>Schlief sie seitdem, und ist sie nun erwacht,</l>
+                     <l>So bleich und krank das anzuschaun, was sie</l>
+                     <l>So fröhlich tat? Von jetzt an denke ich</l>
+                     <l>Von deiner Liebe so. Bist du zu feige,</l>
+                     <l>Derselbe Mann zu sein in Tat und Mut,</l>
+                     <l>Der du in Wünschen bist? Möchtst du erlangen,</l>
+                     <l>Was du den Schmuck des Lebens schätzen mußt,</l>
+                     <l>Und Memme sein in deiner eignen Schätzung?</l>
+                     <l>Muß dir "Ich fürchte" folgen dem "Ich möchte",</l>
+                     <l>Der armen Katz im Sprichwort gleich?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Sei ruhig!</l>
+                     <l>Ich wage alles, was dem Menschen ziemt;</l>
+                     <l>Wer mehr wagt, der ist keiner.</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Welch ein Tier</l>
+                     <l>Hieß dich von deinem Vorsatz mit mir reden?</l>
+                     <l>Als du es wagtest, da warst du ein Mann;</l>
+                     <l>Und mehr sein, als du warst, das machte dich</l>
+                     <l>Nur um so mehr zum Mann. Nicht Zeit, nicht Ort</l>
+                     <l>Traf damals zu, du wolltest beide machen;</l>
+                     <l>Sie machen selbst sich, und ihr hurtger Dienst</l>
+                     <l>Macht dich zu nichts. Ich hab gesäugt und weiß,</l>
+                     <l>Süß ists, das Kind zu lieben, das ich tränke;</l>
+                     <l>Ich hätt, indem es mir entgegenlächelt',</l>
+                     <l>Die Brust gerissen aus den weichen Kiefern</l>
+                     <l>Und ihm den Kopf geschmettert an die Wand,</l>
+                     <l>Hätt ichs geschworen, wie du dieses schwurst.</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Wenns uns mißlänge—</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Uns mißlingen!—</l>
+                     <l>Schraub deinen Mut nur bis zum höchsten Grad,</l>
+                     <l>Und es mißlingt uns nicht. Wenn Duncan schläft,</l>
+                     <l>Wozu so mehr des Tages starke Reise</l>
+                     <l>Ihn einlädt—seine beiden Kämmerlinge</l>
+                     <l>Will ich mit würzgem Weine so betäuben,</l>
+                     <l>Daß des Gehirnes Wächter, das Gedächtnis,</l>
+                     <l>Ein Dunst sein wird, und der Vernunft Behältnis</l>
+                     <l>Ein Dampfhelm nur—wenn nun im viehischen Schlaf</l>
+                     <l>Ertränkt ihr Dasein liegt, so wie im Tode,</l>
+                     <l>Was können du und ich dann nicht vollbringen</l>
+                     <l>Am unbewachten Duncan? Was nicht schieben</l>
+                     <l>Auf die berauschten Diener, die die Schuld trifft</l>
+                     <l>Des großen Mords?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Gebär mir Söhne nur!</l>
+                     <l>Aus deinem unbezwungenen Stoffe können</l>
+                     <l>Nur Männer sprossen. Wird man es nicht glauben,</l>
+                     <l>Wenn wir mit Blut die zwei Schlaftrunknen färben,</l>
+                     <l>Die Kämmerling, und ihre Dolche brauchen,</l>
+                     <l>Daß sie's getan?</l>
+                  </lg>
+                  <lg>
+                     <l>LADY MACBETH</l>
+                     <l>Wer darf was anders glauben,</l>
+                     <l>Wenn unsers Grames lauter Schrei ertönt</l>
+                     <l>Bei seinem Tode?</l>
+                  </lg>
+                  <lg>
+                     <l>MACBETH</l>
+                     <l>Ich bin fest; gespannt</l>
+                     <l>Zu dieser Schreckenstat ist jeder Nerv.</l>
+                     <l>Komm, täuschen wir mit heiterm Blick die Stunde:</l>
+                     <l>Birg, falscher Schein, des falschen Herzens Kunde!</l>
+                  </lg>
+                  <subtitle>(Sie gehn ab.)</subtitle>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Zweiter Akt</head>
+               <div type="div3">
+                  <head>ERSTE SZENE</head>
+                  <p rend="start">(Daselbst, Schloßhof)</p>
+                  <lg>
+                     <l>(Es treten auf Banquo, Fleance, [ein Diener] mit einer</l>
+                     <l>Fackel voran.)</l>
+                  </lg>
+                  <p rend="justify">BANQUO<lb/>Wie spät, mein Sohn?<lb/>
+                  </p>
+                  <lg>
+                     <l>FLEANCE</l>
+                     <l>Der Mond ging unter, schlagen hört ichs nicht.</l>
+                  </lg>
+                  <p rend="justify">BANQUO<lb/>Um zwölf Uhr geht er unter.<lb/>
+                  </p>
+                  <p rend="justify">FLEANCE 's ist wohl später.</p>
+                  <p rend="justify">BANQUO<lb/>Da, nimm mein Schwert!—'s ist Sparsamkeit im Himmel,<lb/>Aus taten sie die Kerzen.—Nimm das auch!<lb/>Ein schwerer Schlaftrieb liegt wie Blei auf mir,<lb/>Und doch möcht ich nicht schlafen. Gnädge Mächte!<lb/>Hemmt in mir böses Denken, dem Natur<lb/>Im Schlummer Raum gibt.—Gib mein Schwert!<lb/>
+                  </p>
+                  <p rend="justify">([Macbeth tritt auf und ein Diener mit einer<lb/>Fackel.])<lb/>
+                  </p>
+                  <p rend="justify">Wer da?</p>
+                  <p rend="justify">(Macbeth tritt auf und ein Diener mit einer Fackel.)</p>
+                  <p rend="justify">MACBETH<lb/>Ein Freund.<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Wie, Herr, noch auf? Der König ist zu Bett.<lb/>Er war ausnehmend froh und sandte noch<lb/>All Euren Hausbedienten reiche Gaben;<lb/>Doch Eure Frau soll dieser Demant grüßen<lb/>Als seine gütge Wirtin. Höchst zufrieden<lb/>Begab er sich zur Ruh.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Unvorbereitet,<lb/>Ward nur des Mangels Diener unser Wille,<lb/>Der sonst sich frei enthüllt'.<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Alles war gut.—<lb/>Mir träumte jüngst von den drei<lb/>Zauberschwestern:<lb/>Euch haben sie was Wahres doch gesagt.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich denke nicht an sie;<lb/>Doch ließe sich gelegne Stunde finden,<lb/>So sprächen wir wohl einiges in der Sache,<lb/>Gewährtet Ihr die Zeit.<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Wie's Euch beliebt.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Schließt Ihr Euch meinem Sinn an—wenn es ist,<lb/>Wirds Ehr Euch bringen.<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Büß ich sie nicht ein,<lb/>Indem ich sie zu mehren streb, und bleibt<lb/>Mein Busen frei und meine Lehnspflicht rein,<lb/>Gern nehm ich Rat an.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Gute Nacht indes!<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Dank, Herr, Euch ebenfalls!<lb/>
+                  </p>
+                  <p rend="justify">(Banquo, Fleance [und Diener] ab.)</p>
+                  <p rend="justify">MACBETH<lb/>Sag deiner Herrin, wenn mein Trank bereit,<lb/>Soll sie die Glocke ziehn. Geh du zu Bett!<lb/>
+                  </p>
+                  <p rend="justify">(Der Diener geht ab.)</p>
+                  <p rend="justify">Ist das ein Dolch, was ich vor mir erblicke,<lb/>Der Griff mir zugekehrt? Komm, laß dich packen!—<lb/>Ich faß dich nicht, und doch seh ich dich immer.<lb/>Bist du, Unglücksgebild, so fühlbar nicht<lb/>Der Hand, gleich wie dem Aug? Oder bist du nur<lb/>Ein Dolch der Einbildung, ein nichtig Blendwerk,<lb/>Das aus dem heiß gequälten Hirn erwächst?<lb/>Ich seh dich noch, so greifbar von Gestalt<lb/>Wie der, den jetzt ich zücke.<lb/>Du gehst mir vor den Weg, den ich will schreiten,<lb/>Und eben solche Waffe wollt ich brauchen.<lb/>Mein Auge ward der Narr der andern Sinne,<lb/>Oder mehr als alle wert.—Ich seh dich stets,<lb/>Und dir an Griff und Klinge Tropfen Bluts,<lb/>Was erst nicht war.—Es ist nicht wirklich da:<lb/>Es ist die blutige Arbeit, die mein Auge<lb/>So in die Lehr nimmt.—Auf der halben Erde<lb/>Scheint tot Natur jetzt, den verhangnen Schlaf<lb/>Quälen Versucherträume; Hexenkunst<lb/>Begeht den Dienst der bleichen Hekate,<lb/>Und dürrer Mord schreitet gespenstisch nun,<lb/>Durch seine Schildwacht aufgeschreckt, den Wolf,<lb/>Der ihm das Wachtwort heult, so diebschen Schrittes,<lb/>Wie wild entbrannt Tarquin, dem Ziel entgegen.<lb/>Du sichere und festgefugte Erde,<lb/>Hör meine Schritte nicht, wo sie auch wandeln,<lb/>Daß nicht ausschwatzen selber deine Steine<lb/>Mein Wohinaus, und von der Stunde nehmen<lb/>Den jetzgen stummen Graus, der so ihr ziemt.<lb/>Hier droh ich, er lebt dort;<lb/>Für heiße Tat zu kalt das müßge Wort!<lb/>
+                  </p>
+                  <p rend="justify">(Die Glocke wird angeschlagen.)</p>
+                  <p rend="justify">Ich geh, und 's ist getan; die Glocke mahnt.<lb/>Hör sie nicht, Duncan, 's ist ein Grabgeläut,<lb/>Das dich zu Himmel oder Höll entbeut.<lb/>
+                  </p>
+                  <p rend="justify">(Ab. [Er steigt hinauf.)</p>
+               </div>
+               <div type="div3">
+                  <head>ZWEITE SZENE</head>
+                  <p rend="start">(Daselbst])</p>
+                  <p rend="justify">(Lady Macbeth tritt unten auf.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Was sie betäubte, hat mich stark gemacht,<lb/>Und was sie dämpft', hat mich entflammt.—Still, horch!—<lb/>Die Eule wars, die schrie, der Unheilsbote,<lb/>Der gräßlich gute Nacht wünscht.—Er ist dran:<lb/>Die Türen sind geöffnet, schnarchend spotten<lb/>Die überladnen Diener ihres Amts;<lb/>Ich würzte ihren Schlaftrunk, daß Natur<lb/>Und Tod sich streiten, wem sie angehören.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH (hinter der Bühne. [der oben erscheint.]) Wer ist da? He!</p>
+                  <p rend="justify">([Er geht wieder hinein.])</p>
+                  <p rend="justify">LADY MACBETH<lb/>O weh, ich fürchte, sie sind aufgewacht<lb/>Und nichts geschehn. Der Anschlag, nicht die Tat<lb/>Verdirbt uns—Horch! Ich legt ihm ihre Dolche<lb/>Bereit, die mußt er finden.—Hätt er nicht<lb/>Geglichen meinem Vater, wie er schlief,<lb/>So hätt ichs selbst getan.—Oh, mein Gemahl!<lb/>
+                  </p>
+                  <p rend="justify">(Macbeth tritt auf.)</p>
+                  <p rend="justify">MACBETH<lb/>Ich hab die Tat getan.—Hörtst du nicht was?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Die Eule hört ich schrein, und Heimchen zirpen.<lb/>Sprachst du nichts?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wann?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Jetzt.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wie ich 'runter kam?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Ja.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Horch! Wer schläft im zweiten Zimmer?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Donalbain.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Erbärmlich sieht das aus!<lb/>
+                  </p>
+                  <p rend="justify">(Betrachtet seine Hände.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Wie wunderlich,<lb/>Erbärmlich das zu nennen!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Der eine lacht' im Schlaf—und Mord! schrie einer,<lb/>Daß sie einander weckten; ich stand und hört es:<lb/>Sie aber sprachen ihr Gebet und legten<lb/>Zum Schlaf sich wieder.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Dort wohnen zwei beisammen.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Der schrie: Gott sei uns gnädig!, jener: Amen!<lb/>Als sähn sie mich mit diesen Henkershänden.<lb/>Behorchend ihre Angst konnt ich nicht sagen<lb/>Amen, als jener sprach: Gott sei uns gnädig!<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Denk nicht so tief darüber!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Doch warum<lb/>Könnt ich nicht Amen sprechen? War mir doch<lb/>Die Gnad am meisten not, und Amen stockte<lb/>Mir in der Kehle.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Dieser Taten muß<lb/>Man so nicht denken; so macht es uns toll.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Mir war, als rief es: Schlaft nicht mehr, Macbeth<lb/>Mordet den Schlaf!—Ihn, den unschuldgen Schlaf;<lb/>Schlaf, der des Grams verworrn Gespinst entwirrt,<lb/>Den Tod von jedem Lebenstag, das Bad<lb/>Der wunden Müh, den Balsam kranker Seelen,<lb/>Den zweiten Gang im Gastmahl der Natur,<lb/>Das nährendste Gericht beim Fest des Lebens.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Was meinst du?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Stets rief es: Schlaft nicht mehr! durchs ganze Haus,<lb/>Glamis erschlug den Schlaf, und drum wird Cawdor<lb/>Nicht schlafen mehr, Macbeth nicht schlafen mehr!<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Wer war es, der so rief? Mein würdger Than,<lb/>Du läßt den edeln Mut erschlaffen, denkst du<lb/>So hirnkrank drüber nach. Nimm etwas Wasser<lb/>Und wasch von deiner Hand das garstge Zeugnis.—<lb/>Was brachtest du die Dolche mit herunter?<lb/>Dort liegen müssen sie; geh, bring sie hin<lb/>Und färb mit Blut die Kämmrer, wie sie schlafen.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich gehe nicht mehr hin, ich bin entsetzt,<lb/>Denk ich, was ich getan! Es wieder schaun—<lb/>Ich wag es nicht!<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>O schwache Willenskraft!<lb/>Gib mir die Dolche! Schlafende und Tote<lb/>Sind Bilder nur; der Kindheit Aug allein<lb/>Scheut den gemalten Teufel. Wenn er blutet,<lb/>Färb ich damit den Dienern die Gesichter,<lb/>Denn ihre Schuld solls scheinen.<lb/>
+                  </p>
+                  <p rend="justify">(Sie geht ab. Man hört klopfen.)</p>
+                  <p rend="justify">MACBETH<lb/>Woher klopft es?<lb/>Wie ists mit mir, daß jeder Ton mich schreckt?<lb/>Was sind das hier für Hände? Ha, sie reißen<lb/>Mir meine Augen aus.<lb/>Kann wohl des großen Meergotts Ozean<lb/>Dies Blut von meiner<lb/>Hand rein waschen? Nein;<lb/>Weit ehr kann diese meine Hand mit Purpur<lb/>Die unermeßlichen Gewässer färben<lb/>Und Grün in Rot verwandeln.<lb/>
+                  </p>
+                  <p rend="justify">(Lady Macbeth kommt zurück.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Meine Hände<lb/>Sind blutig wie die deinen; doch ich schäme<lb/>Mich, daß mein Herz so weiß ist.<lb/>
+                  </p>
+                  <p rend="justify">(Es wird geklopft.)</p>
+                  <p rend="justify">Klopfen hör ich<lb/>Am Südtor.—Eilen wir in unsre Kammer;<lb/>Ein wenig Wasser spült von uns die Tat;<lb/>Wie leicht dann ist sie!—Deine Festigkeit<lb/>Verließ dich ganz und gar.<lb/>
+                  </p>
+                  <p rend="justify">(Es wird geklopft.)</p>
+                  <p rend="justify">Horch, wieder Klopfen!<lb/>Tu an dein Nachtkleid; müssen wir uns zeigen,<lb/>Daß man nicht sieht, wir wachten!—Verlier dich nicht<lb/>So ärmlich in Gedanken.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Meine Tat<lb/>Zu wissen! Besser von mir selbst nichts wissen!<lb/>
+                  </p>
+                  <p rend="justify">(Es wird geklopft.)</p>
+                  <p rend="justify">Klopf Duncan aus dem Schlaf! O könntest du's!</p>
+                  <p rend="justify">(Sie gehn ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>DRITTE SZENE</head>
+                  <p rend="start">(Daselbst)</p>
+                  <p rend="justify">(Der Pförtner kommt; es wird geklopft.)</p>
+                  <p rend="justify">PFÖRTNER<lb/>Das ist ein Klopfen! Wahrhaftig, wenn einer<lb/>Höllenpförtner wäre, da hätte er was zu schließen.<lb/>
+                  </p>
+                  <p rend="justify">(Klopfen.)</p>
+                  <p rend="justify">Poch, poch, poch: Wer da, in<lb/>Beelzebubs Namen? Ein Pachter, der sich in Erwartung einer reichen<lb/>Ernte aufhängte. Zur rechten Zeit gekommen; habt ihr auch<lb/>Schnupftücher genug bei euch?<lb/>Denn hier werdet ihr dafür schwitzen müssen!—<lb/>
+                  </p>
+                  <p rend="justify">(Klopfen.)</p>
+                  <p rend="justify">Poch, poch: Wer da, in des andern Teufels Namen? Mein Treu, ein Zweideutler, der in beide Schalen gegen jede Schale schwören konnte, der um Gottes willen Verrätereien genug beging und sich doch nicht zum Himmel hinein zweideuteln konnte. Herein, Zweideutler!—</p>
+                  <p rend="justify">(Klopfen.)</p>
+                  <p rend="justify">Poch, poch, poch: Wer da? Mein<lb/>Treu, ein englischer Schneider, hier angekommen,<lb/>weil er etwas aus einer französischen Hose gestohlen.<lb/>Herein, Schneider; hier kannst du deine Bügelgans braten.<lb/>
+                  </p>
+                  <p rend="justify">(Klopfen.)</p>
+                  <p rend="justify">Poch, poch—Keine Ruhe! Wer seid ihr? Aber hier ist es zu kalt für die Hölle; ich mag nicht länger Teufelspförtner sein. Ich dachte, ich wollte von jedem Gewerbe einige hereinlassen, die den breiten Rosenpfad zum ewigen Freudenfeuer wandeln.—</p>
+                  <p rend="justify">(Klopfen.)</p>
+                  <p rend="justify">Gleich, gleich! Ich bitt euch, bedenkt doch, daß der Pförtner auch ein Mensch ist.</p>
+                  <p rend="justify">(Er öffnet das Tor: Macduff und Lenox kommen herein.)</p>
+                  <p rend="justify">MACDUFF<lb/>Kamst du so spät zu Bett, Freund, daß du nun so spät aufstehst?<lb/>
+                  </p>
+                  <p rend="justify">PFÖRTNER Mein Seel, Herr, wir zechten, bis der zweite Hahn krähte; und der Trunk ist ein großer Beförderer von drei Dingen.</p>
+                  <p rend="justify">MACDUFF<lb/>Was sind denn das für drei Dinge, die der Trunk vorzüglich befördert?<lb/>
+                  </p>
+                  <p rend="justify">PFÖRTNER Ei, Herr, rote Nasen, Schlaf und Urin. Buhlerei befördert und dämpft er zugleich; er befördert das Verlangen und dämpft das Tun. Darum kann man sagen, daß vieles Trinken ein Zweideutler gegen die Buhlerei ist: es schafft sie und vernichtet sie, treibt sie an und hält sie zurück, macht ihr Mut und schreckt sie ab, heißt sie sich brav halten und nicht brav halten, zweideutelt sie zuletzt in Schlaf, straft sie Lügen und geht davon.</p>
+                  <p rend="justify">MACDUFF<lb/>Ich glaube, der Trunk strafte dich die Nacht Lügen.<lb/>
+                  </p>
+                  <p rend="justify">PFÖRTNER Ja, Herr, das tat er, in meinen Hals hinein; aber ich vergalt ihm seine Lügen, und ich denke, ich war ihm doch zu stark: denn obgleich er mir die Beine ein paarmal unten wegzog, so fand ich doch einen Kniff, ihn hinauszuschmeißen.</p>
+                  <p rend="justify">MACDUFF<lb/>Ist dein Herr schon aufgestanden?<lb/>Geweckt hat unser<lb/>Klopfen ihn; hier kommt er.<lb/>
+                  </p>
+                  <p rend="justify">(Macbeth tritt auf.)</p>
+                  <p rend="justify">LENOX<lb/>Guten Morgen, edler Herr!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Guten<lb/>Morgen, beide!<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Wacht schon der König, würdger Than?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Noch nicht.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Mir gab er den Befehl, ihn früh zu wecken;<lb/>Die Zeit versäumt ich fast.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich führ Euch hin.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Ich weiß, es ist 'ne Müh, die Euch erfreut;<lb/>Doch es ist eine Müh.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Die Arbeit, die uns freut, wird zum Ergötzen.<lb/>Hier ist die Tür.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Ich wag es, ihn zu wecken,<lb/>Denn das ward mir befohlen.<lb/>
+                  </p>
+                  <p rend="justify">(Er geht ab.)</p>
+                  <p rend="justify">LENOX<lb/>Reist der König<lb/>Heut ab?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>So ists, er hat es so bestimmt.<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Die Nacht war stürmisch; wo wir schliefen, riß es<lb/>Den Schlot herab, und wie man sagt, erscholl<lb/>Ein Wimmern in der Luft, ein Todesstöhnen,<lb/>Ein Prophezein in fürchterlichem Laut<lb/>Von wildem Brand und gräßlichen Geschichten,<lb/>Neu ausgebrütet einer Zeit des Leidens.<lb/>Der dunkle Vogel schrie die ganze Nacht.<lb/>Man sagt, die Erde bebte fieberkrank.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Es war 'ne rauhe Nacht.<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Mein jugendlich Gedächtnis sucht umsonst<lb/>Nach ihresgleichen.<lb/>
+                  </p>
+                  <p rend="justify">(Macduff kommt [von oben herunter] zurück.)</p>
+                  <p rend="justify">MACDUFF<lb/>O Grausen, Grausen, Grausen! Zung und Herz<lb/>Faßt es nicht, nennt es nicht!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH und LENOX<lb/>Was ist geschehn?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Jetzt hat die Höll ihr Meisterstück gemacht!<lb/>Der kirchenräuberische Mord brach auf<lb/>Des Herrn geweihten Tempel und stahl weg<lb/>Das Leben aus dem Heiligtum.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Was sagt Ihr?<lb/>Das Leben?<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Meint Ihr Seine Majestät?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Geht ein zur Kammer und zerstört die Sehkraft<lb/>Durch eine neue Gorgo! Laßt mich schweigen;<lb/>Seht, und dann redet selbst!<lb/>
+                  </p>
+                  <p rend="justify">(Macbeth und Lenox gehen ab.)</p>
+                  <p rend="justify">Erwacht, erwacht!</p>
+                  <p rend="justify">([Macbeth und Lenox gehen ab.])</p>
+                  <p rend="justify">Die Sturmglock angeschlagen! Mord! Verrat!<lb/>Banquo und Donalbain! Malcolm! Erwacht!<lb/>Werft ab den flaumgen Schlaf, des Todes Abbild,<lb/>Und seht ihn selbst, den Tod! Auf, auf, und schaut<lb/>Des Weltgerichtes Vorspiel! Malcolm! Banquo!<lb/>Steigt wie aus eurem Grab, wie Geister schreitet,<lb/>Als Graungefolge diesen Mord zu schaun!<lb/>
+                  </p>
+                  <p rend="justify">[Die Glocken stürmt!]</p>
+                  <p rend="justify">(Die Lärmglocke läutet. Lady Macbeth tritt auf.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Was ist denn vorgefallen,<lb/>Daß solche schreckliche Trompete ruft<lb/>Zum Rat die Schläfer dieses Hauses? Sprecht!<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>O zarte Frau,<lb/>Ihr dürft nicht hören, was ich sagen könnte.<lb/>Vor eines Weibes Ohr es nennen, wäre<lb/>Ein Mord, wie Ihrs vernähmt.<lb/>
+                  </p>
+                  <p rend="justify">(Banquo tritt auf.)</p>
+                  <p rend="justify">O Banquo, Banquo!<lb/>Der König, unser Herr, ermordet!<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Wehe! In unserm Haus?<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Zu grausam, wo auch immer!—<lb/>O lieber Macduff, widersprich dir selber<lb/>Und sag, es sei nicht so.<lb/>
+                  </p>
+                  <p rend="justify">(Macbeth und Lenox kommen mit Rosse zurück.)</p>
+                  <p rend="justify">MACBETH<lb/>War ich gestorben, eine Stunde nur,<lb/>Eh dies geschah, gesegnet war mein Dasein!<lb/>Von jetzt gibt es nichts Ernstes mehr im Leben;<lb/>Alles ist Tand, gestorben Ruhm und Gnade!<lb/>Der Lebenswein ist ausgeschenkt, nur Hefe<lb/>Blieb noch zu prahlen dem Gewölbe.<lb/>
+                  </p>
+                  <p rend="justify">(Malcolm und Donalbain treten auf.)</p>
+                  <p rend="justify">DONALBAIN<lb/>Wem Geschah ein Leid?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Euch selbst, und wißt es nicht:<lb/>Der Born, der Ursprung Eures Blutes ist<lb/>Versiegt, die Lebensquelle selbst versiegt.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Eur königlicher Vater ist ermordet.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Ha! Von wem?<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Die Kämmerlinge, scheint es, sind die Täter;<lb/>Denn Händ und Antlitz trugen blutge Zeichen,<lb/>Auch ihre Dolche, die unabgewischt<lb/>Auf ihren Polstern lagen. Wie im Wahnsinn,<lb/>So starrt' ihr Auge, und es war gefährlich,<lb/>Nur ihnen nah zu kommen.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Oh, jetzt bereu ich meine Wut, daß ich<lb/>Sie niederstieß.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Warum habt Ihrs getan?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wer ist weis' und entsetzt, gefaßt und wütig,<lb/>Pflichttreu und kalt in einem Augenblick? Kein Mensch.<lb/>Die Raschheit meiner heftgen Liebe<lb/>Lief schneller als die zögernde Vernunft.<lb/>Duncan lag hier, die Silberhaut verbrämt<lb/>Mit seinem goldnen Blut; die offnen Wunden,<lb/>Sie waren wie ein Riß in der Natur,<lb/>Eingang verheernden Unheils; dort die Mörder,<lb/>Getaucht in ihres Handwerks Farb, die Dolche<lb/>Abscheulich von geronnenem Blute schwarz.<lb/>Wer konnte sich da zügeln, der ein Herz<lb/>Voll Liebe hatt und in dem Herzen Mut,<lb/>Die Liebe zu beweisen?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Helft mir fort!<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Seht nach der Lady!<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Weshalb schweigen wir,<lb/>Da unser Anspruch an dies Weh der nächste?<lb/>
+                  </p>
+                  <p rend="justify">DONALBAIN<lb/>Was solln wir sprechen, hier, wo unser Schicksal<lb/>Herstürzen kann aus irgendeinem Winkel,<lb/>Uns zu ergreifen? Fort, denn unsre Tränen<lb/>Sind noch nicht reif.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Noch unser heftger Gram<lb/>Zu handeln schon bereit.<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Seht nach der Lady!<lb/>
+                  </p>
+                  <p rend="justify">(Lady Macbeth wird fortgeführt.)</p>
+                  <p rend="justify">Und haben wir verhüllt erst unsre Blößen,<lb/>Die so zu zeigen unschicklich, so treffen<lb/>Wir uns, der blutgen Untat nachzuforschen<lb/>Bis auf den Grund. Uns schütteln Furcht und Zweifel;<lb/>Ich steh in Gottes großer Hand, und so<lb/>Kämpf ich der ungesprochnen Anmutung Bösen<lb/>Verrats entgegen.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>So auch ich.<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Wir alle.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wir wolln uns vollends anziehn und bald wieder<lb/>Uns in der Halle treffen.<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Wohl, so sei's!<lb/>
+                  </p>
+                  <p rend="justify">(Malcolm und Donalbain bleiben; die übrigen gehn ab.)</p>
+                  <p rend="justify">MALCOLM<lb/>Was tust du? Laß uns nicht zu ihnen halten.<lb/>Erlognen Schmerz zu zeigen, ist 'ne Kunst,<lb/>Die leicht dem Falschen wird. Ich geh nach England.<lb/>
+                  </p>
+                  <p rend="justify">DONALBAIN<lb/>Nach Irland ich; unser getrenntes Glück<lb/>Verwahrt uns besser. Wo wir sind, drohn Dolche<lb/>In jedes Lächeln, und je blutsverwandter,<lb/>So mehr verwandt dem Tode.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Der mörderische Pfeil ist abgeschossen<lb/>Und fliegt noch; Sicherheit ist nur für uns,<lb/>Vermeiden wir das Ziel. Drum schnell zu Pferde,<lb/>Und zaudern wir nicht, jene noch zu grüßen,<lb/>Nein, heimlich fort! Nicht strafbar ist der Dieb,<lb/>Der selbst sich stiehlt, wo keine Gnad ihm blieb.<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehn ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>ZWEITE SZENE</head>
+                  <p rend="start">(Daselbst. Vor dem Schloß)</p>
+                  <p rend="justify">(Rosse tritt auf mit einem alten Mann.)</p>
+                  <p rend="justify">ALTER<lb/>Auf siebzig Jahr kann ich mich gut erinnern;<lb/>In diesem Zeitraum sah ich Schreckenstage<lb/>Und wunderbare Ding; doch diese böse Nacht<lb/>Macht alles Vorge klein.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>O guter Vater,<lb/>Der Himmel, sieh, als zürn er Menschentaten,<lb/>Droht dieser blutgen Bühn. Die Uhr zeigt Tag,<lb/>Doch dunkle Nacht erstickt die Wanderlampe.<lb/>Ists Sieg der Nacht, ist es die Scham des Tages,<lb/>Daß Finsternis der Erd Antlitz begräbt,<lb/>Wenn lebend Licht es küssen sollte?<lb/>
+                  </p>
+                  <p rend="justify">ALTER<lb/>Unnatürlich,<lb/>Wie die geschehne Tat. Am letzten Dienstag<lb/>Sah ich, wie stolzen Flugs ein Falke schwebte<lb/>Und eine Eul ihm nachjagt' und ihn würgte.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Und Duncans Rosse, seltsam ists, doch sicher,<lb/>So rasch und schön, die Kleinod' ihres Bluts,<lb/>Brachen, verwildert ganz, aus ihren Ställen<lb/>Und stürzten fort, sich sträubend dem Gehorsam,<lb/>Als wollten Krieg sie mit den Menschen führen.<lb/>
+                  </p>
+                  <p rend="justify">ALTER<lb/>Man sagt, daß sie einander fraßen.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Ja; Entsetzlich wars, ich hab es selbst gesehn.<lb/>Da kommt der edle Macduff—<lb/>
+                  </p>
+                  <p rend="justify">(Macduff tritt auf.)</p>
+                  <p rend="justify">Nun, Herr, wie geht die Welt?</p>
+                  <p rend="justify">MACDUFF<lb/>Ei, seht Ihrs nicht?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Weiß man, wer tat die mehr als blutge Tat?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Jene, die Macbeth tötete.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>O Jammer!<lb/>Was hofften sie davon?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Sie warn gedungen.<lb/>Malcolm und Donalbain, des Königs Söhne,<lb/>Sind heimlich fort, entflohn; dies wälzt auf sie<lb/>Der Tat Verdacht.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Stets gegen die Natur!<lb/>Verschwenderischer Ehrgeiz, so verschlingst du<lb/>Des eignen Lebens Unterhalt!—So wird<lb/>Die Königswürde wohl an Macbeth fallen?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Er ist ernannt schon und zu seiner Krönung<lb/>Nach Scone gegangen.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Wo ist Duncans Leichnam?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Nach Colmes-Kill führt man ihn zur heilgen Gruft,<lb/>Wo die Gebeine seiner Ahnen alle<lb/>Versammelt ruhn.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Geht<lb/>Ihr nach Scone?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Nein, Vetter,<lb/>Ich geh nach Fife.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>So will ich hin.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Lebt wohl!<lb/>Mag alles so geschehn, daß wir nicht sagen:<lb/>Bequemer war der alte Rock zu tragen!<lb/>
+                  </p>
+                  <p rend="justify">([Er geht ab.])</p>
+                  <p rend="justify">ROSSE<lb/>Vater, lebt wohl!<lb/>
+                  </p>
+                  <p rend="justify">ALTER<lb/>Gott segne Euch und den, der redlich denkt;<lb/>Unheil zum Heil, Zwietracht zum Frieden lenkt!<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehen ab.)</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Dritter Akt</head>
+               <div type="div3">
+                  <head>ERSTE SZENE</head>
+                  <p rend="start">(Fores, Saal im Schlosse)</p>
+                  <p rend="justify">(Banquo tritt auf.)</p>
+                  <p rend="justify">BANQUO<lb/>Du hasts nun, König, Cawdor, Glamis, alles,<lb/>Wie's angezeigt die Zauberfraun—ich fürchte,<lb/>Du spieltest schändlich drum. Doch ward gesagt,<lb/>Es solle nicht bei deinem Stamme bleiben;<lb/>Ich aber sollte Wurzel sein und Vater<lb/>Von vielen Köngen. Kommt von ihnen Wahrheit,<lb/>Wie, Macbeth, ihre Wort an dich bestätgen,<lb/>Warum, bei der Erfüllung, die dir ward,<lb/>Solln sie nicht mein Orakel gleichfalls sein<lb/>Und meine Hoffnung kräftgen?<lb/>Still, nichts weiter.<lb/>
+                  </p>
+                  <p rend="justify">(Trompeten, es treten auf Macbeth als<lb/>König und Lady Macbeth als Königin; Lenox, Rosse, Lords, Ladies und<lb/>Gefolge.)<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Hier unser höchster Gast.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Ward er vergessen,<lb/>Wars wie ein Riß in unserm großen Fest<lb/>Und alles ungeziemend.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Herr, wir halten<lb/>Ein feierliches Mahl heut abend, und<lb/>Ich bitt um Eure Gegenwart.<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Eur Hoheit<lb/>Hat zu befehlen; unauflöslich bleibt<lb/>Für immer meine Pflicht an Euch gebunden.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Verreist Ihr noch den Nachmittag?<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Ja, Herr.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>So hätten wir wohl Euren Rat gewünscht,<lb/>Der stets voll Einsicht und ersprießlich war,<lb/>Im Staatsrat heut; doch gönnt ihn morgen uns.<lb/>Geht Eure Reise weit?<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>So weit, mein König,<lb/>Daß sie die Zeit von jetzt bis Abend ausfüllt;<lb/>Hält nicht mein Pferd sich gut, so muß ich wohl<lb/>Noch von der Nacht 'ne dunkle Stunde borgen.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Fehlt nicht bei unserm Fest!<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Mein Fürst, ich komme.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wir hören, unsre blutgen Vettern weilen<lb/>In England und in Irland; nicht bekennend<lb/>Den grausen Vatermord, mit seltnen Märchen<lb/>Die Hörer täuschend. Doch das sei für morgen,<lb/>Da außerdem das Staatsgeschäft uns alle<lb/>Zusammenruft. Säumt länger nicht: lebt wohl,<lb/>Bis wir zu Nacht uns sehn. Geht Fleance mit Euch?<lb/>
+                  </p>
+                  <p rend="justify">BANQUO<lb/>Ja, teurer Herr; die Zeit mahnt uns zur Eil.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Den Rossen wünsch ich schnellen, sichern Lauf;<lb/>Besteigt sie alsobald und reiset glücklich!—<lb/>
+                  </p>
+                  <p rend="justify">(Banquo geht ab.)</p>
+                  <p rend="justify">Ein jeder sei nun Herr von seinen Stunden<lb/>Bis sieben Uhr; uns die Geselligkeit<lb/>Zu würzen, sind wir bis zum Abendessen<lb/>Mit uns allein. Bis dahin Gott befohlen!<lb/>
+                  </p>
+                  <p rend="justify">([Alle gehen ab; Macbeth bleibt.]<lb/>Lady Macbeth, Lords, Ladies und Gefolge ab.)<lb/>
+                  </p>
+                  <p rend="justify">Du da, ein Wort: sind jene Männer hier?</p>
+                  <p rend="justify">([Der Diener tritt ein.])</p>
+                  <p rend="justify">DIENER<lb/>Sie harren vor dem Schloßtor, mein Gebieter.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Führ sie Uns vor!—<lb/>
+                  </p>
+                  <p rend="justify">(Diener geht ab.)</p>
+                  <p rend="justify">Das so zu sein, ist nichts,<lb/>Doch sicher so zu sein.—In Banquo wurzelt<lb/>Tief Unsre Furcht; in seinem Königssinn<lb/>Herrscht was, das will gefürchtet sein. Viel wagt er,<lb/>Und außer diesem unerschrocknen Geist<lb/>Hat Weisheit er, die Führerin des Muts,<lb/>Zum sichern Wirken. Außer ihm ist keiner,<lb/>Vor dem ich zittern muß; und unter ihm<lb/>Beugt sich mein Genius scheu, wie, so erzählt man,<lb/>Vor Cäsar Mark Anton. Er schalt die Schwestern<lb/>Gleich, als sie mir den Namen König gaben,<lb/>Und hieß sie zu ihm sprechen; dann prophetisch<lb/>Begrüßten sie ihn Vater vieler Könge.<lb/>Mein Haupt empfing die unfruchtbare Krone;<lb/>Das dürre Zepter reichten sie der Faust,<lb/>Daß eine fremde Hand es mir entwinde,<lb/>Kein Sohn von mir es erbe. Ist es so?<lb/>Hab ich für Banquos Stamm mein Herz befleckt,<lb/>Für sie erwürgt den gnadenreichen Duncan,<lb/>In meinen Friedensbecher Gift gegossen<lb/>Einzig für sie und mein unsterblich Kleinod<lb/>Dem Erzfeind aller Menschen preisgegeben,<lb/>Zu krönen sie, zu krönen Banquos Brut!<lb/>Eh das geschieht, komm, Schicksal, in die Schranken<lb/>Und fordre mich auf Tod und Leben!—Holla!<lb/>
+                  </p>
+                  <p rend="justify">(Der Diener kommt mit zwei Mördern.)</p>
+                  <p rend="justify">Geh vor die Tür und warte, bis<lb/>Wir rufen.—<lb/>
+                  </p>
+                  <p rend="justify">(Der Diener geht ab.)</p>
+                  <p rend="justify">Wars gestern nicht, da wir einander sprachen?</p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>So war es, Majestät.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Gut denn, habt ihr<lb/>Nun meinen Reden nachgedacht? So wißt,<lb/>Daß er es ehmals war, der euch so schwer<lb/>Gedrückt, was, wie ihr wähntet, ich getan,<lb/>Der völlig schuldlos. Dies bewies ich euch<lb/>In unsrer Unterredung, macht' euch klar,<lb/>Wie man euch hinterging und hemmte; nannt euch<lb/>Die Werkzeug auch und wer mit ihnen wirkte,<lb/>Und alles sonst, was selbst 'ner halben Seele<lb/>Und blödstem Sinne zurief: Das tat Banquo!<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>So habt Ihrs uns erklärt.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich tat es und ging weiter; deshalb nun<lb/>Hab ich euch wieder her beschieden. Fühlt ihr<lb/>Geduld vorherrschend so in eurem Wesen,<lb/>Daß ihr dies hingehn laßt? Seid ihr so fromm,<lb/>Zu beten für den guten Mann und sein<lb/>Geschlecht, des schwere Hand zum Grab euch beugte,<lb/>Zu Bettlern machte euch und eure Kinder?<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Mein König, wir sind Männer.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ja, im Verzeichnis lauft ihr mit als Männer,<lb/>Wie Jagd- und Windhund, Blendling, Wachtelhund,<lb/>Spitz, Pudel, Schäferhund und Wolfshund, alle<lb/>Der Name Hund benennt. Das Rangregister<lb/>Scheidet dann erst den schnellen, trägen, klugen,<lb/>Den Hausbewacher und den Jäger, jeden<lb/>Nach seiner Eigenschaft, die ihm Natur<lb/>Liebreich geschenkt, wodurch ihm wird besondre<lb/>Bezeichnung aus der Schar, die alle gleich<lb/>Benamt, und so ists mit dem Menschen auch.<lb/>Habt ihr nun einen Platz im Rangregister,<lb/>Und nicht den schlechtsten in der Mannheit, sprecht;<lb/>Und solches Werk vertrau ich eurem Busen, Dessen<lb/>Vollstreckung euren Feind entrafft,<lb/>Herzinnig fest an Unsre Lieb euch schmiedet;<lb/>Da Unser Wohlsein kränkelt, wenn er lebt,<lb/>Und nur in seinem Tod gesundet.<lb/>
+                  </p>
+                  <p rend="justify">ZWEITER MÖRDER<lb/>Herr,<lb/>Mit hartem Stoß und Schlag hat mich die Welt<lb/>So aufgereizt, daß michs nicht kümmert, was<lb/>Der Welt zum Trotz ich tu.<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Und ich bin einer,<lb/>So matt von Elend, so zerzaust vom Unglück,<lb/>Daß ich mein Leben setz auf jeden Wurf,<lb/>Es zu verbessern oder loszuwerden.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ihr wißt es beide, Banquo war eur Feind.<lb/>
+                  </p>
+                  <p rend="justify">[ZWEITER] BEIDE MÖRDER<lb/>Gewiß, mein Fürst.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>So ist er meiner auch,<lb/>Und in so blutger Näh, daß jeder Pulsschlag<lb/>Von ihm nach meinem Herzensleben zielt.<lb/>Und wenngleich meine Macht mit offnem Antlitz<lb/>Ihn löschen könnt aus meinem Blick und frei<lb/>Mein Wort die Tat gestehn; doch darf ichs nicht,<lb/>Um manchen, der mir Freund ist so wie ihm,<lb/>Des Lieb ich nicht kann missen; seinen Fall<lb/>Muß ich beklagen, den ich selbst erschlug;<lb/>Und darum sprech ich euch um Beistand an,<lb/>Dem Pöbelauge das Geschäft verlarvend<lb/>Aus manchen wichtgen Gründen.<lb/>
+                  </p>
+                  <p rend="justify">ZWEITER MÖRDER<lb/>Wir vollziehn,<lb/>Was Ihr befehlt.<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Wenn unser Leben auch—<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Aus euren Augen leuchtet euer Mut.<lb/>In dieser Stunde spätstens meld ich euch,<lb/>Wo ihr euch stellt, bericht euch aufs genauste<lb/>Den Augenblick; denn heut nacht muß es sein,<lb/>Und etwas ab vom Schloß—stets dran gedacht,<lb/>Daß ich muß rein erscheinen! Und mit ihm,<lb/>Um nichts nur halb und obenhin zu tun,<lb/>Muß Fleance, sein Sohn, der ihm Gesellschaft leistet,<lb/>Des Wegsein mir nicht minder wichtig ist<lb/>Als seines Vaters, das Geschick mit ihm<lb/>Der dunkeln Stunde teilen.<lb/>Entschließt euch nun für euch; gleich komm ich wieder.<lb/>
+                  </p>
+                  <p rend="justify">[ZWEITER] BEIDE MÖRDER<lb/>Wir sind entschlossen, Herr.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>So ruf ich euch<lb/>Alsbald; verweilt da drin!<lb/>
+                  </p>
+                  <p rend="justify">(Die Mörder ab.)</p>
+                  <p rend="justify">Es ist entschieden.<lb/>Denkst, Banquo, du den Himmel zu gewinnen,<lb/>Muß deine Seel heut nacht den Flug beginnen.<lb/>
+                  </p>
+                  <p rend="justify">(Alle ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>ZWEITE SZENE</head>
+                  <p rend="start">(Daselbst, ein anderes Zimmer)</p>
+                  <p rend="justify">(Lady Macbeth tritt auf mit einem Diener.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Ist Banquo fort vom Hof?<lb/>
+                  </p>
+                  <p rend="justify">DIENER<lb/>Ja, Herrin, doch er kommt zurück heut abend.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Dem König meld, ich lasse ihn ersuchen<lb/>Um wenge Augenblicke.<lb/>
+                  </p>
+                  <p rend="justify">DIENER<lb/>Ich gehorche.<lb/>
+                  </p>
+                  <p rend="justify">(Er geht ab.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Nichts ist gewonnen, alles ist dahin,<lb/>Stehn wir am Ziel mit unzufriednem Sinn:<lb/>Viel sichrer, das zu sein, was wir zerstört,<lb/>Als daß Zerstörung schwankend Glück gewährt.<lb/>
+                  </p>
+                  <p rend="justify">(Macbeth tritt auf.)</p>
+                  <p rend="justify">Nun, teurer Freund, was bist du so allein<lb/>Und wählst nur trübe Bilder zu Gefährten?<lb/>Gedanken hegend, die doch tot sein sollten,<lb/>Wie jen', an die sie denken. Was unheilbar,<lb/>Vergessen sei's! Geschehn ist, was geschehn.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Verwundet ward die Schlange, nicht getötet;<lb/>Sie heilt und bleibt dieselb, indes ihr Zahn<lb/>Wie sonst gefährdet unsre arme Bosheit.<lb/>Doch ehe soll der Dinge Bau zertrümmern,<lb/>Die beiden Welten schaudern, eh wir länger<lb/>In Angst verzehren unser Mahl und schlafen<lb/>In der Bedrängnis solcher grausen Träume,<lb/>Die uns allnächtlich schütteln. Lieber bei<lb/>Dem Toten sein, den, Frieden uns zu schaffen,<lb/>Zum Frieden wir gesandt, als auf der Folter<lb/>Der Seel in ruheloser Qual zu zucken.<lb/>Duncan ging in sein Grab,<lb/>Sanft schläft er nach des Lebens Fieberschauern.<lb/>Sein Ärgstes tat Verrat: nicht Gift noch Dolch,<lb/>Einheimsche Bosheit, fremder Anfall, nichts<lb/>Kann ferner ihn berühren.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>O laß gut sein,<lb/>Mein liebster Mann, nun glätte deine Miene,<lb/>Sei froh und munter heut mit deinen Gästen!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Das will ich, Liebe, und sei's bitte auch!<lb/>Vor allem wend auf Banquo deine Sorgfalt<lb/>Und schenk ihm Auszeichnung mit Wort und Blick.<lb/>Unsicher noch sind wir genötigt, so<lb/>Zu baden unsre Würd in Schmeichelströmen;<lb/>Daß unser Antlitz Larve wird des Herzens,<lb/>Verbergend, was es ist.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Du mußt das lassen!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Oh, von Skorpionen voll ist mein Gemüt!<lb/>Du weißt, Geliebte, Banquo lebt und Fleance.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Doch gilt nicht ewig ihres Lebens Lehnsbrief.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ja, das ist Trost: man kann noch an sie kommen;<lb/>Drum sei du fröhlich! Eh die Fledermaus<lb/>Geendet ihren klösterlichen Flug,<lb/>Eh, auf den Ruf der dunkeln Hekate,<lb/>Der hornbeschwingte Käfer, schläfrig summend,<lb/>Die nächtge Schlummerglocke hat geläutet,<lb/>Ist eine Tat geschehn furchtbarer Art.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Was hast du vor?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Unschuldig bleibe, Kind, und wisse nichts,<lb/>Bis du der Tat kannst Beifall rufen. Komm<lb/>Mit deiner dunklen Binde, Nacht, verschließe<lb/>Des mitleidvollen Tages zartes Auge,<lb/>Streich durch mit unsichtbarer, blutger Hand<lb/>Und reiß in Stücke jenen großen Lehnsbrief,<lb/>Der meine Wangen bleicht!—Das Licht wird trübe,<lb/>Die Kräh erhebt den Flug zum dunstigen Wald;<lb/>Zum Schlaf duckt sich des Tages gute Welt,<lb/>Indes schwarz Nachtzeug seine Beut anfällt.<lb/>Du staunst mich an? Still!—Sündentsproßne Werke<lb/>Erlangen nur durch Sünden Kraft und Stärke.<lb/>So bitte, geh mit mir!<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehn ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>DRITTE SZENE</head>
+                  <p rend="start">(Daselbst, ein Park oder Rasen mit einem Tor, das zum [beim]<lb/>Schloß führt)<lb/>
+                  </p>
+                  <p rend="justify">(Drei Mörder treten auf.)</p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Wer aber hieß dich zu uns stoßen?<lb/>
+                  </p>
+                  <p rend="justify">DRITTER MÖRDER<lb/>Macbeth.<lb/>
+                  </p>
+                  <p rend="justify">ZWEITER MÖRDER<lb/>Man braucht ihm nicht zu mißtraun; denn er kennt<lb/>Unser Geschäft, das man uns aufgetragen,<lb/>Und weiß genau Bescheid.<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>So bleib bei uns.<lb/>Der West glimmt noch von schwachen Tagesstreifen,<lb/>Der Reiter spornt nun eilger durch die Dämmrung,<lb/>Zur Schenke noch zu kommen, und schon naht<lb/>Der, den wir hier erwarten.<lb/>
+                  </p>
+                  <p rend="justify">DRITTER MÖRDER<lb/>Pferde!—Horcht!<lb/>
+                  </p>
+                  <p rend="justify">BANQUO (hinter der Szene.)<lb/>Heda, bringt Licht!<lb/>
+                  </p>
+                  <p rend="justify">ZWEITER MÖRDER<lb/>Er muß es sein; die andern,<lb/>Die noch erwartet wurden, sind schon alle<lb/>Im Schloß.<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Die Pferde machen einen Umweg.<lb/>
+                  </p>
+                  <p rend="justify">DRITTER MÖRDER<lb/>Fast eine Meile; und er geht gewöhnlich,<lb/>Wie jeder tut, von hier bis an das Schloßtor<lb/>Zu Fuß.<lb/>
+                  </p>
+                  <p rend="justify">([Banquo und Fleance treten auf, ein Diener mit einer Fackel voran.])</p>
+                  <p rend="justify">ZWEITER MÖRDER<lb/>Ein Licht!<lb/>
+                  </p>
+                  <p rend="justify">DRITTER MÖRDER<lb/>Er ist es.<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Macht euch dran!<lb/>
+                  </p>
+                  <p rend="justify">(Banquo und Fleance treten mit einer Fackel auf.)</p>
+                  <p rend="justify">BANQUO 's kommt Regen noch zu Nacht.</p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>So mag er fallen!<lb/>
+                  </p>
+                  <p rend="justify">(Ersticht Banquo.)</p>
+                  <p rend="justify">BANQUO<lb/>Weh mir! Verrat! Flieh, guter Fleance, flieh, flieh!<lb/>Du kannst mein Rächer sein.—O Schurke!<lb/>
+                  </p>
+                  <p rend="justify">(Banquo stirbt. Fleance entkommt [und der Diener fliehn].)</p>
+                  <p rend="justify">DRITTER MÖRDER<lb/>Wer schlug das Licht aus?<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Wars nicht wohl getan?<lb/>
+                  </p>
+                  <p rend="justify">DRITTER MÖRDER<lb/>Nur einer liegt; der Sohn entfloh.<lb/>
+                  </p>
+                  <p rend="justify">ZWEITER MÖRDER<lb/>So ist<lb/>Die beste Hälfte unsrer Müh verloren.<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Gut, gehn wir denn und melden, was getan.<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehn ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>VIERTE SZENE</head>
+                  <p rend="start">(Daselbst.<lb/>Prunksaal im Schloß, gedeckte Tafel)<lb/>
+                  </p>
+                  <p rend="justify">(Es treten auf Macbeth, Lady Macbeth, Rosse, Lenox, Lords,<lb/>Gefolge.)<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ihr kennt selbst euren Rang: nehmt Platz! Willkommen<lb/>Seid ein für allemal!<lb/>
+                  </p>
+                  <p rend="justify">LORDS<lb/>Dank Euer Hoheit!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wir wollen Uns in die Gesellschaft mischen<lb/>Als aufmerksamer Wirt. Die Wirtin nahm<lb/>Schon ihren Sitz; doch mit Vergünstigung<lb/>Ersuchen Wir um ihren Gruß und Willkomm.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Sprich ihn für mich zu allen unsern Freunden;<lb/>Denn herzlich heiß ich alle sie willkommen.<lb/>
+                  </p>
+                  <p rend="justify">([Der erste Mörder tritt zur Seitentür ein.])</p>
+                  <p rend="justify">MACBETH<lb/>Sieh, ihres Herzens Dank kommt dir entgegen.<lb/>Gleich voll sind beide Seiten. Hier will ich<lb/>Mich in die Mitte setzen.<lb/>
+                  </p>
+                  <p rend="justify">(Der erste Mörder tritt zur Tür ein.)</p>
+                  <p rend="justify">Ungehemmt<lb/>Sei nun die Lust; gleich soll der Becher kreisen.—<lb/>
+                  </p>
+                  <p rend="justify">([Geht zur Tür.])</p>
+                  <p rend="justify">Auf deiner Stirn ist Blut.</p>
+                  <p rend="justify">MÖRDER<lb/>So ist es Banquos.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Viel besser draußen an dir, als in ihm drinnen!<lb/>So ist er abgetan?<lb/>
+                  </p>
+                  <p rend="justify">MÖRDER<lb/>Herr, seine Kehle<lb/>Ist durchgeschnitten. Das tat ich für ihn.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Du bist der beste Kehlabschneider; doch<lb/>Auch der ist gut, der das für Fleance getan;<lb/>Warst du's, so hast du deinesgleichen nicht.<lb/>
+                  </p>
+                  <p rend="justify">MÖRDER<lb/>Mein königlicher Herr, Fleance ist entwischt.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>So bin ich wieder krank; sonst wär gesund ich<lb/>Und stark wie Marmor, fest wie Fels gegründet,<lb/>Weit, allgemein, wie Luft und Windeshauch;<lb/>Doch jetzt bin ich umschränkt, gepfercht, umpfählt,<lb/>Geklemmt von niederträchtger Furcht und Zweifeln.<lb/>Doch Banquo ist uns sicher?<lb/>
+                  </p>
+                  <p rend="justify">MÖRDER<lb/>Ja, teurer Herr, im Graben liegt er sicher:<lb/>In seinem Kopfe zwanzig tiefe Wunden,<lb/>Die kleinst ein Lebenstod.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Nun, Dank! Da liegt<lb/>Die ausgewachsne Schlange; das entflohne<lb/>Gewürm ist giftig einst, nach seiner Art;<lb/>Doch zahnlos jetzt.—Nun mach dich fort; auf morgen<lb/>Vernehm ich mehr.<lb/>
+                  </p>
+                  <p rend="justify">(Mörder geht ab.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Mein königlicher Herr,<lb/>Ihr seid kein heitrer Wirt. Das Fest ist feil,<lb/>Wird nicht das Mahl durch Freundlichkeit gewürzt,<lb/>Durch Willkomm erst geschenkt. Man speist am besten<lb/>Daheim; doch auswärts macht die Höflichkeit<lb/>Den Wohlgeschmack der Speisen; nüchtern wäre<lb/>Gesellschaft sonst.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Du holde Mahnerin!—<lb/>Nun, auf die Eßlust folg ein gut Verdauen,<lb/>Gesundheit beiden!<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Gefällt es Eurer Hoheit, sich zu setzen?<lb/>
+                  </p>
+                  <p rend="justify">(Banquos Geist kommt und setzt sich auf Macbeths Platz.)</p>
+                  <p rend="justify">MACBETH<lb/>Beisammen wär uns hier des Landes Adel,<lb/>Wenn unser Freund nicht, unser Banquo, fehlte;<lb/>Doch möcht ich lieber ihn unfreundlich schelten,<lb/>Als eines Unfalls wegen ihn bedauern.<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Da er nicht kommt, verletzt er sein Versprechen.<lb/>Gefällts Eur Majestät, uns zu beglücken,<lb/>Indem Ihr Platz in unsrer Mitte nehmt?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Die Tafel ist voll.<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Hier ist ein Platz noch.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wo?<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Hier, teurer König. Was erschreckt Eur Hoheit?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Wer von euch tat das?<lb/>
+                  </p>
+                  <p rend="justify">LORDS<lb/>Was, mein guter Herr?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Du kannst nicht sagen, daß ichs tat! O schüttle<lb/>Nicht deine blutgen Locken gegen mich!<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Steht auf, Ihr Herrn, dem König ist nicht wohl.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Bleibt sitzen, Herrn, der König ist oft so<lb/>Und wars von Jugend an—o steht nicht auf!<lb/>Schnell geht vorbei der Anfall, augenblicks<lb/>Ist er dann wohl. Beachtet Ihr ihn viel,<lb/>So reizt Ihr ihn, und länger währt das Übel.<lb/>Eßt, seht ihn gar nicht an.—Bist du ein Mann?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ja, und ein kühner, der das wagt zu schauen,<lb/>Wovor der Teufel blaß wird.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Schönes Zeug!<lb/>Das sind die wahren Bilder deiner Furcht;<lb/>Das ist der luftge Dolch, der, wie du sagtest,<lb/>Zu Duncan dich geführt!—Ha, dieses Zucken,<lb/>Dies Starrn, Nachäffung wahren Schrecks, sie paßten<lb/>Zu einem Weibermärchen am Kamin, Bestätigt von<lb/>Großmütterchen.—O schäm dich!<lb/>Was machst du für Gesichter, denn am Ende<lb/>Schaust du nur auf 'nen Stuhl.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich bitt dich, sieh, blick auf, schau an!—Was sagst du?<lb/>Ha, meinethalb! Wenn du kannst nicken, sprich auch!<lb/>Wenn Grab und Beingewölb uns wiederschickt,<lb/>Die wir begruben, sei der Schlund der Geier<lb/>Uns Totengruft!<lb/>
+                  </p>
+                  <p rend="justify">(Der Geist geht fort.)</p>
+                  <p rend="justify">LADY MACBETH<lb/>Was! Ganz entmannt von Torheit!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>So wahr ich leb, ich sah ihn!<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>O der Schmach!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Blut ward auch sonst vergossen, schon vor alters,<lb/>Eh menschlich Recht den frommen Staat verklärte,<lb/>Ja, auch seitdem geschah so mancher Mord,<lb/>Zu schrecklich für das Ohr: da wars doch so,<lb/>Daß, war das Hirn heraus, der Mann auch starb,<lb/>Und damit gut. Doch heute stehn sie auf,<lb/>Mit zwanzig Todeswunden an den Köpfen,<lb/>Und stoßen uns von unsern Stühlen: Das<lb/>Ist wohl seltsamer noch als solch ein Mord.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Mein König, Ihr entzieht Euch Euren Freunden.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ha, ich vergaß!<lb/>Staunt über mich nicht, meine würdgen Freunde;<lb/>Ich hab ein seltsam Übel, das nichts ist<lb/>Für jene, die mich kennen. Allen Wohlsein<lb/>Und Lieb! Ich will mich setzen. Wein! Füllt voll!<lb/>
+                  </p>
+                  <p rend="justify">([Der Geist kommt.])</p>
+                  <p rend="justify">So trink ich auf das Wohl der ganzen Tafel,<lb/>Und Banquos, unsers Freunds, den wir vermissen.<lb/>Wär er doch hier! Sein Wohlergehen wie aller<lb/>Trink ich: Ihm, Euch!<lb/>
+                  </p>
+                  <p rend="justify">LORDS<lb/>Wir danken pflichtergeben.<lb/>
+                  </p>
+                  <p rend="justify">(Der Geist erscheint wieder.)</p>
+                  <p rend="justify">MACBETH<lb/>Aus meinen Augen!—Weg!—Die Erd verberg dich!<lb/>Marklos ist dein Gebein, dein Blut ist kalt,<lb/>Du hast kein Anschaun mehr in diesen Augen,<lb/>Mit denen du so stierst.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Nehmt dies, Ihr Herrn,<lb/>Als was Alltägliches, nichts weiter ists;<lb/>Nur daß es uns des Abends Lust verdirbt.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Was einer wagt, wag ich!<lb/>Komm du mir nah als zottger russischer Bär,<lb/>Geharnischt Nashorn, Tiger aus Hyrkanien,<lb/>Nimm jegliche Gestalt, nur diese nicht—<lb/>Nie werden meine festen Nerven beben.<lb/>Oder sei lebend wieder, fordre mich<lb/>In eine Wüst aufs Schwert; verkriech ich mich<lb/>Dann zitternd, ruf mich aus als Dirnenpuppe!<lb/>Hinweg, gräßlicher Schatten,<lb/>Unkörperliches Blendwerk, fort!<lb/>
+                  </p>
+                  <p rend="justify">(Geist entweicht.)</p>
+                  <p rend="justify">Ha, so!<lb/>Du nicht mehr da, nun bin ich wieder Mann.—<lb/>Ich bitte, steht nicht auf!<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Ihr habt die Lust<lb/>Verscheucht und die Geselligkeit gestört<lb/>Durch höchst fremdartge Grillen.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Kann solch Wesen<lb/>An uns vorüberziehn wie Sommerwolken,<lb/>Ohn unser mächtig Staunen? Ihr entfremdet<lb/>Mich meinem eignen Selbst, bedenk ich jetzt,<lb/>Daß ihr anschaut Gesichte solcher Art,<lb/>Und doch die Röte eurer Wangen bleibt,<lb/>Wenn Schreck die meinen bleicht.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Was für Gesichte?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Ich bitt Euch, sprecht nicht; er wird schlimm und schlimmer;<lb/>Fragen bringt ihn in Wut. Gut Nacht mit eins!<lb/>Beim Weggehn haltet nicht auf Euern Rang,<lb/>Geht all zugleich!<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Wir wünschen Eurer Hoheit<lb/>Gut Nacht und beßres Wohl.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Gut Nacht Euch allen!<lb/>
+                  </p>
+                  <p rend="justify">(Alle Lords nebst Gefolge gehn ab.)</p>
+                  <p rend="justify">MACBETH<lb/>Es fordert Blut, sagt man; Blut fordert Blut.<lb/>Man sah, daß Fels sich regt' und Bäume sprachen,<lb/>Auguren haben durch Geheimnis-Deutung<lb/>Von Elstern, Krähn und Dohlen ausgefunden<lb/>Den tief verborgnen Mörder.—Wie weit ist die Nacht?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Im Kampf fast mit dem Tag, ob Nacht, ob Tag.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Was sagst du, daß Macduff zu kommen weigert<lb/>Auf unsre Ladung?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Sandtest du nach ihm?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich hörts von ungefähr; doch will ich senden.<lb/>Kein einzger, in des Haus mir nicht bezahlt<lb/>Ein Diener lebte. Morgen will ich hin<lb/>Und in der Frühe zu den Zauberschwestern;<lb/>Sie sollen mehr mir sagen, denn gespannt<lb/>Bin ich, das Schlimmst auf schlimmstem Weg zu wissen.<lb/>Zu meinem Vorteil muß sich alles fügen;<lb/>Ich bin einmal so tief in Blut gestiegen,<lb/>Daß, wollt ich nun im Waten stillestehn,<lb/>Rückkehr so schwierig war als durchzugehn.<lb/>Seltsames glüht im Kopf, es will zur Hand<lb/>Und muß getan sein, eh noch recht erkannt.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Dir fehlt die Würze aller Wesen, Schlaf.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Zu Bett!—Daß selbstgeschaffnes Graun mich quält,<lb/>Ist Furcht des Neulings, dem die Übung fehlt.<lb/>Wahrlich, wir sind zu jung nur.<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehen ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>FÜNFTE SZENE</head>
+                  <p rend="start">(Die Heide, Donner)</p>
+                  <p rend="justify">(Hekate kommt, die drei Hexen ihr entgegen.)</p>
+                  <p rend="justify">ERSTE HEXE<lb/>Was gibt es, Hekate, warum so zornig?<lb/>
+                  </p>
+                  <p rend="justify">HEKATE<lb/>Ihr garstgen Vetteln, hab ich denn nicht recht?<lb/>Da ihr euch, dreist und unverschämt, erfrecht<lb/>Und treibt mit Macbeth euren Spuk,<lb/>In Rätselkram, in Mord und Trug?<lb/>Und ich, die Meistrin eurer Kraft,<lb/>Die alles Unheil wirkt und schafft,<lb/>Mich bat man nicht um meine Gunst,<lb/>Zu Ehr und Vorteil unsrer Kunst?<lb/>Und, schlimmer noch: was ihr getan,<lb/>Nützt nur dem eigensinnigen Mann,<lb/>Voll Tück und Grimm. Wie alle Welt<lb/>Ers nur mit sich, mit euch nicht hält.<lb/>Das bessert nun! Macht euch davon,<lb/>Und an dem Pfuhl des Acheron<lb/>Trefft morgen früh mich! Er kommt hin,<lb/>Zu hören seines Schicksals Sinn.<lb/>Mit Hexenspuk und Sprüchen seid<lb/>Und jedem Zauberkram bereit.<lb/>Ich muß zur Luft hinauf; die Nacht<lb/>Wird auf ein Unheilswerk verbracht;<lb/>Groß Werk vor Mittag werden soll.<lb/>Ein Tropfen, giftger Dünste voll,<lb/>An einem Horn des Mondes blinkt,<lb/>Den fang ich, eh er niedersinkt;<lb/>Der, destilliert mit Zauberflüchen,<lb/>Ruft Geister, die mit listgen Sprüchen<lb/>Ihn mächtig täuschen, daß Betörung<lb/>Ihn treibt zu eigener Zerstörung.<lb/>Schicksal und Tod soll er verachten,<lb/>Nicht kennen Furcht, nach Gnad nicht trachten.<lb/>Ihr wißt es ja, daß Sicherheit<lb/>Des Menschen Erbfeind jederzeit. (Musik hinter der<lb/>Szene. Gesang: "Komm hinfort, komm hinfort" etc.)<lb/>[Fort jetzt] Hört zu! Dort sitzt mein kleiner Geist, o schaut,<lb/>In einer dunkeln Wolk und ruft mich laut.<lb/>
+                  </p>
+                  <p rend="justify">(Gesang hinter der Szene:)</p>
+                  <p rend="justify">Komm herbei, komm herbei!<lb/>Hekate, o komm herbei!<lb/>
+                  </p>
+                  <p rend="justify">HEKATE<lb/>Ich komm, ich komm, ich komme!<lb/>So schnell ich immer kann!<lb/>So schnell ich immer kann!]] (Ab.)<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Fort, laßt uns eilen; bald kommt sie zurück.<lb/>
+                  </p>
+                  <p rend="justify">(Ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>SECHSTE SZENE</head>
+                  <p rend="start">(Fores, im Schloß)</p>
+                  <p rend="justify">(Lenox und ein Lord treten auf.)</p>
+                  <p rend="justify">LENOX<lb/>Mein Wort berührt nur leicht, was Ihr gedacht;<lb/>Sinnt ferner drüber nach. Ich sage nur,<lb/>Seltsam gings zu: der gnadenreiche Duncan<lb/>Ward von Macbeth beklagt. Nun, er war tot!<lb/>Der wackre Banquo ging zu spät noch aus.<lb/>Wollt Ihr, so könnt Ihr sagen: Fleance erschlug ihn,<lb/>Denn Fleance entfloh. Man muß so spät nicht ausgehn.<lb/>Wer kann wohl anders, als es schändlich finden,<lb/>Daß Donalbain und Malcolm töteten<lb/>Den gnadenreichen Vater? Höllsche Untat!<lb/>Wie grämte Macbeth sich! Erschlug er nicht<lb/>In frommer Wut die beiden Täter gleich,<lb/>Die weinbetäubt und schlaf versunken waren?<lb/>Wars edel nicht getan? Ja, klüglich auch;<lb/>Denn jedes Menschen Seel hätt es empört,<lb/>Ihr Leugnen anzuhören. Also sag ich,<lb/>Alles verfügt' er wohl. So denk ich auch,<lb/>Hätt Duncans Söhn er hinter Schloß und Riegel<lb/>—Was, mit des Himmels Hülfe, nie geschehn soll—,<lb/>Sie würden fühlen, was es sagen will,<lb/>Den Vater zu ermorden; so auch Fleance.<lb/>Doch still, für dreiste Wort, und weil er ausblieb<lb/>Beim Feste des Tyrannen, fiel Macduff<lb/>In Ungunst, wie ich hör. Wißt Ihr, wo Malcolm<lb/>Sich aufhält?<lb/>
+                  </p>
+                  <p rend="justify">LORD<lb/>Duncans Sohn, durch den Tyrannen<lb/>Beraubt des Erbrechts, lebt an Englands Hof,<lb/>Wo ihn der fromme Eduard aufgenommen,<lb/>So huldreich, daß des Glückes Bosheit nichts<lb/>Ihm raubt an Achtung. Dorthin will Macduff,<lb/>Des heilgen Königs Hülfe zu erbitten,<lb/>Daß er Northumberland und Siward sende,<lb/>Damit durch ihren Beistand, nächst dem Schutz<lb/>Des Himmels, wir von neuem schaffen mögen<lb/>Den Tafeln Speis und unsern Nächten Schlaf,<lb/>Fest und Bankett befrein von blutgen Messern,<lb/>Mit Treuen huldgen, freie Ehr empfangen,<lb/>Was alles uns jetzt fehlt; und diese Nachricht<lb/>Hat so den König aufgeregt, daß er<lb/>Zum Kriege rüstet.<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Sandte er zu Macduff?<lb/>
+                  </p>
+                  <p rend="justify">LORD<lb/>Ja; doch mit einem kurzen "Herr, nicht ich"<lb/>Schickt er den finstern Boten heim; der murmelt,<lb/>Als wollt er sagen: Ihr bereut die Stunde,<lb/>Die mich beschwert mit dieser Antwort.<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Dien ihm<lb/>Als Warnung das, so fern zu bleiben, wie<lb/>Ihm seine Weisheit rät. Ein heilger Engel<lb/>Flieg zu dem Hof von England und verkünde<lb/>Die Botschaft, eh er kommt, daß Segen schnell<lb/>Dies Land erfreue, von verfluchter Hand<lb/>So hart gedrückt!<lb/>
+                  </p>
+                  <p rend="justify">LORD<lb/>Auch mein Gebet sei mit ihm!<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehn ab.)</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Vierter Akt</head>
+               <div type="div3">
+                  <head>ERSTE SZENE</head>
+                  <p rend="start">(Eine finstre Höhle, in der Mitte ein brodelnder Kessel)</p>
+                  <p rend="justify">(Donner; die drei Hexen kommen.)</p>
+                  <p rend="justify">ERSTE HEXE<lb/>Die gelbe Katz hat dreimal miaut.<lb/>
+                  </p>
+                  <p rend="justify">ZWEITE HEXE<lb/>Drei- und einmal der Igel gequiekt.<lb/>
+                  </p>
+                  <p rend="justify">DRITTE HEXE<lb/>Harpyie schreit:—'s ist Zeit, 's ist Zeit!<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Um den Kessel dreht euch rund!<lb/>Giftgekrös in seinen Schlund!<lb/>Kröt, die unterm kalten Stein<lb/>Tag' und Nächte, dreißig und ein,<lb/>Giftschleim schlafend ausgegoren,<lb/>Sollst zuerst im Kessel schmoren!<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Doppelt plagt euch, mengt und mischt!<lb/>Kessel brodelt, Feuer zischt.<lb/>
+                  </p>
+                  <p rend="justify">ZWEITE HEXE<lb/>Sumpfger Schlange Schwanz und Kopf<lb/>Brat und koch im Zaubertopf:<lb/>Molchesaug und Unkenzehe,<lb/>Hundezung und Hirn der Krähe;<lb/>Zäher Saft des Bilsenkrauts,<lb/>Eidechsbein und Flaum vom Kauz:<lb/>Starken Zauber eingemischt!<lb/>Höllenbrei im Kessel zischt.<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Doppelt plagt euch, mengt und mischt!<lb/>Kessel brodelt, Feuer zischt.<lb/>
+                  </p>
+                  <p rend="justify">DRITTE HEXE<lb/>Wolfeszahn und Kamm des Drachen,<lb/>Hexenmumie, Gaum und Rachen<lb/>Aus des Haifischs scharfem Schlund;<lb/>Schierlingswurz aus finsterm Grund;<lb/>Auch des Lästerjuden Lunge, Türkennase, Tatarzunge;<lb/>Eibenreis, vom Stamm gerissen<lb/>In des Mondes Finsternissen;<lb/>Hand des gleich erwürgten Knaben,<lb/>Den die Metz gebar im Graben,<lb/>Dich soll nun der Kessel haben.<lb/>Tigereingeweid hinein,<lb/>Und der Brei wird fertig sein.<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Doppelt plagt euch, mengt und mischt!<lb/>Kessel brodelt, Feuer zischt.<lb/>
+                  </p>
+                  <p rend="justify">ZWEITE HEXE<lb/>Kühlt es nun mit Paviansblut,<lb/>Zauber wird dann stark und gut!<lb/>
+                  </p>
+                  <p rend="justify">(Hekate kommt.)</p>
+                  <p rend="justify">HEKATE<lb/>Recht so! Ich lobe euer Walten;<lb/>Und jede soll auch Lohn erhalten.<lb/>Nun um den Kessel reiht euch, singt<lb/>Kobolden gleich in einem Ring,<lb/>Verhexend alles, was darin!<lb/>
+                  </p>
+                  <p rend="justify">(Gesang)</p>
+                  <p rend="justify">Geister weiß [und grau,<lb/>Geister rot und blau,<lb/>Rührt, rührt, rührt,<lb/>Rührt aus aller Kraft!]<lb/>
+                  </p>
+                  <p rend="justify">(Hekate ab.)</p>
+                  <p rend="justify">ZWEITE HEXE<lb/>Ha, mir juckt der Daumen sehr,<lb/>Etwas Böses kommt hieher!<lb/>
+                  </p>
+                  <p rend="justify">([Klopfen.])</p>
+                  <p rend="justify">Laßt ihn ein, wers mag sein.</p>
+                  <p rend="justify">(Macbeth tritt auf.)</p>
+                  <p rend="justify">MACBETH<lb/>Nun, ihr geheimen, schwarzen Nachtunholde!<lb/>Was macht ihr da?<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Ein namenloses Werk.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Bei dem, was ihr da treibt, beschwör ich euch<lb/>—Wie ihr zur Kund auch kommt—, antwortet mir:<lb/>Entfesselt ihr den Sturm gleich, daß er kämpft<lb/>Gegen die Kirchen, und die schäumgen<lb/>Wogen Vernichten und verschlingen alle Schiffahrt,<lb/>Daß reifes Korn sich legt und Wälder brechen,<lb/>Daß Burgen auf den Schloßwart niederprasseln,<lb/>Daß Pyramiden und Paläste beugen<lb/>Bis zu dem Grund die Häupter; müßte selbst<lb/>Der ganze Schatz der zeugenden Natur<lb/>Zusammentaumeln, bis Vernichtung selbst<lb/>Vergeht: Gebt Antwort mir auf meine Fragen!<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Sprich!<lb/>
+                  </p>
+                  <p rend="justify">ZWEITE HEXE<lb/>Frag!<lb/>
+                  </p>
+                  <p rend="justify">DRITTE HEXE<lb/>Wir geben Antwort.<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Hörst du's aus unserm Munde lieber oder<lb/>Von unsern Meistern?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ruft sie, ich will sie sehn!<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Gießt der Sau Blut, die neun Jungen<lb/>Fraß, noch zu; werft Fett, gedrungen<lb/>Aus des Mörders Rabenstein,<lb/>In die Glut!<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Kommt, groß und klein!<lb/>Seid dienstbehend und stellt euch ein!<lb/>
+                  </p>
+                  <p rend="justify">(Donner. Ein bewaffnetes Haupt steigt aus dem Kessel.)</p>
+                  <p rend="justify">MACBETH<lb/>Sprich, unbekannte Macht—<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Er weiß dein Fragen:<lb/>Hören mußt du, selbst nichts sagen.<lb/>
+                  </p>
+                  <p rend="justify">DIE ERSCHEINUNG<lb/>Macbeth! Macbeth! Macbeth! Scheu den Macduff,<lb/>Scheue den Than von Fife.—Laßt mich—genug!<lb/>
+                  </p>
+                  <p rend="justify">(Versinkt.)</p>
+                  <p rend="justify">MACBETH<lb/>Wer du auch seist, für deine Warnung Dank!<lb/>Du trafst den wunden Fleck.—Doch noch ein Wort—<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Er läßt sich nicht befehlen. Hier ein andrer,<lb/>Mächtger als jener.<lb/>
+                  </p>
+                  <p rend="justify">(Donner. Ein blutiges Kind steigt aus dem Kessel.)</p>
+                  <p rend="justify">DIE ERSCHEINUNG<lb/>Macbeth! Macbeth! Macbeth!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Hätt ich drei Ohren, hört ich dich.<lb/>
+                  </p>
+                  <p rend="justify">DIE ERSCHEINUNG<lb/>Sei blutig, kühn und fest, lach aller Toren:<lb/>Dir schadet keiner, den ein Weib geboren;<lb/>Kein solcher kränkt Macbeth.<lb/>
+                  </p>
+                  <p rend="justify">(Versinkt.)</p>
+                  <p rend="justify">MACBETH<lb/>Dann leb, Macduff, was brauch ich dich zu fürchten?<lb/>Doch mach ich doppelt sicher Sicherheit<lb/>Und nehm ein Pfand vom Schicksal. Du sollst sterben!<lb/>Dann sag ich zu der bleichen Furcht: du lügst!—<lb/>Und schlafe trotz dem Donner.<lb/>
+                  </p>
+                  <p rend="justify">([Donner. Ein gekröntes Kind steigt aus dem Kessel, mit einem<lb/>Baum in der Hand.])<lb/>
+                  </p>
+                  <p rend="justify">Was ist das,</p>
+                  <p rend="justify">(Donner. Die Erscheinung eines gekrönten Kindes mit einem<lb/>Baum in der Hand steigt auf.)<lb/>
+                  </p>
+                  <p rend="justify">Das aufsteigt wie der Sprößling eines Königs<lb/>Und um die Kindesstirn geflochten hat<lb/>Den Kranz der Majestät?<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Horch; sprichs nicht an!<lb/>
+                  </p>
+                  <p rend="justify">DIE ERSCHEINUNG<lb/>Sei löwenkühn und stolz; nichts darfst du scheuen,<lb/>Wer tobt, wer knirscht, und ob Verräter dräuen:<lb/>Macbeth wird nie besiegt, bis einst hinan<lb/>Der große Birnams-Wald zum Dunsinan<lb/>Feindlich emporsteigt.<lb/>
+                  </p>
+                  <p rend="justify">(Versinkt.)</p>
+                  <p rend="justify">MACBETH<lb/>Das kann nimmer werden!<lb/>Wer wirbt den Wald, heißt Bäume von der Erden<lb/>Die Wurzel lösen? Wie der Spruch entzückt!<lb/>Aufruhr ist tot, bis Birnams Waldung rückt<lb/>Bergan, und Macbeth lebt in seiner Hoheit<lb/>Bis an das Ziel der Tage, zahlt Tribut<lb/>Nur der Natur und Zeit.<lb/>Doch klopft mein Herz, nur eins noch zu erfahren;<lb/>Sprecht, kann mir eure Kunst dies offenbaren:<lb/>Wird Banquos Same je dies Reich regieren?<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Frag weiter nichts!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich will befriedigt sein! Versagt mir das,<lb/>Und seid verflucht auf ewig! Laßt mich wissen—<lb/>
+                  </p>
+                  <p rend="justify">([Oboen.])</p>
+                  <p rend="justify">Warum versinkt der Kessel? Welch Getön?</p>
+                  <p rend="justify">(Oboen.)</p>
+                  <p rend="justify">ERSTE HEXE<lb/>Erscheint!<lb/>
+                  </p>
+                  <p rend="justify">ZWEITE HEXE<lb/>Erscheint!<lb/>
+                  </p>
+                  <p rend="justify">DRITTE HEXE<lb/>Erscheint!<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Erscheint dem Aug und quält den Sinn,<lb/>Wie Schatten kommt und fahrt dahin!<lb/>
+                  </p>
+                  <p rend="justify">(Acht Könige erscheinen und gehen über die Bühne, der letzte trägt einen Spiegel; Banquo folgt.)</p>
+                  <p rend="justify">MACBETH<lb/>Du bist zu ähnlich Banquos Geist! Hinab!<lb/>Dein Diadem brennt mir die Augen.—Und du<lb/>Mit goldumwundner Stirne gleichst dem ersten—<lb/>Ein dritter wie der zweite! Garstge Hexen,<lb/>Was zeigt ihr das? Ein vierter! Blick, erstarre!<lb/>Wie, dehnt die Reih sich bis zum Jüngsten Tag?<lb/>Und noch?—Ein siebter!—Ich will nichts mehr sehn.—<lb/>Da kommt der achte noch und hält 'nen Spiegel,<lb/>Der mir viel andre zeigt, und manche seh ich,<lb/>Die zwei Reichsäpfel und drei Zepter tragen—<lb/>Furchtbarer Anblick! Ja, ich seh, 's ist wahr;<lb/>Denn blutbesudelt lächelt Banquo her<lb/>Und deutet auf sie als die Seinen.—Ists so?<lb/>
+                  </p>
+                  <p rend="justify">ERSTE HEXE<lb/>Ja, alles ist so.—Doch warum<lb/>Steht Macbeth da so starr und stumm?<lb/>Auf, zu ermuntern seinen Geist,<lb/>Ihm unsre schönsten Künste weist!<lb/>Durch Zauber schaff ich luftge Weisen,<lb/>Auf, tanzt in vielverschlungnen Kreisen!<lb/>Der König soll uns Lob gewähren,<lb/>Sein Kommen wußten wir zu ehren.<lb/>
+                  </p>
+                  <p rend="justify">(Musik; die Hexen tanzen und verschwinden.)</p>
+                  <p rend="justify">MACBETH<lb/>Wo sind sie? Fort? Mag diese Unglücksstunde<lb/>Verflucht auf ewig im Kalender stehn!—<lb/>Herein, du draußen!<lb/>
+                  </p>
+                  <p rend="justify">(Lenox tritt auf.)</p>
+                  <p rend="justify">LENOX<lb/>Was befiehlt Eur Hoheit?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Sahst du die Zauberschwestern?<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Nein, mein König.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Sie kamen nicht vorbei?<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Gewiß nicht, Herr.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Verpestet sei die Luft, auf der sie fahren,<lb/>Und alle die verdammt, so ihnen trauen!<lb/>Ich hörte Pferdgalopp—wer kam vorbei?<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Zwei oder drei, Herr, die Euch Nachricht brachten,<lb/>Daß Macduff floh nach England.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Floh nach England?<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>Ja, gnädger Herr.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>O Zeit, vor eilst du meinem grausen Tun!<lb/>Nie wird der flüchtge Vorsatz eingeholt,<lb/>Geht nicht die Tat gleich mit. Von Stund an nun<lb/>Sei immer meines Herzens Erstling auch<lb/>Erstling der Hand. Und den Gedanken gleich<lb/>Zu krönen, sei's getan, so wie gedacht.<lb/>Die Burg Macdufis will ich jetzt überfallen;<lb/>Fife wird erobert, und dem Schwert geopfert<lb/>Sein Weib und Kind und alle armen Seelen<lb/>Aus seinem Stamm. Das ist nicht Torenwut;<lb/>Es ist getan, eh sich erkühlt mein Blut.<lb/>Nur keine Geister mehr!—Wo sind die Herrn?<lb/>Komm, führ mich hin zu ihnen.<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehn ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>ZWEITE SZENE</head>
+                  <p rend="start">(Fife, Zimmer in Macduffs Schloß)</p>
+                  <p rend="justify">(Es treten auf Lady Macduff, ihr kleiner Sohn und Rosse.)</p>
+                  <p rend="justify">LADY MACDUFF<lb/>Was tat er denn, landflüchtig so zu werden?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Geduldig müßt Ihr sein.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Er war es nicht!<lb/>Die Flucht ist Wahnsinn. Wenn nicht unsre Taten,<lb/>Macht Furcht uns zu Verrätern.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Wenig wißt Ihr,<lb/>Ob er der Weisheit oder Furcht gehorchte.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Weisheit! Sein Weib, die kleinen Kinder lassen,<lb/>Haushalt wie seine Würden, an dem Ort,<lb/>Von dem er selbst entflieht? Er liebt uns nicht,<lb/>Ihm fehlt natürliches Gefühl. Bekämpft<lb/>Der schwache Zaunkönig, das kleinste Vöglein,<lb/>Die Eule doch für seine Brut im Nest.<lb/>Bei ihm ist alles Furcht und Liebe nichts;<lb/>Nicht größer ist die Weisheit, wo die Flucht<lb/>So gegen die Vernunft rennt.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Teure Muhme,<lb/>Ich bitte, mäßigt Euch, denn Euer Gatte<lb/>Ist edel, klug, vorsichtig, kennt am besten<lb/>Der Tage Sturm. Nicht viel mehr darf ich sagen.<lb/>Doch harte Zeit ist, wenn Verräter wir<lb/>Sind unbewußt, wenn uns Gerüchte ängsten,<lb/>Aus Furcht nur, doch nicht wissend, was wir fürchten,<lb/>Getrieben auf empörtem, wildem Meer,<lb/>Nach allen Seiten hin.—So lebt denn wohl!<lb/>Nicht lang, und wieder frag ich vor bei Euch.<lb/>Was so tief sank, geht unter oder klimmt<lb/>Zur alten Höh empor. Mein Vetterchen,<lb/>Gott segne dich!<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Hat einen Vater und ist vaterlos!<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Ich bin so kindisch, daß ein längres Bleiben<lb/>Mich nur beschämen würd und Euch entmutgen:<lb/>Lebt wohl mit eins!<lb/>
+                  </p>
+                  <p rend="justify">(Er geht ab.)</p>
+                  <p rend="justify">LADY MACDUFF<lb/>Nun, Freund, tot ist dein Vater!<lb/>Und was fängst du nun an? Wie willst du leben?<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Wie Vögel, Mutter.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Wie, von Würmern? Fliegen?<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Nein, was ich kriegen kann; so machen sie's.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Du armer Vogel würdest nicht das Netz,<lb/>Leimrute, Schling und Falle fürchten.<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Wie doch?<lb/>Für arme Vögel stellt man die nicht auf.—<lb/>Mein Vater ist nicht tot, was du auch sagst.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Ja, doch; wo kriegst du nun 'nen Vater her?<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Nun, wo kriegst du 'nen Mann her?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Ei, zwanzig kauf ich mir auf jedem Markt.<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>So kaufst du sie, sie wieder zu verkaufen.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Du sprichst so klug du kannst, und für dein Alter<lb/>Doch wahrlich klug genug.<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>War mein Vater ein Verräter, Mutter?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Ja, das war er.<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Was ist ein Verräter?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Nun, einer, der schwört und es nicht hält.<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Und sind alle Verräter, die das tun?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Jeder, der das tut, ist ein Verräter und muß aufgehängt werden.<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Müssen denn alle aufgehängt werden, die schwören und es nicht halten?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Jawohl.<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Wer muß sie denn aufhängen?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Nun, die ehrlichen Leute.<lb/>
+                  </p>
+                  <p rend="justify">SOHN Dann sind die, welche schwören und es nicht halten, rechte Narren; denn ihrer sind so viele, daß sie die ehrlichen Leute schlagen könnten und aufhängen dazu.</p>
+                  <p rend="justify">LADY MACDUFF Nun, Gott stehe dir bei, armes Äffchen! Aber was willst du nun anfangen, um einen Vater zu bekommen?</p>
+                  <p rend="justify">SOHN<lb/>Wenn er tot wäre, so würdest du um ihn weinen, und tätest du das<lb/>nicht, so wäre es ein gutes Zeichen, daß ich bald einen neuen<lb/>Vater bekomme.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Armes Närrchen, wie du plauderst!<lb/>
+                  </p>
+                  <p rend="justify">(Ein Bote tritt auf.)</p>
+                  <p rend="justify">BOTE<lb/>Gott mit Euch, schöne Frau! Ihr kennt mich nicht,<lb/>Doch weiß ich Euren Stand und edeln Namen.<lb/>Ich fürchte, daß Gefahr Euch nah bedroht;<lb/>Verschmäht Ihr nicht den Rat 'nes schlichten Mannes,<lb/>So bleibt nicht hier; schnell fort mit Euren Kleinen!<lb/>Euch so zu schrecken bin ich grausam zwar,<lb/>Doch wärs Unmenschlichkeit, es nicht zu tun,<lb/>Da die Gefahr so nah. Der Himmel schütz Euch!<lb/>Ich darf nicht weilen.<lb/>
+                  </p>
+                  <p rend="justify">(Er geht ab.)</p>
+                  <p rend="justify">LADY MACDUFF<lb/>Wohin sollt ich fliehn?<lb/>Ich tat nichts Böses. Doch jetzt denk ich dran:<lb/>Dies ist die irdsche Welt, wo Böses tun<lb/>Oft löblich ist und Gutes tun zuweilen<lb/>Schädliche Torheit heißt. Warum denn, ach,<lb/>Verlaß ich mich auf diese Frauenwaffe<lb/>Und sag, ich tat nichts Böses?<lb/>
+                  </p>
+                  <p rend="justify">([Die Mörder kommen.])</p>
+                  <p rend="justify">Was für Gesichter?</p>
+                  <p rend="justify">(Mörder treten auf.)</p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Wo ist Euer Mann?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACDUFF<lb/>Nicht, hoff ich, an so unheiligem Ort,<lb/>Wo deinesgleichen ihn findet.<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Der Verräter!<lb/>
+                  </p>
+                  <p rend="justify">SOHN<lb/>Du lügst, struppköpfiger Schurke!<lb/>
+                  </p>
+                  <p rend="justify">ERSTER MÖRDER<lb/>Was, du Ei!<lb/>
+                  </p>
+                  <p rend="justify">(Ersticht ihn.)</p>
+                  <p rend="justify">Verräterbrut!</p>
+                  <p rend="justify">([Ersticht das Kind.])</p>
+                  <p rend="justify">SOHN<lb/>Er hat mich umgebracht!<lb/>Mutter, ich bitte dich, lauf fort!<lb/>
+                  </p>
+                  <p rend="justify">(Stirbt. Lady Macduff geht ab, "Mord" schreiend und von den Mördern verfolgt.)</p>
+                  <p rend="justify">LADY MACDUFF (entflieht und schreit:) Mord!</p>
+                  <p rend="justify">(Die Mörder verfolgen sie.)]</p>
+               </div>
+               <div type="div3">
+                  <head>DRITTE SZENE</head>
+                  <p rend="start">(England. [Park beim] Vor dem königlichen Schloß)</p>
+                  <p rend="justify">(Malcolm und Macduff treten auf.)</p>
+                  <p rend="justify">MALCOLM<lb/>Laßt uns einsamen Schatten suchen und<lb/>Durch Tränen unser Herz erleichtern.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Lieber<lb/>Laßt uns, das Todesschwert ergreifend, wacker<lb/>Aufstehn für unser hingestürztes Recht.<lb/>An jedem Morgen heulen neue Witwen,<lb/>Und neue Waisen schreien; neuer Jammer<lb/>Schlägt an des Himmels Wölbung, daß er tönt,<lb/>Als fühlt' er Schottlands Schmerz und hallte gellend<lb/>Den Klagelaut zurück.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Das, was ich glaube,<lb/>Will ich betrauern, glauben, was ich weiß,<lb/>Und helfen will ich, wo ich kann, wenn Zeit<lb/>Und Freund' ich finde.<lb/>Was Ihr mir erzählt,<lb/>Kann wohl sich so verhalten. Der Tyrann,<lb/>Des Name schon die Zung uns schwären macht,<lb/>Galt einst für ehrlich. Ihr habt ihn geliebt;<lb/>Noch kränkt' er Euch nicht.<lb/>Ich bin jung, doch etwas<lb/>Könnt Ihr durch mich von ihm verdienen. Klug ists,<lb/>Ein arm, unschuldig, schwaches Lamm zu opfern,<lb/>Um einen zorngen Gott zu sühnen.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Ich bin kein Verräter.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Aber Macbeth ists.<lb/>Auch strenge Tugend kann sich schrecken lassen<lb/>Durch königliches Machtwort.—Doch verzeiht!<lb/>Mein Denken kann das, was Ihr seid, nicht wandeln.<lb/>Stets sind die Engel hell, fiel auch der hellste;<lb/>Borgt alles Schlechte auch den Schein der Tugend,<lb/>Doch müßte Tugend wie sie selbst erscheinen.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>So hab ich meine Hoffnung denn verloren!<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Vielleicht da, wo ich meinen Zweifel fand.<lb/>Wie, in der Hast verließt Ihr Weib und Kind,<lb/>So teure Pfänder, mächtge Liebesknoten,<lb/>Selbst ohne Abschiednehmen? Ich ersuch Euch—<lb/>Mein Mißtraun spricht nicht so. Euch zu entehren,<lb/>Nur, mich zu sichern. Ihr könnt rein und treu sein,<lb/>Was ich von Euch auch denke.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Blute, blute,<lb/>Du armes Vaterland! So lege festen Grund denn,<lb/>Tyrannei, Rechtmäßigkeit wagt nicht, dich anzugreifen!<lb/>Trage dein Leid, dein echter Herrscher zittert!<lb/>Prinz, lebe wohl! Nicht möcht ich sein der Schurke,<lb/>Den du mich achtest, für den weiten Raum,<lb/>Den der Tyrann in seinen Klauen hält,<lb/>Zusamt dem reichen Ost.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Sei nicht beleidigt!<lb/>Nicht unbedingter Argwohn sprach aus mir.<lb/>Ich glaub es, unser Land erliegt dem Joch.<lb/>Es weint und blutet; jeder neue Tag<lb/>Schlägt neue Wunden ihm. Auch glaub ich wohl,<lb/>Daß Hände sich erhöben für mein Recht.<lb/>So bietet der huldreiche England mir<lb/>Manch wackres Tausend. Doch, bei alledem,<lb/>Wenn ich nun tret auf des Tyrannen Haupt,<lb/>Es trag auf meinem Schwert, wird größre Laster<lb/>Mein armes Land noch tragen als zuvor,<lb/>Mehr dulden und auf schlimmre Art als je,<lb/>Durch den, der folgen wird.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Wer wäre dieser?<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Mich selber mein ich, in dem, wie ich weiß,<lb/>Die Keime aller Laster so geimpft sind,<lb/>Daß, brechen sie nun auf, der schwarze Macbeth<lb/>Rein scheint wie Schnee und er dem armen Staat<lb/>Lammartig dünkt, vergleicht er ihn mit meiner<lb/>Maßlosen Sündlichkeit.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Nicht in Legionen<lb/>Der grausen Höll ist ein verruchtrer Teufel,<lb/>Der Macbeth überragt.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Wohl ist er blutig,<lb/>Wollüstig, geizig, falsch, betrügerisch,<lb/>Jähzornig, tückisch; schmeckt nach jeder Sünde,<lb/>Die Namen hat. Doch völlig unstillbar<lb/>Treibt mich Begierde; eure Weiber, Töchter,<lb/>Jungfraun, Matronen könnten nicht ausfüllen<lb/>Den Abgrund meiner Lust; und mein Verlangen<lb/>Würd überspringen jede feste Schranke,<lb/>Die meine Willkür hemmte. Besser Macbeth,<lb/>Als daß ein solcher herrscht.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Unmäßigkeit<lb/>Ist wohl auch Tyrannei und hat schon oft<lb/>Manchen beglückten Thron zu früh verwaist,<lb/>Viel Könige gestürzt. Allein deshalb<lb/>Zagt nicht, zu nehmen, was Eur Eigen ist!<lb/>Ihr mögt der Lust ein weites Feld gewähren<lb/>Und kalt erscheinen, mögt die Welt verblenden.<lb/>Der willgen Frauen gibts genug; unmöglich<lb/>Kann solch ein Geier in Euch sein, der alle<lb/>Verschlänge, die der Hoheit gern sich opfern,<lb/>Zeigt sie ein solch Gelüst.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Daneben wuchert<lb/>In meinem tief verderbten Sinn der Geiz,<lb/>So unersättlich, daß, wär ich der König,<lb/>Räumt ich die Edeln weg um ihre Güter;<lb/>Dem raubt ich die Juwelen, dem das Haus;<lb/>Mehr haben wäre mir die Würzung nur,<lb/>Den Hunger mehr zu reizen; Netze strickt ich,<lb/>Mit bösem Streit den Redlichen zu fangen,<lb/>Um Reichtum ihn vernichtend.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Dieser Geiz<lb/>Steckt tiefer, schlingt verderblicher die Wurzeln,<lb/>Als sommerliche Lust; er war das Schwert,<lb/>Das unsre Könige schlug. Doch fürchtet nichts;<lb/>Schottland hat Reichtum gnug. Euch zu befriedgen,<lb/>Der Euch mit Recht gehört. Dies alles ist<lb/>Erträglich, ausgesöhnt durch Tugenden.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Die hab ich nicht—die Königstugenden,<lb/>Wahrheit, Gerechtigkeit, Starkmut, Geduld,<lb/>Ausdauer, Milde, Andacht, Gnade, Kraft,<lb/>Mäßigkeit, Demut, Tapferkeit; von allen<lb/>Ist keine Spur in mir—nein, Überfluß<lb/>An jeglichem Verbrechen, ausgeübt<lb/>In jeder Art. Ja, hätt ich Macht, ich würde<lb/>Der Eintracht süße Milch zur Hölle gießen,<lb/>Verwandeln allen Frieden in Empörung,<lb/>Vernichten alle Einigkeit auf Erden.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>O Schottland! Schottland!<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Darf nun ein solcher wohl regieren? Sprich!<lb/>Ich bin, wie ich gesagt.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Regieren? Nein,<lb/>Nicht leben darf er! Oh, unselges Volk,<lb/>Beherrscht mit blutigem Tyrannenzepter,<lb/>Wann doch erlebst du wieder frohe Tage?<lb/>Nie, denn der echtste Erbe deines Throns<lb/>Hat sich durch selbstgesprochnen Bann verflucht<lb/>Und brandmarkt seinen Stamm. Dein hoher Vater<lb/>War ein höchst heilger Fürst; die dich gebar,<lb/>Weit öfter auf den Knien als auf den Füßen,<lb/>Starb jeden Tag des Lebens. Fahre wohl!<lb/>Die Sünden, die du selbst dir zugesprochen,<lb/>Verbannen mich aus Schottland.—O mein Herz,<lb/>Dein Hoffen endet hier!<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Macduff, dein edler Zorn,<lb/>Das Kind der Redlichkeit, tilgt aus der Seele<lb/>Mir jeden schwarzen Argwohn und versöhnt<lb/>Mit deiner Treu und Ehre mein Gemüt.<lb/>Der teuflische Macbeth hat oft versucht,<lb/>Durch solche Künste mich ins Garn zu locken,<lb/>Drum schirmt vor allzu gläubiger Hast mich Vorsicht.<lb/>Doch Gott mag richten zwischen dir und mir,<lb/>Denn jetzt geb ich mich ganz in deine Hände.<lb/>Die Selbstverleumdung widerruf ich, schwöre<lb/>Die Laster ab, durch die ich mich geschmäht,<lb/>Als meinem Wesen fremd. Noch weiß ich nichts<lb/>Vom Weibe, habe nimmer falsch geschworen,<lb/>Verlangte kaum nach dem, was mir gehört!<lb/>Stets hielt ich treu mein Wort, verriete selbst<lb/>Den Satan nicht den Teufeln; Wahrheit gilt<lb/>Mir mehr als Leben, meine erste Lüge<lb/>War diese gegen mich. Mein wahres Selbst<lb/>Ist dir und meinem armen Land geweiht,<lb/>Wohin auch schon, noch eh du hergekommen,<lb/>Der alte Siward mit zehntausend Kriegern<lb/>Bereit stand aufzubrechen, und wir gehn<lb/>Mitsammen nun. Sei uns das Glück gewogen,<lb/>Wie unser Streit gerecht ist!—Warum schweigst du?<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Schwer läßt sich so Willkommnes und zugleich<lb/>So Unwillkommenes vereinen.<lb/>
+                  </p>
+                  <p rend="justify">(Ein Arzt tritt auf.)</p>
+                  <p rend="justify">MALCOLM<lb/>Gut! Mehr nachher.—<lb/>
+                  </p>
+                  <p rend="justify">([Ein Arzt tritt auf.])</p>
+                  <p rend="justify">Geht heut der König aus?</p>
+                  <p rend="justify">ARZT<lb/>Ja, Prinz, denn viele Arme sind versammelt,<lb/>Die seine Hülf erwarten; ihre Krankheit<lb/>Trotzt jeder Heilkunst, doch rührt er sie an,<lb/>Hat so der Himmel seine Hand gesegnet,<lb/>Daß sie sogleich genesen.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Dank Euch, Doktor!<lb/>
+                  </p>
+                  <p rend="justify">(Der Arzt geht ab.)</p>
+                  <p rend="justify">MACDUFF<lb/>Was für 'ne Krankheit ists?<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Sie heißt das Übel;<lb/>Ein wundertätig Werk vom guten König,<lb/>Das ich ihn oft, seit ich in England bin,<lb/>Vollbringen sah. Wie er zum Himmel fleht,<lb/>Weiß er am besten. Seltsam Heimgesuchte,<lb/>Voll Schwulst und Aussatz, kläglich anzuschauen,<lb/>An denen alle Kunst verzweifelt, heilt er,<lb/>Um ihren Nacken eine Goldmünz hängend,<lb/>Mit heiligem Gebet. Und nach Verheißung<lb/>Wird er vererben auf die künftgen Herrscher<lb/>Die Wundergabe. Zu der heilgen Kraft<lb/>Hat er auch himmlischen Prophetengeist;<lb/>So steht um seinen Thron vielfacher Segen,<lb/>Ihn gottbegabt verkündend.<lb/>
+                  </p>
+                  <p rend="justify">([Rosse tritt auf.])</p>
+                  <p rend="justify">MACDUFF<lb/>Wer kommt da?<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Ein Landsmann, ob ich gleich ihn noch nicht kenne.<lb/>
+                  </p>
+                  <p rend="justify">(Rosse tritt auf.)</p>
+                  <p rend="justify">MACDUFF<lb/>Mein hochgeliebter Vetter, sei willkommen!<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Jetzt kenn ich ihn.—O Gott, entferne bald,<lb/>Was uns einander fremd macht.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Amen, Herr!<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Stehts noch um Schottland so?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Ach, armes Land,<lb/>Das fast vor sich erschrickt! Nicht unsre Mutter<lb/>Kann es mehr heißen, sondern unser Grab,<lb/>Wo nur, wer von nichts weiß, noch etwa lächelt,<lb/>Wo Seufzen, Stöhnen, Schrein die Luft zerreißt,<lb/>Und keiner achtets, wo Verzweiflung gilt<lb/>Als ganz gewohnte Regung; keiner fragt:<lb/>Um wen? beim Grabgeläut; der Wackern Leben<lb/>Welkt schneller als der Strauß auf ihrem Hut,<lb/>Sie sterben, eh sie krank sind.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>O Erzählung,<lb/>Zu herb und doch zu wahr!<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Was ist die neuste Kränkung?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Wer die erzählt, die eine Stunde alt,<lb/>Wird ausgezischt; jedweder Augenblick<lb/>Zeugt eine neue.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Wie stehts um mein Weib?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Nun—wohl.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Und meine Kinder alle?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Auch wohl.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Nicht stürmte der Tyrann in ihren Frieden?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Sie waren all in Frieden, als ich schied.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Sei nicht mit Worten geizig; sprich, wie stehts?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Als ich fortging, die Nachricht herzubringen,<lb/>An der ich schwer trug, lief dort ein Gerücht,<lb/>Daß manche wackren Leute ausgezogen,<lb/>Und diesen Glauben fand ich auch bestätigt,<lb/>Weil ich im Feld sah des Tyrannen Truppen.<lb/>Nun ist zu helfen Zeit; Eur Aug in Schottland<lb/>Erschüfe Krieger, trieb in Kampf die Frauen,<lb/>Ihr Elend abzuschütteln.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Sei's ihr Trost,<lb/>Daß wir schon nahn. Der gütge England leiht uns<lb/>Den wackern Siward und zehntausend Mann;<lb/>Ein alter Krieger, keinen bessern gibts<lb/>In aller Christenheit.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Könnt ich den Trost<lb/>Mit Trost vergelten! Doch ich habe Worte—<lb/>O würden sie in leere Luft geheult,<lb/>Wo nie ein Ohr sie faßte!<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Wen betriffts?<lb/>Ists allgemeines Weh? Ists eigner Schmerz,<lb/>Der einem nur gehört?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Kein redlich Herz,<lb/>Das nicht mit leidet; doch der größre Teil<lb/>Ist nur für dich allein.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Gehört es mir,<lb/>Enthalte mirs nicht vor; schnell laß michs haben!<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Dein Ohr wird meine Zunge ewig hassen,<lb/>Die's mit dem jammervollsten Ton betäubt,<lb/>Den jemals du gehört.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Ha, ich errat es!<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Dein Schloß ist überfallen; Weib und Kinder<lb/>Grausam erschlagen! Zu erzählen wie,<lb/>Das hieß', auf diesen Berg von<lb/>Opfern noch<lb/>Als letztes häufen deinen Tod.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>O Himmel!—<lb/>Nein, Mann, drück nicht den Hut so in die Augen,<lb/>Gib Worte deinem Schmerz. Gram, der nicht spricht,<lb/>Preßt das beladne Herz, bis daß es bricht.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Auch meine Kinder?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Gattin, Kinder, Diener,<lb/>Was man nur fand.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Und ich muß ferne sein!<lb/>Mein Weib gemordet auch?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Ich sagt es.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Faßt Euch!<lb/>Laßt uns Arznei aus mächtger Rache mischen,<lb/>Dies Todesweh zu heilen.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Er hat nicht Kinder! All die süßen Kleinen?<lb/>Alle sagst du?—O Höllengeier!—Alle!<lb/>Was! All die holden Küchlein, samt der Mutter,<lb/>Mit einem wilden Griff?<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Ertragt es wie ein Mann!<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Das will ich auch;<lb/>Doch ebenso muß wie ein Mann ichs fühlen:<lb/>Vergessen kann ich nicht, daß das gewesen,<lb/>Was mir das Liebste war. Konnte der Himmel<lb/>Es anschaun und nicht helfen? Sündger Macduff,<lb/>Für dich sind sie erschlagen! Ich Verworfner!<lb/>Für ihre Sünden nicht, nein, für die meinen<lb/>Sind sie gewürgt.—Schenk ihnen Frieden, Gott!<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Dies wetze scharf dein Schwert, verwandle Gram<lb/>In Zorn, erschlaffe nicht dein Herz, entflamm es!<lb/>
+                  </p>
+                  <lg>
+                     <l>MACDUFF</l>
+                     <l>Ich will das Weib nicht mit den Augen spielen</l>
+                     <l>Und prahlen mit der Zung!—Doch, gütger Himmel,</l>
+                     <l>Verkürze jeden Aufschub! Stirn an Stirn</l>
+                     <l>Führ diesen Teufel Schottlands mir entgegen!</l>
+                     <l>Stell ihn in meines Schwerts Bereich; entrinnt er,</l>
+                     <l>Himmel, vergib ihm auch!</l>
+                  </lg>
+                  <lg>
+                     <l>MALCOLM</l>
+                     <l>So klingt es männlich!</l>
+                     <l>Jetzt kommt zum König, fertig steht das Heer,</l>
+                     <l>Es mangelt nur noch, daß wir Abschied nehmen.</l>
+                     <l>Macbeth ist reif zur Ernte, und dort oben</l>
+                     <l>Bereiten ewge Mächte schon das Messer.</l>
+                     <l>Faßt frischen Mut; so lang ist keine Nacht,</l>
+                     <l>Daß endlich nicht der helle Morgen lacht.</l>
+                  </lg>
+                  <p rend="justify">(Sie gehen ab.)</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Fünfter Akt</head>
+               <div type="div3">
+                  <head>Erste Szene</head>
+                  <p rend="start">(Dunsinan, Zimmer im Schloß)</p>
+                  <p rend="justify">(Es treten auf ein Arzt und eine Kammerfrau.)</p>
+                  <lg>
+                     <l>ARZT</l>
+                     <l>Zwei Nächte habe ich nun mit Euch gewacht, aber keine</l>
+                     <l>Bestätigung Eurer Aussage gesehen. Wann ist sie zuletzt umhergewandelt?</l>
+                  </lg>
+                  <p rend="justify">KAMMERFRAU Seitdem Seine Majestät in den Krieg zog, habe ich gesehen, wie sie aus ihrem Bett aufstand, ihr Nachtgewand umwarf, ihren Schreibtisch aufschloß, Papier nahm, es zusammenlegte, schrieb, das Geschriebene las, es versiegelte und dann wieder zu Bett ging: und die ganze Zeit im tiefsten Schlafe.</p>
+                  <p rend="justify">ARZT Eine große Zerrüttung der Natur, die Wohltat des Schlafes zu genießen und zugleich die Geschäfte des Wachens zu verrichten. In dieser schlafenden Aufregung, außer dem Umherwandeln und anderem Tun, was, irgend einmal, habt Ihr sie sprechen hören?</p>
+                  <lg>
+                     <l>KAMMERFRAU</l>
+                     <l>Dinge, die ich ihr nicht nachsprechen werde.</l>
+                  </lg>
+                  <lg>
+                     <l>ARZT</l>
+                     <l>Mir könnt Ihrs vertrauen; und es ist notwendig, daß Ihr es tut.</l>
+                  </lg>
+                  <lg>
+                     <l>KAMMERFRAU</l>
+                     <l>Weder Euch noch irgend jemand, da ich keine Zeugen habe, meine</l>
+                     <l>Aussage zu bekräftigen.</l>
+                  </lg>
+                  <p rend="justify">([Lady Macbeth kommt, eine Kerze in der Hand.])</p>
+                  <p rend="justify">Seht, da kommt sie!</p>
+                  <p rend="justify">(Lady Macbeth kommt mit einer Kerze.)</p>
+                  <p rend="justify">So ist ihre Art und Weise! Und, bei meinem Leben, fest im Schlaf.<lb/>Beobachtet sie, versteckt Euch!<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Wie kam sie zu dem Licht?<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU<lb/>Das brennt neben ihrem Bett. Sie hat immer Licht; es ist ihr Befehl.<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Seht, ihre Augen sind offen!<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU<lb/>Ja, aber ihre Sinne geschlossen.<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Was macht sie nun? Schaut, wie sie sich die Hände reibt!<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU<lb/>Das ist ihre gewöhnliche Gebärde, daß sie tut, als wüsche sie<lb/>sich die Hände; ich habe wohl gesehen, daß sie es eine<lb/>Viertelstunde hintereinander tat.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Da ist noch ein Fleck.<lb/>
+                  </p>
+                  <p rend="justify">ARZT Horch, sie spricht! Ich will aufschreiben, was sie sagt, um hernach meine Erinnerung daraus zu ergänzen.</p>
+                  <p rend="justify">LADY MACBETH<lb/>Fort, verdammter Fleck, fort, sag ich!—Eins, zwei!<lb/>Nun, dann ist es Zeit, es zu tun.—Die Hölle ist finster!—<lb/>Pfui, mein Gemahl, pfui, ein Soldat und furchtsam!<lb/>Was haben wir zu fürchten, wer es weiß, da niemand unsre<lb/>Gewalt zur Rechenschaft ziehen darf?—Aber wer hätte gedacht,<lb/>daß der alte Mann noch so viel Blut in sich hätte?<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Hört Ihr wohl?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Der Than von Fife hatte ein Weib: Wo ist sie nun?<lb/>—Wie, wollen diese Hände denn nie rein werden?—<lb/>Nichts mehr davon, mein Gemahl, nichts mehr davon;<lb/>du verdirbst alles mit diesem Auffahren.<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Ei, ei! Ihr habt erfahren, was Ihr nicht solltet!<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU<lb/>Gesprochen hat sie, was sie nicht sollte, das ist gewiß.<lb/>Gott weiß, was sie erfahren hat.<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Noch immer riecht es hier nach Blut; alle<lb/>Wohlgerüche Arabiens würden diese kleine Hand nicht<lb/>wohlriechend machen. Oh, oh, oh!<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Was das für ein Seufzer war! Ihr Herz ist schmerzlich beladen.<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU Ich möchte nicht ein solches Herz im Busen tragen, nicht für den Königsschmuck des ganzen Leibes.</p>
+                  <p rend="justify">ARZT<lb/>Gut, gut!<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU<lb/>Gebe Gott, daß es gut sei!<lb/>
+                  </p>
+                  <p rend="justify">ARZT Diese Krankheit liegt außer dem Gebiete meiner Kunst; aber ich habe Menschen gekannt, die im Schlaf umherwandelten und doch fromm in ihrem Bett starben.</p>
+                  <p rend="justify">LADY MACBETH Wasch deine Hände, leg dein Nachtkleid an, sieh doch nicht so blaß aus!—Ich sage es dir noch einmal, Banquo ist begraben, er kann aus seiner Gruft nicht herauskommen.</p>
+                  <p rend="justify">ARZT<lb/>Wirklich?<lb/>
+                  </p>
+                  <p rend="justify">LADY MACBETH<lb/>Zu Bett, zu Bett! Es wird ans Tor geklopft. Komm, komm, komm, komm,<lb/>gib mir die Hand!—Was geschehen ist, kann man nicht ungeschehn machen.<lb/>—Zu Bett, zu Bett, zu Bett!<lb/>
+                  </p>
+                  <p rend="justify">(Sie geht ab.)</p>
+                  <p rend="justify">ARZT<lb/>Geht sie nun zu Bett?<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU<lb/>Unverzüglich.<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Man flüstert Schlimmes. Taten unnatürlich<lb/>Erzeugen unnatürliche Zerrüttung;<lb/>Die kranke Seele will ins taube Kissen<lb/>Entladen ihr Geheimnis. Sie bedarf<lb/>Des Beichtgers mehr noch als des Arztes.—Gott,<lb/>Vergib uns allen! Seht nach ihr; entfernt,<lb/>Womit sie sich verletzen könnt, und habt<lb/>Ein Auge stets auf sie!—So, gute Nacht!<lb/>Der Anblick hat mir Schreck und Graun gemacht.<lb/>Ich denk und darf nichts sagen.<lb/>
+                  </p>
+                  <p rend="justify">KAMMERFRAU<lb/>Nun, schlaft wohl!<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehn ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>Zweite Szene</head>
+                  <p rend="start">(Feld, in der Nähe von Dunsinan)</p>
+                  <p rend="justify">(Es treten auf mit Trommeln und Fahnen Menteth, Cathness,<lb/>Angus, Lenox, Soldaten.)<lb/>
+                  </p>
+                  <lg>
+                     <l>MENTETH</l>
+                     <l>Das Heer von England naht, geführt von Malcolm,</l>
+                     <l>Seinem Ohm Siward und dem guten Macduff:</l>
+                     <l>Von Rache glühn sie; denn ihr herbes Leid</l>
+                     <l>Erregte wohl den abgestorbnen Greis</l>
+                     <l>Zu blutig grimmem Kampf.</l>
+                  </lg>
+                  <lg>
+                     <l>ANGUS</l>
+                     <l>Bei Birnams Wald,</l>
+                     <l>Von dorther nahn sie, treffen wir sie wohl.</l>
+                  </lg>
+                  <lg>
+                     <l>CATHNESS</l>
+                     <l>Ob Donalbain bei seinem Bruder ist?</l>
+                  </lg>
+                  <lg>
+                     <l>LENOX</l>
+                     <l>Gewiß nicht, Herr; denn eine Liste hab ich</l>
+                     <l>Vom ganzen Adel. Dort ist Siwards Sohn,</l>
+                     <l>Und mancher glatte Jüngling, der zuerst</l>
+                     <l>Die Mannheit prüft.</l>
+                  </lg>
+                  <p rend="justify">MENTETH<lb/>Und was tut der Tyrann?<lb/>
+                  </p>
+                  <p rend="justify">CATHNESS<lb/>Das mächtge Dunsinan befestigt er.<lb/>Toll heißt ihn mancher; wer ihn minder haßt,<lb/>Nennts tapfre Wut; doch ists gewiß, er kann<lb/>Den wild empörten Zustand nicht mehr schnallen<lb/>In den Gurt der Ordnung.<lb/>
+                  </p>
+                  <p rend="justify">ANGUS<lb/>Jetzt empfindet er<lb/>Geheimen Mord, an seinen Händen klebend;<lb/>Jetzt straft Empörung stündlich seinen Treubruch.<lb/>Die er befehligt, handeln auf Befehl,<lb/>Aus Liebe nicht. Jetzt fühlt er seine Würde<lb/>Zu weit und lose, wie des Riesen Rock<lb/>Hängt um den diebschen Zwerg.<lb/>
+                  </p>
+                  <p rend="justify">MENTETH<lb/>Ist es ein Wunder,<lb/>Wenn sein gequälter Sinn auffährt und schaudert?<lb/>Muß all sein Fühlen sich doch selbst verdammen,<lb/>Weils seiner Seele eignet.<lb/>
+                  </p>
+                  <p rend="justify">CATHNESS<lb/>Ziehn wir weiter,<lb/>Da Dienst zu weihen, wo es Lehnspflicht fordert;<lb/>Suchen wir auf das Heil des kranken Staates!<lb/>Mit ihm vergießen wir, zum Wohl des Landes,<lb/>All unser Blut.<lb/>
+                  </p>
+                  <p rend="justify">LENOX<lb/>So viel, daß es betaut<lb/>Die Herrscherblum, ertränkt das giftge Kraut.<lb/>So geh der Zug nach Birnam.<lb/>
+                  </p>
+                  <p rend="justify">(Sie marschieren vorüber.)</p>
+               </div>
+               <div type="div3">
+                  <head>DRITTE SZENE</head>
+                  <p rend="start">(Dunsinan, ein Zimmer im Schloß)</p>
+                  <p rend="justify">(Macbeth tritt auf; der Arzt, Gefolge.)</p>
+                  <p rend="justify">MACBETH<lb/>Bringt keine Nachricht mehr! Laßt alle fliehn;<lb/>Bis Birnams Wald anrückt auf Dunsinan,<lb/>Ist Furcht mir nichts. Was ist der Knabe Malcolm?<lb/>Gebar ihn nicht ein Weib? Die Geister, kundig<lb/>All irdischen Waltens, prophezeiten so:<lb/>Sei kühn, Macbeth, kein Mann, vom Weib geboren,<lb/>Soll je dir was anhaben. Flieht denn immer,<lb/>Ihr falschen Thans, zu Englands Weichlingen!<lb/>Dies Herz und meinen Herrschergeist verwegen,<lb/>Dämpft Zweifel nicht und soll die Furcht nie regen.<lb/>
+                  </p>
+                  <p rend="justify">(Ein Diener tritt auf.)</p>
+                  <p rend="justify">Der Teufel brenn dich schwarz, milchbleicher Lump!<lb/>Wie kommst du an den Gänseblick?<lb/>
+                  </p>
+                  <p rend="justify">DIENER<lb/>Da sind zehntausend—<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Gäns, Schuft?<lb/>
+                  </p>
+                  <p rend="justify">DIENER<lb/>Krieger, Herr.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Reib dein Gesicht, die Furcht zu überröten,<lb/>Weißlebriger Hund. Was denn für Krieger, Hansnarr?<lb/>Hol dich der Teufel! Deine Kreidewangen<lb/>Verführen all zur Furcht. Was denn für Krieger,<lb/>Molkengesicht?<lb/>
+                  </p>
+                  <p rend="justify">DIENER<lb/>Erlaubt, das Heer von England!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Weg dein Gesicht!<lb/>
+                  </p>
+                  <p rend="justify">(Diener ab.)</p>
+                  <p rend="justify">Seyton!—Mir wird ganz übel,<lb/>Seh ich so—Seyton! Heda!—Dieser<lb/>Ruck Kuriert auf immer oder liefert jetzt mich.<lb/>Ich lebte lang genug; mein Lebensweg<lb/>Geriet ins Dürre, ins verwelkte Laub;<lb/>Und was das hohe Alter soll begleiten,<lb/>Gehorsam, Liebe, Ehre, Freundestrost,<lb/>Danach darf ich nicht aussehn; doch, statt dessen<lb/>Flüche, nicht laut, doch tief. Munddienst und Hauch,<lb/>Was gern das arme Herz mir weigern möchte,<lb/>Und wagts nicht.—Seyton!<lb/>
+                  </p>
+                  <p rend="justify">(Seyton kommt.)</p>
+                  <p rend="justify">SEYTON<lb/>Was befiehlt mein Herrscher?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Was gibt es Neues?<lb/>
+                  </p>
+                  <p rend="justify">SEYTON<lb/>Alles wird bestätigt,<lb/>Was das Gerücht verkündet.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich will fechten,<lb/>Bis mir das Fleisch gehackt ist von den Knochen.<lb/>Gebt meine Rüstung mir!<lb/>
+                  </p>
+                  <p rend="justify">SEYTON<lb/>Noch tuts nicht not.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich leg sie an.<lb/>Mehr Reiter sendet aus, durchstreift das Land;<lb/>Wer Furcht nennt, wird gehängt.—Bringt mir die Rüstung!<lb/>Was macht die Kranke, Arzt?<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Nicht krank sowohl,<lb/>Als durch gedrängte Phantasiegebilde<lb/>Gestört, der Ruh beraubt.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Heil sie davon!<lb/>Kannst nichts ersinnen für ein krank Gemüt?<lb/>Tief wurzelnd Leid aus dem Gedächtnis reuten?<lb/>Die Qualen löschen, die ins Hirn geschrieben?<lb/>Und mit Vergessens süßem Gegengift<lb/>Die Brust entledigen jener giftgen Last,<lb/>Die schwer das Herz bedrückt?<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Hier muß der Kranke selbst das Mittel finden.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Den Hunden deine Kunst, ich mag sie nicht.—<lb/>Legt mir die Rüstung an; den Stab her!—Seyton,<lb/>Schick aus!—Doktor, die Thans verlassen mich.—<lb/>Nun, mach geschwind!—Arzt, könntst du meinem Land<lb/>Beschaun das Wasser, seine Krankheit finden,<lb/>Und es zum kräftgen frühern Wohlsein reingen,<lb/>Wollt ich mit deinem Lob das Echo wecken,<lb/>Daß es dein Lob weit hallte.<lb/>—Weg den Riemen!—<lb/>Welche Purganz, Rhabarber, Senna führte<lb/>Wohl ab die Englischen?—Hörst du von ihnen?<lb/>
+                  </p>
+                  <p rend="justify">ARZT<lb/>Ja, hoher König, Eure Kriegesrüstung<lb/>Macht, daß wir davon hören.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Bringts mir nach!—<lb/>Nicht Tod und nicht Verderben ficht mich an,<lb/>Kommt Birnams Wald nicht her nach Dunsinan!<lb/>
+                  </p>
+                  <p rend="justify">([Er geht ab.] Alle außer dem Arzt gehen ab.)</p>
+                  <p rend="justify">ARZT<lb/>War ich von Dunsinan mit Heil und Glück,<lb/>So brächte mich kein Vorteil je zurück.<lb/>
+                  </p>
+                  <p rend="justify">([Alle] ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>VIERTE SZENE</head>
+                  <p rend="start">(Feld in der Nähe von Dunsinan, ein Wald in [der Ferne]<lb/>Sichtweite)<lb/>
+                  </p>
+                  <p rend="justify">(Es treten auf mit Trommeln und Fahnen Malcolm, der alte<lb/>Siward, sein Sohn, Macduff, Menteth, Cathness, Angus, Lenox, Rosse,<lb/>Soldaten.)<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Vettern, die Tage, hoff ich, sind uns nah,<lb/>Wo Kammern sicher sind.<lb/>
+                  </p>
+                  <p rend="justify">MENTETH<lb/>Wir zweifeln nicht.<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Wie heißt der Wald da vor uns?<lb/>
+                  </p>
+                  <p rend="justify">MENTETH<lb/>Birnams Wald.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Ein jeder Krieger hau sich ab 'nen Zweig<lb/>Und trag ihn vor sich; so verbergen wir<lb/>Die Truppenzahl, und irrig wird der Feind<lb/>In seiner Schätzung.<lb/>
+                  </p>
+                  <p rend="justify">[EIN SOLDAT] SOLDATEN<lb/>Es soll gleich geschehn.<lb/>
+                  </p>
+                  <p rend="justify">([Die Soldaten gehn ab.])</p>
+                  <p rend="justify">SIWARD<lb/>Wir hören nichts, als daß mit Zuversicht<lb/>Sich der Tyrann auf Dunsinan befestigt<lb/>Und die Belagrung ausstehn will.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Darauf Vertraut er einzig. Wo's nur möglich ist,<lb/>Empört sich hoch und niedrig gegen ihn,<lb/>Und niemand folgt ihm, als erzwungnes Volk,<lb/>Das nicht von Herzen dient.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Laßt bis zum Siege<lb/>Gerechtes Urteil ausstehn; lenkt den Eifer<lb/>Auf unsern Kriegszug!<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Ja, es naht die Zeit,<lb/>Wo richtiges Unterscheiden läßt erkennen,<lb/>Das, was wir schulden, was wir unser nennen.<lb/>Grübeln und Träumen hofft ohn Sicherheit;<lb/>Echten Erfolg entscheidet erst der Streit,<lb/>Und ihm entgegen führt den Kriegeszug!<lb/>
+                  </p>
+                  <p rend="justify">(Alle gehen marschierend ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>FÜNFTE SZENE</head>
+                  <p rend="start">(Dunsinan, im Schloß)</p>
+                  <p rend="justify">(Mit Trommeln und Fahnen treten auf Macbeth, Seyton,<lb/>Soldaten.)<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Pflanzt unsre Banner auf die äußre Mauer;<lb/>Stets heißts: sie kommen! Unser festes Schloß<lb/>Lacht der Belagrung; mögen sie hier liegen,<lb/>Bis Hunger sie und Krankheit aufgezehrt.<lb/>Verstärken die sie nicht, die uns gehören,<lb/>Wir hätten, Bart an Bart, sie kühn getroffen<lb/>Und sie nach Haus gegeißelt.<lb/>
+                  </p>
+                  <p rend="justify">(Ein Schrei von Frauen hinter der Szene.)</p>
+                  <p rend="justify">Was für Lärm?</p>
+                  <p rend="justify">([Weibergeschrei hinter der Szene.])</p>
+                  <p rend="justify">SEYTON<lb/>Es ist Geschrei von Weibern, gnädger Herr.<lb/>
+                  </p>
+                  <p rend="justify">(Geht ab.)</p>
+                  <p rend="justify">MACBETH<lb/>Verloren hab ich fast den Sinn der Furcht.<lb/>Es gab 'ne Zeit, wo kalter Schaur mich faßte,<lb/>Wenn der Nachtvogel schrie, das ganze Haupthaar<lb/>Bei einer schrecklichen Geschicht empor<lb/>Sich richtete, als wäre Leben drin.<lb/>Ich hab mich vollgeschluckt mit so viel Grauen:<lb/>Entsetzen, meinem Mordsinn eng vertraut,<lb/>Schreckt nun mich nimmermehr.—<lb/>
+                  </p>
+                  <p rend="justify">(Seyton kommt zurück.)</p>
+                  <p rend="justify">Weshalb das Wehschrein?</p>
+                  <p rend="justify">SEYTON<lb/>Die Königin, Herr, ist tot.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Sie hätte später sterben können; es hätte<lb/>Die Zeit sich für ein solches Wort gefunden.—<lb/>Morgen, und morgen, und dann wieder morgen,<lb/>Kriecht so mit kleinem Schritt von Tag zu Tag,<lb/>Zur letzten Silb auf unserm Lebensblatt;<lb/>Und alle unsre Gestern führten Narren<lb/>Den Pfad zum staubigen Tod. Aus, kleines Licht!<lb/>Leben ist nur ein wandelnd Schattenbild,<lb/>Ein armer Komödiant, der spreizt und knirscht<lb/>Sein Stündchen auf der Bühn und dann nicht mehr<lb/>Vernommen wird; ein Märchen ists, erzählt<lb/>Von einem Blödling, voller Klang und Wut,<lb/>Das nichts bedeutet.<lb/>
+                  </p>
+                  <p rend="justify">(Ein Bote kommt.)</p>
+                  <p rend="justify">Du hast was auf der Zunge: schnell heraus!</p>
+                  <p rend="justify">BOTE<lb/>Mein königlicher Herr,<lb/>Ich sollte melden das, was, wie ich glaube,<lb/>Ich sah; doch wie ichs tun soll, weiß ich nicht.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Nun, sags nur, Mensch!<lb/>
+                  </p>
+                  <p rend="justify">BOTE<lb/>Als ich den Wachtdienst auf dem Hügel tat—<lb/>Ich schau nach Birnam zu, und sieh, mir deucht,<lb/>Der Wald fängt an zu gehn.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Lügner und Sklav!<lb/>
+                  </p>
+                  <p rend="justify">(Schlägt ihn.)</p>
+                  <p rend="justify">BOTE<lb/>Laßt Euren Zorn mich fühlen, ists nicht so:<lb/>Drei Meilen weit könnt Ihr ihn kommen sehn;<lb/>Ein gehnder Wald—wahrhaftig!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Sprichst du falsch,<lb/>Sollst du am nächsten Baum lebendig hangen,<lb/>Bis Hunger dich verschrumpft hat; sprichst du wahr,<lb/>Magst du mir meinethalb dasselbe tun.—<lb/>Einzieh ich die Entschlossenheit, beginne<lb/>Den Doppelsinn des bösen Feinds zu merken,<lb/>Der Lüge spricht wie Wahrheit: Fürchte nichts,<lb/>Bis Birnams Wald anrückt auf Dunsinan!—<lb/>Und nunmehr kommt ein Wald nach Dunsinan!<lb/>Waffen nun, Waffen, und hinaus!—<lb/>Ist Wahrheit das, was seine Meldung spricht,<lb/>So ist kein Fliehn von hier, ist Bleiben nicht.<lb/>Das Sonnenlicht will schon verhaßt mir werden;<lb/>O fiel in Trümmer jetzt der Bau der Erden!<lb/>Auf, läutet Sturm! Wind, blas! Heran, Verderben!<lb/>Den Harnisch auf dem Rücken will ich sterben.<lb/>
+                  </p>
+                  <p rend="justify">(Alle ab.)</p>
+               </div>
+               <div type="div3">
+                  <head>SECHSTE SZENE</head>
+                  <p rend="start">(Daselbst. Feld vor dem Schloß)</p>
+                  <p rend="justify">(Es treten auf mit Trommeln und Fahnen Malcolm, der alte Siward, Macduff, die übrigen Anführer, das Heer mit Zweigen.)</p>
+                  <p rend="justify">MALCOLM<lb/>Jetzt nah genug! Werft ab die laubigen Schirme<lb/>Und zeigt euch, wie ihr seid! Ihr, würdger Oheim,<lb/>Führt mit dem Vetter, Eurem edlen Sohn,<lb/>Die erste Schar; ich und der würdge Macduff<lb/>Besorgen, was noch übrig ist zu tun,<lb/>Wie wir es angeordnet.<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Lebt denn wohl!<lb/>Zieht uns nur heut entgegen der Tyrann,<lb/>Mag er den schlagen, der nicht fechten kann!<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Trompeten, blast, beteuert kühnen Mut,<lb/>Herolde ruft ihr uns in Tod und Blut!<lb/>
+                  </p>
+                  <p rend="justify">(Alle ab. [Schlachtgetümmel hinter der Szene.])</p>
+               </div>
+               <div type="div3">
+                  <head>SIEBENTE SZENE</head>
+                  <p rend="start">(Daselbst. Ein andrer Teil des Feldes)</p>
+                  <p rend="justify">(Kriegsgeschrei. Macbeth tritt auf.)</p>
+                  <p rend="justify">MACBETH<lb/>Sie banden mich an den Pfahl, fliehn kann ich nicht,<lb/>Muß wie der Bär der Hatz entgegenkämpfen:<lb/>Wo ist er, der nicht ward vom Weib geboren?<lb/>Den fürcht ich, keinen sonst.<lb/>
+                  </p>
+                  <p rend="justify">(Der junge Siward kommt.)</p>
+                  <p rend="justify">DER JUNGE SIWARD<lb/>Wie ist dein Name?<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Du wirst erschrecken, ihn zu hören.<lb/>
+                  </p>
+                  <p rend="justify">DER JUNGE SIWARD<lb/>Nein! Nennst du dich auch mit einem grimmren Namen<lb/>Als einer in der Höll.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Mein<lb/>Nam ist Macbeth.<lb/>
+                  </p>
+                  <p rend="justify">DER JUNGE SIWARD<lb/>Der Teufel selber könnte nichts verkünden,<lb/>Verhaßter meinem Ohr.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Und nichts so furchtbar.<lb/>
+                  </p>
+                  <p rend="justify">DER JUNGE SIWARD<lb/>Abscheulicher Tyrann, du lügst! Das soll<lb/>Mein Schwert dir zeigen.<lb/>
+                  </p>
+                  <p rend="justify">(Gefecht, der junge Siward fällt.)</p>
+                  <p rend="justify">MACBETH<lb/>Wardst vom Weib geboren.—<lb/>Der Schwerter lach ich, spotte der Gefahr,<lb/>Womit ein Mann droht, den ein Weib gebar.<lb/>
+                  </p>
+                  <p rend="justify">(Er geht ab. Getümmel, Macduff kommt.)</p>
+                  <p rend="justify">MACDUFF<lb/>Dort ist der Lärm.—Zeig dein Gesicht, Tyrann!<lb/>Fällst du, und nicht von meinem Schwert, so werden<lb/>Mich meines Weibs, der Kinder Geister quälen;<lb/>Ich kann auf armes Kernenvolk nicht schlagen,<lb/>Die in gedungner Hand die Lanze führen.<lb/>Nur du, Macbeth! Wo nicht, kehrt schartenlos<lb/>Und ohne Tat mein Schwert zurück zur Scheide.<lb/>Dort mußt du sein; dies mächtge Tosen kündet,<lb/>Daß dort vom ersten Range einer kämpft.<lb/>O Glück, eins bitt ich nur: laß mich ihn finden!<lb/>
+                  </p>
+                  <p rend="justify">(Er geht ab. Getümmel. Malcolm und der alte<lb/>Siward kommen.)<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Hieher, mein Prinz!—Das Schloß ergab sich willig;<lb/>Auf beiden Seiten kämpft des Wütrichs Volk.<lb/>Die edlen Thans tun wackre Kriegesdienste;<lb/>Der Tag hat sich fast schon für Euch entschieden,<lb/>Nur wenig ist zu tun.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Wir trafen Feinde,<lb/>Die uns vorbei haun.<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Kommt, Prinz, in die Festung!<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehen ab. Getümmel,)</p>
+               </div>
+               <div type="div3">
+                  <head>ACHTE SZENE</head>
+                  <p rend="start">(Daselbst. Ein anderer Teil des Feldes)</p>
+                  <p rend="justify">(Macbeth kommt.)</p>
+                  <p rend="justify">MACBETH<lb/>Weshalb sollt ich den römschen Narren spielen,<lb/>Sterbend durchs eigne Schwert? So lange Leben<lb/>Noch vor mir sind, stehn denen Wunden besser.<lb/>
+                  </p>
+                  <p rend="justify">(Macduff kommt zurück.)</p>
+                  <p rend="justify">MACDUFF<lb/>Zu mir, du Höllenhund, zu mir!<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Von allen Menschen mied ich dich allein;<lb/>Du, mach dich nur zurück, mit Blut der Deinen<lb/>Ist meine Seele schon zu sehr beladen.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Ich habe keine Worte, meine Stimme<lb/>Ist nur in meinem Schwert. Du Schurke! Blutger,<lb/>Als Sprache Worte hat!<lb/>
+                  </p>
+                  <p rend="justify">(Sie fechten.)</p>
+                  <p rend="justify">MACBETH<lb/>Verlorne Müh!<lb/>So leicht magst du die unteilbare Luft<lb/>Mit scharfem Schwert durchhaun, als mich verletzen.<lb/>Auf Schädel, die verwundbar, schwing den Stahl;<lb/>Mein Leben ist gefeit, kann nicht erliegen<lb/>Einem vom Weib Gebornen.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>So verzweifle<lb/>An deiner Kunst, und sage dir der Engel,<lb/>Dem du von je gedient, daß vor der Zeit<lb/>Macduff geschnitten ward aus<lb/>Mutterleib.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Verflucht die Zunge, die mir dies verkündet,<lb/>Denn meine beste Mannheit schlägt sie nieder!<lb/>Und keiner trau dem Gaukelspiel der Hölle,<lb/>Die uns mit doppelsinnger Rede äfft,<lb/>Die Wort dem Ohr nur hält mit Glückverheißung<lb/>Und es der Wahrheit bricht.—Mit dir nicht kämpf ich.<lb/>
+                  </p>
+                  <p rend="justify">MACDUFF<lb/>Nun, so ergib dich, Memme!<lb/>Und leb als Wunderschauspiel für die Welt.<lb/>Wir wollen dich als seltnes Ungeheuer<lb/>Im Bild auf Stangen führen, mit der Schrift:<lb/>Hier zeigt man den Tyrannen.<lb/>
+                  </p>
+                  <p rend="justify">MACBETH<lb/>Ich will mich nicht ergeben, um zu küssen<lb/>Den Boden vor des Knaben Malcolm Fuß,<lb/>Gehetzt zu werden von des Pöbels Flüchen.<lb/>Ob Birnams Wald auch kam nach Dunsinan,<lb/>Ob meinen Gegner auch kein Weib gebar,<lb/>Doch wag ich noch das Letzte: vor die Brust<lb/>Werf ich den mächtgen Schild. Nun magst dich wahren,<lb/>Wer Halt! zuerst ruft, soll zur Hölle fahren!<lb/>
+                  </p>
+                  <p rend="justify">(Sie gehen kämpfend ab.<lb/>Rückzug. Trompeten. Es treten auf mit Trommeln und<lb/>Fahnen Malcolm, der alte Siward, Rosse, Lenox, Angus,<lb/>Cathness, Menteth und Soldaten.)<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>O wären lebend die vermißten Freunde!<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Mancher muß draufgehn; doch soviel ich sehe,<lb/>Ist dieser große Tag wohlfeil erkauft.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Vermißt wird Macduff und Eur edler Sohn.<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Eur Sohn, Mylord, hat Kriegerschuld gezahlt.<lb/>Er lebte nur, bis er ein Mann geworden;<lb/>In seiner Kühnheit war dies kaum bewährt<lb/>Durch unverzagten Kampf in blutger Schlacht,<lb/>Als er starb wie ein Mann.<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>So ist er tot?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Ja, und getragen aus dem Feld. Eur Schmerz<lb/>Muß nicht nach seinem Wert gemessen werden,<lb/>Sonst wär er endlos.<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Hat er vorn die Wunden?<lb/>
+                  </p>
+                  <p rend="justify">ROSSE<lb/>Ja, auf der Stirn.<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Wohl: sei er Gottes Kriegsmann!<lb/>Hätt ich so viele Söhn', als Haar' ich habe,<lb/>Ich wünschte keinem einen schönern Tod:<lb/>Das ist sein Grabgeläut.<lb/>
+                  </p>
+                  <p rend="justify">MALCOLM<lb/>Mehr<lb/>Trauer ist er<lb/>Noch wert; ich weih sie ihm.<lb/>
+                  </p>
+                  <p rend="justify">SIWARD<lb/>Mehr tun ist Schwäche.<lb/>Er schied geehrt und zahlte seine Zeche.<lb/>So, Gott sei mit ihm!—Seht, ein neuer Trost!<lb/>
+                  </p>
+                  <p rend="justify">(Macduff kommt mit Macbeths Kopf.)</p>
+                  <p rend="justify">MACDUFF<lb/>Heil, König! Denn das bist du. Schau, hier steht<lb/>Des Usurpators Haupt; nun sind wir frei!<lb/>Ich seh umringt dich von des Reiches Perlen,<lb/>Die meinen Gruß im Herzen mit mir sprechen,<lb/>Und deren lautes Wort ich jetzt erheische:<lb/>Dem König Schottlands Heil!<lb/>
+                  </p>
+                  <p rend="justify">ALLE<lb/>Heil,<lb/>Schottlands König!<lb/>
+                  </p>
+                  <p rend="justify">(Trompetenstoß.)</p>
+                  <lg>
+                     <l>MALCOLM</l>
+                     <l>Wir wollen nicht vergeblich Zeit verschwenden,</l>
+                     <l>Mit Eurer Liebe einzeln abzurechnen,</l>
+                     <l>Und quitt mit Euch zu werden. Thans und Vettern,</l>
+                     <l>Hinfort seid Grafen, die zuerst in Schottland</l>
+                     <l>Mit dieser Ehre prangen. Was zu tun noch,</l>
+                     <l>Was nun gepflanzt muß werden mit der Zeit,</l>
+                     <l>Als Rückberufung der verbannten Freunde,</l>
+                     <l>Die des Tyrannen listger Schling entflohn,</l>
+                     <l>Einziehn der blutgen Schergen dieses toten</l>
+                     <l>Bluthunds und seiner höllischen Königin,</l>
+                     <l>Die, wie man glaubt, gewaltsam selbst ihr Leben</l>
+                     <l>Geendet.—Alles, was Uns sonst noch obliegt,</l>
+                     <l>Das, mit der ewgen Gnade Gnadenhort,</l>
+                     <l>Vollenden Wir nach Maß und Zeit und Ort.</l>
+                     <l>Euch allen werd und jedem Dank und Lohn,</l>
+                     <l>Und jetzt zur Krönung lad ich Euch nach Scone.</l>
+                     <l>(Trompetenstoß. Alle ab.)</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="div2" rend="P5">
+               <head>Ende dieses Projekt Gutenberg Etextus MacBeth, von William Shakespeare</head>
+               <p rend="justify">Übersetzt von Dorothea Tieck.</p>
+               <p>Thanks are given to Dlphine Lettau for finding a huge collection of ancient German books in London.</p>
+               <p>This Etext is in German.</p>
+               <p>We are releasing two versions of this Etext, one in 7-bit format, known as Plain Vanilla ASCII, which can be sent via plain email— and one in 8-bit format, which includes higher order characters— which requires a binary transfer, or sent as email attachment and may require more specialized programs to display the accents. This is the 8-bit version.</p>
+               <p>This book content was graciously contributed by the Gutenberg Projekt-DE.<lb/>That project is reachable at the web site http://gutenberg2000.de.</p>
+               <p>Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE" zur Verfügung gestellt. Das Projekt ist unter der Internet-Adresse http://gutenberg2000.de erreichbar.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

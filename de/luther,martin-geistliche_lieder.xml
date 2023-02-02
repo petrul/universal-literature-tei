@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Martin Luthers Geistliche Lieder</title>
+            <author>Martin Luther</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-06T15:01:05Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-20T04:08:03.773852940</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Martin Luthers Geistliche Lieder</head>
+         <author>Martin Luther</author>
+         <p rend="italic">2022-08-21T21:05:56.066482+00:002015-01-03</p>
+         <div type="div1">
+            <head>Geistliche Lieder</head>
+            <p rend="center">Im Insel-Verlag zu Leipzig</p>
+            <div type="div2">
+               <head>Luther's Vorrede zum Waltherschen Chorgesangbüchlein.</head>
+               <p rend="justify">Daß geistliche Lieder singen gut und Gott angenehme sei, acht' ich, sei keinem Christen verborgen, dieweil idermann nicht allein das Exempel der Propheten und Könige im alten Testament (die mit singen und klingen, mit dichten und allerlei Saitenspiel Gott gelobt haben) sondern auch solcher Brauch sonderlich mit Psalmen gemeiner Christenheit von Anfang kund ist. Ja, auch St. Paulus solchs 1. Cor. 14 einsetzt und zu den Kollossern gebeut, von Herzen dem Herrn [zu] singen geistliche Lieder und Psalmen: auf daß dadurch Gottes Wort und christliche Lehre auf allerlei Weise getrieben und geübt werden.</p>
+               <p rend="justify">Demnach hab ich auch, samt etlichen andern, zum guten Anfang und Ursach zu geben denen, die es besser vermügen, etliche geistliche Lieder zusammen bracht, das heilige Evangelion, so itzt von Gottes Gnaden wieder aufgangen ist, zu treiben und in Schwang zu bringen, daß wir auch uns möchten rühmen, wie Moses in seim Gesang tut, Exodus 15, daß Christus unser Lob und Gesang sei, und nichts wissen sollen, zu singen noch zu sagen, denn Jesum Christum, unsern Heiland, wie Paulus sagt 1. Cor. 2.</p>
+               <p rend="justify">Und sind dazu auch in vier Stimme bracht, nicht aus anderer Ursach, denn daß ich gerne wollte, die Jugend, die doch sonst soll und muß in der Musica und andern rechten Künsten erzogen werden, etwas hätte, damit sie der Buhllieder und fleischlichen Gesänge los worde und an derselben statt etwas Heilsames lernete und also das Gute mit Lust, wie den Jungen gebührt, einginge. Auch daß ich nicht der Meinung bin, daß durchs Evangelion sollten alle Künste zu Boden geschlagen werden und vergehen, wie etliche Abergeistlichen furgeben; sondern ich wollt alle Künste, sonderlich die Musica gerne sehen im Dienst des, der sie geben und geschaffen hat. Bitte derhalben, ein iglicher frummer Christ wollt solchs ihm lassen gefallen und, wo ihm Gott mehr oder desgleichen verleihet, helfen fodern. Es ist sonst leider alle welt all zu laß und zu vergessen, die arme Jugend zu ziehen und lehren, daß man nicht allererst darf auch Ursach dazu geben. Gott geb uns seine Gnade. Amen.</p>
+            </div>
+            <div type="div2">
+               <head>Vorrede auf alle gute Gesangbücher.</head>
+               <epigraph>Frau Musica.</epigraph>
+               <lg>
+                  <l>Für allen Freuden auf Erden</l>
+                  <l>Kann niemand kein feiner werden,</l>
+                  <l>Denn die ich geb mit meim Singen</l>
+                  <l>Und mit manchem süßen Klingen.</l>
+                  <l>Hie kann nicht sein ein böser Mut,</l>
+                  <l>Wo da singen Gesellen gut;</l>
+                  <l>Hie bleibt kein Zorn, Zank, Haß noch Neid,</l>
+                  <l>Weichen muß alles Herzeleid;</l>
+                  <l>Geiz, Sorg und was sonst hart anleit,</l>
+                  <l>Fährt hin mit aller Traurigkeit.</l>
+                  <l>Auch ist ein Jeder des wohl frei,</l>
+                  <l>Daß solche Freud kein Sünde sei,</l>
+                  <l>Sondern auch Gott viel baß gefällt,</l>
+                  <l>Denn alle Freud der ganzen Welt:</l>
+                  <l>Dem Teufel sie sein Werk zerstört</l>
+                  <l>Und verhindert viel böser Mörd.</l>
+                  <l>Das zeugt Davids, des Kön'ges, Tat,</l>
+                  <l>Der dem Saul oft gewehret hat</l>
+                  <l>Mit gutem süßen Harfenspiel,</l>
+                  <l>Daß er in großen Mord nicht fiel.</l>
+                  <l>Zum göttlichen Wort und Wahrheit</l>
+                  <l>Macht sie das Herz still und bereit,</l>
+                  <l>Solchs hat Elisäus bekannt,</l>
+                  <l>Da er den Geist durchs Harfen fand.</l>
+                  <l>Die beste Zeit im Jahr ist mein,</l>
+                  <l>Da singen alle Vögelein,</l>
+                  <l>Himmel und Erden ist der voll,</l>
+               </lg>
+               <lg>
+                  <l>Viel gut Gesang da lautet wohl.</l>
+                  <l>Voran die liebe Nachtigall</l>
+                  <l>Macht alles fröhlich uberall</l>
+                  <l>Mit ihrem lieblichen Gesang,</l>
+                  <l>Des muß sie haben immer Dank.</l>
+                  <l>Viel mehr der liebe Herre Gott,</l>
+                  <l>Der sie also geschaffen hat,</l>
+                  <l>Zu sein die rechte Sängerin,</l>
+                  <l>Der Musica ein Meisterin.</l>
+                  <l>Dem singt und springt sie Tag und Nacht,</l>
+                  <l>Seins Lobes sie nichts müde macht:</l>
+                  <l>Den ehrt und lobt auch mein Gesang</l>
+                  <l>Und sagt ihm ein ewigen Dank.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein neu Lied von den zween Märterern Christi, zu Brussel von den Sophisten zu Löwen verbrannt.</head>
+               <lg>
+                  <l>Ein neues Lied wir heben an,</l>
+                  <l>Des walt Gott, unser Herre,</l>
+                  <l>Zu singen, was Gott hat getan</l>
+                  <l>Zu seinem Lob und Ehre:</l>
+                  <l>Zu Brussel in dem Niederland</l>
+                  <l>Wohl durch zween junge Knaben</l>
+                  <l>Hat er sein Wundermacht bekannt,</l>
+                  <l>Die er mit seinen Gaben</l>
+                  <l>So reichlich hat gezieret.</l>
+                  <l>Der erst recht wohl Johannes heißt,</l>
+                  <l>So reich an Gottes Hulden,</l>
+                  <l>Sein Bruder Heinrich nach dem Geist,</l>
+                  <l>Ein rechter Christ ohn Schulden:</l>
+                  <l>Von dieser Welt gescheiden sind,</l>
+                  <l>Sie han die Kron erworben,</l>
+                  <l>Recht wie die frummen Gotteskind'</l>
+                  <l>Für sein Wort sind gestorben,</l>
+                  <l>Sein Märt'rer sind sie worden.</l>
+                  <l>Der alte Feind sie fangen ließ,</l>
+                  <l>Erschreckt' sie lang mit Dräuen,</l>
+                  <l>Das Wort Gotts er sie leugnen hieß,</l>
+                  <l>Mit List auch wollt sie täuben.</l>
+                  <l>Von Löwen der Sophisten viel,</l>
+                  <l>Mit ihrer Kunst verloren,</l>
+                  <l>Versammlet er zu diesem Spiel,</l>
+                  <l>Der Geist sie macht zu Toren,</l>
+                  <l>Sie kundten nichts gewinnen.</l>
+                  <l>Sie sungen suß, sie sungen saur,</l>
+                  <l>Versuchten manche Listen.</l>
+               </lg>
+               <lg>
+                  <l>Die Knaben stunden wie ein Maur,</l>
+                  <l>Verachten die Sophisten.</l>
+                  <l>Den alten Feind das sehr verdroß,</l>
+                  <l>Daß er war uberwunden</l>
+                  <l>Von solchen Jungen, er, so groß,</l>
+                  <l>Er ward voll Zorn von Stunden,</l>
+                  <l>Gedacht', sie zu verbrennen.</l>
+                  <l>Sie raubten ihn'n das Klosterkleid,</l>
+                  <l>Die Weih sie ihn'n auch nahmen.</l>
+                  <l>Die Knaben waren des bereit,</l>
+                  <l>Sie sprachen frohlich: Amen.</l>
+                  <l>Sie dankten ihrem Vater Gott,</l>
+                  <l>Daß sie los sollten werden</l>
+                  <l>Des Teufels Larvenspiel und Spott,</l>
+                  <l>Darin durch falsche 'berden</l>
+                  <l>Die Welt er gar betreuget.</l>
+                  <l>Das schickt Gott durch sein Gnad also,</l>
+                  <l>Daß sie recht Priester worden,</l>
+                  <l>Sich selbs ihm mußten opfern do</l>
+                  <l>Und gehn im Christenorden,</l>
+                  <l>Der Welt ganz abgestorben sein,</l>
+                  <l>Die Heuchelei ablegen,</l>
+                  <l>Zu Himmel kommen frei und rein,</l>
+                  <l>Die Moncherei ausfegen</l>
+                  <l>Und Menschentand hie lassen.</l>
+                  <l>Man schreib ihn'n fur ein Brieflin klein,</l>
+                  <l>Das hieß man sie selbs lesen,</l>
+                  <l>Die Stuck sie zeichten alle drein,</l>
+                  <l>Was ihr Glaub war gewesen.</l>
+                  <l>Der hochste Irrtum dieser war:</l>
+                  <l>»Man muß allein Gott glauben,</l>
+               </lg>
+               <lg>
+                  <l>Der Mensch leugt und treugt immer dar,</l>
+                  <l>Dem soll man nichts vertrauen«;</l>
+                  <l>Des mußten sie verbrennen.</l>
+                  <l>Zwei große Feur sie zundten an,</l>
+                  <l>Die Knaben sie her brachten.</l>
+                  <l>Es nahm groß Wunder idermann,</l>
+                  <l>Daß sie solch Pein verachten.</l>
+                  <l>Mit Freuden sie sich gaben drein,</l>
+                  <l>Mit Gottes Lob und Singen,</l>
+                  <l>Der Mut ward den Sophisten klein</l>
+                  <l>Fur disen neuen Dingen,</l>
+                  <l>Da sich Gott ließ so merken.</l>
+                  <l>Der Schimpf sie nu gereuen hat,</l>
+                  <l>Sie wolltens gern schon machen.</l>
+                  <l>Sie turn nicht ruhmen sich der Tat,</l>
+                  <l>Sie bergen fast die Sachen.</l>
+                  <l>Die Schand im Herzen beißet sie</l>
+                  <l>Und klagens ihr'n Genossen;</l>
+                  <l>Doch kann der Geist nicht schweigen hie:</l>
+                  <l>Des Habels Blut vergossen,</l>
+                  <l>Es muß den Kain melden.</l>
+                  <l>Die Aschen will nicht lassen ab,</l>
+                  <l>Sie stäubt in allen Landen,</l>
+                  <l>Hie hilft kein Bach, Loch, Grub noch Grab,</l>
+                  <l>Sie macht den Feind zu Schanden.</l>
+                  <l>Die er im Leben durch den Mord</l>
+                  <l>Zu schweigen hat gedrungen,</l>
+                  <l>Die muß er tot an allem Ort</l>
+                  <l>Mit aller Stimm und Zungen</l>
+                  <l>Gar frohlich lassen singen.</l>
+               </lg>
+               <lg>
+                  <l>Noch lassen sie ihr Lugen nicht,</l>
+                  <l>Den großen Mord zu schmucken:</l>
+                  <l>Sie geben fur ein falsch Gedicht,</l>
+                  <l>Ihr Gewissen tut sie drucken.</l>
+                  <l>Die Heilgen Gotts auch nach dem Tod</l>
+                  <l>Von ihn'n gelästert werden,</l>
+                  <l>Sie sagen: in der letzten Not</l>
+                  <l>Die Knaben noch auf Erden</l>
+                  <l>Sich sollen han umkehret.</l>
+                  <l>Die laß man lügen immer hin,</l>
+                  <l>Sie habens kleinen frommen.</l>
+                  <l>Wir sollen danken Gott darin,</l>
+                  <l>Sein Wort ist wieder kommen.</l>
+                  <l>Der Sommer ist hart fur der Tur,</l>
+                  <l>Der Winter ist vergangen,</l>
+                  <l>Die zarten Blumen gehn herfur,</l>
+                  <l>Der das hat angefangen,</l>
+                  <l>Der wird es wohl vollenden.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein Danklied für die höchsten Wohltaten, so uns Gott in Christo erzeigt hat.</head>
+               <lg>
+                  <l>Nu freut euch, lieben Christen gmein,</l>
+                  <l>Und laßt uns frohlich springen,</l>
+                  <l>Daß wir getrost und all in ein</l>
+                  <l>Mit Lust und Liebe singen,</l>
+                  <l>Was Gott an uns gewendet hat</l>
+                  <l>Und seine suße Wundertat,</l>
+                  <l>Gar teur hat ers erworben.</l>
+                  <l>Dem Teufel ich gefangen lag,</l>
+                  <l>Im Tod war ich verloren,</l>
+                  <l>Mein Sund mich quälet Nacht und Tag,</l>
+                  <l>Darin ich war geboren.</l>
+                  <l>Ich fiel auch immer tiefer drein,</l>
+                  <l>Es war kein Guts am Leben mein,</l>
+                  <l>Die Sund hat mich besessen.</l>
+                  <l>Mein gute Werk', die golten nicht,</l>
+                  <l>Es war mit ihn'n verdorben,</l>
+                  <l>Der frei Will hasset Gotts Gericht,</l>
+                  <l>Er war zum Gut' erstorben.</l>
+                  <l>Die Angst mich zu verzweifeln treib,</l>
+                  <l>Daß nichts denn Sterben bei mir bleib,</l>
+                  <l>Zur Hellen mußt ich sinken.</l>
+                  <l>Da jammert Gott in Ewigkeit</l>
+                  <l>Mein Elend ubermassen,</l>
+                  <l>Er dacht an sein Barmherzigkeit,</l>
+                  <l>Er wollt mir helfen lassen.</l>
+                  <l>Er wandt zu mir das Vaterherz,</l>
+                  <l>Es war bei ihm furwahr kein Scherz,</l>
+                  <l>Er ließ sein Bestes kosten.</l>
+               </lg>
+               <lg>
+                  <l>Er sprach zu seinem lieben Sohn:</l>
+                  <l>Die Zeit ist hie zu 'rbarmen,</l>
+                  <l>Fahr hin, meins Herzens werte Kron,</l>
+                  <l>Und sei das Heil dem Armen</l>
+                  <l>Und hilf ihm aus der Sundennot,</l>
+                  <l>Erwurg fur ihn den bittern Tod</l>
+                  <l>Und laß ihn mit dir leben.</l>
+                  <l>Der Sohn dem Vater g'horsam ward,</l>
+                  <l>Er kam zu mir auf Erden</l>
+                  <l>Von einer Jungfrau rein und zart,</l>
+                  <l>Er sollt mein Bruder werden.</l>
+                  <l>Gar heimlich fuhrt' er sein Gewalt,</l>
+                  <l>Er ging in meiner armen G'stalt,</l>
+                  <l>Den Teufel wollt er fangen.</l>
+                  <l>Er sprach zu mir: Halt dich an mich,</l>
+                  <l>Es soll dir itzt gelingen,</l>
+                  <l>Ich geb mich selber ganz fur dich,</l>
+                  <l>Da will ich fur dich ringen,</l>
+                  <l>Denn ich bin dein und du bist mein,</l>
+                  <l>Und wo ich bleib, da solltu sein,</l>
+                  <l>Uns soll der Feind nicht scheiden.</l>
+                  <l>Vergießen wird er mir mein Blut,</l>
+                  <l>Dazu mein Leben rauben,</l>
+                  <l>Das leid' ich alles dir zu gut,</l>
+                  <l>Das halt mit festem Glauben:</l>
+                  <l>Den Tod verschlingt das Leben mein,</l>
+                  <l>Mein Unschuld trägt die Sunden dein,</l>
+                  <l>Da bist du selig worden.</l>
+                  <l>Gen Himmel zu dem Vater mein</l>
+                  <l>Fahr ich von diesem Leben,</l>
+                  <l>Da will ich sein der Meister dein,</l>
+               </lg>
+               <lg>
+                  <l>Den Geist will ich dir geben,</l>
+                  <l>Der dich in Trubnis trosten soll</l>
+                  <l>Und lernen mich erkennen wohl</l>
+                  <l>Und in der Wahrheit leiten.</l>
+                  <l>Was ich getan hab und gelehrt,</l>
+                  <l>Das solltu tun und lehren,</l>
+                  <l>Damit das Reich Gotts werd gemehrt</l>
+                  <l>Zu Lob und seinen Ehren,</l>
+                  <l>Und hut dich fur der Menschen G'satz,</l>
+                  <l>Davon verdirbt der edle Schatz,</l>
+                  <l>Das laß ich dir zur letze.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der zwölfte Psalm: Salvum me fac.</head>
+               <lg>
+                  <l>Ach Gott von Himmel, siehe darein</l>
+                  <l>Und laß dich das erbarmen!</l>
+                  <l>Wie wenig sind der Heiligen dein,</l>
+                  <l>Verlassen sind wir Armen.</l>
+                  <l>Dein Wort man läßt nicht haben wahr,</l>
+                  <l>Der Glaub ist auch verloschen gar</l>
+                  <l>Bei allen Menschenkindern.</l>
+                  <l>Sie lehren eitel falsche List,</l>
+                  <l>Was Eigenwitz erfindet,</l>
+                  <l>Ihr Herz nicht eines Sinnes ist,</l>
+                  <l>In Gottis Wort gegründet.</l>
+                  <l>Der wählet dies, der ander das,</l>
+                  <l>Sie trennen uns ohn alle Maß</l>
+                  <l>Und gleißen schon von außen.</l>
+                  <l>Gott wollt ausrotten alle Lahr,</l>
+                  <l>Die falschen Schein uns lehren,</l>
+                  <l>Dazu ihr Zung stolz offinbar</l>
+               </lg>
+               <lg>
+                  <l>Spricht: Trotz, wer wills uns wehren?</l>
+                  <l>Wir haben Recht und Macht allein,</l>
+                  <l>Was wir setzen, das gilt gmein,</l>
+                  <l>Wer ist, der uns sollt meistern?</l>
+                  <l>Darum spricht Gott: Ich muß auf sein,</l>
+                  <l>Die Armen sind verstoret,</l>
+                  <l>Ihr Seufzen dringt zu mir 'erein,</l>
+                  <l>Ich hab ihr Klag erhoret.</l>
+                  <l>Mein heilsam Wort soll auf dem Plan</l>
+                  <l>Getrost und frisch sie greifen an</l>
+                  <l>Und sein die Kraft der Armen.</l>
+                  <l>Das Silber, durchs Feur sieben mal</l>
+                  <l>Bewährt, wird lauter 'funden.</l>
+                  <l>Am Gotteswort man 'warten sall</l>
+                  <l>Desgleichen alle Stunden.</l>
+                  <l>Es will durchs Kreuz bewähret sein,</l>
+                  <l>Da wird sein Kraft erkannt und Schein</l>
+                  <l>Und leucht't stark in die Lande.</l>
+                  <l>Das wollst du, Gott, bewahren rein</l>
+                  <l>Fur diesem argen G'schlechte,</l>
+                  <l>Und laß uns dir befohlen sein,</l>
+                  <l>Daß sichs in uns nit flechte.</l>
+                  <l>Der gottlos Hauf sich umher find't,</l>
+                  <l>Wo diese lose Leute sind</l>
+                  <l>In deinem Volk erhaben.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der vierzehnte Psalm: Dixit insipiens in corde suo.</head>
+               <lg>
+                  <l>Es spricht der Unweisen Mund wohl:</l>
+                  <l>Den rechten Gott wir meinen.</l>
+                  <l>Doch ist ihr Herz Unglaubens voll,</l>
+                  <l>Mit Tat sie ihn verneinen.</l>
+                  <l>Ihr Wesen ist verderbet zwar,</l>
+                  <l>Fur Gott ist es ein Greuel gar,</l>
+                  <l>Es tut ihr keiner kein gut.</l>
+                  <l>Gott selb vom Himmel sah 'erab</l>
+                  <l>Auf aller Menschen Kinden.</l>
+                  <l>Zu schauen sie, er sich begab,</l>
+                  <l>Ob er jemand wurd finden,</l>
+                  <l>Der sein Verstand gerichtet hätt,</l>
+                  <l>Mit Ernst nach Gottes Worten tät</l>
+                  <l>Und fragt nach seinem Willen.</l>
+                  <l>Da war niemand auf rechter Bahn,</l>
+                  <l>Sie waren all ausschritten,</l>
+                  <l>Ein jeder ging nach seinem Wahn</l>
+                  <l>Und hielt verlorne Sitten.</l>
+                  <l>Es tät ihr keiner doch kein gut,</l>
+                  <l>Wie wohl gar viel betrog der Mut,</l>
+                  <l>Ihr Tun müßt Gott gefallen.</l>
+                  <l>Wie lang wöllen unwissend sein,</l>
+                  <l>Die solche Müh aufladen,</l>
+                  <l>Und fressen dafür das Volk mein</l>
+                  <l>Und nähren sich mit seim Schaden.</l>
+                  <l>Es steht ihr Trauen nicht auf Gott,</l>
+                  <l>Sie rufen ihm nicht in der Not,</l>
+                  <l>Sie wolln sich selb versorgen.</l>
+                  <l>Darum ist ihr Herz nimmer still</l>
+                  <l>Und steht allzeit in Forchten.</l>
+               </lg>
+               <lg>
+                  <l>Gott bei den Frommen bleiben will,</l>
+                  <l>Dem sie mit Glauben g'horchen.</l>
+                  <l>Ihr aber schmecht des Armen Rat</l>
+                  <l>Und höhnet alles, was er sagt,</l>
+                  <l>Daß Gott sein Trost ist worden.</l>
+                  <l>Wer soll Israel, dem armen,</l>
+                  <l>Zu Zion Heil erlangen?</l>
+                  <l>Gott wird sich seins Volks erbarmen</l>
+                  <l>Und lösen, die gefangen.</l>
+                  <l>Das wird er tun durch seinen Sohn,</l>
+                  <l>Davon wird Jakob Wonne han</l>
+                  <l>Und Israel sich freuen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der 130. Psalm: De profundis.</head>
+               <lg>
+                  <l>Aus tiefer Not schrei ich zu dir,</l>
+                  <l>Herr Gott, erhor mein Rufen;</l>
+                  <l>Dein gnädig Ohren kehr zu mir</l>
+                  <l>Und meiner Bitt sie offen'.</l>
+                  <l>Denn so du willt das sehen an,</l>
+                  <l>Was Sund und Unrecht ist getan,</l>
+                  <l>Wer kann, Herr, fur dir bleiben?</l>
+                  <l>Bei dir gilt nichts denn Gnad und Gonst,</l>
+                  <l>Die Sunden zu vergeben.</l>
+                  <l>Es ist doch unser Tun umsonst,</l>
+                  <l>Auch in dem besten Leben.</l>
+                  <l>Fur dir niemand sich ruhmen kann,</l>
+                  <l>Des muß dich furchten idermann</l>
+                  <l>Und deiner Gnaden leben.</l>
+                  <l>Darum auf Gott will hoffen ich,</l>
+                  <l>Auf mein Verdienst nicht bauen.</l>
+               </lg>
+               <lg>
+                  <l>Auf ihn mein Herz soll 'lassen sich</l>
+                  <l>Und seiner Güte trauen,</l>
+                  <l>Die mir zusagt sein wertes Wort,</l>
+                  <l>Das ist mein Trost und treuer Hort,</l>
+                  <l>Des will ich allzeit harren.</l>
+                  <l>Und ob es währt bis in die Nacht</l>
+                  <l>Und wieder an den Morgen,</l>
+                  <l>Doch soll mein Herz an Gottes Macht</l>
+                  <l>Verzweifeln nicht noch sorgen.</l>
+                  <l>So tu' Israel rechter Art,</l>
+                  <l>Der aus dem Geist erzeuget ward,</l>
+                  <l>Und seines Gotts erharre.</l>
+                  <l>Ob bei uns ist der Sunden viel,</l>
+                  <l>Bei Gott ist viel mehr Gnaden.</l>
+                  <l>Sein Hand zu helfen, hat kein Ziel,</l>
+                  <l>Wie groß auch sei der Schaden.</l>
+                  <l>Er ist allein der gute Hirt,</l>
+                  <l>Der Israel erlosen wird</l>
+                  <l>Aus seinen Sunden allen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der 67. Psalm: Deus misereatur.</head>
+               <lg>
+                  <l>Es wollt uns Gott genädig sein</l>
+                  <l>Und seinen Segen geben,</l>
+                  <l>Sein Antlitz uns mit hellem Schein</l>
+                  <l>Erleucht' zum ewigen Leben,</l>
+                  <l>Daß wir erkennen seine Werk</l>
+                  <l>Und was ihm 'liebt auf Erden,</l>
+                  <l>Und Jesus Christus Heil und Stärk</l>
+                  <l>Bekannt den Heiden werden</l>
+                  <l>Und sie zu Gott bekehren.</l>
+               </lg>
+               <lg>
+                  <l>So danken, Gott und loben dich</l>
+                  <l>Die Heiden uber alle,</l>
+                  <l>Und alle Welt, die freue sich</l>
+                  <l>Und sing mit großem Schalle,</l>
+                  <l>Daß du auf Erden Richter bist</l>
+                  <l>Und läßt die Sund nicht walten,</l>
+                  <l>Dein Wort die Hut und Weide ist,</l>
+                  <l>Die alles Volk erhalten</l>
+                  <l>In rechter Bahn zu wallen.</l>
+                  <l>Es danke, Gott, und lobe dich</l>
+                  <l>Das Volk in guten Taten,</l>
+                  <l>Das Land bringt Frucht und bessert sich,</l>
+                  <l>Dein Wort ist wohl geraten.</l>
+                  <l>Uns segen' Vater und der Sohn,</l>
+                  <l>Uns segen' Gott, der heilig Geist,</l>
+                  <l>Dem alle Welt die Ehre tun,</l>
+                  <l>Fur ihm sich furchten allermeist.</l>
+                  <l>Nu sprecht von Herzen Amen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der 128. Psalm: Beati omnes qui timent dominum.</head>
+               <lg>
+                  <l>Wohl dem, der in Gottes Furcht steht</l>
+                  <l>Und der auf seinem Wege geht.</l>
+                  <l>Dein eigen Hand dich nähren soll,</l>
+                  <l>So lebst du recht und geht dir wohl.</l>
+                  <l>Dein Weib wird in deim Hause sein</l>
+                  <l>Wie ein Reben voll Trauben fein,</l>
+                  <l>Und dein' Kinder umb deinen Tisch</l>
+                  <l>Wie Ölpflanzen gesund und frisch.</l>
+               </lg>
+               <lg>
+                  <l>Sich, so reich' Segen hangt dem an,</l>
+                  <l>Wo in Gottes Furcht lebt ein Mann.</l>
+                  <l>Von ihm läßt der alt Fluch und Zorn,</l>
+                  <l>Den Menschenkindern angeborn.</l>
+                  <l>Aus Zorn wird Gott seg'en dich,</l>
+                  <l>Daß du wirst schauen stetiglich</l>
+                  <l>Das Gluck der Stadt Jerusalem</l>
+                  <l>Fur Gott in Gnaden angenehm.</l>
+                  <l>Fristen wird er das Leben dein</l>
+                  <l>Und mit Gute stets bei dir sein,</l>
+                  <l>Daß du sehen wirst Kindes Kind,</l>
+                  <l>Und daß Israel Friede find't.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der 124. Psalm: Nisi quia dominus.</head>
+               <lg>
+                  <l>Wär Gott nicht mit uns diese Zeit,</l>
+                  <l>So soll Israel sagen,</l>
+                  <l>Wär Gott nicht mit uns diese Zeit,</l>
+                  <l>Wir hätten mußt verzagen,</l>
+                  <l>Die so ein armes Häuflin sind,</l>
+                  <l>Veracht't von so viel Menschenkind,</l>
+                  <l>Die an uns setzen alle.</l>
+                  <l>Auf uns ist so zornig ihr Sinn;</l>
+                  <l>Wo Gott hätt das zugeben,</l>
+                  <l>Verschlungen hätten sie uns hin</l>
+                  <l>Mit ganzem Leib und Leben.</l>
+                  <l>Wir wär'n, als die ein Flut ersäuft</l>
+                  <l>Und uber die groß Wasser läuft</l>
+                  <l>Und mit Gewalt verschwemmet.</l>
+               </lg>
+               <lg>
+                  <l>Gott Lob und Dank, der nicht zu gab,</l>
+                  <l>Daß ihr Schlund uns möcht fangen,</l>
+                  <l>Wie ein Vogel des Stricks kommt ab,</l>
+                  <l>Ist unser Seel entgangen.</l>
+                  <l>Strick ist entzwei, und wir sind frei,</l>
+                  <l>Des Herren Namen stehet uns bei,</l>
+                  <l>Des Gotts Himmels und Erden.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein Lobgesang von der Geburt Christi.</head>
+               <lg>
+                  <l>Gelobet seist du, Jesu Christ,</l>
+                  <l>Daß du Mensch geboren bist</l>
+                  <l>Von einer Jungfrau, das ist wahr,</l>
+                  <l>Des freuet sich der Engel Schar.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Des ewigen Vaters einig Kind</l>
+                  <l>Itzt man in der Krippen find't.</l>
+                  <l>In unser armes Fleisch und Blut</l>
+                  <l>Verkleidet sich das ewig Gut.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Den aller Welt Kreis nie beschloß,</l>
+                  <l>Der liegt in Maria Schoß.</l>
+                  <l>Er ist ein Kindlin worden klein,</l>
+                  <l>Der alle Ding erhält allein.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Das ewig Licht geht da herein,</l>
+                  <l>Gibt der Welt ein'n neuen Schein.</l>
+                  <l>Es leucht't wohl mitten in der Nacht</l>
+                  <l>Und uns des Lichtes Kinder macht.</l>
+                  <l>Kyrioleis.</l>
+               </lg>
+               <lg>
+                  <l>Der Sohn des Vaters, Gott von Art,</l>
+                  <l>Ein Gast in der Werlet ward,</l>
+                  <l>Und fuhrt' uns aus dem Jammertal,</l>
+                  <l>Er macht' uns Erben in seim Saal.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Er ist auf Erden kommen arm,</l>
+                  <l>Daß er unser sich erbarm</l>
+                  <l>Und in dem Himmel machet reich</l>
+                  <l>Und seinen lieben Engeln gleich.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Das hat er alles uns getan,</l>
+                  <l>Sein groß Lieb zu zeigen an,</l>
+                  <l>Des freu sich alle Christenheit</l>
+                  <l>Und dank ihm des in Ewigkeit.</l>
+                  <l>Kyrioleis.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Hymnus: Veni redemptor gentium.</head>
+               <lg>
+                  <l>Nu komm, der Heiden Heiland,</l>
+                  <l>Der Jungfrauen Kind erkannt,</l>
+                  <l>Daß sich wunder' alle Welt,</l>
+                  <l>Gott solch Geburt sich bestellt.</l>
+                  <l>Nicht von Mann's Blut, noch von Fleisch,</l>
+                  <l>Allein von dem heilgen Geist</l>
+                  <l>Ist Gottes Wort worden ein Mensch</l>
+                  <l>Und blüht' ein Frucht Weibs Fleisch.</l>
+                  <l>Der Jungfrau Leib schwanger ward,</l>
+                  <l>Doch blieb Keuschheit rein bewahrt.</l>
+                  <l>Leucht't hervur manch Tugend schon,</l>
+                  <l>Gott da war in seinem Thron.</l>
+               </lg>
+               <lg>
+                  <l>Er ging aus der Kammer sein,</l>
+                  <l>Dem königlichen Saal so rein,</l>
+                  <l>Gott von Art und Mensch, ein Held,</l>
+                  <l>Sein'n Weg er zu laufen eilt.</l>
+                  <l>Sein Lauf kam vom Vater her</l>
+                  <l>Und kehrt wieder zum Vater,</l>
+                  <l>Fuhr hinuntern zu der Hell'</l>
+                  <l>Und wieder zu Gottes Stuel.</l>
+                  <l>Der du bist dem Vater gleich,</l>
+                  <l>Führ hinaus den Sieg im Fleisch,</l>
+                  <l>Daß dein ewig Gotts Gewalt</l>
+                  <l>In uns das krank Fleisch enthalt.</l>
+                  <l>Dein Krippen glänzt hell und klar,</l>
+                  <l>Die Nacht gibt ein neu Licht dar,</l>
+                  <l>Dunkel muß nicht kommen drein,</l>
+                  <l>Der Glaub bleib immer im Schein.</l>
+                  <l>Lob sei Gott dem Vater g'ton,</l>
+                  <l>Lob sei Gott, seim ein'gen Sohn,</l>
+                  <l>Lob sei Gott, dem heiligen Geist,</l>
+                  <l>Immer und in Ewigkeit.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Hymnus: A solis ortus.</head>
+               <lg>
+                  <l>Christum wir sollen loben schon,</l>
+                  <l>Der reinen Magd Marien Sohn,</l>
+                  <l>So weit die liebe Sonne leucht't</l>
+                  <l>Und an aller Welt Ende reicht.</l>
+                  <l>Der selig Schöpfer aller Ding</l>
+                  <l>Zog an eins Knechtes Leib gering,</l>
+               </lg>
+               <lg>
+                  <l>Daß er das Fleisch durch Fleisch erworb</l>
+                  <l>Und sein Geschepf nicht all's verdorb.</l>
+                  <l>Die göttlich Gnad von Himmel groß</l>
+                  <l>Sich in die keusche Mutter goß.</l>
+                  <l>Ein Meidlein trug ein heimlich Pfand,</l>
+                  <l>Das der Natur war unbekannt.</l>
+                  <l>Das zuchtig Haus des Herzens zart</l>
+                  <l>Gar bald ein Tempel Gottis ward,</l>
+                  <l>Die kein Mann ruhret' noch erkannt',</l>
+                  <l>Von Gotts Wort sie man schwanger fand.</l>
+                  <l>Die edle Mutter hat geborn,</l>
+                  <l>Den Gabriel verhieß zuvorn,</l>
+                  <l>Den Sankt Johanns mit Springen zeigt,</l>
+                  <l>Da er noch lag in Mutterleib.</l>
+                  <l>Er lag im Heu mit Armut groß,</l>
+                  <l>Die Krippen hart ihn nicht verdroß.</l>
+                  <l>Es ward ein kleine Milch sein Speiß,</l>
+                  <l>Der nie ein Voglin hungern ließ.</l>
+                  <l>Des Himmels Chör' sich freuen drob,</l>
+                  <l>Und die Engel singen Gott Lob.</l>
+                  <l>Den armen Hirten wird vermeldt</l>
+                  <l>Der Hirt und Schepfer aller Welt.</l>
+                  <l>Lob, Ehr und Dank sei dir gesagt,</l>
+                  <l>Christe, geborn von reiner Magd,</l>
+                  <l>Mit Vater und dem heilgen Geist</l>
+                  <l>Von nun an bis in Ewigkeit.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein Lobsang auf dem Osterfest.</head>
+               <lg>
+                  <l>Jesus Christ, unser Heiland,</l>
+                  <l>Der den Tod uberwand,</l>
+                  <l>Ist auferstanden,</l>
+                  <l>Die Sund hat er gefangen.</l>
+                  <l>Kyrieleison.</l>
+                  <l>Der ohn Sunden war geborn,</l>
+                  <l>Trug fur uns Gottis Zorn,</l>
+                  <l>Hat uns versuhnet,</l>
+                  <l>Daß Gott uns sein Huld gunnet,</l>
+                  <l>Kyrieleison.</l>
+                  <l>Tod, Sund, Leben und auch Gnad,</l>
+                  <l>All's in Händen er hat;</l>
+                  <l>Er kann erretten</l>
+                  <l>Alle, die zu ihm treten.</l>
+                  <l>Kyrieleison.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Lobsang: Christ ist erstanden, gebessert.</head>
+               <lg>
+                  <l>Christ lag in Todesbanden,</l>
+                  <l>Fur unser Sund gegeben,</l>
+                  <l>Der ist wieder erstanden</l>
+                  <l>Und hat uns bracht das Leben;</l>
+                  <l>Des wir sollen frohlich sein,</l>
+                  <l>Gott loben und dankbar sein</l>
+                  <l>Und singen Alleluja.</l>
+                  <l>Den Tod niemand zwingen kunnt</l>
+                  <l>Bei allen Menschenkinden,</l>
+                  <l>Das macht alles unser Sund,</l>
+                  <l>Kein Unschuld war zu finden.</l>
+               </lg>
+               <lg>
+                  <l>Davon kam der Tod so bald</l>
+                  <l>Und nahm uber uns Gewalt,</l>
+                  <l>Hielt uns in seim Reich gefangen.</l>
+                  <l>Jesus Christus, Gottes Sohn,</l>
+                  <l>An unser statt ist kommen</l>
+                  <l>Und hat die Sund abgetan,</l>
+                  <l>Damit dem Tod genommen</l>
+                  <l>All sein Recht und sein Gewalt,</l>
+                  <l>Da bleibt nichts denn Tods Gestalt,</l>
+                  <l>Die Stachel hat er verloren.</l>
+                  <l>Es war ein wunderlich Krieg,</l>
+                  <l>Da Tod und Leben rungen:</l>
+                  <l>Das Leben behielt den Sieg,</l>
+                  <l>Es hat den Tod verschlungen.</l>
+                  <l>Die Schrift hat verkundet das,</l>
+                  <l>Wie ein Tod den andern fraß,</l>
+                  <l>Ein Spott aus dem Tod ist worden.</l>
+                  <l>Hie ist das recht Osterlamm,</l>
+                  <l>Davon Gott hat geboten,</l>
+                  <l>Das ist an des Kreuzes Stamm</l>
+                  <l>In heißer Lieb gebroten,</l>
+                  <l>Deß Blut zeichnet unser' Tur,</l>
+                  <l>Das hält der Glaub dem Tod fur,</l>
+                  <l>Der Wurger kann uns nicht rühren.</l>
+                  <l>So feiren wir dies hoch Fest</l>
+                  <l>Mit Herzenfreud und Wonne,</l>
+                  <l>Das uns der Herr scheinen läßt,</l>
+                  <l>Er ist selber die Sonne,</l>
+                  <l>Der durch seiner Gnaden Glanz</l>
+                  <l>Erleucht't unser' Herzen ganz,</l>
+                  <l>Der Sunden Nacht ist vergangen.</l>
+               </lg>
+               <lg>
+                  <l>Wir essen und leben wohl</l>
+                  <l>In rechten Osternfladen.</l>
+                  <l>Der alte Saurteig nicht soll</l>
+                  <l>Sein bei dem Wort der Gnaden.</l>
+                  <l>Christus will die Koste sein</l>
+                  <l>Und speisen die Seel allein,</l>
+                  <l>Der Glaub will keins andern leben.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Hymnus: Veni creator spiritus.</head>
+               <lg>
+                  <l>Komm, Gott Schepfer, heiliger Geist,</l>
+                  <l>Besuch das Herz der Menschen dein,</l>
+                  <l>Mit Gnaden sie full', wie du weißt,</l>
+                  <l>Daß [sie] dein' Geschepf' vor hin sein.</l>
+                  <l>Denn du bist der Tröster genannt,</l>
+                  <l>Des Allerhöchsten Gabe teur,</l>
+                  <l>Ein geistlich Salb, an uns gewandt,</l>
+                  <l>Ein lebend Brunn, Lieb und Feur.</l>
+                  <l>Zund uns ein Licht an im Verstand,</l>
+                  <l>Gib uns ins Herz der Liebe Brunst,</l>
+                  <l>Das schwach Fleisch in uns, dir bekannt,</l>
+                  <l>Erhalt fest dein Kraft und Gunst.</l>
+                  <l>Du bist mit Gaben siebenfalt</l>
+                  <l>Der Finger an Gotts rechter Hand,</l>
+                  <l>Des Vaters Wort gibst du gar bald</l>
+                  <l>Mit Zungen in alle Land.</l>
+                  <l>Des Feindes List treib von uns fern,</l>
+                  <l>Den Fried' schaff bei uns deine Gnad,</l>
+                  <l>Daß wir dein'm Leiten folgen gern</l>
+                  <l>Und meiden der Seelen Schad.</l>
+               </lg>
+               <lg>
+                  <l>Lehr uns den Vater kennen wohl,</l>
+                  <l>Dazu Jesu Christ, seinen Sohn,</l>
+                  <l>Daß wir des Glaubens werden voll,</l>
+                  <l>Dich, beider Geist, zu verstohn.</l>
+                  <l>Gott Vater sei Lob und dem Sohn,</l>
+                  <l>Der von den Toten auferstund,</l>
+                  <l>Dem Tröster sei dasselb geton</l>
+                  <l>In Ewigkeit alle Stund.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Gesang: Veni sancte spiritus.</head>
+               <lg>
+                  <l>Komm, heiliger Geist, Herre Gott,</l>
+                  <l>Erfull mit deiner Gnaden Gut</l>
+                  <l>Deiner Gläubgen Herz, Mut und Sinn,</l>
+                  <l>Dein brunstig Lieb entzund in ihn'n,</l>
+                  <l>O Herr, durch deines Lichtes Glast</l>
+                  <l>Zu dem Glauben versammlet hast</l>
+                  <l>Das Volk aus aller Welt Zungen,</l>
+                  <l>Das sei dir, Herr, zu Lob gesungen.</l>
+                  <l>Alleluja, Alleluja.</l>
+                  <l>Du heiliges Licht, edler Hort,</l>
+                  <l>Laß uns leuchten des Lebens Wort</l>
+                  <l>Und lern uns Gott recht erkennen,</l>
+                  <l>Von Herzen Vater ihn nennen.</l>
+                  <l>O Herr, behut fur fremder Lehr,</l>
+                  <l>Daß wir nicht Meister suchen mehr</l>
+                  <l>Denn Jesum mit rechtem Glauben</l>
+                  <l>Und ihm aus ganzer Macht vertrauen.</l>
+                  <l>Alleluja, Alleluja.</l>
+                  <l>Du heilige Brunst, sußer Trost,</l>
+                  <l>Nu hilf uns frohlich und getrost,</l>
+               </lg>
+               <lg>
+                  <l>In deim Dienst beständig bleiben,</l>
+                  <l>Die Trubsal uns nicht abtreiben.</l>
+                  <l>O Herr, durch dein Kraft uns bereit'</l>
+                  <l>Und stärk des Fleisches Blodigkeit,</l>
+                  <l>Daß wir hie ritterlich ringen,</l>
+                  <l>Durch Tod und Leben zu dir dringen.</l>
+                  <l>Alleluja, Alleluja.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Lobgesang: Nu bitten wir den heiligen Geist.</head>
+               <lg>
+                  <l>Nu bitten wir den heiligen Geist</l>
+                  <l>Umb den rechten Glauben allermeist,</l>
+                  <l>Daß er uns behute an unserm Ende,</l>
+                  <l>Wenn wir heim fahrn aus diesem Elende.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du wertes Licht, gib uns deinen Schein,</l>
+                  <l>Lern uns Jesum Christ kennen allein,</l>
+                  <l>Daß wir an ihm bleiben, dem treuen Heiland,</l>
+                  <l>Der uns 'bracht hat zum rechten Vaterland.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du suße Lieb, schenk uns deine Gunst,</l>
+                  <l>Laß uns empfinden der Liebe Brunst,</l>
+                  <l>Daß wir uns von Herzen einander lieben</l>
+                  <l>Und im Friede auf einem Sinn bleiben.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du hochster Troster in aller Not,</l>
+                  <l>Hilf, daß wir nicht furchten Schand noch Tod,</l>
+                  <l>Daß in uns die Sinnen nicht verzagen,</l>
+                  <l>Wenn der Feind wird das Leben verklagen.</l>
+                  <l>Kyrioleis.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Das Lied S. Johannis Huß, gebessert.</head>
+               <lg>
+                  <l>Jesus Christus, unser Heiland,</l>
+                  <l>Der von uns den Zorn Gottis wandt,</l>
+                  <l>Durch das bitter Leiden sein</l>
+                  <l>Half er uns aus der Höllen Pein.</l>
+                  <l>Daß wir nimmer des vergessen,</l>
+                  <l>Gab er uns sein'n Leib zu essen,</l>
+                  <l>Verborgen im Brot so klein,</l>
+                  <l>Und zu trinken sein Blut im Wein.</l>
+                  <l>Wer sich zu dem Tisch will machen,</l>
+                  <l>Der hab wohl acht auf sein' Sachen:</l>
+                  <l>Wer unwirdig hie zu geht,</l>
+                  <l>Fur das Leben den Tod empfäht.</l>
+                  <l>Du sollt Gott den Vater preisen,</l>
+                  <l>Daß er dich so wohl wollt speisen</l>
+                  <l>Und fur deine Missetat</l>
+                  <l>In den Tod sein'n Sohn geben hat.</l>
+                  <l>Du sollt gläuben und nicht wanken,</l>
+                  <l>Daß ein Speise sei der Kranken,</l>
+                  <l>Den' ihr Herz von Sunden schwer</l>
+                  <l>Und fur Angst ist betrubet sehr.</l>
+                  <l>Solch groß Gnad und Barmherzigkeit</l>
+                  <l>Sucht ein Herz in großer Ärbeit:</l>
+                  <l>Ist dir wohl, so bleib davon,</l>
+                  <l>Daß du nicht kriegest bosen Lohn.</l>
+                  <l>Er spricht selber: »Kommt, ihr Armen,</l>
+                  <l>Laßt mich uber euch erbarmen,</l>
+                  <l>Kein Arzt ist dem Starken not,</l>
+                  <l>Sein Kunst wird an ihm gar ein Spott.</l>
+               </lg>
+               <lg>
+                  <l>Hättst du dir was 'kunnt erwerben,</l>
+                  <l>Was durft dann ich fur dich sterben?</l>
+                  <l>Dieser Tisch auch dir nicht gilt,</l>
+                  <l>So du selber dir helfen willt.«</l>
+                  <l>Gläubst du das von Herzen Grunde</l>
+                  <l>Und bekennest mit dem Munde,</l>
+                  <l>So bist du recht wohl geschickt,</l>
+                  <l>Und die Speise dein Seel erquickt.</l>
+                  <l>Die Frucht soll auch nit ausbleiben:</l>
+                  <l>Deinen Nähsten sollt du lieben,</l>
+                  <l>Daß er dein' genießen kann,</l>
+                  <l>Wie dein Gott hat an dir getan.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Gesang: Gott sei gelobet.</head>
+               <lg>
+                  <l>Gott sei gelobet und gebenedeiet,</l>
+                  <l>Der uns selber hat gespeiset</l>
+                  <l>Mit seinem Fleische und mit seinem Blute,</l>
+                  <l>Das gib uns, Herr Gott, zu Gute.</l>
+                  <l>Kyrieleison.</l>
+                  <l>Herr, durch deinen heiligen Leichnam,</l>
+                  <l>Der von deiner Mutter Maria kam,</l>
+                  <l>Und das heilige Blut</l>
+                  <l>Hilf uns, Herr, aus aller Not.</l>
+                  <l>Kyrieleison.</l>
+                  <l>Der heilig Leichnam ist fur uns gegeben</l>
+                  <l>Zum Tod, daß wir dardurch leben.</l>
+                  <l>Nicht großer' Gute kunnt er uns geschenken,</l>
+                  <l>Dabei wir sein solln gedenken.</l>
+                  <l>Kyrieleison.</l>
+               </lg>
+               <lg>
+                  <l>Herr, dein Lieb so groß dich zwungen hat,</l>
+                  <l>Daß dein Blut an uns groß Wunder tat</l>
+                  <l>Und bezahlt unser Schuld,</l>
+                  <l>Daß uns Gott ist worden hold.</l>
+                  <l>Kyrieleison.</l>
+                  <l>Gott geb uns allen seiner Gnaden Segen,</l>
+                  <l>Daß wir gehen auf seinen Wegen</l>
+                  <l>In rechter Lieb und bruderlicher Treue,</l>
+                  <l>Daß uns die Speis' nicht gereue.</l>
+                  <l>Kyrieleison.</l>
+                  <l>Herr, dein heilig Geist uns nimmer laß,</l>
+                  <l>Der uns geb' zu halten rechte Maß,</l>
+                  <l>Daß dein arm Christenheit</l>
+                  <l>Leb in Fried und Einigkeit.</l>
+                  <l>Kyrieleison.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Lobsang: Mitten wir im Leben sind.</head>
+               <lg>
+                  <l>Mitten wir im Leben sind</l>
+                  <l>Mit dem Tod umfangen.</l>
+                  <l>Wen suchen wir, der Hulfe tu,</l>
+                  <l>Daß wir Gnad erlangen?</l>
+                  <l>Das bist du, Herr, alleine;</l>
+                  <l>Uns reuet unser Missetat,</l>
+                  <l>Die dich, Herr, erzurnet hat.</l>
+                  <l>Heiliger Herre Gott,</l>
+                  <l>Heiliger starker Gott,</l>
+                  <l>Heiliger barmherziger Heiland,</l>
+                  <l>Du ewiger Gott,</l>
+                  <l>Laß uns nicht versinken</l>
+                  <l>In des bittern Todes Not.</l>
+                  <l>Kyrieleison.</l>
+               </lg>
+               <lg>
+                  <l>Mitten in dem Tod anficht</l>
+                  <l>Uns der Hellen Rachen.</l>
+                  <l>Wer will uns aus solcher Not</l>
+                  <l>Frei und ledig machen?</l>
+                  <l>Das tust du, Herr, alleine.</l>
+                  <l>Es jammert dein Barmherzigkeit</l>
+                  <l>Unser Klag und großes Leid.</l>
+                  <l>Heiliger Herre Gott,</l>
+                  <l>Heiliger starker Gott,</l>
+                  <l>Heiliger barmherziger Heiland,</l>
+                  <l>Du ewiger Gott,</l>
+                  <l>Laß uns nicht verzagen</l>
+                  <l>Fur der tiefen Hellen Glut.</l>
+                  <l>Kyrieleison.</l>
+                  <l>Mitten in der Hellen Angst</l>
+                  <l>Unser' Sund' uns treiben.</l>
+                  <l>Wo solln wir denn fliehen hin,</l>
+                  <l>Da wir mugen bleiben?</l>
+                  <l>Zu dir, Herr Christ, alleine.</l>
+                  <l>Vergossen ist dein teures Blut,</l>
+                  <l>Das gnug fur die Sunden tut.</l>
+                  <l>Heiliger Herre Gott,</l>
+                  <l>Heiliger starker Gott,</l>
+                  <l>Heiliger barmherziger Heiland,</l>
+                  <l>Du ewiger Gott,</l>
+                  <l>Laß uns nicht entfallen</l>
+                  <l>Von des rechten Glaubens Trost.</l>
+                  <l>Kyrieleison.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Die zehen Gebot Gottes, auf den Ton: In Gottes Namen fahren wir.</head>
+               <lg>
+                  <l>Dies sind die heilgen zehn Gebot,</l>
+                  <l>Die uns gab unser Herre Gott</l>
+                  <l>Durch Mosen, seinen Diener treu,</l>
+                  <l>Hoch auf dem Berg Sinai.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Ich bin allein dein Gott, der Herr,</l>
+                  <l>Kein Götter sollt du haben mehr,</l>
+                  <l>Du sollt mir ganz vertrauen dich,</l>
+                  <l>Von Herzengrund lieben mich.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt nicht fuhren zu Unehr'n</l>
+                  <l>Den Namen Gottes, deines Herrn,</l>
+                  <l>Du sollt nicht preisen recht noch gut,</l>
+                  <l>Ohn was Gott selbs red't und tut.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt heilgen den siebent' Tag,</l>
+                  <l>Daß du und dein Haus rugen mag,</l>
+                  <l>Du sollt von deim Tun lassen ab,</l>
+                  <l>Daß Gott sein Werk in dir hab.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt ehrn und gehorsam sein</l>
+                  <l>Dem Vater und der Mutter dein,</l>
+                  <l>Und wo dein Hand ihn'n dienen kann,</l>
+                  <l>So wirst du langs Leben han.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt nicht toten zorniglich,</l>
+                  <l>Nicht hassen, noch selbs rächen dich,</l>
+                  <l>Geduld haben und sanften Mut</l>
+               </lg>
+               <lg>
+                  <l>Und auch dem Feind tun das Gut'.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Deine Ehe solltu bewahren rein,</l>
+                  <l>Daß auch dein Herz kein ander mein',</l>
+                  <l>Und halten keusch das Leben dein</l>
+                  <l>Mit Zucht und Mäßigkeit fein.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt nicht stehlen Geld noch Gut,</l>
+                  <l>Nicht 'wuchern jemands Schweiß und Blut,</l>
+                  <l>Du sollt auftun dein milde Hand</l>
+                  <l>Den Armen in deinem Land.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt kein falscher Zeuge sein,</l>
+                  <l>Nicht lügen auf den Nähsten dein,</l>
+                  <l>Sein Unschuld sollt auch retten du</l>
+                  <l>Und seine Schand decken zu.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt deins Nähsten Weib und Haus</l>
+                  <l>Begehren nicht, noch etwas draus,</l>
+                  <l>Du sollt ihm wundschen alles gut,</l>
+                  <l>Wie dir dein Herz selber tut.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Die Gebot all uns geben sind,</l>
+                  <l>Daß du dein Sund, o Menschenkind,</l>
+                  <l>Erkennen sollt und lernen wohl,</l>
+                  <l>Wie man vur Gott leben soll,</l>
+                  <l>Kyrioleis.</l>
+                  <l>Das helf uns der Herr Jesu Christ,</l>
+                  <l>Der unser Mittler worden ist,</l>
+                  <l>Es ist mit unserm Tun verlorn,</l>
+                  <l>Verdienen doch eitel Zorn.</l>
+                  <l>Kyrioleis.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Die zehen Gebot, aufs kürzeste.</head>
+               <lg>
+                  <l>Mensch, willtu leben seliglich</l>
+                  <l>Und bei Gott bleiben ewiglich,</l>
+                  <l>Solltu halten die zehn Gebot,</l>
+                  <l>Die uns gebeut unser Gott.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Dein Gott allein und Herr bin ich,</l>
+                  <l>Kein ander Gott soll irren dich,</l>
+                  <l>Trauen soll mir das Herze dein,</l>
+                  <l>Mein eigen Reich sollt du sein.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt mein'n Namen ehren schon</l>
+                  <l>Und in der Not mich rufen an,</l>
+                  <l>Du sollt heilgen den Sabbattag,</l>
+                  <l>Daß ich in dir wirken mag.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Dem Vater und der Mutter dein</l>
+                  <l>Solltu nach mir gehorsam sein,</l>
+                  <l>Niemand toten, noch zornig sein</l>
+                  <l>Und deine Ehe halten rein.</l>
+                  <l>Kyrioleis.</l>
+                  <l>Du sollt eim andern stehlen nicht,</l>
+                  <l>Auf niemand Falsches zeugen icht,</l>
+                  <l>Deines Nähsten Weib nicht begern</l>
+                  <l>Und all seines Guts gern embehrn.</l>
+                  <l>Kyrioleis.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Das deutsche Patrem.</head>
+               <lg>
+                  <l>Wir gläuben all an einen Gott,</l>
+                  <l>Schepfer Himmels und der Erden,</l>
+                  <l>Der sich zum Vater geben hat,</l>
+                  <l>Daß wir seine Kinder werden.</l>
+                  <l>Er will uns allzeit ernähren,</l>
+                  <l>Leib und Seel auch wohl bewahren,</l>
+                  <l>Allem Unfall will er wehren,</l>
+                  <l>Kein Leid soll uns widerfahren.</l>
+                  <l>Er sorget fur uns, hüt't und wacht,</l>
+                  <l>Es steht alles in seiner Macht.</l>
+                  <l>Wir gläuben auch an Jesum Christ,</l>
+                  <l>Seinen Sohn und unsern Herren,</l>
+                  <l>Der ewig bei dem Vater ist,</l>
+                  <l>Gleicher Gott von Macht und Ehren.</l>
+                  <l>Von Maria der Jungfrauen</l>
+                  <l>Ist ein wahrer Mensch geboren</l>
+                  <l>Durch den heiligen Geist im Glauben,</l>
+                  <l>Für uns, die wir warn verloren,</l>
+                  <l>Am Kreuz gestorben und vom Tod</l>
+                  <l>Wieder auferstanden durch Gott.</l>
+                  <l>Wir gläuben an den heilgen Geist,</l>
+                  <l>Gott mit Vater und dem Sohne,</l>
+                  <l>Der aller Blöden Tröster heißt</l>
+                  <l>Und mit Gaben zieret schone,</l>
+                  <l>Die ganz Christenheit auf Erden</l>
+                  <l>Hält in einem Sinn gar eben,</l>
+                  <l>Hie all Sund' vergeben werden,</l>
+                  <l>Das Fleisch soll auch wieder leben.</l>
+                  <l>Nach diesem Elend ist bereit't</l>
+                  <l>Uns ein Leben in Ewigkeit.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Gott der Vater wohn' uns bei.</head>
+               <lg>
+                  <l>Gott der Vater wohn' uns bei</l>
+                  <l>Und laß uns nicht verderben,</l>
+                  <l>Mach uns aller Sunden frei</l>
+                  <l>Und helf uns selig sterben.</l>
+                  <l>Für dem Teufel uns bewahr,</l>
+                  <l>Halt uns bei festem Glauben,</l>
+                  <l>Und auf dich laß uns bauen,</l>
+                  <l>Aus Herzen Grund vertrauen,</l>
+                  <l>Dir uns lassen ganz und gar</l>
+                  <l>Mit allen rechten Christen</l>
+                  <l>Entfliehen Teufels Listen,</l>
+                  <l>Mit Waffen Gotts uns fristen</l>
+                  <l>Amen, amen, das sei wahr,</l>
+                  <l>So singen wir Alleluja.</l>
+                  <l>Jesus Christus, wohn' uns bei .....</l>
+                  <l>Heilig Geist, der wohn' uns bei .....</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Lobgesang Simeonis: Nunc dimittis.</head>
+               <lg>
+                  <l>Mit Fried und Freud ich fahr dohin</l>
+                  <l>In Gotts Wille,</l>
+                  <l>Getrost ist mir mein Herz und Sinn,</l>
+                  <l>Sanft und stille.</l>
+                  <l>Wie Gott mir verheißen hat:</l>
+                  <l>Der Tod ist mein Schlaf worden.</l>
+                  <l>Das macht Christus, wahr'r Gottes Sohn,</l>
+                  <l>Der treu Heiland,</l>
+                  <l>Den du mich, Herr, hast sehen lon</l>
+                  <l>Und g'macht bekannt,</l>
+                  <l>Daß er sei das Leben mein</l>
+                  <l>Und Heil in Not und Sterben.</l>
+                  <l/>
+                  <l>Den hast du allen vurgestellt</l>
+                  <l>Mit groß Gnaden,</l>
+                  <l>Zu seinem Reich die ganze Welt</l>
+                  <l>Heißen laden,</l>
+                  <l>Durch dein teur heilsams Wort,</l>
+                  <l>An allem Ort erschollen.</l>
+                  <l>Er ist das hell und selig Licht</l>
+                  <l>Fur die Heiden,</l>
+                  <l>Zu 'rleuchten, die dich kennen nicht,</l>
+                  <l>Und zu weiden.</l>
+                  <l>Er ist deins Volks Israel</l>
+                  <l>Der Preis, Ehr, Freud und Wonne.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Das deutsche Sanctus.</head>
+               <lg>
+                  <l>Jesaia dem Propheten das geschach,</l>
+                  <l>Daß er im Geist den Herren sitzen sach</l>
+                  <l>Auf einem hohen Thron in hellem Glanz,</l>
+                  <l>Seines Kleides Saum den Chor fullet ganz.</l>
+                  <l>Es stunden zween Seraph bei ihm daran,</l>
+                  <l>Sechs Flugel sach er einen idern han.</l>
+                  <l>Mit zwen verbargen sie ihr Antlitz klar,</l>
+                  <l>Mit zwen bedeckten sie die Fuße gar,</l>
+                  <l>Und mit den andern zwen sie flogen frei,</l>
+                  <l>Gen ander rufen sie mit großem Schrei:</l>
+                  <l>Heilig ist Gott, der Herre Zebaoth,</l>
+                  <l>Heilig ist Gott, der Herre Zebaoth,</l>
+                  <l>Heilig ist Gott, der Herre Zebaoth,</l>
+                  <l>Sein Ehr die ganze Welt erfullet hat!</l>
+                  <l>Von dem Schrei zittert Schwell und Balken gar,</l>
+                  <l>Das Haus auch ganz voll Rauchs und Nebel war.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Te Deum laudamus.</head>
+               <lg>
+                  <l>Herr Gott, dich loben wir,</l>
+                  <l>Herr Gott, wir danken dir.</l>
+                  <l>Dich, Vater in Ewigkeit,</l>
+                  <l>Ehrt die Welt weit und breit.</l>
+                  <l>All Engel und Himmelsheer</l>
+                  <l>Und was dienet deiner Ehr,</l>
+                  <l>Auch Cherubin und Seraphin</l>
+                  <l>Singet immer mit hoher Stimm:</l>
+                  <l>Heilig ist unser Gott,</l>
+                  <l>Heilig ist unser Gott,</l>
+                  <l>Heilig ist unser Gott,</l>
+                  <l>Der Herre Zebaoth.</l>
+                  <l>Dein göttlich Macht und Herrlichkeit</l>
+                  <l>Gehet uber Himmel und Erden weit.</l>
+                  <l>Der heiligen Zwelfboten Zahl</l>
+                  <l>Und die lieben Propheten all,</l>
+                  <l>Die teuren Martrer allzumal</l>
+                  <l>Loben dich, Herr, mit großem Schall.</l>
+                  <l>Die ganze werte Christenheit</l>
+                  <l>Ruhmt dich auf Erden alle Zeit,</l>
+                  <l>Dich, Gott Vater im höchsten Thron,</l>
+                  <l>Deinen rechten und einigen Sohn,</l>
+                  <l>Den heiligen Geist und Tröster wert</l>
+                  <l>Mit rechtem Dienst sie lobt und ehrt.</l>
+                  <l>Du König der Ehren, Jesu Christ,</l>
+                  <l>Gott Vaters ewiger Sohn du bist;</l>
+                  <l>Der Jungfrau Leib nicht hast verschmecht,</l>
+                  <l>Zu 'rlösen das menschlich Geschlecht.</l>
+                  <l>Du hast dem Tod zerstört sein Macht</l>
+                  <l>Und all Christen zum Himmel 'bracht.</l>
+                  <l>Du sitzt zur Rechten Gottes gleich</l>
+                  <l>Mit aller Ehr ins Vaters Reich.</l>
+                  <l/>
+                  <l>Ein Richter du zukunftig bist</l>
+                  <l>Alles, das tot und lebend ist.</l>
+                  <l>Nu hilf uns, Herr, den Dienern dein,</l>
+                  <l>Die mit deim teurn Blut erlöset sein.</l>
+                  <l>Laß uns im Himmel haben teil</l>
+                  <l>Mit den Heiligen in ewigem Heil.</l>
+                  <l>Hilf deinem Volk, Herr Jesu Christ,</l>
+                  <l>Und segen', das dein Erbteil ist,</l>
+                  <l>Wart und pfleg ihr zu aller Zeit</l>
+                  <l>Und heb sie hoch in Ewigkeit.</l>
+                  <l>Täglich, Herr Gott, wir loben dich</l>
+                  <l>Und ehrn dein Namen stetiglich.</l>
+                  <l>Behüt uns Gott, o treuer Gott,</l>
+                  <l>Für aller Sund und Missetat.</l>
+                  <l>Sei uns gnedig, o Herre Gott,</l>
+                  <l>Sei uns gnedig in aller Not.</l>
+                  <l>Zeig uns deine Barmherzigkeit,</l>
+                  <l>Wie unser Hoffen zu dir steht.</l>
+                  <l>Auf dich hoffen wir, lieber Herr,</l>
+                  <l>In Schanden laß uns nimmermehr.</l>
+                  <l>Amen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der 46. Psalm: Deus noster refugium et virtus.</head>
+               <lg>
+                  <l>Ein feste Burg ist unser Gott,</l>
+                  <l>Ein gute Wehr und Waffen.</l>
+                  <l>Er hilft uns frei aus aller Not,</l>
+                  <l>Die uns itzt hat betroffen.</l>
+                  <l>Der alt böse Feind</l>
+                  <l>Mit Ernst ers itzt meint,</l>
+                  <l>Groß Macht und viel List</l>
+                  <l>Sein grausam Rüstung ist,</l>
+                  <l>Auf Erd ist nicht seins gleichen.</l>
+                  <l/>
+                  <l>Mit unser Macht ist nichts getan,</l>
+                  <l>Wir sind gar bald verloren.</l>
+                  <l>Es streit für uns der rechte Mann,</l>
+                  <l>Den Gott hat selbs erkoren.</l>
+                  <l>Fragst du, wer der ist,</l>
+                  <l>Er heißt Jesu Christ,</l>
+                  <l>Der Herr Zebaoth</l>
+                  <l>Und ist kein ander Gott,</l>
+                  <l>Das Feld muß er behalten.</l>
+                  <l>Und wenn die Welt voll Teufel wär</l>
+                  <l>Und wollt uns gar verschlingen,</l>
+                  <l>So fürchten wir uns nicht zu sehr,</l>
+                  <l>Es soll uns doch gelingen.</l>
+                  <l>Der Fürst dieser Welt,</l>
+                  <l>Wie saur er sich stellt,</l>
+                  <l>Tut er uns doch nicht,</l>
+                  <l>Das macht, er ist gericht,</l>
+                  <l>Ein Wörtlin kann ihn fällen.</l>
+                  <l>Das Wort sie sollen lassen stahn</l>
+                  <l>Und kein Dank dazu haben.</l>
+                  <l>Er ist bei uns wohl auf dem Plan</l>
+                  <l>Mit seinem Geist und Gaben.</l>
+                  <l>Nehmen sie den Leib</l>
+                  <l>Gut, Ehr, Kind und Weib:</l>
+                  <l>Laß fahren dahin,</l>
+                  <l>Sie habens kein Gewinn,</l>
+                  <l>Das Reich muß uns doch bleiben.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Da pacem Domine, Deutsch.</head>
+               <lg>
+                  <l>Verleih uns Frieden gnädiglich,</l>
+                  <l>Herr Gott, zu unsern Zeiten.</l>
+                  <l>Es ist ja doch kein ander nicht,</l>
+                  <l>Der für uns künnte streiten,</l>
+                  <l>Denn du, unser Gott, alleine.</l>
+                  <l>Gott, gib Fried in deinem Lande,</l>
+                  <l>Glück und Heil zu allem Stande.</l>
+                  <l>Herr Gott, himmlischer Vater, der du heiligen Mut, guten Rat und rechte Werke schaffest, gib deinen Dienern Friede, welchen die Welt nicht kann geben, auf daß unsere Herzen an deinen Geboten hangen und wir unser Zeit durch deinen Schutz stille und sicher fur Feinden leben durch Jesu Christ, deinen Sohn, unsern Herren. Amen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein Kinderlied auf die Weihnacht Christi.</head>
+               <lg>
+                  <l>Vom Himmel hoch da komm ich her,</l>
+                  <l>Ich bring euch gute neue Mär,</l>
+                  <l>Der guten Mär bring ich so viel,</l>
+                  <l>Davon ich singen und sagen will.</l>
+                  <l>Euch ist ein Kindlein heut geborn</l>
+                  <l>Von einer Jungfrau auserkorn,</l>
+                  <l>Ein Kindelein so zart und fein,</l>
+                  <l>Das soll eur Freud und Wonne sein.</l>
+                  <l>Er ist der Herr Christ, unser Gott,</l>
+                  <l>Der will euch führn aus aller Not,</l>
+                  <l>Er will eur Heiland selber sein,</l>
+                  <l>Von allen Sunden machen rein.</l>
+                  <l/>
+                  <l>Er bringt euch alle Seligkeit,</l>
+                  <l>Die Gott der Vater hat bereit't,</l>
+                  <l>Daß ihr mit uns im Himmelreich</l>
+                  <l>Sollt leben nu und ewiglich.</l>
+                  <l>So merket nu das Zeichen recht,</l>
+                  <l>Die Krippen, Windelin so schlecht,</l>
+                  <l>Da findet ihr das Kind gelegt,</l>
+                  <l>Das alle Welt erhält und trägt.</l>
+                  <l>Des laßt uns alle fröhlich sein</l>
+                  <l>Und mit den Hirten gehn hinein,</l>
+                  <l>Zu sehn, was Gott uns hat beschert</l>
+                  <l>Mit seinem lieben Sohn verehrt.</l>
+                  <l>Merk auf, mein Herz, und sieh dort hin,</l>
+                  <l>Was liegt doch in dem Krippelin,</l>
+                  <l>Wes ist das schöne Kindelin?</l>
+                  <l>Es ist das liebe Jesulin.</l>
+                  <l>Bis willekomm, du edler Gast,</l>
+                  <l>Den Sunder nicht verschmähet hast,</l>
+                  <l>Und kommst ins Elend her zu mir,</l>
+                  <l>Wie soll ich immer danken dir?</l>
+                  <l>Ach Herr, du Schöpfer aller Ding,</l>
+                  <l>Wie bist du worden so gering,</l>
+                  <l>Daß du da liegst auf dürrem Gras,</l>
+                  <l>Davon ein Rind und Esel aß.</l>
+                  <l>Und wär die Welt viel mal so weit,</l>
+                  <l>Von Edelstein und Gold bereit't,</l>
+                  <l>So wär sie doch dir viel zu klein,</l>
+                  <l>Zu sein ein enges Wiegelein.</l>
+                  <l/>
+                  <l>Der Sammet und die Seiden dein,</l>
+                  <l>Das ist grob Heu und Windelein,</l>
+                  <l>Darauf du, König so groß und reich,</l>
+                  <l>Her prangst, als wärs dein Himmelreich.</l>
+                  <l>Das hat also gefallen dir,</l>
+                  <l>Die Wahrheit anzuzeigen mir,</l>
+                  <l>Wie aller Welt Macht, Ehr und Gut</l>
+                  <l>Für die nichts gilt, nichts hilft noch tut.</l>
+                  <l>Ach mein herzliebes Jesulin,</l>
+                  <l>Mach dir ein rein, sanft Bettelin,</l>
+                  <l>Zu rugen in meins Herzen Schrein,</l>
+                  <l>Daß ich nimmer vergesse dein.</l>
+                  <l>Davon ich allzeit fröhlich sei,</l>
+                  <l>Zu springen, singen immer frei</l>
+                  <l>Das rechte Susaninne schon</l>
+                  <l>Mit Herzenlust den süßen Ton.</l>
+                  <l>Lob, Ehr sei Gott im höchsten Thron,</l>
+                  <l>Der uns schenkt seinen ein'gen Sohn,</l>
+                  <l>Des freuen sich der Engel Schar'</l>
+                  <l>Und singen uns solch neues Jahr.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein Lied von der heiligen christlichen Kirchen, aus dem 12. Kapitel Apokalypsis.</head>
+               <lg>
+                  <l>Sie ist mir lieb, die werte Magd,</l>
+                  <l>Und kann ihr nicht vergessen.</l>
+                  <l>Lob, Ehr und Zucht von ihr man sagt,</l>
+                  <l>Sie hat mein Herz besessen.</l>
+                  <l>Ich bin ihr hold,</l>
+                  <l>Und wenn ich sollt</l>
+                  <l>Groß Unglück han,</l>
+                  <l/>
+                  <l>Da liegt nicht an:</l>
+                  <l>Sie will mich des ergetzen</l>
+                  <l>Mit ihrer Lieb und Treu an mir,</l>
+                  <l>Die sie zu mir will setzen</l>
+                  <l>Und tun all mein Begier.</l>
+                  <l>Sie tregt von Gold so rein ein Kron,</l>
+                  <l>Da leuchten in zwelf Sterne,</l>
+                  <l>Ihr Kleid ist wie die Sonne schon,</l>
+                  <l>Das glänzet hell und ferne.</l>
+                  <l>Und auf dem Mon</l>
+                  <l>Ihr Füße ston,</l>
+                  <l>Sie ist die Braut,</l>
+                  <l>Dem Herrn vertraut.</l>
+                  <l>Ihr ist weh und muß gebären</l>
+                  <l>Ein schönes Kind, den edlen Sohn,</l>
+                  <l>Und aller Welt ein Herren,</l>
+                  <l>Dem ist sie unterton.</l>
+                  <l>Das tut dem alten Drachen Zorn,</l>
+                  <l>Und will das Kind verschlingen.</l>
+                  <l>Sein Toben ist doch ganz verlorn,</l>
+                  <l>Es kann ihm nicht gelingen.</l>
+                  <l>Das Kind ist doch</l>
+                  <l>Gen Himmel hoch</l>
+                  <l>Genommen hin</l>
+                  <l>Und lasset ihn</l>
+                  <l>Auf Erden fast sehr wüten.</l>
+                  <l>Die Mutter muß gar sein allein,</l>
+                  <l>Doch will sie Gott behüten</l>
+                  <l>Und der recht Vater sein.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Gloria in excelsis deo.</head>
+               <lg>
+                  <l>All Ehr und Lob soll Gottes sein,</l>
+                  <l>Er ist und heißt der Höchst allein,</l>
+                  <l>Sein Zorn auf Erden hab ein End,</l>
+                  <l>Sein Fried und Gnad sich zu uns wend.</l>
+                  <l>Den Menschen das gefalle wohl,</l>
+                  <l>Dafür man herzlich danken soll.</l>
+                  <l>Ach lieber Gott, dich loben wir</l>
+                  <l>Und preisen dich mit ganzer Gier.</l>
+                  <l>Auch kniend wir anbeten dich,</l>
+                  <l>Dein Ehr wir rühmen stetiglich.</l>
+                  <l>Wir danken dir zu aller Zeit</l>
+                  <l>Um deine große Herrlichkeit.</l>
+                  <l>Herr Gott im Himmel, Kön'g du bist,</l>
+                  <l>Ein Vater, der allmächtig ist.</l>
+                  <l>Du, Gottes Sohn, vom Vater bist</l>
+                  <l>Einig geborn Herr Jesu Christ.</l>
+                  <l>Herr Gott, du zartes Gotteslamm</l>
+                  <l>Ein Sohn aus Gott, des Vaters Stamm,</l>
+                  <l>Der du der Welt Sund trägst allein,</l>
+                  <l>Wollst uns gnädig, barmherzig sein;</l>
+                  <l>Der du der Welt Sund trägst allein,</l>
+                  <l>Laß dir unser Bitt g'fällig sein.</l>
+                  <l>Der du gleich sitzst dem Vater dein,</l>
+                  <l>Wollst uns gnädig barmherzig sein.</l>
+                  <l>Du bist und bleibst heilig allein,</l>
+                  <l>Uber alles der Herr allein.</l>
+                  <l>Der Allerhöchst allein du bist,</l>
+                  <l>Du lieber Heiland Jesu Christ,</l>
+                  <l>Samt dem Vater und heilgem Geist</l>
+                  <l>In göttlicher Majestät gleich.</l>
+                  <l>Amen, das ist gewißlich wahr,</l>
+                  <l>Das bekennt aller Engel Schar</l>
+                  <l/>
+                  <l>Und alle Welt so weit und breit</l>
+                  <l>Von Anfang bis in Ewigkeit. Amen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Das Vaterunser, kurz ausgelegt und in Gesangsweise gebracht.</head>
+               <lg>
+                  <l>Vater unser im Himmelreich,</l>
+                  <l>Der du uns alle heißest gleich</l>
+                  <l>Brüder sein und dich rufen an</l>
+                  <l>Und willt das Beten von uns han:</l>
+                  <l>Gib, daß nicht bet' allein der Mund,</l>
+                  <l>Hilf, daß es geh von Herzen Grund.</l>
+                  <l>Geheiliget werd der Name dein,</l>
+                  <l>Dein Wort bei uns hilf halten rein,</l>
+                  <l>Daß auch wir leben heiliglich</l>
+                  <l>Nach deinem Namen wirdiglich.</l>
+                  <l>Behüt uns, Herr, für falscher Lehr,</l>
+                  <l>Das arm verführet Volk bekehr.</l>
+                  <l>Es komm dein Reich zu dieser Zeit</l>
+                  <l>Und dort hernach in Ewigkeit.</l>
+                  <l>Der heilig Geist uns wohne bei</l>
+                  <l>Mit seinen Gaben mancherlei.</l>
+                  <l>Des Satans Zorn und groß Gewalt</l>
+                  <l>Zerbrich; für ihm dein Kirch erhalt.</l>
+                  <l>Dein Will gescheh, Herr Gott, zu gleich</l>
+                  <l>Auf Erden wie im Himmelreich.</l>
+                  <l>Gib uns Geduld in Leidenszeit,</l>
+                  <l>Gehorsam sein in Lieb und Leid.</l>
+                  <l>Wehr' und steur' allem Fleisch und Blut,</l>
+                  <l>Das wider deinen Willen tut.</l>
+                  <l/>
+                  <l>Gib uns heut unser täglich Brot</l>
+                  <l>Und was man darf zur Leibesnot.</l>
+                  <l>Behüt uns, Herr, für Unfried und Streit,</l>
+                  <l>Für Seuchen und für teurer Zeit,</l>
+                  <l>Daß wir in gutem Frieden stehn,</l>
+                  <l>Der Sorg und Geizens müßig gehn.</l>
+                  <l>All unser Schuld vergib uns, Herr,</l>
+                  <l>Daß sie uns nicht betrüben mehr,</l>
+                  <l>Wie wir auch unsern Schüldigern</l>
+                  <l>Ihr Schuld und Feil vergeben gern.</l>
+                  <l>Zu dienen mach uns all bereit</l>
+                  <l>In rechter Lieb und Einigkeit.</l>
+                  <l>Führ uns, Herr, in Versuchung nicht,</l>
+                  <l>Wenn uns der böse Geist anficht.</l>
+                  <l>Zur linken und zur rechten Hand</l>
+                  <l>Hilf uns tun starken Widerstand,</l>
+                  <l>Im Glauben fest und wohlgerüst</l>
+                  <l>Und durch des heilgen Geistes Trost.</l>
+                  <l>Von allem Ubel uns erlös,</l>
+                  <l>Es sind die Zeit und Tage bös,</l>
+                  <l>Erlös uns vom ewigen Tod</l>
+                  <l>Und tröst uns in der letzten Not.</l>
+                  <l>Bescher uns auch ein seligs End,</l>
+                  <l>Nimm unser Seel in deine Händ.</l>
+                  <l>Amen, das ist: es werde wahr!</l>
+                  <l>Stärk unsern Glauben immerdar,</l>
+                  <l>Auf daß wir ja nicht zweifeln dran,</l>
+                  <l>Daß wir hiemit gebeten han</l>
+                  <l>Auf dein Wort in dem Namen dein,</l>
+                  <l>So sprechen wir das Amen fein.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Der Hymnus: Hostis Herodes, in Ton: A solis ortus.</head>
+               <lg>
+                  <l>Was furchst du, Feind Herodes, sehr,</l>
+                  <l>Daß uns geborn kommt Christ der Herr?</l>
+                  <l>Er sucht kein sterblich Königreich,</l>
+                  <l>Der zu uns bringt sein Himmelreich.</l>
+                  <l>Dem Stern die Weisen folgen nach,</l>
+                  <l>Solch Licht zum rechten Licht sie bracht;</l>
+                  <l>Sie zeigen mit den Gaben drei,</l>
+                  <l>Dies Kind Gott, Mensch und König sei.</l>
+                  <l>Die Tauf im Jordan an sich nahm</l>
+                  <l>Das himmelische Gotteslamm,</l>
+                  <l>Dadurch der nie kein Sünde tat,</l>
+                  <l>Von Sünden uns gewaschen hat.</l>
+                  <l>Ein Wunderwerk da neu geschach,</l>
+                  <l>Sechs steinern Krüge man da sach</l>
+                  <l>Voll Wassers, das verlor sein Art,</l>
+                  <l>Roter Wein durch sein Wort draus ward.</l>
+                  <l>Lob, Ehr und Dank sei dir gesagt,</l>
+                  <l>Christ, geborn von der reinen Magd,</l>
+                  <l>Mit Vater und dem heilgen Geist</l>
+                  <l>Von nu an bis in Ewigkeit. Amen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein geistlich Lied von unser heiligen Taufe</head>
+               <lg>
+                  <l>darin fein kurz gefasset: Was sie sei? wer sie gestiftet habe? was sie nütze? usw.</l>
+                  <l>Christ, unser Herr, zum Jordan kam</l>
+                  <l>Nach seines Vaters Willen,</l>
+                  <l>Von St. Johann's die Taufe nahm,</l>
+                  <l>Sein Werk und Amt zu 'rfüllen.</l>
+                  <l>Da wollt er stiften uns ein Bad,</l>
+                  <l>Zu waschen uns von Sunden,</l>
+                  <l>Ersäufen auch den bittern Tod</l>
+                  <l>Durch sein selbs Blut und Wunden,</l>
+                  <l>Es galt ein neues Leben.</l>
+                  <l>So hört und merket alle wohl,</l>
+                  <l>Was Gott heißt selbs die Taufe,</l>
+                  <l>Und was ein Christen gläuben soll,</l>
+                  <l>Zu meiden Ketzerhaufen.</l>
+                  <l>Gott spricht und will, das Wasser sei</l>
+                  <l>Doch nicht allein schlecht Wasser,</l>
+                  <l>Sein heiligs Wort ist auch dabei</l>
+                  <l>Mit reichem Geist ohn maßen.</l>
+                  <l>Der ist allhie der Taufer.</l>
+                  <l>Sölchs hat er uns beweiset klar</l>
+                  <l>Mit Bilden und mit Worten;</l>
+                  <l>Des Vaters Stimm man offenbar</l>
+                  <l>Daselbs am Jordan horte.</l>
+                  <l>Er sprach: Das ist mein lieber Sohn,</l>
+                  <l>An dem ich hab Gefallen,</l>
+                  <l>Den will ich euch befohlen han,</l>
+                  <l>Daß ihr ihn höret alle</l>
+                  <l>Und folget seinem Lehren.</l>
+                  <l/>
+                  <l>Auch Gottes Sohn hie selber steht</l>
+                  <l>In seiner zarten Menschheit.</l>
+                  <l>Der heilig Geist 'ernieder fährt,</l>
+                  <l>In Taubenbild verkleidet.</l>
+                  <l>Daß wir nicht sollen zweifeln dran,</l>
+                  <l>Wenn wir getaufet werden,</l>
+                  <l>All drei Person' getaufet han,</l>
+                  <l>Da mit bei uns auf Erden</l>
+                  <l>Zu wohnen sich ergeben.</l>
+                  <l>Sein' Jünger heißt der Herre Christ:</l>
+                  <l>Geht hin, all Welt zu lehren,</l>
+                  <l>Daß sie verlorn in Sünden ist,</l>
+                  <l>Sich soll zur Buße kehren.</l>
+                  <l>Wer gläubet und sich täufen läßt,</l>
+                  <l>Soll dadurch selig werden,</l>
+                  <l>Ein neugeborner Mensch er heißt,</l>
+                  <l>Der nicht mehr könne sterben,</l>
+                  <l>Das Himmelreich soll erben.</l>
+                  <l>Wer nicht gläubt dieser großen Gnad,</l>
+                  <l>Der bleibt in seinen Sünden</l>
+                  <l>Und ist verdammt zum ewigen Tod</l>
+                  <l>Tief in der Hellen Grunde.</l>
+                  <l>Nichts hilft sein eigen Heiligkeit,</l>
+                  <l>All sein Tun ist verloren,</l>
+                  <l>Die Erbsünd machts zur Nichtigkeit,</l>
+                  <l>Darin er ist geboren,</l>
+                  <l>Vermag ihm selbs nichts helfen.</l>
+                  <l>Das Aug allein das Wasser sieht,</l>
+                  <l>Wie Menschen Wasser gießen,</l>
+                  <l>Der Glaub im Geist die Kraft versteht</l>
+                  <l>Des Blutes Jesu Christi.</l>
+                  <l/>
+                  <l>Und ist für ihm ein rote Flut,</l>
+                  <l>Von Christus' Blut gefärbet,</l>
+                  <l>Die allen Schaden heilen tut,</l>
+                  <l>Von Adam her geerbet,</l>
+                  <l>Auch von uns selbs begangen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Hymnus: O Lux beata, verdeutscht.</head>
+               <lg>
+                  <l>Der du bist drei in Einigkeit,</l>
+                  <l>Ein wahrer Gott von Ewigkeit,</l>
+                  <l>Die Sonn mit dem Tag von uns weicht:</l>
+                  <l>Laß leuchten uns dein göttlich Licht.</l>
+                  <l>Des Morgens, Gott, dich loben wir,</l>
+                  <l>Des Abends auch beten für dir,</l>
+                  <l>Unser armes Lied ruhmet dich</l>
+                  <l>Itzund immer und ewiglich.</l>
+                  <l>Gott Vater, dem sei ewig Ehr,</l>
+                  <l>Gott Sohn, der ist der einig Herr,</l>
+                  <l>Und dem Tröster heiligen Geist</l>
+                  <l>Von nun an bis in Ewigkeit. Amen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein ander Christlied.</head>
+               <lg>
+                  <l>Von Himmel kam der Engel Schar,</l>
+                  <l>Erschien den Hirten offenbar,</l>
+                  <l>Sie sagten ihn'n: Ein Kindlein zart,</l>
+                  <l>Das liegt dort in der Krippen hart</l>
+                  <l>Zu Bethlehem in Davids Stadt,</l>
+                  <l>Wie Micha das verkündet hat.</l>
+                  <l>Es ist der Herre Jesus Christ,</l>
+                  <l>Der euer aller Heiland ist.</l>
+                  <l>Des sollt ihr billig fröhlich sein,</l>
+                  <l>Daß Gott mit euch ist worden ein,</l>
+                  <l>Er ist geborn eu'r Fleisch und Blut,</l>
+                  <l>Eu'r Bruder ist das ewig Gut.</l>
+                  <l>Was kann euch tun die Sünd und Tod,</l>
+                  <l>Ihr habt mit euch den wahren Gott.</l>
+                  <l>Laßt zürnen Teufel und die Hell,</l>
+                  <l>Gotts Sohn ist worden eu'r Gesell.</l>
+                  <l>Er will und kann euch lassen nicht,</l>
+                  <l>Setzt ihr auf ihn eu'r Zuversicht;</l>
+                  <l>Es mögen euch viel fechten an,</l>
+                  <l>Dem sei Trotz, ders nicht lassen kann.</l>
+                  <l>Zuletzt müßt ihr doch haben Recht,</l>
+                  <l>Ihr seid nu worden Gotts Geschlecht,</l>
+                  <l>Des danket Gott in Ewigkeit,</l>
+                  <l>Geduldig, fröhlich allezeit. Amen.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ein Kinderlied,</head>
+               <lg>
+                  <l>zu singen wider die zween Erzfeinde Christi und seiner heiligen Kirchen, den Papst und Türken.</l>
+                  <l>Erhalt uns, Herr, bei deinem Wort</l>
+                  <l>Und steur' des Papsts und Türken Mord,</l>
+                  <l>Die Jesum Christum, deinen Sohn,</l>
+                  <l>Wollten stürzen von deinem Thron.</l>
+                  <l>Beweis dein Macht, Herr Jesu Christ,</l>
+                  <l>Der du Herr aller Herren bist,</l>
+                  <l>Beschirm dein arme Christenheit,</l>
+                  <l>Daß sie dich lob in Ewigkeit.</l>
+                  <l>Gott heilger Geist, du Tröster wert,</l>
+                  <l>Gib deim Volk ein'rlei Sinn auf Erd,</l>
+                  <l>Steh bei uns in der letzten Not,</l>
+                  <l>G'leit uns ins Leben aus dem Tod.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Nachwort</head>
+               <p rend="justify">Der vorliegende Neudruck der geistlichen Lieder Luthers beruht vornehmlich auf dem dritten Band von Wackernagels großer Sammlung. Doch sind alle späteren kritischen Ausgaben der Luthergesänge (Goedeke, Zelle, Leitzmann, Klippgen) zum Vergleich herangezogen worden. Die Reihenfolge der Lieder, die annähernd chronologisch sein möchte, entspricht gleichfalls im ganzen der von Wackernagel aufgestellten Ordnung. Einige Verschiebungen waren dadurch bedingt, daß inhaltlich zusammengehörige Lieder aus den Jahren 1523 bzw. 1524 (Psalmen, Weihnachtsgesänge, Pfingstlieder u. a.) zu je einer Gruppe vereinigt worden sind. Aus dem Hinweis auf den Zusammenhang zwischen der chronologischen Ordnung und der Wackernagelschen Reihenfolge ergibt sich schon, daß der Herausgeber — was hier nur kurz und ohne Begründung angedeutet sei — sich nicht dazu entschließen konnte, der von Friedrich Spitta vertretenen Hypothese über die Entstehungszeit der Lutherschen Lieder (»Ein feste Burg ist unser Gott«, Göttingen 1905) zu folgen. So bewunderungswürdig im einzelnen Spittas Scharfsinn sich bewährt, so führt er doch im ganzen zweifellos in die Irre. Der Herausgeber hält nach wie vor an der altüberlieferten Anschauung fest, daß der Reformator, einerseits durch das praktische Bedürfnis des neugestalteten Gottesdienstes gedrängt und andernteils durch die ersten blutigen Zeugen des Evangeliums innerlich aufs tiefste bewegt, erst in seinen Mannesjahren zum Dichter (im engeren Sinne) geworden ist, wenn dieser Schritt natürlich auch durch die mannigfaltigsten Lebenserfahrungen und ihren bleibenden Eindruck auf das Gemüt Luthers und im besonderen durch die Arbeit an dem Psalmenkolleg und der Psalmenverdeutschung, der sich der Wittenberger Professor immer wieder mit immer neuer Liebe unterzogen hatte, längst vorbereitet war.</p>
+               <p rend="justify">Das erste Gedicht des Reformators, das von den <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_neu_Lied_von_den_zween_Marterern_Christi_zu_Brussel_von_den">zween Märtyrern</ref>, ist im leicht erzählenden Balladenton des Landsknechtslieds, offenbar unter Zugrundlegung einer sangbaren Volksmelodie, geschaffen worden. Dagegen trägt das zweite Lied »<ref target="#4999470564709262658_47861-h-0.htm.html#Ein_Danklied_fur_die_hochsten_Wohltaten_so_uns_Gott_in_Christo">Nu freut euch, lieben Christen gmein</ref>« rein lyrischen Charakter und bildet ein höchst persönliches freudiges Bekenntnis zu dem Satz von der Gerechtigkeit des Christen allein durch den Glauben. Dann aber lenkt der Dichter, dem der Gemeindegesang als erstrebenswertes Ziel vor Augen steht, in den Ton des echten evangelischen Kirchenlieds ein, das ja — trotz Spittas gegenteiliger Behauptung — nicht die Gefühle des einzelnen zum Ausdruck bringen will, sondern das, was die Gemeinde als solche erfüllt und bewegt. »Seine persönlichen Sorgen und Anfechtungen, seine privaten Leiden und Freuden behält Luther seinem Kämmerlein vor. Wenn er Kirchenlieder dichtet, fühlt er sich unter den weiten Bogen und Hallen der Kirche und auf einer Bank mit der Gemeinde. Er singt nur das, was alle seine Brüder mit ihm bewegt und was der Geringste wie der Größte mit ihm singen können. Die Persönlichkeit des Dichters verschwindet hinter der großen Schar, deren Gesamtüberzeugung er bekennt.« (Hausrath II, 156.) Für Dichtungen solchen Charakters aber bieten die von Luther über alles geliebten Psalmen die gegebenen Grundlagen, und so entsteht vom Herbst 1523 ab eine ganze Anzahl von mehr oder weniger selbständig ausgestalteten Psalmparaphrasen, angefangen von der warmherzigen Klage und Bitte: »<ref target="#4999470564709262658_47861-h-0.htm.html#Der_zwolfte_Psalm_Salvum_me_fac">Ach Gott vom Himmel sieh darein</ref>« bis hin zum eisengepanzerten, siegesgewissen Schutz- und Trutzlied von der <ref target="#4999470564709262658_47861-h-1.htm.html#Der_46_Psalm_Deus_noster_refugium_et_virtus">festen Burg</ref>, der gewaltigsten Dichtergabe des Reformators. Des weiteren aber sucht Luther jene Zeugnisse alter kindlicher Gläubigkeit und Bekennerfreude, wie sie in so mancher lateinischen Hymne überliefert waren, für den evangelischen Gottesdienst umzumünzen, und so bearbeitet er bald in freierer Weise, bald im engen, fast ängstlichen Anschluß an das Original die alten Weihnachts-, Pfingst- und Osterlieder und andere Gesänge, die ihm für seine Zwecke geeignet erschienen (vgl. S. <ref target="#4999470564709262658_47861-h-0.htm.html#Page_21">21</ref>, <ref target="#4999470564709262658_47861-h-0.htm.html#Page_22">22</ref>, <ref target="#4999470564709262658_47861-h-0.htm.html#Page_26">26</ref>, <ref target="#4999470564709262658_47861-h-0.htm.html#Page_27">27</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_31">31</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_36">36</ref>, 37: <ref target="#4999470564709262658_47861-h-1.htm.html#Gott_der_Vater_wohn_uns_bei">Gott der Vater wohn' uns bei</ref>; <ref target="#4999470564709262658_47861-h-1.htm.html#Page_39">39</ref>, 42: <ref target="#4999470564709262658_47861-h-1.htm.html#Da_pacem_Domine_Deutsch">Verleih uns Frieden</ref>; <ref target="#4999470564709262658_47861-h-1.htm.html#Page_46">46</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_49">49</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_50">50</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_52">52</ref>), oder er gestaltet ein lateinisches Abendmahlslied, das dem Johannes Hus zugeschrieben wird, um (vgl. S. <ref target="#4999470564709262658_47861-h-0.htm.html#Page_29">29</ref>), wobei es ihm — was überdies von allen seinen dichterischen Paraphrasen gilt — wohl auf Bewahrung des Sinnes ankommt, während er in bezug auf die sprachliche Form sich jede Freiheit nimmt, nur darauf achtend, daß ungewohnte Ausdrücke vermieden werden; denn das Volk wolle, wie er selbst einmal an Spalatin schreibt, einfache und gebräuchliche Worte singen, die seinem Fassungsvermögen gemäß seien. Daß Luther sich zu seinen poetischen Schöpfungen auch durch ältere deutsche Lieder hat anregen lassen, die ihrerseits wiederum wenigstens zum Teil auf noch ältere lateinische Vorlagen zurückgehen mochten, ist nicht verwunderlich (vgl. S. <ref target="#4999470564709262658_47861-h-0.htm.html#Page_20">20</ref>, 24: <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Lobsang_Christ_ist_erstanden_gebessert">Christ lag in Todesbanden</ref>; <ref target="#4999470564709262658_47861-h-0.htm.html#Page_28">28</ref>, <ref target="#4999470564709262658_47861-h-0.htm.html#Page_30">30</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_42">42</ref>), und gerade diese oft nur durch eine einzige altüberlieferte Strophe, gewöhnlich die Anfangsstrophe, angeregten Lieder gehören zu den köstlichsten Erzeugnissen des Lutherschen Genius, mag er nun den heiligen Geist um den rechten Glauben bitten, oder mag er Gott loben und benedeien, weil er seinen Leib und sein Blut im Abendmahl uns gegeben, mag er sein Halleluja über den Auferstandenen hinausjubeln oder den menschgewordenen Heiland kindlich verehren, oder mag er endlich im innigsten und liebsten aller seiner Lieder die Geburt des Herrn durch den Engel verkünden lassen. — Schließlich bot Luther auch die oder jene biblische Erzählung oder irgendeine andere Stelle der Heiligen Schrift Veranlassung zu dichterischer Neugestaltung (vgl. S. <ref target="#4999470564709262658_47861-h-0.htm.html#Page_24">24</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_37">37</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_38">38</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_53">53</ref>; <ref target="#4999470564709262658_47861-h-1.htm.html#Page_44">44</ref>). Ausgesprochen dem Bedürfnis der heranwachsenden evangelischen Jugend aber dienen die Umschreibungen der Gebote (S. <ref target="#4999470564709262658_47861-h-1.htm.html#Page_33">33</ref>, <ref target="#4999470564709262658_47861-h-1.htm.html#Page_35">35</ref>) und des Vaterunsers (S. <ref target="#4999470564709262658_47861-h-1.htm.html#Page_47">47</ref>); das Trutzlied <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_Kinderlied">wider den Papst und den Türken</ref> aber mag rein aus dem Bedürfnis der Zeit ohne besondere Vorlage entstanden sein.</p>
+               <p rend="justify">Die ersten Lieder des Reformators waren als lose Blätter hinausgeflattert in die Länder deutscher Zunge und hatten auch bei den deutschen Stämmen, die in anderen Dialekten zu schreiben, zu reden und zu singen gewöhnt waren als der mitteldeutsche Dichter und die sich seine Ausdrucksweise oft erst in ihre Sprache umsetzen mußten, den tiefsten Eindruck gemacht, so daß bald allerorten die frischen und frohen Jubeltöne der Wittenbergisch Nachtigall siegreich erschollen. Kein Wunder, daß sich die buchhändlerische Spekulation bald um die Sammlung der zerstreuten Einzeldrucke bemühte, die denn auch im sogenannten Achtliederbuch bald (Anfang 1524) zustande kam, das neben drei Gesängen von Paul Speratus und einem Gedicht eines unbekannten Poeten vier Luthersche Lieder enthielt. Luther selbst war an der Herausgabe des Wittenberger Chorgesangbuchs von 1524 beteiligt, das man gemeiniglich nach dem Namen des kurfürstlichen Kapellmeisters Johann Walther benennt und das manche Forscher an den Anfang der ganzen Reihe stellen möchten. Es enthält unter 32 Nummern 24 Gesänge Luthers. Die beiden Erfurter Enchiridien des gleichen Jahres 1524 scheinen ohne Luthers Mitwirkung entstanden zu sein, auch die des Justus Jonas, der des öfteren als Redaktor genannt wird, könnte nach neueren Funden in Zweifel gezogen werden. — In den Jahren 1526, 1529, 1536 und öfter kamen dann bei wechselnden Verlegern weitere Ausgaben des evangelischen Gesangbuchs heraus, die uns leider zum Teil nicht erhalten sind. Das letzte Liederbuch für die evangelische Kirche, an dem Luther selbst noch mitwirkte, erschien 1545 und ist in Leipzig durch Valentin Babst gedruckt worden.</p>
+               <p rend="justify">Man hat wiederholt die Meinung geäußert, daß die dichterische Tätigkeit im Leben unseres Reformators nur eine zwar mit vollster Energie einsetzende, aber ebenso schnell vorübergehende Episode bedeute. Das ist im ganzen sicher richtig, denn Luther, der vorher der Dichtkunst nur als wohlwollender Freund, als genießender Liebhaber gegenübergestanden und kaum jemals daran gedacht hatte, sie selbst auszuüben, konnte 1523/24 im Zeitraum etwa eines Jahres eine überraschend reiche Ernte religiöser Lyrik einheimsen, während er in den ihm dann noch beschiedenen 22 Lebensjahren nur noch selten einmal in die Saiten der Leier gegriffen hat, wobei vielleicht die direkte Aufforderung der Verleger oder Herausgeber bei Gelegenheit von Neuauflagen der Gesangbücher wenigstens den äußeren Anstoß gegeben haben mochte. Diese Tatsache der auffallend reichen und raschen Produktion im »Liederjahr« erklären wir uns aus dem schon eingangs angedeuteten Umstand, daß die überaus starke, den ganzen Mann erschütternde Erregung über den Tod der beiden jungen Augustinermönche in den Niederlanden einen anderen sprachlichen Ausdruck suchte, als er von Luther bisher angewendet worden war. Um wieviel wirksamer mußte ein Lied, das vom Märtyrertod der glaubensstarken Jünglinge erzählte und das allerorten gesungen werden konnte, die gute Sache der Reformation in den breiten Schichten des Volkes unterstützen, als es die temperamentvollste prosaische Flugschrift je vermocht hätte. Dabei ist zu betonen, daß dieses Vorgehen keineswegs das Ergebnis einer bewußten Überlegung zu sein braucht, sondern daß es sehr wohl aus reiner Intuition hervorgegangen sein kann. Nachdem nun erst einmal die psychischen Hemmungen, die sich im Bewußtsein des Doktor Martinus dem Gebrauch der poetischen Formen entgegengestellt haben mochten, überwunden waren, brach aus dem Innern des zum Sänger werdenden Reformators mit elementarer Gewalt der überreiche Schatz von Gedanken und Gefühlen hervor, der dort seit Jahren blühte und nun erst im Liede den Ausdruck fand, der seiner eigensten Art gemäß war. — Auch auf das oben erwähnte Bedürfnis des Gottesdienstes sei in diesem Zusammenhang als auf ein erklärendes Moment noch einmal hingewiesen und ebenso auf die Tatsache, daß die Freunde, an die Luther sich dieserhalb wendete, ihn entweder ganz im Stiche ließen, wie Spalatin oder der Hofmarschall Dolzig, oder doch seinen Erwartungen nur in sehr ungenügender Weise entsprachen, wie etwa Justus Jonas. Da sprang, resolut wie er war und vom stärksten Willen bewegt, der große Mann selbst in die Bresche und bewies seinem Volk, wie zart und innig das religiöse Empfinden, wie felsenfest und unerschütterlich das fröhliche Gottvertrauen des Mannes war, den es bisher nur als Theologen und Prediger, als Gelehrten und Publizisten kennen gelernt hatte. — Die Stilungleichheit, die von manchen Forschern an den Gedichten hervorgehoben wird, welche wir in das »Liederjahr« verlegen, und die man als Beweis gegen die Richtigkeit dieser Datierung verwendet, erklärt sich zur Genüge aus dem wechselnden Verhältnis der Lieder Luthers zu ihren Vorlagen und aus dem Charakter dieser Vorlagen selbst, der ja oft genug noch durch die Gestalt hindurchschimmert, die Luther ihnen gegeben hat.</p>
+               <p rend="justify">Die schon oben mit berührte Tatsache aber, daß die Dichterperiode Luthers ebenso rasch vorübergegangen ist, als sie gekommen, wird nur dem verwunderlich erscheinen, der über der Beschäftigung mit dem Poeten Luther den Blick auf das Ganze seiner Persönlichkeit und seines Werkes verliert. Der Reformator war eben kein Dichter von Berufs wegen, wenn man so sagen darf, wie Goethe oder wie die aus äußeren Gründen des öfteren mit Luther in Parallele gesetzten Conrad Ferdinand Meyer und Fritz Reuter, die bei aller Vielseitigkeit ihrer Interessen zuletzt doch in der Gestaltung von dichterischen Kunstwerken ihre eigentliche Lebensaufgabe erblickten. Luther war — im direkten Gegensatz zu solchen Männern — keineswegs das unabweisbare Bedürfnis eingeboren, das in Rhythmus und Reim oder sonstige künstlerische Ausdruckform einzukleiden, was ihn persönlich bewegte; der innere unbedingte Zwang zum dichterischen Gestalten des individuellen Erlebens fehlte ihm und damit das, was den Dichter als solchen macht. — Wie er dem Drama nur um deswillen das Wort redete, weil es für die Jugend nützlich und gut sei, so erkannte er auch der lyrischen Poesie keinen Selbstzweck zu, wie hätte er sonst gegen das deutsche Volkslied, gegen »die Buhllieder und fleischlichen Gesänge« eifern können. Sein Wirken stand nicht im Dienst Apolls und der Musen, sondern in der Pflicht eines Höheren. Ihm und der heiligen Kirche zu Ehren, die sein Reich auf Erden herbeiführen helfen möchte, griff Luther zur Leier, und als er seinen Zweck erfüllt und das begonnene Werk durch würdige Nachfolger gesichert sah, legte er sie wieder beiseite. Daß mit solcher Feststellung dem gewaltigen Mann das starke, tiefinnerliche künstlerische Empfinden und die Kraft der künstlerischen Gestaltung nicht abgesprochen wird, muß wohl nicht erst betont werden. Die gehen natürlich nicht vorüber als eine Episode, sie sind ein köstliches, unverlierbares Gut, das den beglücken muß, der es besitzt. Und auch die daraus sich ergebenden Folgen sind klar: beide, das künstlerische Gefühl und die Fähigkeit, ihm im geeigneten Moment Ausdruck zu geben, werden im ferneren Verlaufe des Lebens je und je wieder einmal entbunden werden müssen, sei es nun in Briefen, die aus dem Gebiet der sachlichen Erörterung wissenschaftlicher oder sonstiger Fragen herausfallen, wie die goldige Epistel an Hänsichen oder das Sendschreiben an die Tischgenossen, beide aus den bedrängten Tagen stammend, die Luther auf der Veste Coburg verlebte, sei es in religiösen Liedern. Und gerade die Gedichte aus späterer Zeit gehören zu Luthers tiefsten und schönsten Erzeugnissen. Es ist, als ob im Gesang von der festen Burg, im Kinderlied auf die Weihnacht Jesu Christi und in anderen jeweilig eine Summe angesammelter künstlerischer Energie entladen würde, die diesen Liedern die köstliche Frische und Unmittelbarkeit, die warme Innigkeit und Gemütstiefe verleiht, die alle Welt heut an ihnen rühmt.</p>
+               <p rend="justify">Wenn so die schaffende Tätigkeit des Poeten im Leben des Reformators tatsächlich nur eine Episode gebildet hat und späterhin nur noch selten in Erscheinung getreten ist, so bedeutet das schmale Bändchen, das die poetischen Werke Luthers umschließt, doch für alle Deutschen einen kostbaren Schatz, über dessen Wert kein Wort zu verlieren ist. Und schon deshalb wird es willkommen sein, wenn die Inselbücherei, zu deren vornehmsten Zielen die Wiedererweckung älterer deutscher Werte gehört, Luthers Lieder ihren Reihen einverleibt.</p>
+               <p rend="justify">In bezug auf die Textgestaltung der vorliegenden Ausgabe sei noch kurz hervorgehoben, daß der Herausgeber sich für berechtigt hielt, aus den Lesarten der verschiedenen Originaldrucke, wie sie z. B. Wackernagel und Klippgen verzeichnen, diejenigen auszuwählen und dem Wortlaut einzufügen, die ihm für den hier verfolgten Zweck möglichst leichter Verständlichkeit am angemessensten erschienen. Für die Orthographie galt das in den Neudrucken des Inselverlags durchgängig angewandte akustische Prinzip, doch mußte in Zweifelfällen bequemes Verständnis wichtiger als das korrekte Klangbild erscheinen. Folgende Änderungen sind u. a. vorgenommen: S. 8, 3: leugnen &lt; leuken. S. 10, 19: lügen &lt; liegen, 10, 25: herfur &lt; erfur. S. 13, 9: Gsatz &lt; Satz. S. 21, 5 v. u.: blüht' &lt; bluet, 21, 3 v. u.: blieb &lt; bleib, 21, 2 v. u.: hervur &lt; ervur. S. 22, 10: Führ' &lt; Fuhr', 22, 17: g'ton &lt; ton. S. 34, 14: lügen &lt; liegen. S. 37, 3 v. u.: g'macht &lt; macht. S. 38, 3: ganze &lt; ganzen. S. 53, 3: Erschien &lt; Erschein. Der Apostroph am Anfang des Wortes deutet auf ein ausgefallenes Praefix hin (be, ge, ver u. a.). Folgende Erläuterungen sind vielleicht dem Laien willkommen: S. 7: die beiden Augustinermönche Johannes Esche und Heinrich Voes waren Anhänger der neuen Lehre und sind am 1. Juli 1523 als erste Märtyrer der Reformation verbrannt worden. S. 8, 4: täuben = taub machen (Weigand II. 1029), S. 8, 6: mit ihrer verlorenen d. h. unnützen Kunst und Gelehrsamkeit, S. 9, 6: Man legte ihnen vor ..., S. 9, 8: zeichten = zeichneten, S. 9, 9 v. u.: Schimpf = Scherz, S. 9, 8 v. u.: schon = schön und so noch häufig, S. 9, 7 v. u.: turn, von türren = sich getrauen, wagen (Weigand II. 1090), S. 9, 6 v. u.: fast = sehr, S. 10, 11: schmucken = beschönigen. S. 11, 10 v. u.: treib = trieb. S. 11, 1 v. u.: Er ließ es sich sein ... S. 13, 4 v. u.: schon = schön. S. 13, 3 v. u.: Lahr = Lehre? Spitta schlägt für »Lahr« die einleuchtende Konjektur »gar« vor. S. 14, 4 v. u.: daß es sich nicht mit uns verflechte oder vermenge. S. 14, 1 v. u.: erhaben = erhöht, <hi rend="italic">part. praet.</hi> von mhd. erheben (Weigand I. 461). S. 15, 3: meinen = im liebenden Gedächtnis tragen. S. 15, 6: zwar = in Wahrheit. S. 15, 11: Sie zu schauen, entäußerte er sich seiner selbst. S. 15, 13: gerichtet d. h. aufs gute. S. 15, 17: ausschritten = vom rechten Weg abgeirrt. S. 15, 19: verlorene Sitten = schlechte Sitten. S. 15, 11 v. u.: Mut = pharisäisches Selbstbewußtsein. S. 15, 10 v. u.: müßt' = müsse. S. 16, 3: schmecht = schmäht. S. 16: das Lied ist hier in der älteren fünfstrophigen Fassung abgedruckt. S. 18, 2: uber alle = überall. S. 19, 8: angenehm = wohlgefällig. S. 19, 8 v. u.: an uns setzen = uns angreifen. S. 21, 5 v. u.: Und blühte als eine Frucht aus des Weibes Fleisch. S. 22, 12: enthalt = vor der Sünde bewahre. S. 22, 16: Schein = Glanz. S. 26, 12: Daß sie früher deine Geschöpfe sind. S. 35, 5 v. u.: nicht = nichts. S. 35, 4 v. u.: gegen niemand etwas Falsches zeugen. S. 36, 8 v. u: Blöden = Furchtsamen, Verzagten. S. 37, 10: lassen = überlassen. S. 44, 15: Susaninne, wahrscheinlich der Refrain eines alten Wiegenlieds. S. 44, 4 v. u.: besessen = in Besitz genommen. S. 45, 12 v. u.: tut = verursacht. S. 47, 7 v. u.: für ihm = gegen ihn. S. 50, 13 v. u.: schlecht = einfaches. S. 51, 9: ergeben = entschlossen.</p>
+               <p rend="justify">C. H.</p>
+            </div>
+            <div type="div2">
+               <head>Inhalt</head>
+               <table rend="frame" xml:id="Table1">  
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Luthers_Vorrede_zum_Waltherschen_Chorgesangbuchlein">Luthers Vorrede zum Waltherschen Chorgesangbüchlein 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_3">3</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Vorrede_auf_alle_gute_Gesangbucher">Luthers Vorrede auf alle gute Gesangbücher (aus Walthers Lob und Preis der löblichen Kunst Musica 1538)</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_5">5</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_neu_Lied_von_den_zween_Marterern_Christi_zu_Brussel_von_den">Ein neu Lied von den zween Märterern Christi, zu Brüssel von den Sophisten zu Löwen verbrannt 1523</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_7">7</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_Danklied_fur_die_hochsten_Wohltaten_so_uns_Gott_in_Christo">Ein Danklied für die höchsten Wohltaten, so uns Gott in Christo erzeigt hat 1523</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_11">11</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_zwolfte_Psalm_Salvum_me_fac">Der zwölfte Psalm 1523</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_13">13</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_vierzehnte_Psalm_Dixit_insipiens_in_corde_suo">Der vierzehnte Psalm 1523</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_15">15</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_130_Psalm_De_profundis">Der 130. Psalm 1523</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_16">16</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_67_Psalm_Deus_misereatur">Der 67. Psalm 1523/24</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_17">17</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_128_Psalm_Beati_omnes_qui_timent_dominum">Der 128. Psalm 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_18">18</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_124_Psalm_Nisi_quia_dominus">Der 124. Psalm 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_19">19</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_Lobgesang_von_der_Geburt_Christi">Ein Lobgesang von der Geburt Christi, vielleicht Weihnachten 1523</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_20">20</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Hymnus_Veni_redemptor_gentium">Hymnus: Veni redemptor gentium 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_21">21</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Hymnus_A_solis_ortus">Der Hymnus: A solis ortus 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_22">22</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_Lobsang_auf_dem_Osterfest">Ein Lobsang auf dem Osterfest 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_24">24</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Lobsang_Christ_ist_erstanden_gebessert">Der Lobsang: Christ ist erstanden, gebessert 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_24">24</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Hymnus_Veni_creator_spiritus">Der Hymnus: Veni creator spiritus 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_26">26</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Gesang_Veni_sancte_spiritus">Der Gesang: Veni sancte spiritus 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_27">27</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Lobgesang_Nu_bitten_wir_den_heiligen_Geist">Der Lobgesang: Nu bitten wir den heiligen Geist 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_28">28</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Das_Lied_S_Johannis_Huss_gebessert">Das Lied S. Johannis Huß, gebessert 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_29">29</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Gesang_Gott_sei_gelobet">Der Gesang: Gott sei gelobet 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_30">30</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_Lobsang_Mitten_wir_im_Leben_sind">Der Lobsang: Mitten wir im Leben sind 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_31">31</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Die_zehen_Gebot_Gottes_auf_den_Ton_In_Gottes_Namen_fahren_wir">Die zehen Gebot Gottes, auf den Ton: In Gottes Namen fahren wir 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_33">33</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Die_zehen_Gebot_aufs_kurzeste">Die zehen Gebot aufs kürzeste 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_35">35</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Das_deutsche_Patrem">Das deutsche Patrem 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_36">36</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Gott_der_Vater_wohn_uns_bei">Gott der Vater wohn uns bei 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_37">37</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_Lobgesang_Simeonis_Nunc_dimittis">Der Lobgesang Simeonis: Nunc dimittis 1524</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_37">37</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Das_deutsche_Sanctus">Das deutsche Sanctus 1526</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_38">38</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Te_Deum_laudamus">Te Deum laudamus 1527</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_39">39</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_46_Psalm_Deus_noster_refugium_et_virtus">Der 46. Psalm: Deus noster refugium et virtus 1527 oder 29</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_40">40</ref>
+                     </cell>
+                  </row>  
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Da_pacem_Domine_Deutsch">Da pacem Domine, Deutsch 1529</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_42">42</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_Kinderlied_auf_die_Weihnacht_Christi">Ein Kinderlied auf die Weihnacht Christi 1535</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_42">42</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_Lied_von_der_heiligen_christlichen_Kirchen_aus_dem_12">Ein Lied von der heiligen christlichen Kirchen, aus dem 12. Kapitel Apokalypsis 1535</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_44">44</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Gloria_in_excelsis_deo">Gloria in excelsis deo ca. 1536</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_46">46</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Das_Vaterunser_kurz_ausgelegt_und_in_Gesangsweise_gebracht">Das Vaterunser, kurz ausgelegt und in Gesangsweise gebracht 1539</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_47">47</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_Hymnus_Hostis_Herodes_in_Ton_A_solis_ortus">Der Hymnus: Hostis Herodes, in Ton: A solis ortus 1541</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_49">49</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_geistlich_Lied_von_unser_heiligen_Taufe">Ein geistlich Lied von unser heiligen Taufe 1541</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_50">50</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Hymnus_O_Lux_beata_verdeutscht">Hymnus: O Lux beata, verdeutscht 1542</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_52">52</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_ander_Christlied">Ein ander Christlied 1542</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_53">53</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_Kinderlied">Ein Kinderlied, zu singen wider die zween Erzfeinde Christi und seiner heiligen Kirchen, den Papst und Türken 1542</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_54">54</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Nachwort">Nachwort</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_55">55</ref>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <div type="div2">
+               <head>Alphabetisches Verzeichnis der Liederanfänge</head>
+               <table rend="frame" xml:id="Table2">  
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_zwolfte_Psalm_Salvum_me_fac">Ach Gott von Himmel, siehe darein</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_13">13</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Gloria_in_excelsis_deo">All Ehr und Lob soll Gottes sein</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_46">46</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_130_Psalm_De_profundis">Aus tiefer Not schrei ich zu dir</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_16">16</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Lobsang_Christ_ist_erstanden_gebessert">Christ lag in Todesbanden</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_24">24</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_geistlich_Lied_von_unser_heiligen_Taufe">Christ, unser Herr, zum Jordan kam</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_50">50</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Hymnus_A_solis_ortus">Christum wir sollen loben schon</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_22">22</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Hymnus_O_Lux_beata_verdeutscht">Der du bist drei in Einigkeit</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_52">52</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Die_zehen_Gebot_Gottes_auf_den_Ton_In_Gottes_Namen_fahren_wir">Dies sind die heilgen zehn Gebot</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_33">33</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_46_Psalm_Deus_noster_refugium_et_virtus">Ein feste Burg ist unser Gott</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_40">40</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_neu_Lied_von_den_zween_Marterern_Christi_zu_Brussel_von_den">Ein neues Lied wir heben an</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_7">7</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_Kinderlied">Erhalt uns, Herr, bei deinem Wort</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_54">54</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_vierzehnte_Psalm_Dixit_insipiens_in_corde_suo">Es spricht der Unweisen Mund wohl</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_15">15</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_67_Psalm_Deus_misereatur">Es wollt uns Gott genädig sein</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_17">17</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Vorrede_auf_alle_gute_Gesangbucher">Für allen Freuden auf Erden</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_5">5</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_Lobgesang_von_der_Geburt_Christi">Gelobet seist du, Jesu Christ</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_20">20</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Gott_der_Vater_wohn_uns_bei">Gott der Vater wohn uns bei</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_37">37</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Gesang_Gott_sei_gelobet">Gott sei gelobet und gebenedeiet</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_30">30</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Te_Deum_laudamus">Herr Gott, dich loben wir</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_39">39</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Das_deutsche_Sanctus">Jesaia dem Propheten das geschach</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_38">38</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_Lobsang_auf_dem_Osterfest">Jesus Christ, unser Heiland, der den Tod uberwand</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_24">24</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Das_Lied_S_Johannis_Huss_gebessert">Jesus Christus, unser Heiland, der von uns</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_29">29</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Hymnus_Veni_creator_spiritus">Komm, Gott Schepfer, heiliger Geist</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_26">26</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Gesang_Veni_sancte_spiritus">Komm, heiliger Geist, Herre Gott</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_27">27</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Die_zehen_Gebot_aufs_kurzeste">Mensch, willtu leben seliglich</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_35">35</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_Lobgesang_Simeonis_Nunc_dimittis">Mit Fried und Freud ich fahr dohin</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_37">37</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_Lobsang_Mitten_wir_im_Leben_sind">Mitten wir im Leben sind</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_31">31</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_Lobgesang_Nu_bitten_wir_den_heiligen_Geist">Nu bitten wir den heiligen Geist</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_28">28</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Ein_Danklied_fur_die_hochsten_Wohltaten_so_uns_Gott_in_Christo">Nu freut euch, lieben Christen gmein</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_11">11</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Hymnus_Veni_redemptor_gentium">Nu komm, der Heiden Heiland</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_21">21</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_Lied_von_der_heiligen_christlichen_Kirchen_aus_dem_12">Sie ist mir lieb, die werte Magd</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_44">44</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Das_Vaterunser_kurz_ausgelegt_und_in_Gesangsweise_gebracht">Vater unser im Himmelreich</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_47">47</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Da_pacem_Domine_Deutsch">Verleih uns Frieden gnädiglich</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_42">42</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_Kinderlied_auf_die_Weihnacht_Christi">Vom Himmel hoch da komm ich her</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_42">42</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Ein_ander_Christlied">Von Himmel kam der Engel Schar</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_53">53</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_124_Psalm_Nisi_quia_dominus">Wär Gott nicht mit uns diese Zeit</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_19">19</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Der_Hymnus_Hostis_Herodes_in_Ton_A_solis_ortus">Was furchst du, Feind Herodes, sehr</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_49">49</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Das_deutsche_Patrem">Wir gläuben all an einen Gott</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-1.htm.html#Page_36">36</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Der_128_Psalm_Beati_omnes_qui_timent_dominum">Wohl dem, der in Gottes Furcht steht</ref>
+                     </cell> 
+                     <cell>
+                        <ref target="#4999470564709262658_47861-h-0.htm.html#Page_18">18</ref>
+                     </cell>
+                  </row>
+               </table>
+               <p rend="italic">Gedruckt bei Breitkopf und Härtel in Leipzig</p>
+               <p>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+                  <lb/>End of Project Gutenberg's Martin Luther's Geistliche Lieder, by Martin Luther<lb/>
+                  <lb/>*** END OF THIS PROJECT GUTENBERG EBOOK MARTIN LUTHERS GEISTLICHE LIEDER ***<lb/>
+                  <lb/>***** This file should be named 47861-h.htm or 47861-h.zip *****<lb/>This and all associated files of various formats will be found in:<lb/>        http://www.gutenberg.org/4/7/8/6/47861/<lb/>
+                  <lb/>Produced by Norbert H. Langkau, G. Decknatel and the Online<lb/>Distributed Proofreading Team at http://www.pgdp.net<lb/>
+                  <lb/>
+                  <lb/>Updated editions will replace the previous one--the old editions<lb/>will be renamed.<lb/>
+                  <lb/>Creating the works from public domain print editions means that no<lb/>one owns a United States copyright in these works, so the Foundation<lb/>(and you!) can copy and distribute it in the United States without<lb/>permission and without paying copyright royalties.  Special rules,<lb/>set forth in the General Terms of Use part of this license, apply to<lb/>copying and distributing Project Gutenberg-tm electronic works to<lb/>protect the PROJECT GUTENBERG-tm concept and trademark.  Project<lb/>Gutenberg is a registered trademark, and may not be used if you<lb/>charge for the eBooks, unless you receive specific permission.  If you<lb/>do not charge anything for copies of this eBook, complying with the<lb/>rules is very easy.  You may use this eBook for nearly any purpose<lb/>such as creation of derivative works, reports, performances and<lb/>research.  They may be modified and printed and given away--you may do<lb/>practically ANYTHING with public domain eBooks.  Redistribution is<lb/>subject to the trademark license, especially commercial<lb/>redistribution.<lb/>
+                  <lb/>
+                  <lb/>
+                  <lb/>*** START: FULL LICENSE ***<lb/>
+                  <lb/>THE FULL PROJECT GUTENBERG LICENSE<lb/>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK<lb/>
+                  <lb/>To protect the Project Gutenberg-tm mission of promoting the free<lb/>distribution of electronic works, by using or distributing this work<lb/>(or any other work associated in any way with the phrase "Project<lb/>Gutenberg"), you agree to comply with all the terms of the Full Project<lb/>Gutenberg-tm License available with this file or online at<lb/>  www.gutenberg.org/license.<lb/>
+                  <lb/>
+                  <lb/>Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm<lb/>electronic works<lb/>
+                  <lb/>1.A.  By reading or using any part of this Project Gutenberg-tm<lb/>electronic work, you indicate that you have read, understand, agree to<lb/>and accept all the terms of this license and intellectual property<lb/>(trademark/copyright) agreement.  If you do not agree to abide by all<lb/>the terms of this agreement, you must cease using and return or destroy<lb/>all copies of Project Gutenberg-tm electronic works in your possession.<lb/>If you paid a fee for obtaining a copy of or access to a Project<lb/>Gutenberg-tm electronic work and you do not agree to be bound by the<lb/>terms of this agreement, you may obtain a refund from the person or<lb/>entity to whom you paid the fee as set forth in paragraph 1.E.8.<lb/>
+                  <lb/>1.B.  "Project Gutenberg" is a registered trademark.  It may only be<lb/>used on or associated in any way with an electronic work by people who<lb/>agree to be bound by the terms of this agreement.  There are a few<lb/>things that you can do with most Project Gutenberg-tm electronic works<lb/>even without complying with the full terms of this agreement.  See<lb/>paragraph 1.C below.  There are a lot of things you can do with Project<lb/>Gutenberg-tm electronic works if you follow the terms of this agreement<lb/>and help preserve free future access to Project Gutenberg-tm electronic<lb/>works.  See paragraph 1.E below.<lb/>
+                  <lb/>1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"<lb/>or PGLAF), owns a compilation copyright in the collection of Project<lb/>Gutenberg-tm electronic works.  Nearly all the individual works in the<lb/>collection are in the public domain in the United States.  If an<lb/>individual work is in the public domain in the United States and you are<lb/>located in the United States, we do not claim a right to prevent you from<lb/>copying, distributing, performing, displaying or creating derivative<lb/>works based on the work as long as all references to Project Gutenberg<lb/>are removed.  Of course, we hope that you will support the Project<lb/>Gutenberg-tm mission of promoting free access to electronic works by<lb/>freely sharing Project Gutenberg-tm works in compliance with the terms of<lb/>this agreement for keeping the Project Gutenberg-tm name associated with<lb/>the work.  You can easily comply with the terms of this agreement by<lb/>keeping this work in the same format with its attached full Project<lb/>Gutenberg-tm License when you share it without charge with others.<lb/>
+                  <lb/>1.D.  The copyright laws of the place where you are located also govern<lb/>what you can do with this work.  Copyright laws in most countries are in<lb/>a constant state of change.  If you are outside the United States, check<lb/>the laws of your country in addition to the terms of this agreement<lb/>before downloading, copying, displaying, performing, distributing or<lb/>creating derivative works based on this work or any other Project<lb/>Gutenberg-tm work.  The Foundation makes no representations concerning<lb/>the copyright status of any work in any country outside the United<lb/>States.<lb/>
+                  <lb/>1.E.  Unless you have removed all references to Project Gutenberg:<lb/>
+                  <lb/>1.E.1.  The following sentence, with active links to, or other immediate<lb/>access to, the full Project Gutenberg-tm License must appear prominently<lb/>whenever any copy of a Project Gutenberg-tm work (any work on which the<lb/>phrase "Project Gutenberg" appears, or with which the phrase "Project<lb/>Gutenberg" is associated) is accessed, displayed, performed, viewed,<lb/>copied or distributed:<lb/>
+                  <lb/>This eBook is for the use of anyone anywhere at no cost and with<lb/>almost no restrictions whatsoever.  You may copy it, give it away or<lb/>re-use it under the terms of the Project Gutenberg License included<lb/>with this eBook or online at www.gutenberg.org<lb/>
+                  <lb/>1.E.2.  If an individual Project Gutenberg-tm electronic work is derived<lb/>from the public domain (does not contain a notice indicating that it is<lb/>posted with permission of the copyright holder), the work can be copied<lb/>and distributed to anyone in the United States without paying any fees<lb/>or charges.  If you are redistributing or providing access to a work<lb/>with the phrase "Project Gutenberg" associated with or appearing on the<lb/>work, you must comply either with the requirements of paragraphs 1.E.1<lb/>through 1.E.7 or obtain permission for the use of the work and the<lb/>Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or<lb/>1.E.9.<lb/>
+                  <lb/>1.E.3.  If an individual Project Gutenberg-tm electronic work is posted<lb/>with the permission of the copyright holder, your use and distribution<lb/>must comply with both paragraphs 1.E.1 through 1.E.7 and any additional<lb/>terms imposed by the copyright holder.  Additional terms will be linked<lb/>to the Project Gutenberg-tm License for all works posted with the<lb/>permission of the copyright holder found at the beginning of this work.<lb/>
+                  <lb/>1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm<lb/>License terms from this work, or any files containing a part of this<lb/>work or any other work associated with Project Gutenberg-tm.<lb/>
+                  <lb/>1.E.5.  Do not copy, display, perform, distribute or redistribute this<lb/>electronic work, or any part of this electronic work, without<lb/>prominently displaying the sentence set forth in paragraph 1.E.1 with<lb/>active links or immediate access to the full terms of the Project<lb/>Gutenberg-tm License.<lb/>
+                  <lb/>1.E.6.  You may convert to and distribute this work in any binary,<lb/>compressed, marked up, nonproprietary or proprietary form, including any<lb/>word processing or hypertext form.  However, if you provide access to or<lb/>distribute copies of a Project Gutenberg-tm work in a format other than<lb/>"Plain Vanilla ASCII" or other format used in the official version<lb/>posted on the official Project Gutenberg-tm web site (www.gutenberg.org),<lb/>you must, at no additional cost, fee or expense to the user, provide a<lb/>copy, a means of exporting a copy, or a means of obtaining a copy upon<lb/>request, of the work in its original "Plain Vanilla ASCII" or other<lb/>form.  Any alternate format must include the full Project Gutenberg-tm<lb/>License as specified in paragraph 1.E.1.<lb/>
+                  <lb/>1.E.7.  Do not charge a fee for access to, viewing, displaying,<lb/>performing, copying or distributing any Project Gutenberg-tm works<lb/>unless you comply with paragraph 1.E.8 or 1.E.9.<lb/>
+                  <lb/>1.E.8.  You may charge a reasonable fee for copies of or providing<lb/>access to or distributing Project Gutenberg-tm electronic works provided<lb/>that<lb/>
+                  <lb/>- You pay a royalty fee of 20% of the gross profits you derive from<lb/>     the use of Project Gutenberg-tm works calculated using the method<lb/>     you already use to calculate your applicable taxes.  The fee is<lb/>     owed to the owner of the Project Gutenberg-tm trademark, but he<lb/>     has agreed to donate royalties under this paragraph to the<lb/>     Project Gutenberg Literary Archive Foundation.  Royalty payments<lb/>     must be paid within 60 days following each date on which you<lb/>     prepare (or are legally required to prepare) your periodic tax<lb/>     returns.  Royalty payments should be clearly marked as such and<lb/>     sent to the Project Gutenberg Literary Archive Foundation at the<lb/>     address specified in Section 4, "Information about donations to<lb/>     the Project Gutenberg Literary Archive Foundation."<lb/>
+                  <lb/>- You provide a full refund of any money paid by a user who notifies<lb/>     you in writing (or by e-mail) within 30 days of receipt that s/he<lb/>     does not agree to the terms of the full Project Gutenberg-tm<lb/>     License.  You must require such a user to return or<lb/>     destroy all copies of the works possessed in a physical medium<lb/>     and discontinue all use of and all access to other copies of<lb/>     Project Gutenberg-tm works.<lb/>
+                  <lb/>- You provide, in accordance with paragraph 1.F.3, a full refund of any<lb/>     money paid for a work or a replacement copy, if a defect in the<lb/>     electronic work is discovered and reported to you within 90 days<lb/>     of receipt of the work.<lb/>
+                  <lb/>- You comply with all other terms of this agreement for free<lb/>     distribution of Project Gutenberg-tm works.<lb/>
+                  <lb/>1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm<lb/>electronic work or group of works on different terms than are set<lb/>forth in this agreement, you must obtain permission in writing from<lb/>both the Project Gutenberg Literary Archive Foundation and Michael<lb/>Hart, the owner of the Project Gutenberg-tm trademark.  Contact the<lb/>Foundation as set forth in Section 3 below.<lb/>
+                  <lb/>1.F.<lb/>
+                  <lb/>1.F.1.  Project Gutenberg volunteers and employees expend considerable<lb/>effort to identify, do copyright research on, transcribe and proofread<lb/>public domain works in creating the Project Gutenberg-tm<lb/>collection.  Despite these efforts, Project Gutenberg-tm electronic<lb/>works, and the medium on which they may be stored, may contain<lb/>"Defects," such as, but not limited to, incomplete, inaccurate or<lb/>corrupt data, transcription errors, a copyright or other intellectual<lb/>property infringement, a defective or damaged disk or other medium, a<lb/>computer virus, or computer codes that damage or cannot be read by<lb/>your equipment.<lb/>
+                  <lb/>1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right<lb/>of Replacement or Refund" described in paragraph 1.F.3, the Project<lb/>Gutenberg Literary Archive Foundation, the owner of the Project<lb/>Gutenberg-tm trademark, and any other party distributing a Project<lb/>Gutenberg-tm electronic work under this agreement, disclaim all<lb/>liability to you for damages, costs and expenses, including legal<lb/>fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT<lb/>LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE<lb/>PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE<lb/>TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE<lb/>LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR<lb/>INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH<lb/>DAMAGE.<lb/>
+                  <lb/>1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a<lb/>defect in this electronic work within 90 days of receiving it, you can<lb/>receive a refund of the money (if any) you paid for it by sending a<lb/>written explanation to the person you received the work from.  If you<lb/>received the work on a physical medium, you must return the medium with<lb/>your written explanation.  The person or entity that provided you with<lb/>the defective work may elect to provide a replacement copy in lieu of a<lb/>refund.  If you received the work electronically, the person or entity<lb/>providing it to you may choose to give you a second opportunity to<lb/>receive the work electronically in lieu of a refund.  If the second copy<lb/>is also defective, you may demand a refund in writing without further<lb/>opportunities to fix the problem.<lb/>
+                  <lb/>1.F.4.  Except for the limited right of replacement or refund set forth<lb/>in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER<lb/>WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO<lb/>WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.<lb/>
+                  <lb/>1.F.5.  Some states do not allow disclaimers of certain implied<lb/>warranties or the exclusion or limitation of certain types of damages.<lb/>If any disclaimer or limitation set forth in this agreement violates the<lb/>law of the state applicable to this agreement, the agreement shall be<lb/>interpreted to make the maximum disclaimer or limitation permitted by<lb/>the applicable state law.  The invalidity or unenforceability of any<lb/>provision of this agreement shall not void the remaining provisions.<lb/>
+                  <lb/>1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the<lb/>trademark owner, any agent or employee of the Foundation, anyone<lb/>providing copies of Project Gutenberg-tm electronic works in accordance<lb/>with this agreement, and any volunteers associated with the production,<lb/>promotion and distribution of Project Gutenberg-tm electronic works,<lb/>harmless from all liability, costs and expenses, including legal fees,<lb/>that arise directly or indirectly from any of the following which you do<lb/>or cause to occur: (a) distribution of this or any Project Gutenberg-tm<lb/>work, (b) alteration, modification, or additions or deletions to any<lb/>Project Gutenberg-tm work, and (c) any Defect you cause.<lb/>
+                  <lb/>
+                  <lb/>Section  2.  Information about the Mission of Project Gutenberg-tm<lb/>
+                  <lb/>Project Gutenberg-tm is synonymous with the free distribution of<lb/>electronic works in formats readable by the widest variety of computers<lb/>including obsolete, old, middle-aged and new computers.  It exists<lb/>because of the efforts of hundreds of volunteers and donations from<lb/>people in all walks of life.<lb/>
+                  <lb/>Volunteers and financial support to provide volunteers with the<lb/>assistance they need are critical to reaching Project Gutenberg-tm's<lb/>goals and ensuring that the Project Gutenberg-tm collection will<lb/>remain freely available for generations to come.  In 2001, the Project<lb/>Gutenberg Literary Archive Foundation was created to provide a secure<lb/>and permanent future for Project Gutenberg-tm and future generations.<lb/>To learn more about the Project Gutenberg Literary Archive Foundation<lb/>and how your efforts and donations can help, see Sections 3 and 4<lb/>and the Foundation information page at www.gutenberg.org<lb/>
+                  <lb/>
+                  <lb/>Section 3.  Information about the Project Gutenberg Literary Archive<lb/>Foundation<lb/>
+                  <lb/>The Project Gutenberg Literary Archive Foundation is a non profit<lb/>501(c)(3) educational corporation organized under the laws of the<lb/>state of Mississippi and granted tax exempt status by the Internal<lb/>Revenue Service.  The Foundation's EIN or federal tax identification<lb/>number is 64-6221541.  Contributions to the Project Gutenberg<lb/>Literary Archive Foundation are tax deductible to the full extent<lb/>permitted by U.S. federal laws and your state's laws.<lb/>
+                  <lb/>The Foundation's principal office is located at 4557 Melan Dr. S.<lb/>Fairbanks, AK, 99712., but its volunteers and employees are scattered<lb/>throughout numerous locations.  Its business office is located at 809<lb/>North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email<lb/>contact links and up to date contact information can be found at the<lb/>Foundation's web site and official page at www.gutenberg.org/contact<lb/>
+                  <lb/>For additional contact information:<lb/>     Dr. Gregory B. Newby<lb/>     Chief Executive and Director<lb/>     gbnewby@pglaf.org<lb/>
+                  <lb/>Section 4.  Information about Donations to the Project Gutenberg<lb/>Literary Archive Foundation<lb/>
+                  <lb/>Project Gutenberg-tm depends upon and cannot survive without wide<lb/>spread public support and donations to carry out its mission of<lb/>increasing the number of public domain and licensed works that can be<lb/>freely distributed in machine readable form accessible by the widest<lb/>array of equipment including outdated equipment.  Many small donations<lb/>($1 to $5,000) are particularly important to maintaining tax exempt<lb/>status with the IRS.<lb/>
+                  <lb/>The Foundation is committed to complying with the laws regulating<lb/>charities and charitable donations in all 50 states of the United<lb/>States.  Compliance requirements are not uniform and it takes a<lb/>considerable effort, much paperwork and many fees to meet and keep up<lb/>with these requirements.  We do not solicit donations in locations<lb/>where we have not received written confirmation of compliance.  To<lb/>SEND DONATIONS or determine the status of compliance for any<lb/>particular state visit www.gutenberg.org/donate<lb/>
+                  <lb/>While we cannot and do not solicit contributions from states where we<lb/>have not met the solicitation requirements, we know of no prohibition<lb/>against accepting unsolicited donations from donors in such states who<lb/>approach us with offers to donate.<lb/>
+                  <lb/>International donations are gratefully accepted, but we cannot make<lb/>any statements concerning tax treatment of donations received from<lb/>outside the United States.  U.S. laws alone swamp our small staff.<lb/>
+                  <lb/>Please check the Project Gutenberg Web pages for current donation<lb/>methods and addresses.  Donations are accepted in a number of other<lb/>ways including checks, online payments and credit card donations.<lb/>To donate, please visit:  www.gutenberg.org/donate<lb/>
+                  <lb/>
+                  <lb/>Section 5.  General Information About Project Gutenberg-tm electronic<lb/>works.<lb/>
+                  <lb/>Professor Michael S. Hart was the originator of the Project Gutenberg-tm<lb/>concept of a library of electronic works that could be freely shared<lb/>with anyone.  For forty years, he produced and distributed Project<lb/>Gutenberg-tm eBooks with only a loose network of volunteer support.<lb/>
+                  <lb/>Project Gutenberg-tm eBooks are often created from several printed<lb/>editions, all of which are confirmed as Public Domain in the U.S.<lb/>unless a copyright notice is included.  Thus, we do not necessarily<lb/>keep eBooks in compliance with any particular paper edition.<lb/>
+                  <lb/>Most people start at our Web site which has the main PG search facility:<lb/>
+                  <lb/>     www.gutenberg.org<lb/>
+                  <lb/>This Web site includes information about Project Gutenberg-tm,<lb/>including how to make donations to the Project Gutenberg Literary<lb/>Archive Foundation, how to help produce our new eBooks, and how to<lb/>subscribe to our email newsletter to hear about new eBooks.<lb/>
+                  <lb/>
+                  <lb/>
+                  <lb/>
+                  <hi rend="bold">Anmerkungen zur Transkription:</hi>
+               </p>
+               <p>Schreibweise und Interpunktion des Originaltextes wurden beibehalten. Im Nachwort wurden einzelne Druckfehler korrigiert. Änderungen sind wie hier gekennzeichnet, der Originaltext erscheint beim Überfahren mit der Maus.</p>
+               <p>Das <ref target="#4999470564709262658_47861-h-1.htm.html#Inhalt">Inhaltsverzeichnis</ref> befindet sich am Ende des Buches.</p>
+               <p>Martin Luther's</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

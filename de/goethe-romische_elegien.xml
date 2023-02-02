@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Römische Elegien</title>
+            <author>Goethe, Johann Wolfgang von</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-04T11:55:00Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-05T23:03:39.281340357</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Römische Elegien</head>
+         <author>Goethe, Johann Wolfgang von</author>
+         <div type="div1">
+            <head>Römische Elegien</head>
+            <epigraph>Wie wir einst so glücklich waren,<lb/>Müssens jetzt durch euch erfahren.<lb/>
+            </epigraph>
+            <div type="div2">
+               <div type="div3">
+                  <head>1.</head>
+                  <lg>
+                     <l>Saget, Steine, mir an, o sprecht, ihr hohen Paläste!</l>
+                     <l>Straßen, redet ein Wort! Genius, regst du dich nicht?</l>
+                     <l>Ja, es ist alles beseelt in deinen heiligen Mauern,</l>
+                     <l>Ewige Roma; nur mir schweiget noch alles so still.</l>
+                     <l>O wer flüstert mir zu, an welchem Fenster erblick ich</l>
+                     <l>Einst das holde Geschöpf, das mich versengend erquickt?</l>
+                     <l>Ahn ich die Wege noch nicht, durch die ich immer und immer</l>
+                     <l>Zu ihr und von ihr zu gehn, opfre die köstliche Zeit?</l>
+                     <l>Noch betracht ich Kirch und Palast, Ruinen und Säulen,</l>
+                     <l>Wie ein bedächtiger Mann schicklich die Reise benutzt.</l>
+                     <l>Doch bald ist es vorbei: dann wird ein einziger Tempel</l>
+                     <l>Amors Tempel nur sein, der den Geweihten empfängt.</l>
+                     <l>Eine Welt zwar bist du, o Rom; doch ohne die Liebe</l>
+                     <l>Wäre die Welt nicht die Welt, wäre denn Rom auch nicht Rom.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>2.</head>
+                  <lg>
+                     <l>Ehret, wen ihr auch wollt! Nun bin ich endlich geborgen!</l>
+                     <l>Schöne Damen und ihr, Herren der feineren Welt,</l>
+                     <l>Fraget nach Oheim und Vetter und alten Muhmen und Tanten,</l>
+                     <l>Und dem gebundnen Gespräch folge das traurige Spiel.</l>
+                     <l>Auch ihr übrigen fahret mir wohl, in großen und kleinen</l>
+                     <l>Zirkeln, die ihr mich oft nah der Verzweiflung gebracht,</l>
+                     <l>Wiederholet, politisch und zwecklos, jegliche Meinung,</l>
+                     <l>Die den Wandrer mit Wut über Europa verfolgt.</l>
+                     <l>So verfolgte das Liedchen "Malbrough" den reisenden Briten</l>
+                     <l>Einst von Paris nach Livorn, dann von Livorno nach Rom,</l>
+                     <l>Weiter nach Napel hinunter, und wär er nach Smyrna gesegelt,</l>
+                     <l>Malbrough! empfing ihn auch dort, Malbrough! im Hafen das Lied.</l>
+                     <l>Und so mußt ich bis jetzt auf allen Tritten und Schritten</l>
+                     <l>Schelten hören das Volk, schelten der Könige Rat.</l>
+                     <l>Nun entdeckt ihr mich nicht sobald in meinem Asyle,</l>
+                     <l>Das mir Amor der Fürst, königlich schützend, verlieh.</l>
+                     <l>Hier bedecket er mich mit seinem Fittich; die Liebste</l>
+                     <l>Fürchtet, römisch gesinnt, wütende Gallier nicht:</l>
+                     <l>Sie erkundigt sich nie nach neuer Märe, sie spähet</l>
+                     <l>Sorglich den Wünschen des Manns, dem sie sich eignete, nach.</l>
+                     <l>Sie ergötzt sich an ihm, dem freien, rüstigen Fremden,</l>
+                     <l>Der von Bergen und Schnee, hölzernen Häusern erzählt;</l>
+                     <l>Teilt die Flammen, die sie in seinem Busen entzündet,</l>
+                     <l>Freut sich, daß er das Gold nicht wie der Römer bedenkt.</l>
+                     <l>Besser ist ihr Tisch nun bestellt; es fehlet an Kleidern,</l>
+                     <l>Fehlet am Wagen ihr nicht, der nach der Oper sie bringt.</l>
+                     <l>Mutter und Tochter erfreun sich ihres nordischen Gastes,</l>
+                     <l>Und der Barbare beherrscht römischen Busen und Leib.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>3.</head>
+                  <lg>
+                     <l>Laß dich, Geliebte, nicht reun, daß du mir so schnell dich ergeben!</l>
+                     <l>Glaub es, ich denke nicht frech, denke nicht niedrig von dir.</l>
+                     <l>Vielfach wirken die Pfeile des Amors: einige ritzen,</l>
+                     <l>Und vom schleichenden Gift kranket auf Jahre das Herz.</l>
+                     <l>Aber mächtig befiedert, mit frisch geschliffener Schärfe</l>
+                     <l>Dringen die andern ins Mark, zünden behende das Blut.</l>
+                     <l>In der heroischen Zeit, da Götter und Göttinnen liebten,</l>
+                     <l>Folgte Begierde dem Blick, folgte Genuß der Begier.</l>
+                     <l>Glaubst du, es habe sich lang die Göttin der Liebe besonnen,</l>
+                     <l>Als im Idäischen Hain einst ihr Anchises gefiel?</l>
+                     <l>Hätte Luna gesäumt, den schönen Schläfer zu küssen,</l>
+                     <l>O, so hätt ihn geschwind, neidend, Aurora geweckt.</l>
+                     <l>Hero erblickte Leandern am lauten Fest, und behende</l>
+                     <l>Stürzte der Liebende sich heiß in die nächtliche Flut.</l>
+                     <l>Rhea Silvia wandert, die fürstliche Jungfrau, den Tiber,</l>
+                     <l>Wasser zu schöpfen, hinab, und sie ergreifet der Gott.</l>
+                     <l>So erzeugte die Söhne sich Mars!—Die Zwillinge tränket</l>
+                     <l>Eine Wölfin, und Rom nennt sich die Fürstin der Welt.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>4.</head>
+                  <p rend="justify">Fromm sind wir Liebende, still verehren wir alle Dämonen,<lb/>Wünschen uns jeglichen Gott, jegliche Göttin geneigt.<lb/>Und so gleichen wir euch, o römische Sieger! Den Göttern<lb/>Aller Völker der Welt bietet ihr Wohnungen an,<lb/>Habe sie schwarz und streng aus altem Basalt der Ägypter,<lb/>Oder ein Grieche sie weiß, reizend, aus Marmor geformt.<lb/>Doch verdrießet es nicht die Ewigen, wenn wir besonders<lb/>Weihrauch köstlicher Art einer der Göttlichen streun.<lb/>Ja, wir bekennen euch gern: es bleiben unsre Gebete,<lb/>Unser täglicher Dienst Einer besonders geweiht.<lb/>Schalkhaft, munter und ernst begehen wir heimliche Feste,<lb/>Und das Schweigen geziemt allen Geweihten genau.<lb/>Eh' an die Ferse lockten wir selbst durch gräßliche Taten<lb/>Uns die Erinnyen her, wagten es eher, des Zeus<lb/>Hartes Gericht am rollenden Rad und Felsen zu dulden,<lb/>Als dem reizenden Dienst unser Gemüt zu entziehn.<lb/>Diese Göttin, sie heißt Gelegenheit, lernet sie kennen!<lb/>Sie erscheinet euch oft, immer in andrer Gestalt.<lb/>Tochter des Proteus möchte sie sein, mit Thetis gezeuget,<lb/>Deren verwandelte List manchen Heroen betrog.<lb/>So betrügt nun die Tochter den Unerfahrnen, den Blöden:<lb/>Schlummernde necket sie stets, Wachende fliegt sie vorbei;<lb/>Gern ergibt sie sich nur dem raschen, tätigen Manne,<lb/>Dieser findet sie zahm, spielend und zärtlich und hold.<lb/>Einst erschien sie auch mir, ein bräunliches Mädchen, die Haare<lb/>Fielen ihr dunkel und reich über die Stirne herab,<lb/>Kurze Locken ringelten sich ums zierliche Hälschen,<lb/>Ungeflochtenes Haar krauste vom Scheitel sich auf.<lb/>Und ich verkannte sie nicht, ergriff die Eilende: lieblich<lb/>Gab sie Umarmung und Kuß bald mir gelehrig zurück.<lb/>O wie war ich beglückt!—Doch stille, die Zeit ist vorüber,<lb/>Und umwunden bin ich, römische Flechten, von euch.<lb/>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>5.</head>
+                  <p rend="justify">Froh empfind ich mich nun auf klassischem Boden begeistert,<lb/>Vor- und Mitwelt spricht lauter und reizender mir.<lb/>Hier befolg ich den Rat, durchblättre die Werke der Alten<lb/>Mit geschäftiger Hand, täglich mit neuem Genuß.<lb/>Aber die Nächte hindurch hält Amor mich anders beschäftigt;<lb/>Werd ich auch halb nur gelehrt, bin ich doch doppelt beglückt.<lb/>Und belehr ich mich nicht, indem ich des lieblichen Busens<lb/>Formen spähe, die Hand leite die Hüften hinab?<lb/>Dann versteh ich den Marmor erst recht: ich denk und vergleiche,<lb/>Sehe mit fühlendem Aug, fühle mit sehender Hand.<lb/>Raubt die Liebste denn gleich mir einige Stunden des Tages,<lb/>Gibt sie Stunden der Nacht mir zur Entschädigung hin.<lb/>Wird doch nicht immer geküßt, es wird vernünftig gesprochen,<lb/>Überfällt sie der Schlaf, lieg ich und denke mir viel.<lb/>Oftmals hab ich auch schon in ihren Armen gedichtet<lb/>Und des Hexameters Maß leise mit fingernder Hand<lb/>Ihr auf den Rücken gezählt. Sie atmet in lieblichem Schlummer,<lb/>Und es durchglühet ihr Hauch mir bis ins Tiefste die Brust.<lb/>Amor schüret die Lamp' indes und gedenket der Zeiten,<lb/>Da er den nämlichen Dienst seinen Triumvirn getan.<lb/>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>6.</head>
+                  <lg>
+                     <l>"Kannst du, o Grausamer, mich mit solchen Worten betrüben?</l>
+                     <l>Reden so bitter und hart liebende Männer bei euch?</l>
+                     <l>Wenn das Volk mich verklagt, ich muß es dulden! und bin ich</l>
+                     <l>Etwa nicht schuldig? Doch ach! Schuldig nur bin ich mit dir!</l>
+                     <l>Diese Kleider, sie sind der neidischen Nachbarin Zeugen,</l>
+                     <l>Daß die Witwe nicht mehr einsam den Gatten beweint.</l>
+                     <l>Bist du ohne Bedacht nicht oft bei Mondschein gekommen,</l>
+                     <l>Grau, im dunklen Surtout, hinten gerundet das Haar?</l>
+                     <l>Hast du dir scherzend nicht selbst die geistliche Maske gewählet?</l>
+                     <l>Soll's ein Prälate denn sein—gut, der Prälate bist du!</l>
+                     <l>In dem geistlichen Rom, kaum scheint es zu Glaubens, doch schwör ich:</l>
+                     <l>Nie hat ein Geistlicher sich meiner Umarmung gefreut.</l>
+                     <l>Arm bin ich, leider! und jung, und wohlbekannt den Verführern:</l>
+                     <l>Falconieri hat mir oft in die Augen gegafft,</l>
+                     <l>Und ein Kuppler Albanis mich mit gewichtigen Zetteln</l>
+                     <l>Bald nach Ostia, bald nach den vier Brunnen gelockt.</l>
+                     <l>Aber wer nicht kam, war das Mädchen. So hab ich von Herzen</l>
+                     <l>Rotstrumpf immer gehaßt und Violettstrumpf dazu.</l>
+                     <l>Denn ihr Mädchen bleibt am Ende doch die Betrognen</l>
+                     <l>Sagte der Vater, wenn auch leichter die Mutter es nahm.</l>
+                     <l>Und so bin ich denn auch am Ende betrogen! Du zürnest</l>
+                     <l>Nur zum Scheine mit mir, weil du zu fliehen gedenkst.</l>
+                     <l>Geh! Ihr seid der Frauen nicht wert! Wir tragen die Kinder</l>
+                     <l>Unter dem Herzen, und so tragen die Treue wir auch;</l>
+                     <l>Aber ihr Männer, ihr schüttet mit eurer Kraft und Begierde</l>
+                     <l>Auch die Liebe zugleich in den Umarmungen aus!"</l>
+                     <l>Also sprach die Geliebte und nahm den Kleinen vom Stuhle,</l>
+                     <l>Drückt ihn küssend ans Herz, Tränen entquollen dem Blick.</l>
+                     <l>Und wie saß ich beschämt, daß Reden feindlicher Menschen</l>
+                     <l>Dieses liebliche Bild mir zu beflecken vermocht!</l>
+                     <l>Dunkel brennt das Feuer nur augenblicklich und dampfet,</l>
+                     <l>Wenn das Wasser die Glut stürzend und jählings verhüllt;</l>
+                     <l>Aber sie reinigt sich schnell, verjagt die trübenden Dämpfe,</l>
+                     <l>Neuer und mächtiger dringt leuchtende Flamme hinauf.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>7.</head>
+                  <lg>
+                     <l>O wie fühl ich in Rom mich so froh, gedenk ich der Zeiten,</l>
+                     <l>Da mich ein graulicher Tag hinten im Norden umfing,</l>
+                     <l>Trübe der Himmel und schwer auf meine Scheitel sich senkte,</l>
+                     <l>Farb- und gestaltlos die Welt um den Ermatteten lag,</l>
+                     <l>Und ich über mein Ich, des unbefriedigten Geistes</l>
+                     <l>Düstre Wege zu spähn, still in Betrachtung versank.</l>
+                     <l>Nun umleuchtet der Glanz des helleren Äthers die Stirne.</l>
+                     <l>Phöbus rufet, der Gott, Formen und Farben hervor.</l>
+                     <l>Sternhell glänzet die Nacht, sie klingt von weichen Gesängen,</l>
+                     <l>Und mir leuchtet der Mond heller als nordischer Tag.</l>
+                     <l>Welche Seligkeit ward mir Sterblichem! Träum ich? Empfänget</l>
+                     <l>Dein ambrosisches Haus, Jupiter Vater, den Gast?</l>
+                     <l>Ach, hier lieg ich und strecke nach deinen Knieen die Hände</l>
+                     <l>Flehend aus. O vernimm, Jupiter Xenius, mich!</l>
+                     <l>Wie ich hereingekommen, ich kanns nicht sagen: es faßte</l>
+                     <l>Hebe den Wandrer und zog mich in die Hallen heran.</l>
+                     <l>Hast du ihr einen Heroen herauf zu führen geboten?</l>
+                     <l>Irrte die Schöne? Vergib! Laß mir des Irrtums Gewinn!</l>
+                     <l>Deine Tochter Fortuna, sie auch! die herrlichsten Gaben</l>
+                     <l>Teilt als ein Mädchen sie aus, wie es die Laune gebeut.</l>
+                     <l>Bist du der wirtliche Gott? O dann so verstoße den Gastfreund</l>
+                     <l>Nicht von deinem Olymp wieder zur Erde hinab!</l>
+                     <l>"Dichter! Wohin versteigest du dich?"—Vergib mir: der hohe</l>
+                     <l>Kapitolinische Berg ist dir ein zweiter Olymp.</l>
+                     <l>Dulde mich, Jupiter, hier, und Hermes führe mich später</l>
+                     <l>Cestius Mal vorbei, leise zum Orkus hinab.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>8.</head>
+                  <lg>
+                     <l>Wenn du mir sagst, du habest als Kind, Geliebte, den Menschen</l>
+                     <l>Nicht gefallen, und dich habe die Mutter verschmäht,</l>
+                     <l>Bis du größer geworden und still dich entwickelt—ich glaub es:</l>
+                     <l>Gerne denk ich mir dich als ein besonderes Kind.</l>
+                     <l>Fehlet Bildung und Farbe doch auch der Blüte des Weinstocks,</l>
+                     <l>Wenn die Beere, gereift, Menschen und Götter entzückt.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>9.</head>
+                  <lg>
+                     <l>Herbstlich leuchtet die Flamme vom ländlich geselligen Herde,</l>
+                     <l>Knistert und glänzet, wie rasch! sausend vom Reisig empor.</l>
+                     <l>Diesen Abend erfreut sie mich mehr: denn eh noch zur Kohle</l>
+                     <l>Sich das Bündel verzehrt, unter die Asche sich neigt,</l>
+                     <l>Kommt mein liebliches Mädchen. Dann flammen Reisig und Scheite,</l>
+                     <l>Und die erwärmte Nacht wird uns ein glänzendes Fest.</l>
+                     <l>Morgen frühe geschäftig verläßt sie das Lager der Liebe,</l>
+                     <l>Weckt aus der Asche behend Flammen aufs neue hervor.</l>
+                     <l>Denn vor andern verlieh der Schmeichlerin Amor die Gabe,</l>
+                     <l>Freude zu wecken, die kaum still wie zu Asche versank.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>10.</head>
+                  <lg>
+                     <l>Alexander und Cäsar und Heinrich und Friedrich, die Großen,</l>
+                     <l>Gäben die Hälfte mir gern ihres erworbenen Ruhms,</l>
+                     <l>Könnt ich auf eine Nacht dies Lager jedem vergönnen;</l>
+                     <l>Aber die Armen, sie hält strenge des Orkus Gewalt.</l>
+                     <l>Freue dich also, Lebendger, der lieberwärmeten Stätte,</l>
+                     <l>Ehe den fliehenden Fuß schauerlich Lethe dir netzt.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>11.</head>
+                  <lg>
+                     <l>Euch, o Grazien, legt die wenigen Blätter ein Dichter</l>
+                     <l>Auf den reinen Altar, Knospen der Rose dazu,</l>
+                     <l>Und er tut es getrost. Der Künstler freuet sich seiner</l>
+                     <l>Werkstatt, wenn sie um ihn immer ein Pantheon scheint.</l>
+                     <l>Jupiter senket die göttliche Stirn, und Juno erhebt sie;</l>
+                     <l>Phöbus schreitet hervor, schüttelt das lockige Haupt;</l>
+                     <l>Trocken schaut Minerva herab und Hermes, der leichte,</l>
+                     <l>Wendet zur Seite den Blick, schalkisch und zärtlich zugleich.</l>
+                     <l>Aber nach Bacchus, dem weichen, dem träumenden, hebet Cythere</l>
+                     <l>Blicke der süßen Begier, selbst in dem Marmor noch feucht.</l>
+                     <l>Seiner Umarmung gedenket sie gern und scheinet zu fragen:</l>
+                     <l>Sollte der herrliche Sohn uns an der Seite nicht stehn?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>12.</head>
+                  <lg>
+                     <l>Hörest du, Liebchen, das muntre Geschrei den Flaminischen Weg her?</l>
+                     <l>Schnitter sind es; sie ziehn wieder nach Hause zurück,</l>
+                     <l>Weit hinweg. Sie haben des Römers Ernte vollendet,</l>
+                     <l>Der für Ceres den Kranz selber zu flechten verschmäht.</l>
+                     <l>Keine Feste sind mehr der großen Göttin gewidmet,</l>
+                     <l>Die, statt Eicheln, zur Kost goldenen Weizen verlieh.</l>
+                     <l>Laß uns beide das Fest im stillen freudig begehen!</l>
+                     <l>Sind zwei Liebende doch sich ein versammeltes Volk.</l>
+                     <l>Hast du wohl je gehört von jener mystischen Feier,</l>
+                     <l>Die von Eleusis hieher frühe dem Sieger gefolgt?</l>
+                     <l>Griechen stifteten sie, und immer riefen nur Griechen,</l>
+                     <l>Selbst in den Mauern Roms: "Kommt zur geheiligten Nacht!"</l>
+                     <l>Fern entwich der Profane; da bebte der wartende Neuling,</l>
+                     <l>Den ein weißes Gewand, Zeichen der Reinheit, umgab.</l>
+                     <l>Wunderlich irrte darauf der Eingeführte durch Kreise</l>
+                     <l>Seltner Gestalten; im Traum schien er zu wallen: denn hier</l>
+                     <l>Wanden sich Schlangen am Boden umher, verschlossene Kästchen,</l>
+                     <l>Reich mit Ähren umkränzt, trugen hier Mädchen vorbei,</l>
+                     <l>Vielbedeutend gebärdeten sich die Priester und summten;</l>
+                     <l>Ungeduldig und bang harrte der Lehrling auf Licht.</l>
+                     <l>Erst nach mancherlei Proben und Prüfungen ward ihm enthüllet,</l>
+                     <l>Was der geheiligte Kreis seltsam in Bildern verbarg.</l>
+                     <l>Und was war das Geheimnis? als daß Demeter, die große,</l>
+                     <l>Sich gefällig einmal auch einem Helden bequemt,</l>
+                     <l>Als sie Jasion einst, dem rüstigen König der Kreter,</l>
+                     <l>Ihres unsterblichen Leibs holdes Verborgne gegönnt.</l>
+                     <l>Das war Kreta beglückt! das Hochzeitsbette der Göttin</l>
+                     <l>Schwoll von Ähren, und reich drückte den Acker die Saat.</l>
+                     <l>Aber die übrige Welt verschmachtete; denn es versäumte</l>
+                     <l>Über der Liebe Genuß Ceres den schönen Beruf.</l>
+                     <l>Voll Erstaunen vernahm der Eingeweihte das Märchen,</l>
+                     <l>Winkte der Liebsten—Verstehst du nun, Geliebte, den Wink?</l>
+                     <l>Jene buschige Myrte beschattet ein heiliges Plätzchen!</l>
+                     <l>Unsre Zufriedenheit bringt keine Gefährde der Welt.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>13.</head>
+                  <lg>
+                     <l>Amor bleibet ein Schalk, und wer ihm vertraut, ist betrogen!</l>
+                     <l>Heuchelnd kam er zu mir: "Diesmal nur traue mir noch.</l>
+                     <l>Redlich mein ichs mit dir: du hast dein Leben und Dichten,</l>
+                     <l>Dankbar erkenn ich es wohl, meiner Verehrung geweiht.</l>
+                     <l>Siehe, dir bin ich nun gar nach Rom gefolget! Ich möchte</l>
+                     <l>Dir im fremden Gebiet gern was Gefälliges tun.</l>
+                     <l>Jeder Reisende klagt, er finde schlechte Bewirtung;</l>
+                     <l>Welchen Amor empfiehlt, köstlich bewirtet ist er.</l>
+                     <l>Du betrachtest mit Staunen die Trümmer alter Gebäude</l>
+                     <l>Und durchwandelst mit Sinn diesen geheiligten Raum.</l>
+                     <l>Du verehrest noch mehr die werten Reste des Bildens</l>
+                     <l>Einziger Künstler, die stets ich in der Werkstatt besucht.</l>
+                     <l>Diese Gestalten, ich formte sie selbst! Verzeih mir, ich prahle</l>
+                     <l>Diesmal nicht; du gestehst, was ich dir sage, sei wahr.</l>
+                     <l>Nun du mir lässiger dienst, wo sind die schönen Gestalten,</l>
+                     <l>Wo die Farben, der Glanz deiner Erfindungen hin?</l>
+                     <l>Denkst du nun wieder zu bilden, Freund? Die Schule der Griechen</l>
+                     <l>Blieb noch offen, das Tor schlossen die Jahre nicht zu.</l>
+                     <l>Ich, der Lehrer, bin ewig jung und liebe die Jungen.</l>
+                     <l>Altklug lieb ich dich nicht! Munter! Begreife mich wohl!</l>
+                     <l>War das Antike doch neu, da jene Glücklichen lebten!</l>
+                     <l>Lebe glücklich, und so lebe die Vorzeit in dir!</l>
+                     <l>Stoff zum Liede, wo nimmst du ihn her? Ich muß ihn dir geben,</l>
+                     <l>Und den höheren Stil lehret die Liebe dich nur."</l>
+                     <l>Also sprach der Sophist. Wer widerspricht ihm? und leider</l>
+                     <l>Bin ich zu folgen gewöhnt, wenn der Gebieter befiehlt.—</l>
+                     <l>Nun, verräterisch hält er sein Wort, gibt Stoff zu Gesängen,</l>
+                     <l>Ach, und raubt mir die Zeit, Kraft und Besinnung zugleich;</l>
+                     <l>Blick und Händedruck, und Küsse, gemütliche Worte,</l>
+                     <l>Silben köstlichen Sinns wechselt ein liebendes Paar.</l>
+                     <l>Da wird Lispeln Geschwätz, wird Stottern liebliche Rede:</l>
+                     <l>Solch ein Hymnus verhallt ohne prosodisches Maß.</l>
+                     <l>Dich, Aurora, wie kannt ich dich sonst als Freundin der Musen!</l>
+                     <l>Hat, Aurora, dich auch Amor, der lose, verführt?</l>
+                     <l>Du erscheinest mir nun als seine Freundin und weckest</l>
+                     <l>Mich an seinem Altar wieder zum festlichen Tag.</l>
+                     <l>Find ich die Fülle der Locken an meinem Busen! das Köpfchen</l>
+                     <l>Ruhet und drücket den Arm, der sich dem Halse bequemt.</l>
+                     <l>Welch ein freudig Erwachen, erhieltet ihr, ruhige Stunden,</l>
+                     <l>Mir das Denkmal der Lust, die in den Schlaf uns gewiegt!—</l>
+                     <l>Sie bewegt sich im Schlummer und sinkt auf die Breite des Lagers,</l>
+                     <l>Weggewendet; und doch läßt sie mir Hand noch in Hand.</l>
+                     <l>Herzliche Liebe verbindet uns stets und treues Verlangen,</l>
+                     <l>Und den Wechsel behielt nur die Begierde sich vor.</l>
+                     <l>Einen Druck der Hand, ich sehe die himmlischen Augen</l>
+                     <l>Wieder offen.—O nein! Laßt auf der Bildung mich ruhn!</l>
+                     <l>Bleibt geschlossen! Ihr macht mich verwirrt und trunken, ihr raubet</l>
+                     <l>Mir den stillen Genuß reiner Betrachtung zu früh.</l>
+                     <l>Diese Formen, wie groß! Wie edel gewendet die Glieder!</l>
+                     <l>Schlief Ariadne so schön: Theseus, du konntest entfliehn?</l>
+                     <l>Diesen Lippen ein einziger Kuß! O Theseus, nun scheide!</l>
+                     <l>Blick ihr ins Auge! Sie wacht!—Ewig nun hält sie dich fest.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>14.</head>
+                  <lg>
+                     <l>Zünde mir Licht an, Knabe!—"Noch ist es hell. Ihr verzehret</l>
+                     <l>Öl und Docht nur umsonst. Schließet die Läden doch nicht!</l>
+                     <l>Hinter die Häuser entwich, nicht hinter den Berg, uns die Sonne!</l>
+                     <l>Ein halb Stündchen noch währts bis zum Geläute der Nacht!"—</l>
+                     <l>Unglückseliger! Geh und gehorch! Mein Mädchen erwart ich.</l>
+                     <l>Tröste mich, Lämpchen, indes, lieblicher Bote der Nacht!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>15.</head>
+                  <lg>
+                     <l>Cäsarn wär ich wohl nie zum fernen Britannien gefolget,</l>
+                     <l>Florus hätte mich leicht in die Popine geschleppt!</l>
+                     <l>Denn mir bleiben weit mehr die Nebel des traurigen Nordens</l>
+                     <l>Als ein geschäftiges Volk südlicher Flöhe verhaßt.</l>
+                     <l>Und noch schöner von heut an seid mir gegrüßet, ihr Schenken,</l>
+                     <l>Osterien, wie euch schicklich der Römer benennt;</l>
+                     <l>Denn ihr zeiget mir heute die Liebste, begleitet vom Oheim,</l>
+                     <l>Den die Gute so oft, mich zu besitzen, betrügt.</l>
+                     <l>Hier stand unser Tisch, den Deutsche vertraulich umgaben;</l>
+                     <l>Drüben suchte das Kind neben der Mutter den Platz,</l>
+                     <l>Rückte vielmals die Bank und wußt es artig zu machen,</l>
+                     <l>Daß ich halb ihr Gesicht, völlig den Nacken gewann.</l>
+                     <l>Lauter sprach sie, als hier die Römerin pfleget, kredenzte,</l>
+                     <l>Blickte gewendet nach mir, goß und verfehlte das Glas.</l>
+                     <l>Wein floß über den Tisch, und sie, mit zierlichem Finger,</l>
+                     <l>Zog auf dem hölzernen Blatt Kreise der Feuchtigkeit hin.</l>
+                     <l>Meinen Namen verschlang sie dem ihrigen; immer begierig</l>
+                     <l>Schaut ich dem Fingerchen nach, und sie bemerkte mich wohl.</l>
+                     <l>Endlich zog sie behende das Zeichen der römischen Fünfe</l>
+                     <l>Und ein Strichlein davor. Schnell, und sobald ichs gesehn,</l>
+                     <l>Schlang sie Kreise durch Kreise, die Lettern und Ziffern zu löschen;</l>
+                     <l>Aber die köstliche Vier blieb mir ins Auge geprägt.</l>
+                     <l>Stumm war ich sitzen geblieben und biß die glühende Lippe,</l>
+                     <l>Halb aus Schalkheit und Lust, halb aus Begierde, mir wund.</l>
+                     <l>Erst noch so lange bis Nacht! Dann noch vier Stunden zu warten!</l>
+                     <l>Hohe Sonne, du weilst, und du beschauest dein Rom!</l>
+                     <l>Größeres sahest du nichts und wirst nichts Größeres sehen,</l>
+                     <l>Wie es dein Priester Horaz in der Entzückung versprach.</l>
+                     <l>Aber heute verweile mir nicht und wende die Blicke</l>
+                     <l>Von dem Siebengebirg früher und williger ab!</l>
+                     <l>Einem Dichter zuliebe verkürze die herrlichen Stunden,</l>
+                     <l>Die mit begierigem Blick selig der Maler genießt;</l>
+                     <l>Glühend blicke noch schnell zu diesen hohen Fassaden,</l>
+                     <l>Kuppeln und Säulen zuletzt und Obelisken herauf;</l>
+                     <l>Stürze dich eilig ins Meer, um morgen früher zu sehen,</l>
+                     <l>Was Jahrhunderte schon göttliche Lust dir gewährt:</l>
+                     <l>Diese feuchten, mit Rohr so lange bewachsnen Gestade,</l>
+                     <l>Diese mit Bäumen und Busch düster beschatteten Höhn.</l>
+                     <l>Wenig Hütten zeigten sie erst; dann sahst du auf einmal</l>
+                     <l>Sie vom wimmelnden Volk glücklicher Räuber belebt.</l>
+                     <l>Alles schleppten sie drauf an diese Stätte zusammen:</l>
+                     <l>Kaum war das übrige Rund deiner Betrachtung noch wert.</l>
+                     <l>Sahst eine Welt hier entstehn, sahst dann eine Welt hier in Trümmern,</l>
+                     <l>Aus den Trümmern aufs neu fast eine größere Welt!</l>
+                     <l>Daß ich diese noch lange von dir beleuchtet erblicke,</l>
+                     <l>Spinne die Parze mir klug langsam den Faden herab,</l>
+                     <l>Aber sie eile herbei, die schön bezeichnete Stunde!—</l>
+                     <l>Glücklich! hör ich sie schon? Nein, doch ich höre schon Drei.</l>
+                     <l>So, ihr lieben Musen, betrogt ihr wieder die Länge</l>
+                     <l>Dieser Weile, die mich von der Geliebten getrennt.</l>
+                     <l>Lebet wohl! Nun eil ich und fürcht euch nicht zu beleidgen:</l>
+                     <l>Denn ihr Stolzen, ihr gebt Amorn doch immer den Rang.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>16.</head>
+                  <lg>
+                     <l>"Warum bist du, Geliebter, nicht heute zur Vigne gekommen?</l>
+                     <l>Einsam, wie ich versprach, wartet ich oben auf dich."—</l>
+                     <l>Beste, schon war ich hinein; da sah ich zum Glücke den Oheim</l>
+                     <l>Neben den Stöcken, bemüht, hin sich und her sich zu drehn.</l>
+                     <l>Schleichend eilt ich hinaus!—"O welch ein Irrtum ergriff dich!</l>
+                     <l>Eine Scheuche nur wars, was dich vertrieb! Die Gestalt</l>
+                     <l>Flickten wir emsig zusammen aus alten Kleidern und Rohren,</l>
+                     <l>Emsig half ich daran, selbst mir zu schaden bemüht."—</l>
+                     <l>Nun, des Alten Wunsch ist erfüllt: den losesten Vogel</l>
+                     <l>Scheucht' er heute, der ihm Gärtchen und Nichte bestiehlt.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>17.</head>
+                  <lg>
+                     <l>Manche Töne sind mir Verdruß, doch bleibet am meisten</l>
+                     <l>Hundegebell mir verhaßt: kläffend zerreißt es mein Ohr.</l>
+                     <l>Einen Hund nur hör ich sehr oft mit frohem Behagen</l>
+                     <l>Bellend kläffen, den Hund, den sich der Nachbar erzog.</l>
+                     <l>Denn er bellte mir einst mein Mädchen an, da sie sich heimlich</l>
+                     <l>Zu mir stahl, und verriet unser Geheimnis beinah.</l>
+                     <l>Jetzo, hör ich ihn bellen, so denk ich mir immer: sie kommt wohl!</l>
+                     <l>Oder ich denke der Zeit, da die Erwartete kam.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>18.</head>
+                  <lg>
+                     <l>Eines ist mir verdrießlich vor allen Dingen, ein andres</l>
+                     <l>Bleibt mir abscheulich, empört jegliche Faser in mir,</l>
+                     <l>Nur der bloße Gedanke. Ich will es euch, Freunde, gestehen:</l>
+                     <l>Gar verdrießlich ist mir einsam das Lager zu Nacht.</l>
+                     <l>Aber ganz abscheulich ists, auf dem Wege der Liebe</l>
+                     <l>Schlangen zu fürchten, und Gift unter den Rosen der Lust,</l>
+                     <l>Wenn im schönsten Moment der hin sich gebenden Freude</l>
+                     <l>Deinem sinkenden Haupt lispelnde Sorge sich naht.</l>
+                     <l>Darum macht Faustine mein Glück: sie teilet das Lager</l>
+                     <l>Gern mit mir, und bewahrt Treue dem Treuen genau.</l>
+                     <l>Reizendes Hindernis will die rasche Jugend; ich liebe,</l>
+                     <l>Mich des versicherten Guts lange bequem zu erfreun.</l>
+                     <l>Welche Seligkeit ists! wir wechseln sichere Küsse,</l>
+                     <l>Atem und Leben getrost saugen und flößen wir ein.</l>
+                     <l>So erfreuen wir uns der langen Nächte, wir lauschen,</l>
+                     <l>Busen an Busen gedrängt, Stürmen und Regen und Guß.</l>
+                     <l>Und so dämmert der Morgen heran; es bringen die Stunden</l>
+                     <l>Neue Blumen herbei, schmücken uns festlich den Tag.</l>
+                     <l>Gönnet mir, o Quiriten! das Glück, und jedem gewähre</l>
+                     <l>Aller Güter der Welt erstes und letztes der Gott!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>19.</head>
+                  <lg>
+                     <l>Schwer erhalten wir uns den guten Namen, denn Fama</l>
+                     <l>Steht mit Amorn, ich weiß, meinem Gebieter, in Streit.</l>
+                     <l>Wißt ihr auch, woher es entsprang, daß beide sich hassen?</l>
+                     <l>Alte Geschichten sind das, und ich erzähle sie wohl.</l>
+                     <l>Immer die mächtige Göttin, doch war sie für die Gesellschaft</l>
+                     <l>Unerträglich, denn gern führt sie das herrschende Wort;</l>
+                     <l>Und so war sie von je, bei allen Göttergelagen,</l>
+                     <l>Mit der Stimme von Erz, Großen und Kleinen verhaßt.</l>
+                     <l>So berühmte sie einst sich übermütig, sie habe</l>
+                     <l>Jovis herrlichen Sohn ganz sich zum Sklaven gemacht.</l>
+                     <l>"Meinen Herkules führ ich dereinst, o Vater der Götter",</l>
+                     <l>Rief triumphierend sie aus, "wiedergeboren dir zu.</l>
+                     <l>Herkules ist es nicht mehr, den dir Alkmene geboren:</l>
+                     <l>Seine Verehrung für mich macht ihn auf Erden zum Gott.</l>
+                     <l>Schaut er nach dem Olymp, so glaubst du, er schaue nach deinen</l>
+                     <l>Mächtigen Knieen—vergib! nur in den Äther nach mir</l>
+                     <l>Blickt der würdigste Mann, nur mich zu verdienen, durchschreitet</l>
+                     <l>Leicht sein mächtiger Fuß Bahnen, die keiner betrat;</l>
+                     <l>Aber auch ich begegn ihm auf seinen Wegen und preise</l>
+                     <l>Seinen Namen voraus, eh er die Tat noch beginnt.</l>
+                     <l>Mich vermählst du ihm einst: der Amazonen Besieger</l>
+                     <l>Werd auch meiner, und ihn nenn ich mit Freuden Gemahl!"</l>
+                     <l>Alles schwieg; sie mochten nicht gern die Prahlerin reizen:</l>
+                     <l>Denn sie denkt sich, erzürnt, leicht was Gehässiges aus.</l>
+                     <l>Amorn bemerkte sie nicht: er schlich beiseite; den Helden</l>
+                     <l>Bracht er mit weniger Kunst unter der Schönsten Gewalt.</l>
+                     <l>Nun vermummt er sein Paar: ihr hängt er die Bürde des Löwen</l>
+                     <l>Über die Schultern und lehnt mühsam die Keule dazu,</l>
+                     <l>Drauf bespickt er mit Blumen des Helden sträubende Haare,</l>
+                     <l>Reichet den Rocken der Faust, die sich dem Scherze bequemt.</l>
+                     <l>So vollendet er bald die neckische Gruppe; dann läuft er,</l>
+                     <l>Ruft durch den ganzen Olymp: "Herrliche Taten geschehn!</l>
+                     <l>Nie hat Erd und Himmel, die unermüdete Sonne</l>
+                     <l>Hat auf der ewigen Bahn keines der Wunder erblickt."</l>
+                     <l>Alles eilte: sie glaubten dem losen Knaben, denn ernstlich</l>
+                     <l>Hatt er gesprochen; und auch Fama, sie blieb nicht zurück.</l>
+                     <l>Wer sich freute, den Mann so tief erniedrigt zu sehen,</l>
+                     <l>Denkt ihr? Juno. Es galt Amorn ein freundlich Gesicht.</l>
+                     <l>Fama daneben, wie stand sie beschämt, verlegen, verzweifelnd!</l>
+                     <l>Anfangs lachte sie nur: "Masken, ihr Götter, sind das!</l>
+                     <l>Meinen Helden, ich kenn ihn zu gut! Es haben Tragöden</l>
+                     <l>Uns zum besten!" Doch bald sah sie mit Schmerzen: er wars!—</l>
+                     <l>Nicht den tausendsten Teil verdroß es Vulkanen, sein Weibchen</l>
+                     <l>Mit dem rüstigen Freund unter den Maschen zu sehn,</l>
+                     <l>Als das verständige Netz im rechten Moment sie umfaßte,</l>
+                     <l>Rasch die Verschlungnen umschlang, fest die Genießenden hielt.</l>
+                     <l>Wie sich die Jünglinge freuten, Merkur und Bacchus! sie beide</l>
+                     <l>Mußten gestehn: es sei, über dem Busen zu ruhn</l>
+                     <l>Dieses herrlichen Weibes, ein schöner Gedanke. Sie baten:</l>
+                     <l>Löse, Vulkan, sie noch nicht! Laß sie noch einmal besehn!</l>
+                     <l>Und der Alte war so Hahnrei, und hielt sie nur fester.—</l>
+                     <l>Aber Fama, sie floh rasch und voll Grimmes davon.</l>
+                     <l>Seit der Zeit ist zwischen den Zweien der Fehde nicht Stillstand:</l>
+                     <l>Wie sie sich Helden erwählt, gleich ist der Knabe danach.</l>
+                     <l>Wer sie am höchsten verehrt, den weiß er am besten zu fassen,</l>
+                     <l>Und den Sittlichsten greift er am gefährlichsten an.</l>
+                     <l>Will ihm einer entgehn, den bringt er vom Schlimmen ins Schlimmste.</l>
+                     <l>Mädchen bietet er an: wer sie ihm töricht verschmäht,</l>
+                     <l>Muß erst grimmige Pfeile von seinem Bogen erdulden;</l>
+                     <l>Mann erhitzt er auf Mann, treibt die Begierden aufs Tier,</l>
+                     <l>Wer sich seiner schämt, der muß erst leiden; dem Heuchler</l>
+                     <l>Streut er bittern Genuß unter Verbrechen und Not.</l>
+                     <l>Aber auch sie, die Göttin, verfolgt ihn mit Augen und Ohren:</l>
+                     <l>Sieht sie ihn einmal bei dir, gleich ist sie feindlich gesinnt,</l>
+                     <l>Schreckt dich mit ernstem Blick, verachtenden Mienen, und heftig</l>
+                     <l>Strenge verruft sie das Haus, das er gewöhnlich besucht.</l>
+                     <l>Und so geht es auch mir: schon leid ich ein wenig; die Göttin,</l>
+                     <l>Eifersüchtig, sie forscht meinem Geheimnisse nach.</l>
+                     <l>Doch es ist ein altes Gesetz: ich schweig und verehre:</l>
+                     <l>Denn der Könige Zwist büßten die Griechen wie ich.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>20.</head>
+                  <lg>
+                     <l>Zieret Stärke den Mann und freies mutiges Wesen,</l>
+                     <l>O! so ziemet ihm fast tiefes Geheimnis noch mehr.</l>
+                     <l>Städtebezwingerin du, Verschwiegenheit! Fürstin der Völker!</l>
+                     <l>Teure Göttin, die mich sicher durchs Leben geführt,</l>
+                     <l>Welches Schicksal erfahr ich! Es löset scherzend die Muse,</l>
+                     <l>Amor löset, der Schalk, mir den verschlossenen Mund.</l>
+                     <l>Ach, schon wird es so schwer, der Könige Schande verbergen!</l>
+                     <l>Weder die Krone bedeckt, weder ein phrygischer Bund</l>
+                     <l>Midas verlängertes Ohr: der nächste Diener entdeckt es,</l>
+                     <l>Und ihm ängstet und drückt gleich das Geheimnis die Brust,</l>
+                     <l>In die Erde vergrüb er es gern, um sich zu erleichtern;</l>
+                     <l>Doch die Erde verwahrt solche Geheimnisse nicht,</l>
+                     <l>Rohre sprießen hervor und rauschen und lispeln im Winde:</l>
+                     <l>Midas! Midas, der Fürst trägt ein verlängertes Ohr!</l>
+                     <l>Schwerer wird es nun mir, ein schönes Geheimnis zu wahren,</l>
+                     <l>Ach, den Lippen entquillt Fülle des Herzens so leicht!</l>
+                     <l>Keiner Freundin darfs ich vertraun: sie möchte mich schelten;</l>
+                     <l>Keinem Freunde: vielleicht brächte der Freund mir Gefahr.</l>
+                     <l>Mein Entzücken dem Hain, den schallenden Felsen zu sagen,</l>
+                     <l>Bin ich endlich nicht jung, bin ich nicht einsam genug.</l>
+                     <l>Dir, Hexameter, dir, Pentameter, sei es vertrauet,</l>
+                     <l>Wie sie des Tags mich erfreut, wie sie des Nachts mich beglückt.</l>
+                     <l>Sie, von vielen Männern gesucht, vermeidet die Schlingen,</l>
+                     <l>Die ihr der Kühnere frech, heimlich der Listige legt;</l>
+                     <l>Klug und zierlich schlüpft sie vorbei und kennet die Wege,</l>
+                     <l>Wo sie der Liebste gewiß lauschend begierig empfängt.</l>
+                     <l>Zaudre, Luna, sie kommt! damit sie der Nachbar nicht sehe;</l>
+                     <l>Rausche, Lüftchen, im Laub! niemand vernehme den Tritt.</l>
+                     <l>Und ihr, wachset und blüht, geliebte Lieder, und wieget</l>
+                     <l>Euch im leisesten Hauch lauer und liebender Luft,</l>
+                     <l>Und entdeckt den Quiriten, wie jene Rohre geschwätzig,</l>
+                     <l>Eines glücklichen Paars schönes Geheimnis zuletzt.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Ende dieses Projekt Gutenberg Etextes Römische Elegien, von<lb/>Johann Wolfgang Goethe.<lb/>
+                  </head>
+                  <p rend="justify">End of Project Gutenberg's Roemische Elegien, by Johann Wolfgang von Goethe</p>
+                  <p>Produced by Delphine Lettau and Mike Pullen</p>
+                  <p>This Etext is in German.</p>
+                  <p>We are releasing two versions of this Etext, one in 7-bit format, known as Plain Vanilla ASCII, which can be sent via plain email— and one in 8-bit format, which includes higher order characters— which requires a binary transfer, or sent as email attachment and may require more specialized programs to display the accents. This is the 8-bit version.</p>
+                  <p>This book content was graciously contributed by the Gutenberg Projekt-DE.<lb/>That project is reachable at the web site http://gutenberg.spiegel.de/.<lb/>
+                  </p>
+                  <p>Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE" zur Verfügung gestellt. Das Projekt ist unter der Internet-Adresse http://gutenberg.spiegel.de/ erreichbar.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
