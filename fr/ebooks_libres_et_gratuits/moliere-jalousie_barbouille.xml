@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LA JALOUSIE DU BARBOUILLÉ</title>
+            <author>Molière</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005-12-19T15:46:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-08T03:14:20.746877598</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                            
+      <body>
+         <author>Molière</author>
+         <p>Jean-Baptiste Poquelin<lb/>dit MOLIÈRE</p>
+         <div type="div1">
+            <head>La Jalousie du Barbouillé</head>
+            <subtitle>
+               <hi rend="bold">Comédie</hi>Manuscrit découvert au XVIII<hi rend="sup">e</hi>  siècle par Jean-Baptiste<lb/>Rousseau et publié pour la première fois en 1819.</subtitle>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491796"/>Acteurs<ptr type="bookmark-end" target="#id___RefHeading___Toc124491796"/>
+               </head>
+               <p rend="center">
+                  <hi rend="color(#800000)bold">Le Barbouillé</hi>, mari d’<hi rend="color(#800000)bold">Angélique</hi>.</p>
+               <p rend="center">
+                  <hi rend="color(#800000)bold">Le Docteur.</hi>
+               </p>
+               <p rend="center">
+                  <hi rend="color(#800000)bold">Angélique</hi>, fille de <hi rend="color(#800000)bold">Gorgibus</hi>.</p>
+               <p rend="center">
+                  <hi rend="color(#800000)bold">Valère</hi>, amant d’<hi rend="color(#800000)bold">Angélique</hi>.</p>
+               <p rend="center">
+                  <hi rend="color(#800000)bold">Cathau</hi>, suivante d’<hi rend="color(#800000)bold">Angélique</hi>.</p>
+               <p rend="center">
+                  <hi rend="color(#800000)bold">Gorgibus</hi>, père d’<hi rend="color(#800000)bold">Angélique</hi>.</p>
+               <p rend="center">
+                  <hi rend="color(#800000)bold">Villebrequin.</hi>
+               </p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491797"/>Scène I<ptr type="bookmark-end" target="#id___RefHeading___Toc124491797"/>
+               </head>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Il faut avouer que je suis le plus malheureux de tous les hommes. J’ai une femme qui me fait enrager : au lieu de me donner du soulagement et de faire les choses à mon souhait, elle me fait donner au diable vingt fois le jour ; au lieu de se tenir à la maison, elle aime la promenade, la bonne chère, et fréquente je ne sais quelle sorte de gens. Ah ! pauvre Barbouillé, que tu es misérable ! Il faut pourtant la punir. Si je la tuais… L’invention ne vaut rien, car tu serais pendu. Si tu la faisais mettre en prison… La carogne en sortirait avec son passe-partout. Que diable faire donc ? Mais voilà Monsieur le Docteur qui passe par ici : il faut que je lui demande un bon conseil sur ce que je dois faire.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491798"/>Scène II<ptr type="bookmark-end" target="#id___RefHeading___Toc124491798"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Le Docteur</hi>, <hi rend="color(#800000)bold">Le Barbouillé</hi>
+               </p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Je m’en allais vous chercher pour vous faire une prière sur une chose qui m’est d’importance.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Il faut que tu sois bien mal appris, bien lourdaud, et bien mal morigéné, mon ami, puisque tu m’abordes sans ôter ton chapeau, sans observer <hi rend="italic">rationem loci, temporis et personae</hi>. Quoi ? débuter d’abord par un discours mal digéré, au lieu de dire : <hi rend="italic">Salve, vel Salvus sis, Doctor Doctorum eruditissime !</hi>
+               </p>
+               <p>Hé ! pour qui me prends-tu, mon ami ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Ma foi, excusez-moi : c’est que j’avais l’esprit en écharpe, et je ne songeais pas à ce que je faisais ; mais je sais bien que vous êtes galant homme.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Sais-tu bien d’où vient le mot de <hi rend="italic">galant homme</hi> ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Qu’il vienne de Villejuif ou d’Aubervilliers, je ne m’en soucie guère.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Sache que le mot de <hi rend="italic">galant homme</hi> vient d’<hi rend="italic">élégant</hi> ; prenant le <hi rend="italic">g</hi> et l’<hi rend="italic">a</hi> de la dernière syllabe, cela fait <hi rend="italic">ga</hi>, et puis prenant <hi rend="italic">l</hi>, ajoutant un <hi rend="italic">a</hi> et les deux dernières lettres, cela fait <hi rend="italic">galant</hi>, et puis ajoutant <hi rend="italic">homme</hi>, cela fait <hi rend="italic">galant</hi> 
+                  <hi rend="italic">homme</hi>. Mais encore pour qui me prends-tu ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Je vous prends pour un docteur. Or çà, parlons un peu de l’affaire que je vous veux proposer. Il faut que vous sachiez…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Sache auparavant que je ne suis pas seulement un docteur, mais que je suis une, deux, trois, quatre, cinq, six, sept, huit, neuf, et dix fois docteur :</p>
+               <p>1° Parce que, comme l’unité est la base, le fondement et le premier de tous les nombres, aussi, moi, je suis le premier de tous les docteurs, le docte des doctes.</p>
+               <p>2° Parce qu’il y a deux facultés nécessaires pour la parfaite connaissance de toutes choses : le sens et l’entendement ; et comme je suis tout sens et tout entendement, je suis deux fois docteur.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>D’accord. C’est que…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>3° Parce que le nombre de trois est celui de la perfection, selon Aristote ; et comme je suis parfait, et que toutes mes productions le sont aussi, je suis trois fois docteur.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Hé bien ! Monsieur le Docteur…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>4° Parce que la philosophie a quatre parties : la logique, morale, physique et métaphysique ; et comme je les possède toutes quatre, et que je suis parfaitement versé en icelles, je suis quatre fois docteur.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Que diable ! je n’en doute pas. Écoutez-moi donc.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>5° Parce qu’il y a cinq universelles : le genre, l’espèce, la différence, le propre et l’accident, sans la connaissance desquels il est impossible de faire aucun bon raisonnement ; et comme je m’en sers avec avantage, et que j’en connais l’utilité, je suis cinq fois docteur.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Il faut que j’aie bonne patience.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>6° Parce que le nombre de six est le nombre du travail ; et comme je travaille incessamment pour ma gloire, je suis six fois docteur.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Ho ! parle tant que tu voudras.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>7° Parce que le nombre de sept est le nombre de la félicité ; et comme je possède une parfaite connaissance de tout ce qui peut rendre heureux, et que je le suis en effet par mes talents, je me sens obligé de dire de moi-même : <hi rend="italic">O ter quatuorque beatum !</hi>
+               </p>
+               <p>8° Parce que le nombre de huit est le nombre de la justice, à cause de l’égalité qui se rencontre en lui, et que la justice et la prudence avec laquelle je mesure et pèse toutes mes actions me rendent huit fois docteur.</p>
+               <p>9° Parce qu’il y a neuf Muses, et que je suis également chéri d’elles.</p>
+               <p>10° Parce que, comme on ne peut passer le nombre de dix sans faire une répétition des autres nombres, et qu’il est le nombre universel, aussi, aussi, quand on m’a trouvé, on a trouvé le docteur universel : je contiens en moi tous les autres docteurs. Ainsi tu vois par des raisons plausibles, vraies, démonstratives et convaincantes, que je suis une, deux, trois, quatre, cinq, six, sept, huit, neuf, et dix fois docteur.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Que diable est ceci ? je croyais trouver un homme bien savant, qui me donnerait un bon conseil, et je trouve un ramoneur de cheminée qui, au lieu de me parler, s’amuse à jouer à la mourre. Un, deux, trois, quatre, ha, ha, ha ! – Oh bien ! ce n’est pas cela : c’est que je vous prie de m’écouter, et croyez que je ne suis pas un homme à vous faire perdre vos peines, et que si vous me satisfaisiez sur ce que je veux de vous, je vous donnerai ce que vous voudrez ; de l’argent, si vous en voulez.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Hé ! de l’argent.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Oui, de l’argent, et toute autre chose que vous pourriez demander.</p>
+               <p>
+                  <hi rend="color(#800000)bold">Le Docteur</hi>
+                  <hi rend="color(#800000)italic">, troussant sa robe derrière son cul.</hi>
+               </p>
+               <p>Tu me prends donc pour un homme à qui l’argent fait tout faire, pour un homme attaché à l’intérêt, pour une âme mercenaire ? Sache, mon ami, que quand tu me donnerais une bourse pleine de pistoles, et que cette bourse serait dans une riche boîte, cette boîte dans un étui précieux, cet étui dans un coffret admirable, ce coffret dans un cabinet curieux, ce cabinet dans une chambre magnifique, cette chambre dans un appartement agréable, cet appartement dans un château pompeux, ce château dans une citadelle incomparable, cette citadelle dans une ville célèbre, cette ville dans une île fertile, cette île dans une province opulente, cette province dans une monarchie florissante, cette monarchie dans tout le monde ; et que tu me donnerais le monde où serait cette monarchie florissante, où serait cette province opulente, où serait cette île fertile, où serait cette ville célèbre, où serait cette citadelle incomparable, où serait ce château pompeux, où serait cet appartement agréable, où serait cette chambre magnifique, où serait ce cabinet curieux, où serait ce coffret admirable, où serait cet étui précieux, où serait cette riche boîte dans laquelle serait enfermée la bourse pleine de pistoles, que je me soucierais aussi peu de ton argent et de toi que de cela.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Ma foi, je m’y suis mépris : à cause qu’il est vêtu comme un médecin, j’ai cru qu’il lui fallait parler d’argent ; mais puisqu’il n’en veut point, il n’y a rien plus aisé que de le contenter. Je m’en vais courir après lui.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491799"/>Scène III<ptr type="bookmark-end" target="#id___RefHeading___Toc124491799"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Angélique</hi>, <hi rend="color(#800000)bold">Valère</hi>, <hi rend="color(#800000)bold">Cathau</hi>
+               </p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Monsieur, je vous assure que vous m’obligez beaucoup de me tenir quelquefois compagnie : mon mari est si mal bâti, si débauché, si ivrogne, que ce m’est un supplice d’être avec lui, et je vous laisse à penser quelle satisfaction on peut avoir d’un rustre comme lui.</p>
+               <p rend="color(#800000)bold">Valère</p>
+               <p>Mademoiselle, vous me faites trop d’honneur de me vouloir souffrir, et je vous promets de contribuer de tout mon pouvoir à votre divertissement ; et que, puisque vous témoignez que ma compagnie ne vous est point désagréable, je vous ferai connaître combien j’ai de joie de la bonne nouvelle que vous m’apprenez, par mes empressements.</p>
+               <p rend="color(#800000)bold">Cathau</p>
+               <p>Ah ! changez de discours : voyez porte-guignon qui arrive.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491800"/>Scène IV<ptr type="bookmark-end" target="#id___RefHeading___Toc124491800"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Le Barbouillé</hi>, <hi rend="color(#800000)bold">Valère</hi>, <hi rend="color(#800000)bold">Angélique</hi>, <hi rend="color(#800000)bold">Cathau</hi>
+               </p>
+               <p rend="color(#800000)bold">Valère</p>
+               <p>Mademoiselle, je suis au désespoir de vous apporter de si méchantes nouvelles ; mais aussi bien les auriez-vous apprises de quelque autre : et puisque votre frère est fort malade…</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Monsieur, ne m’en dites pas davantage ; je suis votre servante, et vous rends grâces de la peine que vous avez prise.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Ma foi, sans aller chez le notaire, voilà le certificat de mon cocuage. Ha ! ha ! Madame la carogne, je vous trouve avec un homme, après toutes les défenses que je vous ai faites, et vous me voulez envoyer de Gemini en Capricorne !</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Hé bien ! faut-il gronder pour cela ? Ce Monsieur vient de m’apprendre que mon frère est bien malade : où est le sujet de querelles ?</p>
+               <p rend="color(#800000)bold">Cathau</p>
+               <p>Ah ! le voilà venu : je m’étonnais bien si nous aurions longtemps du repos.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Vous vous gâteriez, par ma foi, toutes deux, Mesdames les carognes ; et toi, Cathau, tu corromps ma femme : depuis que tu la sers, elle ne vaut pas la moitié de ce qu’elle valait.</p>
+               <p rend="color(#800000)bold">Cathau</p>
+               <p>Vraiment oui, vous nous la baillez bonne.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Laisse là cet ivrogne ; ne vois-tu pas qu’il est si soûl qu’il ne sait ce qu’il dit ?</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491801"/>Scène V<ptr type="bookmark-end" target="#id___RefHeading___Toc124491801"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Gorgibus</hi>, <hi rend="color(#800000)bold">Villebrequin</hi>, <hi rend="color(#800000)bold">Angélique</hi>, <hi rend="color(#800000)bold">Cathau</hi>, <hi rend="color(#800000)bold">Le Barbouillé</hi>
+               </p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Ne voilà pas encore mon maudit gendre qui querelle ma fille ?</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Il faut savoir ce que c’est.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Hé quoi ? toujours se quereller ! vous n’aurez point la paix dans votre ménage ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Cette coquine-là m’appelle ivrogne. Tiens, je suis bien tenté de te bailler une quinte major, en présence de tes parents.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Je dédonne au diable l’escarcelle, si vous l’aviez fait.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Mais aussi c’est lui qui commence toujours à…</p>
+               <p rend="color(#800000)bold">Cathau</p>
+               <p>Que maudite soit l’heure que vous avez choisi ce grigou !…</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Allons, taisez-vous, la paix !</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491802"/>Scène VI<ptr type="bookmark-end" target="#id___RefHeading___Toc124491802"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Le Docteur</hi>, <hi rend="color(#800000)bold">Villebrequin</hi>, <hi rend="color(#800000)bold">Gorgibus</hi>, <hi rend="color(#800000)bold">Cathau</hi>, <hi rend="color(#800000)bold">Angélique</hi>, <hi rend="color(#800000)bold">Le Barbouillé</hi>
+               </p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Qu’est ceci ? quel désordre ! quelle querelle ! quel grabuge ! quel vacarme ! quel bruit ! quel différend ! quelle combustion ! Qu’y a-t-il, Messieurs ? Qu’y a-t-il ? Qu’y a-t-il ? Çà, çà, voyons un peu s’il n’y a pas moyen de vous mettre d’accord, que je sois votre pacificateur, que j’apporte l’union chez vous.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>C’est mon gendre et ma fille qui ont eu bruit ensemble.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Et qu’est-ce que c’est ? voyons, dites-moi un peu la cause de leur différend.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Monsieur…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Mais en peu de paroles.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Oui-da. Mettez donc votre bonnet.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Savez-vous d’où vient le mot bonnet ?</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Nenni.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Cela vient de <hi rend="italic">bonum est</hi>, « bon est, voilà qui est bon », parce qu’il garantit des catarrhes et fluxions.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Ma foi, je ne savais pas cela.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Dites donc vite cette querelle.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Voici ce qui est arrivé…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Je ne crois pas que vous soyez homme à me tenir longtemps, puisque je vous en prie. J’ai quelques affaires pressantes qui m’appellent à la ville ; mais pour remettre la paix dans votre famille, je veux bien m’arrêter un moment.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>J’aurai fait en un moment.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Soyez donc bref.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Voilà qui est fait incontinent.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Il faut avouer, Monsieur Gorgibus, que c’est une belle qualité que de dire les choses en peu de paroles, et que les grands parleurs, au lieu de se faire écouter, se rendent le plus souvent si importuns qu’on ne les entend point : <hi rend="italic">Virtutem primam esse puta compescere linguam</hi>. Oui, la plus belle qualité d’un honnête homme, c’est de parler peu.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Vous saurez donc…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Socrates recommandait trois choses fort soigneusement à ses disciples : la retenue dans les actions, la sobriété dans le manger, et de dire les choses en peu de paroles. Commencez donc, Monsieur Gorgibus.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>C’est ce que je veux faire.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>En peu de mots, sans façon, sans vous amuser à beaucoup de discours, tranchez-moi d’un apophtegme, vite, vite, Monsieur Gorgibus, dépêchons, évitez la prolixité.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Laissez-moi donc parler.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Monsieur Gorgibus, touchez là : vous parlez trop ; il faut que quelque autre me dise la cause de leur querelle.</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Monsieur le Docteur, vous saurez que…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Vous êtes un ignorant, un indocte, un homme ignare de toutes les bonnes disciplines, un âne en bon français. Hé quoi ? vous commencez la narration sans avoir fait un mot d’exorde ? Il faut que quelque autre me conte le désordre. Mademoiselle, contez-moi un peu le détail de ce vacarme.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Voyez-vous bien là mon gros coquin, mon sac à vin de mari ?</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Doucement, s’il vous plaît : parlez avec respect de votre époux, quand vous êtes devant la moustache d’un docteur comme moi.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Ah ! vraiment oui, docteur ! Je me moque bien de vous et de votre doctrine, et je suis docteur quand je veux.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Tu es docteur quand tu veux, mais je pense que tu es un plaisant docteur. Tu as la mine de suivre fort ton caprice : des parties d’oraison, tu n’aimes que la conjonction ; des genres, le masculin ; des déclinaisons, le génitif ; de la syntaxe, <hi rend="italic">mobile cum fixo</hi> ; et enfin de la quantité, tu n’aimes que le dactyle, <hi rend="italic">quia constat ex una longa et duabus brevibus</hi>. Venez çà, vous, dites-moi un peu quelle est la cause, le sujet de votre combustion.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Monsieur le Docteur…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Voilà qui est bien commencé : « Monsieur le Docteur ! » ce mot de docteur a quelque chose de doux à l’oreille, quelque chose plein d’emphase : « Monsieur le Docteur ! »</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>À la mienne volonté…</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Voilà qui est bien : « à la mienne volonté ! » La volonté présuppose le souhait, le souhait présuppose des moyens pour arriver à ses fins, et la fin présuppose un objet : voilà qui est bien : « à la mienne volonté ! »</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>J’enrage.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Ôtez-moi ce mot : « j’enrage » ; voilà un terme bas et populaire.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Hé ! Monsieur le Docteur, écoutez-moi, de grâce.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>
+                  <hi rend="italic">Audi, quaeso</hi>, aurait dit Ciceron.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Oh ! ma foi, si se rompt, si se casse, ou si se brise, je ne m’en mets guère en peine ; mais tu m’écouteras, ou je te vais casser ton museau doctoral ; et que diable donc est ceci ?</p>
+               <p>
+                  <hi rend="color(#800000)italic">(Le Barbouillé, Angélique, Gorgibus, Cathau, Villebrequin parlent tous à la fois, voulant dire la cause de la querelle, et le Docteur aussi, disant que la paix est une belle chose, et font un bruit confus de leurs voix ; et pendant tout le bruit, le Barbouillé attache le Docteur par le pied, et le fait tomber ; le Docteur se doit laisser tomber sur le dos ; le Barbouillé l’entraîne par la corde qu’il lui a attachée au pied, et, en l’entraînant, le Docteur doit toujours parler, et compter par ses doigts toutes ses raisons, comme s’il n’était point à terre, alors qu’il ne paraît plus.)</hi>
+               </p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Allons, ma fille, retirez-vous chez vous, et vivez bien avec votre mari.</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Adieu, serviteur et bonsoir.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491803"/>Scène VII<ptr type="bookmark-end" target="#id___RefHeading___Toc124491803"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Valère</hi>, <hi rend="color(#800000)bold">La Vallée</hi>, <hi rend="color(#800000)bold">Angélique</hi>
+                  <hi rend="color(#800000)italic">  s’en va</hi>.</p>
+               <p rend="color(#800000)bold">Valère</p>
+               <p>Monsieur, je vous suis obligé du soin que vous avez pris, et je vous promets de me rendre à l’assignation que vous me donnez, dans une heure.</p>
+               <p rend="color(#800000)bold">La Vallée</p>
+               <p>Cela ne peut se différer ; et si vous tardez un quart d’heure, le bal sera fini dans un moment, et vous n’aurez pas le bien d’y voir celle que vous aimez, si vous n’y venez tout présentement.</p>
+               <p rend="color(#800000)bold">Valère</p>
+               <p>Allons donc ensemble de ce pas.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491804"/>Scène VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc124491804"/>
+               </head>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Cependant que mon mari n’y est pas, je vais faire un tour à un bal que donne une de mes voisines. Je serai revenue auparavant lui, car il est quelque part au cabaret : il ne s’apercevra pas que je suis sortie. Ce maroufle-là me laisse toute seule à la maison, comme si j’étais son chien.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491805"/>Scène IX<ptr type="bookmark-end" target="#id___RefHeading___Toc124491805"/>
+               </head>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Je savais bien que j’aurais raison de ce diable de Docteur, et de toute sa fichue doctrine. Au diable l’ignorant ! j’ai bien renvoyé toute la science par terre. Il faut pourtant que j’aille un peu voir si notre bonne ménagère m’aura fait à souper.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491806"/>Scène X<ptr type="bookmark-end" target="#id___RefHeading___Toc124491806"/>
+               </head>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Que je suis malheureuse ! j’ai été trop tard, l’assemblée est finie : je suis arrivée justement comme tout le monde sortait ; mais il n’importe, ce sera pour une autre fois. Je m’en vais cependant au logis comme si de rien n’était. Mais la porte est fermée. Cathau ! Cathau !</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491807"/>Scène XI<ptr type="bookmark-end" target="#id___RefHeading___Toc124491807"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Le Barbouillé</hi>, <hi rend="color(#800000)italic">à la fenêtre</hi>. <hi rend="color(#800000)bold">Angélique</hi>
+               </p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Cathau, Cathau ! Hé bien ! qu’a-t-elle fait, Cathau ? et d’où venez-vous, Madame la carogne, à l’heure qu’il est, et par le temps qu’il fait ?</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>D’où je viens ? ouvre-moi seulement, et je te le dirai après.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Oui ? Ah ! ma foi, tu peux aller coucher d’où tu viens, ou, si tu l’aimes mieux, dans la rue : je n’ouvre point à une coureuse comme toi. Comment, diable ! être toute seule à l’heure qu’il est ! Je ne sais si c’est imagination, mais mon front m’en paraît plus rude de moitié.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Hé bien ! pour être toute seule, qu’en veux-tu dire ? Tu me querelles quand je suis en compagnie : comment faut-il donc faire ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Il faut être retiré à la maison, donner ordre au souper, avoir soin du ménage, des enfants ; mais sans tant de discours inutiles, adieu, bonsoir, va-t’en au diable et me laisse en repos.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Tu ne veux pas m’ouvrir ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Non, je n’ouvrirai pas.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Hé ! mon pauvre petit mari, je t’en prie, ouvre-moi, mon cher petit coeur !</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Ah, crocodile ! ah, serpent dangereux ! tu me caresses pour me trahir.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Ouvre, ouvre donc !</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Adieu ! <hi rend="italic">Vade retro, Satanas</hi>.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Quoi ? tu ne m’ouvriras point ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Non.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Tu n’as point de pitié de ta femme, qui t’aime tant ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Non, je suis inflexible : tu m’as offensé, je suis vindicatif comme tous les diables, c’est-à-dire bien fort ; je suis inexorable.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Sais-tu bien que si tu me pousses à bout, et que tu me mettes en colère, je ferai quelque chose dont tu te repentiras ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Et que feras-tu, bonne chienne ?</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Tiens, si tu ne m’ouvres, je m’en vais me tuer devant la porte ; mes parents, qui sans doute viendront ici auparavant de se coucher, pour savoir si nous sommes bien ensemble, me trouveront morte, et tu seras pendu.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Ah, ah, ah, ah, la bonne bête ! et qui y perdra le plus de nous deux ? Va, va, tu n’es pas si sotte que de faire ce coup-là.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Tu ne le crois donc pas ? Tiens, tiens, voilà mon couteau tout prêt : si tu ne m’ouvres, je m’en vais tout à cette heure m’en donner dans le coeur.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Prends garde, voilà qui est bien pointu.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Tu ne veux donc pas m’ouvrir ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Je t’ai déjà dit vingt fois que je n’ouvrirai point ; tue-toi, crève, va-t’en au diable, je ne m’en soucie pas.</p>
+               <p>
+                  <hi rend="color(#800000)bold">Angélique</hi>
+                  <hi rend="color(#800000)italic">, faisant semblant de se frapper</hi>
+               </p>
+               <p>Adieu donc !… Ay ! je suis morte.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Serait bien assez sotte pour avoir fait ce coup-là ? Il faut que je descende avec la chandelle pour aller voir.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Il faut que je t’attrape. Si je peux entrer dans la maison subtilement, cependant que tu me chercheras, chacun aura bien son tour.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Hé bien ! ne savais pas bien qu’elle n’était pas si sotte ? Elle est morte, et si elle court comme le cheval de Pacolet. Ma foi, elle m’avait fait peur tout de bon. Elle a bien fait de gagner au pied ; car si je l’eusse trouvée en vie, après m’avoir fait cette frayeur-là, je lui aurais apostrophé cinq ou six clystères de coups de pied dans le cul, pour lui apprendre à faire la bête. Je m’en vais me coucher cependant. Oh ! oh ! je pense que le vent a fermé la porte. Hé ! Cathau, Cathau, ouvre-moi.</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Cathau, Cathau ! Hé bien ! qu’a-t-elle fait, Cathau ? Et d’où venez-vous, Monsieur l’ivrogne ? Ah ! vraiment, va, mes parents, qui vont venir dans un moment, sauront tes vérités. Sac à vin infâme, tu ne bouges du cabaret, et tu laisses une pauvre femme avec des petits enfants, sans savoir s’ils ont besoin de quelque chose, à croquer le marmot tout le long du jour.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Ouvre vite, diablesse que tu es, ou je te casserai la tête.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491808"/>Scène XII<ptr type="bookmark-end" target="#id___RefHeading___Toc124491808"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Gorgibus</hi>, <hi rend="color(#800000)bold">Villebrequin</hi>, <hi rend="color(#800000)bold">Angélique</hi>, <hi rend="color(#800000)bold">Le Barbouillé</hi>
+               </p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Qu’est ceci ? toujours de la dispute, de la querelle et de la dissension !</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Hé quoi ? vous ne serez jamais d’accord ?</p>
+               <p rend="color(#800000)bold">Angélique</p>
+               <p>Mais voyez un peu, le voilà qui est soûl, et revient, à l’heure qu’il est, faire un vacarme horrible ; il me menace.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Mais aussi ce n’est pas là l’heure de revenir. Ne devriez-vous pas, comme un bon père de famille, vous retirer de bonne heure, et bien vivre avec votre femme ?</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Je me donne au diable, si j’ai sorti de la maison, et demandez plutôt à ces Messieurs qui sont là-bas dans le parterre ; c’est elle qui ne fait que de revenir. Ah ! que l’innocence est opprimée !</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Çà, çà ; allons, accordez-vous ; demandez-lui pardon.</p>
+               <p rend="color(#800000)bold">Le Barbouillé</p>
+               <p>Moi, pardon ! j’aimerais mieux que le diable l’eût emportée. Je suis dans une colère que je ne me sens pas.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Allons, ma fille, embrassez votre mari, et soyez bons amis.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491809"/>Scène XIII et dernière.<ptr type="bookmark-end" target="#id___RefHeading___Toc124491809"/>
+               </head>
+               <p>
+                  <hi rend="color(#800000)bold">Le Docteur</hi>, <hi rend="color(#800000)italic">à la fenêtre, en bonnet de nuit et en camisole</hi> : <hi rend="color(#800000)bold">Le Barbouillé</hi>, <hi rend="color(#800000)bold">Villebrequin</hi>, <hi rend="color(#800000)bold">Gorgibus</hi>, <hi rend="color(#800000)bold">Angélique</hi>
+               </p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Hé quoi ? toujours du bruit, du désordre, de la dissension, des querelles, des débats, des différends, des combustions, des altercations éternelles. Qu’est-ce ? qu’y a-t-il donc ? On ne saurait avoir du repos.</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Ce n’est rien, Monsieur le Docteur ; tout le monde est d’accord.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>À propos d’accord, voulez-vous que je vous lise un chapitre d’Aristote, où il prouve que toutes les parties de l’univers ne subsistent que par l’accord qui est entre elles ?</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Cela est-il bien long ?</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Non, cela n’est pas long : cela contient environ soixante ou quatre-vingts pages.</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Adieu, bonsoir ! nous vous remercions.</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Il n’en est pas de besoin.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Vous ne le voulez pas ?</p>
+               <p rend="color(#800000)bold">Gorgibus</p>
+               <p>Non.</p>
+               <p rend="color(#800000)bold">Le Docteur</p>
+               <p>Adieu donc ! puisqu’ainsi est ; bonsoir ! <hi rend="italic">latine, bona nox</hi>.</p>
+               <p rend="color(#800000)bold">Villebrequin</p>
+               <p>Allons-nous-en souper ensemble, nous autres.</p>
+            </div>
+            <div type="div2" rend="P2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc124491810"/>À propos de cette édition électronique<ptr type="bookmark-end" target="#id___RefHeading___Toc124491810"/>
+               </head>
+               <p rend="center bold">Texte libre de droits.</p>
+               <p rend="center">Corrections, édition, conversion informatique et publication par le groupe :</p>
+               <p rend="center bold italic">Ebooks libres et gratuits</p>
+               <p rend="center">
+                  <ptr target="http://fr.groups.yahoo.com/group/ebooksgratuits"/>
+                  <lb/>
+               </p>
+               <p rend="center">Adresse du site web du groupe :<lb/>
+                  <ptr target="http://www.ebooksgratuits.com/"/>
+               </p>
+               <p rend="center">–</p>
+               <p rend="center bold">Janvier 2006</p>
+               <p rend="center">–</p>
+               <p rend="color(#000000)bold">– Source :</p>
+               <p>Biblio.tic</p>
+               <p>
+                  <ptr target="http://www.amiens.iufm.fr/amiens/cahier/biblio/default.htm"/>
+               </p>
+               <p rend="color(#000000)bold">– Élaboration de ce livre électronique :</p>
+               <p>Les membres de <hi rend="italic">Ebooks libres et gratuits</hi> qui ont participé à l’élaboration de ce livre, sont : Jpeg, Coolmicro et Fred</p>
+               <p rend="color(#000000)bold">– Dispositions :</p>
+               <p>Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, <hi rend="underline">à une fin non commerciale et non professionnelle</hi>. <hi rend="bold">Tout lien vers notre site est bienvenu…</hi>
+               </p>
+               <p rend="color(#000000)bold">– Qualité :</p>
+               <p>Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l’original. Nous rappelons que c’est un travail d’amateurs non rétribués et que nous essayons de promouvoir la culture littéraire avec de maigres moyens.</p>
+               <p rend="center">
+                  <hi rend="color(#000000)italic">Votre aide est la bienvenue !</hi>
+               </p>
+               <p rend="center">VOUS POUVEZ NOUS AIDER À FAIRE CONNAÎTRE CES CLASSIQUES LITTÉRAIRES.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

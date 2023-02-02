@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Corbeau   </title>
+            <author>Prosper Mérimée</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003-06-06T23:57:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-07T17:30:22.460546010</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Prosper Mérimée</author>
+         <div type="div1">
+            <head>Il viccolo di Madama Lucrezia</head>
+            <p rend="end">Écrit en 1846.<lb/>Publication posthume en 1873.</p>
+            <p>J’avais vingt-trois ans quand je partis pour Rome. Mon père me donna une douzaine de lettres de recommandation, dont une seule, qui n’avait pas moins de quatre pages, était cachetée. Il y avait sur l’adresse : « A la marquise Aldobrandi ».</p>
+            <p>– Tu m’écriras, me dit mon père, si la marquise est encore belle.</p>
+            <p>Or, depuis mon enfance, je voyais dans son cabinet, suspendu à la cheminée, le portrait en miniature d’une fort jolie femme, la tête poudrée et couronnée de lierre, avec une peau de tigre sur l’épaule. Sur le fond, on lisait : <hi rend="italic">Roma 18...</hi> Le costume me paraissant singulier, il m’était arrivé bien des fois de demander quelle était cette dame. On me répondait :</p>
+            <p>– C’est une bacchante.</p>
+            <p>Mais cette réponse ne me satisfaisait guère ; même je soupçonnais un secret ; car, à cette question si simple, ma mère pinçait les lèvres, et mon père prenait un air sérieux.</p>
+            <p>Cette fois, en me donnant la lettre cachetée, il regarda le portrait à la dérobée ; j’en fis de même involontairement, et l’idée me vint que cette bacchante poudrée pouvait bien être la marquise Aldobrandi. Comme je commençais à comprendre les choses de ce monde, je tirai toute sorte de conclusions des mines de ma mère et du regard de mon père.</p>
+            <p>Arrivé à Rome, la première lettre que j’allai rendre fut celle de la marquise. Elle demeurait dans un beau palais près de la place Saint-Marc.</p>
+            <p>Je donnai ma lettre et ma carte à un domestique en livrée jaune qui m’introduisit dans un vaste salon, sombre et triste, assez mal meublé. Mais, dans tous les palais de Rome, il y a des tableaux de maîtres. Ce salon en contenait un assez grand nombre, dont plusieurs fort remarquables.</p>
+            <p>Je distinguai tout d’abord un portrait de femme qui me parut être un Léonard de Vinci. A la richesse du cadre, au chevalet de palissandre sur lequel il était posé, on ne pouvait douter que ce ne fût le morceau capital de la collection. Comme la marquise ne venait pas, j’eus tout le loisir de l’examiner. Je le portai même près d’une fenêtre afin de le voir sous un jour plus favorable. C’était évidemment un portrait, non une tête de fantaisie, car on n’invente pas de ces physionomies-là : une belle femme avec les lèvres un peu grosses, les sourcils presque joints, le regard altier et caressant tout à la fois. Dans le fond, on voyait son écusson, surmonté d’une couronne ducale. Mais ce qui me frappa le plus, c’est que le costume, à la poudre près, était le même que celui de la bacchante de mon père.</p>
+            <p>Je tenais encore le portrait à la main quand la marquise entra.</p>
+            <p>– Juste comme son père ! s’écria-t-elle en s’avançant vers moi. Ah ! les Français ! les Français ! A peine arrivé, et déjà il s’empare de <hi rend="italic">Madame Lucrèce</hi>.</p>
+            <p>Je m’empressai de faire mes excuses pour mon indiscrétion, et me jetai dans des éloges à perte de vue sur le chef-d’œuvre de Léonard que j’avais eu la témérité de déplacer.</p>
+            <p>– C’est en effet un Léonard, dit la marquise, et c’est le portrait de la trop fameuse Lucrèce Borgia. De tous mes tableaux, c’est celui que votre père admirait le plus... Mais, bon Dieu ! quelle ressemblance ! Je crois voir votre père, comme il était il y a vingt-cinq ans. Comment se porte-t-il ? Que fait-il ? Ne viendra-t-il pas nous voir un jour à Rome ?</p>
+            <p>Bien que la marquise ne portât ni poudre ni peau de tigre, du premier coup d’œil, par la force de mon génie, je reconnus en elle la bacchante de mon père. Quelque vingt-cinq ans n’avaient pu faire disparaître entièrement les traces d’une grande beauté. Son expression avait changé seulement, comme sa toilette. Elle était tout en noir, et son triple menton, son sourire grave, son air solennel et radieux, m’avertissaient qu’elle était devenue dévote.</p>
+            <p>Elle me reçut, d’ailleurs, on ne peut plus affectueusement. En trois mots, elle m’offrit sa maison, sa bourse, ses amis, parmi lesquels elle me nomma plusieurs cardinaux.</p>
+            <p>– Regardez-moi, dit-elle, comme votre mère...</p>
+            <p>Elle baissa les yeux modestement.</p>
+            <p>– Votre père me charge de veiller sur vous et de vous donner des conseils.</p>
+            <p>Et, pour me prouver qu’elle n’entendait pas que sa mission fût une sinécure, elle commença sur l’heure par me mettre en garde contre les dangers que Rome pouvait offrir à un jeune homme de mon âge, et m’exhorta fort à les éviter. je devais fuir les mauvaises compagnies, les artistes surtout, ne me lier qu’avec les personnes qu’elle me désignerait. Bref, j’eus un sermon en trois points. J’y répondis respectueusement et avec l’hypocrisie convenable.</p>
+            <p>Comme je me levais pour prendre congé :</p>
+            <p>– Je regrette, me dit-elle, que mon fils le marquis soit en ce moment dans nos terres de la Romagne, mais je veux vous présenter mon second fils, don Ottavio, qui sera bientôt un monsignor. J’espère qu’il vous plaira et que vous deviendrez amis comme vous devez l’être...</p>
+            <p>Elle ajouta précipitamment :</p>
+            <p>– Car vous êtes à peu près du même âge, et c’est un garçon doux et rangé comme vous.</p>
+            <p>Aussitôt, elle envoya chercher don Ottavio. Je vis un grand jeune homme pâle, l’air mélancolique, toujours les yeux baissés, sentant déjà son cafard.</p>
+            <p>Sans lui laisser le temps de parler, la marquise me fit en son nom toutes les offres de service les plus aimables. Il confirmait par de grandes révérences toutes les phrases de sa mère, et il fut convenu que, dès le lendemain, il irait me prendre pour faire des courses par la ville, et me ramènerait dîner en famille au palais Aldobrandi.</p>
+            <p>J’avais à peine fait une vingtaine de pas dans la rue, lorsque quelqu’un cria derrière moi d’une voix impérieuse :</p>
+            <p>– Où donc allez-vous ainsi seul à cette heure, don Ottavio ?</p>
+            <p>Je me retournai, et vis un gros abbé qui me considérait des pieds à la tête en écarquillant les yeux.</p>
+            <p>– Je ne suis pas don Ottavio, lui dis-je.</p>
+            <p>L’abbé, me saluant jusqu’à terre, se confondit en excuses, et, un moment après, je le vis entrer dans le palais Aldobrandi. Je poursuivis mon chemin, médiocrement flatté d’avoir été pris pour un monsignor en herbe.</p>
+            <p>Malgré les avertissements de la marquise, peut-être même à cause de ses avertissements, je n’eus rien de plus pressé que de découvrir la demeure d’un peintre de ma connaissance, et je passai une heure avec lui dans son atelier à causer des moyens d’amusements, licites ou non, que Rome pouvait me fournir. Je le mis sur le chapitre des Aldobrandi.</p>
+            <p>La marquise, me dit-il, après avoir été fort légère, s’était jetée dans la haute dévotion, quand elle eut reconnu que l’âge des conquêtes était passé pour elle. Son fils aîné était une brute qui passait son temps à chasser et à encaisser l’argent que lui apportaient les fermiers de ses vastes domaines. On était en train d’abrutir le second fils, don Ottavio, dont on voulait faire un jour un cardinal. En attendant, il était livré aux jésuites. Jamais il ne sortait seul. Défense de regarder une femme, ou de faire un pas sans avoir à ses talons un abbé qui l’avait élevé pour le service de Dieu, et qui, après avoir été le dernier <hi rend="italic">amico</hi> de la marquise, gouvernait maintenant sa maison avec une autorité à peu près despotique.</p>
+            <p>Le lendemain, don Ottavio, suivi de l’abbé Negroni, le même qui, la veille, m’avait pris pour son pupille, vint me chercher en voiture et m’offrir ses services comme cicérone.</p>
+            <p>Le premier monument où nous nous arrêtâmes était une église. A l’exemple de son abbé, don Ottavio s’y agenouilla, se frappa la poitrine, et fit des signes de croix sans nombre. Après s’être relevé, il me montra les fresques et les statues, et m’en parla en homme de bon sens et de goût. Cela me surprit agréablement. Nous commençâmes à causer et sa conversation me plut. Pendant quelque temps, nous avions parlé italien. Tout à coup, il me dit en français :</p>
+            <p>– Mon gouverneur n’entend pas un mot de votre langue. Parlons français, nous serons plus libres.</p>
+            <p>On eût dit que le changement d’idiome avait transformé ce jeune homme. Rien dans ses discours ne sentait le prêtre. Je croyais entendre un de nos libéraux de province. Je remarquai qu’il débitait tout d’un même ton de voix monotone, et que souvent ce débit contrastait étrangement avec la vivacité de ses expressions. C’était une habitude prise apparemment pour dérouter le Negroni, qui de temps à autre, se faisait expliquer ce que nous disions. Bien entendu que nos traductions étaient des plus libres.</p>
+            <p>Nous vîmes passer un jeune homme en bas violets.</p>
+            <p>– Voilà, me dit don Ottavio, nos patriciens d’aujourd’hui. Infâme livrée ! et ce sera la mienne dans quelques mois ! Quel bonheur, ajouta-t-il après un moment de silence, quel bonheur de vivre dans un pays comme le vôtre ! Si j’étais Français, peut-être un jour deviendrais-je député !</p>
+            <p>Cette noble ambition me donna une forte envie de rire, et, notre abbé s’en étant aperçu, je fus obligé de lui expliquer que nous parlions de l’erreur d’un archéologue qui prenait pour antique une statue de Bernin.</p>
+            <p>Nous revîmes dîner au palais Aldobrandi. Presque aussitôt après le café, la marquise me demanda pardon pour son fils, obligé, par certains devoirs pieux, à se retirer dans son appartement. Je demeurai seul avec elle et l’abbé Negroni, qui, renversé dans un grand fauteuil, dormait du sommeil du juste.</p>
+            <p>Cependant, la marquise m’interrogeait en détail sur mon père, sur Paris, sur une vie passée, sur mes projets pour l’avenir. Elle me parut aimable et bonne, mais un peu trop curieuse et surtout trop préoccupée de mon salut. D’ailleurs, elle parlait admirablement l’italien, et je pris avec elle une bonne leçon de prononciation que je me promis bien de répéter.</p>
+            <p>Je revins souvent la voir. Presque tous les matins, j’allais visiter les antiquités avec son fils et l’éternel Negroni, et, le soir, je dînais avec eux au palais Aldobrandi. La marquise recevait peu de monde, et presque uniquement des ecclésiastiques.</p>
+            <p>Une fois cependant, elle me présenta à une dame allemande, nouvelle convertie et son amie intime. C’était une madame de Strahlenheim, fort belle personne établie depuis longtemps à Rome. Pendant que ces dames causaient entre elles d’un prédicateur renommé, je considérais, à la clarté d’une lampe, le portrait de Lucrèce, quand je crus devoir placer mon mot.</p>
+            <p>– Quels yeux ! m’écriai-je ; on dirait que ces paupières vont remuer !</p>
+            <p>A cette hyperbole un peu prétentieuse que je hasardais pour m’établir en qualité de connaisseur auprès de madame Strahlenheim, elle tressaillit d’effroi et se cacha la figure dans son mouchoir.</p>
+            <p>– Qu’avez-vous, ma chère ? dit la marquise.</p>
+            <p>– Ah ! rien, mais ce que monsieur vient de dire !...</p>
+            <p>On la pressa de questions, et, une fois qu’elle nous eut dit que mon expression lui rappelait une histoire effrayante, elle fut obligée de la raconter.</p>
+            <p>La voici en deux mots :</p>
+            <p>Madame de Strahlenheim avait une belle-sœur nommée Wilhelmine, fiancée à un jeune homme de Westphalie, Julius de Katzenellenbogen, volontaire dans la division du général Kleist. Je suis bien fâché d’avoir à répéter tant de noms barbares mais les histoires merveilleuses n’arrivent jamais qu’à des personnes dont les noms sont difficiles à prononcer.</p>
+            <p>Julius était un charmant garçon rempli de patriotisme et de métaphysique. En partant pour l’armée, il avait donné son portrait à Wilhelmine, et Wilhelmine lui avait donné le sien, qu’il portait toujours sur son cœur. Cela se fait beaucoup en Allemagne.</p>
+            <p>Le 13 septembre 1813, Wilhelmine était à Cassel, vers cinq heures du soir, occupée à tricoter avec sa mère et sa belle-sœur. Tout en travaillant, elle regardait le portrait de son fiancé, placé sur une petite table à ouvrage en face d’elle. Tout à coup, elle pousse un cri horrible, porte la main sur son cœur et s’évanouit. On eut toutes les peines du monde à lui faire reprendre connaissance, et, dès qu’elle put parler :</p>
+            <p>– Julius est mort ! s’écria-t-elle, Julius est tué !</p>
+            <p>Elle affirma, et l’horreur peinte sur tous ses traits prouvait assez sa conviction, qu’elle avait vu le portrait fermer les yeux, et qu’au même instant elle avait senti une douleur atroce, comme si un fer rouge lui traversait le cœur.</p>
+            <p>Chacun s’efforça inutilement de lui démontrer que sa vision n’avait rien de réel et qu’elle n’y devait attacher aucune importante. La pauvre enfant était inconsolable ; elle passa la nuit dans les larmes, et, le lendemain, elle voulut s’habiller de deuil, comme assurée déjà du malheur qui lui avait été révélé.</p>
+            <p>Deux jours après, on reçut la nouvelle de la sanglante bataille de Leipzig. Julius écrivait à sa fiancée un billet daté du 13 à trois heures de l’après-midi. Il n’avait pas été blessé, s’était distingué et venait d’entrer à Leipzig, où il comptait passer la nuit avec le quartier général, éloigné par conséquent de tout danger. Cette lettre si rassurante ne put calmer Wilhelmine, qui, remarquant qu’elle était datée de trois heures, persista à croire que son amant était mort à cinq.</p>
+            <p>L’infortunée ne se trompait pas. On sut bientôt que Julius, chargé de porter un ordre, était sorti de Leipzig à quatre heures et demie, et qu’à trois quarts de lieue de la ville, au delà de l’Elster, un traînard de l’armée ennemie, embusqué dans un fossé, l’avait tué d’un coup de feu. La balle, en lui perçant le cœur, avait brisé le portrait de Whilhelmine.</p>
+            <p>– Et qu’est devenue cette pauvre jeune personne ? demandai-je à madame de Strahlenheim.</p>
+            <p>– Oh ! elle a été bien malade. Elle est mariée maintenant à M. le conseiller de justice de Werner, et, si vous alliez à Dessau, elle vous montrerait le portrait de Julius.</p>
+            <p>– Tout cela se fait par l’entremise du diable, dit l’abbé, qui n’avait dormi que d’un œil pendant l’histoire de madame de Strahlenheim. Celui qui faisait parler les oracles des païens, peut bien faire mouvoir les yeux d’un portait quand bon lui semble. Il n’y a pas vingt ans qu’à Tivoli, un Anglais a été étranglé par une statue.</p>
+            <p>– Par une statue ! m’écriai-je ; et comment cela ?</p>
+            <p>– C’était un milord qui avait fait des fouilles à Tivoli. Il avait trouvé une statue d’impératrice, Agrippine, Messaline,... peu importe. Tant il y a qu’il la fit porter chez lui, et qu’à force de la regarder et de l’admirer, il en devint fou. Tous ces messieurs protestants le sont déjà plus qu’à moitié. Il l’appelait sa femme, sa milady, et l’embrassait, tout de marbre qu’elle était. Il disait que la statue s’animait tous les soirs à son profit. Si bien qu’un matin on trouva mon milord roide mort dans son lit. Eh bien, le croiriez-vous ? Il s’est rencontré un autre Anglais pour acheter cette statue. Moi, j’en aurais fait faire de la chaux.</p>
+            <p>Quand on a entamé une fois le chapitre des aventures surnaturelles, on ne s’arrête plus. Chacun avait son histoire à raconter. Je fis ma partie moi-même dans ce concert de récits effroyables ; en sorte qu’au moment de nous séparer, nous étions tous passablement émus et pénétrés de respect pour le pouvoir du diable.</p>
+            <p>Je regagnai à pied mon logement, et, pour tomber dans la rue du Corso, je pris une petite ruelle tortueuse par où je n’avais point encore passé. Elle était déserte. On ne voyait que de longs murs de jardin, ou quelques chétives maisons dont pas une n’était éclairée. Minuit venait de sonner ; le temps était sombre. J’étais au milieu de la rue, marchant assez vite, quand j’entendis au-dessus de ma tête un petit bruit, un <hi rend="italic">st ! </hi>et, au même instant, une rose tomba à mes pieds. Je levai les yeux, et, malgré l’obscurité, j’aperçus une femme vêtue de blanc, à une fenêtre, le bras étendu vers moi. Nous autres, Français, nous sommes fort avantageux en pays étranger, et nos pères, vainqueurs de l’Europe, nous ont bercés de traditions flatteuses pour l’orgueil national. Je croyais pieusement à l’inflammabilité des dames allemandes, espagnoles et italiennes à la seule vue d’un Français. Bref, à cette époque, j’étais encore bien de mon pays, et, d’ailleurs, la rose ne parlait-elle pas clairement ?</p>
+            <p>– Madame, dis-je à voix basse, en ramassant la rose, vous avez laissé tomber votre bouquet...</p>
+            <p>Mais déjà la femme avait disparu, et la fenêtre s’était fermée sans faire le moindre bruit. Je fis ce que tout autre eût fait à ma place. Je cherchai la porte la plus proche ; elle était à deux pas de la fenêtre ; je la trouvai, et j’attendis qu’on vînt me l’ouvrir. Cinq minutes se passèrent dans un profond silence. Alors, je toussai, puis je grattai doucement ; mais la porte ne s’ouvrit pas. Je l’examinai avec plus d’attention, espérant trouver une clef ou un loquet ; à ma grande surprise, j’y trouvai un cadenas.</p>
+            <p>– Le jaloux n’est donc pas rentré, me dis-je.</p>
+            <p>Je ramassai une petite pierre et la jetai contre la fenêtre. Elle rencontra un contrevent de bois et retomba à mes pieds.</p>
+            <p>– Diable ! pensai-je, les dames romaines se figurent donc qu’on a des échelles dans sa poche ? On ne m’avait pas parlé de cette coutume.</p>
+            <p>J’attendis encore plusieurs minutes tout aussi inutilement. Seulement, il me sembla une ou deux fois voir trembler légèrement le volet, comme si de l’intérieur on eût voulu l’écarter, pour voir dans la rue. Au bout d’un quart d’heure, ma patience étant à bout, j’allumai un cigare, et je poursuivis mon chemin, non sans avoir bien reconnu la situation de la maison au cadenas.</p>
+            <p>Le lendemain, en réfléchissant à cette aventure, je m’arrêtai aux conclusions suivantes : Une jeune dame romaine, probablement d’une grande beauté, m’avait aperçu dans mes courses par la ville, et s’était éprise de mes faibles attraits. Si elle ne m’avait déclaré sa flamme que par le don d’une fleur mystérieuse, c’est qu’une honnête pudeur l’avait retenue, ou bien qu’elle avait été dérangée par la présence de quelque duègne, peut-être par un maudit tuteur comme le Bartolo de Rosine. Je résolus d’établir un siège en règle devant la maison habitée par cette infante.</p>
+            <p>Dans ce beau dessein, je sortis de chez moi après avoir donné à mes cheveux un coup de brosse conquérant. J’avais mis ma redingote neuve et des gants jaunes. En ce costume, le chapeau sur l’oreille, la rose fanée à la boutonnière, je me dirigeai vers la rue dont je ne savais pas encore le nom, mais que je n’eus pas de peine à découvrir. Un écriteau au-dessus d’une madone m’apprit qu’on l’appelait <hi rend="italic">il viccolo di Madama Lucrezia</hi>.</p>
+            <p>Ce nom m’étonna. Aussitôt, je me rappelai le portrait de Léonard de Vinci, et les histoires de pressentiments et de diableries que, la veille, on avait racontées chez la marquise. Puis je pensai qu’il y avait des amours prédestinées dans le ciel. Pourquoi mon objet ne s’appellerait-il pas Lucrèce ? Pourquoi ne ressemblerait-il pas à la Lucrèce de la galerie Aldobrandi ?</p>
+            <p>Il faisait jour, j’étais à deux pas d’une charmante personne et nulle pensée sinistre n’avait part à l’émotion que j’éprouvais.</p>
+            <p>J’étais devant la maison. Elle portait le n° 13. Mauvais augure... Hélas ! elle ne répondait guère à l’idée que je m’en étais faite pour l’avoir vue la nuit. Ce n’était pas un palais, tant s’en faut. Je voyais un enclos de murs noircis par le temps et couverts de mousse, derrière lesquels passaient les branches de quelques arbres à fruits mal échenillés. Dans un angle de l’enclos s’élevait un pavillon à un seul étage, ayant deux fenêtres sur la rue, toutes les deux fermées par de vieux contrevents garnis à l’extérieur de nombreuses barres de fer. La porte était basse, surmontée d’un écusson effacé, fermée comme la veille d’un gros cadenas attaché d’une chaîne. Sur cette porte on lisait, écrit à la craie : <hi rend="italic">Maison à vendre ou à louer</hi>.</p>
+            <p>Pourtant, je ne m’étais pas trompé. De ce côté de la rue, les maisons étaient assez rares pour que toute confusion fût impossible. C’était bien mon cadenas, et, qui plus est, deux feuilles de rose sur le pavé, près de la porte, indiquaient le lieu précis où j’avais reçu la déclaration par signes de ma bien-aimée, et prouvaient qu’on ne balayait guère le devant de sa maison.</p>
+            <p>Je m’adressai à quelques pauvres gens du voisinage pour savoir où logeait le gardien de cette mystérieuse demeure.</p>
+            <p>– Ce n’est pas ici, me répondait-on brusquement.</p>
+            <p>Il semblait que ma question déplût à ceux que j’interrogeais et cela piquait d’autant plus ma curiosité. Allant de porte en porte, je finis par entrer dans une espèce de cave obscure, où se tenait une vieille femme qu’on pouvait soupçonner de sorcellerie, car elle avait un chat noir et faisait cuire je ne sais quoi dans une chaudière.</p>
+            <p>– Vous voulez voir la maison de madame Lucrèce ? dit-elle, c’est moi qui en ai la clef.</p>
+            <p>– Eh bien, montrez-la-moi.</p>
+            <p>– Est-ce que vous voudriez la louer ? demanda-t-elle en souriant d’un air de doute.</p>
+            <p>– Oui, si elle me convient.</p>
+            <p>– Elle ne vous conviendra pas. Mais, voyons, me donnerez-vous un paul si je vous la montre ?</p>
+            <p>– Très volontiers.</p>
+            <p>Sur cette assurance, elle se leva prestement de son escabeau, décrocha de la muraille une clef toute rouillée et me conduisit devant le n° 13.</p>
+            <p>– Pourquoi, lui dis-je, appelle-t-on cette maison, la maison de Lucrèce ?</p>
+            <p>Alors, la vieille en ricanant :</p>
+            <p>– Pourquoi, dit-elle, vous appelle-t-on étranger ? N’est-ce pas parce que vous êtes étranger ?</p>
+            <p>– Bien ; mais qui était cette madame Lucrèce ? Était-ce une dame de Rome ?</p>
+            <p>– Comment ! vous venez à Rome, et vous n’avez pas entendu parler de madame Lucrèce ! Quand nous serons entrés, je vous conterai son histoire. Mais voici bien une autre diablerie ! Je ne sais ce qu’a cette clef, elle ne tourne pas. Essayez vous-même.</p>
+            <p>En effet le cadenas et la clef ne s’étaient pas vus depuis longtemps. Pourtant, au moyen de trois jurons et d’autant de grincements de dents, je parvins à faire tourner la clef ; mais je déchirai mes gants jaunes et me disloquai la paume de la main. Nous entrâmes dans un passage obscur qui donnait accès à plusieurs salles basses.</p>
+            <p>Les plafonds, curieusement lambrissés, étaient couverts de toiles d’araignée sous lesquelles on distinguait à peine quelques traces de dorures. A l’odeur de moisi qui s’exhalait de toutes les pièces, il était évident que, depuis longtemps, elles étaient inhabitées. On n’y voyait pas un seul meuble. Quelques lambeaux de vieux cuir pendaient le long des murs salpêtrés. D’après les sculptures de quelques consoles et la forme des cheminées, je conclus que la maison datait du XV<hi rend="sup">e</hi> siècle, et il est probable qu’autrefois elle avait été décorée avec quelque élégance. Les fenêtres, à petits carreaux, la plupart brisés, donnaient sur le jardin, où j’aperçus un rosier en fleur, avec quelques arbres fruitiers et quantité de brocolis.</p>
+            <p>Après avoir parcouru toutes les pièces du rez-de-chaussée, je montai à l’étage supérieur, où j’avais vu mon inconnue. La vieille essaya de me retenir, en me disant qu’il n’y avait rien à voir et que l’escalier était fort mauvais. Me voyant entêté, elle me suivit, mais avec une répugnance marquée. Les chambres de cet étage ressemblaient fort aux autres ; seulement, elles étaient moins humides ; le plancher et les fenêtres étaient aussi en meilleur état. Dans la dernière pièce où j’entrai, il y avait un large fauteuil en cuir noir, qui, chose étrange, n’était pas couvert de poussière. Je m’y assis, et, le trouvant commode pour écouter une histoire, je priai la vieille de me raconter celle de madame Lucrèce ; mais auparavant, pour lui rafraîchir la mémoire, je lui fis présent de quelques pauls. Elle toussa, se moucha et commença de la sorte :</p>
+            <p>– Du temps des païens, Alexandre étant empereur, il avait une fille belle comme le jour, qu’on appelait madame Lucrèce. Tenez, la voilà !...</p>
+            <p>Je me retournai vivement. La vieille me montrait une console sculptée qui soutenait la maîtresse poutre de la salle. C’était une sirène fort grossièrement exécutée.</p>
+            <p>– Dame, reprit la vieille, elle aimait à s’amuser. Et, comme son père aurait pu y trouver à redire, elle s’était fait bâtir cette maison où nous sommes.</p>
+            <p>« Toutes les nuits, elle descendait du Quirinal et venait ici pour se divertir. Elle se mettait à cette fenêtre, et, quand il passait par la rue un beau cavalier comme vous voilà, monsieur, elle l’appelait ; s’il était bien reçu, je vous le laisse à penser. Mais les hommes sont babillards, au moins quelques-uns, et ils auraient pu lui faire du tort en jasant. Aussi y mettait-elle bon ordre. Quand elle avait dit adieu au galant, ses estafiers se tenaient dans l’escalier par où nous sommes montés. Ils vous le dépêchaient, puis vous l’enterraient dans ces carrés de brocolis. Allez ! on y en a trouvé des ossements, dans ce jardin !</p>
+            <p>« Ce manège-là dura bien quelque temps. Mais voilà qu’un soir son frère, qui s’appelait Sisto Tarquino, passe sous sa fenêtre. Elle ne le reconnaît pas. Elle l’appelle. Il monte. La nuit tous chats sont gris. Il en fut de celui-là comme des autres. Mais il avait oublié son mouchoir, sur lequel il y avait son nom écrit.</p>
+            <p>« Elle n’eut pas plus tôt vu la méchanceté qu’ils avaient faite, que le désespoir la prend. Elle défait vite sa jarretière et se pend à cette solive-là. Eh bien, en voilà un exemple pour la jeunesse ! »</p>
+            <p>Pendant que la vieille confondait ainsi tous les temps, mêlant les Tarquins aux Borgias, j’avais les yeux fixés sur le plancher. Je venais d’y découvrir quelques pétales de rose encore frais, qui me donnaient fort à penser.</p>
+            <p>– Qui est-ce qui cultive ce jardin ? demandai-je à la vieille.</p>
+            <p>– C’est mon fils, monsieur, le jardinier de M. Vanozzi, celui à qui est le jardin d’à côté. M. Vanozzi est toujours dans la Maremme ; il ne vient guère à Rome. Voilà pourquoi le jardin n’est pas très bien entretenu. Mon fils est avec lui. Et je crains bien qu’ils ne reviennent pas de si tôt, ajouta-t-elle en soupirant.</p>
+            <p>– Il est donc fort occupé avec M. Vanozzi ?</p>
+            <p>– Ah ! c’est un drôle d’homme qui l’occupe à trop de choses... Je crains qu’il ne se passe de mauvaises affaires... Ah ! mon pauvre fils !</p>
+            <p>Elle fit un pas vers la porte comme pour rompre la conversation.</p>
+            <p>– Personne n’habite donc ici ? repris-je en l’arrêtant.</p>
+            <p>– Personne au monde.</p>
+            <p>– Et pourquoi cela ?</p>
+            <p>Elle haussa les épaules.</p>
+            <p>– Écoutez, lui dis-je en lui présentant une piastre, dites-moi la vérité. Il y a une femme qui vient ici.</p>
+            <p>– Une femme, divin Jésus !</p>
+            <p>– Oui, je l’ai vue hier au soir. Je lui ai parlé.</p>
+            <p>– Sainte Madone ! s’écria la vieille en se précipitant vers l’escalier. C’était donc madame Lucrèce ? Sortons, sortons, mon bon monsieur ! On m’avait bien dit qu’elle revenait la nuit, mais je n’ai pas voulu vous le dire, pour ne pas faire de tort au propriétaire, parce que je croyais que vous aviez envie de louer.</p>
+            <p>Il me fut impossible de la retenir. Elle avait hâte de quitter la maison, pressée, dit-elle, d’aller porter un cierge à la plus proche église.</p>
+            <p>Je sortis moi-même et la laissai aller, désespérant d’en apprendre davantage.</p>
+            <p>On devine bien que je ne contai pas mon histoire au palais Aldobrandi : la marquise était trop prude, don Ottavio trop exclusivement occupé de politique pour être de bon conseil dans une amourette. Mais j’allais trouver mon peintre, qui connaissait tout à Rome, depuis le cèdre jusqu’à l’hysope, et je lui demandai ce qu’il en pensait.</p>
+            <p>– Je pense, dit-il, que vous avez vu le spectre de Lucrèce Borgia. Quel danger vous avez couru ! si dangereuse de son vivant, jugez un peu de qu’elle doit être maintenant qu’elle est morte : Cela fait trembler.</p>
+            <p>– Plaisanterie à part, qu’est-ce que cela peut être ?</p>
+            <p>C’est-à-dire que monsieur est athée et philosophe et ne croit pas aux choses les plus respectables. Fort bien ; alors, que dites-vous de cette autre hypothèse ? Supposons que la vieille prête sa maison à des femmes capables d’appeler les gens qui passent dans la rue. On a vu des vieilles assez dépravées pour faire ce métier-là.</p>
+            <p>– A merveille, dis-je ; mais j’ai donc l’air d’un saint pour que la vieille ne m’ait pas fait d’offres de service. Cela m’offense. Et puis, mon cher, rappelez-vous l’ameublement de la maison. Il faudrait avoir le diable au corps pour s’en contenter.</p>
+            <p>– Alors, c’est un revenant à n’en plus douter. Attendez donc ! encore une dernière hypothèse. Vous vous serez trompé de maison. Parbleu ! j’y pense : près d’un jardin ? petite porte basse ?... Eh bien, c’est ma grande amie la Rosina. Il n’y a pas dix-huit mois qu’elle faisait l’ornement de cette rue. Il est vrai qu’elle est devenue borgne, mais c’est un détail... Elle a encore un très beau profil.</p>
+            <p>Toutes ces explications ne me satisfaisaient point. Le soir venu, je passai lentement devant la maison de Lucrèce. Je ne vis rien. Je repassai, pas davantage. Trois ou quatre soirs de suite, je fis le pied de grue sous ses fenêtres en revenant du palais Aldobrandi, toujours sans succès. Je commençais à oublier l’habitante mystérieuse de la maison n° 13, lorsque, passant vers minuit dans le viccolo, j’entendis distinctement un petit rire de femme derrière le volet de la fenêtre, où la donneuse de bouquets m’était apparue. Deux fois j’entendis ce petit rire, et je ne pus me défendre d’une certaine terreur, quand, en même temps, je vis déboucher à l’autre extrémité de la rue une troupe de pénitents encapuchonnés, des cierges à la main, qui portaient un mort en terre. Lorsqu’ils furent passés, je m’établis en faction sous la fenêtre, mais alors je n’entendis plus rien. J’essayai de jeter des cailloux, j’appelai même plus ou moins distinctement ; personne ne parut, et une averse qui survint m’obligea de faire retraite.</p>
+            <p>J’ai honte de dire combien de fois je m’arrêtai devant cette maudite maison sans pouvoir parvenir à résoudre l’énigme qui me tourmentait. Une seule fois je passai dans le viccolo de Madame Lucrezia avec don Ottavio et son inévitable abbé.</p>
+            <p>– Voilà, dis-je, la maison de Lucrèce.</p>
+            <p>Je le vis changer de couleur.</p>
+            <p>– Oui, répondit-il, une tradition populaire, fort incertaine, veut que Lucrèce Borgia ait eu ici sa petite maison. Si ces murs pouvaient parler, que d’horreurs ils nous révéleraient ! Pourtant, mon ami, quand je compare ce temps avec le nôtre, je me prends à le regretter. Sous Alexandre VI, il y avait encore des Romains. Il n’y en a plus. César Borgia était un monstre mais un grand homme. Il voulait chasser les barbares de l’Italie, et peut-être, si son père eût vécu, eût-il accompli ce grand dessein. Ah ! que le ciel nous donne un tyran comme Borgia et qu’il nous délivre de ces despotes humains qui nous abrutissent !</p>
+            <p>Quand don Ottavio se lançait dans les régions politiques, il était impossible de l’arrêter. Nous étions à la place du Peuple que son panégyrique du despotisme éclairé n’était pas à sa fin. Mais nous étions à cent lieues de ma Lucrèce à moi.</p>
+            <p>Certain soir que j’étais allé fort tard rendre mes devoirs à la marquise, elle me dit que son fils était indisposé et me pria de monter dans sa chambre. Je le trouvai couché sur son lit tout habillé, lisant un journal français que je lui avais envoyé le matin soigneusement caché dans un volume des Pères de l’Église. Depuis quelque temps, la collection des saints Pères nous servait à ces communications qu’il fallait cacher à l’abbé et à la marquise. Les jours de courrier de France, on m’apportait un in-folio. J’en rendais un autre dans lequel je glissais un journal, que me prêtait le secrétaire de l’ambassade. Cela donnait une haute idée de ma piété à la marquise et à son directeur, qui parfois voulait me faire parler théologie.</p>
+            <p>Après avoir causé quelque temps avec don Ottavio, remarquant qu’il était fort agité et que la politique même ne pouvait captiver son attention, je lui recommandai de se déshabiller et je lui dis adieu. Il faisait froid et je n’avais pas de manteau. Don Ottavio me pressa de prendre le sien, je l’acceptai et me fis donner une leçon dans l’art difficile de se draper en vrai Romain.</p>
+            <p>Emmitouflé jusqu’au nez, je sortis du palais Aldobrandi. A peine avais-je fait quelques pas sur le trottoir de la place Saint-Marc, qu’un homme du peuple que j’avais remarqué, assis sur un banc à la porte du palais, s’approcha de moi et me tendit un papier chiffonné.</p>
+            <p>– Pour l’amour de Dieu, dit-il, lisez ceci.</p>
+            <p>Aussitôt, il disparut en courant à toutes jambes.</p>
+            <p>J’avais pris le papier et je cherchais de la lumière pour le lire. A la lueur d’une lampe allumée devant une madone, je vis que c’était un billet écrit au crayon et, comme il semblait, d’une main tremblante. Je déchiffrai avec beaucoup de peine les mots suivants :</p>
+            <p>« Ne viens pas ce soir, ou nous sommes perdus ! On sait tout, excepté ton nom, rien ne pourra nous séparer. Ta Lucrèce ».</p>
+            <p>– Lucrèce ! m’écriai-je, encore Lucrèce ! quelle diable de mystification y a-t-il au fond de tout cela ? « Ne viens pas ». Mais, ma belle, quel chemin prend-on pour aller chez vous ?</p>
+            <p>Tout en ruminant sur le compte de ce billet, je prenais machinalement le chemin du viccolo di Madama Lucrezia, et bientôt je me trouvai en face de la maison n° 13.</p>
+            <p>La rue était aussi déserte que de coutume, et le bruit seul de mes pas troublait le silence profond qui régnait dans le voisinage. Je m’arrêtai et levai les yeux vers une fenêtre bien connue. Pour le coup, je ne me trompais pas. Le contrevent s’écartait.</p>
+            <p>Voilà la fenêtre toute grande ouverte.</p>
+            <p>Je crus voir une forme humaine qui se détachait sur le fond noir de la chambre.</p>
+            <p>– Lucrèce, est-ce vous ? dis-je à voix basse.</p>
+            <p>On ne me répondit pas, mais j’entendis un claquement, dont je ne compris pas d’abord la cause.</p>
+            <p>– Lucrèce, est-ce vous ? repris-je un peu plus haut.</p>
+            <p>Au même instant, je reçus un coup terrible dans la poitrine, une détonation se fit entendre, et je me trouvai étendu sur le pavé.</p>
+            <p>Une voix rauque me cria :</p>
+            <p>– De la part de la signora Lucrèce !</p>
+            <p>Et le contrevent se referma sans bruit.</p>
+            <p>Je me relevai aussitôt en chancelant, et d’abord je me tâtai, croyant me trouver un grand trou au milieu de l’estomac. Le manteau était troué, mon habit aussi, mais la balle avait été amortie par les plis du drap, et j’en étais quitte pour une forte contusion.</p>
+            <p>L’idée me vint qu’un second coup pouvait bien ne pas se faire attendre, et je me traînai aussitôt du côté de cette maison inhospitalière, rasant les murs de façon qu’on ne pût me viser.</p>
+            <p>Je m’éloignais le plus vite que je pouvais, tout haletant encore, lorsqu’un homme que je n’avais pu remarquer derrière moi me prit le bras et me demanda avec intérêt si j’étais blessé.</p>
+            <p>A la voix, je reconnus don Ottavio. Ce n’était pas le moment de lui faire des questions, quelque surpris que je fusse de le voir seul et dans la rue à cette heure de la nuit. En deux mots, je lui dis qu’on venait de me tirer un coup de feu de telle fenêtre et que je n’avais qu’une contusion.</p>
+            <p>– C’est une méprise ! s’écria-t-il. Mais j’entends venir du monde. Pouvez-vous marcher ? Je serais perdu si l’on nous trouvait ensemble. Cependant, je ne vous abandonnerai pas.</p>
+            <p>Il me prit le bras et m’entraîna rapidement. Nous marchâmes ou plutôt nous courûmes tant que je pus aller ; mais bientôt force me fut de m’asseoir sur une borne pour reprendre haleine.</p>
+            <p>Heureusement, nous nous trouvions alors à peu de distance d’une grande maison où l’on donnait un bal. Il y avait quantité de voitures devant la porte.</p>
+            <p>Don Ottavio alla en chercher une, me fit monter dedans et me reconduisit à mon hôtel. Un grand verre d’eau que je bus m’ayant tout à fait remis, je lui racontai en détail tout ce qui m’était arrivé devant cette maison fatale, depuis le présent d’une rose jusqu’à celui d’une balle de plomb.</p>
+            <p>Il m’écoutait la tête baissée, à moitié cachée dans une de ses mains. Lorsque je lui montrai le billet que je venais de recevoir, il s’en saisit, le lut avec avidité et s’écria encore :</p>
+            <p>– C’est une méprise ! une horrible méprise !</p>
+            <p>– Vous conviendrez, mon cher, lui dis-je, qu’elle est fort désagréable pour moi et pour vous aussi. On manque de me tuer, et l’on vous fait dix ou douze trous dans votre beau manteau. Tudieu ! quels jaloux que vos compatriotes !</p>
+            <p>Don Ottavio me serrait les mains d’un air désolé, et relisait le billet sans me répondre.</p>
+            <p>– Tâchez donc, lui dis-je, de me donner quelque explication de toute cette affaire. Le diable m’emporte si j’y comprends goutte.</p>
+            <p>Il haussa les épaules.</p>
+            <p>– Au moins, lui dis-je, que dois-je faire ? A qui dois-je m’adresser, dans votre sainte ville, pour avoir justice de ce monsieur, qui canarde les passants sans leur demander seulement comment ils se nomment. Je vous avoue que je serai charmé de le faire pendre.</p>
+            <p>– Gardez-vous-en bien ! s’écria-t-il. Vous ne connaissez pas ce pays-ci. Ne dites mot à personne de ce qui vous est arrivé. Vous vous exposeriez beaucoup.</p>
+            <p>– Comment, je m’exposerais ? Morbleu ! je prétends bien avoir ma revanche. Si j’avais offensé le maroufle, je ne dis pas ; mais, pour avoir ramassé une rose,... en conscience, je ne mérite pas une balle.</p>
+            <p>– Laissez-moi faire, dit don Ottavio ; peut-être parviendrai-je à éclaircir ce mystère. Mais je vous le demande comme une grâce, comme une preuve signalée de votre amitié pour moi, ne parlez de cela à personne au monde. Me le promettez-vous ?</p>
+            <p>Il avait l’air si triste en me suppliant, que je n’eus pas le courage de résister, et je lui promis tout ce qu’il voulut. Il me remercia avec effusion, et, après m’avoir appliqué lui-même une compresse d’eau de Cologne sur la poitrine, il me serra la main et me dit adieu.</p>
+            <p>– A propos, lui demandai-je comme il ouvrait la porte pour sortir, expliquez-moi donc comment vous vous êtes trouvé là, juste à point pour me venir en aide ?</p>
+            <p>– J’ai entendu le coup de fusil, répondit-il, non sans quelque embarras, et je suis sorti aussitôt, craignant pour vous quelque malheur.</p>
+            <p>Il me quitta précipitamment, après m’avoir de nouveau recommandé le secret.</p>
+            <p>Le matin, un chirurgien, envoyé sans doute par don Ottavio, vint me visiter. Il me prescrivit un cataplasme, mais ne me fit aucune question sur la cause qui avait mêlé des violettes au lis de mon teint. On est discret à Rome et je voulus me conformer à l’usage du pays.</p>
+            <p>Quelques jours se passèrent sans que je pusse causer librement avec don Ottavio. Il était préoccupé, encore plus sombre que de coutume, et, d’ailleurs, il me paraissait chercher à éviter mes questions. Pendant les rares moments que je passai avec lui, il ne dit pas un mot sur les hôtes étranges du viccolo di Madama Lucrezia. L’époque fixée pour la cérémonie de son ordination approchait, et j’attribuai sa mélancolie à sa répugnance pour la profession qu’on l’obligeait d’embrasser.</p>
+            <p>Pour moi, je me préparais à quitter Rome pour aller à Florence. Lorsque j’annonçai mon départ à la marquise Aldobrandi, don Ottavio me pria, sous je ne sais quel prétexte, de monter dans sa chambre.</p>
+            <p>Là, me prenant les deux mains :</p>
+            <p>– Mon cher ami, dit-il, si vous ne m’accordez la grâce que je vais vous demander, je me brûlerai certainement la cervelle, car je n’ai pas d’autre moyen de sortir d’embarras. Je suis parfaitement résolu à ne jamais endosser le vilain habit que l’on veut me faire porter. Je veux fuir de ce pays-ci. Ce que j’ai à vous demander, c’est de m’emmener avec vous. Vous me ferez passer pour votre domestique. Il suffira d’un mot ajouté à votre passe-port pour faciliter ma fuite.</p>
+            <p>J’essayai d’abord de le détourner de son dessein en lui parlant du chagrin qu’il allait causer à sa mère ; mais, le trouvant inébranlable dans sa résolution, je finis par lui promettre de le prendre avec moi, et de faire arranger mon passe-port en conséquence.</p>
+            <p>– Ce n’est pas tout, dit-il. Mon départ dépend encore du succès d’une entreprise où je suis engagé. Vous voulez partir après-demain. Après-demain j’aurai réussi peut-être, et alors, je suis tout à vous.</p>
+            <p>– Seriez-vous assez fou, lui demandai-je, non sans inquiétude, pour vous être fourré dans quelque conspiration ?</p>
+            <p>– Non, répondit-il ; il s’agit d’intérêts moins graves que le sort de ma patrie, assez graves pourtant pour que du succès de mon entreprise dépende ma vie et mon bonheur. Je ne puis vous en dire davantage maintenant. Dans deux jours, vous saurez tout.</p>
+            <p>Je commençais à m’habituer au mystère ; je me résignai. Il fut convenu que nous partirions à trois heures du matin et que nous ne nous arrêterions qu’après avoir gagné le territoire toscan.</p>
+            <p>Persuadé qu’il était inutile de me coucher, devant partir de si bonne heure, j’employai la dernière soirée que je devais passer à Rome à faire des visites dans toutes les maisons où j’avais été reçu. J’allai prendre congé de la marquise, et serrer la main de son fils officiellement et pour la forme. Je sentis qu’elle tremblait dans la mienne. Il me dit tout bas :</p>
+            <p>– En cet instant, ma vie se joue à croix ou pile. Vous trouverez en rentrant à votre hôtel une lettre de moi. Si à trois heures précises je ne suis pas auprès de vous, ne m’attendez pas.</p>
+            <p>L’altération de ses traits me frappa ; mais je l’attribuai à une émotion bien naturelle de sa part, au moment où, pour toujours peut-être, il allait se séparer de sa famille.</p>
+            <p>Vers une heure à peu près, je regagnai mon logement. Je voulus repasser encore une fois par le viccolo di Madama Lucrezia. Quelque chose de blanc pendait à la fenêtre où j’avais vu deux apparitions si différentes. Je m’approchai avec précaution. C’était une corde à nœuds. Était-ce une invitation d’aller prendre congé de la signora ? Cela en avait tout l’air, et la tentation était forte. Je n’y cédai point pourtant, me rappelant la promesse faite à don Ottavio, et aussi, il faut bien le dire, la réception désagréable que m’avait attirée, quelques jours auparavant, une témérité beaucoup moins grande.</p>
+            <p>Je poursuivis mon chemin, mais lentement, désolé de perdre la dernière occasion de pénétrer les mystères de la maison n° 13. A chaque pas que je faisais, je tournais la tête, m’attendant toujours à voir quelque forme humaine monter ou descendre le long de la corde. Rien ne paraissait. J’atteignis enfin l’extrémité du viccolo ; j’allais entrer dans le Corso.</p>
+            <p>– Adieu, madame Lucrèce, dis-je en ôtant mon chapeau à la maison que j’apercevais encore. Cherchez, s’il vous plaît, quelque autre que moi pour vous venger du jaloux qui vous tient emprisonnée.</p>
+            <p>Deux heures sonnaient quand je rentrai dans mon hôtel. La voiture était dans la cour, toute chargée. Un des garçons de l’hôtel me remit une lettre. C’était celle de don Ottavio, et, comme elle me parut longue, je pensai qu’il valait mieux la lire dans ma chambre, et je dis au garçon de m’éclairer.</p>
+            <p>– Monsieur, me dit-il, votre domestique que vous nous aviez annoncé, celui qui doit voyager avec monsieur...</p>
+            <p>– Eh bien, est-il venu ?</p>
+            <p>– Non, monsieur...</p>
+            <p>– Il est à la poste ; il viendra avec les chevaux.</p>
+            <p>– Monsieur, il est venu tout à l’heure une dame qui a demandé à parler au domestique de monsieur. Elle a voulu absolument monter chez monsieur et m’a chargé de dire au domestique de monsieur, aussitôt qu’il viendrait, que madame Lucrèce était dans votre chambre.</p>
+            <p>– Dans ma chambre ? m’écriai-je en serrant avec force la rampe de l’escalier.</p>
+            <p>– Oui, monsieur. Et il paraît qu’elle part aussi, car elle m’a donné un petit paquet ; je l’ai mis sur la vache.</p>
+            <p>Le cœur me battait fortement. Je ne sais quel mélange de terreur superstitieuse et de curiosité s’était emparé de moi. Je montai l’escalier marche à marche. Arrivé au premier étage (je demeurais au second), le garçon qui me précédait fit un faux pas, et la bougie qu’il tenait à la main tomba et s’éteignit. Il me demanda un million d’excuses, et descendit pour la rallumer. Cependant, je montais toujours.</p>
+            <p>Déjà j’avais la main sur la clef de ma chambre. J’hésitais. Quelle nouvelle vision allait s’offrir à moi ? Plus d’une fois, dans l’obscurité, l’histoire de la nonne sanglante m’était revenue à la mémoire. Étais-je possédé d’un démon comme don Alonso ? Il me sembla que le garçon tardait horriblement.</p>
+            <p>J’ouvris ma porte. Grâce au ciel ! il y avait de la lumière dans ma chambre à coucher. Je traversai rapidement le petit salon qui la précédait. Un coup d’œil suffit pour me prouver qu’il n’y avait personne dans ma chambre à coucher. Mais aussitôt j’entendis derrière moi des pas légers et le frôlement d’une robe. je crois que mes cheveux se hérissèrent sur ma tête. Je me retournai brusquement.</p>
+            <p>Une femme vêtue de blanc, la tête couverte d’une mantille noire, s’avançait les bras tendus :</p>
+            <p>– Te voilà donc enfin, mon bien-aimé ! s’écria-t-elle en saisissant ma main.</p>
+            <p>La sienne était froide comme la glace, et ses traits avaient la pâleur de la mort. Je reculai jusqu’au mur.</p>
+            <p>– Sainte Madone, ce n’est pas lui !... Ah ! monsieur, êtes-vous l’ami de don Ottavio ?</p>
+            <p>A ce mot, tout fut expliqué. La jeune femme, malgré sa pâleur, n’avait nullement l’air d’un spectre. Elle baissait les yeux, ce que ne font jamais les revenants, et tenait ses deux mains croisées à hauteur de sa ceinture, attitude modeste, qui me fit croire que mon ami don Ottavio n’était pas un aussi grand politique que je me l’étais figuré. Bref, il était grand temps d’enlever Lucrèce, et, malheureusement, le rôle de confident était le seul qui me fût destiné dans cette aventure.</p>
+            <p>Un moment après arriva don Ottavio déguisé. Les chevaux vinrent et nous partîmes. Lucrèce n’avait pas de passe-port, mais une femme, et une jolie femme, n’inspire guère de soupçons. Un gendarme cependant fit le difficile. Je lui dis qu’il était un brave, et qu’assurément il avait servi sous le grand Napoléon. Il en convint. Je lui fis présent d’un portrait de ce grand homme, en or, et je lui dis que mon habitude était de voyager avec une <hi rend="italic">amica</hi> pour me tenir compagnie ; et que, attendu que j’en changeais fort souvent, je croyais inutile de les faire mettre sur mon passe-port.</p>
+            <p>– Celle-ci, ajoutai-je, me mène à la ville prochaine. On m’a dit que j’en trouverais là d’autres qui la vaudraient.</p>
+            <p>– Vous auriez tort d’en changer, me dit le gendarme en fermant respectueusement la portière.</p>
+            <p>S’il faut tout vous dire, madame, ce traître de don Ottavio avait fait la connaissance de cette aimable personne, sœur d’un certain Vanozzi, riche cultivateur, mal noté comme un peu libéral et très-contrebandier. Don Ottavio savait bien que, quand même sa famille ne l’eût pas destiné à l’Église, elle n’aurait jamais consenti à lui laisser épouser une fille d’une condition si fort au-dessous de la sienne.</p>
+            <p>Amour est inventif. L’élève de l’abbé Negroni parvint à établir une correspondance secrète avec sa bien-aimée. Toutes les nuits, il s’échappait du palais Aldobrandi, et, comme il eût été peu sûr d’escalader la maison de Vanozzi, les deux amants se donnaient rendez-vous dans celle de madame Lucrèce, dont la mauvaise réputation les protégeait.</p>
+            <p>Une petite porte cachée par un figuier mettait les deux jardins en communication. Jeunes et amoureux, Lucrèce et Ottavio ne se plaignaient pas de l’insuffisance de leur ameublement, qui se réduisait, je crois l’avoir déjà dit, à un vieux fauteuil de cuir.</p>
+            <p>Un soir, attendant don Ottavio, Lucrèce me prit pour lui, et me fit le cadeau que j’ai rapporté en son lieu. Il est vrai qu’il y avait quelque ressemblance de taille et de tournure entre don Ottavio et moi, et quelques médisants, qui avaient connu mon père à Rome, prétendaient qu’il y avait des raisons pour cela. Advint que le maudit frère découvrit l’intrigue ; mais ses menaces ne purent obliger Lucrèce à révéler le nom de son séducteur. On sait quelle fut sa vengeance et comment je pensai payer pour tous. Il est inutile de vous dire comment les deux amants, chacun de son côté, prirent la clef des champs.</p>
+            <div type="div2">
+               <head>Conclusion</head>
+               <p>– Nous arrivâmes tous les trois à Florence. Don Ottavio épousa Lucrèce, et partit aussitôt avec elle pour Paris. Mon père lui fit le même accueil que j’avais reçu de la marquise. Il se chargea de négocier sa réconciliation, et il y parvint non sans quelque peine. Le marquis Aldobrandi gagna fort à propos la fièvre des Maremmes, dont il mourut. Ottavio a hérité de son titre et de sa fortune, et je suis le parrain de son premier enfant.</p>
+               <p rend="end">
+                  <hi rend="italic">27 avril 1846</hi>.</p>
+            </div>
+            <div type="div2">
+               <head>À propos de cette édition électronique :</head>
+               <p rend="center">
+                  <hi rend="bold italic">Sources : </hi>
+                  <hi rend="italic">Saisie du texte : S. Pestel pour la collection électronique<lb/>de la Bibliothèque municipale de Lisieux (21/10/1998).</hi>
+               </p>
+               <p rend="italic"> Texte relu par : A. Guézou. <lb/>Adresse : Bibliothèque municipale, <lb/>B.P. 7216, 14107 Lisieux cedex.<lb/>Mél : bmlisieux@mail. cpod.fr, <lb/>[Olivier Bogros] <lb/>Web : www.bmlisieux.com</p>
+               <p rend="center bold">Texte libre de droits.</p>
+               <p rend="center">Corrections, édition, conversion informatique et publication par le groupe :<lb/>
+               </p>
+               <p rend="center bold italic">Ebooks libres et gratuits</p>
+               <p rend="center">
+                  <ptr target="http://fr.groups.yahoo.com/group/ebooksgratuits"/>
+               </p>
+               <p rend="center">Adresse du site web du groupe :<lb/>
+                  <ptr target="http://www.ebooksgratuits.com/"/>
+               </p>
+               <p rend="center">——</p>
+               <p rend="center bold">13 septembre 2003</p>
+               <p rend="center">——</p>
+               <p rend="color(#000000)bold">- Dispositions :</p>
+               <p>Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, <hi rend="underline">à une fin non commerciale et non professionnelle</hi>. Si vous désirez les faire paraître sur votre site, ils ne doivent pas être altérés en aucune sorte. <hi rend="bold">Tout lien vers notre site est bienvenu…</hi>
+               </p>
+               <p rend="color(#000000)bold">- Qualité :</p>
+               <p>Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l'original. Nous rappelons que c'est un travail d'amateurs non rétribués et nous essayons de promouvoir la culture littéraire avec de maigres moyens.</p>
+               <p rend="center color(#000000)italic">Votre aide est la bienvenue !</p>
+               <p rend="center bold">VOUS POUVEZ NOUS AIDER<lb/>À CONTRIBUER À FAIRE CONNAÎTRE<lb/>CES CLASSIQUES LITTÉRAIRES.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

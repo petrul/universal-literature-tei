@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles BAUDELAIRE                                                                                           </title>
+            <author>Charles Baudelaire</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003-08-30T22:01:00</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-23T15:40:42.537273625</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                             
+      <body>
+         <author>Charles Baudelaire</author>
+         <div type="div1">
+            <head>Mon cœur mis à nu</head>
+            <subtitle>(Deuxième partie des journaux intimes)</subtitle>
+            <div type="div2" rend="P11">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114583"/>Présentation<ptr type="bookmark-end" target="#id___RefHeading___Toc50114583"/>
+               </head>
+               <p rend="justify">« Un grand livre auquel je rêve depuis deux ans : <hi rend="italic">Mon cœur mis à nu,</hi> et où j’entasserai toutes mes colères. Ah ! si jamais celui-là voit le jour, <hi rend="italic">Les confessions</hi> de Jean-Jacques paraîtront pâles. Tu vois que je rêve encore. »</p>
+               <p rend="justify">Lettre de Charles Baudelaire à sa mère (1<hi rend="sup">er</hi> avril 1861)</p>
+               <p rend="justify">
+                  <hi rend="italic">Mon cœur mis à nu</hi> fait partie des journaux intimes de Baudelaire, comme les trois autres recueils de notes : <hi rend="italic">Fusées, Hygiène</hi>, et <hi rend="italic">Carnet</hi> (seul ce dernier répondant à la définition classique du journal intime, en particulier par sa composition chronologique).</p>
+               <p rend="justify">La publication fut posthume, en 1887.</p>
+               <p rend="justify">Apparemment, la composition de <hi rend="italic">Mon cœur mis à nu</hi> daterait des années 1852 – 1866.</p>
+               <p rend="justify">C’est initialement pour lui seul, et pour quelques intimes, que Baudelaire a jeté sur le papier les bases de ce « livre de rancunes ». Sachez, le moment venu, jeter sur certaines crudités, le manteau de Noé.</p>
+               <p rend="justify">Ces journaux intimes sont restés à l’état de feuilles volantes jusqu’à la mort du poète en 1867.</p>
+               <p rend="justify">Poulet-Malassis, ami et éditeur de Baudelaire, numérote plus tard les fragments (chiffres arabes), les fixe sur des feuilles foliotées (chiffres romains), et fait relier le tout dans des cartonnages.</p>
+               <p rend="justify">La présente édition comporte cette double numérotation, en chiffres romains et en chiffres arabes</p>
+            </div>
+            <div type="div2" rend="P50">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114584"/>I<ptr type="bookmark-end" target="#id___RefHeading___Toc50114584"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114585"/>1.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114585"/>
+                  </head>
+                  <p rend="justify">De la vaporisation et de la centralisation du <hi rend="italic">Moi</hi>. Tout est là.</p>
+                  <p rend="justify">D'une certaine jouissance sensuelle dans la société des extravagants.</p>
+                  <p rend="justify">(Je peux commencer <hi rend="italic">Mon coeur mis à nu</hi> n'importe où, n'importe comment, et le continuer au jour le jour, suivant l'inspiration du jour et de la circonstance, pourvu que l'inspiration soit vive).</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114586"/>2.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114586"/>
+                  </head>
+                  <p rend="justify">Le premier venu, pourvu qu'il sache amuser, a le droit de parler de lui-même.</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114587"/>3.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114587"/>
+                  </head>
+                  <p rend="justify">Je comprends qu'on déserte une cause pour savoir ce qu'on éprouvera à en servir une autre.</p>
+                  <p rend="justify">Il serait peut-être doux d'être alternativement victime et bourreau. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114588"/>II<ptr type="bookmark-end" target="#id___RefHeading___Toc50114588"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114589"/>4.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114589"/>
+                  </head>
+                  <p rend="justify">Sottises de Girardin</p>
+                  <p rend="justify">Notre habitude est de prendre le taureau <hi rend="italic">par les cornes</hi>. Prenons donc le discours par <hi rend="italic">la fin</hi>. (<hi rend="italic">7 nov. 1863</hi>).</p>
+                  <p rend="justify">Donc, Girardin croit que les cornes des taureaux sont plantées sur leur derrière. Il confond les cornes avec la queue.</p>
+                  <p rend="justify">Qu'avant d'imiter les Ptolémées du journalisme français, les journalistes belges se donnent la peine de réfléchir sur la question que j'étudie depuis trente ans sous toutes ses faces, ainsi que le prouvera le volume qui paraîtra prochainement sous ce titre : <hi rend="bold">Questions de presse</hi> ; qu'ils ne se hâtent pas de traiter de <hi rend="italic">souverainement ridicule</hi> une opinion qui est aussi vraie qu'il est vrai que la terre tourne et que le soleil ne tourne pas.</p>
+                  <p rend="justify">Émile de Girardin.</p>
+                  <p rend="justify">« Il y a des gens qui prétendent que rien n’empêche de croire que, le ciel étant immobile, c’est la terre qui tourne autour de son axe. Mais ces gens-là ne sentent pas, à raison de ce qui se passe autour de nous, combien leur opinion est souverainement ridicule ( ) » .</p>
+                  <p rend="justify"> PTOLEMEE, <hi rend="italic">Almageste</hi>, livre Ier, chap. VI.</p>
+                  <p rend="justify">Et habet mea mentrita [sic] meatum.</p>
+                  <p rend="justify">GIRARDIN.</p>
+                  <p rend="justify">
+                     <figure>
+                        <binaryObject xml:id="d3e4104" encoding="base64" mimeType="image/jpg">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
+      </binaryObject>
+                     </figure>
+                  </p>
+                  <p rend="justify">« souverainement ridicule »</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114590"/>III<ptr type="bookmark-end" target="#id___RefHeading___Toc50114590"/>
+               </head>
+               <p rend="italic">Pour</p>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114591"/>5.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114591"/>
+                  </head>
+                  <p rend="justify">La femme est le contraire du Dandy. </p>
+                  <p rend="justify">Donc elle doit faire horreur.</p>
+                  <p rend="justify">La femme a faim et elle veut manger. Soif, et elle veut boire.</p>
+                  <p rend="justify">Elle est en rut et elle veut être foutue.</p>
+                  <p rend="justify">Le beau mérite !</p>
+                  <p rend="justify">La femme est <hi rend="italic">naturelle</hi>, c'est-à-dire abominable.</p>
+                  <p rend="justify">Aussi est-elle toujours vulgaire, c'est-à-dire le contraire du Dandy.</p>
+                  <p rend="justify">------------</p>
+                  <p rend="justify">Relativement à la Légion d’Honneur.</p>
+                  <p rend="justify">Celui qui demande la croix a l’air de dire : si l’on ne me décore pas pour avoir fait mon devoir, je ne recommencerai plus.</p>
+                  <p rend="justify">- si un homme a du mérite, à quoi bon le décorer ? s’il n’en a pas, on peut le décorer, parce que [cela] lui donnera un lustre.</p>
+                  <p rend="justify">Consentir à être décoré, c’est reconnaître à l’Etat ou au prince le droit de vous juger, de vous illustrer, etc.</p>
+                  <p rend="justify">------------</p>
+                  <p rend="justify">D’ailleurs, si ce n’est l’orgueil, l’humilité chrétienne défend la croix.</p>
+                  <p rend="justify">Calcul en faveur de Dieu.</p>
+                  <p rend="justify">Rien n’existe sans but.</p>
+                  <p rend="justify">Donc mon existence a un but. Quel but ? Je l’ignore.</p>
+                  <p rend="justify">Ce n’est donc pas moi qui l’ait marqué.</p>
+                  <p rend="justify">C’est donc quelqu’un, plus savant que moi.</p>
+                  <p rend="justify">Il faut donc prier ce quelqu’un de m’éclairer. C’est le parti le plus sage.</p>
+                  <p rend="justify">Le Dandy doit aspirer à être sublime sans interruption ; il doit vivre et dormir devant un miroir.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114592"/>IV<ptr type="bookmark-end" target="#id___RefHeading___Toc50114592"/>
+               </head>
+               <p rend="justify">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114593"/>6.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114593"/>
+                  </head>
+                  <p rend="justify">Analyse des contre-religions, exemple : la prostitution sacrée.</p>
+                  <p rend="justify">Qu’est-ce que la prostitution sacrée ?</p>
+                  <p rend="justify">Excitation nerveuse.</p>
+                  <p rend="justify">Mysticité du paganisme.</p>
+                  <p rend="justify">Le mysticisme, trait d’union entre le paganisme et le christianisme.</p>
+                  <p rend="justify">Le paganisme et le christianisme se prouvent réciproquement.</p>
+                  <p rend="justify">La révolution et le culte de la Raison prouvent l’idée du sacrifice.</p>
+                  <p rend="justify">La superstition est le réservoir de toutes les vérités.</p>
+                  <p rend="justify">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114594"/>7.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114594"/>
+                  </head>
+                  <p rend="justify">Il y a dans tout changement quelque chose d'infâme et d'agréable à la fois, quelque chose qui tient de l'infidélité et du déménagement. Cela suffit à expliquer la révolution française.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114595"/>V<ptr type="bookmark-end" target="#id___RefHeading___Toc50114595"/>
+               </head>
+               <p rend="justify">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114596"/>8.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114596"/>
+                  </head>
+                  <p rend="justify">Mon ivresse en 1848.</p>
+                  <p rend="justify">De quelle nature était cette ivresse ? </p>
+                  <p rend="justify">Goût de la vengeance. Plaisir <hi rend="italic">naturel</hi> de la démolition. Ivresse littéraire ; souvenir des lectures.</p>
+                  <p rend="justify">Le 15 mai. - Toujours le goût de la destruction. Goût légitime si tout ce qui est naturel est légitime.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Les horreurs de Juin. Folie du peuple et folie de la bourgeoisie. Amour naturel du crime.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Ma fureur au coup d'État. Combien j'ai essuyé de coups de fusil. Encore un Bonaparte ! Quelle honte !</p>
+                  <p rend="justify">Et cependant tout s'est pacifié. Le Président n'a-t-il pas un droit à invoquer ?</p>
+                  <p rend="justify">Ce qu'est l'Empereur Napoléon III. Ce qu'il vaut. Trouver l'explication de sa </p>
+                  <p rend="justify">nature, et sa providentialité. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114597"/>VI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114597"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114598"/>9.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114598"/>
+                  </head>
+                  <p rend="justify">Être un homme utile m'a paru toujours quelque chose de bien hideux.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">1848 ne fut amusant que parce que chacun y faisait des utopies comme des châteaux en Espagne.</p>
+                  <p rend="justify">1848 ne fut charmant que par l'excès même du Ridicule.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Robespierre n'est estimable que parce qu'il a fait quelques belles phrases. </p>
+                  <p rend="justify">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114599"/>10.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114599"/>
+                  </head>
+                  <p rend="justify">La Révolution, par le sacrifice, confirme la superstition.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114600"/>VII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114600"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114601"/>11.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114601"/>
+                  </head>
+                  <p rend="justify">POLITIQUE</p>
+                  <p rend="justify">Je n'ai pas de convictions, comme l'entendent les gens de mon siècle, parce que je n'ai pas d'ambition.</p>
+                  <p rend="justify">Il n'y a pas en moi de base pour une conviction.</p>
+                  <p rend="justify">Il y a une certaine lâcheté ou plutôt une certaine mollesse chez les honnêtes gens.</p>
+                  <p rend="justify">Les brigands seuls sont convaincus, - de quoi ? - qu'il leur faut réussir. Aussi, ils réussissent.</p>
+                  <p rend="justify">Pourquoi réussirais-je, puisque je n'ai même pas envie d'essayer ?</p>
+                  <p rend="justify">On peut fonder des empires glorieux sur le crime, et de nobles religions sur l'imposture.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Cependant, j'ai quelques convictions, dans un sens plus élevé, et qui ne peut pas être compris par les gens de mon temps.</p>
+                  <p rend="justify">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114602"/>12.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114602"/>
+                  </head>
+                  <p rend="justify">Sentiment de <hi rend="italic">solitude</hi>, dès mon enfance. Malgré la famille, - et au milieu des camarades, surtout, - sentiment de destinée éternellement solitaire.</p>
+                  <p rend="justify">Cependant, goût très vif de la vie et du plaisir. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114603"/>VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114603"/>
+               </head>
+               <p rend="justify">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114604"/>13.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114604"/>
+                  </head>
+                  <p rend="justify">Presque toute notre vie est employée à des curiosités niaises. En revanche il y a des choses qui devraient exciter la curiosité des hommes au plus haut degré, et qui, à en juger par leur train de vie ordinaire, ne leur en inspirent aucune.</p>
+                  <p rend="justify">Où sont nos amis morts ?</p>
+                  <p rend="justify">Pourquoi sommes-nous ici ?</p>
+                  <p rend="justify">Venons-nous de quelque part ?</p>
+                  <p rend="justify">Qu'est-ce que la liberté ?</p>
+                  <p rend="justify">Peut-elle s'accorder avec la loi providentielle ?</p>
+                  <p rend="justify">Le nombre des âmes est-il fini ou infini ?</p>
+                  <p rend="justify">Et le nombre des terres habitables ?</p>
+                  <p rend="justify">Etc., etc. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114605"/>14.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114605"/>
+                  </head>
+                  <p rend="justify">Les nations n'ont de grands hommes que malgré elles. Donc le grand homme est vainqueur de toute sa nation.</p>
+                  <p rend="justify">Les religions modernes ridicules</p>
+                  <p rend="justify">Molière.</p>
+                  <p rend="justify">Béranger.</p>
+                  <p rend="justify">Garibaldi. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114606"/>IX<ptr type="bookmark-end" target="#id___RefHeading___Toc50114606"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114607"/>15.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114607"/>
+                  </head>
+                  <p rend="justify">La croyance au progrès est une doctrine de paresseux, une doctrine de <hi rend="italic">Belges</hi>. C'est l'individu qui compte sur ses voisins pour faire sa besogne.</p>
+                  <p rend="justify">Il ne peut y avoir de progrès (vrai, c'est-à-dire moral) que dans l'individu et par l'individu lui-même.</p>
+                  <p rend="justify">Mais le monde est fait de gens qui ne peuvent penser qu'en commun, en bandes. Ainsi les <hi rend="italic">Sociétés belges</hi>.</p>
+                  <p rend="justify">Il y a aussi des gens qui ne peuvent s'amuser qu'en troupe. Le vrai héros s'amuse tout seul. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114608"/>16.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114608"/>
+                  </head>
+                  <p rend="justify">Éternelle supériorité du Dandy.</p>
+                  <p rend="justify">Qu'est-ce que le Dandy ?</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114609"/>X<ptr type="bookmark-end" target="#id___RefHeading___Toc50114609"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114610"/>17.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114610"/>
+                  </head>
+                  <p rend="justify">Mes opinions sur le théâtre. Ce que j'ai toujours trouvé de plus beau dans un théâtre, dans mon enfance et encore maintenant, c'est le <hi rend="italic">lustre</hi>, - un bel objet lumineux, cristallin, compliqué, circulaire et symétrique.</p>
+                  <p rend="justify">Cependant, je ne nie pas absolument la valeur de la littérature dramatique. Seulement, je voudrais que les comédiens fussent montés sur des patins très hauts, portassent des masques plus expressifs que le visage humain, et parlassent à travers des porte-voix ; enfin que les rôles de femmes fussent joués par des hommes. </p>
+                  <p rend="justify">Après tout, le lustre m'a toujours paru l'acteur principal, vu à travers le gros bout ou le petit bout de la lorgnette. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114611"/>18.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114611"/>
+                  </head>
+                  <p rend="justify">Il faut travailler, sinon par goût, au moins par désespoir, puisque, tout bien vérifié, travailler est moins ennuyeux que s'amuser. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114612"/>XI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114612"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114613"/>19.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114613"/>
+                  </head>
+                  <p rend="justify">Il y a dans tout homme, à toute heure, deux postulations simultanées, l'une vers Dieu, l'autre vers Satan. L'invocation à Dieu, ou spiritualité, est un désir de monter en grade ; celle de Satan, ou animalité, est une joie de descendre. C'est à cette dernière que doivent être rapportées les amours pour les femmes et les conversations intimes avec les animaux, chiens, chats, etc. </p>
+                  <p rend="justify">Les joies qui dérivent de ces deux amours sont adaptées à la nature de ces deux amours. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114614"/>20<ptr type="bookmark-end" target="#id___RefHeading___Toc50114614"/>
+                  </head>
+                  <p rend="justify">Ivresse d'Humanité.</p>
+                  <p rend="justify">Grand tableau à faire : </p>
+                  <p rend="justify">Dans le sens de la charité.</p>
+                  <p rend="justify">Dans le sens du libertinage.</p>
+                  <p rend="justify">Dans le sens littéraire, ou du Comédien. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114615"/>XII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114615"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114616"/>21.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114616"/>
+                  </head>
+                  <p rend="justify">La question (torture) est, comme art de découvrir la vérité, une niaiserie barbare ; c'est l'application d'un moyen matériel à un but spirituel. </p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">La peine de Mort est le résultat d'une idée mystique, totalement incomprise aujourd'hui. La peine de Mort n'a pas pour but de <hi rend="italic">sauver</hi> la société, matériellement du moins. Elle a pour but de <hi rend="italic">sauver</hi> (spirituellement) la société et le coupable. Pour que le sacrifice soit parfait, il faut qu'il y ait assentiment et joie de la part de la victime. Donner du chloroforme à un condamné à mort serait une impiété, car ce serait lui enlever la conscience de sa grandeur comme victime et lui supprimer les chances de gagner le Paradis.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Quant à la torture, elle est née de la partie infâme du cœur de l’homme, assoiffé de voluptés. Cruauté et volupté, sensations identiques, comme l’extrême chaud et l’extrême froid.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114617"/>XIII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114617"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114618"/>22.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114618"/>
+                  </head>
+                  <p rend="justify">Ce que je pense du vote et du droit d'élections. Des droits de l'homme.</p>
+                  <p rend="justify">Ce qu'il y a de vil dans une fonction quelconque.</p>
+                  <p rend="justify">Un Dandy ne fait rien. </p>
+                  <p rend="justify">Vous figurez-vous un Dandy parlant au peuple, excepté pour le bafouer ?</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Il n'y a de gouvernement raisonnable et assuré que l'aristocratique.</p>
+                  <p rend="justify">Monarchie ou république, basées sur la démocratie, sont également absurdes et faibles.</p>
+                  <p rend="center">------------</p>
+                  <p>Immense nausée des affiches.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Il n'existe que trois êtres respectables :</p>
+                  <p rend="justify">Le prêtre, le guerrier, le poète. Savoir, tuer et créer.</p>
+                  <p rend="justify">Les autres hommes sont taillables et corvéables, faits pour l'écurie, c'est-à-dire pour exercer ce qu'on appelle des <hi rend="italic">professions</hi>.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114619"/>XIV<ptr type="bookmark-end" target="#id___RefHeading___Toc50114619"/>
+               </head>
+               <p rend="justify">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114620"/>23.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114620"/>
+                  </head>
+                  <p rend="justify">Observons que les abolisseurs de la peine de mort doivent être plus ou moins <hi rend="italic">intéressés</hi> à l'abolir.</p>
+                  <p rend="justify">Souvent ce sont des guillotineurs. Cela peut se résumer ainsi : « Je veux pouvoir couper ta tête ; mais tu ne toucheras pas à la mienne ».</p>
+                  <p rend="justify">Les abolisseurs d'âmes (<hi rend="italic">matérialistes</hi>) sont nécessairement des abolisseurs d'<hi rend="italic">enfer</hi> ; ils y sont à coup sûr <hi rend="italic">intéressés</hi>.</p>
+                  <p rend="justify">Tout au moins ce sont des gens qui ont <hi rend="italic">peur de revivre</hi>, - des paresseux.</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114621"/>24.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114621"/>
+                  </head>
+                  <p rend="justify">Madame de Metternich, quoique princesse, a oublié de me répondre à propos de ce que j'ai dit d'elle et de Wagner.</p>
+                  <p rend="justify">Moeurs du 19e siècle. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114622"/>XV<ptr type="bookmark-end" target="#id___RefHeading___Toc50114622"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU</p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114623"/>25.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114623"/>
+                  </head>
+                  <p rend="justify">Histoire de ma traduction d'<hi rend="italic">Edgar Poe</hi>.</p>
+                  <p rend="justify">Histoire des <hi rend="italic">Fleurs du Mal</hi>, humiliation par le malentendu, et mon procès.</p>
+                  <p rend="justify">Histoire de mes rapports avec tous les hommes célèbres de ce temps.</p>
+                  <p rend="justify">Jolis portraits de quelques imbéciles :</p>
+                  <p rend="justify">Clément de Ris.</p>
+                  <p rend="justify">Castagnary.</p>
+                  <p rend="justify">Portraits de magistrats, de fonctionnaires, de directeurs de journaux, etc.</p>
+                  <p rend="justify">Portrait de l'artiste, en général.</p>
+                  <p rend="justify">Du rédacteur en chef et de la pionnerie. Immense goût de tout le peuple français pour la pionnerie, et pour la dictature. C'est le : « si j’étais roi ! ».</p>
+                  <p rend="justify">Portraits et anecdotes.</p>
+                  <p rend="justify">François, - Buloz, - Houssaye, - le fameux Rouy, - de Calonne, - Charpentier, - qui corrige ses auteurs, en vertu de l'égalité donnée à tous les hommes par les immortels principes de 89 ; - Chevalier, véritable rédacteur en chef selon l'Empire. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114624"/>XVI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114624"/>
+               </head>
+               <p rend="justify">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114625"/>26.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114625"/>
+                  </head>
+                  <p rend="justify">Sur George Sand. </p>
+                  <p rend="justify">La femme Sand est le Prudhomme de l'immoralité. Elle a toujours été moraliste.</p>
+                  <p rend="justify">Seulement elle faisait autrefois de la contre-morale. - Aussi elle n'a jamais été artiste. </p>
+                  <p rend="justify">Elle a le fameux <hi rend="italic">style coulant</hi>, cher aux bourgeois.</p>
+                  <p rend="justify">Elle est bête, elle est lourde, elle est bavarde ;  elle a dans les idées morales la même profondeur de jugement et la même délicatesse de sentiment que les concierges et les filles entretenues.</p>
+                  <p rend="justify">Ce qu'elle dit de sa mère.</p>
+                  <p rend="justify">Ce qu'elle dit de la poésie. </p>
+                  <p rend="justify">Son amour pour les ouvriers. </p>
+                  <p rend="justify">Que quelques hommes aient pu s'amouracher de cette latrine, c'est bien la preuve de l'abaissement des hommes de ce siècle. </p>
+                  <p rend="justify">Voir la préface de <hi rend="italic">Mademoiselle La Quintinie</hi>, où elle prétend que les vrais chrétiens ne croient pas à l'Enfer. La Sand est pour le <hi rend="italic">Dieu des bonnes gens</hi>, le dieu des concierges et des domestiques filous. Elle a de bonnes raisons pour vouloir supprimer l'Enfer.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114626"/>XVII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114626"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114627"/>27.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114627"/>
+                  </head>
+                  <p rend="justify">LE DIABLE ET GEORGE SAND.</p>
+                  <p rend="justify">Il ne faut pas croire que le Diable ne tente que les hommes de génie. Il méprise sans doute les imbéciles, mais il ne dédaigne pas leur concours. Bien au contraire, il fonde ses grands espoirs sur ceux-là.</p>
+                  <p rend="justify">Voyez George Sand. Elle est surtout, et plus que toute autre chose, une <hi rend="italic">grosse bête</hi> ; mais elle est <hi rend="italic">possédée</hi>. C'est le Diable qui lui a persuadé de se fier à <hi rend="italic">son bon coeur</hi> et à <hi rend="italic">son bon sens</hi>, afin qu'elle persuadât toutes les autres grosses bêtes de se fier à leur bon coeur et à leur bon sens.</p>
+                  <p rend="justify">Je ne puis penser à cette stupide créature sans un certain frémissement d'horreur. Si je la rencontrais, je ne pourrais m'empêcher de lui jeter un bénitier à la tête. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114628"/>28.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114628"/>
+                  </head>
+                  <p rend="justify">George Sand est une de ces vieilles ingénues qui ne veulent jamais quitter les planches. J'ai lu dernièrement une préface (la préface de <hi rend="italic">Mademoiselle La Quintinie</hi>) où elle prétend qu'un vrai chrétien ne peut pas croire à l'Enfer. Elle a de bonnes raisons pour vouloir supprimer l'Enfer.</p>
+                  <p rend="justify">[fragment non numéroté]</p>
+                  <p rend="justify">La Religion de la femme Sand. Préface de <hi rend="italic">Mademoiselle La Quintinie</hi>. La femme Sand est intéressée à croire que l’Enfer n’existe pas.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114629"/>XVIII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114629"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114630"/>29.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114630"/>
+                  </head>
+                  <p rend="justify">Je m'ennuie en France, surtout parce que tout le monde y ressemble à Voltaire.</p>
+                  <p rend="justify">Emerson a oublié Voltaire dans ses <hi rend="italic">Représentants de l'humanité</hi>. Il aurait pu faire un joli chapitre intitulé : <hi rend="italic">Voltaire, ou l'anti-poète</hi>, le roi des badauds, le prince des superficiels, l'anti-artiste, le prédicateur des concierges, le père Gigogne des rédacteurs du <hi rend="italic">Siècle</hi>.</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114631"/>30.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114631"/>
+                  </head>
+                  <p rend="justify">Dans <hi rend="italic">Les Oreilles du Comte de Chesterfield</hi>, Voltaire plaisante sur cette âme immortelle qui a résidé, pendant neuf mois entre des excréments et des urines. Voltaire, comme tous les paresseux, haïssait le mystère.</p>
+                  <p rend="justify">Ne pouvant pas supprimer l'amour, l'Église a voulu au moins le désinfecter, et elle a fait le mariage. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114632"/>XIX<ptr type="bookmark-end" target="#id___RefHeading___Toc50114632"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114633"/>31.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114633"/>
+                  </head>
+                  <p rend="justify">Portrait de la canaille littéraire.</p>
+                  <p rend="justify">Doctor Estaminétus Crapulosus, Pedantissimus. Son portrait fait à la manière de Praxitèle.</p>
+                  <p rend="justify">Sa pipe.</p>
+                  <p rend="justify">Ses opinions.</p>
+                  <p rend="justify">Son Hégélianisme.</p>
+                  <p rend="justify">Sa crasse.</p>
+                  <p rend="justify">Ses idées en art.</p>
+                  <p rend="justify">Son fiel.</p>
+                  <p rend="justify">Sa jalousie.</p>
+                  <p rend="justify">Un joli tableau de la jeunesse moderne. </p>
+                  <p>MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3" rend="P13">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114634"/>32.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114634"/>
+                  </head>
+                  <p rend="justify">ELIEN ( ?)</p>
+                  <p rend="justify">p        .</p>
+                  <p rend="justify">
+                     <figure>
+                        <binaryObject xml:id="d3e5386" encoding="base64" mimeType="image/jpg">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
+      </binaryObject>
+                     </figure>
+                  </p>
+                  <p rend="justify">Elien, <hi rend="italic">Histoire des animaux</hi>  (IX, 62)</p>
+                  <p rend="justify">« Pourquoi le poète ne serait-il pas un broyeur de poisons aussi bien qu’un confiseur, un éleveurde serpents pour miracles et spectacles ? »</p>
+                  <p rend="justify">Baudelaire, lettre à Jules Janin</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114635"/>XX<ptr type="bookmark-end" target="#id___RefHeading___Toc50114635"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114636"/>33.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114636"/>
+                  </head>
+                  <p rend="justify">La Théologie.</p>
+                  <p rend="justify">Qu'est-ce que la chute ?</p>
+                  <p rend="justify">Si c'est l'unité devenue dualité, c'est Dieu qui a chuté.</p>
+                  <p rend="justify">Au moins aurait-il pu deviner dans cette localisation une malice ou une satire de la providence contre l’amour, et, dans le mode de la génération, un signe du péché originel. De fait, nous ne pouvons faire l’amour qu’avec des organes excrémentiels.</p>
+                  <p rend="justify">En d'autres termes, la création ne serait-elle pas la chute de Dieu ?</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Dandysme.</p>
+                  <p rend="justify">Qu'est-ce que l'homme supérieur ?</p>
+                  <p rend="justify">Ce n'est pas le spécialiste.</p>
+                  <p rend="justify">C'est l'homme de Loisir et d'Éducation générale.</p>
+                  <p rend="justify">Être riche et aimer le travail. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114637"/>34.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114637"/>
+                  </head>
+                  <p rend="justify">Pourquoi l'homme d'esprit aime les filles plus que les femmes du monde, malgré qu'elles soient également bêtes ? - A trouver.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114638"/>XXI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114638"/>
+               </head>
+               <p>MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114639"/>35.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114639"/>
+                  </head>
+                  <p rend="justify">Il y a de certaines femmes qui ressemblent au ruban de la Légion d'honneur. On n'en veut plus parce qu'elles se sont salies à de certains hommes.</p>
+                  <p rend="justify">C'est par la même raison que je ne chausserais pas les culottes d'un galeux.</p>
+                  <p rend="justify">Ce qu'il y a d'ennuyeux dans l'amour, c'est que c'est un crime où l'on ne peut pas se passer d'un complice. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114640"/>36.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114640"/>
+                  </head>
+                  <p rend="justify">Étude de la grande Maladie de l'horreur du Domicile. Raisons de la Maladie. Accroissement progressif de la Maladie.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Indignation causée par la fatuité universelle, de toutes les classes, de tous les êtres, dans les deux sexes, dans tous les âges.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">L'homme aime tant l'homme que quand il fuit la ville, c'est encore pour chercher la foule, c'est-à-dire pour refaire la ville à la campagne.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114641"/>XXII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114641"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114642"/>37.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114642"/>
+                  </head>
+                  <p rend="justify">Discours de Durandeau sur les Japonais. (Moi ! je suis Français avant tout). Les Japonais sont des singes. C'est Darjou qui me l'a dit.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Discours du médecin, l'ami de Mathieu, sur l'art de ne pas faire d'enfants, sur Moïse et sur l'immortalité de l'âme.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">L'art est un agent civilisateur (Castagnary). </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114643"/>38.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114643"/>
+                  </head>
+                  <p rend="justify">Physionomie d'un sage et de sa famille au cinquième étage, buvant le café au lait.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Le sieur Nacquart père et le sieur Nacquart fils.</p>
+                  <p rend="justify">Comment le Nacquart fils est devenu conseiller en Cour d'appel. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114644"/>XXIII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114644"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114645"/>39.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114645"/>
+                  </head>
+                  <p rend="justify">De l'amour, de la prédilection des Français pour les métaphores militaires. Toute métaphore ici porte des moustaches.</p>
+                  <p rend="justify">Littérature militante.</p>
+                  <p rend="justify">Rester sur la brèche.</p>
+                  <p rend="justify">Porter haut le drapeau.</p>
+                  <p rend="justify">Tenir le drapeau haut et ferme.</p>
+                  <p rend="justify">Se jeter dans la mêlée.</p>
+                  <p rend="justify">Un des vétérans. </p>
+                  <p rend="justify">Toutes ces glorieuses phraséologies s'appliquent généralement à des cuistres et à des fainéants d'estaminet.</p>
+                  <p rend="center">------------</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114646"/>40.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114646"/>
+                  </head>
+                  <p rend="justify">Métaphores françaises.</p>
+                  <p rend="justify">Soldat de la presse judiciaire (Bertin).</p>
+                  <p rend="justify">La presse militante.</p>
+                  <p rend="center">------------</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114647"/>41.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114647"/>
+                  </head>
+                  <p rend="justify">A ajouter aux métaphores militaires :</p>
+                  <p rend="justify">Les poètes de combat.</p>
+                  <p rend="justify">Les littérateurs d'avant-garde.</p>
+                  <p rend="justify">Ces habitudes de métaphores militaires dénotent des esprits, non pas militants, mais faits pour la discipline, c'est-à-dire pour la conformité, des esprits nés domestiques, des esprits belges, qui ne peuvent penser qu'en société. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114648"/>XXIV<ptr type="bookmark-end" target="#id___RefHeading___Toc50114648"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114649"/>42.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114649"/>
+                  </head>
+                  <p rend="justify">Le goût du plaisir nous attache au présent. Le soin de notre salut nous suspend à l'avenir.</p>
+                  <p rend="justify">Celui qui s'attache au plaisir, c'est-à-dire au présent, me fait l'effet d'un homme roulant sur une pente, et qui voulant se raccrocher aux arbustes, les arracherait et les emporterait dans sa chute. </p>
+                  <p rend="justify">
+                     <hi rend="italic">Avant tout</hi>, Etre <hi rend="italic">un grand homme</hi> et <hi rend="italic">un Saint</hi> pour soi-même.</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114650"/>43.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114650"/>
+                  </head>
+                  <p rend="justify">De la haine du peuple contre la beauté. </p>
+                  <p rend="justify">Des exemples. </p>
+                  <p rend="justify">Jeanne et Mme Muller. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114651"/>XXV<ptr type="bookmark-end" target="#id___RefHeading___Toc50114651"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114652"/>44.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114652"/>
+                  </head>
+                  <p rend="justify">POLITIQUE.</p>
+                  <p rend="justify">En somme, devant l'histoire et devant le peuple français, la grande gloire de Napoléon III aura été de prouver que le premier venu peut, en s'emparant du télégraphe et de l'Imprimerie nationale, gouverner une grande nation.</p>
+                  <p rend="justify">Imbéciles sont ceux qui croient que de pareilles choses peuvent s'accomplir sans la permission du peuple, - et ceux qui croient que la gloire ne peut être appuyée que sur la vertu !</p>
+                  <p rend="justify">Les dictateurs sont les domestiques du peuple, - rien de plus, - un foutu rôle d'ailleurs, - et la gloire est le résultat de l'adaptation d'un esprit avec la sottise nationale. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114653"/>45.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114653"/>
+                  </head>
+                  <p rend="justify">Qu'est-ce que l'amour ?</p>
+                  <p rend="justify">Le besoin de sortir de soi.</p>
+                  <p rend="justify">L'homme est un animal adorateur.</p>
+                  <p rend="justify">Adorer, c'est se sacrifier et se prostituer. </p>
+                  <p rend="justify">Aussi tout amour est-il prostitution.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">MON CŒUR MIS À NU        [fragment non numéroté]</p>
+                  <p rend="justify">L'être le plus prostitué, c'est l'être par excellence, c'est Dieu, puisqu'il est l'ami suprême pour chaque individu, puisqu'il est le réservoir commun, inépuisable, de l'amour.</p>
+                  <p rend="justify">[Fragment non numéroté]</p>
+                  <p rend="justify">PRIÈRE</p>
+                  <p rend="justify">Ne me châtiez pas dans ma mère et ne châtiez pas ma mère à cause de moi. - Je vous recommande les âmes de mon père et de Mariette. - Donnez-moi la force de faire immédiatement mon devoir tous les jours et de devenir ainsi un héros et un Saint. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114654"/>XXVI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114654"/>
+               </head>
+               <p rend="justify">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114655"/>46.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114655"/>
+                  </head>
+                  <p rend="justify">Un chapitre sur l'indestructible, éternelle, universelle et ingénieuse férocité humaine.</p>
+                  <p rend="justify">De l'amour du sang.</p>
+                  <p rend="justify">De l'ivresse du sang.</p>
+                  <p rend="justify">De l'ivresse des foules.</p>
+                  <p rend="justify">De l'ivresse du supplicié (Damiens). </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114656"/>47.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114656"/>
+                  </head>
+                  <p rend="justify">Il n'y a de grand parmi les hommes que le poète, le prêtre et le soldat, l'homme qui chante, l’homme qui bénit, l'homme qui sacrifie et se sacrifie.</p>
+                  <p rend="justify">Le reste est fait pour le fouet.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Défions-nous du peuple, du bon sens, du coeur, de l'inspiration, et de l'évidence.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114657"/>XXVII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114657"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114658"/>48.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114658"/>
+                  </head>
+                  <p rend="justify">J'ai toujours été étonné qu'on laissât les femmes entrer dans les églises. Quelle conversation peuvent-elles tenir avec Dieu ?</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">L'éternelle Vénus (caprice, hystérie, fantaisie) est une des formes séduisantes du Diable.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Le jour où le jeune écrivain corrige sa première épreuve, il est fier comme un écolier qui vient de gagner sa première vérole.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Ne pas oublier un grand chapitre sur l'art de la divination, par l'eau, les cartes, l'inspection de la main, etc.</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114659"/>49.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114659"/>
+                  </head>
+                  <p rend="justify">La femme ne sait pas séparer l'âme du corps. Elle est simpliste, comme les animaux. - Un satirique dirait que c'est parce qu'elle n'a que le corps.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Un chapitre sur</p>
+                  <p rend="justify">La <hi rend="italic">Toilette</hi>.</p>
+                  <p rend="justify">Moralité de la Toilette</p>
+                  <p rend="justify">Les bonheurs de la Toilette. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114660"/>XXVIII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114660"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114661"/>50.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114661"/>
+                  </head>
+                  <p rend="justify">De la cuistrerie.</p>
+                  <p rend="justify">des professeurs</p>
+                  <p rend="justify">des juges</p>
+                  <p rend="justify">des prêtres</p>
+                  <p rend="justify">et des ministres.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Les jolis grands hommes du jour.</p>
+                  <p rend="justify">Renan.</p>
+                  <p rend="justify">Feydeau. </p>
+                  <p rend="justify">Octave Feuillet.</p>
+                  <p rend="justify">Scholl.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Les directeurs de journaux, François Buloz, Houssaye, Rouy, Girardin, Texier, de Calonne, Solar, Turgan, Dalloz.</p>
+                  <p rend="justify">- Liste de canailles, Solar en tête.</p>
+                  <p rend="center">------------</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114662"/>51.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114662"/>
+                  </head>
+                  <p rend="justify">Être un grand homme et un saint <hi rend="italic">pour soi-même</hi>, voilà l'unique chose importante.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114663"/>XXIX<ptr type="bookmark-end" target="#id___RefHeading___Toc50114663"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114664"/>52.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114664"/>
+                  </head>
+                  <p rend="justify">Nadar, c'est la plus étonnante expression de vitalité. Adrien me disait que son frère Félix avait tous les viscères en double. J'ai été jaloux de lui à le voir si bien réussir dans tout ce qui n'est pas l'abstrait.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Veuillot est si grossier et si ennemi des arts qu'on dirait que toute la Démocratie du monde s'est réfugiée dans son sein.</p>
+                  <p rend="justify">Développement du portrait. </p>
+                  <p rend="justify">Suprématie de l'idée pure, chez le chrétien comme chez le communiste babouviste.</p>
+                  <p rend="justify">Fanatisme de l'humilité. Ne pas même aspirer à comprendre la Religion. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114665"/>53.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114665"/>
+                  </head>
+                  <p rend="justify">Musique.</p>
+                  <p rend="justify">De l'esclavage.</p>
+                  <p rend="justify">Des femmes du monde.</p>
+                  <p rend="justify">Des filles.</p>
+                  <p rend="justify">Des magistrats.</p>
+                  <p rend="justify">Des sacrements.</p>
+                  <p rend="justify">L'homme de lettres est l'ennemi du monde.</p>
+                  <p rend="justify">Des bureaucrates. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114666"/>XXX<ptr type="bookmark-end" target="#id___RefHeading___Toc50114666"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114667"/>54.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114667"/>
+                  </head>
+                  <p rend="justify">Dans l'amour comme dans presque toutes les affaires humaines, l'entente cordiale est le résultat d'un malentendu. Ce malentendu, c'est le plaisir. L'homme crie : « O ! mon ange ! » La femme roucoule : « Maman ! maman ! Et ces deux imbéciles sont persuadés qu'ils pensent de concert. - Le gouffre infranchissable, qui fait l'incommunicabilité, reste infranchi. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114668"/>55.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114668"/>
+                  </head>
+                  <p rend="justify">Pourquoi le spectacle de la mer est-il si infiniment et si éternellement agréable ? </p>
+                  <p rend="justify">Parce que la mer offre à la fois l'idée de l'immensité et du mouvement. Six ou sept lieues représentent pour l'homme le rayon de l'infini. Voilà un infini diminutif. Qu'importe s'il suffit à suggérer l'idée de l'infini total ? Douze ou quatorze lieues (sur le diamètre), douze ou quatorze de liquide en mouvement suffisent pour donner la plus haute idée de beauté qui soit offerte à l'homme sur son habitacle transitoire. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114669"/>XXXI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114669"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114670"/>56.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114670"/>
+                  </head>
+                  <p rend="justify">Il n'y a rien d'intéressant sur la terre que les religions.</p>
+                  <p rend="justify">Qu'est-ce que la Religion universelle ? (Chateaubriand, de Maistre, les Alexandrins, Capé).</p>
+                  <p rend="justify">Il y a une Religion Universelle faite pour les Alchimistes de la Pensée, une Religion qui se dégage de l'homme, considéré comme mémento divin. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114671"/>57.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114671"/>
+                  </head>
+                  <p rend="justify">Saint-Marc Girardin a dit un mot qui restera : <hi rend="italic">Soyons médiocres</hi>.</p>
+                  <p rend="justify">Rapprochons ce mot de celui de Robespierre : Ceux qui ne croient pas à l'immortalité de leur être se rendent justice ».</p>
+                  <p rend="justify">Le mot de Saint-Marc G[irardin] implique une immense haine contre le sublime.</p>
+                  <p rend="justify">Qui a vu S[ain]t-M[arc] G[irardin] marcher dans la rue a conçu tout de suite l'idée d'une grande oie infatuée d'elle-même, mais effarée et courant sur la grande route, devant la diligence. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114672"/>XXXII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114672"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114673"/>58.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114673"/>
+                  </head>
+                  <p rend="justify">Théorie de la vraie civilisation. </p>
+                  <p rend="justify">Elle n'est pas dans le gaz, ni dans la vapeur, ni dans les tables tournantes, elle est dans la diminution des traces du péché originel. </p>
+                  <p rend="justify">Peuples nomades, pasteurs, chasseurs, agricoles et même anthropophages, <hi rend="italic">tous</hi> peuvent être supérieurs par l'énergie, par la dignité personnelles, à nos races d'Occident.</p>
+                  <p rend="justify">Celles-ci peut-être seront détruites.</p>
+                  <p rend="justify">Théocratie et communisme. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114674"/>59.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114674"/>
+                  </head>
+                  <p rend="justify">C'est par le loisir que j'ai, en partie, grandi.</p>
+                  <p rend="justify">A mon grand détriment ; car le loisir, sans fortune, augmente les dettes, les avanies résultant des dettes.</p>
+                  <p rend="justify">Mais à mon grand profit, relativement à la sensibilité, à la méditation, et à la faculté du dandysme et du dilettantisme.</p>
+                  <p rend="justify">Les autres hommes de lettres sont, pour la plupart, de vils piocheurs très ignorants. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114675"/>XXXIII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114675"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114676"/>60.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114676"/>
+                  </head>
+                  <p rend="justify">La jeune fille des éditeurs.</p>
+                  <p rend="justify">La jeune fille des rédacteurs en chef.</p>
+                  <p rend="justify">La jeune fille épouvantail, monstre, assassin de l'art.</p>
+                  <p rend="justify">La jeune fille, ce qu'elle est en réalité.</p>
+                  <p rend="justify">Une petite sotte et une petite salope ; la plus grande imbécillité unie à la plus grande dépravation.</p>
+                  <p rend="justify">Il y a dans la jeune fille toute l'abjection du voyou et du collégien. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114677"/>61.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114677"/>
+                  </head>
+                  <p rend="justify">Avis aux non-communistes :</p>
+                  <p rend="justify">Tout est commun, même Dieu. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114678"/>XXXIV<ptr type="bookmark-end" target="#id___RefHeading___Toc50114678"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114679"/>62.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114679"/>
+                  </head>
+                  <p rend="justify">Le Français est un animal de basse-cour, si bien domestiqué qu'il n'ose franchir aucune palissade. Voir ses goûts en art et en littérature.</p>
+                  <p rend="justify">C'est un animal de race latine ; l'ordure ne lui déplaît pas dans son domicile, et en littérature, il est scatophage. Il raffole des excréments. Les littérateurs d'estaminet appellent cela le <hi rend="italic">sel gaulois</hi>.</p>
+                  <p rend="justify">Bel exemple de la bassesse française, de la nation qui se prétend indépendante avant toutes les autres.</p>
+                  <p rend="justify">L'extrait suivant du beau livre de M. de Vaulabelle suffira pour donner une idée de l'impression que fit l'évasion de Lavalette sur la portion la moins éclairée du parti royaliste :</p>
+                  <p rend="justify">« L'emportement royaliste, à ce moment de la seconde Restauration, allait pour ainsi dire, jusqu'à la folie. La jeune Joséphine de Lavalette faisait son éducation dans l'un des principaux couvents de Paris (l'Abbaye-aux-Bois) ; elle ne l'avait quitté que pour venir embrasser son père. Lorsqu'elle rentra après l'évasion et que l'on connut la part bien modeste qu'elle y avait prise, une immense clameur s'éleva contre cette enfant ; les religieuses et ses compagnes la fuyaient, et bon nombre de parents déclarèrent qu'ils retireraient leurs filles si on la gardait. Ils ne voulaient pas, disaient-ils, laisser leurs enfants en contact avec une jeune personne qui avait tenu une pareille conduite et donné un pareil exemple. Quand Mme de Lavalette, six semaines après, recouvra la liberté, elle fut obligée de reprendre sa fille ». </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114680"/>XXXV<ptr type="bookmark-end" target="#id___RefHeading___Toc50114680"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114681"/>63.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114681"/>
+                  </head>
+                  <p rend="justify">Princes et générations.</p>
+                  <p rend="justify">Il y a une égale injustice à attribuer aux princes régnants les mérites et les vices du peuple actuel qu'ils gouvernent. </p>
+                  <p rend="justify">Ces mérites et ces vices sont presque toujours, comme la statistique et la logique le pourraient démontrer, attribuables à l'atmosphère du gouvernement précédent.</p>
+                  <p rend="justify">Louis XIV hérite des hommes de Louis XIII.. Gloire.</p>
+                  <p rend="justify">Napoléon Ier hérite des hommes de la République. Gloire. </p>
+                  <p rend="justify">Louis-Philippe hérite des hommes de Charles X. Gloire. </p>
+                  <p rend="justify">Napoléon III hérite des hommes de Louis-Philippe. Déshonneur.</p>
+                  <p rend="justify">C'est toujours le gouvernement précédent qui est responsable des moeurs du suivant, en tant qu'un gouvernement puisse être responsable de quoi que ce soit.</p>
+                  <p rend="justify">Les coupures brusques que les circonstances font dans les règnes ne permettent pas que cette loi soit absolument exacte, relativement au temps. On ne peut pas marquer exactement où finit une influence - mais cette influence subsistera dans toute la génération qui l'a subie dans sa jeunesse. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114682"/>XXXVI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114682"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114683"/>64.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114683"/>
+                  </head>
+                  <p rend="justify">De la haine de la jeunesse contre les citateurs. Le citateur est pour eux un ennemi.</p>
+                  <p rend="justify">Je mettrai l'orthographe même sous la main du bourreau. (Th. Gautier).</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Beau tableau à faire : la Canaille Littéraire.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Ne pas oublier un portrait de Forgues, le Pirate, l'Ecumeur de Lettres.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Goût invincible de la prostitution dans le coeur de l'homme, d'où naît son horreur de la solitude. - Il veut être <hi rend="italic">deux</hi>. L'homme de génie veut être <hi rend="italic">un</hi>, donc solitaire.</p>
+                  <p rend="justify">La gloire, c'est rester <hi rend="italic">un</hi>, et se prostituer d'une manière particulière.</p>
+                  <p rend="justify">C'est cette horreur de la solitude, le besoin d'oublier son <hi rend="italic">moi</hi> dans la chair extérieure, que l'homme appelle noblement <hi rend="italic">besoin d'aimer</hi>.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Deux belles religions, immortelles sur les murs, éternelles obsessions du peuple : une pine (le phallus antique) - et « Vive Barbès ! » ou « A bas Philippe ! » ou « Vive la République ! ».</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114684"/>XXXVII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114684"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114685"/>65.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114685"/>
+                  </head>
+                  <p rend="justify">Étudier dans tous ses modes, dans les oeuvres de la nature et dans les oeuvres de l'homme, l'universelle et éternelle loi de la gradation, du <hi rend="italic">peu à peu</hi>, du <hi rend="italic">petit à petit</hi>, avec les forces progressivement croissantes, comme les intérêts composés, en matière de finances.</p>
+                  <p rend="justify">Il en est de même dans <hi rend="italic">l'habileté artistique et littéraire</hi>, il en est de même dans le trésor variable de la <hi rend="italic">volonté</hi>.</p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114686"/>66.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114686"/>
+                  </head>
+                  <p rend="justify">La cohue des petits littérateurs, qu'on voit aux enterrements, distribuant des poignées de mains, et se recommandant à la mémoire du faiseur de <hi rend="italic">courriers</hi>.</p>
+                  <p rend="justify">De l'enterrement des hommes célèbres. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114687"/>67.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114687"/>
+                  </head>
+                  <p rend="justify">Molière. Mon opinion sur <hi rend="italic">Tartuffe</hi> est que ce n'est pas une comédie, mais un pamphlet. Un athée, s'il est simplement un homme bien élevé, pensera, à propos de cette pièce, qu'il ne faut jamais livrer certaines questions graves à la canaille.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114688"/>XXXVIII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114688"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114689"/>68. <ptr type="bookmark-end" target="#id___RefHeading___Toc50114689"/>
+                  </head>
+                  <p rend="justify">Glorifier le culte des images (ma grande, mon unique, ma primitive passion).</p>
+                  <p rend="justify">Glorifier le vagabondage et ce qu'on peut appeler le Bohémianisme, culte de la sensation multipliée, s'exprimant par la musique. En référer à Liszt.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">De la nécessité de battre les femmes.</p>
+                  <p rend="justify">On peut châtier ce que l'on aime. Ainsi les enfants. Mais cela implique la douleur de mépriser ce que l'on aime.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Du cocuage et des cocus.</p>
+                  <p rend="justify">La douleur du cocu.</p>
+                  <p rend="justify">Elle naît de son orgueil, d'un raisonnement faux sur l'honneur et sur le bonheur, et d'un amour niaisement détourné de Dieu pour être attribué aux créatures.</p>
+                  <p rend="justify">C'est toujours l'animal adorateur se trompant d'idole. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114690"/>69.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114690"/>
+                  </head>
+                  <p rend="justify">Analyse de l'imbécillité insolente. Clément de Ris et Paul Pérignon.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114691"/>XXXIX<ptr type="bookmark-end" target="#id___RefHeading___Toc50114691"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114692"/>70.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114692"/>
+                  </head>
+                  <p rend="justify">Plus l'homme cultive les arts, moins il bande.</p>
+                  <p rend="justify">Il se fait un divorce de plus en plus sensible entre l'esprit et la brute.</p>
+                  <p rend="justify">La brute seule bande bien, et la fouterie est le lyrisme du peuple.</p>
+                  <p rend="center">----------</p>
+                  <p rend="justify">Foutre, c'est aspirer à entrer dans un autre, et l'artiste ne sort jamais de lui-même.</p>
+                  <p rend="center">----------</p>
+                  <p rend="justify">J'ai oublié le nom de cette salope... ah ! bah ! je le retrouverai au jugement dernier.</p>
+                  <p rend="center">----------</p>
+                  <p rend="justify">La musique donne l'idée de l'espace.</p>
+                  <p rend="justify">Tous les arts, plus ou moins ; puisqu'ils sont <hi rend="italic">nombre</hi> et que le nombre est une traduction de l'espace.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Vouloir tous les jours être le plus grand des hommes !!! </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114693"/>71.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114693"/>
+                  </head>
+                  <p rend="justify">Étant enfant, je voulais être tantôt pape, mais pape militaire, tantôt comédien.</p>
+                  <p rend="justify">Jouissances que je tirais de ces deux hallucinations.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114694"/>XL<ptr type="bookmark-end" target="#id___RefHeading___Toc50114694"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114695"/>72.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114695"/>
+                  </head>
+                  <p rend="justify">Tout enfant, j'ai senti dans mon cœur deux sentiments contradictoires, l'horreur de la vie et l'extase de la vie. </p>
+                  <p rend="justify">C'est bien le fait d'un paresseux nerveux. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114696"/>73.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114696"/>
+                  </head>
+                  <p rend="justify">Les nations n'ont de grands hommes que malgré elles.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">A propos du comédien et de mes rêves d'enfance, un chapitre sur ce qui constitue, dans l'âme humaine, la vocation du comédien, la gloire du comédien, l'art du comédien, et sa situation dans le monde.</p>
+                  <p rend="justify">La théorie de Legouvé. Legouvé est-il un farceur froid, un Swift, qui a essayé si la France pouvait avaler une nouvelle absurdité ?<lb/>
+                  </p>
+                  <p rend="justify">Son choix. Bon, en ce sens que Samson n'est pas un comédien.</p>
+                  <p rend="justify">De la vraie grandeur des parias.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Peut-être même, la vertu nuit-elle aux talents des parias.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114697"/>XLI<ptr type="bookmark-end" target="#id___RefHeading___Toc50114697"/>
+               </head>
+               <p rend="start">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114698"/>74.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114698"/>
+                  </head>
+                  <p rend="justify">Le commerce est, par son essence, <hi rend="italic">satanique</hi>.</p>
+                  <p>
+                     <lb/>- Le commerce, c'est le prêté-rendu, c'est le prêt avec le sous-entendu : <hi rend="italic">Rends-moi plus que je ne te donne</hi>.<lb/>
+                  </p>
+                  <p>- L'esprit de tout commerçant est complètement vicié.<lb/>
+                  </p>
+                  <p>- Le commerce est <hi rend="italic">naturel</hi>, <hi rend="italic">donc</hi> il est <hi rend="italic">infâme</hi>.<lb/>
+                  </p>
+                  <p>- Le moins infâme de tous les commerçants, c'est celui qui dit : Soyons vertueux pour gagner beaucoup plus d'argent que les sots qui sont vicieux.<lb/>
+                  </p>
+                  <p>- Pour le commerçant, l'honnêteté elle-même est une spéculation de lucre.<lb/>
+                  </p>
+                  <p>- Le commerce est satanique, parce qu'il est une des formes de l'égoïsme, et la plus basse et la plus vile. </p>
+                  <p rend="start">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114699"/>75.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114699"/>
+                  </head>
+                  <p rend="justify">Quand Jésus-Christ dit : « Heureux ceux qui sont affamés, car ils seront rassasiés  », Jésus-Christ fait un calcul de probabilités.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114700"/>XLII<ptr type="bookmark-end" target="#id___RefHeading___Toc50114700"/>
+               </head>
+               <p rend="justify">MON CŒUR MIS À NU </p>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114701"/>76.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114701"/>
+                  </head>
+                  <p rend="justify">Le monde ne marche que par le Malentendu.</p>
+                  <p rend="justify">- C'est par le Malentendu universel que tout le monde s'accorde.<lb/>
+                  </p>
+                  <p rend="justify">- Car si, par malheur, on se comprenait, on ne pourrait jamais s'accorder.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">L'homme d'esprit, celui qui ne s'accordera jamais avec personne, doit s'appliquer à aimer la conversation des imbéciles et la lecture des mauvais livres. Il en tirera des jouissances amères qui compenseront largement sa fatigue. </p>
+                  <p rend="justify">MON CŒUR MIS À NU </p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114702"/>77.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114702"/>
+                  </head>
+                  <p rend="justify">Un fonctionnaire quelconque, un ministre, un directeur de théâtre ou de journal, peuvent être quelquefois des êtres estimables, mais ils ne sont jamais divins. Ce sont des personnes sans personnalité, des êtres sans originalité, nés pour la fonction, c'est-à-dire pour la domesticité publique. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>XLIII</label>
+                  <lb/>Mon cœur mis à nu</head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114704"/>78.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114704"/>
+                  </head>
+                  <p rend="justify">Dieu et sa profondeur. </p>
+                  <p rend="justify">On peut ne pas manquer d'esprit et chercher dans Dieu le complice et l'ami qui manquent toujours. Dieu est l'éternel confident dans cette tragédie dont chacun est le héros. Il y a peut-être des usuriers et des assassins qui disent à Dieu : « Seigneur, faites que ma prochaine opération réussisse ! » Mais la prière de ces vilaines gens ne gâte pas l'honneur et le plaisir de la mienne. </p>
+                  <subtitle>MON CŒUR MIS À NU </subtitle>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114705"/>79.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114705"/>
+                  </head>
+                  <p rend="justify">Toute idée est, par elle-même, douée d'une vie immortelle, comme une personne.</p>
+                  <p rend="justify">Toute forme créée, même par l'homme, est immortelle. Car la forme est indépendante de la matière, et ce ne sont pas les molécules qui constituent la forme.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Anecdotes relatives à Émile Douay et à Constantin Guys, détruisant ou plutôt croyant détruire leurs oeuvres. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>XLIV</label>
+                  <lb/>Mon cœur mis à nu</head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114707"/>80.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114707"/>
+                  </head>
+                  <p rend="justify">Il est impossible de parcourir une gazette quelconque, de n'importe quel jour ou quel mois ou quelle année, sans y trouver à chaque ligne les signes de la perversité humaine la plus épouvantable, en même temps que les <hi rend="italic">vanteries</hi> les plus surprenantes de probité, de bonté, de charité, et les affirmations les plus effrontées relatives au progrès et à la civilisation.</p>
+                  <p rend="justify">Tout journal, de la première ligne à la dernière, n'est qu'un tissu d'horreurs. Guerres, crimes, vols, impudicités, tortures, crimes des princes, crimes des nations, crimes des particuliers, une ivresse d'atrocité universelle.</p>
+                  <p rend="justify">Et c'est de ce dégoûtant apéritif que l'homme civilisé accompagne son repas de chaque matin. Tout, en ce monde, sue le crime : le journal, la muraille et le visage de l'homme.</p>
+                  <p rend="justify">Je ne comprends pas qu'une main puisse toucher un journal sans une convulsion de dégoût. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>XLV</label>
+                  <lb/>Mon cœur mis à nu</head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114709"/>81.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114709"/>
+                  </head>
+                  <p rend="justify">La force de l'amulette démontrée par la philosophie. Les sols percés, les talismans, les souvenirs de chacun.</p>
+                  <p rend="justify">Traité de Dynamique morale. </p>
+                  <p rend="justify">De la vertu des sacrements.</p>
+                  <p rend="justify">Dès mon enfance, tendance à la mysticité. Mes conversations avec Dieu. </p>
+                  <subtitle>MON CŒUR MIS À NU </subtitle>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114710"/>82.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114710"/>
+                  </head>
+                  <p rend="justify">De l'Obsession, de la Possession, de la prière et de la Foi.</p>
+                  <p rend="justify">Dynamique morale de Jésus.</p>
+                  <p rend="justify">(Renan trouve ridicule que Jésus croie à la toute-puissance, même matérielle, de la Prière et de la Foi).</p>
+                  <p rend="justify">Les sacrements sont les moyens de cette Dynamique.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">De l'infamie de l'imprimerie, grand obstacle au développement du Beau.</p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Belle conspiration à organiser pour l'extermination de la Race Juive.</p>
+                  <p rend="justify">Les Juifs, <hi rend="italic">Bibliothécaires</hi> et témoins de la <hi rend="italic">Rédemption</hi>.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>XLVI</label>
+                  <lb/>Mon cœur mis à nu</head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114712"/>83.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114712"/>
+                  </head>
+                  <p rend="justify">Tous les imbéciles de la Bourgeoisie qui prononcent sans cesse les mots : « immoral, immoralité, moralité dans l'art » et autres bêtises me font penser à Louise Villedieu, putain à cinq francs, qui m'accompagnant une fois au Louvre, où elle n'était jamais allée, se mit à rougir, à se couvrir le visage, et me tirant à chaque instant par la manche, me demandait, devant les statues et les tableaux immortels, comment on pouvait étaler publiquement de pareilles indécences. </p>
+                  <p rend="center">------------</p>
+                  <p rend="justify">Les feuilles de vigne du sieur Nieuwerkerke. </p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>XLVII</label>
+                  <lb/>Mon cœur mis à nu</head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114714"/>84.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114714"/>
+                  </head>
+                  <p rend="justify">Pour que la loi du progrès existât, il faudrait que chacun voulût la créer ; c'est-à-dire que quand tous les individus s'appliqueront à progresser, alors, et seulement alors, l'humanité sera en progrès.</p>
+                  <p rend="justify">Cette hypothèse peut servir à expliquer l'identité des deux idées contradictoires, liberté et fatalité. - Non seulement il y aura, dans le cas de progrès, identité entre la liberté et la fatalité, mais cette identité a toujours existé. Cette identité c'est l'<hi rend="italic">histoire</hi>, histoire des nations et des individus.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>XLVIII</label>
+                  <lb/>Mon cœur mis à nu</head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc50114716"/>85.<ptr type="bookmark-end" target="#id___RefHeading___Toc50114716"/>
+                  </head>
+                  <epigraph>Sonnet à citer dans Mon coeur mis à nu.<lb/>Citer également la pièce sur <hi rend="italic">Roland</hi>.</epigraph>
+                  <lg>
+                     <l>Je songeais cette nuit que Philis revenue,</l>
+                     <l>Belle comme elle était à la clarté du jour,</l>
+                     <l>Voulait que son fantôme encore fît l'amour,</l>
+                     <l>Et que, comme Ixion, j'embrassasse une nue. </l>
+                  </lg>
+                  <lg>
+                     <l>Son ombre dans mon lit se glisse toute nue,</l>
+                     <l>Et me dit : « Cher Damon, me voici de retour ;</l>
+                     <l>Je n'ai fait qu'embellir en ce triste séjour</l>
+                     <l>Où depuis mon départ le Sort m'a retenue. </l>
+                  </lg>
+                  <lg>
+                     <l>« Je viens pour rebaiser le plus beau des amants ;</l>
+                     <l>Je viens pour remourir dans tes embrassements ! »</l>
+                     <l>Alors, quand cette idole eut abusé ma flamme, </l>
+                  </lg>
+                  <lg>
+                     <l>Elle me dit : « Adieu ! Je m'en vais chez les morts.</l>
+                     <l>Comme tu t'es vanté d'avoir foutu mon corps,</l>
+                     <l>Tu pourras te vanter d'avoir foutu mon âme. » </l>
+                  </lg>
+                  <trailer>Parnasse satyrique.</trailer>
+                  <p rend="justify">Je crois que ce sonnet est de Maynard. </p>
+                  <p rend="justify">Malassis prétend qu'il est de Racan.</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head> À propos de cette édition électronique</head>
+               <p rend="justify">Texte libre de droits.</p>
+               <p rend="justify">Corrections, édition, conversion informatique et publication par le groupe :<lb/>
+               </p>
+               <p rend="justify">Ebooks libres et gratuits</p>
+               <p rend="justify">
+                  <ptr target="http://fr.groups.yahoo.com/group/ebooksgratuits"/>
+               </p>
+               <p rend="justify">Adresse du site web du groupe :<lb/>
+                  <ptr target="http://www.ebooksgratuits.com/"/>
+               </p>
+               <p rend="justify">——</p>
+               <p rend="justify">22 août 2003</p>
+               <p rend="justify">——</p>
+               <p rend="justify">- Source :</p>
+               <p rend="justify">Bibliothèque de Lisieux - <ptr target="http://www.bmlisieux.com/"/>; texte corrigé par Christine Belcikowski, membre du groupe Ebooks libres et gratuits et du site PDACool, à l’aide de l’édition de la Pléiade</p>
+               <p rend="justify">- Dispositions :</p>
+               <p rend="justify">Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, <hi rend="underline">à une fin non commerciale et non professionnelle</hi>. Si vous désirez les faire paraître sur votre site, ils ne doivent pas être altérés en aucune sorte. <hi rend="bold">Tout lien vers notre site est bienvenu…</hi>
+               </p>
+               <p rend="justify">- Qualité :</p>
+               <p>Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l'original. Nous rappelons que c'est un travail d'amateurs non rétribués et nous essayons de promouvoir la culture littéraire avec de maigres moyens.</p>
+               <p rend="justify">Votre aide est la bienvenue !</p>
+               <p rend="justify">VOUS POUVEZ NOUS AIDER<lb/>À CONTRIBUER À FAIRE CONNAÎTRE<lb/>CES CLASSIQUES LITTÉRAIRES.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Viaje a la luna</title>
+            <author>García Lorca,Federico</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:25:38Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-16T01:06:32.512713760</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Viaje a la luna</head>
+         <author>García Lorca,Federico</author>
+         <div type="div1">
+            <head>Viaje a la luna</head>
+            <p rend="bold">1</p>
+            <p rend="justify">
+               <hi rend="italic">Cama blanca sobre una pared gris. Sobre los paños</hi> 
+               <hi rend="italic">surge un baile de números 13 y 22. Desde dos em-piezan a surgir hasta que cubren la cama como hor-migas diminutas.</hi>
+            </p>
+            <p rend="italic">2</p>
+            <p rend="italic">Una mano invisible arranca los paños.</p>
+            <p rend="italic">3</p>
+            <p>
+               <hi rend="italic">Pies grandes corren rápidamente con exagerados</hi> 
+               <hi rend="italic">calcetines de rombos blancos y negros.</hi>
+            </p>
+            <p rend="italic">4</p>
+            <p rend="italic">Cabeza asustada que mira fija un punto y se disuelve sobre una cabeza de alambre con un fondo de agua.</p>
+            <p rend="italic">5</p>
+            <p>
+               <hi rend="italic">Letras que digan Socorro Socorro Socorro con doble</hi> 
+               <hi rend="italic">exposición sobre un sexo de mujer con movimiento</hi> 
+               <hi rend="italic">de arriba abajo.</hi>
+            </p>
+            <p rend="italic">6</p>
+            <p>
+               <hi rend="italic">Pasillo largo recorrido por la máquina con ventana</hi> 
+               <hi rend="italic">de final.</hi>
+            </p>
+            <p rend="italic">7</p>
+            <p rend="italic">Vista de Broadway de noche con movimiento de tic-tac. Se disuelve en el anterior.</p>
+            <p rend="italic">8</p>
+            <p rend="italic">Seis piernas oscilan con gran rapidez.</p>
+            <p rend="italic">9</p>
+            <p rend="justify">
+               <hi rend="italic">Las piernas se disuelven sobre un grupo de manos</hi> 
+               <hi rend="italic">que tiemblan.</hi>
+            </p>
+            <p rend="italic">10</p>
+            <p rend="justify">
+               <hi rend="italic">Las manos que tiemblan sobre una doble exposición</hi> 
+               <hi rend="italic">de un niño que llora.</hi>
+            </p>
+            <p rend="italic">11</p>
+            <p rend="justify">
+               <hi rend="italic">Y el niño que llora sobre una doble exposición de</hi> 
+               <hi rend="italic">una mujer que le da una paliza.</hi>
+            </p>
+            <p rend="italic">12</p>
+            <p rend="justify">
+               <hi rend="italic">Esta paliza se disuelve sobre el pasillo largo otra vez,</hi> 
+               <hi rend="italic">que la máquina recorre con rapidez.</hi>
+            </p>
+            <p rend="italic">13</p>
+            <p rend="justify">
+               <hi rend="italic">Al final un gran plano de un ojo sobre una doble</hi> 
+               <hi rend="italic">exposición de peces, y se disuelve sobre el siguiente.</hi>
+            </p>
+            <p rend="italic">14</p>
+            <p rend="justify">
+               <hi rend="italic">Caída rápida por una montaña rusa en color azul</hi> 
+               <hi rend="italic">con doble exposición de letras de Socorro Socorro.</hi>
+            </p>
+            <p rend="italic">15</p>
+            <p rend="justify">
+               <hi rend="italic">Cada letrero de Socorro Socorro se disuelve en la</hi> 
+               <hi rend="italic">huella de un pie.</hi>
+            </p>
+            <p rend="italic">16</p>
+            <p rend="justify">
+               <hi rend="italic">Y cada huella de pie en un gusano de seda sobre una</hi> 
+               <hi rend="italic">hoja en fondo blanco.</hi>
+            </p>
+            <p rend="italic">17</p>
+            <p rend="justify">
+               <hi rend="italic">De los gusanos de seda sale una gran cabeza muerta</hi> 
+               <hi rend="italic">y de la cabeza muerta un cielo con luna.</hi>
+            </p>
+            <p rend="italic">18</p>
+            <p rend="justify">
+               <hi rend="italic">La luna se corta y aparece un dibujo de una cabeza</hi> 
+               <hi rend="italic">que vomita y abre y cierra los ojos y se disuelve sobre</hi>
+            </p>
+            <p rend="italic">19</p>
+            <p rend="italic">dos niños que avanzan cantando con los ojos cerra-dos.</p>
+            <p rend="italic">20</p>
+            <p rend="justify">
+               <hi rend="italic">Cabezas de los niños que cantan llenas de manchas</hi> 
+               <hi rend="italic">de tinta.</hi>
+            </p>
+            <p rend="italic">21</p>
+            <p rend="justify">
+               <hi rend="italic">Un plano blanco sobre el cual se arrojan gotas de</hi> 
+               <hi rend="italic">tinta. (Todos estos cuadros rápidos y bien ritma-dos.)</hi>
+            </p>
+            <p rend="italic">Aquí un letrero que diga No es por aquí.</p>
+            <p rend="italic">22</p>
+            <p rend="italic">Puerta.</p>
+            <p rend="italic">23</p>
+            <p rend="justify">
+               <hi rend="italic">Sale un hombre con una bata blanca. Por el lado</hi> 
+               <hi rend="italic">opuesto viene un muchacho desnudo en traje de</hi>
+            </p>
+            <p rend="italic">baño de grandes cuadros blancos y negros.</p>
+            <p rend="italic">24</p>
+            <p rend="justify">
+               <hi rend="italic">Gran plano del traje de cuadros sobre una doble</hi> 
+               <hi rend="italic">exposición de un pez.</hi>
+            </p>
+            <p rend="italic">25</p>
+            <p rend="justify">
+               <hi rend="italic">El hombre de la bata le ofrece un traje de arlequín</hi> 
+               <hi rend="italic">pero el muchacho rehúsa. Entonces el hombre de la</hi> 
+               <hi rend="italic">bata lo coge por el cuello, el otro grita, pero el hombre de la bata le tapa la boca con el traje de arlequín.</hi>
+            </p>
+            <p rend="italic">26</p>
+            <p rend="justify">
+               <hi rend="italic">Gran plano de manos y traje de arlequín apretando</hi> 
+               <hi rend="italic">con fuerza.</hi>
+            </p>
+            <p rend="italic">27</p>
+            <p rend="justify">
+               <hi rend="italic">Se disuelve sobre una doble exposición de serpientes</hi> 
+               <hi rend="italic">de mar del aquárium y éstas en los cangrejos del</hi> 
+               <hi rend="italic">mismo aquárium y éstos en otros peces con ritmo.</hi>
+            </p>
+            <p rend="italic">28</p>
+            <p rend="justify">
+               <hi rend="italic">Pez vivo sostenido en la mano en un gran plano</hi> 
+               <hi rend="italic">hasta que muera y avance la boquita abierta hasta</hi> 
+               <hi rend="italic">cubrir el objetivo.</hi>
+            </p>
+            <p rend="italic">29</p>
+            <p rend="justify">
+               <hi rend="italic">Dentro de la boquita aparece un gran plano en el</hi> 
+               <hi rend="italic">cual saltan, en agonía, dos peces.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Éstos se convierten en un caleidoscopio en el que</hi> 
+               <hi rend="italic">cien peces saltan o laten en agonía.</hi>
+            </p>
+            <p rend="italic">30</p>
+            <p rend="italic">Letrero: Viaje a la luna.</p>
+            <p rend="italic">Habitación. Dos mujeres vestidas de negro</p>
+            <p rend="justify">
+               <hi rend="italic">lloran sentadas con las cabezas echadas en una mesa</hi> 
+               <hi rend="italic">donde hay una lámpara. Dirigen las manos al cielo.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Planos de los bustos y las manos. Tienen las cabelle-ras echadas sobre las caras y las manos contrahechas</hi> 
+               <hi rend="italic">con espirales de alambre.</hi>
+            </p>
+            <p rend="italic">31</p>
+            <p rend="justify">
+               <hi rend="italic">Siguen las mujeres bajando los brazos y subiéndolos</hi> 
+               <hi rend="italic">al cielo.</hi>
+            </p>
+            <p rend="italic">32</p>
+            <p rend="italic">Una rana cae sobre la mesa.</p>
+            <p rend="italic">33</p>
+            <p rend="justify">
+               <hi rend="italic">Doble exposición de la rana vista enorme sobre un</hi> 
+               <hi rend="italic">fondo de orquídeas agitadas con furia.</hi>
+            </p>
+            <p rend="italic">Se van las orquídeas y aparece una cabeza</p>
+            <p rend="justify">
+               <hi rend="italic">enorme dibujada de mujer que vomita que cambia de</hi> 
+               <hi rend="italic">negativo a positivo y de positivo a negativo rápidamente.</hi>
+            </p>
+            <p rend="italic">34</p>
+            <p rend="justify">
+               <hi rend="italic">Una puerta se cierra violentamente y otra puerta y</hi> 
+               <hi rend="italic">otra y otra sobre una doble exposición de las mujeres</hi> 
+               <hi rend="italic">que suben y bajan los brazos.</hi>
+            </p>
+            <p rend="italic">Al cerrarse cada puerta saldrá un letrero que</p>
+            <p rend="italic">diga: Elena Helena elhena eLHeNa.</p>
+            <p rend="italic">35</p>
+            <p rend="italic">Las mujeres se dirigen rápidamente a la puerta.</p>
+            <p rend="italic">36</p>
+            <p rend="italic">La cámara baja con gran ritmo acelerado las escaleras y con doble exposición las sube.</p>
+            <p rend="italic">37</p>
+            <p rend="italic">Triple exposición de subir y bajar escaleras.</p>
+            <p rend="italic">38</p>
+            <p rend="justify">
+               <hi rend="italic">Doble exposición de barrotes que pasan sobre un</hi> 
+               <hi rend="italic">dibujo:</hi>
+            </p>
+            <p rend="italic">Muerte de Santa Rodegunda.</p>
+            <p rend="italic">39</p>
+            <p rend="italic">Una mujer enlutada se cae por la escalera.</p>
+            <p rend="italic">40</p>
+            <p rend="italic">Gran plano de ella.</p>
+            <p rend="italic">41</p>
+            <p rend="justify">
+               <hi rend="italic">Otra vista de ella muy realista. Lleva pañuelo en la</hi> 
+               <hi rend="italic">cabeza a la manera española. Exposición de las nari-ces echando sangre.</hi>
+            </p>
+            <p rend="italic">42</p>
+            <p rend="justify">
+               <hi rend="italic">Cabeza boca abajo de ella con doble exposición sobre</hi> 
+               <hi rend="italic">un dibujo de venas y granos gordos de sal para el</hi> 
+               <hi rend="italic">relieve.</hi>
+            </p>
+            <p rend="italic">43</p>
+            <p rend="justify">
+               <hi rend="italic">La cámara desde abajo enfoca y sube la escalera. En</hi> 
+               <hi rend="italic">lo alto aparece un desnudo de muchacho. Tiene la</hi> 
+               <hi rend="italic">cabeza como los muñecos anatómicos con los múscu-los y las venas y los tendones. Luego sobre el desnudo lleva dibujado el sistema de la circulación de la</hi> 
+               <hi rend="italic">sangre y arrastra un traje de arlequín.</hi>
+            </p>
+            <p rend="italic">44</p>
+            <p rend="italic">Aparece de medio cuerpo. Y mira de un lado a otro.</p>
+            <p rend="italic">Se disuelve sobre una calle nocturna.</p>
+            <p rend="italic">45</p>
+            <p rend="justify">
+               <hi rend="italic">Ya en la calle nocturna hay tres tipos con gabanes</hi> 
+               <hi rend="italic">que dan muestras de frío. Llevan los cuellos subidos.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Uno mira la luna hacia arriba levantando la cabeza</hi> 
+               <hi rend="italic">y aparece la luna en la pantalla, otro mira la luna y</hi> 
+               <hi rend="italic">aparece una cabeza de pájaro en gran plano a la cual</hi> 
+               <hi rend="italic">se estruja el cuello hasta que muera ante el objetivo,</hi> 
+               <hi rend="italic">el tercero mira la luna y aparece en la pantalla una</hi> 
+               <hi rend="italic">luna dibujada sobre fondo blanco que se disuelve</hi> 
+               <hi rend="italic">sobre un sexo y el sexo en la boca que grita.</hi>
+            </p>
+            <p rend="italic">46</p>
+            <p rend="italic">Huyen los tres por la calle.</p>
+            <p rend="italic">47</p>
+            <p rend="justify">
+               <hi rend="italic">Aparece en la calle el hombre de las venas y queda en</hi> 
+               <hi rend="italic">cruz. Avanza en saltos de pantalla.</hi>
+            </p>
+            <p rend="italic">48</p>
+            <p rend="justify">
+               <hi rend="italic">Se disuelve sobre un cruce en triple exposición de</hi> 
+               <hi rend="italic">trenes rápidos.</hi>
+            </p>
+            <p rend="italic">49</p>
+            <p rend="justify">
+               <hi rend="italic">Los trenes se disuelven sobre una doble exposición</hi> 
+               <hi rend="italic">de teclados de pianos y manos tocando.</hi>
+            </p>
+            <p rend="italic">50</p>
+            <p rend="justify">
+               <hi rend="italic">Se disuelve sobre un bar donde hay varios muchachos vestidos de esmoquin. El camarero les echa vino</hi> 
+               <hi rend="italic">pero no pueden llevarlo a su boca. Los vasos se hacen</hi> 
+               <hi rend="italic">pesadísimos y luchan en una angustia de sueño.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Entra una muchacha casi desnuda y un arlequín y</hi> 
+               <hi rend="italic">bailan en ralentí. Todos prueban a beber pero no</hi> 
+               <hi rend="italic">pueden. El camarero llena sin cesar los vasos, que ya</hi> 
+               <hi rend="italic">están llenos.</hi>
+            </p>
+            <p rend="italic">51</p>
+            <p rend="italic">Aparece el hombre de las venas gesticulante y</p>
+            <p rend="italic">haciendo señas desesperadas y movimientos que</p>
+            <p rend="justify">
+               <hi rend="italic">expresan vida y ritmo acelerado. Todos los hombres</hi> 
+               <hi rend="italic">se quedan adormilados.</hi>
+            </p>
+            <p rend="italic">52</p>
+            <p rend="justify">
+               <hi rend="italic">Una cabeza mira estúpidamente. Se acerca a la pantalla y se disuelve en una rana. El hombre de las</hi> 
+               <hi rend="italic">venas estruja la rana con los dedos.</hi>
+            </p>
+            <p rend="italic">53</p>
+            <p rend="italic">Sale una esponja y una cabeza vendada.</p>
+            <p rend="italic">54</p>
+            <p rend="justify">
+               <hi rend="italic">Se disuelve sobre una calle. La muchacha vestida de</hi> 
+               <hi rend="italic">blanco huye con el arlequín.</hi>
+            </p>
+            <p rend="italic">55</p>
+            <p rend="justify">
+               <hi rend="italic">Aparece una cabeza que vomita. Y en seguida toda la</hi> 
+               <hi rend="italic">gente del bar que vomita.</hi>
+            </p>
+            <p rend="italic">56</p>
+            <p rend="italic">Se disuelve sobre un ascensor donde un negrito vomita. La muchacha y el arlequín suben en el ascensor.</p>
+            <p rend="italic">57</p>
+            <p rend="italic">Suben en el ascensor y se abrazan.</p>
+            <p rend="italic">58</p>
+            <p rend="italic">Plano de un beso sensual.</p>
+            <p rend="italic">59</p>
+            <p rend="justify">
+               <hi rend="italic">El muchacho muerde a la muchacha en el cuello y</hi> 
+               <hi rend="italic">tira violentamente de sus cabellos.</hi>
+            </p>
+            <p rend="italic">60</p>
+            <p rend="justify">
+               <hi rend="italic">Aparece una guitarra. Y una mano rápida corta las</hi> 
+               <hi rend="italic">cuerdas con unas tijeras.</hi>
+            </p>
+            <p rend="italic">61</p>
+            <p rend="justify">
+               <hi rend="italic">La muchacha se defiende del muchacho, y éste con</hi> 
+               <hi rend="italic">gran furia le da otro beso profundo y pone los dedos</hi> 
+               <hi rend="italic">pulgares sobre los ojos como para hundir los dedos</hi> 
+               <hi rend="italic">en ellos.</hi>
+            </p>
+            <p rend="italic">62</p>
+            <p rend="italic">Grita la muchacha y el muchacho de espaldas se</p>
+            <p rend="justify">
+               <hi rend="italic">quita la americana y una peluca y aparece el hombre</hi> 
+               <hi rend="italic">de las venas.</hi>
+            </p>
+            <p rend="italic">63</p>
+            <p rend="justify">
+               <hi rend="italic">Entonces ella se disuelve en un busto de yeso blanco</hi> 
+               <hi rend="italic">y el hombre de las venas la besa apasionadamente.</hi>
+            </p>
+            <p rend="italic">64</p>
+            <p rend="justify">
+               <hi rend="italic">Se ve el busto de yeso con huellas de labios y huellas</hi> 
+               <hi rend="italic">de manos.</hi>
+            </p>
+            <p rend="italic">65</p>
+            <p rend="italic">Vuelven a salir las palabras Elena elena elena elena.</p>
+            <p rend="italic">66</p>
+            <p rend="justify">
+               <hi rend="italic">Estas palabras se disuelven sobre grifos que echan</hi> 
+               <hi rend="italic">agua de manera violenta.</hi>
+            </p>
+            <p rend="italic">67</p>
+            <p rend="justify">
+               <hi rend="italic">Y estos grifos sobre el hombre de las venas muerto</hi> 
+               <hi rend="italic">sobre periódicos abandonados y arenques.</hi>
+            </p>
+            <p rend="italic">68</p>
+            <p rend="italic">Aparece una cama y unas manos que cubren un</p>
+            <p rend="italic">muerto.</p>
+            <p rend="italic">69</p>
+            <p rend="justify">
+               <hi rend="italic">Viene un muchacho con una bata blanca y guantes</hi> 
+               <hi rend="italic">de goma y una muchacha vestida de negro. Pintan</hi>
+            </p>
+            <p rend="italic">un bigote con tinta a una cabeza terrible de muerto.</p>
+            <p rend="italic">Y se besan con grandes risas.</p>
+            <p rend="italic">70</p>
+            <p rend="italic">De ellos surge un cementerio y se les ve besarse sobre una tumba.</p>
+            <p rend="italic">71</p>
+            <p rend="italic">Plano de un beso cursi de cine con otros personajes.</p>
+            <p rend="italic">72</p>
+            <p rend="italic">Y al final con prisa la luna y árboles con viento.</p>
+            <div type="div2">
+               <head>¡Gracias por leer este libro de www.elejandria.com!</head>
+               <p rend="center">Descubre nuestra colección de obras de dominio público en castellano en nuestra web</p>
+               <p rend="center">Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público<lb/>¡Esperamos que lo disfrutéis!</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

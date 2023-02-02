@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recopilación de poemas</title>
+            <author>Castro, Rosalía de</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:22:38Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-22T10:15:27.513479629</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Recopilación de poemas</head>
+         <author>Castro, Rosalía de</author>
+         <p rend="italic">2021-02-08</p>
+         <div type="div1">
+            <head>Recopilación de poemas</head>
+            <div type="div2">
+               <head>A la memoria del poeta gallego Aurelio Aguirre</head>
+               <lg>
+                  <l> Lágrima triste en mi dolor vertida,  </l>
+                  <l>perla del corazón que entre tormentas  </l>
+                  <l>fue en largas horas de pesar nacida,  </l>
+                  <l>en fúnebre memoria convertida  </l>
+                  <l>la flor será que a tu corona enlace;  </l>
+                  <l>las horas de la vida turbulentas  </l>
+                  <l>ajan las flores y el laurel marchitan;  </l>
+                  <l>pero lágrimas, ¡ay!, que el alma esconde,  </l>
+                  <l>llanto de duelo que el dolor fecunda,  </l>
+                  <l>si el triste hueco de una tumba anega  </l>
+                  <l>y sus húmedos hálitos inunda,  </l>
+                  <l>ni el sol de fuego que en Oriente nace  </l>
+                  <l>seco su manantial a dejar llega  </l>
+                  <l>ni en sutiles vapores le deshace,  </l>
+                  <l>¡y es manantial fecundo el llanto mío  </l>
+                  <l>para verter sobre un sepulcro amado  </l>
+                  <l>de mil recuerdos caudaloso río!  </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Desolación</head>
+               <lg>
+                  <l> Del luto de mi noche  </l>
+                  <l>mi ángel funesto  </l>
+                  <l>tejió un velo pesado,  </l>
+                  <l>tupido y denso  </l>
+                  <l>más que las sombras  </l>
+                  <l>que en los hondos abismos  </l>
+                  <l>eternas moran.  </l>
+                  <l> </l>
+                  <l>Negóme desde entonces  </l>
+                  <l>el sol su brillo,  </l>
+                  <l>¡ay!, negóme la luna  </l>
+                  <l>su fulgor tímido,  </l>
+                  <l>y la esperanza  </l>
+                  <l>no alumbró más el yermo  </l>
+                  <l>de mis entrañas.  </l>
+                  <l> </l>
+                  <l>Por eso todo, todo...  </l>
+                  <l>para mí ha muerto.  </l>
+                  <l>Mudas pasan mis horas  </l>
+                  <l>tal como espectros...  </l>
+                  <l>Cabe mi oído  </l>
+                  <l>sólo se agita el soplo  </l>
+                  <l>de los olvidos.  </l>
+                  <l/>
+               </lg>
+               <p rend="justify">
+                  <figure>
+                     <binaryObject xml:id="d3e2119" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQEBLAEsAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
+        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
+        JBweHx7/wAALCAAfAEYBASIA/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHBQgBAgT/xAAmEAAC
+        AQQCAgICAwEAAAAAAAABAgMEBQYRAAcSIRMxCCIUI0FR/9oACAEBAAA/ANy+OOOOOOOOcMQq
+        lidADZ5Qd/8Aymw6349X3mmxvKZqSP5IrbWS0HxUlxmVioSOXZ1vTH2AQFb1v0a4ym9dijru
+        Pu7Oc9u9hmroEXHMdx7f8dpWXzgaYEsrK2nZ1bZ8fW96Tlk9p95XjCsOwP4rXSVuaX40klbY
+        TFIJhG8f9oRQfKNvMhV8t/76OjrL9odyT4L3RiGKXaiprfjN4p3eru9Ur+KynyCRqw0q6YJ5
+        E79SDfiBvkJ7JuGQZx39dOtXzfJsKljo4ZsYntislNWbT5J2mIIMh9FVIYKPBv8AfTd8L/IS
+        +41kd3677SsFVccqtRRKV8fpvna5L4qSfDeg/ifk3+o1saUjRuvq3PrN2Jj014s8FfSfxquS
+        jq6Sug+KenmTXkjrsjeiD6J+/wDuxyWcEAggjYPK8sPSfVljyOTIbbhtvjr3kMoaTykjjcsG
+        8o43JSMgj0VA19DQ5DOwumqihheqwm65hBQSVayy2W0X00Yp1Zv3NKr/ANQG2ZzG2tnXiyAe
+        LeT8a8LtD5VfMwrcMzCG5QSJDRXvMKj5LhUAxgOBHoBAugA/skMRv7AtXtvFLNl+C3C2XnGo
+        sjWOJqimoWm+FpJkBKBZR7jJP6+X/Cd+tjmv3VnXl/yBbZHQ1Hb+M2+ngaCrN8vnwJSlUUCO
+        miQLJJoMfFz4IPEEhtFDdbdL9dVGIxY1dMfiusKu00lZVsWrJpnIMkzTjT+blR5EEbAA+hrk
+        kwTDsawawrY8VtUVtoBI0pjRmYu7fbMzEsx+hsk+gB9Acz3HHHHHHHHHP//Z
+       </binaryObject>
+                  </figure>
+               </p>
+               <lg>
+                  <l> Hiende el rayo al peñasco en el monte,  </l>
+                  <l>a la nave en el mar la tormenta,  </l>
+                  <l> en el aire, el halcón prende al pájaro.  </l>
+                  <l>Y en el mar, en el aire, en la tierra,  </l>
+                  <l>todos prenden y acosan al hombre  </l>
+                  <l>de desgracia acusado y pobreza.  </l>
+                  <l/>
+               </lg>
+               <p rend="justify">
+                  <figure>
+                     <binaryObject xml:id="d3e2156" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQEBLAEsAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
+        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
+        JBweHx7/wAALCAAfAEYBASIA/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHBQgBAgT/xAAmEAAC
+        AQQCAgICAwEAAAAAAAABAgMEBQYRAAcSIRMxCCIUI0FR/9oACAEBAAA/ANy+OOOOOOOOcMQq
+        lidADZ5Qd/8Aymw6349X3mmxvKZqSP5IrbWS0HxUlxmVioSOXZ1vTH2AQFb1v0a4ym9dijru
+        Pu7Oc9u9hmroEXHMdx7f8dpWXzgaYEsrK2nZ1bZ8fW96Tlk9p95XjCsOwP4rXSVuaX40klbY
+        TFIJhG8f9oRQfKNvMhV8t/76OjrL9odyT4L3RiGKXaiprfjN4p3eru9Ur+KynyCRqw0q6YJ5
+        E79SDfiBvkJ7JuGQZx39dOtXzfJsKljo4ZsYntislNWbT5J2mIIMh9FVIYKPBv8AfTd8L/IS
+        +41kd3677SsFVccqtRRKV8fpvna5L4qSfDeg/ifk3+o1saUjRuvq3PrN2Jj014s8FfSfxquS
+        jq6Sug+KenmTXkjrsjeiD6J+/wDuxyWcEAggjYPK8sPSfVljyOTIbbhtvjr3kMoaTykjjcsG
+        8o43JSMgj0VA19DQ5DOwumqihheqwm65hBQSVayy2W0X00Yp1Zv3NKr/ANQG2ZzG2tnXiyAe
+        LeT8a8LtD5VfMwrcMzCG5QSJDRXvMKj5LhUAxgOBHoBAugA/skMRv7AtXtvFLNl+C3C2XnGo
+        sjWOJqimoWm+FpJkBKBZR7jJP6+X/Cd+tjmv3VnXl/yBbZHQ1Hb+M2+ngaCrN8vnwJSlUUCO
+        miQLJJoMfFz4IPEEhtFDdbdL9dVGIxY1dMfiusKu00lZVsWrJpnIMkzTjT+blR5EEbAA+hrk
+        kwTDsawawrY8VtUVtoBI0pjRmYu7fbMzEsx+hsk+gB9Acz3HHHHHHHHHP//Z
+       </binaryObject>
+                  </figure>
+               </p>
+               <lg>
+                  <l> Es obligado tema de sensibles cantores  </l>
+                  <l>el amor y sus penas, el beso o la mirada  </l>
+                  <l>del dulce ser querido, la dicha malograda  </l>
+                  <l>o la esperada dicha con sus vagos temores.  </l>
+                  <l> </l>
+                  <l>Después vienen los pájaros, el mar o el arroyuelo,  </l>
+                  <l>la tempestad que brama o la brisa sonora  </l>
+                  <l>que hace hablar al follaje mientras nace la aurora  </l>
+                  <l>o alza la mariposa el inconstante vuelo.  </l>
+                  <l/>
+               </lg>
+               <p rend="justify">
+                  <figure>
+                     <binaryObject xml:id="d3e2202" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQEBLAEsAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
+        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
+        JBweHx7/wAALCAAfAEYBASIA/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHBQgBAgT/xAAmEAAC
+        AQQCAgICAwEAAAAAAAABAgMEBQYRAAcSIRMxCCIUI0FR/9oACAEBAAA/ANy+OOOOOOOOcMQq
+        lidADZ5Qd/8Aymw6349X3mmxvKZqSP5IrbWS0HxUlxmVioSOXZ1vTH2AQFb1v0a4ym9dijru
+        Pu7Oc9u9hmroEXHMdx7f8dpWXzgaYEsrK2nZ1bZ8fW96Tlk9p95XjCsOwP4rXSVuaX40klbY
+        TFIJhG8f9oRQfKNvMhV8t/76OjrL9odyT4L3RiGKXaiprfjN4p3eru9Ur+KynyCRqw0q6YJ5
+        E79SDfiBvkJ7JuGQZx39dOtXzfJsKljo4ZsYntislNWbT5J2mIIMh9FVIYKPBv8AfTd8L/IS
+        +41kd3677SsFVccqtRRKV8fpvna5L4qSfDeg/ifk3+o1saUjRuvq3PrN2Jj014s8FfSfxquS
+        jq6Sug+KenmTXkjrsjeiD6J+/wDuxyWcEAggjYPK8sPSfVljyOTIbbhtvjr3kMoaTykjjcsG
+        8o43JSMgj0VA19DQ5DOwumqihheqwm65hBQSVayy2W0X00Yp1Zv3NKr/ANQG2ZzG2tnXiyAe
+        LeT8a8LtD5VfMwrcMzCG5QSJDRXvMKj5LhUAxgOBHoBAugA/skMRv7AtXtvFLNl+C3C2XnGo
+        sjWOJqimoWm+FpJkBKBZR7jJP6+X/Cd+tjmv3VnXl/yBbZHQ1Hb+M2+ngaCrN8vnwJSlUUCO
+        miQLJJoMfFz4IPEEhtFDdbdL9dVGIxY1dMfiusKu00lZVsWrJpnIMkzTjT+blR5EEbAA+hrk
+        kwTDsawawrY8VtUVtoBI0pjRmYu7fbMzEsx+hsk+gB9Acz3HHHHHHHHHP//Z
+       </binaryObject>
+                  </figure>
+               </p>
+               <lg>
+                  <l> Mas ¿qué nube es aquella que, elevada,  </l>
+                  <l>llena de luz, por el oriente asoma,  </l>
+                  <l>virgen que viene en su pudor velada,  </l>
+                  <l>temprana flor con su primer aroma?  </l>
+                  <l>¿Quién la que en tronos de zafir sentada,  </l>
+                  <l>blanca, pura y sin hiel, dulce paloma,  </l>
+                  <l>desciende hacia la tierra en raudo vuelo,  </l>
+                  <l>abandonando por la tierra el cielo?  </l>
+                  <l> </l>
+                  <l>¡Es ella! ¡Una mujer! Fuente de vida,  </l>
+                  <l>diosa inmortal de pensamiento altivo,  </l>
+                  <l> del seno de los ángeles venida  </l>
+                  <l>para librar mi corazón cautivo:  </l>
+                  <l>es fruto de verdad, fuente querida  </l>
+                  <l>de quien mi libre inspiración recibo;  </l>
+                  <l>es la que, madre de las madres, lleva,  </l>
+                  <l>¡nombre de bendición!, el nombre de Eva.  </l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l> Como las auras del abril, liviana;  </l>
+                  <l>como la luz del sol, fuerte y hermosa,  </l>
+                  <l>es ella de quien dicen flor temprana,  </l>
+                  <l>fuente sellada, estrella misteriosa:  </l>
+                  <l>su rostro del color de la mañana,  </l>
+                  <l>suelta la blanda cabellera undosa,  </l>
+                  <l>la palabra suave, el paso leve  </l>
+                  <l>que a su ligero andar las flores mueve.  </l>
+                  <l> </l>
+                  <l>Mas hay en su mirada una tristeza  </l>
+                  <l>de inefable amantísimo delirio,  </l>
+                  <l>que aumenta el resplandor de su belleza,  </l>
+                  <l>la llama santa de un feliz martirio,  </l>
+                  <l>¡oh pura fuente de inmortal limpieza,  </l>
+                  <l>sobre las ondas desmayado lirio!  </l>
+                  <l>¡Oh cuán amada por tus penas eres,  </l>
+                  <l>mujer en quien esperan las mujeres!  </l>
+                  <l/>
+               </lg>
+               <p rend="center">
+                  <figure>
+                     <binaryObject xml:id="d3e2335" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQEBLAEsAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
+        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
+        JBweHx7/wAALCAAfAEYBASIA/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHBQgBAgT/xAAmEAAC
+        AQQCAgICAwEAAAAAAAABAgMEBQYRAAcSIRMxCCIUI0FR/9oACAEBAAA/ANy+OOOOOOOOcMQq
+        lidADZ5Qd/8Aymw6349X3mmxvKZqSP5IrbWS0HxUlxmVioSOXZ1vTH2AQFb1v0a4ym9dijru
+        Pu7Oc9u9hmroEXHMdx7f8dpWXzgaYEsrK2nZ1bZ8fW96Tlk9p95XjCsOwP4rXSVuaX40klbY
+        TFIJhG8f9oRQfKNvMhV8t/76OjrL9odyT4L3RiGKXaiprfjN4p3eru9Ur+KynyCRqw0q6YJ5
+        E79SDfiBvkJ7JuGQZx39dOtXzfJsKljo4ZsYntislNWbT5J2mIIMh9FVIYKPBv8AfTd8L/IS
+        +41kd3677SsFVccqtRRKV8fpvna5L4qSfDeg/ifk3+o1saUjRuvq3PrN2Jj014s8FfSfxquS
+        jq6Sug+KenmTXkjrsjeiD6J+/wDuxyWcEAggjYPK8sPSfVljyOTIbbhtvjr3kMoaTykjjcsG
+        8o43JSMgj0VA19DQ5DOwumqihheqwm65hBQSVayy2W0X00Yp1Zv3NKr/ANQG2ZzG2tnXiyAe
+        LeT8a8LtD5VfMwrcMzCG5QSJDRXvMKj5LhUAxgOBHoBAugA/skMRv7AtXtvFLNl+C3C2XnGo
+        sjWOJqimoWm+FpJkBKBZR7jJP6+X/Cd+tjmv3VnXl/yBbZHQ1Hb+M2+ngaCrN8vnwJSlUUCO
+        miQLJJoMfFz4IPEEhtFDdbdL9dVGIxY1dMfiusKu00lZVsWrJpnIMkzTjT+blR5EEbAA+hrk
+        kwTDsawawrY8VtUVtoBI0pjRmYu7fbMzEsx+hsk+gB9Acz3HHHHHHHHHP//Z
+       </binaryObject>
+                  </figure>
+               </p>
+               <lg>
+                  <l> En medio del silencio, allá en la noche,  </l>
+                  <l>madre de los misterios,  </l>
+                  <l>llenaban el espacio ecos suavísimos,  </l>
+                  <l>armónico concierto  </l>
+                  <l> de entrecortadas frases y caricias,  </l>
+                  <l>de suspiros, de quejas y de besos.  </l>
+                  <l> </l>
+                  <l>¡Ay! Eran él y ella.  </l>
+                  <l>Espíritus de fuego,  </l>
+                  <l>almas que envueltas en ardiente llama  </l>
+                  <l>devoraban placeres y deseos.  </l>
+                  <l> </l>
+                  <l>-La vida es breve... Amémonos -decían.  </l>
+                  <l>-¡Tan veloz corre el tiempo!...  </l>
+                  <l>Y en su ansia loca, y en su afán ardiente  </l>
+                  <l>más que el viento esta vez corrieron ellos.  </l>
+                  <l> </l>
+                  <l>Tras de las largas misteriosas noches  </l>
+                  <l>un sol primaveral brilló sereno,  </l>
+                  <l>y uno al otro en silencio se miraron  </l>
+                  <l>con espanto y con miedo...  </l>
+                  <l> </l>
+                  <l>-Pero si ésta es la vida,  </l>
+                  <l>-murmuraron después- ¿a qué ir más lejos?  </l>
+                  <l>Y cual duerme un cadáver en su tumba  </l>
+                  <l>uno en brazos del otro se durmieron.  </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ángel y mujer</head>
+               <p>ÁNGEL</p>
+               <lg>
+                  <l> Todo duerme... del aire, el soplo blando  </l>
+                  <l>callado va, con temeroso vuelo  </l>
+                  <l>el aroma esparciendo de las rosas;  </l>
+                  <l>brilla la luna, y sueñan con el cielo  </l>
+                  <l>los niños que reposan, contemplando  </l>
+                  <l>flores, luz y pintadas mariposas.  </l>
+                  <l> </l>
+                  <l>¡Niños!, al soplo de mi tibio aliento,  </l>
+                  <l>dormid en paz, que os cubren con sus alas  </l>
+                  <l>los blancos y amorosos serafines,  </l>
+                  <l>y adornándoos a un tiempo con sus galas  </l>
+                  <l>hacen que en ondas os regale el viento  </l>
+                  <l>blando aroma de lirios y jazmines.  </l>
+                  <l> </l>
+                  <l>Y, en tanto, el astro de la noche, lento,  </l>
+                  <l>pálido, melancólico y suave,  </l>
+                  <l>del aire azul recorre los espacios,  </l>
+                  <l>globo de plata o misteriosa nave,  </l>
+                  <l>vaga a través del ancho firmamento,  </l>
+                  <l>por cima de cabañas y palacios.  </l>
+                  <l> </l>
+                  <l>Su tibia luz refléjase en la tierra  </l>
+                  <l>como del alba la primer sonrisa  </l>
+                  <l>que va a alegrar las aguas de la fuente;  </l>
+                  <l>y al rizarse los mares con la brisa,  </l>
+                  <l>cuanto su seno de hermosura encierra  </l>
+                  <l>muéstrase allí, brillante y transparente.  </l>
+                  <l> </l>
+                  <l>Las plantas y los céfiros susurran  </l>
+                  <l>con blando son, y acentos misteriosos  </l>
+                  <l>lanza, al pasar, el murmurante río,  </l>
+                  <l>y a través de los árboles frondosos  </l>
+                  <l> las estrellas inmóviles fulguran  </l>
+                  <l>chispas de luz en su ámbito sombrío.  </l>
+                  <l> </l>
+                  <l>Todo es reposo, y soledad, y sueño...  </l>
+                  <l>sueño aparente y soledad mentida,  </l>
+                  <l>en el mundo del hombre... ¡hermoso mundo  </l>
+                  <l>cuando, mintiendo, a amarle nos convida!  </l>
+                  <l>Y es que en que fuese amado puso empeño,  </l>
+                  <l>quien llena cielo y tierra, y mar profundo.  </l>
+                  <l> </l>
+                  <l>Mas... ¿qué pálida sombra cruza el prado...  </l>
+                  <l>errante, sola, fugitiva y leve?  </l>
+                  <l>Como si fuese en pos de un bien perdido,  </l>
+                  <l>apenas al pasar las hojas mueve.  </l>
+                  <l>Y vaga al pie del monte y del collado  </l>
+                  <l>cual tortolilla en torno de su nido.  </l>
+               </lg>
+               <lg>
+                  <l> Virgen parece por la undosa falda  </l>
+                  <l>y por la blonda y larga cabellera,  </l>
+                  <l>que el viento de la noche manso agita;  </l>
+                  <l>bello es su rostro y dulce la manera  </l>
+                  <l>con que pisa la alfombra de esmeralda,  </l>
+                  <l>mientras su seno con ardor palpita.  </l>
+                  <l> </l>
+                  <l>¡Pobre mujer!... ¿Qué culpa, qué pecado  </l>
+                  <l>como aguijón la ha herido en su inocencia,  </l>
+                  <l>que el calor de su lecho así abandona?  </l>
+                  <l>Yo sondaré el dolor de tu conciencia,  </l>
+                  <l>que no en vano a la tierra he descendido,  </l>
+                  <l>en nombre del Señor que la perdona.  </l>
+               </lg>
+               <p>MUJER</p>
+               <lg>
+                  <l> ¡Qué dulce, qué serena atmósfera respiro,  </l>
+                  <l>qué perfumado ambiente llenando el aire va!  </l>
+                  <l> Parece que las flores, de amor en un suspiro,  </l>
+                  <l>exhalan sus olores, y que con blando giro  </l>
+                  <l>danzan al son del beso que el céfiro les da.  </l>
+                  <l> </l>
+                  <l>¡Qué soplo en torno vuela de celestial frescura  </l>
+                  <l>calmando de mi seno el penetrante ardor!  </l>
+                  <l>Mas yo no busco calma; yo busco la amargura,  </l>
+                  <l>la acritud y el fuego, y la soberbia dura  </l>
+                  <l>que engendra con el odio el pálido rencor.  </l>
+                  <l> </l>
+                  <l>Rencor.. ¿en dónde, en dónde se encuentra tu morada,  </l>
+                  <l>que voy buscando en vano la huella de tu pie?  </l>
+                  <l>¿Cómo llamarte, dime, cómo mi voz airada,  </l>
+                  <l>por el gemir ya ronca, por el llorar cansada  </l>
+                  <l>podrá llegar vibrante do tu morada esté?  </l>
+                  <l> </l>
+                  <l>Sin ti, rencor sañudo, sierpe que en cieno anida,  </l>
+                  <l>sin ti, ¿quién es el hombre que en sierpes se engendró?  </l>
+                  <l>Hoja que va y que viene del árbol desprendida,  </l>
+                  <l>juguete a todo viento, fuente que así convida,  </l>
+                  <l>al que sus aguas limpia y a quien las enturbió.  </l>
+                  <l> </l>
+                  <l>¡Rencor, ven!, y que siempre pueda vivir contigo,  </l>
+                  <l>en lo profundo escóndete del débil corazón,  </l>
+                  <l>que no le ablande el llanto del pérfido enemigo,  </l>
+                  <l>desprecie sus caricias y niéguele su abrigo,  </l>
+                  <l>y la de paz, suavísima, palabra de perdón.  </l>
+                  <l> </l>
+                  <l>Mas, ¡qué templada brisa sobre mi frente pasa,  </l>
+                  <l>qué aroma, qué deleite de inexplicable bien!  </l>
+                  <l>Cálmase el fuego ardiente, que mi mejilla abrasa,  </l>
+                  <l>velos en torno giran de transparente gasa,  </l>
+                  <l>y con sus pliegues tocan mi palpitante sien.  </l>
+                  <l> </l>
+                  <l>¿Es magia o vano sueño... es ilusión que miente  </l>
+                  <l>esa azulada lumbre o matinal fulgor,  </l>
+                  <l>esas doradas nubes de un fuego transparente,  </l>
+                  <l> que en los espacios flotan, que inflaman el ambiente,  </l>
+                  <l>que errantes me circundan como una luz de amor?  </l>
+                  <l> </l>
+               </lg>
+               <p>ÁNGEL</p>
+               <lg>
+                  <l> ¡Pobre niña! ¿Qué serpiente,  </l>
+                  <l> con malicia tentadora,  </l>
+                  <l> ha tornado pecadora  </l>
+                  <l> a la paloma inocente?  </l>
+                  <l> </l>
+                  <l> ¡Tú, fuente límpida y pura,  </l>
+                  <l> buscar sin paz ni reposo  </l>
+                  <l> el áspid más venenoso  </l>
+                  <l> bajo la peña más dura!  </l>
+                  <l> </l>
+                  <l> Detén la osada carrera,  </l>
+                  <l> vuelve a tu nido, paloma,  </l>
+                  <l> ¡guay si en tu seno de aroma  </l>
+                  <l> su presa el milano hiciera!  </l>
+                  <l> </l>
+                  <l> Rosa que el céfiro mece,  </l>
+                  <l> ¿qué harás si aquilón te abruma?  </l>
+                  <l> Ampolla de blanca espuma  </l>
+                  <l> serás, que nace y perece.  </l>
+                  <l> </l>
+                  <l> Deja a los fieros instintos  </l>
+                  <l> llenar fieros corazones:  </l>
+                  <l> corderillos y leones  </l>
+                  <l> van por caminos distintos.  </l>
+                  <l> </l>
+                  <l> Naciste para gustar  </l>
+                  <l> las dichas del bien querer;  </l>
+                  <l> si amargo es aborrecer,  </l>
+                  <l> ¡cuán dulce cosa es amar!  </l>
+                  <l> </l>
+               </lg>
+               <p>MUJER</p>
+               <lg>
+                  <l> Ángel, tu voz de alegrías  </l>
+                  <l> llega a mi agitado seno  </l>
+                  <l> como raudal puro y lleno  </l>
+                  <l> de secretas armonías.  </l>
+                  <l> </l>
+                  <l> Murmurios siento de amor  </l>
+                  <l> inefable, y me parece  </l>
+                  <l> que ancho río en torno crece  </l>
+                  <l> con suavísimo rumor.  </l>
+                  <l> </l>
+                  <l> Sus aguas son como el cielo,  </l>
+                  <l> azules, cada onda leve,  </l>
+                  <l> pureza de blanca nieve,  </l>
+                  <l> muestra con casto recelo.  </l>
+                  <l> </l>
+                  <l> Y salpicando mi frente,  </l>
+                  <l> de nubes oscuras llena,  </l>
+                  <l> cada gota una azucena  </l>
+                  <l> hace brotar de repente.  </l>
+                  <l> </l>
+                  <l> ¡Ésta es la paz!... La comprendo  </l>
+                  <l> ahora, por vez primera.  </l>
+                  <l> ¡Quién, ángel, contigo fuera  </l>
+                  <l> las esferas recorriendo!  </l>
+                  <l> </l>
+                  <l> Mas yo en el mundo... y tú allá...  </l>
+                  <l> vives, ángel, junto a Dios,  </l>
+                  <l> somos distintos los dos:  </l>
+                  <l> tú eres luz, yo oscuridad.  </l>
+                  <l> </l>
+                  <l> Eres de un mundo mejor  </l>
+                  <l> que éste en donde yo nací;  </l>
+                  <l> gloria es amar, para ti;  </l>
+                  <l> para mí, sólo dolor.  </l>
+               </lg>
+               <p>ÁNGEL</p>
+               <lg>
+                  <l> Fruto humano es verde fruto  </l>
+                  <l> que va a madurar al cielo;  </l>
+                  <l> sólo allí se halla consuelo,  </l>
+                  <l> sólo aquí quebranto y luto.  </l>
+                  <l> </l>
+                  <l> Mas, el que salvo del mar  </l>
+                  <l> del mundo quiera salir,  </l>
+                  <l> ni le ha de cansar sufrir,  </l>
+                  <l> ni fatigarle llorar.  </l>
+                  <l> </l>
+                  <l> Que el llanto de un mártir sube  </l>
+                  <l> hasta Dios, cual puro incienso  </l>
+                  <l> de holocausto, el cielo inmenso  </l>
+                  <l> llenando en forma de nube.  </l>
+                  <l> </l>
+                  <l> ¡Feliz el átomo leve,  </l>
+                  <l> que rueda entre el polvo vano,  </l>
+                  <l> a quien hiere toda mano,  </l>
+                  <l> y a quien todo pie se atreve!  </l>
+                  <l> </l>
+                  <l> ¡Y feliz también aquel  </l>
+                  <l> que en su humildad confundido  </l>
+                  <l> no supo herir si fue herido,  </l>
+                  <l> dando dulzuras por hiel!  </l>
+                  <l> </l>
+                  <l> Guarda, pues, niña inocente,  </l>
+                  <l> guarda el perdón en tu seno,  </l>
+                  <l> que él te limpiará del cieno  </l>
+                  <l> que arrojen sobre tu frente.  </l>
+                  <l> </l>
+                  <l> Y deja al rencor sañudo  </l>
+                  <l> dormir su sueño de horrores,  </l>
+                  <l> donde angustias y temores  </l>
+                  <l> se enlazan con fuerte nudo.  </l>
+                  <l> </l>
+                  <l>  Dios te lo ordena: «ama y llora,  </l>
+                  <l> perdona siempre y espera»,  </l>
+                  <l> y serás alta palmera  </l>
+                  <l> que el sol en las cumbres dora.  </l>
+                  <l> </l>
+                  <l> Y las santas, tus hermanas  </l>
+                  <l> vírgenes que guarda el cielo,  </l>
+                  <l> bordaránte el casto velo  </l>
+                  <l> que aleja sombras profanas.  </l>
+                  <l> </l>
+                  <l> Del hombre el brazo más fuerte  </l>
+                  <l> sólo es en la humana vida  </l>
+                  <l> aura que corre perdida  </l>
+                  <l> hacia el seno de la muerte.  </l>
+                  <l> </l>
+                  <l> ¡Belleza... poder.. ventura...!  </l>
+                  <l> Humo todo, y sólo eterno  </l>
+                  <l> el mal que vuelve al infierno,  </l>
+               </lg>
+               <lg>
+                  <l> el bien que torna a la altura.  </l>
+                  <l> </l>
+                  <l> No olvides esto, y al lecho  </l>
+                  <l> vuelve, que casto te espera.  </l>
+                  <l> ¡Paloma, no el cielo quiera  </l>
+                  <l> que halles tu nido deshecho!  </l>
+                  <l> </l>
+                  <l>.... .... .... .... .... .... .... .... .... ....  </l>
+                  <l/>
+                  <l> Y limpia y sin pecado  </l>
+                  <l> poco después la niña se dormía,  </l>
+                  <l> que cariñoso el ángel,  </l>
+                  <l> con sus alas de nácar la cubría.  </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>En un álbum</head>
+               <lg>
+                  <l> Te vi una vez de niña;  </l>
+                  <l>me pareciste flor de primavera  </l>
+                  <l>o capullo de rosa que exhalase  </l>
+                  <l>su virginal esencia.  </l>
+                  <l> </l>
+                  <l>Ahora dicen todos  </l>
+                  <l>que eres mujer bella...  </l>
+                  <l>¡Quiera Dios que en el lecho de las vírgenes  </l>
+                  <l>por largo tiempo en largo sueño duermas!  </l>
+                  <l> </l>
+                  <l>¡Que es el sueño más dulce  </l>
+                  <l>que duermen las hermosas en la Tierra!  </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Hojas marchitas</head>
+               <lg>
+                  <l> Las rosas en sus troncos se secaron,  </l>
+                  <l>los lirios blancos en su tallo erguidos  </l>
+                  <l>secáronse también,  </l>
+                  <l>y airado el viento arrebató sus hojas,  </l>
+                  <l>arrebató sus hojas perfumadas  </l>
+                  <l>que nunca más veré.  </l>
+                  <l> </l>
+                  <l>Otras rosas después y otros jardines  </l>
+                  <l>con lirios blancos en su tallo erguidos  </l>
+                  <l>he visto florecer;  </l>
+                  <l>mas ya cansados de llorar mis ojos,  </l>
+                  <l>en vez de llanto en ellos, derramaron  </l>
+                  <l>gotas de amarga hiel.  </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>La hija del mar</head>
+               <p rend="italic">Esta página corresponde a una poesía manuscrita inédita de Rosalía de Castro,no se debe confundir con la obra homónima en prosa de la misma autora: la novela "La hija del mar", de 1859.</p>
+               <div type="div3">
+                  <head>Introducción</head>
+                  <lg>
+                     <l/>
+                     <l>Parad, vientecillos,             (1)</l>
+                     <l>no alcéis en las olas</l>
+                     <l>el más leve pliegue;</l>
+                     <l>venid, escuchad:</l>
+                     <l>hoy nace en su seno             (5)</l>
+                     <l>la hija del mar.</l>
+                     <l>En carro de nácar,</l>
+                     <l>de concha y corales,</l>
+                     <l>se mece la maga,</l>
+                     <l>la maga de amor,             (10)</l>
+                     <l>y al largo de los anchos y frescos arenales</l>
+                     <l>resuena la más dulce y lánguida canción.</l>
+                  </lg>
+               </div>
+               <div type="div3" rend="P7">
+                  <head>
+                     <lb/>Canción</head>
+                  <lg>
+                     <l/>
+                     <l>Vistióse la mar de gala,</l>
+                     <l>que el fruto de mis amores,</l>
+                     <l>como el aroma en las flores,             (15)</l>
+                     <l>de entre sus pliegues brotó.</l>
+                     <l>Alzaos, rosas de la mar batida</l>
+                     <l>y dad la bienvenida</l>
+                     <l>a la hija del mar y del amor.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <lb/>Coro</head>
+                  <lg>
+                     <l>En buen hora nazca             (20)</l>
+                     <l>la maga hechichera,</l>
+                     <l>la blanca paloma,</l>
+                     <l>la dulce sirena,</l>
+                     <l>la urna gentil.</l>
+                     <l>Su lecho de espumas             (25)</l>
+                     <l>le dé la ribera;</l>
+                     <l>su blando perfume,</l>
+                     <l>las brisas ligeras;</l>
+                     <l>sus flores, abril.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Las olas</head>
+                  <lg>
+                     <l/>
+                     <l>Yo teñiré sus ojos             (30)</l>
+                     <l>del color que se esconde entre mi seno,</l>
+                     <l>que es el color azul color de amores</l>
+                     <l>y un mirar sereno,</l>
+                     <l>sin pena y sin enojos</l>
+                     <l>retratará su alma,             (35)</l>
+                     <l>tan apacible como el mar en calma.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Las brisas</head>
+                  <lg>
+                     <l/>
+                     <l>Balsámico aroma</l>
+                     <l>daréle a su aliento</l>
+                     <l>y timbre argentino</l>
+                     <l>al lánguido acento             (40)</l>
+                     <l>y al habla de amores,</l>
+                     <l>palabras de miel.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>La golondrina</head>
+                  <lg>
+                     <l/>
+                     <l>Yo cruzo los mares,</l>
+                     <l>los llanos, los ríos,</l>
+                     <l>los verdes pinares,             (45)</l>
+                     <l>los bosques sombríos.</l>
+                     <l>Yo vivo en Europa,</l>
+                     <l>yo vivo en Argel.</l>
+                     <l>Traeréle los besos,</l>
+                     <l>los dulces suspiros:             (50)</l>
+                     <l>que envíe el amante</l>
+                     <l>do quiera que esté</l>
+                     <l>a la hermosa niña</l>
+                     <l>su amor y su bien.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>La espuma</head>
+                  <lg>
+                     <l/>
+                     <l>Yo velaré sus formas             (55)</l>
+                     <l>con túnicas de encaje,</l>
+                     <l>como la nieve blancas</l>
+                     <l>y leves como el aire.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Las flores</head>
+                  <lg>
+                     <l/>
+                     <l>Nosotras le daremos nuestro aroma</l>
+                     <l>que nuestro seno sin cesar regala,             (60)</l>
+                     <l>al rojo sol que en el oriente asoma,</l>
+                     <l>al blando viento que en la mar resbala.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>El sol que nace</head>
+                  <lg>
+                     <l/>
+                     <l>Yo del color de mis rayos</l>
+                     <l>le teñiré sus cabellos,</l>
+                     <l>que son siempre los más bellos,             (65)</l>
+                     <l>los del dorado color.</l>
+                     <l>Y al través de la cortina</l>
+                     <l>que luz a la estancia roba</l>
+                     <l>yo penetraré en su alcoba</l>
+                     <l>diciéndole: “soy tu amor;             (70)</l>
+                     <l>despierta, niña, despierta</l>
+                     <l>verás tu puerta</l>
+                     <l>adornada con las flores</l>
+                     <l>que el que tiene tus amores</l>
+                     <l>para ti por la noche dejó.             (75)</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Coro</head>
+                  <lg>
+                     <l/>
+                     <l>En buen hora nazca</l>
+                     <l>la maga hechicera,</l>
+                     <l>la blanca paloma,</l>
+                     <l>la dulce sirena:</l>
+                     <l>la hija del mar.             (80)</l>
+                     <l>La luna de marzo,</l>
+                     <l>de rayos de plata,</l>
+                     <l>suave dulzura le dé a sus miradas</l>
+                     <l>color a sus labios el rojo coral.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>La mar</head>
+                  <lg>
+                     <l/>
+                     <l>Apáguense los cánticos,             (85)</l>
+                     <l>que surge entre las olas</l>
+                     <l>como delgada nave</l>
+                     <l>que el Céfiro süave</l>
+                     <l>al puerto la impelió.</l>
+                     <l>Le cubre la ancha frente             (90)</l>
+                     <l>la flor de las marinas,</l>
+                     <l>rodean su cintura</l>
+                     <l>mis olas argentinas</l>
+                     <l>y asoma al horizonte</l>
+                     <l>la hija de mi amor.             (95)</l>
+                     <l>Impelan blandos vientos</l>
+                     <l>de nácares su concha</l>
+                     <l>y en torno, voladores,</l>
+                     <l>se esparzan los olores</l>
+                     <l>del florido vergel.             (100)</l>
+                     <l>Resuenen amorosos</l>
+                     <l>por cielos y por mares</l>
+                     <l>su canto de alabanzas,</l>
+                     <l>bellas como esperanzas,</l>
+                     <l>dulces como su miel.             (105)</l>
+                  </lg>
+               </div>
+               <div type="div3" rend="P5">
+                  <head>las campanas</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l>Yo las amo, yo las oigo, </l>
+                     <l>Cual oigo el rumor del viento,</l>
+                     <l>El murmurar de la fuente</l>
+                     <l>O el balido del cordero.</l>
+                     <l/>
+                     <l>Como los pájaros, ellas, </l>
+                     <l>Tan pronto asoma en los cielos</l>
+                     <l>El primer rayo del alba,</l>
+                     <l>Le saludan con sus ecos.</l>
+                     <l/>
+                     <l>Y en sus notas, que van prolongándose </l>
+                     <l>Por los llanos y los cerros,</l>
+                     <l>Hay algo de candoroso,</l>
+                     <l>De apacible y de halagüeño.</l>
+                     <l/>
+                     <l>Si por siempre enmudecieran, </l>
+                     <l>¡Qué tristeza en el aire y el cielo!</l>
+                     <l>¡Qué silencio en las iglesias!</l>
+                     <l>¡Qué extrañeza entre los muertos!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Mi tierra</head>
+                  <lg>
+                     <l> A un tiempo, cual sueño  </l>
+                     <l>que halaga y asombra,  </l>
+                     <l>de los robles las hojas caían,  </l>
+                     <l>del saúco brotaban las hojas.  </l>
+                     <l> </l>
+                     <l>Primavera y otoño sin tregua  </l>
+                     <l>turnan siempre templando la atmósfera,  </l>
+                     <l>sin dejar que no hiele el invierno,  </l>
+                     <l>ni agote el estío  </l>
+                     <l>las ramas frondosas.  </l>
+                     <l> </l>
+                     <l>¡Y así siempre! en la tierra risueña,  </l>
+                     <l>fecunda y hermosa,  </l>
+                     <l>surcada de arroyos,  </l>
+                     <l>henchida de aromas;  </l>
+                     <l> </l>
+                     <l>que es del mundo en el vasto horizonte  </l>
+                     <l>la hermosa, la buena, la dulce y la sola;  </l>
+                     <l>donde cuantos he amado nacieron,  </l>
+                     <l>donde han muerto mi dicha y mis glorias.  </l>
+                     <l>
+                        <figure>
+                           <binaryObject xml:id="d3e4044" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQEBLAEsAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
+        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
+        JBweHx7/wAALCAAfAEYBASIA/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHBQgBAgT/xAAmEAAC
+        AQQCAgICAwEAAAAAAAABAgMEBQYRAAcSIRMxCCIUI0FR/9oACAEBAAA/ANy+OOOOOOOOcMQq
+        lidADZ5Qd/8Aymw6349X3mmxvKZqSP5IrbWS0HxUlxmVioSOXZ1vTH2AQFb1v0a4ym9dijru
+        Pu7Oc9u9hmroEXHMdx7f8dpWXzgaYEsrK2nZ1bZ8fW96Tlk9p95XjCsOwP4rXSVuaX40klbY
+        TFIJhG8f9oRQfKNvMhV8t/76OjrL9odyT4L3RiGKXaiprfjN4p3eru9Ur+KynyCRqw0q6YJ5
+        E79SDfiBvkJ7JuGQZx39dOtXzfJsKljo4ZsYntislNWbT5J2mIIMh9FVIYKPBv8AfTd8L/IS
+        +41kd3677SsFVccqtRRKV8fpvna5L4qSfDeg/ifk3+o1saUjRuvq3PrN2Jj014s8FfSfxquS
+        jq6Sug+KenmTXkjrsjeiD6J+/wDuxyWcEAggjYPK8sPSfVljyOTIbbhtvjr3kMoaTykjjcsG
+        8o43JSMgj0VA19DQ5DOwumqihheqwm65hBQSVayy2W0X00Yp1Zv3NKr/ANQG2ZzG2tnXiyAe
+        LeT8a8LtD5VfMwrcMzCG5QSJDRXvMKj5LhUAxgOBHoBAugA/skMRv7AtXtvFLNl+C3C2XnGo
+        sjWOJqimoWm+FpJkBKBZR7jJP6+X/Cd+tjmv3VnXl/yBbZHQ1Hb+M2+ngaCrN8vnwJSlUUCO
+        miQLJJoMfFz4IPEEhtFDdbdL9dVGIxY1dMfiusKu00lZVsWrJpnIMkzTjT+blR5EEbAA+hrk
+        kwTDsawawrY8VtUVtoBI0pjRmYu7fbMzEsx+hsk+gB9Acz3HHHHHHHHHP//Z
+       </binaryObject>
+                        </figure>
+                     </l>
+                     <l/>
+                     <l/>
+                     <l>De vuelta está la joven primavera;  </l>
+                     <l>mas ¡qué aprisa esta vez y cuán temprano!  </l>
+                     <l>¡Y qué hermosos están prados y bosques  </l>
+                     <l>desde que ella ha tornado!  </l>
+                     <l>  </l>
+                     <l>Ha vuelto ya la primavera hermosa;  </l>
+                     <l>siempre vuelve la joven y hechicera;  </l>
+                     <l>mas ¿en dónde, decidme, se han quedado  </l>
+                     <l>los que partieron cuando partió ella?  </l>
+                     <l>Esos no tornan nunca,  </l>
+                     <l>¡nunca!, si es que nos dejan.  </l>
+                     <l> </l>
+                     <l>De sonrosada nieve, salpicada  </l>
+                     <l>veo la verde hierba,  </l>
+                     <l>son las flores que el viento arranca al árbol  </l>
+                     <l>llenas de savia, y de perfumes llenas.  </l>
+                     <l> </l>
+                     <l>¿Por qué siendo tan frescas y tan jóvenes,  </l>
+                     <l>a semejanza de las hojas secas  </l>
+                     <l>en el otoño, cuando abril sonríe  </l>
+                     <l>ellas también sobre la arena ruedan?  </l>
+                     <l>¡Por qué mueren los niños,  </l>
+                     <l>las flores más hermosas de la tierra!  </l>
+                     <l/>
+                  </lg>
+                  <p rend="justify">
+                     <figure>
+                        <binaryObject xml:id="d3e4137" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQEBLAEsAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
+        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
+        JBweHx7/wAALCAAfAEYBASIA/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHBQgBAgT/xAAmEAAC
+        AQQCAgICAwEAAAAAAAABAgMEBQYRAAcSIRMxCCIUI0FR/9oACAEBAAA/ANy+OOOOOOOOcMQq
+        lidADZ5Qd/8Aymw6349X3mmxvKZqSP5IrbWS0HxUlxmVioSOXZ1vTH2AQFb1v0a4ym9dijru
+        Pu7Oc9u9hmroEXHMdx7f8dpWXzgaYEsrK2nZ1bZ8fW96Tlk9p95XjCsOwP4rXSVuaX40klbY
+        TFIJhG8f9oRQfKNvMhV8t/76OjrL9odyT4L3RiGKXaiprfjN4p3eru9Ur+KynyCRqw0q6YJ5
+        E79SDfiBvkJ7JuGQZx39dOtXzfJsKljo4ZsYntislNWbT5J2mIIMh9FVIYKPBv8AfTd8L/IS
+        +41kd3677SsFVccqtRRKV8fpvna5L4qSfDeg/ifk3+o1saUjRuvq3PrN2Jj014s8FfSfxquS
+        jq6Sug+KenmTXkjrsjeiD6J+/wDuxyWcEAggjYPK8sPSfVljyOTIbbhtvjr3kMoaTykjjcsG
+        8o43JSMgj0VA19DQ5DOwumqihheqwm65hBQSVayy2W0X00Yp1Zv3NKr/ANQG2ZzG2tnXiyAe
+        LeT8a8LtD5VfMwrcMzCG5QSJDRXvMKj5LhUAxgOBHoBAugA/skMRv7AtXtvFLNl+C3C2XnGo
+        sjWOJqimoWm+FpJkBKBZR7jJP6+X/Cd+tjmv3VnXl/yBbZHQ1Hb+M2+ngaCrN8vnwJSlUUCO
+        miQLJJoMfFz4IPEEhtFDdbdL9dVGIxY1dMfiusKu00lZVsWrJpnIMkzTjT+blR5EEbAA+hrk
+        kwTDsawawrY8VtUVtoBI0pjRmYu7fbMzEsx+hsk+gB9Acz3HHHHHHHHHP//Z
+       </binaryObject>
+                     </figure>
+                  </p>
+                  <lg>
+                     <l> En sueños te di un beso, vida mía,  </l>
+                     <l>tan entrañable y largo...  </l>
+                     <l>¡Ay!, pero en él de amargo  </l>
+                     <l>tanto, mi bien, como de dulce había.  </l>
+                     <l> </l>
+                     <l>Tu infantil boca cada vez más fría,  </l>
+                     <l>dejó mi sangre para siempre helada,  </l>
+                     <l>y sobre tu semblante reclinada,  </l>
+                     <l>besándote, sentí que me moría.  </l>
+                     <l> </l>
+                     <l>Más tarde, y ya despierta,  </l>
+                     <l> con singular empeño,  </l>
+                     <l>pensando proseguí que estaba muerta  </l>
+                     <l>y que en tanto a tus restos abrazada  </l>
+                     <l>dormía para siempre el postrer sueño  </l>
+                     <l>soñaba tristemente que vivía  </l>
+                     <l>aún de ti, por la muerte separada.  </l>
+                     <l/>
+                     <l/>
+                     <l>
+                        <figure>
+                           <binaryObject xml:id="d3e4209" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQEBLAEsAAD/4QAWRXhpZgAATU0AKgAAAAgAAAAAAAD/2wBDAAUDBAQE
+        AwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIe
+        JBweHx7/wAALCAAfAEYBASIA/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHBQgBAgT/xAAmEAAC
+        AQQCAgICAwEAAAAAAAABAgMEBQYRAAcSIRMxCCIUI0FR/9oACAEBAAA/ANy+OOOOOOOOcMQq
+        lidADZ5Qd/8Aymw6349X3mmxvKZqSP5IrbWS0HxUlxmVioSOXZ1vTH2AQFb1v0a4ym9dijru
+        Pu7Oc9u9hmroEXHMdx7f8dpWXzgaYEsrK2nZ1bZ8fW96Tlk9p95XjCsOwP4rXSVuaX40klbY
+        TFIJhG8f9oRQfKNvMhV8t/76OjrL9odyT4L3RiGKXaiprfjN4p3eru9Ur+KynyCRqw0q6YJ5
+        E79SDfiBvkJ7JuGQZx39dOtXzfJsKljo4ZsYntislNWbT5J2mIIMh9FVIYKPBv8AfTd8L/IS
+        +41kd3677SsFVccqtRRKV8fpvna5L4qSfDeg/ifk3+o1saUjRuvq3PrN2Jj014s8FfSfxquS
+        jq6Sug+KenmTXkjrsjeiD6J+/wDuxyWcEAggjYPK8sPSfVljyOTIbbhtvjr3kMoaTykjjcsG
+        8o43JSMgj0VA19DQ5DOwumqihheqwm65hBQSVayy2W0X00Yp1Zv3NKr/ANQG2ZzG2tnXiyAe
+        LeT8a8LtD5VfMwrcMzCG5QSJDRXvMKj5LhUAxgOBHoBAugA/skMRv7AtXtvFLNl+C3C2XnGo
+        sjWOJqimoWm+FpJkBKBZR7jJP6+X/Cd+tjmv3VnXl/yBbZHQ1Hb+M2+ngaCrN8vnwJSlUUCO
+        miQLJJoMfFz4IPEEhtFDdbdL9dVGIxY1dMfiusKu00lZVsWrJpnIMkzTjT+blR5EEbAA+hrk
+        kwTDsawawrY8VtUVtoBI0pjRmYu7fbMzEsx+hsk+gB9Acz3HHHHHHHHHP//Z
+       </binaryObject>
+                        </figure>
+                     </l>
+                     <l/>
+                     <l>Sintióse agonizar, mil y mil veces,  </l>
+                     <l>de dolor, de vergüenza y de amargura,  </l>
+                     <l>mas aunque tantas tras de tantas fueron  </l>
+                     <l>no se murió ninguna.  </l>
+                     <l> </l>
+                     <l>Embargada de asombro  </l>
+                     <l>al ver la resistencia de su vida,  </l>
+                     <l>en sus horas sin término pensaba,  </l>
+                     <l>llena de horror, si nunca moriría.  </l>
+                     <l> </l>
+                     <l>Pero una voz secreta y misteriosa  </l>
+                     <l>la dijo un día con acento extraño:  </l>
+                     <l>Hasta el momento de tocar la dicha  </l>
+                     <l>no se mueren jamás los desdichados.  </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Predestinados</head>
+                  <lg>
+                     <l> Es el abismo el que le atrae  </l>
+                     <l> desde su fondo más oscuro,  </l>
+                     <l>para que deje esta vida tan triste  </l>
+                     <l>que él ve cubierta de eterno luto.  </l>
+                     <l> </l>
+                     <l>No bien una sombra se disipa  </l>
+                     <l>otra se agranda... se agranda y le envuelve  </l>
+                     <l>sin que adivine por qué ha venido,  </l>
+                     <l>por qué le busca, ni qué le quiere,  </l>
+                     <l>pero le aterra y le acobarda  </l>
+                     <l>y a donde va le sigue siempre.  </l>
+                     <l> </l>
+                     <l>Si algún dolor abandona su alma,  </l>
+                     <l>otro más vivo y más intenso,  </l>
+                     <l>en sus entrañas haciendo el nido,  </l>
+                     <l>para él inventa nuevos tormentos,  </l>
+                     <l>mucho más hondos y más terribles  </l>
+                     <l>siempre los últimos que los primeros.  </l>
+                     <l> </l>
+                     <l>Un mal espíritu, algún demonio  </l>
+                     <l>de cuantos hay el más cruel  </l>
+                     <l>ha presidido su nacimiento  </l>
+                     <l>y oculto guía siempre su pie  </l>
+                     <l>hacia los bordes de la alta sima  </l>
+                     <l>a ver si puede verle caer.  </l>
+                     <l> </l>
+                     <l>Vacila su planta ya... y sus ojos  </l>
+                     <l>vagos se fijan en lo infinito,  </l>
+                     <l>que él cree imagen de la nada;  </l>
+                     <l>pero le atrae... le atrae el vacío  </l>
+                     <l>en donde flotas, genio invisible,  </l>
+                     <l>siempre llamándole hacia el abismo.  </l>
+                     <l> </l>
+                     <l>Y cae al fin... y nadie sabe,  </l>
+                     <l>ni nadie pregunta por qué ha caído.  </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Regina</head>
+                  <lg>
+                     <l> Los ángeles en la Tierra  </l>
+                     <l>no están bien y se van presto.  </l>
+                     <l> </l>
+                     <l>Regina, entre las donosas  </l>
+                     <l>la más donosa doncella,  </l>
+                     <l>la más hermosa y más bella  </l>
+                     <l>entre las bellas y hermosas;  </l>
+                     <l>la más fresca entre las rosas,  </l>
+                     <l>la más pura entre las puras,  </l>
+                     <l>y estrella de las alturas  </l>
+                     <l>que brilla en sereno cielo,  </l>
+                     <l>era fuente de consuelo  </l>
+                     <l>en abismo de amarguras.  </l>
+                     <l> </l>
+                     <l>Era a un tiempo, cual la brisa,  </l>
+                     <l>breve y ligero su paso;  </l>
+                     <l>como sol en el ocaso  </l>
+                     <l>era triste su sonrisa;  </l>
+                     <l>inspirada pitonisa,  </l>
+                     <l>su mirar lleno y profundo,  </l>
+                     <l>y en el fulgor sin segundo  </l>
+                     <l>que en su pupila brillaba  </l>
+                     <l>llamas de amores guardaba  </l>
+                     <l>para aniquilar el mundo.  </l>
+                     <l> </l>
+                     <l>Era el color de su frente  </l>
+                     <l>rayo de pálida luna;  </l>
+                     <l>como ella no hubo ninguna  </l>
+                     <l>tan serena y transparente.  </l>
+                     <l>  </l>
+                     <l>Al par que altiva, imponente;  </l>
+                     <l>al par que dulce, severa;  </l>
+                     <l>larga y blonda cabellera  </l>
+                     <l>la adornaba con decoro,  </l>
+                     <l>apiñando conchas de oro  </l>
+                     <l>sobre su busto de cera.  </l>
+                     <l> </l>
+                     <l>Su voz, toda melodía,  </l>
+                     <l>daba músicas al viento:  </l>
+                     <l>todo perfumes su aliento,  </l>
+                     <l>al aura los repartía.  </l>
+                     <l>Y cuando al morir del día  </l>
+                     <l>luz y tinieblas luchaban  </l>
+                     <l>y a su paso levantaban  </l>
+                     <l>del miedo torvas visiones,  </l>
+                     <l>al rumor de sus canciones  </l>
+                     <l>temerosas se ocultaban.  </l>
+                     <l> </l>
+                     <l>Aun más blanca que la nieve,  </l>
+                     <l>envidia al cisne causara,  </l>
+                     <l>y un ángel se conturbara  </l>
+                     <l>al notar su sombra leve.  </l>
+                     <l>Y así, cual del cielo llueve  </l>
+                     <l>rocío para las flores,  </l>
+                     <l>tal de sus ojos, de amores  </l>
+                     <l>tibias lágrimas llovían  </l>
+                     <l>y en el corazón caían,  </l>
+                     <l>lenitivo de dolores.  </l>
+                     <l> </l>
+                     <l>Cual hija del mar, salada,  </l>
+                     <l>nacida entre las espumas,  </l>
+                     <l>se ocultaba entre las brumas  </l>
+                     <l>de una ribera ignorada.  </l>
+                     <l>Y allí, cual ninfa encantada,  </l>
+                     <l>suelta la melena undosa,  </l>
+                     <l>tan liviana como hermosa,  </l>
+                     <l> tras de las ondas corría  </l>
+                     <l>y en ellas humedecía  </l>
+                     <l>sus pies de color de rosa.  </l>
+                     <l> </l>
+                     <l>Fatigada de tal suerte,  </l>
+                     <l>viéndola en calma dormida,  </l>
+                     <l>creyérase que a tal vida  </l>
+                     <l>no se atreviera la muerte;  </l>
+                     <l>mas como a brazo tan fuerte  </l>
+                     <l>todo se dobla y se inclina,  </l>
+                     <l>también la pobre Regina  </l>
+                     <l>pagó su amargo tributo,  </l>
+                     <l>lirio vestido de luto,  </l>
+                     <l>rayo de sol que declina.  </l>
+                     <l> </l>
+                     <l>Cubrióla el ángel sombrío  </l>
+                     <l>bajo sus gigantes alas  </l>
+                     <l>y arrebataron sus alas  </l>
+                     <l>aguas del eterno río;  </l>
+                     <l>de la tumba el viento frío  </l>
+                     <l>se agitó sobre su seno,  </l>
+                     <l>y lo que fuera sereno  </l>
+                     <l>astro de radiante lumbre,  </l>
+                     <l>convirtióse en podredumbre,  </l>
+                     <l>foco inmundo de veneno.  </l>
+                     <l> </l>
+                     <l>Gimió la tierra de espanto  </l>
+                     <l>al contemplar tanto duelo,  </l>
+                     <l>mas brilló radiante el cielo  </l>
+                     <l>tras del azulado manto;  </l>
+                     <l>eco de armonioso canto  </l>
+                     <l>resonó por las alturas,  </l>
+                     <l>que allá a las regiones puras  </l>
+                     <l>un ángel llegó por suerte,  </l>
+                     <l>despojado por la muerte  </l>
+                     <l>de terrenas ligaduras.  </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Tiempos que fueron</head>
+                  <lg>
+                     <l> Hora tras hora, día tras día, </l>
+                     <l>entre el cielo y la tierra que quedan </l>
+                     <l>eternos vigías, </l>
+                     <l>como torrente que se despeña, </l>
+                     <l>pasa la vida. </l>
+                     <l/>
+                     <l>Devolvedle a la flor su perfume </l>
+                     <l>después de marchita; </l>
+                     <l>de las ondas que besan la playa </l>
+                     <l>y que una tras otra besándola expiran, </l>
+                     <l>recoged los rumores, las quejas, </l>
+                     <l>y en planchas de bronce grabad su armonía. </l>
+                     <l/>
+                     <l>Tiempos que fueron, llantos y risas, </l>
+                     <l>negros tormentos, dulces mentiras, </l>
+                     <l>¡ay!, ¿en dónde su rastro dejaron, </l>
+                     <l>en dónde, alma mía?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Un recuerdo</head>
+                  <lg>
+                     <l> ¡Ay, cómo el llanto de mis ojos quema!...</l>
+                     <l>¡Cuál mi mejilla abrasa!...  </l>
+                     <l> ¡Cómo el rudo penar que me envenena  </l>
+                     <l>mi corazón traspasa!  </l>
+                     <l> </l>
+                     <l>Cómo siento el pesar del alma mía  </l>
+                     <l>al empuje violento  </l>
+                     <l>del dulce y triste recordar de un día  </l>
+                     <l>que pasó como el viento.  </l>
+                     <l> </l>
+                     <l>Cuán presentes están en mi memoria  </l>
+                     <l>un nombre y un suspiro...  </l>
+                     <l>Página extraña de mi larga historia,  </l>
+                     <l>de un bien con que deliro.  </l>
+                     <l> </l>
+                     <l>Yo escuchaba tina voz llena de encanto,  </l>
+                     <l>melodía sin nombre,  </l>
+                     <l>que iba risueña a recoger mi llanto...  </l>
+                     <l>¡Era la voz de un hombre!  </l>
+                     <l> </l>
+                     <l>Sombra fugaz que se acerco liviana  </l>
+                     <l>vertiendo sus amores,  </l>
+                     <l>y que posó sobre mi sien temprana  </l>
+                     <l>mil cariñosas flores.  </l>
+                     <l> </l>
+                     <l>Acarició mi frente que se hundía  </l>
+                     <l>entre acerbos pesares;  </l>
+                     <l>y lleno de dulzura y de armonía  </l>
+                     <l>díjome sus cantares.  </l>
+                     <l> </l>
+                     <l>Y ¡ay!, eran dulces cual sonora lira,  </l>
+                     <l>que vibrando se siente  </l>
+                     <l>en lejana enramada, adonde expira  </l>
+                     <l>su gemido doliente.  </l>
+                     <l> </l>
+                     <l>Yo percibí su divinal ternura  </l>
+                     <l>penetrar en el alma,  </l>
+                     <l>disipando la tétrica amargura  </l>
+                     <l>que robara mi calma.  </l>
+                     <l>  </l>
+                     <l>Y la ardiente pasión sustituyendo  </l>
+                     <l>a una fría memoria,  </l>
+                     <l>sentí con fuerza el corazón latiendo  </l>
+                     <l>por una nueva gloria.  </l>
+                     <l> </l>
+                     <l>Dicha sin fin, que se acercó temprana  </l>
+                     <l>con extraños placeres,  </l>
+                     <l>como el bello fulgor de una mañana  </l>
+                     <l>que sueñan las mujeres.  </l>
+                     <l> </l>
+                     <l>Rosa que nace al saludar el día,  </l>
+                     <l>y a la tarde se muere,  </l>
+                     <l>retrato de un placer y una agonía  </l>
+                     <l>que al corazón se adhiere.  </l>
+                     <l> </l>
+                     <l>Imagen fiel de esa esperanza vana  </l>
+                     <l>que en nada se convierte;  </l>
+                     <l>que dice el hombre en su ilusión mañana,  </l>
+                     <l>y mañana es la muerte.  </l>
+                     <l> </l>
+                     <l>Y así pasó: Mi frente adormecida  </l>
+                     <l>volvióse luego roja;  </l>
+                     <l>y trocóse el albor de mi alegría,  </l>
+                     <l>flor que, seca, se arroja  </l>
+                     <l> </l>
+                     <l>Calló la voz de melodía tanta  </l>
+                     <l>y la dicha durmió;  </l>
+                     <l>y al nuevo resplandor que se levanta  </l>
+                     <l>lo pasado murió.  </l>
+                     <l> </l>
+                     <l>Hoy sólo el llanto a mis dolores queda,  </l>
+                     <l>sueños de amor de corazón, dormid:  </l>
+                     <l>¡Dicha sin fin que a mi existir se niegan  </l>
+                     <l>gloria y placer y venturanza huid!...  </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start"
+                          xml:id="id_about.xhtml#Sobre_esta_edicion_electronica"/>Sobre esta edición electrónica<ptr type="bookmark-end"
+                       target="#id_about.xhtml#Sobre_esta_edicion_electronica"/>
+               </head>
+               <p rend="start">Este libro electrónico proviene de la versión en español de la biblioteca digital <ref target="https://es.wikisource.org/">Wikisource</ref>
+                  <ref target="#about.xhtml#cite_note-1">
+                     <hi rend="sup">[1]</hi>
+                  </ref>. Esta biblioteca digital multilingüe, realizada por voluntarios, tiene el objetivo de poner a disposición de todo el mundo el mayor número posible de documentos públicos de todo tipo (novelas, poesías, revistas, cartas, etc.).</p>
+               <p rend="justify">Lo proporcionamos de manera gratuita gracias a que los textos utilizados son libres de derechos o están bajo licencia libre. Puede utilizar nuestros libros electrónicos de manera totalmente libre, con finalidades comerciales o no, respetando las cláusulas de la licencia <ref target="https://creativecommons.org/licenses/by-sa/3.0/deed.es">Creative Commons BY-SA 3.0</ref>
+                  <ref target="#about.xhtml#cite_note-2">
+                     <hi rend="sup">[2]</hi>
+                  </ref> o, según sea, de la licencia <ref target="https://www.gnu.org/copyleft/fdl.html">GNU FDL</ref>
+                  <ref target="#about.xhtml#cite_note-3">
+                     <hi rend="sup">[3]</hi>
+                  </ref>.</p>
+               <p rend="justify">Wikisource está constantemente buscando nuevos colaboradores. No dude en colaborar con nosotros. A pesar de nuestro cuidado puede ser que se escape algún error en la transcripción del texto a partir del facsímil. Puede avisar de errores en <ref target="https://es.wikisource.org/wiki/Ayuda:Informar_de_un_error">esta dirección</ref>
+                  <ref target="#about.xhtml#cite_note-4">
+                     <hi rend="sup">[4]</hi>
+                  </ref>.</p>
+               <p rend="justify">Los siguientes contribuidores han permitido la realización de este libro:</p>
+               <list type="unordered">
+                  <item>Zeroth</item> 
+                  <item>LadyInGrey</item> 
+                  <item>LadyBots</item> 
+                  <item>Gabriela de Black 12</item>
+               </list>
+               <list type="ordered">
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-1">↑ </ref>https://es.wikisource.org</item> 
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-2">↑ </ref>https://creativecommons.org/licenses/by-sa/3.0/deed.es</item> 
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-3">↑ </ref>https://www.gnu.org/copyleft/fdl.html</item> 
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-4">↑ </ref>https://es.wikisource.org/wiki/Ayuda:Informar_de_un_error</item>
+               </list>
+            </div>
+         </div>
+         <div type="div1" rend="P10">
+            <head>A Mi Madre</head>
+            <lg/>
+            <lg/>
+            <div type="div2" rend="P11">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_0001.xhtml#1"/>¡Cuán tristes pasan los días!...<ptr type="bookmark-end" target="#id_0001.xhtml#1"/>
+               </head>
+               <lg/>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0002.xhtml#1-1"/>I<ptr type="bookmark-end" target="#id_0002.xhtml#1-1"/>
+                  </head>
+                  <lg>
+                     <l>¡Cuán tristes pasan los días!...</l>
+                     <l>¡cuán breves... cuán largos son!...</l>
+                     <l>Cómo van unos despacio,</l>
+                     <l>y otros con paso veloz...</l>
+                     <l>Mas siempre cual vaga sombra</l>
+                     <l>atropellándose en pos,</l>
+                     <l>ninguno de cuantos fueron,</l>
+                     <l>un débil rastro dejó.</l>
+                  </lg>
+                  <lg>
+                     <l>¡Cuán negras las nubes pasan,</l>
+                     <l>cuán turbio se ha vuelto el sol!</l>
+                     <l>¡Era un tiempo tan hermoso!...</l>
+                     <l>Mas ese tiempo pasó.</l>
+                     <l>Hoy, como pálida luna</l>
+                     <l>ni da vida ni calor,</l>
+                     <l>ni presta aliento a las flores,</l>
+                     <l>ni alegría al corazón.</l>
+                  </lg>
+                  <lg>
+                     <l>¡Cuán triste se ha vuelto el mundo!</l>
+                     <l>¡Ah!, por do quiera que voy</l>
+                     <l>sólo amarguras contemplo,</l>
+                     <l>que infunden negro pavor,</l>
+                     <l>sólo llantos y gemidos</l>
+                     <l>que no encuentran compasión...</l>
+                     <l>¡Qué triste se ha vuelto el mundo!</l>
+                     <l>¡Qué triste le encuentro yo!...</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0003.xhtml#1-2"/>II<ptr type="bookmark-end" target="#id_0003.xhtml#1-2"/>
+                  </head>
+                  <lg>
+                     <l>¡Ay, qué profunda tristeza!</l>
+                     <l>¡Ay, qué terrible dolor!</l>
+                     <l>¡Tendida en la negra caja</l>
+                     <l>sin movimiento y sin voz,</l>
+                     <l>pálida como la cera</l>
+                     <l>que sus restos alumbró,</l>
+                     <l>yo he visto a la pobrecita</l>
+                     <l>madre de mi corazón!</l>
+                  </lg>
+                  <lg>
+                     <l>Ya desde entonces no tuve</l>
+                     <l>quien me prestase calor,</l>
+                     <l>que el fuego que ella encendía</l>
+                     <l>aterido se apagó.</l>
+                     <l>Ya no tuve desde entonces</l>
+                     <l>una cariñosa voz</l>
+                     <l>que me dijese: ¡hija mía,</l>
+                     <l>yo soy la que te parió!</l>
+                  </lg>
+                  <lg>
+                     <l>¡Ay, qué profunda tristeza!</l>
+                     <l>¡Ay, qué terrible dolor!...</l>
+                     <l>¡Ella ha muerto y yo estoy viva!</l>
+                     <l>¡Ella ha muerto y vivo yo!</l>
+                     <l>Mas, ¡ay!, pájaro sin nido,</l>
+                     <l>poco lo alumbrará el sol,</l>
+                     <l>¡y era el pecho de mi madre</l>
+                     <l>nido de mi corazón!</l>
+                  </lg>
+                  <lg/>
+               </div>
+            </div>
+            <div type="div2" rend="P11">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_0004.xhtml#2"/>¡Ay!, cuando los hijos mueren<ptr type="bookmark-end" target="#id_0004.xhtml#2"/>
+               </head>
+               <lg/>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0005.xhtml#2-1"/>I<ptr type="bookmark-end" target="#id_0005.xhtml#2-1"/>
+                  </head>
+                  <lg>
+                     <l>¡Ay!, cuando los hijos mueren,</l>
+                     <l>rosas tempranas de abril,</l>
+                     <l>de la madre el tierno llanto</l>
+                     <l>vela su eterno dormir.</l>
+                  </lg>
+                  <lg>
+                     <l>Ni van solos a la tumba,</l>
+                     <l>¡ay!, que el eterno sufrir</l>
+                     <l>de la madre, sigue al hijo</l>
+                     <l>a las regiones sin fin.</l>
+                  </lg>
+                  <lg>
+                     <l>Mas cuando muere una madre,</l>
+                     <l>único amor que hay aquí;</l>
+                     <l>¡ay!, cuando una madre muere,</l>
+                     <l>debiera un hijo morir.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0006.xhtml#2-2"/>II<ptr type="bookmark-end" target="#id_0006.xhtml#2-2"/>
+                  </head>
+                  <lg>
+                     <l>Yo tuve una dulce madre,</l>
+                     <l>concediéramela el cielo,</l>
+                     <l>más tierna que la ternura,</l>
+                     <l>más ángel que mi ángel bueno.</l>
+                  </lg>
+                  <lg>
+                     <l>En su regazo amoroso,</l>
+                     <l>soñaba... ¡sueño quimérico!</l>
+                     <l>dejar esta ingrata vida</l>
+                     <l>al blando son de sus rezos.</l>
+                  </lg>
+                  <lg>
+                     <l>Mas la dulce madre mía,</l>
+                     <l>sintió el corazón enfermo,</l>
+                     <l>que de ternura y dolores,</l>
+                     <l>¡ay!, derritióse en su pecho.</l>
+                  </lg>
+                  <lg>
+                     <l>Pronto las tristes campanas</l>
+                     <l>dieron al viento sus ecos;</l>
+                     <l>murióse la madre mía;</l>
+                     <l>sentí rasgarse mi seno.</l>
+                  </lg>
+                  <lg>
+                     <l>La virgen de las Mercedes,</l>
+                     <l>estaba junto a mi lecho...</l>
+                     <l>Tengo otra madre en lo alto...</l>
+                     <l>¡por eso yo no me he muerto!</l>
+                  </lg>
+                  <lg/>
+               </div>
+            </div>
+            <div type="div2" rend="P11">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_0007.xhtml#3"/>Ya pasó la estación de los calores<ptr type="bookmark-end" target="#id_0007.xhtml#3"/>
+               </head>
+               <lg/>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0008.xhtml#3-1"/>I<ptr type="bookmark-end" target="#id_0008.xhtml#3-1"/>
+                  </head>
+                  <lg>
+                     <l>Ya pasó la estación de los calores,</l>
+                     <l>y lleno el rostro de áspera fiereza,</l>
+                     <l>sobre los restos de las mustias flores,</l>
+                     <l>asoma el crudo invierno su cabeza.</l>
+                  </lg>
+                  <lg>
+                     <l>Por el azul del claro firmamento</l>
+                     <l>tiende sus alas de color sombrío,</l>
+                     <l>cual en torno de un casto pensamiento</l>
+                     <l>sus alas tiende un pensamiento impío.</l>
+                  </lg>
+                  <lg>
+                     <l>Y gime el bosque y el torrente brama,</l>
+                     <l>y la hoja seca, en lodo convertida,</l>
+                     <l>dale llorosa al céfiro a quien ama</l>
+                     <l>la postrera, doliente despedida.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0009.xhtml#3-2"/>II<ptr type="bookmark-end" target="#id_0009.xhtml#3-2"/>
+                  </head>
+                  <lg>
+                     <l>Errantes, fugitivas, misteriosas,</l>
+                     <l>tienden las nubes presuroso el vuelo,</l>
+                     <l>no como un tiempo cándidas y hermosas,</l>
+                     <l>sí llenas de amargura y desconsuelo.</l>
+                  </lg>
+                  <lg>
+                     <l>Más allá... más allá... siempre adelante</l>
+                     <l>prosiguen sin descanso su carrera;</l>
+                     <l>bañado en llanto el pálido semblante,</l>
+                     <l>con que riegan el bosque y la pradera.</l>
+                  </lg>
+                  <lg>
+                     <l>Que enojada la mar donde se miran</l>
+                     <l>y oscurecido el sol que las amó,</l>
+                     <l>sólo saben decir cuando suspiran:</l>
+                     <l>Todo para nosotras acabó.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0010.xhtml#3-3"/>III<ptr type="bookmark-end" target="#id_0010.xhtml#3-3"/>
+                  </head>
+                  <lg>
+                     <l>Suelto el ropaje y la melena al viento,</l>
+                     <l>cual se agrupan en torno de la luna...</l>
+                     <l>locas en incesante movimiento,</l>
+                     <l>remedan el vaivén de la fortuna.</l>
+                  </lg>
+                  <lg>
+                     <l>Pasan, vuelven y corren desatadas,</l>
+                     <l>hijas del aire en forma caprichosa,</l>
+                     <l>al viento de la noche abandonadas</l>
+                     <l>en la profunda oscuridad medrosa.</l>
+                  </lg>
+                  <lg>
+                     <l>Tal en mi triste corazón inquietas,</l>
+                     <l>mis locas esperanzas se agitaron,</l>
+                     <l>y a un débil hilo de placer sujetas,</l>
+                     <l>locas... locas también se quebrantaron.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0011.xhtml#3-4"/>IV<ptr type="bookmark-end" target="#id_0011.xhtml#3-4"/>
+                  </head>
+                  <lg>
+                     <l>Ya toda luz se oscureció en el cielo,</l>
+                     <l>cubriéronse de luto las estrellas,</l>
+                     <l>y de luto también se cubrió el suelo,</l>
+                     <l>entre risas, gemidos y querellas.</l>
+                  </lg>
+                  <lg>
+                     <l>Todo en profunda noche adormecido,</l>
+                     <l>sólo el rumor del huracán se siente</l>
+                     <l>y se parece su áspero silbido</l>
+                     <l>al silbido feroz de una serpiente.</l>
+                  </lg>
+                  <lg>
+                     <l>¡Cuán tenebrosa noche se prepara!...</l>
+                     <l>Mas al abrigo de amoroso techo,</l>
+                     <l>grato es pensar que la hórrida tormenta</l>
+                     <l>no ha de agitar la colcha de mi lecho.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0012.xhtml#3-5"/>V<ptr type="bookmark-end" target="#id_0012.xhtml#3-5"/>
+                  </head>
+                  <lg>
+                     <l>Mas... ¿qué estridente y mágico alarido</l>
+                     <l>la ronca voz de la tormenta trae?</l>
+                     <l>Triste... vago... constante y dolorido,</l>
+                     <l>cual fuego ardiente, en mis entrañas cae.</l>
+                  </lg>
+                  <lg>
+                     <l>Cae, y ahuyenta de mi lecho el sueño...</l>
+                     <l>¡Ah! ¿Cómo he de dormir...? locura fuera,</l>
+                     <l>fuera locura y temerario empeño</l>
+                     <l>que con gemidos tales me durmiera.</l>
+                  </lg>
+                  <lg>
+                     <l>¡Ah! ¿Cómo he de dormir? ese lamento,</l>
+                     <l>ese grito de angustia que percibo,</l>
+                     <l>esa expresión de amargo sufrimiento</l>
+                     <l>no pertenece al mundo en que yo vivo.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0013.xhtml#3-6"/>VI<ptr type="bookmark-end" target="#id_0013.xhtml#3-6"/>
+                  </head>
+                  <lg>
+                     <l>Donde el ciprés erguido se levanta,</l>
+                     <l>allá en lejana habitación sombría,</l>
+                     <l>que al más osado de la tierra espanta,</l>
+                     <l>sola duerme la dulce madre mía.</l>
+                  </lg>
+                  <lg>
+                     <l>Más helado es su lecho que la nieve,</l>
+                     <l>más negro y hondo que caverna oscura,</l>
+                     <l>y el curo altivo que sus antros mueve,</l>
+                     <l>sacia su furia en él, con saña dura.</l>
+                  </lg>
+                  <lg>
+                     <l>¡Ah!, de dolientes sauces rodeada,</l>
+                     <l>de húmeda yerba y ásperas ortigas;</l>
+                     <l>¡cuál serás, madre, en tu dormir turbada,</l>
+                     <l>por vagarosas sombras enemigas!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0014.xhtml#3-7"/>VII<ptr type="bookmark-end" target="#id_0014.xhtml#3-7"/>
+                  </head>
+                  <lg>
+                     <l>¿Y yo tranquila, he de gozar en tanto</l>
+                     <l>de blando sueño y lecho cariñoso,</l>
+                     <l>mientras herida de mortal espanto</l>
+                     <l>moras en el profundo tenebroso?</l>
+                  </lg>
+                  <lg>
+                     <l>¿Llegará a tanto el insensible olvido?...</l>
+                     <l>¿La ingratitud del hombre a tanto alcanza,</l>
+                     <l>que entre uno y otro lazo desunido</l>
+                     <l>ceda siempre al vaivén de la mudanza?</l>
+                  </lg>
+                  <lg>
+                     <l>¡Odioso y torpe proceder de un hijo,</l>
+                     <l>a quien la dulce madre en su agonía,</l>
+                     <l>con besos y caricias le bendijo</l>
+                     <l>olvidando el dolor por que moría!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0015.xhtml#3-8"/>VIII<ptr type="bookmark-end" target="#id_0015.xhtml#3-8"/>
+                  </head>
+                  <lg>
+                     <l>Nunca permita Dios que yo te olvide,</l>
+                     <l>mi santa, mi amorosa compañera:</l>
+                     <l>¡Nunca permita Dios que yo te olvide</l>
+                     <l>aunque por tanto recordarte muera!</l>
+                  </lg>
+                  <lg>
+                     <l>Venga hacia mí tu imagen tan amada</l>
+                     <l>y hábleme al alma en su lenguaje mudo</l>
+                     <l>ya en la serena noche y reposada,</l>
+                     <l>ya en la que es parto del invierno crudo.</l>
+                  </lg>
+                  <lg>
+                     <l>Y que en tu aislado apartamiento fiero,</l>
+                     <l>tan ajeno del hombre y su locura,</l>
+                     <l>velen, mi llanto y mi dolor primero,</l>
+                     <l>al lado de tu humilde sepultura.</l>
+                  </lg>
+                  <lg/>
+               </div>
+            </div>
+            <div type="div2" rend="P11">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_0016.xhtml#4"/>De gemidos quejumbrosos<ptr type="bookmark-end" target="#id_0016.xhtml#4"/>
+               </head>
+               <lg/>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0017.xhtml#4-1"/>I<ptr type="bookmark-end" target="#id_0017.xhtml#4-1"/>
+                  </head>
+                  <lg>
+                     <l>De gemidos quejumbrosos,</l>
+                     <l>de suspiros lastimeros,</l>
+                     <l>vago suena en el espacio</l>
+                     <l>melancólico concierto...</l>
+                     <l>Son las campanas que tocan...</l>
+                     <l>¡Tocan por los que murieron!</l>
+                     <l>Plañidero el metal vibra,</l>
+                     <l>las regiones recorriendo</l>
+                     <l>de los valles solitarios,</l>
+                     <l>de los tristes cementerios,</l>
+                     <l>y también allá en la hondura</l>
+                     <l>de las almas sin consuelo.</l>
+                     <l>¡Vasto páramo es la mía,</l>
+                     <l>como abrasado desierto,</l>
+                     <l>como mar que no se acaba,</l>
+                     <l>y en ella un sepulcro tengo</l>
+                     <l>más profundo que un abismo,</l>
+                     <l>más ancho que el firmamento,</l>
+                     <l>y al eco de las campanas</l>
+                     <l>que en él se va repitiendo,</l>
+                     <l>los esqueletos se rompen,</l>
+                     <l>de mis pálidos recuerdos!</l>
+                     <l>¿Será cierto que pasaron,</l>
+                     <l>y para siempre murieron?</l>
+                     <l>¿Es verdad que cuanto toco,</l>
+                     <l>cuanto miro y cuanto quiero</l>
+                     <l>todo ilusión me parece,</l>
+                     <l>todo me parece un cuento?...</l>
+                     <l>Y que tuve un tiempo madre</l>
+                     <l>y que ora ya no la tengo...</l>
+                     <l>También un sueño parece,</l>
+                     <l>¡pero qué terrible sueño!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0018.xhtml#4-2"/>II<ptr type="bookmark-end" target="#id_0018.xhtml#4-2"/>
+                  </head>
+                  <lg>
+                     <l>Ayer en sueños te vi...</l>
+                     <l>Que triste cosa es soñar,</l>
+                     <l>y que triste es despertar</l>
+                     <l>de un triste sueño... ¡ay de mí!</l>
+                  </lg>
+                  <lg>
+                     <l>Te vi... la triste mirada,</l>
+                     <l>lánguida hacia mí volvías,</l>
+                     <l>bañada en lágrimas frías,</l>
+                     <l>hijas de la tumba helada.</l>
+                  </lg>
+                  <lg>
+                     <l>Y parece que al mirarme,</l>
+                     <l>con tu mirada serena,</l>
+                     <l>todo el raudal de mi pena</l>
+                     <l>se alzaba para matarme.</l>
+                  </lg>
+                  <lg>
+                     <l>Y también me parecía</l>
+                     <l>que tu acento desolado,</l>
+                     <l>llegando hasta mí pausado:</l>
+                     <l>«¡Ya estoy muerta!», repetía.</l>
+                  </lg>
+                  <lg>
+                     <l>Y al repetirlo, gimiendo</l>
+                     <l>el eco en el hondo abismo</l>
+                     <l>de mi pecho, iba así mismo</l>
+                     <l>«¡ya estoy muerta!», repitiendo.</l>
+                  </lg>
+                  <lg>
+                     <l>Y qué terror... qué quebranto</l>
+                     <l>aquel eco me causaba...</l>
+                     <l>Llegué a pensar que me hallaba,</l>
+                     <l>en la región del espanto.</l>
+                  </lg>
+                  <lg>
+                     <l>Y aunque era mi madre aquélla,</l>
+                     <l>que en sueños a ver tornaba,</l>
+                     <l>ni yo amante la buscaba,</l>
+                     <l>mi me acariciaba ella.</l>
+                  </lg>
+                  <lg>
+                     <l>Allí estaba sola y triste,</l>
+                     <l>con su enlutado vestido,</l>
+                     <l>diciendo con manso ruido:</l>
+                     <l>«Te he perdido y me perdiste»</l>
+                  </lg>
+                  <lg>
+                     <l>Y llorábamos... ¡qué horror!</l>
+                     <l>Llorábamos de tal suerte;</l>
+                     <l>ella lágrimas de muerte,</l>
+                     <l>yo lágrimas de dolor.</l>
+                  </lg>
+                  <lg>
+                     <l>Todo en hosco apartamiento,</l>
+                     <l>como si una extraña fuera,</l>
+                     <l>o cual si herirme pudiera,</l>
+                     <l>con el soplo de su aliento.</l>
+                  </lg>
+                  <lg>
+                     <l>Y es que el sepulcro insondable,</l>
+                     <l>con sus vapores infectos,</l>
+                     <l>mediaba entre ambos afectos,</l>
+                     <l>de un origen entrañable.</l>
+                  </lg>
+                  <lg>
+                     <l>Aun en sueños, tan sombría,</l>
+                     <l>la contemplé en su ternura,</l>
+                     <l>que el alma con saña dura,</l>
+                     <l>la amaba y la repelía.</l>
+                  </lg>
+                  <lg>
+                     <l>¡A la dulce, a la sin par</l>
+                     <l>madre que me llevó el cielo!</l>
+                     <l>¡Ah! ¡Qué amargo desconsuelo</l>
+                     <l>debe su tumba llenar!</l>
+                  </lg>
+                  <lg>
+                     <l>¡Aquélla a quien dio la vida,</l>
+                     <l>tener miedo de su sombra!</l>
+                     <l>¡Es ingratitud que asombra,</l>
+                     <l>la que en el hombre se anida!</l>
+                  </lg>
+                  <lg>
+                     <l>Mas tú que tanto has amado,</l>
+                     <l>tú que tanto has padecido,</l>
+                     <l>tú que nunca has ofendido,</l>
+                     <l>y que siempre has perdonado,</l>
+                  </lg>
+                  <lg>
+                     <l>a la que nació en tu seno</l>
+                     <l>sé que no guardas rencores;</l>
+                     <l>tú toda mieles y amores,</l>
+                     <l>aun de la tumba en el cieno.</l>
+                  </lg>
+                  <lg>
+                     <l>Ruega, ruega a Dios por mí,</l>
+                     <l>desde tu lecho de espinas,</l>
+                     <l>por donde al cielo caminas</l>
+                     <l>al alejarte de aquí.</l>
+                  </lg>
+                  <lg>
+                     <l>Y cuando al Dios de ternura,</l>
+                     <l>llegues de gracia cubierta,</l>
+                     <l>dile no cierre su puerta</l>
+                     <l>a esta humilde criatura,</l>
+                  </lg>
+                  <lg>
+                     <l>porque en santa paz unidas,</l>
+                     <l>donde no hay penas ni olvido,</l>
+                     <l>gocemos en blando nido,</l>
+                     <l>las glorias desconocidas.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3" rend="P14">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id_0019.xhtml#4-3"/>III<ptr type="bookmark-end" target="#id_0019.xhtml#4-3"/>
+                  </head>
+                  <lg>
+                     <l>Como en un tiempo dichoso</l>
+                     <l>fui al campo por la mañana,</l>
+                     <l>que estaba hermosa y risueña,</l>
+                     <l>que fresca y galana estaba;</l>
+                     <l>fuime al romper de la aurora,</l>
+                     <l>cuando tocaban al alba,</l>
+                     <l>cuando aún los hombres dormían</l>
+                     <l>y los jilgueros cantaban,</l>
+                     <l>saltando de rosa en rosa,</l>
+                     <l>volando de rama en rama.</l>
+                  </lg>
+                  <lg>
+                     <l>Con su murmurio apacible,</l>
+                     <l>solita la fuente estaba,</l>
+                     <l>bajo el castaño frondoso</l>
+                     <l>que tiernamente la guarda.</l>
+                     <l>Y estaba la verde yerba</l>
+                     <l>toda cubierta de escarcha.</l>
+                     <l>Las tenues lejanas nieblas,</l>
+                     <l>cual vaporosos fantasmas,</l>
+                     <l>vagaban tristes y errantes</l>
+                     <l>sobre las altas montañas.</l>
+                  </lg>
+                  <lg>
+                     <l>El lejano campanario</l>
+                     <l>sobre las nieblas se alzaba,</l>
+                     <l>con sus graciosos festones,</l>
+                     <l>con su armoniosa campana.</l>
+                     <l>Y en torno al humilde templo,</l>
+                     <l>bajo su sombra guardadas,</l>
+                     <l>veíanse humildes chozas,</l>
+                     <l>aun más que la nieve blancas.</l>
+                  </lg>
+                  <lg>
+                     <l>¡Cuánta pureza en la atmósfera!</l>
+                     <l>¡Cuánta dulcísima calma,</l>
+                     <l>del cielo azul descendiendo,</l>
+                     <l>en torno se respiraba!</l>
+                     <l>Mas yo vestida de luto</l>
+                     <l>y aun más enlutada el alma,</l>
+                     <l>bajo las ramas del bosque</l>
+                     <l>bajo las ramas paseaba,</l>
+                     <l>soñando en sueños de muerte</l>
+                     <l>que nos rasgan las entrañas.</l>
+                     <l>Paseaba yo silenciosa,</l>
+                     <l>paseaba yo solitaria,</l>
+                     <l>mientras las aguas del río</l>
+                     <l>camino del mar rodaban.</l>
+                     <l>En vano, en vano buscando</l>
+                     <l>al ángel de mi esperanza</l>
+                     <l>que con sus alas ligeras,</l>
+                     <l>hacia los cielos tornara.</l>
+                     <l>¡Pobre ángel! pobre ángel mío...</l>
+                     <l>¡Cuánto en la tierra te amaba!</l>
+                     <l>¡Mas cómo no amarte cuando</l>
+                     <l>tus alas me cobijaban,</l>
+                     <l>si fueron ellas mi cuna,</l>
+                     <l>la cuna en que me arrullabas.</l>
+                     <l>Si fueron mi dulce aliento</l>
+                     <l>y el paño, ay, Dios, de mis lágrimas!</l>
+                     <l>Hora corren hilo a hilo.</l>
+                     <l>Hora mis mejillas bañan,</l>
+                     <l>bañan la tierra que piso</l>
+                     <l>y en su amargura me empapan,</l>
+                     <l>mas nadie viene, ángel mío,</l>
+                     <l>¡ay!, nadie viene a enjugarlas.</l>
+                  </lg>
+                  <lg>
+                     <l>Ya el sol bañaba las cumbres</l>
+                     <l>de las risueñas montañas,</l>
+                     <l>ya disiparan las nieblas,</l>
+                     <l>las brisas de la mañana;</l>
+                     <l>ya despertaran los hombres,</l>
+                     <l>ya no tocaban al alba,</l>
+                     <l>cuando torné de los campos,</l>
+                     <l>paso tras paso a mi casa.</l>
+                     <l>Dejárala silenciosa</l>
+                     <l>cuando salí a la mañana,</l>
+                     <l>y silenciosa a mi vuelta,</l>
+                     <l>más que las tumbas estaba.</l>
+                     <l>En la solitaria puerta</l>
+                     <l>no hay nadie... ¡nadie me aguarda!</l>
+                     <l>ni el menor paso se siente</l>
+                     <l>en las desiertas estancias.</l>
+                     <l>Mas hay un lugar vacío</l>
+                     <l>tras la cerrada ventana,</l>
+                     <l>y un enlutado vestido</l>
+                     <l>que cual desgajada rama</l>
+                     <l>pende en la muda pared</l>
+                     <l>cubierto de blancas gasas.</l>
+                     <l>No está mi casa desierta,</l>
+                     <l>no está desierta mi estancia...</l>
+                     <l>Madre mía... madre mía,</l>
+                     <l>¡ay!, la que yo tanto amaba,</l>
+                     <l>que aunque no estás a mi lado</l>
+                     <l>y aunque tu voz no me llama,</l>
+                     <l>tu sombra sí, sí... tu sombra,</l>
+                     <l>¡tu sombra siempre me aguarda!</l>
+                  </lg>
+                  <lg>
+                     <l>Muchos lloran y lloran y se quejan,</l>
+                     <l>y entre quejas y llantos y suspiros,</l>
+                     <l>que hijos son del dolor,</l>
+                     <l>la ruda fuerza del dolor mitigan,</l>
+                     <l>cantando al son de lira cariñosa</l>
+                     <l>con plañidera voz.</l>
+                     <l>Yo ni lloro, ni canto, ni me quejo,</l>
+                     <l>mas en mi seno recogida guardo</l>
+                     <l>la hiel del corazón;</l>
+                     <l>y por eso, vivir, vivo muriendo,</l>
+                     <l>que sentir nadie sin morir pudiera,</l>
+                     <l>¡ay, lo que siento yo!</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="div2" rend="P11">
+               <head>Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público<lb/>¡Esperamos que lo disfrutéis!</head>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

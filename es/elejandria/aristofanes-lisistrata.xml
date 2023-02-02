@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lisístrata</title>
+            <author>Aristófanes</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:29:29Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-04T04:49:24.683447867</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Lisístrata</head>
+         <author>Aristófanes</author>
+         <p rend="italic">2022-05-252022-05-252022-05-25</p>
+         <div type="div1">
+            <head>Lisístrata</head>
+            <subtitle>PERSONAJES:</subtitle>
+            <p rend="justify">LISÍSTRATA, mujer ateniense.</p>
+            <p rend="justify">CLEONICE, su vecina.</p>
+            <p rend="justify">MÍRRINA, otra ateniense.</p>
+            <p rend="justify">LAMPITO, mujer espartana.</p>
+            <p rend="justify">CORO DE ANCIANOS.</p>
+            <p rend="justify">CORO DE MUJERES.</p>
+            <p rend="justify">EL COMISARIO ATENIENSE.</p>
+            <p rend="justify">MUJER l.a</p>
+            <p rend="justify">MUJER 2.a</p>
+            <p rend="justify">MUJER 3.a</p>
+            <p rend="justify">MUJER 4.a</p>
+            <p rend="justify">CINESIAS, marido de Mírrina.</p>
+            <p rend="justify">EL HIJO DE CINESIAS.</p>
+            <p rend="justify">EL HERALDO ESPARTANO.</p>
+            <p rend="justify">EL PRÍTANIS ATENIENSE.</p>
+            <p rend="justify">EL LACONIO, embajador espartano.</p>
+            <p rend="justify">UN ATENIENSE.</p>
+            <p rend="justify">PERSONAJES MUDOS: una beocia; una corintia; mujeres atenienses; arqueros; un esclavo de Cinesias; embajadores espartanos; atenienses; Conciliación; esclavas.</p>
+            <p rend="justify"> </p>
+            <p rend="justify">
+               <hi rend="italic">Se divisa la Acrópolis de Atenas al fondo. Es de mañana, y aparece en escena </hi>LISÍSTRATA.</p>
+            <p rend="justify">LISÍSTRATA. Si las hubieran invitado a una fiesta de Baco (1), a una gruta de Pan (2), o al promontorio Colíade, al templo de la Genetílide (3), no se podría ni siquiera pasar por culpa de sus tambores (4). Pero, así, ahora todavía no se ha presentado ninguna mujer. (CLEONICE <hi rend="italic">sale de su casa.)</hi> Bueno, aquí (5) sale mi vecina. ¡Hola, Cleonice!</p>
+            <p rend="justify">CLEONICE. Hola, tú también, Lisístrata. ¿Por qué estás preocupada? No pongas esa cara, hija mía, que no te cuadra arquear las cejas.</p>
+            <p rend="justify">LISÍSTRATA. Cleonice, estoy en ascuas y muy afligida por nosotras las mujeres, porque entre los hombres tenemos fama de ser malísimas...</p>
+            <p rend="justify">CLEONICE. Es que lo somos, por Zeus.</p>
+            <p rend="justify">LISÍSTRATA.... y cuando se les ha dicho que se reúnan aquí para deliberar sobre un asunto nada trivial se quedan dormidas y no vienen.</p>
+            <p rend="justify">CLEONICE. Ya vendrán, querida. Difícil resulta para las mujeres salir de casa: una anduvo ocupada con el marido; otra tenía que despertar al criado; otra tenía que acostar al niño; otra lavarlo; otra darle de comer.</p>
+            <p rend="justify">LISÍSTRATA. Pero es que había para ellas otras cosas más importantes que ésas.</p>
+            <p rend="justify">CLEOLICE. ¿De qué se trata, querida Lisístrata, el asunto por el que nos convocas a nosotras las mujeres? ¿En qué consiste, de qué tamaño es?</p>
+            <p rend="justify">LISÍSTRATA. Grande.</p>
+            <p rend="justify">CLEONICE. ¿Es también grueso?</p>
+            <p rend="justify">LISÍSTRATA. Sí, por Zeus, muy grueso.</p>
+            <p rend="justify">CLEONICE. Entonces, ¿cómo es que no hemos venido? (5).</p>
+            <p rend="justify">LISÍSTRATA. No es eso que piensas: si no, ya nos habríamos reunido rápidamente. Se trata de un asunto que yo he estudiado y al que he dado vueltas y más vueltas en muchas noches en blanco.</p>
+            <p rend="justify">CLEONICE. Seguro que es delicado eso a lo que has dado vueltas y vueltas.</p>
+            <p rend="justify">LISÍSTRATA. Sí, tan delicado que la salvación de Grecia entera estriba en las mujeres.</p>
+            <p rend="justify">CLEONICE. ¿En las mujeres? Pues sí que tiene pocas agarraderas.</p>
+            <p rend="justify">LISÍSTRATA. Cuenta que están en nuestras manos los asuntos de la ciudad; si no, hazte a la idea de que ya no existen los peloponesios... (6).</p>
+            <p rend="justify">CLEONICE. Mucho mejor que ya no existan, por Zeus.</p>
+            <p rend="justify">LISÍSTRATA.... y de que los beocios perecerán todos, por completo.</p>
+            <p rend="justify">CLEONICE. No, todos no; excluye las anguilas (7).</p>
+            <p rend="justify">LISÍSTRATA. De Atenas no voy a pronunciar nada de ese estilo: adivina tú mis pensamientos. Pero si se reúnen aquí las mujeres, las de los beocios, las de los peloponesios y nosotras, salvaremos todas juntas a Grecia.</p>
+            <p rend="justify">CLEONICE. Y, ¿qué plan sensato o inteligente podrían realizar las mujeres si lo nuestro es permanecer sentadas, bien pintaditas, luciendo la túnica azafranada y adornadas con el vestido recto (8) y con las zapatillas de moda?</p>
+            <p rend="justify">LISÍSTRATA. Pues eso mismo es lo que espero que nos salve: las tuniquillas azafranadas, los perfumes, las zapatillas, el colorete (9) y las enaguas transparentes.</p>
+            <p rend="justify">CLEONICE. Y, ¿de qué manera?</p>
+            <p rend="justify">LISÍSTRATA. De manera que de los hombres de hoy en día ninguno levantará la lanza contra otro...</p>
+            <p rend="justify">CLEONICE. Entonces, ¡por las dos diosas! (10), me haré teñir una túnica de azafrán.</p>
+            <p rend="justify">LISÍSTRATA.... ni cogerá el escudo...</p>
+            <p rend="justify">CLEONICE. Voy a ponerme el vestido recto.</p>
+            <p rend="justify">LISÍSTRATA. ... ni el puñal.</p>
+            <p rend="justify">CLEONICE. Voy a comprarme unas zapatillas de moda.</p>
+            <p rend="justify">(1). Baco es uno de los nombres de Dioniso.</p>
+            <p rend="justify">(2). Pan es divinidad de los rebaños, pertenece al cortejo de Dioniso y está muy relacionado con la sexualidad.</p>
+            <p rend="justify">(3). Genetílide era el sobrenombre de una diosa del parto; tal vez en tiempos de Aristófanes se asociaba a la diosa Afrodita, que tenía un templo en el promontorio Colíade.</p>
+            <p rend="justify">(4). Como puede verse en algunas pinturas sobre cerámica, las mujeres usaban tambores en el culto a Dioniso.</p>
+            <p rend="justify">(5). Piensa en el pene.</p>
+            <p rend="justify">(6). El Peloponeso es la península meridional de Grecia, de sus habitantes los más importantes eran los espartanos, los principales enemigos de Atenas.</p>
+            <p rend="justify">(7). Las anguilas de Beocia eran renombradas.</p>
+            <p rend="justify">(8). Sin cinturón.</p>
+            <p rend="justify">(9). El colorete, literalmente el «onoquiles» (égchousa o ánchousa) o «anchousa tinctoria», planta de la que se obtenía el rojo para el colorete.</p>
+            <p rend="justify">(10). Deméter y su hija Perséfone.</p>
+            <p rend="justify">LISÍSTRATA. ¿Pero no tenían que estar aquí ya las mujeres?</p>
+            <p rend="justify">CLEONICE. No sólo eso, por Zeus, sino que hace ya rato que tenían que haber llegado volando.</p>
+            <p rend="justify">LISÍSTRATA. Pero mujer, ya verás cómo resultan ser muy del Ática: hacen todo después de la hora. La cosa es que ni siquiera ha venido ninguna mujer de los costeños (11) ni de Salamina (12).</p>
+            <p rend="justify">CLEONICE. Pues por lo menos estas últimas, yo sé que al amanecer han separado las piernas para montar sobre... los barcos (13).</p>
+            <p rend="justify">LISÍSTRATA. Ni siquiera las que yo esperaba y calculaba que estarían aquí las primeras, las de los Acarnienses (14), ni ésas han venido.</p>
+            <p rend="justify">CLEONICE. Por lo menos, la mujer de Teógenes (15), para venir aquí, empinó... <hi rend="italic">(Hace ademán de beber)...</hi> la vela (16). Pero aquí están, ya se acercan algunas.</p>
+            <p rend="justify">LISÍSTRATA. También llegan estas otras.</p>
+            <p rend="justify">(11). Literalmente «los Páralos» (páraloi), los que vivían en la parte costera del Ática.</p>
+            <p rend="justify">(12). Salamina, isla (y ciudad) situada en el Golfo Sarónico, muy próxima a Atenas.</p>
+            <p rend="justify">(13). El verbo diabaíno (aquí diabebekasi) significa tanto «atravesar» como «separar las piernas», y el sustantivo kéles es «barco ligero» y, a la vez, «caballo de silla». El «caballo de silla» hace pensar en una postura erótica.</p>
+            <p rend="justify">(14). De un demo de Atenas, que da nombre a una comedia de Aristófanes.</p>
+            <p rend="justify">(15). Teógenes es un político prominente, satirizado con frecuencia en comedia como personaje ambicioso, de muchas palabras y pocos hechos.</p>
+            <p rend="justify">(16). He tratado de reflejar la posible ambivalencia de la palabra takáteion. Como sustantivo se refiere a las velas de un barco, pero ákatos, el sustantivo originario, es también el nombre de una copa con forma de barco. No sabemos si ésa es la referencia adecuada.</p>
+            <p rend="justify">
+               <hi rend="italic">(Entran</hi> MÍRRINA <hi rend="italic">y otras mujeres.)</hi>
+            </p>
+            <p rend="justify">CLEONICE. Uf, uf, ¿de dónde son?</p>
+            <p rend="justify">LISÍSTRATA. De Anagirunte.</p>
+            <p rend="justify">CLEONICE. Sí, por Zeus, por lo menos el maloliente «anágiro» (17) me parece que se ha removido.</p>
+            <p rend="justify">MÍRRINA (18). ¿Llegamos tarde, Lisístrata? ¿Qué dices? ¿Por qué te callas?</p>
+            <p rend="justify">LISÍSTRATA. No te elogio, Mírrina, por haber llegado ahora siendo el asunto tan importante.</p>
+            <p rend="justify">MÍRRINA. Es que me costó trabajo encontrar el cinturón en la oscuridad. Si hay prisa por algo, anda, dínoslo a las que ya estamos aquí.</p>
+            <p rend="justify">CLEONICE. No, por Zeus, vamos a esperar por lo menos un poco a que vengan las mujeres de los beocios y de los peloponesios.</p>
+            <p rend="justify">LISÍSTRATA. Lo que has dicho está muy bien. <hi rend="italic">(Entra</hi> LAMPITO <hi rend="italic">con dos muchachas desnudas.)</hi> Aquí viene Lampito. ¡Hola, Lampito, querida laconia (19)! ¡Cómo reluce tu belleza, guapísima!, ¡qué buen color tienes, cómo rebosa vitalidad tu cuerpo! Podrías estrangular incluso a un toro. </p>
+            <p rend="justify">LAMPITO (20). Zeguro que zí, azí lo creo yo, pol loh doh diozeh (21), pueh me entreno en er gimnazio y zarco dándome en er culo con loh taloneh (22).</p>
+            <p rend="justify">(17). «Anagirunte» (Anagyroûs) es un demo del Ática que toma su nombre de«anágyros», «altramuz del diablo» (Anagyris foetida), planta maloliente. La broma está en el mal olor que desprenden las mujeres de Anagirunte. Wilamowitz cree que anágyros se refiere no a la planta, sino a un pantano maloliente del Ática, que exhala olor al ser removido. Hay otras opiniones.</p>
+            <p rend="justify">(18). «Mírrina» se relaciona con el nombre del mirto (myrtos), que designa la planta y el sexo de la mujer. Myrrinon es el adjetivo derivado de «mirto» y es, al tiempo, una de las múltiples denominaciones del glande. Todo ello es adecuado en la escena de los w 845 y ss.</p>
+            <p rend="justify">(19). Laconia es el nombre de la región en la que se encuentra la ciudad de Esparta, también llamada Lacedemonia. Lampito habla en dialecto laconio.</p>
+            <p rend="justify">(20). «Seguro que sí, así lo creo yo, por los dos dioses, pues me entreno en el gimnasio y salto dándome en el culo con los talones.»</p>
+            <p rend="justify">(21) . Los dos dioses son los Dioscuros Cástor y Pólux, hermanos gemelos, hijos de Leda. Habían nacido en Esparta, que los divinizó y los convirtió en protectores nacionales.</p>
+            <p rend="justify">(22). Las espartanas se entrenaban como los hombres. El salto descrito se consideraba típico de las muchachas espartanas.</p>
+            <p rend="justify">CLEONICE. ¡Qué hermosura de tetas tienes!</p>
+            <p rend="justify">LAMPITO (23). Me ehtáh parpando iguá que a una víctima para er zacrifisio.</p>
+            <p rend="justify">LISÍSTRATA. Y de estas dos, la jovencita esta de aquí, ¿de dónde es?</p>
+            <p rend="justify">LAMPITO (24). Ehta eh de arcurnia, pol loh doh diozeh, una beosia que ha venido adonde uhtedeh.</p>
+            <p rend="justify">LISÍSTRATA. Sí, por Zeus, muy de Beocia: ¡menuda llanura tiene! (25).</p>
+            <p rend="justify">CLEONICE. Sí, por Zeus, y se ha depilado muy elegantemente el poleo (26).</p>
+            <p rend="justify">LISÍSTRATA. ¿Y quién es esta otra chica?</p>
+            <p rend="justify">LAMPITO (27). De hente prominente, zí, pol loh doh diozeh: éh corintia.</p>
+            <p rend="justify">CLEONICE. Sí, por Zeus, prominente (28), ya se le ve por aquí y por allí.</p>
+            <p rend="justify">LAMPITO (29). Y a vé, ¿quién ha reunido ehta tropa de muhereh?</p>
+            <p rend="justify">(23). «Me estás palpando igual que a una víctima para el sacrificio.»</p>
+            <p rend="justify">(24). «Ésta es de alcurnia, por los dos dioses, una beocia que ha venido hasta vosotros.»</p>
+            <p rend="justify">(25) . Beocia se conocía como una llanura de gran fertilidad. Se utiliza aquí edíon con un doble significado, de «llanura» y de «sexo de la mujer».</p>
+            <p rend="justify">(26). El poleo entendido como mala hierba en la llanura, aludiendo al vello de la beocia.</p>
+            <p rend="justify">(27) . «De gente prominente, sí, por los dos dioses: es corintia.»</p>
+            <p rend="justify">(28). Lampito usa una palabra laconia, chala, que significa «genuina, buena, noble»; Cleonice la relaciona con el aspecto fisico de la corintia.</p>
+            <p rend="justify">(29). «Pero, ¿quién ha reunido esta tropa de mujeres?»</p>
+            <p rend="justify">LISÍSTRATA. Yo, aquí.</p>
+            <p rend="justify">LAMPITO (30). Dinoh lo que quiereh que agamoh.</p>
+            <p rend="justify">CLEONICE. Sí, por Zeus, querida, dinos ese asunto tan importante que te traes entre manos.</p>
+            <p rend="justify">LISÍSTRATA. Yo lo diría, pero antes de decirlo os voy a preguntar una cosa, algo de poca monta.</p>
+            <p rend="justify">CLEONICE. Lo que tú quieras.</p>
+            <p rend="justify">LISÍSTRATA. ¿No echáis de menos a los padres de vuestros hijitos, que están lejos, de servicio? Pues bien sé que todas vosotras tenéis al marido lejos de casa.</p>
+            <p rend="justify">CLEONICE. Mi marido, por lo menos, cinco meses lleva fuera, pobre de mí, vigilando a Éucrates (31) en Traria.</p>
+            <p rend="justify">MÍRRINA. Pues el mío, siete meses completos en Pilos (32).</p>
+            <p rend="justify">LAMPITO (33). Y er mío, zi arguna vé viene der frente, cohe el ehcudo y desaparese volando.</p>
+            <p rend="justify">LISÍSTRATA. Y ni siquiera de los amantes (34) ha quedado ni una chispa, pues desde que los milesios nos traicionaron, no he visto ni un solo consolador de cuero de ocho dedos de largo que nos sirviera de alivio «cueril» (35). Así que, si yo encontrara la manera, ¿querríais poner fin a la guerra con mi ayuda?</p>
+            <p rend="justify">(30). «Dinos lo que quieres que hagamos.»</p>
+            <p rend="justify">(31). De Éucrates dice el escoliasta que aparece en las comedias como personaje traidor y sobornable. Parece haber sido hermano de Nicias.</p>
+            <p rend="justify">(32). Pilos era una plaza, situada al suroeste del Peloponeso, que había sido conquistada por los atenienses a los espartanos, y en la que Atenas mantenía una guarnición.</p>
+            <p rend="justify">(33). «Y el mío, si alguna vez viene del frente, coge el escudo y desaparece volando.»</p>
+            <p rend="justify">(34). Cree Wilamowitz que «amante» no se refiere a un hombre, sino al consolador de cuero (ólisbos) que se menciona más adelante. Estos instrumentos se fabricaban en Mileto, en Asia Menor, y por ello dejan de verse cuando la ciudad se aparta de la alianza ateniense a raíz de la derrota en Sicilia.</p>
+            <p rend="justify">(35). «De cuero.»</p>
+            <p rend="justify">CLEONICE. Yo sí, por las dos diosas, desde luego, aunque tuviera que empeñar el vestido este curvilíneo y... bebérmelo el mismo día.</p>
+            <p rend="justify">MÍRRINA. Pues yo, me dejaría cortar en dos y daría la mitad de mi persona, aunque pareciera un rodaballo.</p>
+            <p rend="justify">LAMPITO (36). Y yo, ahta me zubi la a todo lo arto der Taiheto (37), ayí donde pudiera vé la pá.</p>
+            <p rend="justify">LISÍSTRATA. Voy a decíroslo, pues no tiene ya que seguir oculto el asunto. Mujeres, si vamos a obligar a los hombres a hacer la paz, tenemos que abstenernos...</p>
+            <p rend="justify">CLEONICE. ¿De qué? Di.</p>
+            <p rend="justify">LISÍSTRATA. ¿Lo vais a hacer?</p>
+            <p rend="justify">CLEONICE. Lo haremos, aunque tengamos que morirnos.</p>
+            <p rend="justify">LISÍSTRATA. Pues bien, tenemos que abstenernos del cipote. ¿Por qué os dais la vuelta? ¿Adónde vais? Oye, ¿por qué hacéis muecas con la boca y negáis con la cabeza? ¿Por qué se os cambia el color? ¿Por qué lloráis? ¿Lo vais a hacer o no? ¿Por qué vaciláis?</p>
+            <p rend="justify">CLEONICE. Yo no puedo hacerlo: que siga la guerra.</p>
+            <p rend="justify">MÍRRINA. Ni yo tampoco, por Zeus: que siga la guerra.</p>
+            <p rend="justify">LISÍSTRATA. Y, ¿tú eres la que dices eso, rodaballo? ¡Si hace un momento decías que te dejarías cortar por la mitad!</p>
+            <p rend="justify">CLEONICE. Otra cosa, cualquier otra cosa que quieras. Incluso, si hace falta, estoy dispuesta a andar por fuego. Eso antes que el cipote, que no hay nada comparable, Lisístrata, guapa.</p>
+            <p rend="justify">LISÍSTIZATA. Y tú, ¿qué? <hi rend="italic">(A</hi> MÍRRINA.)</p>
+            <p rend="justify">MÍRRINA. También yo prefiero andar por fuego.</p>
+            <p rend="justify">LISÍSTRATA. Jodidísima ralea nuestra, toda entera. No sin razón las tragedias se hacen a costa nuestra, pues no somos nada más que follar y parir (38). <hi rend="italic">(A</hi> LAMPITO.) Pero tú, querida laconia -pues con que tú sola estés a mi lado, aún podríamos salvar el asunto-, ponte de mi parte.</p>
+            <p rend="justify">(36). «y yo, hasta me subiría a lo alto del Taigeto, allí donde pudiera ver la paz.»</p>
+            <p rend="justify">(37). El Taigeto es el monte más conocido de Laconia.</p>
+            <p rend="justify">(38). Literalmente «Posidón y barco». La frase se relaciona, según los escolios, con una tragedia perdida de Sófocles, Tiro; en ella, los dos hijos gemelos que Tiro tuvo con Neptuno son abandonados y expuestos en una barca, por temor a la madrastra de Tiro, Sidero; cuando los niños se hacen mayores, vengan a su madre. Los escolios indican también que la frase equivale a «realizar el coito» y «dar a luz».</p>
+            <p rend="justify">LAMPITO (39). Pol loh doh diozeh, éh difisi que lah muhere duerman zin capuyo, zolah der todo. Zin embargo, zea, que jase musha farta la pá.</p>
+            <p rend="justify">LISÍSTRATA. Querida, tú sí que eres una mujer y no todas éstas.</p>
+            <p rend="justify">CLEONICE. Y si nos abstuviéramos todo lo posible de lo que tú dices -lo que ojalá que no pase-, ¿eso influiría mucho para que se hiciera la paz?</p>
+            <p rend="justify">LISÍSTRATA. Mucho sí, por las dos diosas. Porque si nos quedáramos quietecitas en casa, bien maquilladas, pasáramos a su lado desnudas con sólo las camisitas transparentes (40) y con el triángulo depilado, y a nuestros maridos se les pusiera dura y ardieran en deseos de follar, pero nosotras no les hiciéramos caso, sino que nos aguantáramos, harían la paz a toda prisa, bien lo sé.</p>
+            <p rend="justify">LAIVIPITO (41). Pol lo menoh, Menelao, cuando eshó una mirada a loh meloneh (42) de Helena, que ehtaba dehnuda, tiró la ehpada, creo yo (43) </p>
+            <p rend="justify">(39). «Dificil resulta, ¡por los dos dioses!, que las mujeres duerman sin capullo, solas del todo. Sin embargo, sea, que hace mucha falta la paz.»</p>
+            <p rend="justify">(40). Camisas transparentes, cuyo tejido se obtenía del tallo de la malva silvestre(amorgís).</p>
+            <p rend="justify">(41). «Por lo menos, Menelao, cuando echó una mirada a los melones de Elena, que estaba desnuda, tiró, según creo, la espada.»</p>
+            <p rend="justify">(42). Literalmente, «manzanas».</p>
+            <p rend="justify">(43). En un pasaje de Andrómaca de Eurípides, Menelao desiste de matar a su esposa al contemplarla.</p>
+            <p rend="justify">CLEONICE. Pero mujer, ¿qué pasará si nuestros maridos nos abandonan?</p>
+            <p rend="justify">LISÍSTRATA. Lo de Ferécrates, «descapullar a un perro descapullado» (44).</p>
+            <p rend="justify">CLEONICE. Esos sucedáneos son pamplina. ¿Y si nos cogen y nos arrastran por la fuerza a la alcoba?</p>
+            <p rend="justify">LISÍSTRATA. Tú agárrate a la puerta.</p>
+            <p rend="justify">CLEONICE. ¿Y si nos pegan?</p>
+            <p rend="justify">LISÍSTRATA. Hay que dejarse hacer poniéndoselo muy difícil, que no hay placer en esas cosas cuando se hacen por la fuerza. Además hay que causarles dolor. Y pierde cuidado, en seguida renunciarán. Pues nunca jamás disfrutará el hombre si no va de acuerdo con la mujer.</p>
+            <p rend="justify">CLEONICE. Si eso es lo que os parece bien a vosotras dos, también nos lo parece a nosotras.</p>
+            <p rend="justify">LAMPITO (45). A nuehtroh maridoh, nozotrah loh convenseremoh de que agan una pá huzta y zin engaño en todah lah cozah, pero a eza hente atenienze, tan veleta, ¿cómo ze la puede convensé para que no digan tonteríah?</p>
+            <p rend="justify">LISÍSTRATA. Pierde cuidado, nosotras convenceremos a la parte que nos toca.</p>
+            <p rend="justify">LAMPITO (46) ». Ezo no puede zé, pol lo menoh mientrah zuh trirremeh tengan patah (47) y aya dinero zin contá en la caza de la dioza (48).</p>
+            <p rend="justify">(44). Literalmente, «despellejar a un perro despellejado». Los consoladores podían ser de piel de perro. Se refiere a un consolador de cuero. Kyon es «perro» y también «pene». En los escolios se dice que la frase proverbial aludía a «hacer algo en balde» y señalan que en las obras del cómico Ferécrates no se encontraba ese dicho.</p>
+            <p rend="justify">(45). «A nuestros maridos nosotras los convenceremos de que hagan una paz justa y sin engaño en todos los aspectos. Pero a la inestable multitud de los atenienses, ¿cómo se les puede convencer de que no digan tonterías?»</p>
+            <p rend="justify">(46). «No, al menos mientras sus trirremes tengan patas y haya dinero incontable en la casa de la diosa.»</p>
+            <p rend="justify">(47). Literalmente, «pies», con el sentido figurado de estar disponibles.</p>
+            <p rend="justify">(48). Se refiere al tesoro de los atenienses guardado en la Acrópolis, dentro del Partenón y considerado propiedad de la diosa Atenea. Para las expediciones militares se echó en varias ocasiones mano de él. Llegó a ser muy cuantioso.</p>
+            <p rend="justify">LISÍSTRATA. También eso está bien preparado, ya que nos apoderaremos de la Acrópolis hoy mismo. A las más viejas se les ha ordenado hacer esto: que mientras nosotras nos ponemos de acuerdo en estas cosas, ellas, aparentando que celebran un sacrificio, se apoderen de la Acrópolis.</p>
+            <p rend="justify">LAMPITO (49). Todo puede rezultá, pueh lo que diseh tiene fundamento.</p>
+            <p rend="justify">LISÍSTRATA. Lampito, ¿por qué no hacemos todas juntas un juramento sobre esto, para que sea inquebrantable?</p>
+            <p rend="justify">LAMPITO (50). Pueh áhnoh zabé la fórmula, a vé cómo huraremoh.</p>
+            <p rend="justify">LISÍSTRATA. Hablas con acierto. ¿Dónde está la escita? (51) </p>
+            <p rend="italic">(Entra una «policía».)</p>
+            <p rend="justify">¿Qué miras? Pon ahí delante el escudo boca arriba, y que alguien me dé las entrañas de la víctima (52).</p>
+            <p rend="justify">CLEONICE. Lisístrata, ¿qué clase de juramento nos vas a hacer jurar?</p>
+            <p rend="justify">LISÍSTRATA. ¿Qué clase? Sobre un escudo, degollando un cordero, como hizo Esquilo en una ocasión, según dicen (53)</p>
+            <p rend="justify">(49). «Todo puede salir bien, pues lo que dices es acertado.»</p>
+            <p rend="justify">(50). «Pues haznos saberla fórmula, a ver cómo juraremos.»</p>
+            <p rend="justify">(51). La policía de Atenas estaba formada en su mayoría por esclavos escitas; Aristófanes forma un femenino jocoso, skythaina, sobre el masculino skythes.</p>
+            <p rend="justify">(52). Para hacer un juramento solemne se cortaban previamente las entrañas de una víctima apropiada. Aquí, naturalmente, no hay tales vísceras.</p>
+            <p rend="justify">(53). Se alude a la tragedia de Esquilo Siete contra Tebas, vv. 32 y ss., que las mujeres no conocen más que vagamente.</p>
+            <p rend="justify">CLEONICE. No, Lisístrata, no jures nada que tenga que ver con la paz sobre un escudo.</p>
+            <p rend="justify">LISÍSTRATA. Pues, ¿cuál podría ser el juramento? ¿Cogemos de alguna parte un caballo blanco y nos agenciamos sus vísceras cortándoselas?</p>
+            <p rend="justify">CLEONICE. ¿Dónde vas tú, con un caballo blanco? (54).</p>
+            <p rend="justify">LISÍSTRATA. Entonces, ¿cómo vamos a jurar?</p>
+            <p rend="justify">CLEONICE. Por Zeus, yo te lo voy a decir si quieres. Poniendo una copa grande y negra boca arriba y degollando... un cántaro de vino de Tasos, juremos sobre la copa... no echarle agua encima (55).</p>
+            <p rend="justify">LAMPITO (56). Ozú, ozú, er huramento, no se puede ni desí cómo lo apruebo.</p>
+            <p rend="justify">LISÍSTRATA. Que alguien traiga de dentro una copa y un cántaro. </p>
+            <p rend="italic">(Sacan a escena la copa y el cántaro.)</p>
+            <p rend="justify">CLEONICE. ¡Queridísimas mujeres!, ¡qué cacharro tan grande! Y la copa esa, con sólo cogerla, ya se alegra una.</p>
+            <p rend="justify">LISÍSTRATA. <hi rend="italic">(A la que trae la copa).</hi> Déjala ahí y cógeme el verraco (57). Soberana Persuasión y Copa de la Amistad, recibe estos sacrificios mostrándote benévola para las mujeres. </p>
+            <p rend="italic">(Mientras tanto, vierte vino en la copa.)</p>
+            <p rend="justify">CLEONICE. De buen color es la sangre, ya lo creo, y corre (58) estupendamente.</p>
+            <p rend="justify">LAMPITO (59). Y dehde luego, uele de maraviya, por Cáhtor (60).</p>
+            <p rend="justify">(54). Los caballos servían de ofrenda a Posidón o a otras divinidades marinas. Aquí se menciona como ofrenda exótica y costosa.</p>
+            <p rend="justify">(55). El vino de Tasos se consideraba de gran calidad. La intervención de Cleonice alude a la fama de bebedoras de las mujeres.</p>
+            <p rend="justify">(56). «Uy, uy, el juramento no se puede ni decir cómo lo apruebo.»</p>
+            <p rend="justify">(57). El cerdo que podría servir de víctima es en este caso el cántaro de vino.</p>
+            <p rend="justify">(58). O tal vez se trata de «escupir el vino después de probarlo».</p>
+            <p rend="justify">(59). «Y desde luego huele de maravilla, por Cástor.»</p>
+            <p rend="justify">(60). Véase nota 21.</p>
+            <p rend="justify">CLEONICE. Mujeres, dejadme jurar (61) a mí la primera.</p>
+            <p rend="justify">LISÍSTRATA. No, por Afrodita; cuando te llegue el turno. Tocad todas la copa, Lampito (62), y que una en vuestro nombre repita exactamente lo que yo diga. Vosotras declararéis esto bajo juramento de acuerdo conmigo y lo mantendréis firmemente: «Ningún hombre, ni amante, ni marido»...</p>
+            <p rend="justify">CLEONICE. «Ningún hombre, ni amante, ni marido»...</p>
+            <p rend="justify">LISÍSTRATA.... «se acercará a mí descapullado». Dilo.</p>
+            <p rend="justify">CLEONICE. ... «se acercará a mí descapullado». ¡Ay, ay!, se me debilitan las rodillas, Lisístrata.</p>
+            <p rend="justify">LISÍSTRATA. «En casa pasaré el tiempo sin mi toro» (63)</p>
+            <p rend="justify">CLEONICE. «En casa pasaré el tiempo sin mi toro»...</p>
+            <p rend="justify">LISÍSTRATA.... «con mi vestido azafranado (64) y muy bien arreglada»...</p>
+            <p rend="justify">CLEONICE. ... «con mi vestido azafranado y muy bien arreglada»...</p>
+            <p rend="justify">LISÍSTRATA.... «para que mi marido se ponga al rojo vivo»...</p>
+            <p rend="justify">CLEONICE. ... «para que mi marido se ponga al rojo vivo»...</p>
+            <p rend="justify">LISÍSTRATA.... «y nunca le seguiré la corriente a mi marido de buena gana».</p>
+            <p rend="justify">CLEONICE.... «y nunca le seguiré la corriente a mi marido de buena gana».</p>
+            <p rend="justify">LISÍSTRATA. «Pero si me obliga por la fuerza contra mi voluntad»...</p>
+            <p rend="justify">(61). Es decir, beber.</p>
+            <p rend="justify">(62). En Siete contra Tebas los capitanes juran tocando con su mano la sangre del toro sacrificado. Lisístrata se dirige en especial a Lampito por ser la representante del mayor enemigo de Atenas.</p>
+            <p rend="justify">(63). El vocablo ataúrotos se emplea con seriedad en Esquilo, Agamenón 245, indicando, como aquí, «sin marido».</p>
+            <p rend="justify">(64). Parece tratarse de una túnica transparente, llevada encima de la primera o chiton. Originariamente era de color amarillo.</p>
+            <p rend="justify">CLEONICE. «Pero si me obliga por la fuerza contra mi voluntad»...</p>
+            <p rend="justify">LISÍSTRATA.... «me dejaré de mala gana y no le seguiré en sus meneos».</p>
+            <p rend="justify">CLEONICE. ... «me dejaré de mala gana y no le seguiré en sus meneos».</p>
+            <p rend="justify">LISÍSTRATA. «No levantaré hacia el techo mis zapatillas persas».</p>
+            <p rend="justify">CLEONICE. «No levantaré hacia el techo mis zapatillas persas».</p>
+            <p rend="justify">LISÍSTRATA. «No me pondré a cuatro patas como una leona encima del rallador de queso» (65).</p>
+            <p rend="justify">CLEONICE. «No me pondré a cuatro patas como una leona encima del rallador de queso».</p>
+            <p rend="justify">LISÍSTRATA. «Si mantengo firmemente estas cosas, que beba yo de aquí»...</p>
+            <p rend="justify">CLEONICE. «Si mantengo firmemente estas cosas, que beba yo de aquí»...</p>
+            <p rend="justify">LISÍSTRATA. «Pero si las violo, que se llene de agua la copa».</p>
+            <p rend="justify">CLEONICE. «Pero si las violo, que se llene de agua la copa».</p>
+            <p rend="justify">LISÍSTRATA. ¿Declaráis todas vosotras esto bajo juramento de acuerdo conmigo?</p>
+            <p rend="justify">TODAS. Sí, por Zeus.</p>
+            <p rend="justify">LISISTRZATA. Hala, yo haré la ofrenda de ésta. <hi rend="italic">(Coge la copa para bebérsela.)</hi>
+            </p>
+            <p rend="justify">CLEONICE. Tu parte y gracias, querida, para que resultemos en el acto todas amigas unas de otras (66). <hi rend="italic">(Van bebiendo todas. Se oye un griterío de mujeres a lo lejos.)</hi>
+            </p>
+            <p rend="justify">(65). El llamado «rallador» de queso es en realidad un cuchillo para el queso (así, V Daremberg). En el mango de algunos de ellos aparecía probablemente representada una leona en marfil. El conjunto sugiere sencillamente una postura erótica. Una postura bien distinta es la del párrafo precedente.</p>
+            <p rend="justify">(66). Para ello tenían que hacer todas la libación de la copa de la amistad (philotesía), mencionada en el v 203.</p>
+            <p rend="justify">LAMPITO (67). ¿Qué gritoh zon ézoh?</p>
+            <p rend="justify">LISÍSTRATA. Es lo que yo decía: las mujeres se han apoderado <hi rend="italic">ya de</hi> la Acrópolis de la diosa. <hi rend="italic">(A</hi> LAMPITO.) Tú, Lampito, ponte en camino y organiza bien lo de vuestra gente, y a éstas <hi rend="italic">(señala a la</hi> BEOCIA <hi rend="italic">y a la </hi>CORINTIA) déjalas aquí como rehenes. <hi rend="italic">(Se va</hi> LAMPITO.) Nosotras vamos a la Acrópolis para ayudar a las otras que están allí a poner las trancas (68).</p>
+            <p rend="justify">CLEONICE. ¿No crees que los hombres van a venir en masa contra nosotras en seguida?</p>
+            <p rend="justify">LISÍSTRTATA. Poco me importan, que no vendrán trayendo tantas amenazas ni tanto fuego como para abrir las puertas esas, a no ser en las condiciones que hemos dicho.</p>
+            <p rend="justify">CLEONICE. Desde luego, por Afrodita, nunca, que si no, en vano habríamos obtenido el calificativo de inconquistables y malvadas.</p>
+            <p rend="italic">(Las mujeres se van hacia la Acrópolis.) (Llega por otro lado el coro de viejos; vienen cargados con troncos y traen un cuenco de barro con brasas.)</p>
+            <p rend="justify">CORIFEO. Anda, Draces, guíanos paso a paso aunque te duela el hombro por llevar la pesada carga de un tronco de olivo verde.</p>
+            <p rend="justify">(67). «¿Qué griterío es ese?»</p>
+            <p rend="justify">(68). Para cerrarlas puertas de los Propleos, por las que se accedía ala Acrópolis.</p>
+            <p rend="justify">SEMICORO 1.°</p>
+            <p rend="italic">Bien es verdad que en una vida larga caben muchos sucesos inesperados, ¡ay!</p>
+            <p rend="italic">pues ¿quién hubiera esperado nunca, Estrimodoro, oír</p>
+            <p rend="italic">que las mujeres, a las que alimentábamos</p>
+            <p rend="italic">en casa como desgracia manifiesta,</p>
+            <p rend="italic">tuvieran en sus manos la sagrada estatua (69)</p>
+            <p rend="italic">se apoderaran de mi Acrópolis,</p>
+            <p rend="italic">y con cerrojos y barras cerraran los Propíleos?</p>
+            <p rend="justify">CORIFEO. Hala, démonos muchísima prisa en ir a la Acrópolis, Filurgo, para que, poniendo los troncos estos alrededor de las que iniciaron este asunto y lo llevaron adelante, hagamos una sola pira, y con nuestras propias manos las quememos a todas, con un acuerdo unánime, y la primera, a la mujer de Licón (70).</p>
+            <p rend="justify">SEMICORO 2.°</p>
+            <p rend="italic">No, desde luego, por Deméter: mientras yo viva no se reirán de mí.</p>
+            <p rend="italic">Pues ni siquiera Cleómenes (71), que la tuvo en su poder el primero,</p>
+            <p rend="italic">se retiró indemne, sino que</p>
+            <p rend="italic">a pesar de sus humos laconios,</p>
+            <p rend="italic">me entregó las armas antes de marcharse,</p>
+            <p rend="italic">con una pequeña capa muy raída,</p>
+            <p rend="italic">hecho un asco de sucio, velludo,</p>
+            <p rend="italic">y con roña de seis años.</p>
+            <p rend="justify">(69). La antigua estatua, en madera, de Atenea, defensora de la ciudad.</p>
+            <p rend="justify">(70). En griego «la mujer de Licón» comienza igual que «Lisístrata» (ten Ly...), que es lo que el público espera. La mujer de Licón sufrió años después las burlas del cómico Eupolis. Licón fue más tarde uno de los tres acusadores de Sócrates.</p>
+            <p rend="justify">(71). Cleómenes I, rey de Esparta, ayudó al partido aristocrático ateniense, dirigido por Iságoras. En el 508-507 fue sitiado en la Acrópolis, y expulsado por el partido de los alcmeónidas y sus seguidores, demócratas. El coro menciona sucesos antiguos haciéndose portavoz de Atenas.</p>
+            <p rend="justify">CORIFEO. ¡Tan duramente asedié yo al hombre aquel, pasando la noche junto a las puertas (72) en formación de diecisiete en fondo (73) con los escudos! Y para éstas precisamente, enemigas de Eurípides (74) y de los dioses todos, ¿no he de servir yo con mi presencia de obstáculo de atrevimiento tan descomunal? ¡Que no siguiera estando entonces mi trofeo en la Tetrápolis! (75).</p>
+            <p rend="justify">SEMICORO 1.°</p>
+            <p rend="italic">Pues del camino</p>
+            <p rend="italic">este trecho me falta,</p>
+            <p rend="italic">la pendiente hacia la Acrópolis, adonde me apresuro.</p>
+            <p rend="italic">Hala, arrastremos esto</p>
+            <p rend="italic">sin ayuda de un mulo;</p>
+            <p rend="italic">lo que es a mí, los dos maderos me tienen estruido el hombro.</p>
+            <p rend="italic">Pero, sin embargo, hay que caminar, y hay que soplar el fuego</p>
+            <p rend="justify">
+               <hi rend="italic">para que no se me apague sin darme cuenta al final del camino.</hi> (Soplan las brasas.)</p>
+            <p rend="italic">¡Fu , ¡Fu!</p>
+            <p rend="italic">¡Uy, uy, qué humareda!</p>
+            <p rend="justify">(72). Los Propileos. «Pasar la noche» era una de las maneras de indicar «montar la guardia».</p>
+            <p rend="justify">(73). El destacamento de soldados formaba diecisiete filas. La expresión griega incluye la palabra escudos.</p>
+            <p rend="justify">(74). El poeta trágico Eurípides tenía fama de misógino por representar en escena las pasiones femeninas.</p>
+            <p rend="justify">(75). La Tetrápolis es la parte septentrional del Ática, en la que se encontraban cuatro ciudades, entre ellas Maratón, donde los atenienses derrotaron a los persas en el 490. Al trofeo erigido entonces se refiere el corifeo.</p>
+            <p rend="justify">SEMICORO 2.°</p>
+            <p rend="italic">Es terrible, ¡soberano Heracles! (76),</p>
+            <p rend="italic">cómo el fuego se echa sobre mí desde el cuenco</p>
+            <p rend="italic">y me muerde los ojos como una perra rabiosa.</p>
+            <p rend="italic">Seguro que es de Lemnos el fuego</p>
+            <p rend="italic">ese, de todas todas;</p>
+            <p rend="italic">pues, si no, nunca me mordería así, a dentelladas, las legañas (77).</p>
+            <p rend="italic">Date prisa, adelante, hacia la Acrópolis,</p>
+            <p rend="italic">ayuda a la diosa.</p>
+            <p rend="italic">¿Cuándo si no, Laques, la socorreremos mejor que ahora?</p>
+            <p rend="italic">¡Fu, fu!</p>
+            <p rend="italic">¡Uy, uy, qué humareda!</p>
+            <p rend="justify">CORIFEO. El fuego este se ha espabilado gracias a los dioses, y está muy vivo. ¿Qué tal si ponemos primero aquí los dos troncos, y entonces metemos la antorcha de sarmientos en el cuenco, la encendemos, y después nos abalanzamos contra la puerta como carneros? Y si al llamar nosotros las mujeres no aflojan las trancas hay que prender fuego a las puertas y acosarlas a ellas con el humo. Pues dejemos la carga. ¡Uy, qué humareda, puf, puf? ¿Cuál de los generales que están en Samos nos ayudaría a descargar el tronco? (78). <hi rend="italic">(Dejan los troncos en el suelo.)</hi> Éstos de aquí ya han dejado de hacerme polvo el espinazo. Cuenco, es tarea tuya espabilar las brasas para que colaboren conmigo y procuren que la antorcha quede encendida. <hi rend="italic">(Encienden las antorchas en las brasas del cuenco.)</hi> Soberana Victoria (79), ayúdanos a levantar un trofeo (80) a expensas de la osadía que ahora mismo han puesto de manifiesto las mujeres de la Acrópolis. <hi rend="italic">(Mientras tanto, con las antorchas prenden fuego a los troncos.)</hi>
+            </p>
+            <p rend="justify">(76). Heracles o Hércules es uno de los personajes mitológicos a los que se atribuyen mayor número de hazañas, de esposas y de hijos. Su mención es frecuente en la comedia.</p>
+            <p rend="justify">(77). «Lemnos» y «legaña» empiezan en griego por lem- como si en castellano dijéramos «Leganés» y «legaña».</p>
+            <p rend="justify">(78). En aquellos años en que una plaza tras otra abandonaba el círculo ateniense, después del desastre de Siracusa, se mantenía la flota vigilante en Samos para intervenir en posibles conflictos.</p>
+            <p rend="justify">(79). Nice es la diosa de la Victoria (la Victoria latina), que se identifica en época clásica con Atenea. Al estar ante los Propíleos, el coro divisa el templo de Nice.</p>
+            <p rend="justify">(80). El trofeo es un monumento a la derrota del enemigo, realizado en madera, bronce o piedra.</p>
+            <p rend="italic">(Entra el coro de mujeres con barreños de agua.)</p>
+            <p rend="justify">LA CORIFEO. Me parece que veo una densa nube de humo, mujeres, como si ardiera un fuego. Hay que darse muchísima prisa.</p>
+            <p rend="justify">PRIMER SEMICORO DE MUJERES.</p>
+            <p rend="italic">Vuela, vuela, Nicodice,</p>
+            <p rend="italic">antes de que se achicharren Calice</p>
+            <p rend="italic">y Critila por el fuego que avivan</p>
+            <p rend="italic">en derredor de ellas los malditos vientos</p>
+            <p rend="italic">y los viejos funestos.</p>
+            <p rend="italic">Pero una cosa temo: ¿no va a llegar mi ayuda demasiado tarde?</p>
+            <p rend="italic">Pues ahora mismo, que todavía está oscuro, he llenado mi cántaro</p>
+            <p rend="italic">en la fuente con dificultad por el gentío, por el barullo y [por el ruido de los</p>
+            <p rend="italic">cuencos al chocarse,</p>
+            <p rend="italic">y después, empujada por las criadas</p>
+            <p rend="italic">y por las esclavas marcadas con hierro, a toda prisa</p>
+            <p rend="italic">lo he levantado para prestar ayuda</p>
+            <p rend="italic">llevando agua a mis vecinas,</p>
+            <p rend="italic">que se están achicharrando.</p>
+            <p rend="justify">SEGUNDO SEMICORO DE MUJERES.</p>
+            <p rend="italic">Pues he oído que unos viejos de muchos humos</p>
+            <p rend="italic">van lentamente hacia la Acrópolis,</p>
+            <p rend="italic">llevando unos troncos de unos tres talentos de peso (81),</p>
+            <p rend="italic">como para calentar un baño,</p>
+            <p rend="italic">y que dicen con terribles palabras amenazadoras</p>
+            <p rend="italic">que hay que asar con fuego a las puñeteras mujeres.</p>
+            <p rend="italic">¡A éstas, oh diosa, que no las vea yo nunca achicharrarse,</p>
+            <p rend="italic">sino salvar de la guerra y de las locuras a Grecia y a mis conciudadanos!</p>
+            <p rend="italic">Justamente para esto, diosa de áureo penacho,</p>
+            <p rend="italic">defensora de la ciudad (82), se han instalado en tu sede.</p>
+            <p rend="italic">Y a ti te llamo como aliada,</p>
+            <p rend="italic">Tritogenia, para que, si algún hombre</p>
+            <p rend="italic">las asedia con fuego,</p>
+            <p rend="italic">lleves agua a la par que nosotras.</p>
+            <p rend="justify">LA CORIFEO. Deja... <hi rend="italic">(Divisa al coro de ancianos.) ¡Uy!,</hi> ¿qué es eso? ¡Hijos de mala madre! Nunca unos hombres de bien y piadosos habrían hecho una cosa así.</p>
+            <p rend="justify">EL CORIFEO. Esto que llega sí que no esperábamos verlo. ¡Menudo enjambre de mujeres está ahí fuera para echarles una mano!</p>
+            <p rend="justify">LA CORIFEO. ¿Por qué os damos tanto miedo? ¿Es que os parecemos muchas? Pues aún no estáis viendo ni a la milésima (83) parte de nosotras.</p>
+            <p rend="justify">EL CORIFEO. Fedrias, ¿vamos a dejarles decir disparates semejantes? ¿No sería mejor que alguien rompiera su cachiporra a fuerza de molerlas a palos?</p>
+            <p rend="justify">(81). Unos 75 kilogramos.</p>
+            <p rend="justify">(82). «La de áureo penacho, defensora de la ciudad» se aplica a la diosa Atenea, protectora de Atenas. También el epíteto «Tritogenia», que aparece un poco más abajo, corresponde a la misma divinidad.</p>
+            <p rend="justify">(83). Literalmente, «diezmilésima».</p>
+            <p rend="justify">LA CORIFEO. Vamos a poner también nosotras los cántaros en el suelo, para que, si alguien nos pone la mano encima, esto no nos estorbe.</p>
+            <p rend="justify">EL CORIFEO. Por Zeus, si alguien les hubiera dado de palos en la mandíbula dos o tres veces, como a Búpalo (84), ya no tendrían ni pizca de voz.</p>
+            <p rend="justify">LA CORIFEO. Aquí me tienes; ¡que alguien se atreva a darme! Yo me dejaré hacer bien quietecita (85). Eso sí: desde luego ninguna otra perra te podrá ya nunca agarrar los cojones.</p>
+            <p rend="justify">EL CORIFEO. Sino te callas te voy a arrancarla piel y la vejez (86) a golpes.</p>
+            <p rend="justify">LA CORIFEO. Acércate y toca con un solo dedo a Estratílide.</p>
+            <p rend="justify">EL CORIFEO. ¿Qué pasa si te hago cenizas con mis puños? ¿Qué cosa espantosa me vas a hacer?</p>
+            <p rend="justify">LA CORIFEO. A mordiscos te voy a arrancarlos pulmones y los intestinos.</p>
+            <p rend="justify">EL CORIFEO. No hay poeta más sabio que Eurípides, pues ninguna criatura es tan desvergonzada como las mujeres (87).</p>
+            <p rend="justify">LA CORIFEO. Vamos nosotras a coger el cántaro de agua, Rodipa.</p>
+            <p rend="justify">EL CORIFEO. Tú, enemiga de los dioses, ¿por qué has venido aquí con agua?</p>
+            <p rend="justify">LA CORIFEO. Y tú, ¡sepulcro!, ¿por qué con fuego? ¿Para quemarte?</p>
+            <p rend="justify">(84). El poeta Hiponacte dirigía frecuentemente sus invectivas contra este personaje. Un verso en el que lo amenazaba circulaba por la Atenas de entonces.</p>
+            <p rend="justify">(85). Doble sentido, significado sexual pasivo.</p>
+            <p rend="justify">(86). La palabra geras significa «vejez» y «piel» o «cáscara».</p>
+            <p rend="justify">(87). Véase nota 73.</p>
+            <p rend="justify">EL CORIFEO. Yo, para amontonar una pira y asediar con fuego a tus amigas.</p>
+            <p rend="justify">LA CORIFEO. Yo, para apagar tu pira con esta agua.</p>
+            <p rend="justify">EL CORIFEO. ¿Que tú vas a apagarme el fuego?</p>
+            <p rend="justify">LA CORIFEO. Los hechos lo pondrán en seguida bien a las claras.</p>
+            <p rend="justify">EL CORIFEO. No sé si asarte con la antorcha aquí mismo, según estoy.</p>
+            <p rend="justify">LA CORIFEO. Si tienes por casualidad algo de jabón, te voy a suministrar un baño.</p>
+            <p rend="justify">EL CORIFEO. ¿Un baño tú a mí, so guarra?</p>
+            <p rend="justify">LA CORIFEO. Y nupcial, para colmo.</p>
+            <p rend="justify">EL CORIFEO. ¿Has oído su descaro?</p>
+            <p rend="justify">LA CORIFEO. Es que soy libre.</p>
+            <p rend="justify">EL CORIFEO. Te voy a callar esas voces que estás dando.</p>
+            <p rend="justify">LA CORIFEO. Ahora no estás en el tribunal (88).</p>
+            <p rend="justify">EL CORIFEO. <hi rend="italic">(A su antorcha.)</hi> Quémale el pelo a ésta.</p>
+            <p rend="justify">LA CORIFEO. <hi rend="italic">(A su cántaro de agua).</hi> A lo tuyo, Aqueloo (89).</p>
+            <p rend="italic">(El coro de mujeres vacía sus cántaros en los ancianos.)</p>
+            <p rend="justify">EL CORIFEO. ¡Ay, pobre de mí!</p>
+            <p rend="justify">LA CORIFEO. ¿No estaba caliente, verdad?</p>
+            <p rend="justify">EL CORIFEO. ¿Qué es eso de caliente? ¿No te estarás quieta? ¿Qué haces?</p>
+            <p rend="justify">LA CORIFEO. Te estoy regando para que reverdezcas.</p>
+            <p rend="justify">EL CORIFEO. Pero si estoy temblando como una hoja seca.</p>
+            <quote>(88). Literalmente, «no eres heliasta». Los heliastas eran los jueces que formaban un tribunal popular, y se elegían entre los ciudadanos por sorteo.</quote>
+            <quote>(89). Nombra un río muy conocido (el más largo de Grecia) para referirse al agua de los cántaros. La personificación de este río Aqueloo recibía culto en Grecia.</quote>
+            <p rend="justify">LA CORIFEO. Muy bien: como tienes fuego podrás calentarte.</p>
+            <p rend="justify">
+               <hi rend="italic">(Llega un</hi> COMISARIO (90), <hi rend="italic">acompañado de arqueros escitas (91))</hi>
+            </p>
+            <p rend="justify">COMISARIO. ¿Es que se ha hecho patente la desvergüenza de las mujeres, su darle al tambor, sus frecuentes «sabacios» (92) y ese duelo por Adonis sobre los tejados que yo escuché una vez cuando estaba en la Asamblea (93)? Proponía el condenado Demóstrato hacer una expedición naval contra Sicilia, y al tiempo su mujer, bailando, dice: «¡Ay, ay, Adonis!». Demóstrato proponía reclutar hoplitas entre los zacintios (94), y ella, la mujer, algo bebida, dice encima del tejado: «Golpeaos el pecho por Adonis», y él insistía una y otra vez, este maldito Colericiges (95), odiado por los dioses. Indecencias como éstas son típicas de ellas.</p>
+            <p rend="justify">EL CORIFEO. Pues, ¿qué dirías si te enteraras además del descaro de éstas? Aparte de su caradura en otras cosas, para colmo nos han dado un baño con sus cántaros, hasta el punto de que podemos sacudirnos la ropa como si nos hubiéramos orinado en ella.</p>
+            <quote>(90). Uno de los componentes del comité de los Diez que fue elegido en Atenas en el 413, después de la derrota de Sicilia.</quote>
+            <quote>
+               <hi rend="bold italic">(91). Véase nota 51 .</hi>
+            </quote>
+            <quote>
+               <hi rend="bold italic">(92) . Sabacio era una divinidad frigia que en Grecia fue identificada con Dioniso. Se asociaba a ritos orgiásticos. Se refiere aquí al grito de las mujeres invocándolo.</hi>
+            </quote>
+            <quote>
+               <hi rend="bold italic">(93). Fiesta de mujeres era la que dedicaban a conmemorar la muerte de Adonis, símbolo de la vegetación anual. Parece que en el año 415 , al tiempo que la Asamblea deliberaba sobre la expedición a Sicilia, se celebraba la fiesta en honor de Adonis.</hi>
+            </quote>
+            <quote>(94). Demóstrato existió en realidad. Los zacintios eran los habitantes de Zacinto, hoy Zante. Los hoplitas constituían la infantería pesada.</quote>
+            <quote>
+               <hi rend="bold italic">(95). El poeta acuña la palabra Kholozyges a partir de khólos, «bilis», «cólera», y Bouzíges, epíteto de un héroe y de una noble familia ateniense, a la que pertenecía Demóstrato.</hi>
+            </quote>
+            <p rend="justify">COMISARIO. Sí, por Posidón Salino, es verdad. Pues cuando nosotros hacemos granujadas en unión de las mujeres y las iniciamos en el vici, en ellas surgen ideas de este tipo. Nosotros, en casa de los artesanos, decimos cosas como éstas: «Joyero, el collar aquel que reparaste, al estar bailando mi mujer por la noche, el pirindolo se le salió del agujero. Yo tengo que ir en barco a Salamina; tú, si tienes tiempo, haz lo posible por venir de noche y meterle en su sitio el pirindolo». Otro, a un zapatero joven que tiene un cipote nada infantil, le dice así: «Zapatero, el dedito del pie de mi mujer se lo aprieta la correa, porque es muy delicado, así que ven tú al mediodía y hazla ceder, para que esté más a sus anchas». Este tipo de cosas han dado lugar a esto de ahora, pues es el caso que yo, un comisario, después de que he conseguido que haya remeros, ahora mismo que tengo necesidad del dinero para ellos, me encuentro de puertas afuera por culpa de las mujeres (96). Pero no vale de nada quedarse aquí de brazos cruzados. <hi rend="italic">(A un arquero.)</hi> Trae las barras para que yo acabe con su descaro. ¿Por qué te quedas con la boca abierta, imbécil? (A <hi rend="italic">otro arquero.) Y</hi> tú, ¿a dónde miras, que no haces más que vigilar la taberna? ¿No vais a colocar las barras debajo de las puertas, por aquí, para apalancarlas y hacer que salten? Desde aquí yo también voy a echar una mano para apalancarlas.</p>
+            <p rend="justify">(LISÍSTRATA <hi rend="italic">sale de la Acrópolis, abriendo las puertas.)</hi>
+            </p>
+            <p rend="justify">(96). Es decir, no tiene acceso al tesoro de la Acrópolis.</p>
+            <p rend="justify">LISÍSTRATA. No apalanquéis nada. Ya salgo yo sin que me obligue nadie. ¿Qué falta hacen las barras? No son barras lo que se necesita, sino sentido común y mollera.</p>
+            <p rend="justify">COMISARIO. ¿Conque sí, eh, guarra? ¿Dónde está el arquero? <hi rend="italic">(Al arquero.) </hi>Deténla y átale las manos a la espalda.</p>
+            <p rend="justify">LISÍSTRATA. Por Ártemis, como me ponga encima la punta de un dedo, me las pagará aunque sea un agente público.</p>
+            <p rend="justify">COMISARIO. <hi rend="italic">(Al arquero.)</hi> ¿Qué, te da miedo, tú? ¿No vas a agarrarla por la cintura <hi rend="italic">-</hi> y tú <hi rend="italic">(A otro arquero)</hi> con él- y acabaréis de atarla entre los dos?</p>
+            <p rend="justify">
+               <hi rend="italic">(Sale</hi> CLEONICE <hi rend="italic">de la Acrópolis.)</hi>
+            </p>
+            <p rend="justify">CLEONICE. <hi rend="italic">(Al primer arquero.)</hi> Por Pándroso (97), como la toques, aunque sólo sea con la mano, te vas a cagar encima, de los pisotones que te vamos a dar.</p>
+            <p rend="justify">COMISARIO. Mira, «te vas a cagar encima». ¿Dónde hay otro arquero más? <hi rend="italic">(A un tercer arquero.)</hi> Ata a ésta primero, porque encima es una bocazas.</p>
+            <p rend="justify">
+               <hi rend="italic">(Llega</hi> MÍRRINA.)</p>
+            <p rend="justify">MÍRRINA. Por la Lucífera (98), como le pongas encima la punta de un dedo, vas a pedir en seguida una ventosa (99)</p>
+            <p rend="justify">(97). Pándroso era hija de Cécrope y, como castigo a su curiosidad, Atenea hizo que se precipitara desde la Acrópolis. Su leyenda estaba unida a la ciudadela.</p>
+            <p rend="justify">(98). «Portadora de luz, de antorchas», epíteto de Hécate, diosa extranjera que penetra en Grecia y es asociada con Ártemis, y con Selene, la diosa lunar.</p>
+            <p rend="justify">(99). Para extraer sangre de la hinchazón que le producirán los golpes.</p>
+            <p rend="justify">COMISARIO. ¿Qué sucede? ¿Dónde hay un arquero? <hi rend="italic">(A un cuarto arquero.) </hi>Échale el guante a ésa. <hi rend="italic">(A</hi> <hi rend="italic">las mujeres.)</hi> Yo haré que terminen vuestras salidas, una por una.</p>
+            <p rend="justify">LISÍSTRATA. Por la Táurica (100), como te acerques a ella, te voy a hacer gritar a fuerza de arrancarte el pelo.</p>
+            <p rend="italic">(Se va el arquero.)</p>
+            <p rend="justify">COMISARIO. ¡Desgraciado de mí! Ha abandonado el campo el arquero. Pero nunca cederemos ante las mujeres. Avancemos contra ellas, en línea de combate, escitas, hasta llegar a las manos.</p>
+            <p rend="justify">LISÍSTRATA. Por las dos diosas, vais a saber que también entre nosotras hay cuatro batallones de mujeres preparadas para la lucha, completamente armadas, ahí dentro.</p>
+            <p rend="justify">COMISARIO. Retorcedles los brazos a la espalda, escitas.</p>
+            <p rend="justify">LISÍSTRATA. <hi rend="italic">(Dirigiéndose a la ciudadela.)</hi> Mujeres aliadas, salid corriendo de dentro, vendedoras-del-mercado-del-grano-de-purés-y-hortalizas, hospederas-y-vendedoras-de-ajo-y-de-pan, ¿no vais a arrastrar, golpear, despedazar?, ¿no insultaréis y os descararéis? <hi rend="italic">(Salen las mujeres al ataque desde la Acrópolis y los escitas huyen.)</hi> Parad ya, retiraos, no cojáis botín.</p>
+            <p rend="italic">(Las mujeres que acaban de aparecer vuelven a la ciudadela.)</p>
+            <p rend="justify">COMISARIO. ¡Ay de mí!, qué mal ha ido la cosa para mis arqueros.</p>
+            <p rend="justify">LISÍSTRATA. Pues anda, ¿qué te pensabas? ¿Es que tú creías que atacabas a unas esclavas, o es que piensas que las mujeres no tienen arrestos?</p>
+            <p rend="justify">COMISARIO. Sí, por Apolo, y muchísimos, siempre que haya cerca un tabernero.</p>
+            <quote>(100). Literalmente, «Taurópolo», entendido como un sobrenombre referido a los toros y utilizado como epíteto de Ártemis.</quote>
+            <p rend="justify">EL CORIFEO. Muchas palabras gastadas en vano, comisario de esta tierra. ¿Por qué te enzarzas en discusiones con estas fieras? ¿No sabes con qué baño nos han obsequiado hace un momento, con la ropa encima, y para colmo sin jabón?</p>
+            <p rend="justify">LA CORIFEO. Tío, es que no hay que poner la mano encima al prójimo como si tal cosa; si haces eso, forzosamente tendrás los ojos hinchados. Porque lo que yo quiero es estarme quietecita, toda prudente como una jovencita, sin fastidiar a nadie de aquí y sin mover ni una paja, a menos que alguno me chupe la miel y me enfurezca, como a un avispero.</p>
+            <p rend="justify">CORO DE ANCIANOS.</p>
+            <p rend="italic">Zeus, ¿cómo podemos tratar a estos monstruos?</p>
+            <p rend="italic">Pues esto ya no se puede aguantar: tienes</p>
+            <p rend="italic">que estudiar conmigo lo que pasa aquí,</p>
+            <p rend="italic">con qué idea y para qué se han apoderado</p>
+            <p rend="italic">éstas de la Escarpada (101), la Acrópolis,</p>
+            <p rend="italic">roca inmensa, infranqueable,</p>
+            <p rend="italic">sagrado recinto.</p>
+            <p rend="justify">EL CORIFEO. Haz preguntas, no te dejes engatusar, contradícelas todo lo que puedas: que sería una vergüenza dejar un asunto así sin dar que hablar, y pasarlo por alto.</p>
+            <p rend="justify">COMISARIO. Por Zeus, de lo primero que quiero enterarme es de esto: ¿con qué idea habéis cerrado nuestra ciudadela con las trancas?</p>
+            <p rend="justify">LISÍSTRATA. Para poner a buen recaudo el dinero y para que no luchéis por él.</p>
+            <p rend="justify">COMISARIO. ¿Es que luchamos por el dinero?</p>
+            <quote>(101). Epíteto que designa la Acrópolis.</quote>
+            <p rend="justify">LISÍSTRATA. Sí, y también por él se originan todos los demás jaleos. Pues Pisandro (102) y los que andan detrás de los puestos públicos, para poder robar, armaban siempre algún alboroto. Así que éstos, que hagan lo que quieran en este asunto, que el dinero este ya no hay forma de que lo cojan.</p>
+            <p rend="justify">COMISARIO. ¿Qué es lo que vas a hacer?</p>
+            <p rend="justify">LISÍSTRATA. ¿Eso me preguntas? Lo vamos a administrar nosotras.</p>
+            <p rend="justify">COMISARIO. ¿Que vosotras lo vais a administrar?</p>
+            <p rend="justify">LISÍSTRATA. Y, ¿por qué te parece chocante? ¿No somos nosotras las que os administramos todo lo de la casa?</p>
+            <p rend="justify">COMISARIO. Pero no es lo mismo.</p>
+            <p rend="justify">LISÍSTRATA. ¿Cómo que no es lo mismo?</p>
+            <p rend="justify">COMISARIO. La guerra hay que hacerla contando con ese dinero.</p>
+            <p rend="justify">LISÍSTRATA. Pero lo primero de todo es que no hay que hacer la guerra.</p>
+            <p rend="justify">COMISARIO. Pues, ¿de qué otra manera estaremos a salvo?</p>
+            <p rend="justify">LISÍSTRATA. Nosotras os salvaremos.</p>
+            <p rend="justify">COMISARIO. ¿Vosotras?</p>
+            <p rend="justify">LISÍSTRATA. Sí, nosotras.</p>
+            <p rend="justify">COMISARIO. ¡Asombroso!</p>
+            <p rend="justify">LISÍSTRATA. Cuenta con que te salvarán, aunque no quieras.</p>
+            <p rend="justify">COMISARIO. Lo que dices es tremendo.</p>
+            <p rend="justify">LISÍSTRATA. Te enfadas, pero eso se hará de todos modos.</p>
+            <p rend="justify">COMISARIO. Por Deméter, es injusto.</p>
+            <p rend="justify">LISÍSTRATA. Hay que ponerte a salvo, amigo.</p>
+            <p rend="justify">COMISARIO. ¿Aunque yo no lo pida?</p>
+            <p rend="justify">LlSÍSTRATA. Así, más todavía.</p>
+            <quote>(102). Pisandro era uno de los componentes del comité de los Diez. Véase nota 90.</quote>
+            <p rend="justify">COMISARIO. ¿Y de dónde os sale esa preocupación por la guerra y la paz?</p>
+            <p rend="justify">LISÍSTRATA. Ahora lo explicaremos.</p>
+            <p rend="justify">COMISARIO. Pues dilo pronto si no quieres lamentarte.</p>
+            <p rend="justify">LISÍSTRATA. Escucha, e intenta tener quietas las manos.</p>
+            <p rend="justify">COMISARIO. No puedo, que me es difícil aguantarlas por el enfado.</p>
+            <p rend="justify">CLEONICE. Pues entonces te vas a lamentar mucho más.</p>
+            <p rend="justify">COMISARIO. Que sea contra ti eso que graznas, vieja. <hi rend="italic">(A</hi> LISÍSTRATA.) Tú, habla.</p>
+            <p rend="justify">LISÍSTRATA. Eso voy a hacer. Nosotras, en las primeras fases de la guerra y durante un tiempo, aguantamos, por lo prudentes que somos, cualquier cosa que hicierais vosotros los hombres -la verdad es que no nos dejabais ni rechistar-, y eso que agradarnos, no nos agradabais. Pero nosotras estábamos bien informadas de lo vuestro, y, por ejemplo, muchas veces, estando en casa, nos enterábamos de una mala resolución vuestra sobre un asunto importante. Y después, sufriendo por dentro, os preguntábamos con una sonrisa: «¿Qué cláusula habéis decidido, hoy, en la Asamblea, añadir en la estela en relación con la tregua?» «¿Y eso a ti, qué? -decía el marido de turno- ¿No te callarás?», y yo me callaba.</p>
+            <p rend="justify">CLEONICE. Pero yo no me callaba nunca.</p>
+            <p rend="justify">COMISARIO. Habrías llorado, si no te callabas.</p>
+            <p rend="justify">LISÍSTRATA. Yo, cierto que me callaba. Pero cada vez nos enterábamos de una decisión vuestra peor que la anterior. Y, luego, preguntábamos: «Marido, ¿cómo es que actuáis de una manera tan disparatada?». Y él, echándome una mirada atravesada, me decía en seguida que si yo no me ponía a hilar, mi cabeza iba a gemir a gritos. «De la guerra se ocuparán los hombres» (103)</p>
+            <p rend="justify">COMISARIO. Bien dicho lo de aquél, por Zeus.</p>
+            <quote>
+               <hi rend="bold italic">(103). Parte de un verso homérico, Ilíada, VI, 492.</hi>
+            </quote>
+            <p rend="justify">LISÍSTRATA. ¿Cómo que bien, estúpido, si ni siquiera cuando vuestras decisiones eran malas nos estaba permitido sugeriros nada? Y cuando ya os oíamos a las claras por las calles: «¿Es que no queda ni un hombre en este país?». «Desde luego que no, por Zeus», decía otro; después de esto acordamos ya sin más salvar a Grecia todas juntas, reuniéndonos las mujeres. Pues, ¿de qué hubiera valido esperar? Así es que si queréis atendernos ahora a nosotras que os hablamos cuerdamente, y callaros como antes nosotras, podríamos enderezaros.</p>
+            <p rend="justify">COMISARIO. ¿Vosotras a nosotros? Tremendo es lo que dices; no lo aguanto.</p>
+            <p rend="justify">LISÍSTRATA. Cállate.</p>
+            <p rend="justify">COMISARIO. ¿Callarme yo porque tú lo digas, hija de perra, y eso que tú llevas un velo en la cabeza (104)? Primero me muero.</p>
+            <p rend="justify">LISÍSTRATA. Pues si eso te sirve de obstáculo, coge este velo mío, tenlo y póntelo en la cabeza, y después cállate. <hi rend="italic">(Le da el velo.)</hi>
+            </p>
+            <p rend="justify">CLEONICE. También este canastillo. <hi rend="italic">(Se lo entrega.)</hi> Luego ponte un ceñidor y dedícate a cardar, devorando habas, que «de la guerra se ocuparán las mujeres».</p>
+            <p rend="justify">LA CORIFEO. Apartaos de los cántaros, mujeres, para que también nosotras por nuestra parte ayudemos a nuestras amigas.</p>
+            <p rend="justify">CORO DE MUJERES.</p>
+            <p rend="italic">Yo nunca me cansaría de bailar,</p>
+            <p rend="italic">ni la agotadora fatiga podrá apoderarse de mis rodillas.</p>
+            <p rend="italic">Dispuesta estoy a realizar cualquier cosa</p>
+            <p rend="italic">junto a éstas, por su valor, en ellas</p>
+            <p rend="italic">hay dotes naturales, gallardía, coraje,</p>
+            <p rend="italic">sabiduría, y valor</p>
+            <p rend="italic">patriótico y prudente.</p>
+            <quote>(104). El velo de las mujeres era indicio externo de su posición discreta en una sociedad de varones.</quote>
+            <p rend="justify">LA CORIFEO. Hala, tú, la más valiente de las abuelas y de las fructíferas ortigas hembras (105), avanzad con bravura y no os ablandéis, que todavía ahora corréis con viento favorable.</p>
+            <p rend="justify">LISÍSTRATA. Si Eros de dulce ánimo y Afrodita la Chipriota nos infunden a nosotras deseo en las entrañas y los muslos, y además hacen crecer en los varones una agradable turgencia y una persistente verga, creo yo que algún día nos van a llamar entre los griegos «Acabaguerras» (106).</p>
+            <p rend="justify">COMISARIO. ¿Por haber hecho qué?</p>
+            <p rend="justify">LISÍSTRATA. En primerísimo lugar, si hacemos que dejen de estar con armas en el mercado y de hacer chifladuras.</p>
+            <p rend="justify">CLEONICE. Sí, por Afrodita de Pafos (107).</p>
+            <p rend="justify">LISÍSTRATA. Pues ahora van y vienen, por el mercado de los cacharros y las verduras, con las armas, como Coribantes (108).</p>
+            <p rend="justify">COMISARIO. Sí, por Zeus; así tienen que hacer los hombres valerosos.</p>
+            <p rend="justify">LISÍSTRATA. Pues sí que tiene gracia la cosa: un tío con un escudo que representa una Gorgona (109), va y compra pescaditos.</p>
+            <p rend="justify">(105). Alusión al carácter agresivo de las mujeres del coro.</p>
+            <p rend="justify">(106). La palabra es Lysimáchas.</p>
+            <p rend="justify">(107). En Chipre. Véase el v 551.</p>
+            <p rend="justify">(108). Divinidades relacionadas con el culto orgiástico y confundidas frecuentemente con los Curetes, que agitando y golpeando sus armas evitaron, con el estruendo, que Crono oyera el llanto de Zeus niño y lo matara, como a los hijos anteriores.</p>
+            <p rend="justify">(109). La Gorgona era un ser alado monstruoso que aparece representado habitualmente en el escudo de Atenea.</p>
+            <p rend="justify">CLEONICE. Sí, por Zeus, yo he visto a un capitán montado a caballo (110), con larga melena, echar en el casco de bronce puré de lentejas que le vendía una vieja. Y otro, un tracio (111) que agitaba su escudo ligero y su jabalina, como Tereo, asustaba a la vendedora de higos secos y se tragaba los maduros (112)</p>
+            <p rend="justify">COMISARIO. ¿Y cómo os las vais a arreglar vosotras para reconciliar y poner fin a tal cantidad de asuntos enmarañados en las ciudades griegas?</p>
+            <p rend="justify">LISÍSTRATA. Muy simple.</p>
+            <p rend="justify">COMISARIO. ¿Cómo? Explícamelo.</p>
+            <p rend="justify">LISÍSTRATA. Igual que el hilo, cuando se nos ha enredado, lo cogemos así <hi rend="italic">(Muestra con gestos lo que está diciendo),</hi> y con los husos por un lado y por otro, lo traemos a su sitio, así también desenmarañaremos esta guerra, si es que nos dejan hacer, poniendo las cosas en su sitio por medio de embajadas a un lado y a otro.</p>
+            <p rend="justify">COMISARIO. ¿Así que con lanas, hilos y husos, os creéis que vais a poner fin a unos asuntos tan terribles? ¡Qué necias!</p>
+            <p rend="justify">LISÍSTRATA. Sí, y también vosotros, si tuvieras una pizca de sentido común, según nuestras lanas gobernaríais todo.</p>
+            <p rend="justify">COMISARIO. ¿Cómo? A ver. </p>
+            <p rend="justify">LISÍSTRATA. Primero, a la ciudad como al vellón de lana, después de haberle quitado la mugre lavándola en un baño, habría que ponerla sobre un lecho, apalearla para que eche a los sinvergüenzas y sacarle los abrojos; y a esos que se reúnen y se aglomeran junto a los cargos públicos, separarlos con el cardado y arrancarles... las cabezas. Después habría que esponjar la buena voluntad común y echarla en un cestito, mezclando a todos, a los metecos, a los extranjeros que sean amigos nuestros, y a los que tengan deudas con el Estado: también a esos mezclarlos ahí (113). ¡Por Zeus!, y las ciudades, todas las que son colonias de esta tierra, habría que tener una idea clara de que para nosotros son como los copos de lana que están cada uno por su lado; luego se cogen estos copos que forman cada una de ellas, se reúnen y se juntan en uno solo, y después se hace una gran bola y, con ella, se teje un vestido para la gente.</p>
+            <p rend="justify">(110). Jefe del escuadrón de caballería procedente de una tribu; las diez tribus eran las unidades administrativas en las que estaba distribuida el Ática.</p>
+            <p rend="justify">(111). El «tracio» es un mercenario. A continuación se menciona a Tereo, rey de Tracia, el personaje principal de una tragedia de Sófocles de la que tenemos datos indirectos.</p>
+            <p rend="justify">(112). Es igualmente posible que «maduros» se refiera a «aceitunas maduras».</p>
+            <p rend="justify">(113). Los metecos eran residentes en Atenas, pero no ciudadanos por ser extranjeros o hijos de extranjeros. Los que contraen deudas con el Estado y no las solventan se convierten en átimoi, «sin derechos». Los tres grupos señalados carecían por una razón u otra de la ciudadanía ateniense.</p>
+            <p rend="justify">COMISARIO. ¿No es terrible que éstas arreglen el asunto dando palos y haciendo bolas, ellas que ni siquiera tomaron parte ninguna en la guerra?</p>
+            <p rend="justify">LISÍSTRATA. Hijo de perra, nosotras la aguantamos más que por partida doble. Lo primero de todo, que damos a luz a nuestros hijos y los enviamos como hoplitas... (114)</p>
+            <p rend="justify">COMISARIO. Calla, deja los malos recuerdos.</p>
+            <p rend="justify">LISÍSTRATA. Además, cuando teníamos que disfrutar y sacarle partido a la juventud, dormimos solas por culpa de las campañas militares. Y aún lo nuestro pase, pero me dan pena las chicas que envejecen en sus habitaciones.</p>
+            <p rend="justify">COMISARIO. ¿Es que los hombres no envejecen?</p>
+            <p rend="justify">LISÍSTRATA. Por Zeus, no se parece nada. Pues cuando el hombre regresa, aunque esté lleno de canas, en seguida lo tienes casado con una jovencita. Pero el momento de la mujer es muy breve, y si no lo aprovecha, nadie quiere casarse con ella, y ahí se queda alimentando ilusiones.</p>
+            <p rend="justify">COMISARIO. Pero el que todavía puede ponerla tiesa...</p>
+            <p rend="justify">LISÍSTRATA. Tú, ¿qué haces que no te mueves? Sitio hay, cómprate el ataúd. Yo, la torta, ya la voy a amasar (115). Toma esto y póntelo de corona. <hi rend="italic">(Le da una cinta) (</hi>116)</p>
+            <p rend="justify">CLEONICE. Coge también éstas de mi parte. <hi rend="italic">(Le da unas vendas.)</hi>
+            </p>
+            <p rend="justify">MÍRRINA. Toma también esta corona. <hi rend="italic">(Leecha un puñado de tierra.)</hi>
+            </p>
+            <p rend="justify">LISÍSTRATA. ¿Qué te falta? ¿Qué echas de menos? Anda a la barca: Caronte te está llamando y tú no le dejas zarpar (117)</p>
+            <p rend="justify">COMISARIO. ¿No es horrible que me pase esto a mí? Por Zeus, que voy a ir al cual a que vean los comisarios la facha que tengo. <hi rend="italic">(Se aleja.)</hi>
+            </p>
+            <p rend="justify">LISÍSTRATA. ¿Es que nos vas a echar en cara que no te hemos preparado bien de cuerpo presente? (118). Pues pasado mañana muy tempranito te van a llegar de nuestra parte las ofrendas del tercer día bien aderezadas.</p>
+            <p rend="italic">(Salen las tres mujeres.)</p>
+            <p rend="justify">CORO DE ANCIANOS.</p>
+            <p rend="italic">Ya no es cuestión de que se duerma todo aquel que es libre.</p>
+            <p rend="justify">
+               <hi rend="italic">Hala, hombres, despojémonos de la capa, y manos a la obra.</hi> </p>
+            <p rend="justify">(Se quitan la capa.)</p>
+            <quote>(114) La infantería pesada.</quote>
+            <quote>(115). La torta con miel se dedica a los muertos y a los dioses infernales.</quote>
+            <quote>(116). Lisístrata le da probablemente una cinta para el pelo, es también un rasgo propio del culto a los muertos.</quote>
+            <quote>(117). Caronte es el barquero que transporta las almas de los muertos hasta el Hades, cruzando los ríos infernales.</quote>
+            <quote>(118). Se refiere ala preparación que se hacía al cadáver. Más adelante, menciona los sacrificios que se ofrecían en honor del muerto, dos días después del fallecimiento.</quote>
+            <p rend="italic">Pues esto de aquí ya huele a</p>
+            <p rend="italic">muy importantes asuntos, me parece a mí,</p>
+            <p rend="justify">
+               <hi rend="italic">y sobre todo olfateo la tiranía de Hipias</hi> (119) <hi rend="italic">.</hi>
+            </p>
+            <p rend="italic">Mucho temo que algunos laconios</p>
+            <p rend="italic">reunidos aquí en casa de Clútenes (120),</p>
+            <p rend="italic">a las mujeres enemigas de los dioses inciten engañosamente</p>
+            <p rend="italic">a que se apoderen de nuestro dinero, y del salario</p>
+            <p rend="italic">del que yo vivía.</p>
+            <p rend="justify">EL CORIFEO. Pues es terrible que éstas ahora se pongan a reprender a los ciudadanos; que parloteen, ellas, unas mujeres, de los escudos de bronce, y que se dispongan a reconciliarnos a nosotros con los laconios, en los que se puede confiar tanto como en un lobo con la boca abierta. Esto lo han tramado, compañeros, con vistas a una tiranía. Pero lo que es a mí, no van a tiranizarme, porque estaré alerta y «llevaré mi espada» en lo sucesivo «en una rama de mirto» (121), pasearé por la plaza con mis armas cerca de Aristogitón, y me pondré en pie junto a él así (122) <hi rend="italic">(Adopta actitud de estatua, levantando el puño),</hi> que me está entrando gana de darle un puñetazo en la mandíbula a la odiada por los dioses, a la vieja esta.</p>
+            <p rend="justify">
+               <hi rend="italic">(Amenaza a</hi> LA CORIFEO.)</p>
+            <p rend="justify">(119). Hipias ejerció una tiranía dura sobre Atenas a la muerte de su hermano. Hiparco fue el último de los tiranos.</p>
+            <p rend="justify">(120). Clístenes aparece en otras piezas tildado de homosexual. Se vincula aquí a los espartanos porque, entre éstos, era habitual la homosexualidad.</p>
+            <p rend="justify">(121). Fragmentos de una canción de banquete en honor de Harmodio y Aristogitón, que mataron al tirano Hiparco en 514 a. C. En recuerdo de los tiranicidas se erigió un grupo escultórico en el Ágora.</p>
+            <p rend="justify">(122). Se refiere a la estatua mencionada en la nota precedente.</p>
+            <p rend="justify">CORO DE MUJERES.</p>
+            <p rend="justify">
+               <hi rend="italic">Entonces, cuando entres en tu casa, la que te engendró no va a reconocerte. Hala, ancianas amigas, pongamos esto primero en el suelo.</hi> (Se quitan los mantos.)</p>
+            <p rend="italic">Pues nosotras, ciudadanos todos, vamos a decir </p>
+            <p rend="italic">palabras provechosas para la ciudad;</p>
+            <p rend="italic">bien está, pues ella me crió con lujo y esplendidez.</p>
+            <p rend="italic">Al cumplir siete años fui arréforo (123),</p>
+            <p rend="italic">después molinera (124), a los diez, para la Soberana.</p>
+            <p rend="italic">Con vestido azafranado osa fui en las fiestas de Braurón (125)</p>
+            <p rend="italic">y canéforo (126) cuando hermosa doncella,</p>
+            <p rend="italic">llevando un collar de higos secos.</p>
+            <p rend="justify">LA CORIFEO. ¿Está claro que es deber mío antiguo dar a la ciudad consejos provechosos? Pues si por naturaleza soy mujer, no estéis por eso en contra mía si contribuyo con algo mejor que las penurias presentes. Pues yo tengo parte en el banquete (127), pues aporto hombres, pero vosotros, estúpidos viejos, no tenéis parte, porque no sólo la contribución llamada «de los abuelos», la de las Guerras Médicas, la gastasteis sin aportar a cambio la parte que os tocaba, sino que para colmo corremos el peligro de que deis al traste con todo. ¿Te queda algo que gruñir? Si me chinchas, con este coturno sin curtir <hi rend="italic">(Señala su calzado.)</hi> te voy a dar en la mandíbula.</p>
+            <p rend="justify">(123). Se elegían cuatro niñas de siete años, de familias destacadas, que empezaban a tejer el manto de Atenea que se ofrendaba a la diosa en su fiesta; en la procesión llevaban los símbolos de la diosa.</p>
+            <p rend="justify">(124). Sumisión consistía en moler el trigo con el que se hacía una torta para el culto de Atenea.</p>
+            <p rend="justify">(125). Se trata de la fiesta dedicada a Ártemis que se celebraba cada cuatro años en Braurón, lugar del Ática. Parece que tanto la diosa, como las jóvenes que formaban parte en su culto, se denominaban «osas».</p>
+            <p rend="justify">(126). En la fiesta de Atenea unas muchachas escogidas llevaban en cestas los objetos dedicados al sacrificio cultual.</p>
+            <p rend="justify">(127). Se trata de una comida en la que se paga a escote (éranos); sobre este símil, Lisístrata habla de su aportación a la ciudad al entregarle a sus hijos. En la misma frase se menciona el éranos («escote») de las Guerras Médicas, refiriéndose al impuesto extraordinario que en caso de guerra se recogía en Atenas.</p>
+            <p rend="justify">CORO DE ANCIANOS.</p>
+            <p rend="italic">¿No es esto caradura,</p>
+            <p rend="italic">y mucha? Y aún me parece</p>
+            <p rend="italic">que la cosa va a más.</p>
+            <p rend="italic">Todo aquel que tenga los huevos en su sitio tiene que impedir esto.</p>
+            <p rend="italic">Quitémonos la túnica del hombro (128), que, de entrada, el hombre</p>
+            <p rend="italic">tiene que oler a hombre, y no le van las envolturas.</p>
+            <p rend="italic">Hala, pies descalzos, los que a</p>
+            <p rend="italic">Lipsidrio (129) marchamos cuando aún éramos alguien:</p>
+            <p rend="italic">ahora, sí, ahora tenemos que volver a la juventud a echar alas</p>
+            <p rend="italic">por todo el cuerpo y a quitarnos de encima la vejez ésta.</p>
+            <p rend="justify">EL CORIFEO. Pues conque uno de nosotros le dé a éstas la menor ocasión de pillarlo, no habrá maña untuosa que dejen éstas de practicar, sino que llegarán a mandar construir naves e intentarán incluso hacer una batalla naval y navegar contra nosotros, como Artemisia (130) Y si les da por lo ecuestre, doy de baja al cuerpo de caballería; pues la mujer es la cosa más adecuada para montar y subirse encima, y no hay forma de que se caiga cuando va al galope: mira si no a las Amazonas (131), las que Micón pintó a caballo, luchando contra los hombres. Haría falta que las agarráramos a todas ellas y las sujetáramos por el cuello en un cepo perforado.</p>
+            <quote>(128). Túnica suspendida del hombro izquierdo.</quote>
+            <quote>(129). En Lipsidrio, lugar del Ática, se defendió un grupo de demócratas acosado por el tirano Hipias.</quote>
+            <quote>(130). Reina de Halicarnaso, mencionada por Heródoto, que luchó en Salamina.</quote>
+            <quote>(131). Las Amazonas eran, dentro de la mitología, mujeres guerreras. Fueron derrotadas por Teseo, rey de Atenas. La lucha fue representada tanto en la pintura como en la escultura.</quote>
+            <p rend="justify">CORO DE MUJERES.</p>
+            <p rend="italic">Por las dos diosas, si me caliento</p>
+            <p rend="italic">voy a soltar la cerda</p>
+            <p rend="italic">que llevo dentro, y voy a conseguir</p>
+            <p rend="italic">que hoy pidas ayuda a tus compañeros, cuando yo te trasquile.</p>
+            <p rend="italic">¡Hala!, también nosotras, mujeres, quitémonos de encima</p>
+            <p rend="justify">
+               <hi rend="italic">[la ropa a toda prisa</hi> (Se descubren),</p>
+            <p rend="italic">que huela a mujeres que muerden con toda furia.</p>
+            <p rend="italic">Ahora, que alguno se me acerque, que ya nunca</p>
+            <p rend="italic">ha de comer ajos ni habas negras.</p>
+            <p rend="italic">Con sólo que me insultes, con lo enfadada que estoy,</p>
+            <p rend="italic">como el escarabajo voy a hacer de partera del águila preñada (132)</p>
+            <quote>(132). Alusión a una fábula popular en la que el águila se lleva a la cría de escarabajo, y éste, para vengarse, intenta romper sus huevos, consiguiéndolo, aunque el águila los deposita en manos de Zeus.</quote>
+            <p rend="justify">LA CORIFEO. Yo no tengo por qué preocuparme de vosotros, mientras existan Lampito y mi amiga Ismenia, una chica tebana de buena gente. Pues no te será posible, aunque lo mandes por decreto siete veces, bastardo, tú que te has ganado el odio de todos y hasta de tus vecinos. Así, ayer mismo, que celebraba yo una fiesta a Hécate (133), invité, de la gente de por allí, a la compañera de mis hijas, una chica buena y agradable, una anguila de Beocia (134), pero ellos se negaron a enviarla por culpa de tus decretos. Y no hay manera de que acabéis con esos decretos hasta que alguien os agarre por una pierna y os desnuque tirándoos de cabeza. </p>
+            <p rend="justify">
+               <hi rend="italic">(Entra</hi> LISÍSTRATA, <hi rend="italic">que viene de la Acrópolis.)</hi> </p>
+            <p rend="justify">«Soberana de este asunto y de estos designios, ¿por qué con semblante sombrío has salido del recinto?» (135)</p>
+            <p rend="justify">LISÍSTRATA-La actuación de mujeres mezquinas, y el caletre mujeril, me hacen dar vueltas arriba y abajo toda desanimada.</p>
+            <p rend="justify">LA CORIFEO. ¿Qué dices, qué dices?</p>
+            <p rend="justify">LISÍSTRATA. La verdad, la verdad.</p>
+            <p rend="justify">LA CORIFEO. ¿Qué hay de malo? Cuéntalo a tus amigas.</p>
+            <p rend="justify">LISÍSTRATA. Empachoso es decirlo, y callarlo, penoso (136).</p>
+            <p rend="justify">LA CORIFEO. No me ocultes la desgracia que nos pasa.</p>
+            <p rend="justify">LISÍSTRATA. En dos palabras: queremos joder.</p>
+            <p rend="justify">LA CORIFEO. ¡Ay, Zeus!</p>
+            <p rend="justify">LISÍSTRATA. ¿Por qué llamas a Zeus? Las cosas están así. Yo no soy ya capaz de mantenerlas apartadas de los hombres: se escapan. A una la pillé muy temprano agrandando la abertura por donde está la gruta de Pan (137); a otra, mientras se deslizaba serpenteando ayudada por una garrucha; a otra, cuando se pasaba al enemigo; a una que planeaba ya bajar volando encima de un gorrión hasta la casa de Orsíloco (138), la arrastré ayer por los pelos. Ponen todas las excusas posibles con tal de marcharse a su casa. Aquí viene una de ellas. </p>
+            <p rend="justify">
+               <hi rend="italic">(Entra una mujer.)</hi> </p>
+            <p rend="justify">Oye, tú, ¿a dónde vas tan corriendo?</p>
+            <p rend="justify">(133). Diosa del hogar. </p>
+            <p rend="justify">(134). Véase nota 7.</p>
+            <p rend="justify">(135). El escoliasta señala que estas palabras pertenecen a una tragedia de Eurípides,Télefo.</p>
+            <p rend="justify">(136). Otro pasaje euripideo.</p>
+            <p rend="justify">(137). En la parte norte de la Acrópolis.</p>
+            <p rend="justify">(138). Parece tratarse de un meteco que regentaba un burdel.</p>
+            <p rend="justify">MUJER PRIMERA. Quiero ir a casa, que en casa tengo unas lanas de Mileto (139) que me las están haciendo polvo las polillas.</p>
+            <p rend="justify">LISÍSTRATA. ¿Qué polillas? ¿Es que no vas a volverte?</p>
+            <p rend="justify">MUJER PRIMERA. Pero si vendré en seguida, por las dos diosas, en cuanto extienda (140) encima de la cama... (141)</p>
+            <p rend="justify">LISÍSTRATA. Nada de extender ni de salir a ningún sitio.</p>
+            <p rend="justify">MUJER PRIMERA. ¿Tengo que dejar que se eche a perder la lana?</p>
+            <p rend="justify">LISÍSTRATA. Si hace falta, sí. <hi rend="italic">(Entra otra mujer.)</hi>
+            </p>
+            <p rend="justify">MUJER SEGUNDA. ¡Desgraciada de mí, desgraciada!, ¡el lino (142) que he dejado en casa sin pelar! (143)</p>
+            <p rend="justify">LISÍSTRATA. Aquí sale otra en busca del lino sin pelar. ¡Anda, vuelve aquí!</p>
+            <p rend="justify">MUJER SEGUNDA. Por la Lucífera (144), yo sólo voy a pelarlo y vuelvo en seguida.</p>
+            <p rend="justify">LISÍSTRATA. No, no lo peles, que si empiezas con eso, otra mujer querrá hacer lo mismo. <hi rend="italic">(Entra una tercera mujer.)</hi>
+            </p>
+            <p rend="justify">MUJER TERCERA. Soberana Ilitía (145), contén el parto hasta que yo llegue a un lugar que no sea prohibido (146).</p>
+            <p rend="justify">LISÍSTRATA. ¿Qué bobadas dices?</p>
+            <p rend="justify">MUJER TERCERA. Estoy a punto de dar a luz.</p>
+            <p rend="justify">LISÍSTRATA. ¡Pero si ayer ni siquiera estabas embarazada!</p>
+            <p rend="justify">(139). Lana de gran calidad.</p>
+            <p rend="justify">(140). Para eliminar las polillas se colocaba la lana extendida.</p>
+            <p rend="justify">(141). Doble sentido.</p>
+            <p rend="justify">(142). Se trata de la planta Malva silvestris, empleada como fibra textil.</p>
+            <p rend="justify">(143). Todo el texto presenta doble sentido.</p>
+            <p rend="justify">(144). Véase nota 97.</p>
+            <p rend="justify">(145). Es la diosa del parto.</p>
+            <p rend="justify">(146). En los lugares sagrados (aquí, la Acrópolis) no se podían realizar actos que contaminaran, como dar a luz.</p>
+            <p rend="justify">MUJER TERCERA. Pues hoy sí. Déjame ir a casa, Lisístrata, a buscar a la comadrona.</p>
+            <p rend="justify">LISÍSTRATA. ¿Qué historia es ésa? ¿Qué es eso duro que tienes ahí? <hi rend="italic">(Le palpa el vientre.)</hi>
+            </p>
+            <p rend="justify">MUJER TERCERA. Un chavalillo.</p>
+            <p rend="justify">LISÍSTRATA. De eso nada, por Afrodita, más bien una cosa hueca de bronce me parece a mí que tiene. Voy a enterarme. <hi rend="italic">(La registra.)</hi> Majadera, ¡conque tienes aquí el casco sagrado (147) y decías que estabas embarazada!</p>
+            <p rend="justify">MUJER TERCERA. Y lo estoy, ¡por Zeus!</p>
+            <p rend="justify">LISÍSTRATA. Pues, ¿por qué llevabas el casco?</p>
+            <p rend="justify">MUJER TERCERA. Para que si me pillaba el parto todavía en la Acrópolis pudiera dar a luz metiéndome en él, como las palomas (148).</p>
+            <p rend="justify">LISÍSTRATA. ¿Qué dices? Son excusas: la cosa está clara. ¿No irás a esperar aquí la ceremonia ...(149) del casco?</p>
+            <p rend="justify">MUJER TERCERA. Es que en la Acrópolis no puedo ni echarme a dormir desde que el otro día vi a la Serpiente Guardián (150) <hi rend="italic">(Entra una cuarta mujer.)</hi>
+            </p>
+            <p rend="justify">MUJER CUARTA. Pues yo, pobre de mí, por culpa de las lechuzas es por lo que me muero de tanto insomnio, que ululan sin parar.</p>
+            <p rend="justify">LISÍSTRATA. ¡Dichosas mujeres! Basta ya de disparates. <hi rend="italic">Os</hi> despepitáis por los hombres, seguro. <hi rend="italic">(Se dirige a otra de ellas.)</hi> Pero, ¿crees que ellos no se despepitan por nosotras? Terribles, bien lo sé, son las noches que pasan ellos. Resistid, valientes, y soportadlo un poco de tiempo más, pues según un oráculo vamos a vencer si no reñimos. El oráculo está aquí. <hi rend="italic">(Muestra un rollo.)</hi>
+            </p>
+            <quote>(147). De Atenea.</quote>
+            <quote>(148). Como si fuera un nido.</quote>
+            <quote>(149). Alusión a la ceremonia que se celebraba pocos días después del nacimiento de un niño.</quote>
+            <quote>(150). Serpiente legendaria que guardaba la Acrópolis.</quote>
+            <p rend="justify">MUJER TERCERA. Léenos lo que dice.</p>
+            <p rend="justify">LISÍSTRATA. Pues callaos. «Cuando los pájaros (151) se acurruquen en un solo lugar huyendo de las abubillas, y se abstengan del falo, se producirá el cese de sus desgracias, y lo que está encima lo pondrá debajo Zeus, de resonante voz...»</p>
+            <p rend="justify">MUJER TERCERA. ¿Que nos tumbaremos nosotras encima?</p>
+            <p rend="justify">LISÍSTRATA. «... pero si se separan (152) y se elevan volando con sus alas fuera del sagrado templo los pájaros, no habrá ya ave alguna que resulte ser más pelanduscona».</p>
+            <p rend="justify">MUJER TERCERA. A las claras es el oráculo, por Zeus. ¡Dioses todos!</p>
+            <p rend="justify">LISÍSTRATA. No tenemos que renunciar por mucho que soportemos. Vamos adentro: que sería bochornoso el caso, queridas, si traicionamos al oráculo. <hi rend="italic">(Se van</hi> LISÍSTRATA <hi rend="italic">y las mujeres.)</hi>
+            </p>
+            <p rend="justify">CORO DE ANCIANOS.</p>
+            <p rend="italic">Una historia quiero contaros,</p>
+            <p rend="italic">que escuché un día cuando era niño.</p>
+            <p rend="italic">Érase una vez un muchacho, Melanio (153), que</p>
+            <p rend="italic">rehuyendo el matrimonio se llegó a un lugar desierto, y por los montes</p>
+            <p rend="italic">habitaba.</p>
+            <p rend="italic">Cazaba liebres</p>
+            <p rend="italic">con redes que trenzaba,</p>
+            <p rend="italic">y nunca más regresó a su casa, por esa aversión.</p>
+            <p rend="italic">Hasta tal punto aborrecía aquél a las mujeres, y nosotros,</p>
+            <p rend="italic">ni pizca menos que Melanio, pues somos juiciosos.</p>
+            <p rend="justify">(151). Literalmente, «golondrinas», con el doble sentido de «sexo de la mujer»», que he tratado de mantener con «pájaro».</p>
+            <p rend="justify">(152). Significa también, «si se abren de piernas».</p>
+            <p rend="justify">(153). Héroe arcadio, famoso cazador.</p>
+            <p rend="justify">EL CORIFEO.<lb/>
+            </p>
+            <p rend="italic">Vieja, quiero darte un beso...</p>
+            <p rend="justify">LA CORIFEO.</p>
+            <p rend="justify">
+               <hi rend="italic">Así no te van a hacer falta cebollas</hi> (154)<hi rend="italic">.</hi>
+            </p>
+            <p rend="justify">EL CORIFEO.</p>
+            <p rend="justify">...y <hi rend="italic">levantar así</hi> (Levanta la pierna) <hi rend="italic">y pegarte una patada.</hi>
+            </p>
+            <p rend="justify">LA CORIFEO.</p>
+            <p rend="italic">Maleza espesa la que llevas.</p>
+            <p rend="justify">EL CORIFEO.</p>
+            <p rend="italic">También Mirónides (155) era</p>
+            <p rend="italic">velludo por ahí, un culinegro (156)</p>
+            <p rend="italic">para lanzarse sobre los enemigos,</p>
+            <p rend="italic">lo mismo que Formión (157)</p>
+            <p rend="justify">CORO DE MUJERES.</p>
+            <p rend="italic">También yo quiero contaros a mi vez</p>
+            <p rend="italic">una historia, frente a la de Melanio.</p>
+            <p rend="italic">Érase una vez un tal Timón (158), errabundo,</p>
+            <p rend="italic">con inexpugnables pinchos bien cercado su rostro,</p>
+            <p rend="italic">de las Erinias (159) áspero brote.</p>
+            <p rend="italic">Pues este Timón,</p>
+            <p rend="italic">por odio, lejos partió,</p>
+            <p rend="italic">tras mucho maldecir a los hombres perversos.</p>
+            <p rend="italic">Hasta ese punto odiaba aquél, en vez de a nosotras, a los perversos</p>
+            <p rend="italic">hombres, pero para las mujeres era muy cariñoso.</p>
+            <p rend="justify">(154). Para llorar.</p>
+            <p rend="justify">(155). Fue embajador y estratega victorioso, en el segundo cuarto del siglo v a. C.</p>
+            <p rend="justify">(156). Llega a ser sinónimo de valiente.</p>
+            <p rend="justify">(157). Actuó en la primera fase de la Guerra del Peloponeso, en una campaña naval fructífera para Atenas.</p>
+            <p rend="justify">(158). Se refiere jocosamente a Timón como si se tratara de un personaje antiguo o legendario; era contemporáneo de la pieza. Se exagera a continuación el aspecto de su barba.</p>
+            <p rend="justify">(159). Las Erinas o Furias son divinidades vengadoras de los crímenes, y su aspecto producía terror.</p>
+            <p rend="justify">LA CORIFEO.</p>
+            <p rend="italic">¿Quieres que te pegue en la quijada?</p>
+            <p rend="justify">EL CORIFEO.</p>
+            <p rend="italic">No, no, ¡qué miedo!</p>
+            <p rend="justify">LA CORIFEO.</p>
+            <p rend="italic">Entonces, ¿te doy con la pierna?</p>
+            <p rend="justify">EL CORIFEO.</p>
+            <p rend="italic">Se te va a ver el «portahombres».</p>
+            <p rend="justify">LA CORIFEO.</p>
+            <p rend="italic">Pues no te lo vas a encontrar,</p>
+            <p rend="italic">vieja como soy, pe-</p>
+            <p rend="italic">ludo, sino repe-</p>
+            <p rend="italic">lado con un candil.</p>
+            <p rend="justify">
+               <hi rend="italic">(Entra</hi> LISÍSTRATA <hi rend="italic">desde la Acrópolis.)</hi>
+            </p>
+            <p rend="justify">LISÍSTRATA. ¡Oooh, mujeres, venid aquí, a mi lado, rápido! <hi rend="italic">(Vienen</hi> MÍRRINA <hi rend="italic">y otras mujeres desde la ciudadela.)</hi>
+            </p>
+            <p rend="justify">MÍRRINA. ¿Qué hay? Dime, ¿por qué esas voces?</p>
+            <p rend="justify">LISÍSTRATA. Un hombre, un hombre veo que se acerca trastornado, poseído por los éxtasis de Afrodita. ¡Soberana que guardas Chipre, Citera y Pafosi (160) Sigue por ese camino tan tieso (161) que llevas.</p>
+            <p rend="justify">MÍRRINA. <hi rend="italic">¿Y</hi> dónde está, sea quien sea?</p>
+            <p rend="justify">LISÍSTRATA. Junto al templo de la Verdeante (162)</p>
+            <quote>(160). Afrodita.</quote>
+            <quote>(161). Doble sentido, para referirse también a la erección del hombre que llega.</quote>
+            <quote>(162). Uno de los epítetos de Deméter, diosa de la tierra cultivada. Su templo estaba junto a la Acrópolis en el lado sur.</quote>
+            <p rend="justify">MÍRRINA. Ah, sí, por Zeus, ahí está, y, ¿quién puede ser?</p>
+            <p rend="justify">LISÍSTRATA. Fijaos: ¿Lo conoce alguna de vosotras?</p>
+            <p rend="justify">MÍRRINA. Sí, por Zeus, yo; ¡es mi marido, Cinesias!</p>
+            <p rend="justify">LISÍSTRATA. Lo que tienes que hacer ya es ponerlo en el asador, darle vueltas, engatusarlo con el quiero y no quiero, y decirle que sí a todo menos a lo que conoce la copa (163).</p>
+            <p rend="justify">MÍRRINA. Descuida, yo lo haré.</p>
+            <p rend="justify">LISÍSTRATA. Pues yo me quedo aquí contigo para ayudarte a engatusarlo y ponerlo a punto de caramelo. <hi rend="italic">(A las demás mujeres.)</hi> Ahora, marchaos.</p>
+            <p rend="justify">
+               <hi rend="italic">(Salen; entra</hi> CINESIAS <hi rend="italic">con un criado que trae un niño.)</hi>
+            </p>
+            <p rend="justify">CINESIAS. ¡Ay de mí, desdichado, qué convulsiones me dan, y qué rigidez, como si me torturaran en la rueda!</p>
+            <p rend="justify">LISÍSTRATA. ¿Quién está ahí, que ha rebasado los puestos de guardia?</p>
+            <p rend="justify">CINESIAS. Yo.</p>
+            <p rend="justify">LISÍSTRATA. ¿Un hombre?</p>
+            <p rend="justify">CINESIAS. Un hombre, desde luego.</p>
+            <p rend="justify">LISÍSTRATA. ¡Largo de ahí!</p>
+            <p rend="justify">CINESIAS. ¿Y quién eres tú que me echas?</p>
+            <p rend="justify">LISÍSTRATA. Un centinela de día.</p>
+            <p rend="justify">CINESIAS. Por los dioses, entonces, llámame a Mírrina.</p>
+            <p rend="justify">LISÍSTRATA. ¡Anda, que yo te llame a Mírrina!, ¿y quién eres tú?</p>
+            <p rend="justify">CINESIAS. El marido de ella, Cinesias de Leónidas (164).</p>
+            <p rend="justify">LISÍSTRATA. Hola, querido. Tu nombre no está entre nosotras falto de prestigio ni deja de ser conocido, pues tu mujer siempre te tiene en la boca. Si coge un huevo o una manzana, dice: «Ojalá fuera para Cinesias».</p>
+            <p rend="justify">CINESIAS. ¡Oh, dioses!</p>
+            <quote>(163). El juramento.</quote>
+            <quote>(164). Nombre de un demo del Ática.</quote>
+            <p rend="justify">LISÍSTRATA. Sí, por Afrodita, y si se tercia hablar de maridos, tu mujer en seguida dice que al lado de Cinesias todo lo demás son pamplinas.</p>
+            <p rend="justify">CINESIAS. Pues ve y llámala.</p>
+            <p rend="justify">LISÍSTRATA. Bueno, y ¿qué me vas a dar?</p>
+            <p rend="justify">CINESIAS. Yo, esto <hi rend="italic">(Señala su miembro),</hi> por Zeus, si quieres. Esto es lo que tengo, y lo que tengo te lo doy.</p>
+            <p rend="justify">LISÍSTRATA. Pues hala, voy a bajar a llamártela. <hi rend="italic">(Se va.)</hi>
+            </p>
+            <p rend="justify">CINESIAS. A toda prisa. Pues ninguna ilusión tengo por la vida, desde el momento en que ella se marchó de casa; sufro al entrar en ella, que todo me parece desierto. La comida, ningún gusto me da comerla. Es que estoy empalmado. (MÍRRINA <hi rend="italic">se deja ver desde la ciudadela.)</hi>
+            </p>
+            <p rend="justify">MÍRRINA. <hi rend="italic">(A</hi> LISÍSTRATA.) Yo le quiero, le quiero, pero él no deja que yo le quiera. Así que tú no me llames a su lado.</p>
+            <p rend="justify">CINESIAS. Mirrinita, encanto, ¿por qué haces eso? Baja aquí.</p>
+            <p rend="justify">MÍRRINA. No, por Zeus, yo ahí no.</p>
+            <p rend="justify">CINESIAS. ¿Llamándote yo no vas a bajar, Mírrina?</p>
+            <p rend="justify">MÍRRINA. Es que me dices que salga sin que te haga ninguna falta.</p>
+            <p rend="justify">CINESIAS. ¿Ninguna falta a mí? Destrozado es lo que estoy.</p>
+            <p rend="justify">MÍRRINA. Me marcho.</p>
+            <p rend="justify">CINESIAS. No, no, escucha por lo menos al niño. <hi rend="italic">(Al niño.)</hi> Tú, ¿no llamas a mamaíta?</p>
+            <p rend="justify">NIÑO. Mamaíta, mamaíta, mamaíta.</p>
+            <p rend="justify">CINESIAS. <hi rend="italic">(A</hi> MÍRRINA.) Tú, ¿qué sientes? ¿Ni siquiera vas a tener lástima</p>
+            <p rend="justify">del niño que lleva sin lavar ni mamar seis días?</p>
+            <p rend="justify">MÍRRINA. Sí me da lástima, que tiene un padre bien descuidado.</p>
+            <p rend="justify">CINESIAS. Dichosa mujer, baja, por el niño.</p>
+            <p rend="justify">MÍRRINA. ¡Lo que es ser madre! Tengo que bajar, ¿qué voy a hacer? <hi rend="italic">(Entra </hi>MÍRRINA.)</p>
+            <p rend="justify">CINESIAS. <hi rend="italic">(Para sí.)</hi> La encuentro mucho más joven y de mirada más tierna. <hi rend="italic">Sus</hi> enfados hacia mí y sus humos, eso mismo es lo que me tiene destrozado de deseo.</p>
+            <p rend="justify">MÍRRINA. <hi rend="italic">(Al niño.)</hi> Encanto, criaturita de un mal padre, ea, que te bese, encanto de mamaíta.</p>
+            <p rend="justify">CINESIAS. Majadera, ¿por qué te portas así y haces caso a las otras mujeres? Me haces sufrir a mí y lo pasas mal tú también. <hi rend="italic">(Se acerca a ella.)</hi>
+            </p>
+            <p rend="justify">MÍRRINA. No me arrimes la mano.</p>
+            <p rend="justify">CINESIAS. Las cosas de casa, tuyas y mías, las echas a perder.</p>
+            <p rend="justify">MÍRRINA. Me importan un rábano.</p>
+            <p rend="justify">CINESIAS. ¿Te importa un rábano la trama que está traída y llevada por las gallinas?</p>
+            <p rend="justify">MÍRRINA. A mí sí, por Zeus.</p>
+            <p rend="justify">CINESIAS. ¡Los ritos de Afrodita no los cultivas hace tanto tiempo! ¿No vas a venirte?</p>
+            <p rend="justify">MÍRRINA. Por Zeus, no, a menos que hagáis las paces y pongáis fin a la guerra.</p>
+            <p rend="justify">CINESIA. Vale, si eso te parece bien, hasta eso haremos.</p>
+            <p rend="justify">MÍRRINA. Vale, si eso os parece bien, también yo regresaré allí. Pero ahora he jurado que no.</p>
+            <p rend="justify">CINESIAS. Pues acuéstate conmigo: ¡el tiempo que hace ya!</p>
+            <p rend="justify">MÍRRINA. Ni hablar. Sin embargo, no te diré que no te quiero.</p>
+            <p rend="justify">CINESIAS. ¿Que me quieres? Entonces ¿por qué no estás ya acostada, Mirrinita?</p>
+            <p rend="justify">MÍRRINA. ¡Fantoche!, ¿delante del niño?</p>
+            <p rend="justify">CINESIAS. ¡Por Zeus! <hi rend="italic">(Al criado.)</hi> Manes, llévate a éste a casa. <hi rend="italic">(Se va el criado con el niño.)</hi> Hala, ya se te ha marchado el niño. <hi rend="italic">Y</hi> tú, ¿es que no te acuestas?</p>
+            <p rend="justify">MÍRRINA. Y, ¿dónde se podría hacer eso, desdicha de hombre?</p>
+            <p rend="justify">CINESIAS. ¿Que dónde? La gruta de Pan es buen sitio.</p>
+            <p rend="justify">MÍRRINA. Y, ¿cómo me las arreglaré para volver luego pura a la Acrópolis?</p>
+            <p rend="justify">CINESIAS. Estupendamente, antes te lavas en la Clepsidra (165)</p>
+            <p rend="justify">MÍRRINA. Y entonces, ¿voy a faltar a lo que he jurado, desdicha de hombre?</p>
+            <p rend="justify">CINESIAS. Que recaiga en mí. No estés preocupada por el juramento.</p>
+            <p rend="justify">MÍRRINA. Hala, pues voy a traer una cama para nosotros dos.</p>
+            <p rend="justify">CINESIAS. De eso nada. Nos basta con el suelo.</p>
+            <p rend="justify">MÍRRINA. No, por Apolo, aunque seas así, no te haré acostarte en el suelo.</p>
+            <p rend="justify">(Sale MÍRRINA.)</p>
+            <p rend="justify">CINESIAS. Desde luego mi mujer me quiere, está clarísimo. </p>
+            <p rend="justify">
+               <hi rend="italic">(Regresa </hi>MÍRRINA <hi rend="italic">con la cama.)</hi>
+            </p>
+            <p rend="justify">MÍRRINA. Aquí está, échate, acaba ya, que yo me voy desnudando. Pero, la cosa esta, la esterilla, hay que traerla.</p>
+            <p rend="justify">CINESIAS. ¿Qué rayo de esterilla? Para mí no.</p>
+            <p rend="justify">MÍRRINA. Sí, por Ártemis, que encima del jergón da vergüenza.</p>
+            <p rend="justify">CINESIAS. Déjame que te bese.</p>
+            <p rend="justify">MÍRRINA. Espera. <hi rend="italic">(Sale</hi> MÍRRINA.)</p>
+            <p rend="justify">CINESIAS. ¡Ay, ay, ay! Vuelve a toda prisa. <hi rend="italic">(Vuelve con una esterilla.)</hi>
+            </p>
+            <p rend="justify">MÍRRINA. Aquí está la esterilla. Échate, que ya me desnudo. Pero, la cosa esa, la almohada, no tienes.</p>
+            <p rend="justify">CINESIAS. No me hace ninguna falta.</p>
+            <p rend="justify">MÍRRINA. Por Zeus, a mí sí. <hi rend="italic">(Sale</hi> MÍRRINA.)</p>
+            <p rend="justify">CINESIAS. ¿Pero es que el cipote este es Heracles convidado a un banquete? (166). </p>
+            <p rend="justify">
+               <hi rend="italic">(Vuelve</hi> MÍRRINA.)</p>
+            <p rend="justify">(165). La fuente Clepsidrayla gruta de Pan están al pie de la Acrópolis. Se trata de la misma cuestión ritual que la mencionada en la nota 146.</p>
+            <p rend="justify">(166). Heracles aparecía con frecuencia como un personaje tragón que se enfadaba con los criados si no se apresuraban a servirle.</p>
+            <p rend="justify">MÍRRINA. Levántate, alza. (Le pone la almohada.) Ya tengo todo.</p>
+            <p rend="justify">CINESIAS. Todo, seguro. Ven aquí, tesoro.</p>
+            <p rend="justify">MÍRRINA. El sujetador me lo suelto ya. Y recuerda: no vayas a engañarme en lo de hacer las paces.</p>
+            <p rend="justify">CINESIAS. ¡Que me muera, por Zeus!</p>
+            <p rend="justify">MÍRRINA. ¡Pero si no tienes manta!</p>
+            <p rend="justify">CINESIAS. Por Zeus, ni la necesito; joder es lo que quiero.</p>
+            <p rend="justify">MÍRRINA. Descuida, eso lo harás, que vengo en seguida. <hi rend="italic">(Sale.)</hi>
+            </p>
+            <p rend="justify">CINESIAS. La tía esta me va hacer polvo por culpa de las mantas. </p>
+            <p rend="justify">(Entra MÍRRINA.)</p>
+            <p rend="justify">MÍRRINA. Ponte erguido.</p>
+            <p rend="justify">CINESIAS. Bien erguida está ésta. (Señala el miembro.)</p>
+            <p rend="justify">MÍRRINA. ¿Quieres que te eche perfume?</p>
+            <p rend="justify">CINESIAS. No, por Apolo, a mí no.</p>
+            <p rend="justify">MÍRRINA. Sí, por Afrodita, quieras o no. <hi rend="italic">(Sale.)</hi>
+            </p>
+            <p rend="justify">CINESIAS. ¡Ojalá se le derrame el perfume, Zeus soberano! </p>
+            <p rend="justify">
+               <hi rend="italic">(Entra</hi> MÍRRINA.)</p>
+            <p rend="justify">MÍRRINA. Extiende la mano, coge y úntate.</p>
+            <p rend="justify">CINESIAS <hi rend="italic">. (Untándose.)</hi> No es agradable el perfume este, por Apolo, sino que es retardador y no huele a boda.</p>
+            <p rend="justify">MÍRRINA. ¡Qué boba! Si he traído el perfume de Rodas (167)</p>
+            <p rend="justify">CINESIAS. Es bueno, déjalo en paz; ¡dichosa mujer!</p>
+            <p rend="justify">MÍRRINA. De guasa estás. <hi rend="italic">(Sale.)</hi>
+            </p>
+            <p rend="justify">CINESIAS. ¡Que reviente de mala manera el primero que consiguió un perfume! <hi rend="italic">(Vuelve</hi> MÍRRINA.)</p>
+            <p rend="justify">MÍRRINA. Coge este frasco.</p>
+            <p rend="justify">CINESIAS. ¡Que tengo otro! Venga, calamidad, échate y no me traigas nada más.</p>
+            <quote>(167). La isla se había separado de Atenas poco antes y por ello el perfume de Rodas no resulta agradable.</quote>
+            <p rend="justify">MÍRRINA. Eso voy a hacer, por Ártemis. Ya estoy descalza, por lo menos. Pero, vida mía, tienes que votar que se haga la paz.</p>
+            <p rend="justify">CINESIAS. Lo tendré en cuenta. (MÍRRINA <hi rend="italic">se va.)</hi> Me ha matado, me ha hecho trizas mi mujer, y encima de todo lo demás, se marcha y me deja así, descapullado. ¡Ay!, ¿qué hago? (168). ¿A quién joderé, rechazado por la más guapa de todas? ¿Cómo cuidaré a esta cría? <hi rend="italic">(Señala el miembro.) </hi>¿Dónde está el Perrozorro? (169) Alquílame la nodriza.</p>
+            <p rend="justify">EL CORIFEO. En terrible desgracia, desdichado, tienes el alma afligida por haber sido engañado. También yo te compadezco. Ay, ay, pues, ¿qué riñón podría aún resistir, qué alma, qué pelotas, qué ijada, qué culo, estar así de tieso y sin joder, por la mañana?</p>
+            <p rend="justify">CINESIAS. ¡Ay, Zeus, qué terribles espasmos!</p>
+            <p rend="justify">EL CORIFEO. La verdad es que eso te lo ha hecho la muy guarra y la muy hija de perra.</p>
+            <p rend="justify">CINESIAS. No, por Zeus, adorable y muy dulce.</p>
+            <p rend="justify">EL CORIFEO. ¿Cómo que dulce? ¡Maldita y bien maldita, oh Zeus! Ojalá que tú (170) a ella, como a los montones de paja, con una gran tempestad y  torbellino, dándole vuelcos y revuelcos, te la llevaras lejos y luego la soltaras, y ella cayera de nuevo a tierra, y ¡plafl, se montara en el cipote descapullado. </p>
+            <p rend="justify">
+               <hi rend="italic">(Llegan un</hi> HERALDO <hi rend="italic">lacedemonio y un</hi> PRITANIS (171) <hi rend="italic">ateniense. El lacedemonio, con un gran falo en erección que destaca bajo la capa.)</hi>
+            </p>
+            <p rend="justify">(168). Desde aquí hasta el final de la escena, todo el diálogo es parodia de tragedia.</p>
+            <p rend="justify">(169). Sobrenombre del dueño de un burdel.</p>
+            <p rend="justify">(170). Se dirige a Zeus.</p>
+            <p rend="justify">(171). Cada una de las diez tribus en que se dividía el Ática ejercía durante una décima parte del año la pritanía, formada por cincuenta prítanes que presidían la Asamblea y el Consejo.</p>
+            <p rend="justify">HERALDO. ¿Donde ehtá er Conceho de Ansianoh de Atenah o loh prítaneh? Quiero desí una notisia (172).</p>
+            <p rend="justify">PRÍTANIS. ¿Quién eres? ¿Un ser humano o Conísalo? (173)</p>
+            <p rend="justify">HERALDO174. Shiquiyo, como erardo vengo de Ehparta, ¡pol loh doh diozeh!, para tratá de la pá.</p>
+            <p rend="justify">PRÍTANIS. ¿Y te vienes con una lanza debajo del brazo?</p>
+            <p rend="justify">HERALDO (175). No, por Seuh, yo no.</p>
+            <p rend="justify">PRÍTANIS. ¿Para dónde te vuelves? ¿Y porqué te echas por delante la clámide? ¿Es que tienes un bulto en la ingle por culpa del viaje?</p>
+            <p rend="justify">HERALDO (176). Ehtá pirado er tío éhte, po Cáhto.</p>
+            <p rend="justify">PRÍTANIS. <hi rend="italic">(Le aparta la clámide.)</hi> La tienes tiesa, desgraciado.</p>
+            <p rend="justify">HERALDO (177). No, por Seuh, yo no. No digah shaladurah.</p>
+            <p rend="justify">PRÍTANIS. Pues ¿qué tienes ahí?</p>
+            <p rend="justify">HERALDO (178). Una ehsítala (179) laconia.</p>
+            <p rend="justify">PRÍTANIS. <hi rend="italic">(Se descubre.)</hi> Eso, si ésta es otra escítala laconia. Pero en fin, háblame con franqueza, como a quien está en el ajo. ¿Cómo andan vuestros asuntos en Lacedemonia?</p>
+            <p rend="justify">HERALDO (180). Tieza ehtá toda Lasedemonia, y todoh loh aliadoh ettán emparmadoh. Noh jasen farta lob cuencoh (181)</p>
+            <p rend="justify">(172). «¿Dónde está el Consejo de Ancianos de Atenas o los prítanes? Quiero decir una noticia.»</p>
+            <p rend="justify">(173). Nombre de una divinidad de carácter obsceno.</p>
+            <p rend="justify">(174). «Joven, como heraldo vengo de Esparta, ¡por los dos dioses!, para tratar de la paz.»</p>
+            <p rend="justify">(175). «No, por Zeus, yo no.»</p>
+            <p rend="justify">(176). «Está loco el tío este, por Cástor.»</p>
+            <p rend="justify">(177). «No, por Zeus, yo no. No desbarres.»</p>
+            <p rend="justify">(178). Una escítala laconia.</p>
+            <p rend="justify">(179). Se trata de un bastón sobre el que se enrollaba una banda de cuero, en ella se escribía transversalmente un mensaje, si se desenrollaba el cuero el texto resultaba ilegible. El receptor tenía un bastón de igual diámetro.</p>
+            <p rend="justify">(180). «Tiesa está toda Lacedemonia y todos los aliados están empalmados. Nos hacen falta los cuencos.»</p>
+            <p rend="justify">(181). Las mujeres.</p>
+            <p rend="justify">PRÍTANIS. ¿De quién os ha caído esa desgracia? ¿De Pan? (182)</p>
+            <p rend="justify">HERALDO (183). No, la primera fue Lampito, creo yo, y dehpuéh lah demáh muhereh de Ehparta, todah a una, como zi tomaran la zalida a lavé, a loh hombreh loh esharon fuera de zuh coñoh.</p>
+            <p rend="justify">PRITANIS. ¿Y cómo andáis?</p>
+            <p rend="justify">HERALDO (184). Heshoh porvo, que vamoh pol la ciudá encorvadoh, como zi yeváramoh una lámpara. Pueh lah muhereh no noh deban ni ziquiera tocal les er mirto ahta que todoh, en común, agamoh lah paseh en Gresia.</p>
+            <p rend="justify">PRÍTANIS. El asunto este es una conspiración de todas las mujeres, ahora lo veo. Rápido, di que envíen aquí embajadores con plenos poderes para tratar de la paz. Y yo le diré al Consejo que elija a otros embajadores de aquí, enseñándoles el cipote este.</p>
+            <p rend="justify">HERALDO (185). Voy volando, que lo que diseh ehtá muy requetebién. <hi rend="italic">(Salen los dos personajes en distintas direcciones.)</hi>
+            </p>
+            <p rend="justify">EL CORIFEO. No hay fiera más mala de combatir que la mujer, ni siquiera el fuego, ni hay pantera alguna tan sinvergüenza.</p>
+            <p rend="justify">(182). Pan es un dios lascivo.</p>
+            <p rend="justify">(183). «No; la primera fue Lampito, creo yo, y después las demás mujeres de Esparta, todas a una, como si tomaran la salida a la vez, a los hombres los echaron fuera de sus coños.»</p>
+            <p rend="justify">(184). «Hechos polvo, que vamos por la ciudad encorvados, como si lleváramos una lámpara. Pues las mujeres no nos dejan siquiera tocarles el mirto hasta que todos, de común acuerdo, hagamos las paces en Grecia.»</p>
+            <p rend="justify">(185). «Voy volando, que dices lo mejor, de todas todas.»</p>
+            <p rend="justify">LA CORIFEO. ¿Y sabiéndolo luchas contra mí, hijo de perra, cuando te es posible tenerme como amiga fiel?</p>
+            <p rend="justify">EL CORIFEO. Cuenta que yo, de odiar a las mujeres, no voy a parar nunca.</p>
+            <p rend="justify">LA CORIFEO. Bueno, cuando tú quieras. Pero lo que es ahora no voy a consentir que estés así, desnudo. Que mira que estás para caerse de risa. Voy a colocarte el tirante del hombro acercándome a ti. <hi rend="italic">(Las mujeres le colocan a los hombres la túnica en su sitio.)</hi>
+            </p>
+            <p rend="justify">EL CORIFEO. Por Zeus, habéis hecho una cosa que no está mal; yo me lo quité entonces furioso de rabia.</p>
+            <p rend="justify">LA CORIFEO. Al fin pareces un hombre, y no estás ridículo. Y si no me hubieras molestado, yo hasta habría cogido ese animal que tienes en el ojo y te lo habría sacado; así, aún lo tienes.</p>
+            <p rend="justify">EL CORIFEO. Eso era entonces lo que me estaba haciendo polvo. Aquí tienes un anillo; hurga, y después de quitármelo, me lo enseñas, que hace tiempo que me está mordiendo el ojo (186), por Zeus.</p>
+            <p rend="justify">LA CORIFEO. Eso voy a hacer, aunque eres un gruñón. <hi rend="italic">(Trata de quitarle el mosquito.)</hi> Digno de verse, qué grande, el mosquito que tienes metido. <hi rend="italic">(Lo saca y se lo enseña.)</hi> ¿Lo ves? ¿No es éste un mosquito de Tricorito? (187).</p>
+            <p rend="justify">EL CORIFEO. Por Zeus, ¡qué bien me has hecho!, pues hace rato que me estaba perforando un pozo, hasta el punto de que, cuando me lo has quitado, me sale un montón de lágrimas.</p>
+            <p rend="justify">LA CORIFEO. Te las voy a secar -y eso que eres la mar de malo- y te daré un beso.</p>
+            <quote>(186). Se trata de un mosquito.</quote>
+            <quote>(187). Demo del Ática; el nombre es algo así como «tricúspide» (en realidad, con tres penachos) y puede ser esa alusión jocosa el efecto buscado.</quote>
+            <p rend="justify">EL CORIFEO. No me beses.</p>
+            <p rend="justify">LA CORIFEO. Quieras o no.</p>
+            <p rend="justify">EL CORIFEO. Ojalá os muráis, que sois camelistas de nacimiento, y es correcto y no está nada mal dicho aquello de «ni con ellas, las muy malditas, ni sin ellas, las muy malditas» (188). Pero ahora mismo voy a hacer las paces contigo y en lo sucesivo ya no te voy a hacer ninguna burrada ni me la hagas tú a mí. Hala, todos juntos demos comienzo al canto.</p>
+            <p rend="justify">CORO CONJUNTO. (Al público.)</p>
+            <p rend="italic">No estamos dispuestos,</p>
+            <p rend="italic">de ningún ciudadano, señores y caballeros,</p>
+            <p rend="italic">a hablar mal ni lo más mínimo,</p>
+            <p rend="italic">sino, por el contrario, todo lo bueno a decir y</p>
+            <p rend="italic">hacer; pues bastantes desgracias hay ya.</p>
+            <p rend="italic">Que nos lo haga saber cualquier hombre o mujer,</p>
+            <p rend="italic">si es que alguno necesita dineri-</p>
+            <p rend="italic">llo pillar, unas minas, dos o tres (189)</p>
+            <p rend="italic">Que dentro está (190)</p>
+            <p rend="italic">y bolsas tenemos.</p>
+            <p rend="italic">Y si algún día la paz llega,</p>
+            <p rend="italic">el que ahora mismo un prés-</p>
+            <p rend="italic">tamo de nosotros reciba,</p>
+            <p rend="italic">si coge, no restituya.</p>
+            <p rend="italic">Vamos a homenajear </p>
+            <p rend="italic">a unos huéspedes caristios (191), </p>
+            <p rend="italic">hombres de bien.</p>
+            <p rend="italic">Hay un poco depuré; y un cochinillo que tenía, lo</p>
+            <p rend="italic">sacrifiqué también, así que gustaréis de lo tierno y exquisito.</p>
+            <p rend="italic">Venid hoy a mi casa; temprano tenéis</p>
+            <p rend="italic">que hacerlo, bien lavados vos</p>
+            <p rend="italic">otros y los niños; luego ya en</p>
+            <p rend="italic">trad dentro</p>
+            <p rend="italic">y no preguntéis a nadie,</p>
+            <p rend="italic">sino andad todo derecho</p>
+            <p rend="italic">como en vuestra casa,</p>
+            <p rend="italic">con brío, que...</p>
+            <p rend="italic">la puerta estará cerrada.</p>
+            <p rend="justify">
+               <hi rend="bold italic">(188). Como el castellano «ni contigo ni sin ti ...». Tal vez es un</hi> 
+               <hi rend="bold italic">verso de</hi> 
+               <hi rend="bold italic">Arqurloco parodiado.</hi>
+            </p>
+            <p rend="justify">(189). Una mina equivale a 100 dracmas o 600 óbolos.</p>
+            <p rend="justify">(190). El tesoro de la Acrópolis.</p>
+            <p rend="justify">(191). De Caristo, ciudad de Eubea aliada de Atenas, cuyos habitantes se tenían por vividores.</p>
+            <p rend="justify">EL CORIFEO. <hi rend="italic">(Entran los embajadores lacedemonios.)</hi> Aquí llegan de Esparta estos embajadores, arrastrando sus barbazas (192), y como con unas jaulas entre los muslos (193). <hi rend="italic">(A los lacedemonios.)</hi> Laconios, lo primero, hola, y ahora, contadnos en qué situación venís.</p>
+            <p rend="justify">LACONIO (194) ¿Qué farta jase que oh digamoh mushah palabrah? Pueh bien ze puede vé en qué situasión emoh venido. <hi rend="italic">(Separa la jaula.)</hi>
+            </p>
+            <p rend="justify">EL CORIFEO. ¡Ahí va!, mucho tendón le ha salido a la desgracia esta de mala manera, y la inflamación parece de cuidado.</p>
+            <p rend="justify">LACONIO. (195) Ni contal-lo ze puede. ¿Qué va uno a desí? Que arguien venga y aga la pá con nozotroh de cuarquié manera que quiera. <hi rend="italic">(Entra</hi> EL PRÍTANIS <hi rend="italic">con otros atenienses.)</hi>
+            </p>
+            <p rend="justify">(192). Los atenienses llevaban la barba muy recortada, y los espartanos, larga.</p>
+            <p rend="justify">(193). Los espartanos disimulan su erección con unas jaulas de mimbre que parecen corrales de guardar animales.</p>
+            <p rend="justify">(194). «,Qué falta hace que os digamos muchas palabras? Pues bien se puede ver en qué situación hemos venido.»</p>
+            <p rend="justify">(195). «Ni contarlo se puede. ¿Qué va uno a decir? Que alguien venga y haga la paz con nosotros de cualquier manera que quiera.»</p>
+            <p rend="justify">EL CORIFEO. Aquí veo también a estos paisanos que, como los luchadores, vienen separándose la capa del vientre (196). Pues sí que parece deportiva la cosa esta, la enfermedad.</p>
+            <p rend="justify">PRITANIS. ¿Quién puede decir dónde está Lisístrata? Pues nosotros los hombres estamos así tal cual. <hi rend="italic">(Descubriéndose.)</hi>
+            </p>
+            <p rend="justify">EL CORIFEO. También esta enfermedad está al unísono con la otra. ¿Es que os ataca la tiesura por la mañana?</p>
+            <p rend="justify">PRÍTANIS. ¡Por Zeus!, por pasarnos eso estamos hechos polvo, así es que si alguien no hace en seguida la paz con nosotros, no habrá manera de que no jodamos a Clístenes (197)</p>
+            <p rend="justify">EL CORIFEO. Si tenéis sentido común, agarrad bien la capa, para que no os vea alguno de los mutiladores de Hermes (198)</p>
+            <p rend="justify">PRÍTANIS. Sí, por Zeus, bien dicho.</p>
+            <p rend="justify">LACONIO (199). Zí, pol loh doh diozeh, der todo. Ea, vamos a ponen-nos la túnica por ensima.</p>
+            <p rend="justify">PRÍTANIS. Salud, lacedemonios. Nos ha pasado algo terrible.</p>
+            <p rend="justify">LACONIO (200). <hi rend="italic">(A un compañero.)</hi> Queridízimo, terrible tambié lo que noh a pazado a nozotroh zi noh yegan a abé vihto loh hombreh éhtoh mahturbándonoh.</p>
+            <p rend="justify">PRÍTANIS. Ea, laconios, hay que decir cosa por cosa. ¿Para qué habéis venido aquí?</p>
+            <p rend="justify">(196). Los atletas iban desnudos para evitar el estorbo de la ropa. 197. Véase nota 120.</p>
+            <p rend="justify">(198). Una noche del año 415 fueron mutilados los hermes, pilares antropomórficos, con un falo bien patente, que estaban a las puertas de las casas en Atenas para darles protección.</p>
+            <p rend="justify">(199). «Sí, por los dos dioses, del todo. Hale, vamos a ponernos la túnica por encima.»</p>
+            <p rend="justify">(200). «Queridísimo, terrible también lo que nos ha pasado a nosotros, si nos llegan a haber visto los hombres estos masturbándonos.»</p>
+            <p rend="justify">LACONIO (201). Como embahadoreh para la pá.</p>
+            <p rend="justify">PRÍTANIS. Bien hablado, desde luego; también nosotros para lo mismo. ¿Por qué no llamamos entonces a Lisístrata que es la única que podría reconciliarnos?</p>
+            <p rend="justify">LACONIO (202). Zí, pol loh doh diozeh, y zi queréih, tambié a Lizíhtrato (203). </p>
+            <p rend="justify">
+               <hi rend="italic">(Entra </hi>LISÍSTRATA.)</p>
+            <p rend="justify">PRÍTANIS. No hace falta, al parecer, que la llamemos, pues ella por su cuenta, al oírnos, viene ya.</p>
+            <p rend="justify">EL CORIFEO. Hola, la mujer más valiente de todas. Ahora te toca a ti aparecer inflexible y suave, buena y mala, orgullosa y humilde, llena de mañas, que los principales de los griegos, cautivados por tu hechizo, se han rendido ante ti, y todos juntos han confiado a tu arbitrio todos sus litigios.</p>
+            <p rend="justify">LISÍSTRATA. No es difícil la cosa, si se les coge llenos de deseo (204) y sin que intenten nada unos contra otros. Pronto lo sabré. ¿Dónde está Conciliación <hi rend="italic">(Aparece</hi> CONCILIACIÓN <hi rend="italic">personificada en una chica desnuda.)</hi> Coge y trae primero a los laconios, no con mano arisca e insolente, ni a lo bruto como hacían nuestros hombres, sino como suelen hacerlo las mujeres, muy amistosamente. Al que no te dé la mano, tráetelo del cipote. (CONCILIACIÓN <hi rend="italic">trae a los laconios.)</hi> Ahora ve y trae a estos atenienses; por donde te dejen, cógelos y tráemelos. <hi rend="italic">(Trae a los atenienses.)</hi> Laconios, colocaos junto a mí, y vosotros <hi rend="italic">(a los atenienses)</hi> a este lado, y escuchad mis palabras: «Mujer soy, pero tengo inteligencia» (205).</p>
+            <p rend="justify">«Por mí misma no discurro mal, y de mi padre y mis antepasados las palabras muchas tras haber oído, no estoy mal instruida.» Teniéndoos cogidos quiero reñiros a la vez y con razón a vosotros, que con una misma agua sagrada rociáis los altares, como gentes de la misma familia, en Olimpia, en las Termópilas, en Pitón (206) -¡cuántos otros podría decir si creyera oportuno alargarme!-. Y, sin embargo, cuando está presente el enemigo con su ejército bárbaro, dais muerte a los griegos y destruís sus ciudades. «El primer tema aquí lo he concluido» (207).</p>
+            <quote>(201). «Como embajadores para la paz.»</quote>
+            <quote>(202). «Sí, por los dos dioses, y si queréis, también a Lisístrato.»</quote>
+            <quote>(203). Se alude a la homosexualidad espartana, mencionando al tiempo a un individuo ateniense, conocido homosexual.</quote>
+            <quote>(204). Ambiguo: sexual y de paz.</quote>
+            <quote>
+               <hi rend="bold italic">(205) .</hi> 
+               <hi rend="bold italic">Cita de</hi> 
+               <hi rend="bold italic">Melanipa la</hi> 
+               <hi rend="bold italic">Sabia de Eurípides. Los versos siguientes parecen ser también de cuño trágico.</hi>
+            </quote>
+            <quote>(206). En los juegos Olímpicos y Píticos, y en las asambleas de la confederación religiosa o anfictionía délfica, las Termópilas.</quote>
+            <quote>
+               <hi rend="bold italic">(207). Del Erecteo de Eurípides.</hi>
+            </quote>
+            <p rend="justify">PRÍTANIS. Y yo estoy que reviento descapullado.</p>
+            <p rend="justify">LISÍSTRATA. Ahora, laconios, a vosotros me dirijo: ¿no sabéis que en una ocasión vino aquí Periclidas (208) el Laconio y como suplicante se sentó en los altares, pálido (209) en su vestido rojo púrpura, para pedir a los atenienses un ejército? Por aquel entonces, Mesenia se echaba sobre vosotros y al mismo tiempo la divinidad, sacudiéndoos con terremotos. Marchó Cimón (210) con cuatro mil hoplitas y salvó a Lacedemonia entera. Y después de lo que os han hecho los atenienses, ¿devastáis el país del que habéis recibido favores?</p>
+            <quote>(208). Nombre laconio de un individuo desconocido. Tucídides menciona a un «hijo de Periclidas» que firmó una tregua con los atenienses en el 423.</quote>
+            <quote>(209). De miedo.</quote>
+            <quote>(210). En el 464 sufrió Esparta un violento terremoto de graves consecuencias. Aprovechando la ocasión, la población de Mesenia, sojuzgada por los espartanos desde tiempo atrás, se sublevó. Esparta pidió ayuda a Atenas, que envió a Cimón en el 462; no obstante, su ejército fue mal acogido por los espartanos y tuvo que regresar. La historia aparece falseada en el texto.</quote>
+            <p rend="justify">PRÍTANIS. Son injustos éstos, por Zeus, Lisístrata.</p>
+            <p rend="justify">LACONIO (211). Zomoh inhuhtoh, pero <hi rend="italic">(mirando a</hi> CONCILIACIÓN) ¡qué culo, qué maraviya!, no ze puede ni desí.</p>
+            <p rend="justify">LISÍSTRATA. ¿Y crees que yo os voy a dejar sin reproche a vosotros los atenienses? ¿No sabéis que los laconios, por su parte, cuando vosotros usabais zamarra, vinieron con sus armas y mataron a muchos tesalios y a muchos partidarios y aliados de Hipias?, y siendo los únicos aliados vuestros en aquel día, os liberaron, y cubrieron de nuevo a vuestra gente  con la rica capa en lugar de la zamarra (212).</p>
+            <p rend="justify">LACONIO (213). <hi rend="italic">(Refiriéndose</hi> a LISÍSTRATA.) Muhé máh noble no e vihto nunca.</p>
+            <p rend="justify">PRITANIS. <hi rend="italic">(Mirando a</hi> CONCILIACIÓN.) Y yo nunca un coño más hermoso.</p>
+            <p rend="justify">LISÍSTRATA. Y habiendo por medio tantas y buenas acciones, ¿por qué seguís luchando y no acabáis ya con esa hostilidad? ¿Por qué no os reconciliáis? A ver, ¿qué os lo impide?</p>
+            <p rend="justify">LACONIO (214). Nozotroh zí queremoh, zi arguien quiere devorvernoh ehta redondé (215). <hi rend="italic">(Mira el trasero de</hi> CONCILIACIÓN.)</p>
+            <p rend="justify">LISÍSTRATA. ¿Cuál, amigo?</p>
+            <p rend="justify">LACONIO (216). Piloh (217), que jase tiempo que la pedimoh y la tentamoh. <hi rend="italic">(Hace ademán de tocar a</hi> CONCILIACIÓN.)</p>
+            <quote>(211). «Somos injustos, pero ¡qué culo indecible, qué maravilla!»</quote>
+            <quote>
+               <hi rend="bold italic">(212). Los espartanos intervinieron en Atenas para acabar con la tiranía de Hipias en el 510. La zamarra</hi> 
+               <hi rend="bold italic">(katonáke)</hi> 
+               <hi rend="bold italic">era prenda usada por los esclavos.</hi>
+            </quote>
+            <quote>(213). «Mujer más noble no he visto nunca.»</quote>
+            <quote>
+               <hi rend="bold italic">(214). «Nosotros sí</hi> 
+               <hi rend="bold italic">queremos,</hi> 
+               <hi rend="bold italic">si alguien quiere devolvernos esta redondez.»</hi>
+            </quote>
+            <quote>
+               <hi rend="bold italic">(215).</hi> 
+               <hi rend="bold italic">Égkyklon,</hi> 
+               <hi rend="bold italic">objeto redondo; se refiere al mismo tiempo a un vestido de mujer (cf. v 133), al trasero de Conciliación y a una plaza fuerte.</hi>
+            </quote>
+            <quote>(216). «Pilos, que hace tiempo que la pedimos y la tentamos.»</quote>
+            <quote>(217). Véase nota 32.</quote>
+            <p rend="justify">PRÍTANIS. No, por Posidón, eso no lo conseguiréis.</p>
+            <p rend="justify">LISÍSTRATA. Cedédsela a ellos, buen hombre.</p>
+            <p rend="justify">PRÍTANIS. Y después, ¿a quién vamos a menear? (218).</p>
+            <p rend="justify">LISÍSTRATA. Reclamad otra plaza a cambio de ésa.</p>
+            <p rend="justify">PRÍTANIS. ¡Eso sí!, entregadnos lo primero de todo Equinunte, el golfo Maliaco que está detrás, y las piernas de Mégara (219)</p>
+            <p rend="justify">LACONIO (220). No, pol loh doh diozeh, tanto no, amigo.</p>
+            <p rend="justify">LISÍSTRATA. Dejadlo, no os peléis por un par de piernas.</p>
+            <p rend="justify">PRÏTANIS. Yo lo que quiero es desnudarme ya y labrar el campo (221)</p>
+            <p rend="justify">LACONIO (222). Y yo acarrear ehtiércol pol la mañana temprano, pol loh doh diozeh.</p>
+            <p rend="justify">LISÍSTRATA. Cuando os reconciliéis, podréis hacer esas cosas. Pero si os apetece hacer eso, pensároslo e ir a pedir consejo a los aliados.</p>
+            <p rend="justify">PRÍTANIS. ¿A qué aliados, amigos? La tenemos tiesa. ¿No les va a apetecer a los aliados todos, lo mismo que a nosotros, follar?</p>
+            <p rend="justify">LACONIO (223). Pol lo menoh, a loh nuehtroh zí, pol loh doh diozeh.</p>
+            <quote>
+               <hi rend="bold italic">(218). El verbo empleado,</hi> 
+               <hi rend="bold italic">kinein,</hi> 
+               <hi rend="bold italic">significa «mover», «agitar»,</hi> 
+               <hi rend="bold italic">y es</hi> 
+               <hi rend="bold italic">a la vez equivalente del coloquial «follar».</hi>
+            </quote>
+            <quote>
+               <hi rend="bold italic">(219). Los tres son nombres geográficos y aluden a la vez al cuerpo de Conciliación. Equinunte y el golfo Maliaco están en Tesalia, el nombre del primero se relaciona con uno de los vocablos que se refieren en la mujer al sexo, al tiempo</hi> 
+               <hi rend="bold italic">que kólpos</hi> 
+               <hi rend="bold italic">es «seno»</hi> 
+               <hi rend="bold italic">y</hi> 
+               <hi rend="bold italic">«golfo». Mégara estaba unida con su puerto por unos muros, que son llamados</hi> 
+               <hi rend="bold italic">«ské</hi> 
+               <hi rend="bold italic">le», al igual que las piernas.</hi>
+            </quote>
+            <quote>(220). «No, por los dos dioses, tanto no, amigo.»</quote>
+            <quote>
+               <hi rend="bold italic">(221). Con la guerra, los atenienses habían tenido que abandonar las faenas agrícolas. En cuanto a trabajar desnudo, Hesíodo en</hi> 
+               <hi rend="bold italic">Trabajos y Días,</hi> 
+               <hi rend="bold italic">391-392, aconseja: «siembra desnudo, ara desnudo y siega desnudo». Por otro lado, «labrar el campo» tiene también sentido sexual.</hi>
+            </quote>
+            <quote>(222). «Y yo, acarrear estiércol por la mañana temprano, por los dos dioses.»</quote>
+            <quote>(223). «Por lo menos a los nuestros sí, por los dos dioses.»</quote>
+            <p rend="justify">PRÍTANIS. Pues a los Caristios (224) también, por Zeus.</p>
+            <p rend="justify">LISÍSTRATA. Bien dicho. Ahora atended a purificaros para que las mujeres os convidemos en la Acrópolis con lo que teníamos en nuestras cestas. Allí os daréis juramentos y fidelidad mutua. Y después cada uno de vosotros cogerá a su mujer y se irá.</p>
+            <p rend="justify">PRÏTANIS. Hala, vamos de prisa.</p>
+            <p rend="justify">LACONIO (225). Yévanoh adonde tú quierah.</p>
+            <p rend="justify">PRÍTANlS. Sí, por Zeus, llévanos a toda prisa.</p>
+            <p rend="justify">(LISÍSTRATA <hi rend="italic">sale hacia la Acrópolis con los laconios y los atenienses.)</hi>
+            </p>
+            <p rend="justify">CORO CONJUNTO (226).</p>
+            <p rend="italic">Colchas bordadas,</p>
+            <p rend="italic">ricos chales de lana, finas túnicas y</p>
+            <p rend="italic">joyas, eso poseo;</p>
+            <p rend="italic">no tengo inconveniente en permitiros a todos que os llevéis para vuestros</p>
+            <p rend="italic">hijos, y para cuando vuestra hija sea canéforo (227).</p>
+            <p rend="italic">A todos vosotros os exhorto a que ahora toméis de lo</p>
+            <p rend="italic">mío ahí dentro;</p>
+            <p rend="italic">nada está tan bien sellado </p>
+            <p rend="italic">que no se puedan</p>
+            <p rend="italic">arrancar los precintos</p>
+            <p rend="italic">y llevarse lo que haya dentro.</p>
+            <p rend="italic">Pero aunque miréis no vais a ver nada, a no</p>
+            <p rend="italic">ser que alguno tenga</p>
+            <p rend="italic">mejor vista que yo.</p>
+            <p rend="italic">Y si uno de vosotros no tiene</p>
+            <p rend="italic">comida y ha de alimentara los criados y</p>
+            <p rend="italic">a un montón de chiquillos,</p>
+            <p rend="italic">puede coger de mi casa harina, que es finita,</p>
+            <p rend="italic">pero mi hogaza de un quénice (228) tiene un aspecto muy robusto.</p>
+            <p rend="italic">De los pobres, el que quiera que venga</p>
+            <p rend="italic">a mi casa con sacos y</p>
+            <p rend="italic">talegos, que recibirá grano: mi esclavo</p>
+            <p rend="justify">
+               <hi rend="italic">Manes</hi> (229) <hi rend="italic">se lo echará.</hi>
+            </p>
+            <p rend="italic">Pero os advierto,</p>
+            <p rend="italic">que no os acerquéis a</p>
+            <p rend="italic">mi puerta, y que tengáis</p>
+            <p rend="italic">cuidado con el perro.</p>
+            <p rend="justify">
+               <hi rend="italic">(Se oye la voz del</hi> PRÍTANIS <hi rend="italic">desde dentro de la Acrópolis.)</hi>
+            </p>
+            <p rend="justify">PRITANIS. Abre la puerta, tú. <hi rend="italic">(Se abre la puerta y llega</hi> EL PRÍTANIS <hi rend="italic">con otros atenienses.)</hi> Tenías <hi rend="italic">(a las mujeres del</hi> CORO) que haberte echado a un lado. ¿Qué hacéis ahí, paradas? ¿No querréis que os queme yo con la antorcha, verdad? <hi rend="italic">(Al público.)</hi> Es una grosería. No lo haré. Pero si hace falta llegar a eso, lo soportaré por daros ese gusto.</p>
+            <p rend="justify">UN ATENIENSE. También nosotros lo soportamos contigo.</p>
+            <p rend="justify">PRÍTANIS. <hi rend="italic">(Al Copo de mujeres.)</hi> ¿Os marcháis de una vez? Vais a llorar largo y tendido por vuestra cabellera. <hi rend="italic">(Las amenaza con la antorcha y se alejan de los Propíleos.) (Al</hi> CORO <hi rend="italic">de ancianos.)</hi> ¿Os marcháis de una vez para que los laconios salgan de ahí dentro tranquilamente, después del convite? <hi rend="italic">(Los ancianos se sitúan a un lado.)</hi>
+            </p>
+            <quote>(224). Véase nota 191.</quote>
+            <quote>(225). «Llévanos adonde tú quieras.»</quote>
+            <p rend="bold italic">(226). Hay diversidad de opiniones sobre la personalidad de los cantores. Se piensa que cante </p>
+            <quote>solamente el coro de ancianos o el coro de mujeres.</quote>
+            <quote>(227). Véase nota 126.</quote>
+            <quote>(228). Medida de capacidad para sólidos, de poco más de un litro.</quote>
+            <quote>(229). Nombre casi genérico de esclavo frigio.</quote>
+            <p rend="justify">UN ATENIENSE. Nunca vi banquete igual. ¡Qué simpáticos los laconios! Y nosotros, en cuanto empinamos el codo, somos muy ocurrentes.</p>
+            <p rend="justify">PRÍTANIS. Claro, como que sin beber no estamos en buena forma. Si llego a convencer con mis palabras a los atenienses, como embajadores iremos siempre a todas partes borrachos. Pues ahora, cada vez que vamos a Lacedemonia, sobrios, en seguida buscamos cómo alborotar, de manera que lo que nos dicen no lo escuchamos, pero lo que no dicen, eso lo suponemos, y sobre las mismas cosas no contamos lo mismo. Pero en este momento nos agradaba todo, tanto que si alguien cantara el «Telamón» cuando había que cantar el «Clitágora» (230), lo daríamos por bueno incluso jurando en falso. <hi rend="italic">(Se aproximan algunos ancianos del</hi> CORO.) Anda, éstos vienen otra vez al mismo sitio. ¿No os iréis con viento fresco, bribones? <hi rend="italic">(Se sitúan a un lado.)</hi>
+            </p>
+            <p rend="justify">ATENIENSE. Sí, por Zeus, que ya van saliendo de dentro. <hi rend="italic">(Aparecen los atenienses y los espartanos; y, más atrás,</hi> LISÍSTRATA <hi rend="italic">y las restantes mujeres.)</hi>
+            </p>
+            <p rend="justify">LACONIO (231). <hi rend="italic">(Aun flautista.)</hi> Queridízimo, cohe la flauta para que yo baile la dipodia (232) y entone una cansión muy presiosa para loh atenienzeh y para nozotroh al mihmo tiempo.</p>
+            <p rend="justify">PRÍTANIS. Sí, coge los tubos, por los dioses, que me encanta veros bailar.</p>
+            <quote>(230). Dos canciones de banquete, una con un nombre masculino y la otra con un nombre femenino.</quote>
+            <quote>(231). «Queridísimo, coge la flauta para que yo baile la dipodia y entone una bonita canción para los atenienses y para nosotros al mismo tiempo.»</quote>
+            <quote>(232). Danza lacedemonia.</quote>
+            <p rend="justify">LACONIO (233).</p>
+            <p rend="italic">Mnémozine (234), impureza asia ahté chavá</p>
+            <p rend="italic">a tu Muza, la que conose</p>
+            <p rend="italic">nuehtrah andansah y lah de loh atenien-</p>
+            <p rend="italic">zeh, cuando eyoh en Artemizio (235)</p>
+            <p rend="italic">atacaban, zemehanteh a loh diozeh,</p>
+            <p rend="italic">loh barcoh, y vensían a loh Medoh.</p>
+            <p rend="italic">A nozotroh, por nuehtro lado, Leónidah (236)</p>
+            <p rend="italic">noh conducía como a habalíeh que afi-</p>
+            <p rend="italic">lan zuh cormiyoh, me parese a mí, y abundante</p>
+            <p rend="italic">en nuehtrah mehiyah la ehpuma floresía, y abun-</p>
+            <p rend="italic">dante ar mihmo tiempo ze dehlisaba pol lah piernah.</p>
+            <p rend="italic">Que no eran inferioreh en número</p>
+            <p rend="italic">a lah arenah, loh guerreroh persah.</p>
+            <p rend="italic">Agrehte casadora (237), vé aquí, diviná donseya,</p>
+            <p rend="italic">por nuestro acuerdo de pá,</p>
+            <p rend="italic">para que noh mantengah unidoh un porrón de tiempo.</p>
+            <p rend="italic">Que aora y para ziempre la amihtá zea fecunda</p>
+            <p rend="italic">grasiah a nuehtro pacto, y que dehemoh</p>
+            <p rend="italic">de zé ahtutoh sorroh.</p>
+            <p rend="italic">Oh, vé aquí, vé, donseya casadora.</p>
+            <p rend="bold italic">(233). «Mnemósine, impulsa hacia este joven</p>
+            <p rend="bold italic">a tu Musa, la que conoce</p>
+            <p rend="bold italic">nuestras andanzas y las de los atenien-</p>
+            <p rend="bold italic">ses, cuando ellos en Artemisio</p>
+            <p rend="bold italic">atacaban, semejantes a los dioses,</p>
+            <p rend="bold italic">los barcos, y vencían a los Medos.</p>
+            <p rend="bold italic">A nosotros, por nuestra parte, Leónidas</p>
+            <p rend="bold italic">nos conducía como a jabalíes que afi-</p>
+            <p rend="bold italic">lan sus colmillos, diría yo, y abundante</p>
+            <p rend="bold italic">en nuestras mejillas la espuma florecía y abun-</p>
+            <p rend="bold italic">dante al mismo tiempo se deslizaba por las piernas.</p>
+            <p rend="bold italic">Que no eran inferiores en número</p>
+            <p rend="bold italic">a las arenas los guerreros persas.</p>
+            <p rend="bold italic">Agreste cazadora, ven aquí, divinal doncella,</p>
+            <p rend="bold italic">por nuestro acuerdo de paz,</p>
+            <p rend="bold italic">para que nos mantengas unidos largo tiempo.</p>
+            <p rend="bold italic">Que ahora y para siempre la amistad sea fecunda</p>
+            <p rend="bold italic">gracias a nuestro pacto, y que dejemos</p>
+            <p rend="bold italic">de ser astutos zorros.</p>
+            <p rend="bold italic">Oh, ven aquí, ven,</p>
+            <quote>doncella cazadora.»</quote>
+            <quote>
+               <hi rend="bold italic">(234). Personificación de la memoria y madre de las nueve Musas. En laconio</hi> 
+               <hi rend="bold italic">Mnamóna.</hi>
+            </quote>
+            <quote>(235). Frente al cabo Artemisio tuvieron lugar dos encuentros entre persas y atenienses, antes de la victoria de Salamina.</quote>
+            <quote>(236). Leónidas, rey de Esparta, resistió valientemente el ataque persa en el desfiladero de las Termópilas.</quote>
+            <quote>
+               <hi rend="bold italic">(237). Ártemis.</hi>
+               <lb/>
+            </quote>
+            <p rend="justify">LISÍSTRATA. Hala, como todo lo demás ha salido muy bien, llevaos, laconios, con vosotros a éstas <hi rend="italic">(Señala a las mujeres espartanas), y</hi> vosotros, a éstas de aquí <hi rend="italic">(Señala a las mujeres atenienses).</hi> Que el marido esté junto a su mujer, y la mujer junto a su marido, y, después de bailar en honor de los dioses por estos sucesos felices, que tengamos cuidado en lo sucesivo de no volver a cometer errores nunca más.</p>
+            <p rend="justify">CORO CONJUNTO.</p>
+            <p rend="italic">Da impulso al coro, conduce aquí a las Gracias (238),</p>
+            <p rend="italic">invoca a Ártemis,</p>
+            <p rend="italic">y a su hermano gemelo, maestro de coros, el amable</p>
+            <p rend="italic">Sanador, y al Nisio,</p>
+            <p rend="italic">el que entre las ménades extiende su mirada ardiente,</p>
+            <p rend="italic">y a Zeus que con su fuego brilla, y a</p>
+            <p rend="italic">su soberana esposa bienaventurada.</p>
+            <p rend="italic">Y después a las divinidades que tomaremos</p>
+            <p rend="italic">como testigos de imborrable memoria</p>
+            <p rend="italic">de esta tranquilidad deliciosa,</p>
+            <p rend="italic">que consiguió la diosa Cipris.</p>
+            <p rend="italic">Alalai, ie, peán (239).</p>
+            <p rend="italic">Saltad a lo alto, iai,</p>
+            <p rend="italic">como en una victoria, iai.</p>
+            <p rend="italic">Euoi, euoi, euai, euai.</p>
+            <p rend="justify">PRÍTANIS. Laconio, enséñanos tú un canto nuevo.</p>
+            <p rend="justify">LACONIO (240).</p>
+            <p rend="italic">Deha el amable Taiheto (241)</p>
+            <p rend="italic">y vé, Muza laconia, vé, para dá gloria</p>
+            <p rend="italic">ar dió de Amiclah, que eh muy famozo,</p>
+            <p rend="italic">y a la zoberana de bronsíneo templo</p>
+            <p rend="italic">y a loh valienteh Tindáridah,</p>
+            <p rend="italic">que huegan pol lah oriyah der Eurotah.</p>
+            <p rend="italic">Ea, da un pazo asia delante,</p>
+            <p rend="italic">oh, ea, zarza lihera,</p>
+            <p rend="italic">para que cantemoh a Ehparta,</p>
+            <p rend="italic">la que ze cuida de loh coroh de loh diozeh</p>
+            <p rend="italic">y der taconeo de loh pieh,</p>
+            <p rend="italic">cuando lah mushashah, como haquitas,</p>
+            <p rend="italic">a oriyah del Eurotah</p>
+            <p rend="italic">zartan con zuh pieh una vé y otra,</p>
+            <p rend="italic">con un ritmo muy aprezurado,</p>
+            <p rend="italic">y zuh cabeyerah ze menean</p>
+            <p rend="italic">como lah de lah Bacanteh que dansan blandiendo el tirzo.</p>
+            <p rend="italic">Y la iha de Leda loh guía, donseya</p>
+            <p rend="italic">cahta, muy presiosa,</p>
+            <p rend="italic">que dirihe loh coroh.</p>
+            <p rend="justify">Ale, avansa, síñete con una sinta er cabeyo, con ayuda de tu mano, y con loh</p>
+            <p rend="justify">pieh zarta como un siervo, marcando al mihmo tiempo el compáh que</p>
+            <p rend="justify">ayuda a la dansa, y a la muy guerrera, la poderozízima dioza de bronsíneo</p>
+            <p rend="justify">templo, dirihe tu canto.</p>
+            <p rend="justify">
+               <hi rend="italic">(Salen todos.)</hi>
+               <lb/>
+            </p>
+            <quote>
+               <hi rend="bold italic">(238). Los dioses nombrados en la canción son: las Gracias; Ártemis y su hermano Apolo, con el sobrenombre de Sanador por su poder sobre la enfermedad; </hi>
+               <hi rend="bold italic">Dioniso, llamado aquí Nisio por haber habitado el monte Nisa de niño, siendo cuidado por las Ninfas; Zeus y su esposa Hera; por ultimo, Cipris o Afrodita.</hi>
+               <lb/>
+            </quote>
+            <quote>(239). Canto de triunfo después de una victoria, dirigido a Apolo.</quote>
+            <p rend="bold italic">(240). «Abandonando el amable Taigeto</p>
+            <p rend="bold italic">ven, Musa Laconia, ven, para dar gloria</p>
+            <p rend="bold italic">al dios de Amidas, renombrado entre nosotros,</p>
+            <p rend="bold italic">y a la soberana, de broncíneo templo,</p>
+            <p rend="bold italic">y a los valientes Tindáridas,</p>
+            <p rend="bold italic">que juegan a orillas del Eurotas.</p>
+            <p rend="bold italic">Ea, da un paso hacia adelante,</p>
+            <p rend="bold italic">oh, ea, salta con ligereza,</p>
+            <p rend="bold italic">para que cantemos a Esparta,</p>
+            <p rend="bold italic">la que se cuida de los coros de los dioses</p>
+            <p rend="bold italic">y del taconeo de los pies,</p>
+            <p rend="bold italic">cuando las muchachas, como potrillas,</p>
+            <p rend="bold italic">a orillas del Eurotas</p>
+            <p rend="bold italic">saltan con sus pies una y otra vez,</p>
+            <p rend="bold italic">en apresurado ritmo</p>
+            <p rend="bold italic">y sus cabelleras se agitan</p>
+            <p rend="bold italic">como las de las Bacantes</p>
+            <p rend="bold italic">que danzan blandiendo el tirso.</p>
+            <p rend="bold italic">Y la hija de Leda los guía, doncella</p>
+            <p rend="bold italic">casta, de hermosa apariencia,</p>
+            <p rend="bold italic">que dirige los coros.</p>
+            <quote>Hala, avanza, cíñete con una cinta el cabello con ayuda de tu mano, y con los pies salta como un ciervo, marcando al mismo tiempo el compás que ayuda a la danza, y a la muy guerrera, la poderosísima diosa de broncíneo templo, dirige tu canto.»</quote>
+            <quote>(241). Taigeto, Amidas y Eurotas son, respectivamente, un monte, una ciudad y un río de Laconia. En Amidas tenía Apolo un templo. La diosa del templo de bronce es Atenea, y los Tindáridas son los Dioscuros, Castor y Pólux. La hija de Leda es Ártemis.</quote>
+         </div>
+      </body>
+   </text>
+</TEI>

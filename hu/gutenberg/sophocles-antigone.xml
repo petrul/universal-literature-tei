@@ -1,0 +1,3241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antigone</title>
+            <author>Sophocles</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-06T15:18:52Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-20T11:19:57.256781642</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Antigone</head>
+         <author>Sophocles</author>
+         <p rend="italic">2022-09-29T07:31:26.561422+00:002021-01-27</p>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg/>
+         <p rend="center">SOPHOKLES.</p>
+         <lg>
+            <l>*</l>
+         </lg>
+         <div type="div1">
+            <head>Antigone</head>
+            <p rend="justify"> </p>
+            <p rend="center">FORDITOTTA</p>
+            <p rend="center">CSIKY GERGELY.</p>
+            <p rend="center">HARMADIK KIADÁS.</p>
+            <p rend="center"> </p>
+            <p rend="center">BUDAPEST.</p>
+            <p rend="center">FRANKLIN-TÁRSULAT</p>
+            <p rend="center">MAGYAR IROD. INTÉZET ÉS KÖNYVNYOMDA</p>
+            <p rend="center">1899.</p>
+            <p rend="center">FRANKLIN-TÁRSULAT NYOMDÁJA.</p>
+            <lg/>
+            <div type="div2">
+               <head>Bevezetés</head>
+               <p rend="justify">Polynikes, kit öcscse Eteokles megfosztott Theba trónjától, Argosba menekült, s a szövetséges fejedelmek sergeivel ostrom alá vette Thebát. A két ellenséges testvér a csata folyamán egymást kölcsönösen megölte, mint megjósolá a haldokló Oedipus átka. A csatát követő éjjelen az argosi sereg gyors futásban elmenekült Theba falai alól, a város felszabadult, melynek királya Kreon lett, az elesett testvérek nagybátyja.</p>
+               <p rend="justify">Az új király másnap reggel azonnal kihirdetteté Theba utczáin, hogy a honáért elesett Eteoklest fényes pompával fogják eltemetni; ellenben Polynikes holtteste büntetésül temetetlen marad, a szomszéd hegyen orvmadarak és ebek zsákmányáúl heverve. Őröket is állított a holttest mellé, nehogy valaki megszegje a királyi tilalmat. A hőslelkű Antigone nem viselheti nyugodtan testvére holttestének meggyalázását, s fölteszi magában, hogy a királyi tilalom daczára is eltemeti. Kora hajnalban fölkeresi húgát, Ismenét, hogy tervében részvételre bírja, s ezzel veszi kezdetét a tragœdia cselekvénye, mely Thebában a királyi palota előtti téren történik.</p>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>Személyek:</head>
+               <p rend="center">Antigone.<lb/> Ismene.<lb/> Kar: thebai aggastyánok.<lb/> Kreon.<lb/> Őr.<lb/> Hæmon.<lb/> Tiresias.<lb/> Hirmondó.<lb/> Eurydike.<lb/> Szolga.<lb/>
+               </p>
+               <lg/>
+               <lg>
+                  <l>(Antigone oldalról, Ismene a palotából jő.)</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ismene, drága testvér, tudsz-e oly csapást,</l>
+                  <l>Mit Oedipus bünéért Zeus nem külde ránk,</l>
+                  <l>Hogy életünkben érjen minden büntetés?</l>
+                  <l>Nincs átok, szégyen, nincs bánat, nyomor, keserv,</l>
+                  <l>Mit egyesülten szemlélnem ne kellene</l>
+                  <l>A te s az én átoksujtotta sorsomon.</l>
+                  <l>És mily parancs az, melyet szóbeszéd szerint,</l>
+                  <l>Most hirdetett ki városunkban a király?</l>
+                  <l>Nem mondanád? Vagy nem tudod, hogy ellenink</l>
+                  <l>Mily uj szégyennel sujtják kedvesink fejét?</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Nem hallék, testvér, mit sem kedvesink felől,</l>
+                  <l>Se’ jót, se’ rosszat, a mióta egy napon</l>
+                  <l>Mindkét testvérünk egymás keblét döfve át,</l>
+                  <l>Kettős halállal egymás éltét elvevé.</l>
+                  <l>Az éjjel eltünt innen Argos serge is,</l>
+                  <l>S azóta nem tudom, mi végzet vár reám,</l>
+                  <l>Vidámabb lesz-e, vagy sötétebb a jövő?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Előre tudtam, s ép azért hivattalak</l>
+                  <l>E helyre, hogy a hirt tőlem halld egyedül.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Mi az? Látom, sötét gond nyomja kebledet.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Nem tagadá meg hajthatlan szivű Kreon</l>
+                  <l>Egyik fivérünktől a tisztes temetést?</l>
+                  <l>Eteoklest (mint a törvény s megszentelt szokás</l>
+                  <l>Kivánja) eltemetteté, hogy tisztelet</l>
+                  <l>Fogadja oda lenn az árnyvilágban őt;</l>
+                  <l>De Polynikest, a boldogtalant,</l>
+                  <l>Sem eltemetni, megsiratni sem szabad,</l>
+                  <l>Temetlenül, siratlanul heverjen ott</l>
+                  <l> A puszta földön, s teste a rárohanó</l>
+                  <l>Madárseregnek nyujtson édes lakomát.</l>
+                  <l>A jó Kreon parancsolá ezt így neked</l>
+                  <l>S nekem, ah! ismételve mondom, nekem is.</l>
+                  <l>Azonnal itt lesz, s újra nyilván hirdeti</l>
+                  <l>Tilalmát, hogy mindenki tudja; mert komoly</l>
+                  <l>És zordon a parancs, s ki ellene szegül,</l>
+                  <l>A néptől megkövezve szenved az halált.</l>
+                  <l>Mutasd meg most, merész-e lelked és nemes,</l>
+                  <l>Vagy nagyszivű szüléknek gyáva lánya vagy?</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Ha igy van, oh boldogtalan! ugyan mit ér</l>
+                  <l>Tőlem szegénytől, daczolás vagy engedés?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Akarsz-e részes lenni tervemben? Beszélj.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Mi vakmerő tervről beszélsz? Mi szándokod?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>A holtat enkezemmel eltemetni ma.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Megtennéd azt, mi az egész népnek tilos?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Testvérünkért – ha te nem is – én megteszem,</l>
+                  <l>Ne mondjon engem hitszegőnek senki sem!</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Boldogtalan! Kreonnal mersz daczolni te?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Szeretteimtől elszakitni nincs joga.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! nem jut eszedbe, mint halt meg atyánk</l>
+                  <l>Utálatúl az embereknek s dicstelen?</l>
+                  <l>Bünéért önmagára mondva büntetést,</l>
+                  <l>Önnön kezével ásta ő ki két szemét;</l>
+                  <l>S ki egy személyben anyja volt és hitvese,</l>
+                  <l>Fojtó hurokkal végezé ki önmagát;</l>
+                  <l>A két fivér jött harmadiknak azután,</l>
+                  <l>Egymásra törve véres harczmezőn, s közös</l>
+                  <l> Halállal vesztve egymás éltét egy napon.</l>
+                  <l>Mi érne minket, e törzs végső sarjait,</l>
+                  <l>Ha a törvénynyel szembe szállnánk vakmerőn,</l>
+                  <l>Lábbal tiporva a király parancsait?</l>
+                  <l>Oh testvér, ne feledd, hogy gyönge nők vagyunk,</l>
+                  <l>S hatalmas férfiakkal nem daczolhatunk;</l>
+                  <l>Parancsol az erős, nekünk engedni kell,</l>
+                  <l>Parancsa ránk a legborzasztóbb volna bár.</l>
+                  <l>Bocsássanak meg drága holtjaink nekem,</l>
+                  <l>Térden könyörgök érte! de daczolni a</l>
+                  <l>Királyi szóval nem merek. Csak esztelen</l>
+                  <l>Fog oly munkába, mit megtenni képtelen.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Nem kérlek többé, sőt ha kedved jönne is,</l>
+                  <l>Örömmel többé nem venném segélyedet.</l>
+                  <l>Maradj magadra hát. Én sirt ások neki;</l>
+                  <l>S ha meghalok, dicsőség lesz rám e halál.</l>
+                  <l>Jó tettemért szerettim oldalán fogok</l>
+                  <l>Pihenni szeretően. A holtak kegye</l>
+                  <l>Tovább tart, mint az élőké; mert ott örök</l>
+                  <l>Lakásom lesz velük. Te folytasd éltedet,</l>
+                  <l>S gúnyold az istenek örök törvényeit.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Nem gúnyolom; de arra nincs elég erőm,</l>
+                  <l>Hogy vakmerően daczra hivjam a királyt.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Csak hozd föl ezt mentségedül! Én indulok,</l>
+                  <l>A drága testvér sirját elkészíteni.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! szegény, mint reszket éretted szivem.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Engem ne félts; gondolj magad sorsára csak.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Ne szólj e szándokodról senkinek; sötét</l>
+                  <l>Titokba burkold terved. Én is hallgatok.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Oh nem, beszélj csak bátran! Hallgatásodat</l>
+                  <l>Rosszabb neven veszem, mint áruló szavad.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Oly sok csapás után mily izzó még szived!</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Az istenek tetszése most velem leend.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Igen, ha mire törsz, megbirná azt erőd.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ha nem lesz rá erőm, úgy felhagyok vele.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Ha nincs reá erőd, úgy ne is fogj bele.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ne szólj tovább igy, mert gyülölni kezdelek,</l>
+                  <l>S a holt testvér gyülölni fog, mint ellenét.</l>
+                  <l>Hadd érjen esztelen fejemmel engemet</l>
+                  <l>A balsors átka! Hagyj tennem! Bár meghalok,</l>
+                  <l>De vigaszom lesz: ily ügyért szép a halál.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Menj hát utadra! Tetted esztelen ugyan,</l>
+               </lg>
+               <lg>
+                  <l>De látom, hű szerelmed az, mi tettre hív.</l>
+               </lg>
+               <lg>
+                  <l>(Antigone oldalt, Ismene a palotába el. Megvirrad. A kar föllép.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Fényes nap, ragyogó világ!</l>
+                  <l>Melynél szebb nem hinte sugárt</l>
+                  <l>Theba hét kapujára még,</l>
+                  <l>Mosolygsz végre az ég boltján,</l>
+                  <l>Hajnalfényt keltve ránk,</l>
+                  <l>S közelegsz megtörve a Dirke tükrén.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_1">1)</ref>
+                  </l>
+                  <l>És őt, a fehér paizsos<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_2">2)</ref>
+                  </l>
+                  <l>Ellent, ki jöve Argosból,</l>
+                  <l>Siető menekülésre üzéd</l>
+                  <l>Gyorsitott zabolával.</l>
+                  <l>Ádáz Polynikes hivta fel őt,</l>
+                  <l>S betörő hadait földünkre hozá;</l>
+                  <l>Vijjogva, miként keselyű, hasitotta</l>
+                  <l>A levegőt.</l>
+                  <l>Ragyogón fedi szárnya, bércz havaként;</l>
+                  <l>Sok a fegyvere és</l>
+                  <l>Sörény boritotta sisakja.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Fenn röpködve az ormokon,</l>
+                  <l>Gyilkos dárdák ezreivel,</l>
+                  <l>Körben leste a hét kaput:</l>
+                  <l>S futott még mielőtt vérünk’</l>
+                  <l>Lakomára vehetné mohón,</l>
+                  <l>És lángba boritná tornyunk’</l>
+                  <l>A hephæstosi fáklyával.</l>
+                  <l>Bősz Ares tombolva rohan</l>
+                  <l>A szaladó sarkán, a kemény</l>
+                  <l>Harczban győze a sárkány.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_3">3)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Mert az önhittet gyülöli Zeus,</l>
+                  <l>S a büszke dicsekvőt bünteti ő,</l>
+                  <l>Letekint s látja az árként rohanó</l>
+                  <l>Sereget gőgös fény s pompa között:</l>
+                  <l>Villáma lesujtja, ki bősz rohamán</l>
+                  <l>A várfokig ért</l>
+                  <l>Harsány diadalmi dalával.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Porba bukott a gonosz, ki szilaj dühében</l>
+                  <l>Fergetegül jöve ránk, lobogó üszökkel,</l>
+                  <l>S körül fogva a várfalakat</l>
+                  <l>Romlást lihegett.</l>
+                  <l>De a sors leveré!</l>
+                  <l>A csata más részire más végzetet osztott a nagy Ares</l>
+                  <l>A hadi isten.</l>
+                  <l>A hetes kapunál, hol a hét vezető</l>
+                  <l>Hét ostromoló vezért fogadott,</l>
+                  <l>Zeus fegyvereket nyere áldozatul.</l>
+                  <l>Csak az egy atya, egy anya két fia volt,</l>
+                  <l>Ki a harcz közepett halált ada s vett;</l>
+                  <l> Gerelyét közösen egymásba döfé</l>
+                  <l>S elesett a közös diadalban.</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Ám jön a nagynevü győzelem istennője,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_4">4)</ref>
+                  </l>
+                  <l>És kegyes arcza köszönti szekérdús Thebát.</l>
+                  <l>Üzzük messzire elménkből</l>
+                  <l>A csaták moraját;</l>
+                  <l>Fel! az éjjelen át,</l>
+                  <l>Ünnepi karban, fel a vár templomihoz;</l>
+                  <l>Járjon előttünk a dobogó Bakchos.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_5">5)</ref>
+                  </l>
+                  <l>De immár itt közeleg Kreon,</l>
+                  <l>Theba hazánk új fejedelme</l>
+                  <l>Az isteni végzet örök parancsa szerint.</l>
+                  <l>Mi terv lehet szive mélyiben,</l>
+                  <l>Hogy aggjainak tisztes csapatát</l>
+                  <l>Ide rendelé parancsszóval,</l>
+                  <l>Kiküldött hirnöke által?</l>
+               </lg>
+               <lg>
+                  <l>(Kreon föllép kiséretével.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Az istenek sok pusztitó vihar után</l>
+                  <l>Ismét békében őrzik városunk falát;</l>
+                  <l>Azért hivattalak a többiek közül,</l>
+                  <l>Mint legméltóbbakat, mert tudtam, férfiak!</l>
+                  <l>Hogy Laïoshoz mindenha hívek voltatok;</l>
+                  <l>S midőn e várost Oedipus kormányozá,</l>
+                  <l>És elhunytával a királyfiúk iránt</l>
+                  <l>Mindig rendithetetlen volt hűségetek.</l>
+                  <l> Hogy most a két királyi testvér egy napon</l>
+                  <l>Gyilkolva s gyilkoltatva elhúllt s kölcsönös</l>
+                  <l>Testvérgyilkosság véres áldozatja lett:</l>
+                  <l>Reám szállt a királyi trón és hatalom,</l>
+                  <l>A nemzetségi származás sora szerint.</l>
+                  <l>Ám jól tudom, itélni addig nem lehet</l>
+                  <l>Más szívét és eszét, mig törvénytisztelet</l>
+                  <l>És tettek nem mutatják igaz érdemét.</l>
+                  <l>Ki egy egész ország felett uralkodik,</l>
+                  <l>És nem törekszik mindig a legjobb után,</l>
+                  <l>Sőt félelemből zárva tartja ajkait:</l>
+                  <l>Hitványnak mondom azt most is, mint azelőtt.</l>
+                  <l>S ki bárminő barátját jobban szereti</l>
+                  <l>Honánál, nyomorult embernek tartom azt.</l>
+                  <l>A mindent látó Zeusra mondom, nem fogok</l>
+                  <l>Hallgatni, ha népemre boldogság helyett</l>
+                  <l>Veszélyt látok bárhonnan is közelgeni;</l>
+                  <l>S ki a hazának ellensége, az nekem</l>
+                  <l>Sem lesz barátom; mert tudom jól, hogy a hon</l>
+                  <l>Legbiztosabb hajó a vészben, és ha ezt</l>
+                  <l>Megóvjuk, úgy barátunk mindig lesz elég.</l>
+                  <l>Törvényeimben ez lesz az irányadó!</l>
+                  <l>Azért most hallgassátok az itéletet,</l>
+                  <l>Mit Oedipusnak két fiára hirdeték:</l>
+                  <l>Eteoklest, ki hazánkat védte hősileg,</l>
+                  <l>S dicsően elesett; sir hantja födje be,</l>
+                  <l>S kisérje őt az áldozat minden neme,</l>
+                  <l>Mit érdemelnek legkitünőbb férfiak;</l>
+                  <l>De Polynikest, ki honára támadott,</l>
+                  <l>Hogy a hazát és a hazának istenit</l>
+                  <l>Tüzzel pusztitsa ki, s hogy öntestvérinek</l>
+                  <l>Vérével lakjék jól; ki rabigát hozott,</l>
+                  <l>Hogy szolgaságba hajtsa a hon népeit:</l>
+                  <l>– Igy hirdetém ki a városban – senki se</l>
+                  <l>Temesse őt el, senki se sirassa meg,</l>
+                  <l>Temetlenül heverjen teste, és legyen</l>
+                  <l>Ebek zsákmánya, orvmadarak étele.</l>
+                  <l> Ezt rendelem. Kezemből a gonosz soha</l>
+                  <l>Ne nyerjen oly jutalmat, mit jó érdemel.</l>
+                  <l>De ki honához hű marad, kegyelmem azt</l>
+                  <l>– Éljen vagy haljon – egyformán árasztja el.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ez hát határzatod, Menœkeus fia,</l>
+                  <l>A honnak elleni s barátai iránt?</l>
+                  <l>Hatalmad van reá, a törvényt te hozod,</l>
+                  <l>Tarthatsz itéletet élőkön s holtakon.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ügyeljetek, hogy megtartsák parancsomat.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ifjabb vállakra tedd e terhet, oh király!</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>A holt mellett kirendelt őrök állanak.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Mért bízod hát e dolgot másokra is?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hogy a parancs ellen ne keljen senki se.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Nem őrült senki, hogy keresse a halált.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Halál leend jutalma, ám az emberek</l>
+                  <l>Kincsvágyból gyakran szembe szállnak ezzel is.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">(Az őr élénken jő.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Épen nem mondhatom, hogy gyors lábakkal és</l>
+                  <l>Lélekszakadva jöttem volna, oh király!</l>
+                  <l>Mert sok nehéz gond lassitotta léptemet,</l>
+                  <l>S jöttömben gyakran vissza-vissza fordulék,</l>
+                  <l>Aggódva inte lelkem s mondá: «Oh botor!</l>
+                  <l>Miért sietsz oda, hol veszted vár reád?</l>
+                  <l>S ha itt maradsz, szegény! S Kreon megtudja majd</l>
+                  <l>Más ajkiról? Mint kerülöd ki a halált?»</l>
+                  <l> Ily aggodalmak közt csak lassan jöheték,</l>
+                  <l>Hosszúvá lesz ily módon bármi kurta út.</l>
+                  <l>De végre rászántam magam s hozzád jövék,</l>
+                  <l>Tudtodra adni a hirt, bármily rossz legyen;</l>
+                  <l>Mert biztat a remény, hogy többet nem fogok</l>
+                  <l>Szenvedni, mint a mennyit rám mért végzetem.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi az, mi ily nagy félelemmel tölte el?</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Előbb hadd szóljak enmagamról; én a bűnt</l>
+                  <l>El nem követtem, a tettest sem láttam én,</l>
+                  <l>S igy büntetést sem érdemelnék jog szerint.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Üres szavakkal jól tudod burkolni az</l>
+                  <l>Igazságot. De látom, hogy rossz hirt hozál.</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Valóban, szívem rettegéssel van tele.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Beszélj hát végre, s menj utadra azután.</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Kimondom hát. Valaki eltemette a</l>
+                  <l>Halottat, testét száraz porral fedte be,</l>
+                  <l>S megszentelé szokásos áldozattal is.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz! Hol a vakmerő, ki ezt tevé?</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Azt nem tudom. Se’ ásónyom, se’ bárdcsapás</l>
+                  <l>Nem volt ott látható, szilárdan állt a föld,</l>
+                  <l>Kerékvágás sem látszott arra, semmi nyom</l>
+                  <l>Sem árulá el a merész gonosztevőt.</l>
+                  <l>Mihelyt jelenté ezt az őrök elseje,</l>
+                  <l>Nagy rémület fogott mindannyiunkat el.</l>
+                  <l>Eltűnt a holt, bár nem volt eltemetve; csak</l>
+                  <l>Porral behintve, hogy ne érje átok őt.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_6">6)</ref>
+                  </l>
+                  <l>Ebek, vadállatok nyomát sem láthatók,</l>
+                  <l>Melyek tán, arra járva, szétmarczangolák.</l>
+                  <l>Szidalmazás hallatszék most mindenfelől.</l>
+                  <l>Egy őr vádolta másikát, s kevésbe mult,</l>
+                  <l>Hogy nem kelénk ökölre; mérgünk nagy vala,</l>
+                  <l> Mert mindnyájunk fejét terhelte ez a bűn,</l>
+                  <l>Bár részét benne eltagadta mindenik.</l>
+                  <l>Készek valánk keresztül menni a tüzön,</l>
+                  <l>Izzó követ markolni,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_7">7)</ref> s esküt tenni a</l>
+                  <l>Nagy istenekre, hogy nem mi követtük el</l>
+                  <l>A bűnt, sem a tettest nem ismerjük, ki volt.</l>
+                  <l>Látván, hogy minden vizsgálódás hasztalan,</l>
+                  <l>Megszólalt egyikünk, s szavára borzalom</l>
+                  <l>Szegzé fejünket földnek; mert sem ellene</l>
+                  <l>Vitázni, sem tanácsot adni nem tudánk.</l>
+                  <l>Ez volt, mit monda: az ügyet be kell neked</l>
+                  <l>Jelentenünk, s el nem titkolni semmit is.</l>
+                  <l>Szavát fogadtuk, s sorsot vetve, engem ért</l>
+                  <l>– Boldogtalant – e szörnyü megtiszteltetés.</l>
+                  <l>Kedv nélkül jöttem s nem találom kedvedet;</l>
+                  <l>Rossz hírhozót jó szivvel nem lát senki sem.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Rég sejti fontolgatva lelkem, oh király!</l>
+                  <l>Hogy mindez a nagy istenek munkája volt.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hallgass, nehogy haragra lobbantson szavad,</l>
+                  <l>És vénségedre esztelennek tartsalak.</l>
+                  <l>Mint mondhatod, hogy ezt az égiek tevék,</l>
+                  <l>S azon holttestre gondot ők viseltenek?</l>
+                  <l>Hogyan! Talán azt pártolnák az istenek,</l>
+                  <l>Ki tüzzel-vassal ronta országunkra, hogy</l>
+                  <l>Feldulja a templomokat s oltárokat,</l>
+                  <l>És szetszakítsa az ország törvényeit?</l>
+                  <l> Vagy tán gonoszra száll az istenek kegye?</l>
+                  <l>Nem úgy! Van egynehány a polgárok között,</l>
+                  <l>Ki rég titokban zúgolódik ellenem,</l>
+                  <l>Fejet csóvál parancsimon, s kemény nyakát</l>
+                  <l>Nem hajtja törvény s rend szerint igám alá.</l>
+                  <l>Bizonynyal ők valának, kik az őröket</l>
+                  <l>Bérrel megejtve e merényre csábiták.</l>
+                  <l>Mert nincs, mi annyi bajt okozna emberek</l>
+                  <l>Közt, mint a pénz. Országokat pusztít el ez,</l>
+                  <l>Földönfutókká tészi a polgárokat,</l>
+                  <l>Rosszat csinál a jóból, és az emberek</l>
+                  <l>Igaz lelkét gonoszra tudja hajtani;</l>
+                  <l>Nincs álnokság, csalárdság, gazság, a mire</l>
+                  <l>Embert a pénz meg nem tanitna egyhamar.</l>
+                  <l>De kit a bér a bűnös tettre csábitott,</l>
+                  <l>Eléri végre azt a méltó büntetés.</l>
+               </lg>
+               <lg>
+                  <l>(Az őrhöz.)</l>
+               </lg>
+               <lg>
+                  <l>A mily igaz, hogy Zeust hódolva tisztelem,</l>
+                  <l>Úgy teljesítem, melyet mondok, eskümet:</l>
+                  <l>Ha azt, ki önkezével ásta meg a sirt,</l>
+                  <l>Ide nem állitjátok szemeim elé,</l>
+                  <l>Nem lesz elég haláltok, élve függjetek</l>
+                  <l>Magas bitón s igy hirdessétek bűnötök:</l>
+                  <l>Hogy a jövőben is tudjátok, mint lehet</l>
+                  <l>Jó nyereségre tenni szert; s okuljatok,</l>
+                  <l>Hogy nemcsak hasznot kell keresni mindenütt.</l>
+                  <l>Szerencsét ritkán hoz rosszul szerzett vagyon,</l>
+                  <l>Legtöbbször végveszélybe dönti emberét.</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Engedsz még egy szót? Vagy jobb lesz, ha távozom?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem látod, mennyi boszuságot ad szavad?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Szived’ kinozza-e beszédem vagy füled’?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mit fürkészed, hol székel bennem a harag?</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>A bűnös sérté szived’, én csak a füled’.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ah mily kiállhatatlan szószátyár levél!</l>
+               </lg>
+               <lg>
+                  <l>ŐR</l>
+               </lg>
+               <lg>
+                  <l>De az mégsem vagyok, ki a bűnt megtevé.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Te vagy, s hozzá pénzért adád el lelkedet.</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Jaj!</l>
+                  <l>Baj, ha igaznak látszik, a mi nem igaz.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Fecseghetsz látszatról, de ha elémbe nem</l>
+                  <l>Hozod a bűnöst, akkor majd tapasztalod,</l>
+                  <l>Hogy alacsony pénzvágyból átok sarja kél.</l>
+               </lg>
+               <lg>
+                  <l>(El kiséretével.)</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Oh vajha fölfedeznék! De akadjanak</l>
+                  <l>Reá vagy nem, – hiszen szerencse dolga ez –</l>
+                  <l>Ide bizonynyal többé vissza nem jövök.</l>
+                  <l>Mert most is, hogy remény felett kilábolék,</l>
+                  <l>Az isteneknek sok hálával tartozom.</l>
+               </lg>
+               <lg>
+                  <l>(Elsiet.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Sok nagyszerű van e földön,</l>
+                  <l>Köztük az ember a legnagyobb.</l>
+                  <l>Átkel a komor tengereken,</l>
+                  <l>Haragos habok között</l>
+                  <l>Előre törve merészen,</l>
+                  <l>A déli szél alatt.</l>
+                  <l>Az örök istenáldta Gæa</l>
+                  <l>Ő neki termi gyümölcseit éven át,</l>
+                  <l>Ménei vonnak ekével a föld szinén</l>
+                  <l>Körül és körül barázdát.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>A repülő vidám madárt,</l>
+                  <l>A vad állatok ezreit,</l>
+                  <l>És a vizek szülötteit</l>
+                  <l>Ügyesen bekeríti</l>
+                  <l>Háló fodraival az ember,</l>
+                  <l>S eszével fogja meg.</l>
+                  <l>Csalárd fogásival legyőzi</l>
+                  <l>A sivatag vadjait;</l>
+                  <l>S a sörény borította nyakú paripát,</l>
+                  <l>Meg a szörnyű bérczi bikát</l>
+                  <l>Igába hajtja.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>A beszédet, a gondolatot</l>
+                  <l>Neki adta a sors egyedül,</l>
+                  <l>Törvényeket ő hoz a földön;</l>
+                  <l>Elűzi fejéről a zord fagyot és záport,</l>
+                  <l>S Zeus mennyköveit.</l>
+                  <l>Esze mindent kitud,</l>
+                  <l>S készen éri mindig a jövő.</l>
+                  <l>Egy van, mi leveri őt: a halál;</l>
+                  <l>De gyógyító kezével a kórt elűzi.</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Keze műveiben ügyes ő (hitet felül mulón) s csalárd,</l>
+                  <l>Hajolva a rossz vagy a jó után,</l>
+                  <l>Ki honát s az isten örök</l>
+                  <l>Jogát híven tiszteli,</l>
+                  <l>Áldva legyen – áldva legyen!</l>
+                  <l>De legyen átok a gonoszon,</l>
+                  <l>Ki daczra kel ellenök.</l>
+                  <l>Tűzhelyemhez soha ő ne üljön</l>
+                  <l>S része ne legyen kedvesim közt.</l>
+                  <l>Az égre! Mi csodás tünemény!</l>
+                  <l>Hihetek szememnek?</l>
+                  <l>Igen, haszontalanul tagadom,</l>
+                  <l>Ime Antigone jő.</l>
+                  <l>Boldogtalan Oedipus árva gyermeke, ah! mit tevél?</l>
+                  <l>Mit tevél?</l>
+                  <l>Erre vezet az őr! Mi bűn lehet az, melyet elkövetél?</l>
+                  <l>Megszegéd a királyi parancsot?</l>
+               </lg>
+               <lg>
+                  <l>(Az őr vezeti Antigonét.)</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Ez az, ki a bűnt elkövette; ott lelők,</l>
+                  <l>A sirt kezével ásva.</l>
+                  <l>De hol Kreon?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>A palotából épen jókor jő elő.</l>
+               </lg>
+               <lg>
+                  <l>(Kreon föllép.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi történt? Mily jó hir köszönti jöttömet?</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Király! halandó esküt ne tegyen soha,</l>
+                  <l>Mert később látja, hogy hazug volt szándoka;</l>
+                  <l>Im én is esküvém, hogy többé nem jövök</l>
+                  <l>E helyre, futva szörnyü haragod elől;</l>
+                  <l>De most remény felett oly nagy szerencse ért,</l>
+                  <l>Melyhez hasonló földön nem található;</l>
+                  <l>Hozom hát, esküm ellen, e szüzet, kit a</l>
+                  <l>Sirnál lelénk; nem kelle sorsot vetni most,</l>
+                  <l> Mert engem illet érte a dij, senki mást.</l>
+                  <l>És most, király, hallgasd ki és itéld el őt</l>
+                  <l>Tetszés szerint; én tisztán állok s ment vagyok</l>
+                  <l>A büntetéstől, melyet a bünösre mérsz.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hol és miként ejtéd fogságba e leányt?</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Ő ásta a sirt. Ez minden, mit mondhatok.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Biztos vagy-e, hogy mind való az, mit beszélsz?</l>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Saját szememmel láttam, mint temette el</l>
+                  <l>A temetetlent. Tisztán szólok s érthetőn?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hogy vetted észre és hogy kaptad rajta őt?</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>ŐR.</l>
+               </lg>
+               <lg>
+                  <l>Igy történt a dolog. Borzasztó haragod</l>
+                  <l>Mindannyiunkat rémülettel tölte el;</l>
+                  <l>S helyünkre érve szerte szórtuk a fövényt,</l>
+                  <l>Mely a halottnak rothadó testét födé;</l>
+                  <l>Szél ellenében a hegyen üténk tanyát,</l>
+                  <l>Hogy orrunkat ne bántsa a holttest szaga,</l>
+                  <l>S ha egyik-másik őr kissé ellankadott,</l>
+                  <l>Szidalmazó szavakkal serkentők legott.</l>
+                  <l>Igy tarta ez, mig a nap fényes kereke</l>
+                  <l>Az égbolt kellő közepére érkezett,</l>
+                  <l>S erősen égetett; forgószél támadott</l>
+                  <l>Egyszerre most, mint égből küldetett csapás,</l>
+                  <l>Szétszórva a völgy lombjait s a sik mezőt</l>
+                  <l>Belepve; elborult a lég; s az istenek</l>
+                  <l>Haragjától csak úgy káprázott a szemünk.</l>
+                  <l>Hogy jó időre a vihar lecsillapult,</l>
+                  <l>Szemünkbe tűnt e szűz, zokogva hangosan,</l>
+                  <l>Mint gyászmadár, ha visszatérve üresen</l>
+                  <l>Találja fészkét, elrabolva magzatit!</l>
+                  <l>Ekként sóhajta ő is a dúlt sir felett,</l>
+                  <l>Szörnyü átokkal sujtva a gonosztevőt,</l>
+                  <l>Ki a halottól elrabolta hantjait.</l>
+                  <l>Száraz port hinte aztán a holttest fölé.</l>
+                  <l>Érczkorsajából háromszor megöntözé,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_8">8)</ref>
+                  </l>
+                  <l>Megszentelvén a hármas áldozattal őt.</l>
+                  <l>Mi látva ezt, rátörtünk s elfogtuk legott,</l>
+                  <l>Bár cseppet sem volt megrémülve, mondhatom;</l>
+                  <l>S midőn szemére hánytuk ezt s előbbeni</l>
+                  <l>Tettét, merészen mindent önmagára vett,</l>
+                  <l>Nagy örömömre s bánatomra egyaránt.</l>
+                  <l>Mert bajtól szabadulni nagy öröm ugyan,</l>
+                  <l>De fájdalmas, barátot vészbe dönteni;</l>
+                  <l> Hanem hát én rám nézve, természet szerint,</l>
+                  <l>Enboldogságom mindennél előbb való.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Te, a ki földre szegzed vakmerő fejed,</l>
+                  <l>Megvallod vagy tagadod bűnös tettedet?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Megvallom bátran, mit tevék, s nem tagadom.</l>
+               </lg>
+               <lg>
+                  <l>KREON. <hi rend="italic">(Az őrhöz.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Mehetsz, a merre tetszik, útad tárva áll,</l>
+                  <l>Szabad vagy és feloldva súlyos vád alól. <hi rend="italic">(Az őr el.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>(Antigonehoz.)</l>
+               </lg>
+               <lg>
+                  <l>Te meg beszélj, rövid szóval, ne hosszasan:</l>
+                  <l>Ismerted a tilalmat, melyet hirdeték?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ismertem. Mért tagadjam? Nyilvános vala.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>S parancsomat mégis megszegted vakmerőn?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Nem Zeus volt az, ki e parancsot hirdeté,</l>
+                  <l>S Diké istennő, ki az árnyak közt honol,</l>
+                  <l>Az embersziv számára ily törvényt nem ad.</l>
+                  <l>Parancsodat nem tarthatám oly nagyra, én</l>
+                  <l>Halandó, hogy miatta megtagadjam a</l>
+                  <l>Nagy istenek örök, nem irt törvényeit.</l>
+                  <l>Isten törvénye nem ma, tegnap óta áll,</l>
+                  <l>Öröktől él s korát nem tudja senki sem;</l>
+                  <l>Megtörni ezt a törvényt ember kedveért,</l>
+                  <l>S az égiektől érdemelni büntetést –</l>
+                  <l>Nem volt erőm. Hogy meg kell halnom, jól tudám,</l>
+                  <l>Itéleted nélkül is. Hisz ha a halál</l>
+                  <l>Korán elér, csak nyereségnek tartom azt.</l>
+                  <l>Vagy nem szerencse arra nézve a halál,</l>
+                  <l>Kit életében annyi szenvedés gyötör?</l>
+                  <l>Nem fáj a sir nekem; de fájna az nagyon,</l>
+                  <l>Ha sirjától megfosztva, temetetlenül</l>
+                  <l>Látnám porladni testvéremnek csontjait,</l>
+                  <l>Kit szült saját anyám. Ez fáj, nem a halál!</l>
+                  <l>Ha dőreségnek mondod azt, a mit tevék,</l>
+                  <l>Ki dőreségről vádolsz, dőre vagy magad.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>A lány daczában apja dacza újra él;</l>
+                  <l>Veszély előtt sem hajlik meg makacs szive.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Jegyezd meg, legkönnyebben dől meg a makacs,</l>
+                  <l>Kemény szivű; miként a tűzedzette vas,</l>
+                  <l>Erős bár és merev, gyakorta megreped,</l>
+                  <l>S apró forgácsokká törik szét csakhamar.</l>
+                  <l>Kicsiny zablával meg lehet fékezni a</l>
+                  <l>Szilaj mének tüzét. A felfuvalkodás</l>
+                  <l>Nem illik ahhoz, a ki más embert ural.</l>
+                  <l>E lány eléggé megmutatta, mily makacs,</l>
+                  <l>Midőn a törvényt vakmerően megszegé;</l>
+                  <l>De új bűnnel tetézi most a régi bűnt.</l>
+                  <l>Dicsekvő gúnynyal dobva azt szemünk közé.</l>
+                  <l>Ő volna férfiú és gyáva asszony én,</l>
+                  <l>Ha gőgjét győzni hagynám megtorlatlanul.</l>
+                  <l>Nem; bárha testvéremnek lánya s volna bár</l>
+                  <l>Vérségre hozzám bárminő közel rokon.</l>
+                  <l>Ki nem kerüli a legsúlyosb büntetést,</l>
+                  <l>Sem ő, sem húga! Mert húgát is vádolom,</l>
+                  <l>Bünében egyenlően osztozik vele.</l>
+                  <l>Hivjátok ki! Imént látám a házban őt,</l>
+                  <l>Őrjöngve félelmében s öntudatlanul.</l>
+                  <l>A lélek igy elárul gyakran sok gonoszt,</l>
+                  <l>Ki a sötétben szőtte álnok terveit.</l>
+                  <l>De én előttem gyűlöletnek tárgya az,</l>
+                  <l>Ki tetten érve, még kendőzi bűneit.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Többet kivánsz-e tőlem, mint halálomat?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem többet. Elég lesz halálod is nekem.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Mért késel hát? Szavadban eddig sem lelék</l>
+                  <l>Kedvet, sem a jövőben nem lelek soha;</l>
+                  <l>S szavamban ép’ úgy nem találsz kedvet te sem.</l>
+                  <l>Pedig mi az, miért nagyobb magasztalást</l>
+                  <l>Érdemlek, mint hogy testvéremnek sirt adék?</l>
+                  <l>Ti is, kik itt jelen vagytok, helyeslitek,</l>
+                  <l>De nyelvetek megbénitá a félelem.</l>
+                  <l>Csak zsarnok birja a hatalmat és jogot,</l>
+                  <l>Hogy szólhat és tehet szabad tetszés szerint.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Csupán te látod ezt Kadmos polgári közt.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ők is látják; de szád izére szólanak.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>S te nem pirulsz, hogy roszabb vagy a többinél?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Testvért szeretni nem rossz, nem szégyenletes.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem volt az is testvéred, a ki megölé?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Igen, testvérem; egy apánk volt, egy anyánk.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Miért vagy hát iránta oly igaztalan!</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ily vádat a halott nem tenne ellenem.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Igen, mert a gonosszal egyre tartod őt.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ez is, mint testvér húlla el, nem szolgaként.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Honát eladva ez, hont védve halt meg az.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Hades honában egyjogú lesz mindenik.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem érdemel egy sorsot a jó és gonosz.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ki tudja, ott lenn ily mértékkel mérnek-e?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Halálban sem lesz gyülöletből szeretet.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Nem gyülöletre: szeretetre születém.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Szeresd hát lenn az alvilágban, kit akarsz;</l>
+                  <l>De én mig élek asszony rabja nem leszek.</l>
+               </lg>
+               <lg>
+                  <l>(Ismene jő a palotából.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ime jő Ismene felénk,</l>
+                  <l>Könyfelhő borong homlokának egén,</l>
+                  <l>S hullatja gyöngyeit</l>
+                  <l>Piros arcza felett;</l>
+                  <l>Bánatba merült szive, gyötri rokonszeretet.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Te, a ki mint kigyó házamban fészkelél</l>
+                  <l>És szivtad véremet, – mig én nem is tudám,</l>
+                  <l>Hogy két szörnyet táplálok trónom vesztire: –</l>
+                  <l>Beszélj, megvallod-e a bűnben részedet,</l>
+                  <l>Vagy véded esküvel ártatlanságodat?</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Megvallom, ha testvérem nem szól ellene;</l>
+                  <l>Részes valék a tettben, bűnben egyaránt.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ez nem igaz; te nem akartad tettemet,</l>
+                  <l>S én visszautasitottam segélyedet.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Ha rád borúl a szenvedések fellege,</l>
+                  <l>Részt venni fájdalmadban én nem rettegek.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>A tettest tudja Hades és az alvilág;</l>
+                  <l>Testvér nem kell nekem, ki csak szóval szeret.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Ne hozd, testvér, e szégyent rám, hogy a halott</l>
+                  <l>Engeszteléseül ne haljak meg veled.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Te nem halsz meg velem, s azért, mit nem tevél,</l>
+                  <l>Nem bünhődöl; elég az én halálom is.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Mit éljek én, ha téged el kell vesztenem?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Kérdezd Kreont; hisz szived, lelked az övé.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Haszon nélkül mért gúnyolsz, sértesz engemet?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Nekem fáj az legjobban, hogy gunyolni kell.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Szólj, testvér, mit tegyek hát, mint segitselek?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Mentsd meg magad. Én nem irigylem éltedet.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj nekem! Nem oszthatom hát sorsodat?</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Az életet választád te, én a halált.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>De téged szándokodtól nemde óvtalak?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Te ezt tartottad jónak, én a másikat.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Igy mindkettőnket egyenlő bűn terhe nyom.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Bizzál! Te élsz. De az én lelkem rég halott,</l>
+                  <l>És a halottak országához tartozik.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Most őrült meg az egyik e két lány közül,</l>
+                  <l>A másik esztelen volt, a mióta él.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Ki mindig ész szerint tett, oh király! az is</l>
+                  <l>Eszét veszíti gyötrő fájdalmak között.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Eszed vesztéd te, a ki rosszal rosszra vágysz.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Testvérem nélkül mért kivánjak élni én?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ne szólj többé felőle; ő nem létezik.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Meggyilkolod hát tenfiad menyasszonyát?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Van még elég termő föld, mely ekére vár.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Oh kedves Haemon, mint gunyol saját atyád.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Rossz asszonyoktól megvédem fiam szivét.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>S menyasszonyától megfosztod a vőlegényt,</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hades hatalma szétszakítja e frigyet.</l>
+               </lg>
+               <lg>
+                  <l>ISMENE.</l>
+               </lg>
+               <lg>
+                  <l>Látom, halálát végleg elhatározád.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Úgy látom én is. Rajta semmi habozás!</l>
+                  <l>Vezessétek be, szolgák, e leányokat,</l>
+                  <l>S tartsátok őket szigorúan zár alatt.</l>
+                  <l>Mert a merész is futni óhajt, ha közel</l>
+                  <l>Áll életéhez a halálnak istene.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">(A szolgák elővezetik a két leányt. Kreon hátra vonul.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Boldog, kinek élete balsorsot nem ismer!</l>
+                  <l>Mert kit már isten keze ére, azt</l>
+                  <l>Nem hagyja az átok örökös örökig többé el.</l>
+                  <l>A haragos habokat igy</l>
+                  <l>Üzi, hajtja szilaj thrák szél,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_9">9)</ref>
+                  </l>
+                  <l>Mikoron zivatar veri végig a tengert,</l>
+                  <l>Mélyéből fekete fövényt szór fel,</l>
+                  <l>S az orditó vihar alatt</l>
+                  <l>Reszketnek a habverte partok.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Átok van a Labdakidák házán örökké,</l>
+                  <l>Multak bánatát szaporítja a végzet;</l>
+                  <l>Nyomorától senki sem oldja fel őt.</l>
+                  <l>Irgalmatlanul sujtja a boszus ég.</l>
+                  <l>Legutolsó volt a leány, kire még</l>
+                  <l>Sugárit az ég ragyogtatá:</l>
+                  <l>És őt is letarolja a gyilkos</l>
+                  <l>Halál sarlója most,</l>
+                  <l>A büszke lélek s a dühös Erinnys.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh Zeus! szörnyű hatalmadat</l>
+                  <l>Föl nem tartja halandó karja;</l>
+                  <l>Az álom, a mindent leverő, le nem győz,</l>
+                  <l>Sem siető holdak futása.</l>
+                  <l>Öröktől örökig király vagy,</l>
+                  <l>Az Olymp ormán fényes</l>
+                  <l> Sugarak között élsz.</l>
+                  <l>De az ember sorsa multban,</l>
+                  <l>Jövőben, örökké egy mindig:</l>
+                  <l>Bánat jár az öröm nyomain,</l>
+                  <l>Nélküle nincs boldogság.</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Sokszor teljesül a remény,</l>
+                  <l>Még többször csalogat csalfán,</l>
+                  <l>Kinevetve hiú vágyait a butának.</l>
+                  <l>Édesen elringatja őt,</l>
+                  <l>Mig a tűz lángja nem éri lábát.</l>
+                  <l>Bölcs szavát hallgassátok:</l>
+                  <l>Gonoszat jónak vél,</l>
+                  <l>Kinek értelmét az isten</l>
+                  <l>Vesztére vezérelvén,</l>
+                  <l>Elveszi ép elméjét,</l>
+                  <l>Baj nélkül a lét néki kevés perczet nyujt.</l>
+               </lg>
+               <lg>
+                  <l>Haemon közeleg félénk, legutolsó</l>
+                  <l>Sarja e törzsnek;</l>
+                  <l>Könyei hullnak arája felett,</l>
+                  <l>Szemében a fájdalom ül komoran,</l>
+                  <l>Szive vesztett násza miatt nyög.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">(Haemon föllép. Kreon előre jő.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Tisztábban látunk nemsokára, mint a jós,</l>
+                  <l>Atyád ellen nem jösz haraggal, oh fiam!</l>
+                  <l>Hogy a halálnak szentelém menyasszonyod?</l>
+                  <l>Szeretsz-e mindig, bármi volt az, mit tevék?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Atyám tiéd vagyok; te adsz irányt nekem,</l>
+                  <l>Hiven követlek bölcseséged útjain.</l>
+                  <l>Nincs földön oly szerelmi frigy, melynek becsét</l>
+                  <l>Nagyobbra tartanám, mint bölcs szándékodat.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ez érzelmet szivedben óvd meg oh fiam!</l>
+                  <l>Atyád akaratát mindennél többre tartsd.</l>
+                  <l>Azért kiván a férfiú áldás gyanánt</l>
+                  <l>Az istenektől engedelmes magzatot,</l>
+                  <l>Hogy megtorolja ellenin bántalmait,</l>
+                  <l>S barátjait szeresse ő is apjaként.</l>
+                  <l>De a ki engedetlen gyermeket nevel,</l>
+                  <l>Mi mást készit magának, mint nehéz nyomort,</l>
+                  <l>S az ellenségnek kárörvendő gúnykaczajt?</l>
+                  <l>Ne hagyd hát, oh fiam! nyugodt értelmedet</l>
+                  <l>Megtántorulni csábos női báj miatt;</l>
+                  <l>Jegyezd meg jól, a rossz szivű nő oldalán</l>
+                  <l>Kietlen lesz a férfi házi élete.</l>
+                  <l>Mert mi lehet nagyobb baj, mint a rossz barát?</l>
+                  <l>Dobd el utálva hát magadtól e leányt:</l>
+                  <l>Az alvilágban hadd keressen vőlegényt.</l>
+                  <l>Ő volt az egyetlen polgáraim között,</l>
+                  <l>Ki hitszegően föl mert kelni ellenem;</l>
+                  <l> Megtartom hát szavam s halálra küldöm őt.</l>
+                  <l>Hadd kérje aztán rokonát, Zeust, boszuért!</l>
+                  <l>Ha enfajomban meg nem torlom a hibát,</l>
+                  <l>Miként büntessem azt, ki nem rokon velem?</l>
+                  <l>Csak az lesz feddhetetlen az ország előtt,</l>
+                  <l>Ki önházában is rendet tud tartani.</l>
+                  <l>Dicséretet, jutalmat nem nyer az soha</l>
+                  <l>Kezemből, aki rendet és törvényt tapos,</l>
+                  <l>S uralkodójának parancsot osztogat.</l>
+                  <l>A kit királyul választott a nép, szavát</l>
+                  <l>– Legyen jogos vagy jogtalan – követni kell.</l>
+                  <l>Abból lehet csak jó uralkodó, ki jó</l>
+                  <l>Alattvaló is képes lenni egyaránt;</l>
+                  <l>Csatákba nem fut ő, nem hagyja el helyét,</l>
+                  <l>Megvédi híven, biztosan barátait.</l>
+                  <l>Fejetlenségnél rosszabb nincs az ég alatt;</l>
+                  <l>Miatta országok pusztulnak el, lakok</l>
+                  <l>Leomlanak, győző vitézek sergei</l>
+                  <l>Megbomlanak. De engedelmes érzelem</l>
+                  <l>Megmenti sok derék embernek életét.</l>
+                  <l>Azért a törvényt mindig fenn kell tartanunk,</l>
+                  <l>S ne engedjünk a nőnek győzelmet soha;</l>
+                  <l>Ha esni kell, jobb férfi által esni el,</l>
+                  <l>De asszony rabjának ne mondjon senki sem.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ha a kor meg nem gyöngité itéletünk,</l>
+                  <l>Minden szavadban, látjuk, bölcseség beszél.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Atyám, minden javak közt legfőbb jó az ész,</l>
+                  <l>Mit istenektől a halandók nyertenek.</l>
+                  <l>Helyes volt-e, a mit mondál, vagy helytelen?</l>
+                  <l>Nem tudnám s nem akarnám megitélni azt;</l>
+                  <l>De néha más is eltalálja a helyest.</l>
+                  <l>Te sem láthatsz meg mindent, mit hátad mögött</l>
+                  <l>Mások tesznek, beszélnek, sőt rosszalnak is.</l>
+                  <l>Zordon tekinteted mindenkit elriaszt,</l>
+                  <l>S szemedbe nem mer nem tetsző szót mondani;</l>
+                  <l>De én titokban hallom és tapasztalom,</l>
+                  <l>Miként siratja az egész nép e leányt,</l>
+                  <l>Ki minden nő közt legdicsőbb, leglelkesebb,</l>
+                  <l>S nemes tettéért szenved ily gyászos halált;</l>
+                  <l>Ki harczban elhullt testvérének sirt adott,</l>
+                  <l>Hogy holt testét ne marczangolják ebfogak,</l>
+                  <l>S ne csapjon rajta lakomát az orvmadár:</l>
+                  <l>Nem-e inkább aranyjutalmat érdemel?</l>
+                  <l>Titokban ily beszéd kering a nép között.</l>
+                  <l>Rám nézve, oh atyám! e földön nincs nagyobb</l>
+                  <l>Öröm, mint látni a te boldogságodat.</l>
+                  <l>Hisz a szülőnek és a gyermeknek viszont</l>
+                  <l>Nem egymás boldogsága legnagyobb öröm?</l>
+                  <l>Csak azt az egy hitet vesd el, csak azt ne véld:</l>
+                  <l>Hogy csalhatatlan vagy mindenben, mit beszélsz.</l>
+                  <l>Ki bölcsnek csak magát gondolja egyedül,</l>
+                  <l>S eszét nyelvét mindennél jobbnak képzeli:</l>
+                  <l>Közelről nézve gyakran lesz üres fejű.</l>
+                  <l>Nem szégyen az a legbölcsebb emberre sem,</l>
+                  <l>Ha hajlékony szívvel többet tanulni vágy.</l>
+                  <l>A bőszült bérczi zuhatag hullámai</l>
+                  <l>Épen csak azt a fát hagyják, mely meghajol;</l>
+                  <l>Az ellenállót gyökerestől széttörik.</l>
+                  <l>Vitorláit ha megfeszíti a hajós,</l>
+                  <l>Szél ellen hajtva: felfordítják a habok,</l>
+                  <l>S tenger mélyébe sülyed menthetetlenül.</l>
+                  <l>Hajlitsd hát irgalomra zordon szívedet.</l>
+                  <l>Mert – ha ifjú létemre ítélnem szabad –</l>
+                  <l> Legboldogabbnak tartok oly embert ugyan,</l>
+                  <l>Kinek fejében teljes bölcseség honol:</l>
+                  <l>De – ilyen ritka lévén – az sem oktalan,</l>
+                  <l>Ki mások jó tanácsiból tanulni tud.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ha jól beszél, tanulhatsz tőle oh király!</l>
+                  <l>Mint tőled ő. Mindketten bölcsen szóltatok.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mit! Én fogadjak vén koromban oktatást,</l>
+                  <l>S még hozzá ily éretlen gyermek ajkiról?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Nem, csak helyes tanácsot! Bár ifjú vagyok,</l>
+                  <l>A jó ügyet tekintsd, ne ifjúságomat.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Az hát a jó ügy, hogy becsüljük a gonoszt?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Soh’ sem kivánom én, hogy a gonoszt becsüld.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem volt gonoszság az, mit e leány müvelt?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Egész Thebában más erről a vélemény.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>A várostól tanuljak én kormányzani?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Ládd, most valóban pelyhes ifjuként beszélsz.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ki az ország királya? Én vagy más talán?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Nem ország az, mely egy ember tulajdona.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Egész ország nem a király sajátja-e?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Ugy hát uralkodjál a puszta föld felett.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ez is, mint látom, a lány czinkostársa lett.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Igen, ha lány vagy; mert én csak rád gondolok.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Atyáddal mersz daczolni, elfajult fiú?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Igen, mert látom, hogy te a joggal daczolsz.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>A joggal daczolok, mert védem trónomat?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Nem véded azt, ha sérted istenek jogát.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oh hitszegő fiú, ki asszony rabja vagy!</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>De aljas érzet rabja nem leszek soha.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Minden szavaddal e leányt védelmezed!</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>És téged, és magam, s az istenek jogát.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Te asszony rabja, fékezd csacska nyelvedet!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Akarsz beszélni, s nem hagysz szóhoz jutni mást.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ez életben nem lesz ő hitvesed soha.</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Ha ő meghal, még más is sirba száll vele.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hah vakmerő! még engem fenyegetni mersz?</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Nem fenyeget, ki észre hozza a botort.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Majd megtanítlak észre hozni, esztelen!</l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Atyám levén, őrültnek nem mondhatlak én.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Valóban? A magas Olympra esküszöm,</l>
+                  <l>Nem fogsz engem gunyolni megtorlatlanul!</l>
+                  <l>Hozzátok a czudart elő, e nyomban itt</l>
+                  <l>Haljon meg vőlegénye szemei előtt.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>HAEMON.</l>
+               </lg>
+               <lg>
+                  <l>Ne véld azt; a mig ez a két szem látja őt,</l>
+                  <l>Nem hal meg addig ő. De a te szemeid</l>
+                  <l>Reám bizonynyal többé nem tekintnek itt:</l>
+                  <l>Dühöngj azokkal, a kik elbirják dühöd.</l>
+               </lg>
+               <lg>
+                  <l>(El.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Fiad haraggal távozott el, oh király!</l>
+                  <l>Veszélyes a fellázadt ifjú indulat.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Menjen s tegyen emberfölötti dolgokat,</l>
+                  <l>Haláltól még sem menti meg e lányokat.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Halálra hurczolod hát mind a két szüzet?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem, csak a bűnöst. Jó, hogy emlékeztetél.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>És mily halállal fog meghalni e leány?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ember nem lakta sivatagba vitetem,</l>
+                  <l>És élve öblös szirtüregbe zárom őt,</l>
+                  <l>Engesztelésül annyi ételt hagyva ott,</l>
+                  <l>Hogy a vérbüntől ment maradjon városunk.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_10">10)</ref>
+                  </l>
+                  <l>Hadd várjon aztán ott Hades segélyire,</l>
+                  <l>Kit egyedül tisztelt az istenek közül;</l>
+                  <l>S tanulja meg, bár későn, hogy felesleges</l>
+                  <l>Csupán Hadest tisztelni mindenek felett.</l>
+               </lg>
+               <lg>
+                  <l>(El.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Versszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh mindent győző szerelem!</l>
+                  <l>Oh Eros! ki szíveken úr vagy,</l>
+                  <l>S éjente látogatod rózsás</l>
+                  <l>Arczú leányka álmát;</l>
+                  <l>Bejárod a tengereket,</l>
+                  <l>Szállsz hegyen és völgyön.</l>
+                  <l>Tőled istenek el nem futhatnak,</l>
+                  <l>Rabbá teszed ember szivét,</l>
+                  <l>S vágytele lángra gyujtod.</l>
+               </lg>
+               <lg>
+                  <l>Ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Megrontod a jót s igazat,</l>
+                  <l>Nemes szivét bűnre tanítod:</l>
+                  <l>Te tépted el fia kebléről</l>
+                  <l>A szerető apát is.</l>
+                  <l> Szerelmet igér a leány,</l>
+                  <l>Szép szeme vágyakat ébreszt,</l>
+                  <l>Vágy ül a trónon, mondva itéletet:</l>
+                  <l>S küzdelem nélkül tiéd a diadal, Aphrodite!</l>
+                  <l>Oh gyász jelenet! szivem elszorul,</l>
+                  <l>Orczám könyeim özönébe borul,</l>
+                  <l>Nincs szó, kifejezni keservemet:</l>
+                  <l>Ime Antigonét látják szemeim,</l>
+                  <l>A sötét sir ölébe sietni.</l>
+               </lg>
+               <lg>
+                  <l>(Szolgák vezetik Antigonét a palotából.)</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Tekintsetek, oh! ide, honfiaim,</l>
+                  <l>Miként haladok</l>
+                  <l>Végső utamon,</l>
+                  <l>Mint nézem utolszor a nap sugarát,</l>
+                  <l>Ah legutolszor!</l>
+                  <l>Élve temet kebelébe Hades,</l>
+                  <l>Acheron partjain élve kötök ki.</l>
+                  <l>Hymen éneke nem köszönt,</l>
+                  <l>Menyasszonyi virágkoszorú</l>
+                  <l>Nem ékesít,</l>
+                  <l>Acheron az én jegyesem.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>De fény koronázza dicső sirodat,</l>
+                  <l>Szép ara, mosolygva fog át a halál.</l>
+                  <l>Nem kór keze volt, mely ásta sirod,</l>
+                  <l>Nem volt boszuló kar pallosa sem;</l>
+                  <l> Nem, élve fogad keblébe a föld,</l>
+                  <l>Temetésedet élve kiséred.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>A Sipylos ormán igy ére halált</l>
+                  <l>Tantalos szülötte,</l>
+                  <l>A phrygiai lány;<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_11">11)</ref>
+                  </l>
+                  <l>Repkény borította szirtek alatt</l>
+                  <l>Könyárja soha el nem apad.</l>
+                  <l>Zápor veri untalanul,</l>
+                  <l>– A rege igy szól –</l>
+                  <l>Fagyos hó fedi arczát,</l>
+                  <l>S keblére szemének örök</l>
+                  <l>Harmata hull.</l>
+                  <l>Engem is igy ölel át a halál.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Istennő volt ő, égi szülött.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_12">12)</ref>
+                  </l>
+                  <l>Por gyermeke vagy te, szüle a föld:</l>
+                  <l>Boldog te, ki isteni végre jutál,</l>
+                  <l>Osztozva isteni sorson.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! mi gyáva guny!</l>
+                  <l>Őseim istenire,</l>
+                  <l>Mért gunyol ajkatok,</l>
+                  <l>Mielőtt siromba leszállnék?</l>
+                  <l> Oh város, s ti hazám</l>
+                  <l>Hatalmas polgárai!</l>
+                  <l>És te</l>
+                  <l>Dirkei forrás, te szekérdus</l>
+                  <l>Theba ligetje!</l>
+                  <l>Tekintsetek ide és tegyetek</l>
+                  <l>Rólam örök bizonyságot,</l>
+                  <l>Mint szállok alá siratatlanul</l>
+                  <l>Sötét sziklasiromba.</l>
+                  <l>Boldogtalan én!</l>
+                  <l>Élve nem élek, halni nem értek,</l>
+                  <l>Nincs sem a földön, sem alatta honom.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Elragadott daczos érzeted,</l>
+                  <l>S az örök jogot merész kezed</l>
+                  <l>Megingatá, szegény leány!</l>
+                  <l>Atyád sorsában osztozol te.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Ah! felszakitád szivem legfájóbb sebét:</l>
+                  <l>Boldogtalan Oedipus átkát,</l>
+                  <l>Mely a dicső</l>
+                  <l>Labdakidák törzsét</l>
+                  <l>Feldulja, kiirtja tövig.</l>
+                  <l>Jaj! jaj!</l>
+                  <l>Átok a násznyoszolyán, hol a bűnös anya</l>
+                  <l>Fiának ah! neje lett,</l>
+                  <l>S engem szüle, boldogtalant,</l>
+                  <l>Ki átkom alatt, hajadon fővel</l>
+                  <l> Most meghalok.</l>
+                  <l>Oh jaj!</l>
+                  <l>Boldogtalan, oh testvér, a te nászod is!</l>
+                  <l>Halálod által</l>
+                  <l>Engem is megöltél.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_13">13)</ref>
+                  </l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Holtjaidat tisztelheted;</l>
+                  <l>Ám ha a törvényt megveted,</l>
+                  <l>Leterit bosszuló karjával:</l>
+                  <l>Bukásod ére bűnöd által.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Nem sirat jó barát, egyedül</l>
+                  <l>Haladok a sötét sír felé.</l>
+                  <l>A ragyogó nap nem ragyog én nekem immár,</l>
+                  <l>Nem, soha többé!</l>
+                  <l>Nincs, ki felettem könnyeket áldoz.</l>
+               </lg>
+               <lg>
+                  <l>(Kreon föllép.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ki ne sóhajtna, sirna a halál előtt,</l>
+                  <l>Ha tudná, hogy sirása hasznos lesz reá?</l>
+                  <l>El gyorsan hát vele! S ha majd a szirtüreg</l>
+                  <l>Ölébe zárta már, miként parancsolám:</l>
+                  <l> Hagyjátok a magányban, hadd haljon meg ott,</l>
+                  <l>Vagy befalazva éljen még néhány napot.</l>
+                  <l>Halálaért a bűn ne szálljon én reám;</l>
+                  <l>Csupán a napvilágtól fosztom meg szemét.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Oh sir, oh nászterem, oh földalatti bolt,</l>
+                  <l>Oh börtön, mely örökre zord öledbe zársz!</l>
+                  <l>Te nyitsz utat nekem enyéimhez, kiket</l>
+                  <l>Az árnyvilágba gyűjte Persephassa már;</l>
+                  <l>Utolsó köztük én, közöttük már helyem,</l>
+                  <l>Meg sem haltam s holttá tesz szörnyü végzetem.</l>
+                  <l>De édes a remény, mely útamon kisér:</l>
+                  <l>Örömmel zársz kebledre ott lenn, oh atyám!</l>
+                  <l>S te jó anyám, s te drága testvér jól fogadsz!</l>
+                  <l>Mert megmosám, megszentelém holt testetek,</l>
+                  <l>Saját kezemmel ékesítve helyezém</l>
+                  <l>A sirba. És most, Polynikes, mert veled</l>
+                  <l>Hasonlót tettem, vesznem kell jó tettemért.</l>
+                  <l>Pedig dicséretet mond érte rám a bölcs.</l>
+                  <l>Volnék anya, ki elhunyt magzatot sirat,</l>
+                  <l>Vagy volnék hitves s látnám férjem hamvait:</l>
+                  <l>A törvény ellen nem lázadtam volna fel.</l>
+                  <l>S miért tevém most, mit nem tennék máskoron?</l>
+                  <l>Az elhunyt férj helyett találnék másikat,</l>
+                  <l>Szülnék más gyermeket, ha egyik elveszett;</l>
+                  <l>De más testvért többé nem kaphatok soha,</l>
+                  <l>Ha már apám, anyám Hadeshez költözött.</l>
+                  <l>Ezért nyujtám a végtisztességet neked,</l>
+                  <l>Oh drága testvér! és ezért büntet Kreon</l>
+                  <l>Legaljasabb gonosztevőként engemet;</l>
+                  <l>Ezért ragad meg s hurczol a sirbolt felé,</l>
+                  <l>Ki férjet még nem ismerék, sem nászi dalt,</l>
+                  <l>Sem azt az áldást, melyet adnak gyermekek;</l>
+                  <l> Nem, élve, elhagyatva és örömtelen</l>
+                  <l>Kell most hideg, sötét síromba szállanom!</l>
+                  <l>Mely isteni törvény az, melyet megszegék?</l>
+                  <l>Vagy ah! szegény, miért is emelem szemem</l>
+                  <l>Az istenekhez? Kit hivjak segélyül én?</l>
+                  <l>Hisz jámborságom hozza rám e büntetést!</l>
+                  <l>Igen, ha kedves a nagy istenek előtt,</l>
+                  <l>Mit ellenségim tesznek: úgy bünös vagyok;</l>
+                  <l>De ha vétkeztek: úgy őket se érje több</l>
+                  <l>Csapás, mint mennyit jogtalan rám mértenek!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Még dúl a vihar untalanul,</l>
+                  <l>A lány daczos heve nem csillapul.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ki a késedelem oka volt:</l>
+                  <l>Őrizete majd sirva lakol.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Jaj! boszús szavadból látom,</l>
+                  <l>Itt a halálom.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ne csaljon a kába remény,</l>
+                  <l>Itéletemet vissza nem veszem én.</l>
+               </lg>
+               <lg>
+                  <l>ANTIGONE.</l>
+               </lg>
+               <lg>
+                  <l>Oh Theba, szülőföldem!</l>
+                  <l>Oh honom istenei!</l>
+                  <l>Im, elragad a vad erőszak.</l>
+                  <l>Theba nagyjai, lássatok engem,</l>
+                  <l>Végsarját a királyi törzsnek,</l>
+                  <l>Mily sorsra itéle ez ember,</l>
+                  <l>Testvéri szerelmem jutalmaul!</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">(A szolgák elhurczolják.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Ércztorony fala közt Danaë egykor</l>
+                  <l>Börtönben epedett, messze a napsugártól,</l>
+                  <l>A sir éje borult rá, örökös bilincsek közt.</l>
+                  <l>Pedig atyja király volt, nemes a törzse,</l>
+                  <l>S méhében viselé Zeus aranyos áradatát.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_14">14)</ref>
+                  </l>
+                  <l>Oh mily rettenetes a te kezed, végzet!</l>
+                  <l>Nem futhat előled kincs, erő,</l>
+                  <l>Sem büszke tornyok, sem sötét hajók</l>
+                  <l>Viharos tenger árján.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Dyras büszke fiát bősz Dionysos</l>
+                  <l>Sziklához kötözé a meredek ormokon,</l>
+                  <l>Lesujtván a merészt gúnyjai büntetéseül.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_15">15)</ref>
+                  </l>
+                  <l>Igy dönt meg sok erőst lelke hiú vágya!</l>
+                  <l>Ő is megtanulá: nem szabad isten boszuját</l>
+                  <l>Őrülten s daczosan hivni ki embernek.</l>
+                  <l>Feldulta a szent nők tánczsorát,</l>
+                  <l>Gunyolta Evios lángoló tüzét<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_16">16)</ref>
+                  </l>
+                  <l>S a fuvolás muzsákat.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_17">17)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Hol a kyanei tengeriker<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_18">18)</ref> zaja vet habot,</l>
+                  <l>Hol a Bosporos árja locsolja a thrák Salmydest:<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_19">19)</ref>
+                  </l>
+                  <l>Nagy Ares, e föld</l>
+                  <l>Istene ott látta Phineus két fiát</l>
+                  <l>Iszonyú sebével.</l>
+                  <l>Elvette szemeik ragyogó fényét,</l>
+                  <l>A gonosz mostoha vérfedte kezével,</l>
+                  <l>Gyilkos orsó volt a fegyver,</l>
+                  <l>Mely kiölé szemök világát.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_20">20)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>És siralomba, keservbe merűlve igy</l>
+                  <l>Vesztenek el nyomorultan.</l>
+                  <l>Boldogtalan, a ki szülte, anyjuk!</l>
+                  <l>Bár ősi fajából született a dicső Erechteusnak:<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_21">21)</ref>
+                  </l>
+                  <l>A viharok nevelték ős barlangokban,</l>
+                  <l>Atyja, a Boreas oktatá futó ménen.</l>
+                  <l> Istenek szülötte volt ő:</l>
+                  <l>Ám az ősi Moera<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_22">22)</ref> hatalma</l>
+                  <l>Mégis elérte, lányom!<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_23">23)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>(Tiresias föllép. Egy gyermek kezénél fogva vezeti.)</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Ketten jövünk egyszerre, Theba nagyjai!</l>
+                  <l>Egynek szemével látva ketten; mert a vak</l>
+                  <l>Kalauz nélkül nem haladhat útjain.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Mi hirt hozál számunkra, ősz Tiresias?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Elmondom tüstént, csak fogadd a jós szavát.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Soh’ sem vetém meg eddig jó tanácsodat.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Azért kormányzod boldogul országodat.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Szerencse jár velem mindenben, mondhatom.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Vigyázz, szerencséd szédítő magasra ért.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi történt? Borzalommal tölt el jósigéd.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Halld meg tehát, mit a jelekből láttam én.</l>
+                  <l>Ülvén madárvizsgáló régi székemen,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_24">24)</ref>
+                  </l>
+                  <l>Hol egybegyül a szárnyasok minden faja:</l>
+                  <l>Eddig nem hallott hang ütötte meg fülem,</l>
+                  <l>Vadul sivító és rikoltó hangzavar;</l>
+                  <l>És hallám, egymás tollait mint tépdesék</l>
+                  <l>Gyilkos karmokkal; szárnyaik csattogtanak.</l>
+                  <l>Rémülten megvizsgáltam rögtön a tüzet</l>
+                  <l>Az izzó oltáron; de nem lobbant fel ott</l>
+                  <l> Hephæstos lángja; nem, olvadtan szétömölt</l>
+                  <l>A czombok zsirja pislogó hamu között,</l>
+                  <l>Füstölt, szikrákat hányt; a szétpattant epe</l>
+                  <l>Köröskörűl fecskendett; és a csontok ott</l>
+                  <l>Hevertenek, lehámlott zsirtól meztelen.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_25">25)</ref>
+                  </l>
+                  <l>E gyermek ajkiról hallám, hogy jeltelen</l>
+                  <l>S eredmény nélkül hamvadt el az áldozat;</l>
+                  <l>Mert ő vezérel engem, mint én másokat.</l>
+                  <l>Te vagy, kiért az átok e városra szállt!</l>
+                  <l>Mert meg van fertőztetve minden tüzhelyünk</l>
+                  <l>S oltárunk, madarak s ebek zsákmányival,</l>
+                  <l>Melyek széttépték Oedipus szegény fiát.</l>
+                  <l>El nem fogadják tőlünk már az istenek</l>
+                  <l>Imáinkat, sem égő tomporok tüzét;</l>
+                  <l>Nem száll fölöttünk jó jelekkel a madár,</l>
+                  <l>Mely a meggyilkolt véréből lakmározott.</l>
+                  <l>Vedd ezt szivedre, oh fiam! Hiszen közös</l>
+                  <l>Sorsunk mindannyiunknak, hogy tévedhetünk:</l>
+                  <l>De a ki téved, nem lesz az boldogtalan.</l>
+                  <l>Ha bünbánólag helyrehozza a hibát,</l>
+                  <l>S bünéhez önfejűen nem ragaszkodik.</l>
+                  <l>De a makacsság mindig gyönge ész jele.</l>
+                  <l>Ne gyülöld hát a holtat, ne gyilkold meg őt!</l>
+                  <l>Mi hősiség van abban, ölni holtakat?</l>
+                  <l>Jó szándékkal jót mondok; nincsen édesebb.</l>
+                  <l>Mint bölcs tanácsból jó hasznot meríteni.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mindnyájan engem vesztek czélba, oh öreg!</l>
+                  <l>Mint nyillövő a táblát; még a jóslat is</l>
+                  <l>Fegyver lesz ellenem; tudom, rég eladott</l>
+                  <l>És elharácsolt e papfajzat engemet.</l>
+                  <l>Ám űzérkedjetek, ha tetszik, sardisi</l>
+                  <l>Borostyánkővel, ind aranynyal szabadon;</l>
+                  <l> De e halottat sirba mégsem teszitek,</l>
+                  <l>Nem, akkor sem, ha Zeus sasa ragadja el</l>
+                  <l>És prédaként királyi trónjához viszi:</l>
+                  <l>E förtelem sem birná arra lelkemet,</l>
+                  <l>Hogy eltemessem őt, hisz istent – jól tudom –</l>
+                  <l>Az ember tette meg nem fertőztetheti.</l>
+                  <l>De annyit mondok, ősz Tiresias! hogy a</l>
+                  <l>Legbölcsebb ember is gyakran nagyot bukik,</l>
+                  <l>Ha a gonoszságot szépíti haszonért.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Ah!</l>
+                  <l>Ha tudja azt az ember; ha belátja azt –</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mit? Mit jelent ez általános mondatod?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy minden jó közt legfőbb jó az értelem.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mint balgaság legrosszabb minden rossz között.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>És épen e betegség bántja lelkedet.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>A jóst én nem gyalázom e gyalázatért.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>De megtevéd, hazugnak mondva jóslatom.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Kincsért sovárg a jósok összes fajzata.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>És a királyok szennyes önzés rabjai.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Tudod, hogy a király az, kivel így beszélsz?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Tudom. Tanácsom által mentéd meg hazánk.<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_26">26)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Bölcs látnok vagy, de a rossztól sem idegen.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Szivem rejtelmeit kitárni kényszerítsz.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Kitárhatod, csak ne a haszonért beszélj.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Haszonért szólok, ámde a te hasznodért.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ne gondold azt, hogy megvásárlod lelkemet.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Tudd meg tehát, nem fogja addig Helios</l>
+                  <l>Sokszor befutni égi útjának körét.</l>
+                  <l>Mikorra tenfajodnak egyik sarja lesz</l>
+                  <l>Halála által áldozat a holtakért;</l>
+                  <l>Mert e világból egy lelket kiüldözél,</l>
+                  <l>Szentségtörően élő sirba zárva őt,</l>
+                  <l>Mig egy halottat elragadsz az alvilág</l>
+                  <l>Urától, s testét eltemetni nem hagyod.</l>
+                  <l>Holtak felett nem birsz hatalmat sem te, sem</l>
+                  <l>Az égi istenek, kiket bántalmazál.</l>
+                  <l>Ezért lesnek reád, lihegve boszuért,</l>
+                  <l>Az égi és az alvilági istenek</l>
+                  <l>Furiái, hogy tenbünöddel sujtsanak.</l>
+                  <l>Meglátod nemsokára, pénzért szóltam-e?</l>
+                  <l>Nincs messze az idő, hogy nők és férfiak</l>
+                  <l>Siránkozása tölti majd be házadat.</l>
+                  <l>Mind föllázadnak ellened a városok,</l>
+                  <l>Hová ebek széthurczolák a csontokat,</l>
+                  <l>S hol a visitó orvmadár zsákmányai</l>
+                  <l>Megfertőztetve hintének halotti bűzt.</l>
+                  <l>Ez volt a nyil, mit bántalmadra válaszul,</l>
+                  <l>Haragvó lelkem íjászként szivedbe lőtt;</l>
+                  <l>S találni fog, tüzétől meg nem menekülsz.</l>
+                  <l>S most, gyermekem, vezess lakomba engemet</l>
+                  <l>Hadd öntse ifjabbakra e király dühét,</l>
+                  <l>S tanúlja meg heves nyelvét mérsékleni,</l>
+                  <l>És józanabbúl szólni, mint eddig tevé.</l>
+               </lg>
+               <lg>
+                  <l>(El.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Szörnyű jóslattal távozott e férfiú;</l>
+                  <l>Mióta barna fürtjeim megőszité</l>
+                  <l>Az aggkor, egyszer sem tapasztalám, hogy a</l>
+                  <l>Város hazug beszéden kapta volna őt.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Én is tudom, s megrendül rá egész valóm.</l>
+                  <l>Nehéz engedni, ámde sokkal súlyosabb</l>
+                  <l>Átkot viselni, ellenállva vakmerőn.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Okos tanácsra van most szükséged, Kreon!</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi hát tanácsod? Szólj! Én követem szavad.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Siess és mentsd ki sirboltjából a leányt,</l>
+                  <l>A holt testnek pedig adj tisztes temetést.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ezt tartod jónak? Engednem kell, azt hiszed?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Igen, s minél előbb, király! Az istenek</l>
+                  <l>Boszúja gyors léptekkel jár a bűn nyomán.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! Nincs már erőm a daczra, engedek:</l>
+                  <l>A végzet ellen harczra kelni nem merek.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Menj s tedd magad, ne bizzad más kezére azt.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>E nyomban ott leszek. Fel, fel, cselédjeim,</l>
+                  <l>Közel s távollevők, fejszét ragadva, fel!</l>
+                  <l>Siessetek az órjás sziklabolt felé!</l>
+                  <l>Én is megyek, s megfordult szándokom szerint,</l>
+                  <l>Magam oldom fel őt, kit megköték magam.</l>
+                  <l>Mert látom, legjobb megmaradni őseink</l>
+                  <l>Bevett szokási mellett éltünk végeig.</l>
+               </lg>
+               <lg>
+                  <l>(Szolgák sietve jönnek a palotából s Kreonnal elmennek.)</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Te gyönyöre, dísze a kadmosi szüznek,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_27">27)</ref>
+                  </l>
+                  <l>Te a dörgő Zeus fia, Istenünk,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_28">28)</ref>
+                  </l>
+                  <l>Te a ki őrized Italiát,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_29">29)</ref>
+                  </l>
+                  <l>Te ki bő kézzel adod áldásodat</l>
+                  <l>Ott, hol Deo<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_30">30)</ref> trónol:</l>
+                  <l>Áldj meg Bacchus!</l>
+                  <l>Ünnepeidet üli most,</l>
+                  <l>Áldva az Ismenos<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_31">31)</ref> partjain téged,</l>
+                  <l>A nép, melyet szüle a sárkány,</l>
+                  <l>A nép, melyet szüle a sárkány.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>A korykei nymphák<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_32">32)</ref> vig tánczai téged</l>
+                  <l>Üdvözlenek ott, hol a magas</l>
+                  <l>Két ormu hegyen fény gyúl;<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_33">33)</ref>
+                  </l>
+                  <l>Neked zuhog Kastalia,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_34">34)</ref>
+                  </l>
+                  <l>Repkényes Nysa<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_35">35)</ref> tégedet üdvözöl.</l>
+                  <l>Dalt zeng rád a mart,</l>
+                  <l>Zengnek a szőlőkoszorúzta hegyek.</l>
+                  <l>Vig dal harsog elédbe,</l>
+                  <l>Ha áthaladsz Theba virányán,</l>
+                  <l>Ha áthaladsz Theba virányán.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>ELSŐ KAR.</l>
+               </lg>
+               <lg>
+                  <l>Áldj meg Bacchus!</l>
+               </lg>
+               <lg>
+                  <l>MÁSODIK KAR.</l>
+               </lg>
+               <lg>
+                  <l>A többi felett</l>
+                  <l>Legkivált Thebát szereted,</l>
+                  <l>Mint villámütött<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_36">36)</ref> anyád szereté:</l>
+                  <l>Jövel hát! Nyomor átka érte</l>
+                  <l>Városodat, jövel, segitsd!</l>
+                  <l>Siess a két ormu hegy oldalán felénk.</l>
+                  <l>Vagy a tengereken keresztül!</l>
+                  <l>Áldj meg Bacchus!</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>MÁSODIK KAR.</l>
+               </lg>
+               <lg>
+                  <l>Áldj meg Bacchus!</l>
+               </lg>
+               <lg>
+                  <l>ELSŐ KAR.</l>
+               </lg>
+               <lg>
+                  <l>Te ki csillagok</l>
+                  <l>Ragyogó sorát vezeted,</l>
+                  <l>S éji dalra, tánczra hívsz,</l>
+                  <l>Istennek szülötte!</l>
+                  <l>Jer ujongva naxosi<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_37">37)</ref> pihegő nymphák között,</l>
+                  <l>Jer, jer!</l>
+                  <l> Az éjen át járjanak ittasult</l>
+                  <l>Tánczot körüled, nagy Iakchos isten!<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_38">38)</ref>
+                  </l>
+                  <l>Áldj meg, áldj meg Bacchus!</l>
+                  <l>Áldd meg, áldj meg Bacchus!</l>
+               </lg>
+               <lg>
+                  <l>(Hirmondó föllép.)</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Oh Kadmos népe, Amphion<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_39">39)</ref> polgárai!</l>
+                  <l>Bármily szerencse érje ember életét,</l>
+                  <l>Dicsérni vagy sajnálni nem tudnám soha.</l>
+                  <l>Mert a sors változó: lesujtja s emeli</l>
+                  <l>A boldogot ép úgy, mint a boldogtalant;</l>
+                  <l>Nincs jós, ki megmondhatná, mit hoz a jövő.</l>
+                  <l>Irigylendőnek tartám én eddig Kreont,</l>
+                  <l>Ki ellenségtől mogmenté Kadmos honát,</l>
+                  <l>Korlátlan úr volt az egész ország felett,</l>
+                  <l>S nemes szülöttek sarjai vevék körül.</l>
+                  <l>Oda már minden! Mert az ember addig él,</l>
+                  <l>Míg életét öröm deríti, és ha ez</l>
+                  <l>Elhagyta: úgy élő halottnak tartom őt.</l>
+                  <l>Betölthetik lakát a kincsek ezrei,</l>
+                  <l>Élhet királyi fényben: ám ha életét</l>
+                  <l>Öröm nem vidámítja, én jó kedvemet</l>
+                  <l>Oda nem adnám e hiú füst árnyaért.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Mi új balhirt jelentesz a király felől?</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Halált jelentek, melyet élők adtanak.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ki volt a gyilkos? Ki a meggyilkolt? Beszélj!</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ</l>
+               </lg>
+               <lg>
+                  <l>Haemon meghalt; nem idegen kéz ölte meg.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Kinek keze volt? Apjáé vagy az övé?</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Öngyilkossá lett apja gyilkosságaért.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Oh látnok, mily igaz volt szörnyü jóslatod!</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Jövőre nézve is szükséges jó tanács.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Im jő Eurydike, Kreon nemes neje;</l>
+                  <l>Ah a boldogtalan! Véletlenül jön-e,</l>
+                  <l>Vagy hallá már, mily balsors érte gyermekét?</l>
+               </lg>
+               <lg>
+                  <l>(Eurydike föllép; utána hölgyei, áldozati adományokkal.)</l>
+               </lg>
+               <lg>
+                  <l>EURYDIKE.</l>
+               </lg>
+               <lg>
+                  <l>Oh polgárok, minő hirt kelle hallanom,</l>
+                  <l>Midőn nagy Pallas templomába indulék,</l>
+                  <l>Hogy bemutassam ott forró imáimat!</l>
+                  <l>A várajtó zárát nyitám fel ép’ mikor</l>
+                  <l>Fülemhez ért a szörnyü balsors híre, mely</l>
+                  <l>Családomat sujtá; megdermedt hallatán</l>
+                  <l>Szivem s ájultan estem hölgyeim közé.</l>
+                  <l>De mégis, kérlek mondjátok még egyszer el.</l>
+                  <l>Szólhattok bátran, megszokám a szenvedést.</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Kedves királyném! hallgass meg, ki ott valék;</l>
+                  <l>Elmondok mindent, a valót nem titkolom.</l>
+                  <l>Mért áltatnálak síma szóval, hogy utóbb</l>
+                  <l> Hazug maradjak? Legjobb az igaz beszéd.</l>
+                  <l>A sik oromra kisértem föl férjedet,</l>
+                  <l>Hol Polynikes teste még földön hevert,</l>
+                  <l>Ebek fogától megcsonkitva iszonyún.</l>
+                  <l>Imádságunkkal kérve Plutót s Hekatét,<ref target="#5383649330766869969_64403-h-7.htm.html#Footnote_40">40)</ref>
+                  </l>
+                  <l>Hogy távolitsák el szörnyű haragjokat,</l>
+                  <l>Megmostuk szentelt vizben, és elégetők</l>
+                  <l>A testmaradványt fristörésü ágakon,</l>
+                  <l>Magas sirhantot hányva hamvai fölé</l>
+                  <l>A honi földből; azután a sziklasir</l>
+                  <l>Felé siettünk, mely a lány nászterme lett.</l>
+                  <l>Egyik kisérő hangos sirást halla most,</l>
+                  <l>Mely a megszenteletlen sirból tört elő;</l>
+                  <l>S azonnal megjelenté a királynak ezt.</l>
+                  <l>Hogy a közelbe értünk, tompa jajgatás</l>
+                  <l>Hangzott elénk, s zokogva sóhajtá Kreon:</l>
+                  <l>«Ah én boldogtalan! mi gyászos sejtelem</l>
+                  <l>Aggasztja szivem! Életem legszomorúbb</l>
+                  <l>Ösvénye ez, mely szörnyü kín felé vezet!</l>
+                  <l>Fiam hangját hallom! Fel, fel, cselédjeim!</l>
+                  <l>Sietve vizsgáljátok meg a sziklasirt,</l>
+                  <l>Tekintsetek be a barlangnyiláson át,</l>
+                  <l>Hadd tudjam, Hæmon hangja volt-e, vagy talán</l>
+                  <l>Elámiták az istenek hallásomat?</l>
+                  <l>Ugy tettünk, mint a bús király parancsolá;</l>
+                  <l>S benézve a barlangba, végső szegletén</l>
+                  <l>Ott láttuk légben függve a szegény leányt,</l>
+                  <l>Hurokba font finom fátyollal a nyakán,</l>
+                  <l>S Hæmont, ki kedvesét átfogva szorosan,</l>
+                  <l>Könyezve jajgatott a vesztett nász felett,</l>
+                  <l>Kesergve apja bűnén s a megölt arán.</l>
+                  <l>Ezt látva, kínosan sóhajtott a király,</l>
+                  <l>S hozzá sietve könnyek közt megszólitá:</l>
+                  <l>«Mit tettél, oh boldogtalan! Mi szándokod?</l>
+                  <l>Mi balvégzet hozá e helyre léptedet?</l>
+                  <l>Jer innen, oh fiam! Térdelve kérlek én!»</l>
+                  <l>Ám vad tekintetet vetett rá a fiú,</l>
+                  <l> Arczát eltorzitá a daczos, néma gúny,</l>
+                  <l>S kirántá két élű kardját; de gyors futás</l>
+                  <l>Megmenté atyja éltét; ekkor ah! dühét</l>
+                  <l>Önnön magára forditván, önoldalát</l>
+                  <l>Döfé át éles kardjával; s eszmélve még</l>
+                  <l>Bágyadt karjával átfogá a holt arát;</l>
+                  <l>Föléje hajlott aztán, s véglehellete</l>
+                  <l>A halvány arczot vérbiborral vonta be.</l>
+                  <l>Holtan nyugszik már a halottnak oldalán,</l>
+                  <l>S menyegzőjét Hades lakában tartja meg,</l>
+                  <l>Halandó emberek intő példájaul,</l>
+                  <l>Hogy minden baj közt legnagyobb a dőreség.</l>
+               </lg>
+               <lg>
+                  <l>(Eurydike kiséretével el a palotába.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ah mit jelent ez? A királyné hirtelen,</l>
+                  <l>Jó, rossz szó nélkül megfordulva távozott.</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Én is csodálkozom; de biztat a remény,</l>
+                  <l>Azért rohant csak el, nehogy keserveit</l>
+                  <l>Egész város hallgassa; ott benn hölgyei</l>
+                  <l>Között akarja megsiratni holt fiát.</l>
+                  <l>Nem lesz oly esztelen, hogy bűnt kövessen el.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ki tudja? A nagyon mély, néma hallgatás</l>
+                  <l>Ép’ oly vészjósló, mint a nagy siránkozás.</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Megyek hát s megvigyázom: nem rejt-e szive</l>
+                  <l>Elfojtott néma fájdalmában romboló</l>
+                  <l>Vihart? Igazság volt, mit monda ajkatok:</l>
+                  <l>Nagyon mély hallgatás gyakran veszélyt jelent.</l>
+               </lg>
+               <lg>
+                  <l>(El a palotába.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Itt jő a király maga, karjaiban</l>
+                  <l>Fia holt tetemét hozza zokogva;</l>
+                  <l>Saját büne volt, mely sujtja fejét.</l>
+                  <l>Kimondom e szót szabadon már.</l>
+               </lg>
+               <lg>
+                  <l>(Kreon jő, Haemon holttestével; utána szolgái.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj!</l>
+                  <l>Oh esztelen ész! oh gyász hiba</l>
+                  <l>Vad szigora!</l>
+                  <l>Nézzétek a gyilkos apát, ki megölte fiát!</l>
+                  <l>Oh üdvtelen érzetem átka!</l>
+                  <l>Fiam, fiam, nyiltában tört virágom!</l>
+                  <l> Jaj! jaj! jaj! jaj!</l>
+                  <l>Én öltelek meg,</l>
+                  <l>Nem volt a te hibád!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ah fájdalom! későn látod be a helyest.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj!</l>
+                  <l>Gyötrelmeim immár megtanítottak!</l>
+                  <l>De fejemre az ég boszuja sujta elébb,</l>
+                  <l>Kétségbeesésbe riasztva szivem, –</l>
+                  <l>Oh jaj!</l>
+                  <l>S eltaposá éltem gyönyörét!</l>
+                  <l>Oh kin! Oh emberi kába remény!</l>
+               </lg>
+               <lg>
+                  <l>(A szolga jő a palotából.)</l>
+               </lg>
+               <lg>
+                  <l>SZOLGA.</l>
+               </lg>
+               <lg>
+                  <l>Csapás után ujabb csapás ér, oh király!</l>
+                  <l>Egyik gyötrelmedet karodban hurczolod,</l>
+                  <l>S a palotában új kín tőre les reád.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi új baj érhet, a mi ennél is nagyobb?</l>
+               </lg>
+               <lg>
+                  <l>SZOLGA.</l>
+               </lg>
+               <lg>
+                  <l>Nőd meghalt, most ölé meg frissen vert sebe;</l>
+                  <l>Nagyon szerette gyermekét s utána halt.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj!</l>
+                  <l>Oh Hades boszuért lihegő</l>
+                  <l>Torka, tied vagyok én!</l>
+                  <l>Tudsz egyebet még, oh balsors hirnöke, szólj!</l>
+                  <l>Jaj! jaj!</l>
+                  <l>Halott vagyok s újra megölsz!</l>
+                  <l>Szólj, mit akarsz? Mi csapást tudsz még?</l>
+                  <l>Jaj! jaj! jaj! jaj!</l>
+                  <l>Nem mese hát? Önkeze ölte meg</l>
+                  <l>A szerető drága nőt?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Tekints oda magad, a ház nem rejti már.</l>
+               </lg>
+               <lg>
+                  <l>(A palota ajtaja kitárul. Eurydike holtteste látszik.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj!</l>
+                  <l>Uj gyötrelmet, borzalmat látok itt, szegény!</l>
+                  <l>Mily kinokat hoz még számomra a sors?</l>
+                  <l>Karomban tartom a meggyilkolt gyermeket,</l>
+                  <l>S ott látom ah! anyja merev tetemét!</l>
+                  <l>Ah szegény anya! Ah fiam!</l>
+               </lg>
+               <lg>
+                  <l>SZOLGA.</l>
+               </lg>
+               <lg>
+                  <l>Ott roskadott le a házoltár zsámolyán,</l>
+                  <l>Sötét éj fogta el szemét; megsiratá</l>
+                  <l>Magareus sorsát, kit előbb sujtott halál:</l>
+                  <l>Aztán Hæmon fiát; majd szörnyü átkokat</l>
+                  <l>Mondott reád, ki meggyilkoltad gyermekit.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Jaj! jaj! jaj! jaj!</l>
+                  <l>Rettegés fog el!</l>
+                  <l>Mért nem döfi senki szivembe kardját?</l>
+                  <l>Gyötrelmimnek éjjelén,</l>
+                  <l>Kinjaim közt nézzetek</l>
+                  <l>Engem, ah!</l>
+               </lg>
+               <lg>
+                  <l>SZOLGA.</l>
+               </lg>
+               <lg>
+                  <l>Mindkét fiának fájdalmas halálaért</l>
+                  <l>Nőd haldokolva is még téged vádola.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ah szólj, miként ragadta őt el a halál?</l>
+               </lg>
+               <lg>
+                  <l>SZOLGA.</l>
+               </lg>
+               <lg>
+                  <l>Saját kezével szúrta át szivét, mihelyt</l>
+                  <l>Meghallá gyermekének gyászos végzetét.</l>
+               </lg>
+               <lg>
+                  <l>KREON,</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj, jaj! Senki e földön,</l>
+                  <l>Csak én vagyok, én, mindennek oka!</l>
+                  <l>Én voltam az ah, ki megöltelek,</l>
+                  <l>Én, senki más!</l>
+                  <l>Ide, szolgák! Vezessetek el!</l>
+                  <l>Vigyetek innen!</l>
+                  <l>Mert semminél kevesebb vagyok!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Vigaszt keressz, ha szenvedésben van vigasz:</l>
+                  <l>Hol a bánat rövid, kisebb a fájdalom.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Jövel, jövel!</l>
+                  <l> Boldog nap hajnala, jer,</l>
+                  <l>Mely engem örökre megszabaditsz!</l>
+                  <l>Várva-várt végem, jövel,</l>
+                  <l>Ne lássa szemem a kelő napot!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Bizd a jövőre ezt, most a jelennek élj:</l>
+                  <l>Jövő gondját hagyd arra, kit megillet az.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Azért könyörgék csak, miért szivem eped.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Miért könyörgesz? A ki porban született,</l>
+                  <l>Soha ki nem kerüli az a végzetet.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Vigyetek innen, engem esztelent,</l>
+                  <l>Ki megöltem a nőt s a gyermeket –</l>
+                  <l>Ah! nem akarva. Jaj nekem, hová,</l>
+                  <l>Melyikre nézzek? Melyik ad vigaszt?</l>
+                  <l>Hajh! gyászba borult körülöttem a lét,</l>
+                  <l>Megölte a végzet e sziv örömét.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">(Elvezetik.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ha üdvöt akarsz ez életen át:</l>
+                  <l>Legyen ész vezetőd,</l>
+                  <l>S ne sértsd meg az istenek égi jogát.</l>
+                  <l>A merész fölemelt szava visszaesik,</l>
+                  <l>Lesujtva reá;</l>
+                  <l>Míg a botort okulásra hozza az aggkor.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>Jegyzetek antigonehoz.</head>
+               <p rend="justify">
+                  <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_1">1.</ref> Dirke forrása Theba mellett volt. A mythologia szerint Lykos thebai király neje volt; az anyján elkövetett kegyetlensége miatt forrássá változott.</p>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_2">2.</ref> Adrastos, az argosi sereg vezére, kinek fehér pajzsa volt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_3">3.</ref> A thebaiak, kik a Kadmos által elszórt sárkányfogakból származtak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_4">4.</ref> Nike, a diadal istennője.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_5">5.</ref> Bakchos, ki a tánczmenetet vezeti, lábával dobog a földön, pede terram quatit.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_6">6.</ref> Ki temetetlen holttestet látott s nem fedte be földdel, átkot vont magára.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_7">7.</ref> A tűzpróbának mindkét neme megvolt a régieknél.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-4.htm.html#FNanchor_8">8.</ref> Az áldozatoknál rendesen bort, mézet és tejet öntöttek ki.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_9">9.</ref> Thraciát tartották a szelek hazájának.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_10">10.</ref> Kreon elevenen eltemetteti Antigonét, de nem akarja azonnal kitenni az éhhalálnak, azt vélve, hogy így ő és városa ment lesz a vérontás bünétől.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_11">11.</ref> Niobe, ki gyermekeinek halála fölött való fájdalmában, örökkön könnyező szirtté változott.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_12">12.</ref> Tantalos, Niobe atyja, Zeus fia volt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_13">13.</ref> Polynikest érti, ki Adrastos leányát nőül vette, s ezáltal módjában volt hadat indítni Theba ellen, melynek következménye lett a többi szerencsétlenség.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_14">14.</ref> Danaë atyja, Akrisios, azon jóslatot vette, hogy unokája keze által fog meghalni. Hogy ezt meggátolja, leányát ércztoronyba zárva őrizte; de Zeus aranyeső alakjában behatolt ide s Danaëval Perseust nemzette.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_15">15.</ref> Lykurgos, Dryas fia, thraciai király, kiűzte a bacchansnőket, kik országába be akarták vinni Dionysos tiszteletét. A megsértett isten boszúból szirtüregbe zárta, hol éhen kellett meghalnia.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_16">16.</ref> A Thyiadok, kik égő fáklyát lobogtatva Evoét kiáltottak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_17">17.</ref> A muzsák eredetileg Apollo kisérői voltak, később Bakchosé is.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_18">18.</ref> Két sziget a Bosporus torkolatánál.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_19">19.</ref> A két szigetnél kezdődik a salmydessosi sivatag partvidék, hol Aresnek temploma volt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_20">20.</ref> Phineus, thrák király, első neje, Kleopatra, halála után ujból megnősült. Második neje két mostoha fiát Pandiont és Plexippost megvakította s éhen vesztette el.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_21">21.</ref> Erechteus atyja volt Oreithyiának, kit Boreas elragadott. Kleopatra Boreas és Oreithyia leánya.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_22">22.</ref> A végzet istennője.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-5.htm.html#FNanchor_23">23.</ref> Antigonét érti. Az ő sorsának láttára sorolta elő a kar a fönnebbi példákat, melyekből kitűnik, hogy a végzet hatalmát senki sem kerülheti el, bármily fényes törzsből származott legyen.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_24">24.</ref> Tiresias volt a madárjóslat feltalálója.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_25">25.</ref> Az áldozat kétszeresen hájba burkolt czombcsontokból állott, melyekhez még epét s más darabokat tettek.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_26">26.</ref> Tiresias tanácsolta volt Kreonnak, hogy fiát Megareust feláldozza; s ezáltal megmentette Thebát az ellenségtől.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_27">27.</ref> Semele, Kadmos leánya, Dionysos anyja.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_28">28.</ref> Dionysos (Bakchos), Theba védistene.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_29">29.</ref> Italia, melynek déli részét görög gyarmatosok lakták, s leginkább kitüntek a bortermelésben, ezért Bacchus tisztelete, kiválóan virágzott náluk. A mythos szerint, midőn Bacchus a tyrrheniek ellen vonult, kisérőinek egy része hátramaradt Itáliában s meghonosítá ott a szőlőtermelést.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_30">30.</ref> Deo, a római Ceres. Eleusisban temploma volt, innen származott eleusisi mellékneve.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_31">31.</ref> Folyó Theba mellett.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_32">32.</ref> A korykei nymphák a Parnassos tövén levő barlangban laktak, melyet Pan és Dionysos gyakran látogattak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_33">33.</ref> A kétormú hegy a Parnassos, melynek ormán gyakran látszott lángok lobogása.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_34">34.</ref> Forrás a Parnassos tövében.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_35">35.</ref> Nysa nevét több város viseli, melyeket Dionysos épített. Itt az eubœai Nysáról van szó.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_36">36.</ref> Semele, ki Zeust kérte, hogy villámával jelenjen meg előtte. Zeus megtette kívánságát, de Semelét a villám halálra sujtá.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_37">37.</ref> Naxos sziget, a bakchosi tisztelet egyik székhelye, hol ez isten Ariadnét találta s nőül vette.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_38">38.</ref> Bakchos, az eleusisi mysteriumok uralkodó istene, mint ilyen Iakchos nevet visel.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_39">39.</ref> Amphion, Zeus és Antiope fia, ki Theba falait építette.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#5383649330766869969_64403-h-6.htm.html#FNanchor_40">40.</ref> Pluto az alvilág, Hekate az útak istennője. Ezek voltak megsértve Polynikes holttestének kitétele által, ezeket kellett tehát megengesztelni.</l>
+               </lg>
+               <div type="div3">
+                  <head>Javítások.</head>
+                  <p rend="justify">Az eredeti szöveg helyesírásán nem változtattunk.</p>
+                  <lg>
+                     <l>A nyomdai hibákat javítottuk. Ezek listája:</l>
+                  </lg>
+                  <table rend="frame" xml:id="Table1"> 
+                     <row>
+                        <cell>
+                           <ref target="#5383649330766869969_64403-h-4.htm.html#Page_18">18</ref>
+                        </cell> 
+                        <cell>Kedv nelkül</cell> 
+                        <cell>Kedv nélkül</cell>
+                     </row> 
+                     <row>
+                        <cell>
+                           <ref target="#5383649330766869969_64403-h-5.htm.html#Page_37">37</ref>
+                        </cell> 
+                        <cell>magadtol</cell> 
+                        <cell>magadtól</cell>
+                     </row> 
+                     <row>
+                        <cell>
+                           <ref target="#5383649330766869969_64403-h-5.htm.html#Page_53">53</ref>
+                        </cell> 
+                        <cell>Es siralomba</cell> 
+                        <cell>És siralomba</cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

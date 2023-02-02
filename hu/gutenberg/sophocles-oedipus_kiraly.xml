@@ -1,0 +1,4373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oedipus király</title>
+            <author>Sophocles</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-06T15:24:43Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-20T11:16:36.404150415</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Oedipus király</head>
+         <author>Sophocles</author>
+         <p rend="italic">2022-09-29T22:12:10.248063+00:002021-08-21</p>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg>
+            <l>SOPHOKLES.</l>
+         </lg>
+         <lg>
+            <l>*</l>
+         </lg>
+         <div type="div1">
+            <head>Oedipus király</head>
+            <p rend="center">FORDÍTOTTA</p>
+            <p rend="center">CSIKY GERGELY.</p>
+            <p rend="center">HARMADIK KIADÁS.</p>
+            <p rend="center"> </p>
+            <p rend="center"> </p>
+            <p rend="center">BUDAPEST.</p>
+            <p rend="center">FRANKLIN-TÁRSULAT</p>
+            <p rend="center">MAGYAR IRODALMI INTÉZET ÉS KÖNYVNYOMDA.</p>
+            <p rend="center">1904.</p>
+            <lg/>
+            <div type="div2">
+               <head>Személyek</head>
+               <lg>
+                  <l>Oedipus.</l>
+                  <l>Pap.</l>
+                  <l>Kreon.</l>
+                  <l>Kar: thebai aggastyánok.</l>
+                  <l>Tiresias.</l>
+                  <l>Jokaste.</l>
+                  <l>Korinthi követ.</l>
+                  <l>Pásztor.</l>
+                  <l>Hirmondó.</l>
+               </lg>
+               <p rend="justify">FRANKLIN-TÁRSULAT NYOMDÁJA.</p>
+            </div>
+            <div type="div2">
+               <head>Bevezetés</head>
+               <p rend="justify">Laïos, Theba királya sok éven át élt Jokaste nejével gyermektelen házasságban. A delphii Apollóhoz fordultak végre s tőle azon választ nyerték, hogy gyermekök fog ugyan születni, de ez apjának gyilkosa s anyjának férje lesz. Megszületett a gyermek; szülei a szörnyü jóslattól való félelmökben egyik hű szolgájoknak adták át, hogy Kithæron hegyén kitegye; de a szolga szánalomból nem veszíté el a gyermeket, hanem átadá egy ismerős korinthi pásztornak, ki hazájába vitte s Polypos királynak ajándékozta. A gyermektelen király örökbe fogadta a fiut, kit dagadt lábáról Oedipusnak nevezett. A fiu, Polypos gyermekének tartva magát, derék ifjúvá nőtt. Egy korinthi ember sértő szavára kételkedni kezdvén származása felől, nem elégedett meg vélt szülei feleletével, hanem Delphibe ment, bizonyosat hallani eredetére nézve. A jósda erről nem világosítá ugyan fel, de azon választ adá, hogy egykor atyját megöli s anyját nőül veszi.</p>
+               <p rend="justify">Nehogy ez teljesüljön, nem mert visszatérni Korinthba, hanem idegen földeken bolyongott szüntelen. Ez útja közben Daulia táján találkozott Laïossal, kinek kocsisa a gyalog Oedipust durván félrelöké az útból, miből verekedés támadt s Oedipus mind Laïost, mind kísérőit, egynek kivételével, megölte. Nem sejtve atyját a megölt aggastyánban, tovább haladt s Thebába érkezett hol a nép nagy zavarban és aggodalomban volt. Mert a város kapuja előtt megjelent a sphinx, a felül szűz, alul oroszlán alakú szárnyas szörnyeteg. Rejtett szavakat adott fel a város lakóinak, s mindenkit meggyilkolt, ki hozzá közeledett, mert senki sem tudta azokat megoldani. A királyi trón s az özvegy királyné keze volt annak igérve, ki a várost megmenti e szörnyetegtől. Oedipus vállalkozott erre. A sphinx e rejtett szót adá fel: «Mi az, mi reggel négy lábon, délben kettőn, este hármon jár?» Oedipus megoldá: «Az ember» – s a sphinx legyőzetve lebukott sziklájáról és a város megszabadult. Oedipus elnyerte Jokaste kezét és Theba királyi trónját.</p>
+               <p rend="justify">Több év mulva, midőn már négy gyermeke Polynikes, Eteokles, Antigone és Ismene született e házasságból, az istenek megsokallták a vérbűnt és fertőzetet, s pusztító dögvészt küldöttek a városra. A nép nagy csoportokban tódult az oltárakhoz, szabadulásért könyörögve; Oedipus pedig elküldé Kreont, Jokaste bátyját, Delphibe, hogy Apollótól kérjen tanácsot e csapás megszüntetésére – s itt kezdődik a tragédia cselekvénye.</p>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>Oedipus király</head>
+               <lg/>
+               <lg/>
+               <p rend="italic">(A háttérben a királyi palota. Oldalt csarnokok, elül oltárok és szobrok. A lépcsőkön aggastyánok és gyermekek, részint ülve, részint állva; mindegyik kezében olajfalomb, melyet az oltár felé lehajtva tartanak. A csoport közepén áll a pap. Oedipus kilép a palotából.)</p>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, gyermekek, ős Kadmos<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_1">1)</ref> ifju sarjai,</l>
+                  <l>Mért gyültök össze itt e lépcsők fokain,</l>
+                  <l>Esdeklő lombot<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_2">2)</ref> tartva kezetek között?</l>
+                  <l>A város tömjén illatával van tele,</l>
+                  <l>Könyörgő ének, jajgató hang tölti be.</l>
+                  <l>Nem más hirnök szájából vágyva hallani</l>
+                  <l>Okát, magam jövék e helyre, gyermekek,</l>
+                  <l>Én, Oedipus, a kit dicsőit minden ajk.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_3">3)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>(A paphoz.)</l>
+               </lg>
+               <lg>
+                  <l>Mondd hát öreg, mert téged illet a beszéd</l>
+                  <l>Ezek nevében, mily szándékkal ültök itt?</l>
+                  <l>Féltek vagy kértek? Én mindenben kész vagyok</l>
+                  <l>Segélyetekre lenni; mert kemény szivű</l>
+                  <l>Volnék, ha ily esdeklés nem inditna meg.</l>
+               </lg>
+               <lg>
+                  <l>PAP.</l>
+               </lg>
+               <lg>
+                  <l>Igen, hazám uralkodója, Oedipus,</l>
+                  <l>Im, itt látsz minket, minden korból egyaránt,</l>
+                  <l>Oltáraidnál: kisdedet, ki gyenge még</l>
+                  <l>Nagy útra kelni, kor terhelte papokat,</l>
+                  <l>Engem, Zeus áldozóját, s ifjaink színét;</l>
+                  <l>A többi nép lombokkal ékesitve ül</l>
+                  <l>A téreken, nagy Pallas kettős temploma<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_4">4)</ref>
+                  </l>
+                  <l>Előtt, s Ismenos jósló hamvai felett.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_5">5)</ref>
+                  </l>
+                  <l>A város, láthatod magad, meg van nagyon</l>
+                  <l>Rendülve, és nem képes felemelni már</l>
+                  <l>Fejét a vérözönből, melybe sülyedett,</l>
+                  <l>Pusztulva földje termékeny csiráiban,</l>
+                  <l>Pusztulva a gulyákban és az asszonyok</l>
+                  <l>Gyermektelen szülésiben;<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_6">6)</ref> reá rohant</l>
+                  <l>A gyujtó isten, a borzasztó döghalál,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_7">7)</ref>
+                  </l>
+                  <l>S kiirtja Kadmos házát, a sötét pokol</l>
+                  <l>Sóhajban és panaszban gazdagabb leszen.</l>
+                  <l>Hozzád jövénk hát, én s e gyermekek velem,</l>
+                  <l>Mert nem számitunk bár az istenek közé,</l>
+                  <l>De emberek legelsejének gondolunk,</l>
+                  <l>Az élet bajai s az ég csapási közt;</l>
+                  <l>Ki eljövél s föloldád Kadmos városát</l>
+                  <l>A szörnyü dalnok<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_8">8)</ref> szedte gyász adó alól,</l>
+                  <l>Nem nyerve tőlünk semmiféle oktatást,</l>
+                  <l>Sem utasítást; mert isten segélyivel</l>
+                  <l>Váltád meg életünket, mondjuk s hiszszük ezt.</l>
+                  <l>Most is tehát, hatalmas Oedipus király,</l>
+                  <l>Esengve kérünk tégedet mindannyian,</l>
+                  <l>Segits rajtunk, akár istennek ihlete,</l>
+                  <l>Akár halandó ember oktatott reá:</l>
+                  <l>Fel, emberek legjobbja, mentsd meg városunk,</l>
+                  <l>Fel, vedd gondodba; mert e föld még szüntelen</l>
+                  <l>Megváltónak hív régi buzgóságodért.</l>
+                  <l>Ne emlékezzünk kormányodra úgy soha,</l>
+                  <l>Hogy fölemelt előbb s elejtett azután!</l>
+                  <l> Segitsd hát ismét biztosságra városunk:</l>
+                  <l>A jó szerencse egykor hozzánk vezetett,</l>
+                  <l>Hogy boldogságot hozz ránk: légy olyan megint.</l>
+                  <l>Ha úr akarsz e honban lenni – mint vagy is –:</l>
+                  <l>Inkább légy emberek, mint puszta föld felett;</l>
+                  <l>Nem ér többé semmit sem a torony s hajó,</l>
+                  <l>Ha elveszté a népet, mely lakója volt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Tudom, hogyan ne tudnám, szegény gyermekek,</l>
+                  <l>Mily vágy hozott e helyre. Szenvedtek, tudom,</l>
+                  <l>Mindnyájan; ámde bármennyit szenvedjetek,</l>
+                  <l>Nem szenved úgy, miként én, egy sem köztetek.</l>
+                  <l>Mert mindegyik gyötrelme egymagára szól,</l>
+                  <l>S magáért szenved csak, nem másért; ám szivem</l>
+                  <l>Egykép keserg miattam, értted s a honért.</l>
+                  <l>Nem is álomból költ fel engem hangotok,</l>
+                  <l>Mert sok könyet hullattam már, hígyétek el,</l>
+                  <l>És sokfelé bolyongtak lelkem gondjai,</l>
+                  <l>Mig feltaláltam sok fontolgatás után</l>
+                  <l>Az egyetlen mentséget; sógorom Kreont,</l>
+                  <l>Menœkeus szülöttét Phœbos pythoi<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_9">9)</ref>
+                  </l>
+                  <l>Lakába küldém, hogy tanácsot kérjen ott,</l>
+                  <l>Mily tettel, szóval válthatnám meg városunk?</l>
+                  <l>És egybevetve távoztával e napot,</l>
+                  <l>Aggódom már, hová lett? Mert hosszabb idő</l>
+                  <l>Mult el azóta, mint ez útra kellene.</l>
+                  <l>De majd ha megjő, hitvány lennék akkor én,</l>
+                  <l>Nem téve mindent, mint az isten rendelé.</l>
+               </lg>
+               <lg>
+                  <l>(Nehányan a paphoz lépnek s halkan szólnak hozzá.)</l>
+               </lg>
+               <lg>
+                  <l>PAP.</l>
+               </lg>
+               <lg>
+                  <l>Lásd, épen jókor szóltál erről, mert ezek</l>
+                  <l>Kreon közelgését jelentik most nekem.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, nagy Apollo, bárcsak hozna ő nekünk</l>
+                  <l>Oly jó szerencsét, mint a hogy szeme ragyog!</l>
+               </lg>
+               <lg>
+                  <l>PAP.</l>
+               </lg>
+               <lg>
+                  <l>Örömmel látszik jönni; másképen fejét</l>
+                  <l>Nem koszorúzná ily gazdag babérfüzér.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_10">10)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Megtudjuk tüstént; hozzá juthat már szavam.</l>
+                  <l>Testvér, Menœkeus fejdelmi gyermeke,</l>
+                  <l>Mily jóslatot hozál az istentől nekünk?</l>
+               </lg>
+               <lg>
+                  <l>(Kreon föllép.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Jót; mert úgy vélem, minden jó sikerre jut,</l>
+                  <l> Ha a nehéz balvégzet is jó véget ér.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_11">11)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>De mit mondott a jóslat? Mert szavad nem önt</l>
+                  <l>Szivembe sem bizalmat, sem balérzetet.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ezek jelenlétében kivánsz hallani,</l>
+                  <l>Avagy bemenni? Én szólásra kész vagyok.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Beszélj előttök; több gyötrelmet szenvedek</l>
+                  <l>Miattok, mintsem ennen életem miatt.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Elmondom hát, mit hallék isten ajkiról.</l>
+                  <l>Tisztán<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_12">12)</ref> kimondja nagy Phœbos király nekünk:</l>
+                  <l>Üzzük ki a fertőztetést, melyet hazánk</l>
+                  <l>Táplál ölében, s büntetlen ne hagyjuk itt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Minő engesztelés kell? Mily fertőzet ez?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Száműzetés, vagy gyilkosságért gyilkolás,</l>
+                  <l>Mert vér az, mely megfertőztette városunk.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S mily ember sorsát érti isten jóslata?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>E föld fejdelme Laïos volt, oh király,</l>
+                  <l>S te ő utána lettél városunk ura.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Tudom hallásból; mert nem láttam őt soha.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ennek halálaért kell bosszut állni most</l>
+                  <l>A gyilkosok felett, így rendelé az ég.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hol vannak ők? Hol lelhetjük fel biztosan</l>
+                  <l>A régi bűnnek elmosódott nyomait?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>E honban, mondá. Ha kutatjuk, rájövünk,</l>
+                  <l>De elszalasztjuk, ha nem ügyelünk reá.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hol lett a gyilkos áldozatja Laïos,</l>
+                  <l>Házában, a mezőn, vagy idegen hazán?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Azt mondá, jóslatért megy; ám lakába nem</l>
+                  <l>Tért többé vissza, a mióta távozott.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem látta sorsát hirmondó vagy útitárs,</l>
+                  <l>Ki kérdésünkre választ adna biztosan?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Meghaltak egyen kivül, a ki elfutott,</l>
+                  <l>S a látottakból egyet tud csak mondani.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit? egy dolog sok másnak a nyomára visz,</l>
+                  <l>Ha kis reménysugárt gyujt szemeink előtt.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Rablósereg támadt rá – mondja – és nem egy</l>
+                  <l>Kéz gyilkolá meg, ám sokaknak fegyvere.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>De hogy mert volna erre vetemedni a</l>
+                  <l>Rabló, ha innen<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_13">13)</ref> pénzzel föl nem bérelik?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Igy látszott akkor. Ám hogy meghalt Laïos,</l>
+                  <l>Nem volt, ki megboszulja sok bajunk között.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S minő baj gátolá meg a fölfedezést,</l>
+                  <l>Midőn királytok igy elveszté életét?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>A rejtélyes dalú sphinx vitt rá, hogy jelen</l>
+                  <l>Bajunkra nézzünk, s hagyjuk el a titkokat.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Magam fogom hát földerítni a homályt;</l>
+                  <l>Mert méltó hozzád, méltó volt Pœboshoz is,</l>
+                  <l>Hogy a halott emlékét így felköltitek;</l>
+                  <l>Azért jogos, hogy én frigytársatok legyek,</l>
+                  <l>Megbosszulván e hont s az istent egyaránt.</l>
+                  <l>Hisz nem távol barátok érdekében, ám</l>
+                  <l>Ennen magam javára sujtom ezt a bünt.</l>
+                  <l>Mert bárki volt az, a ki őt meggyilkolá,</l>
+                  <l>Kezével engem is le fog tán sujtani.</l>
+                  <l>Amazt szolgálva magamon segitek igy.</l>
+                  <l>Fel hát sietve gyermekek, távozzatok</l>
+                  <l>E lépcsőkről, vigyétek el a lombokat;<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_14">14)</ref>
+                  </l>
+                  <l>Más menjen, gyüjtse össze Kadmos népeit</l>
+                  <l>E helyre; mindent megteszek most; mert az ég</l>
+                  <l>Most fogja megmutatni: véd-e vagy lesujt?</l>
+               </lg>
+               <lg>
+                  <l>PAP.</l>
+               </lg>
+               <lg>
+                  <l>Oh, gyermekek, keljünk fel, hisz azért jövénk</l>
+                  <l>E helyre, a mit ajka igér most nekünk.</l>
+                  <l>Phœbos, ki ezt a jóslatot küldé, legyen</l>
+                  <l>Megváltónk, s távoztassa tőlünk a csapást.</l>
+               </lg>
+               <lg>
+                  <l>(Oedipus és Kreon a palotába, a nép másfelé távozik. A kar fellép.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh, Zeus édes igéje, mi az, mit a thebai népnek</l>
+                  <l>Kincses Pytho felől hozál?</l>
+                  <l>Megfagy a vér ereimben’, szivem riadozva remeg fél,</l>
+                  <l>Oh gyógyító delosi Pæan!<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_15">15)</ref>
+                  </l>
+                  <l>Félve lesem, mi parancsokat adsz nekem</l>
+                  <l>Teljesítésre jelenben, vagy ha befutja körét az év,</l>
+                  <l>Mondd, mi az, oh kit arany bizalom szüle, isteni szózat!<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_16">16)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Hozzád fordulok, oh Zeus lánya, Athena először,</l>
+                  <l>S hozzád, honvédő Artemis,</l>
+                  <l>Ki ragyogó fénytrónodon ülsz a piacz gyürüjében,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_17">17)</ref>
+                  </l>
+                  <l>S te messzelövő nagy Apollo:</l>
+                  <l>Hármas erővel, oh, védjetek engemet!</l>
+                  <l>Hisz ti üzétek el egykoron innen a szörnyü csapás tüzét,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_18">18)</ref>
+                  </l>
+                  <l>Mely kiölé e hazát: legyetek segedelme ujonnan!</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Jaj nekem, ah! számtalan nyomor</l>
+                  <l>Gyötri szivemet; a nép beteg,</l>
+                  <l>S tehetetlen a gondolat arra,</l>
+                  <l>Hol vegyen irt e bajára; nem érleli</l>
+                  <l>Gyümölcsit a föld; a kinos vajudások</l>
+                  <l>Nehéz gyötrelmei közt az anyák oda lesznek.</l>
+                  <l>S száll egyik a másik után, sebesebben a tűznél,</l>
+                  <l>Mint a repülő madarak raja, esteli</l>
+                  <l>Isten sötét honába.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_19">19)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Pusztul a nép számlálhatatlanul;</l>
+                  <l>Elhagyatva fedik a föld szinét</l>
+                  <l>A halált lehelő tetemek már;<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_20">20)</ref>
+                  </l>
+                  <l>Hitvesek, őszbe borult anyák sora</l>
+                  <l>Köriti emitt is, amott is az oltárt,</l>
+                  <l>S zokogva kér segedelmet e szörnyü keservben.</l>
+                  <l>Pæan dalával szomorún vegyül egybe panaszhang;</l>
+                  <l>Nézz mi reánk szelid arczczal ujonnan, oh</l>
+                  <l>Zeus aranyos leánya!<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_21">21)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Harmadik versszak.</l>
+               </lg>
+               <lg>
+                  <l>Üzd el a rettenetes Arest, ki pajzstalan közelg,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_22">22)</ref>
+                  </l>
+                  <l>S vadul kiáltva éget egyre engem,</l>
+                  <l>Oh, üzd ki városomból messze tájra őt,</l>
+                  <l>Vagy oda, hol Amphitrite</l>
+                  <l>Nagy nyoszolyája zajlik,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_23">23)</ref>
+                  </l>
+                  <l>Vagy Thracia zord özönének</l>
+                  <l> Sivatag honába.</l>
+                  <l>Hiszen mit megkimél az éj,</l>
+                  <l>Romba dönti azt a nap.</l>
+                  <l>Hatalmas Zeus, atyám,</l>
+                  <l>Sujtsd le mennyköveddel őt,</l>
+                  <l>Oh, sujtsd le, te, ki az ég tüzét vezérled!</l>
+               </lg>
+               <lg>
+                  <l>Harmadik ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Hozzád eseng szavam, oh te farkasirtó nagy király,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_24">24)</ref>
+                  </l>
+                  <l>Röpitsd ki arany ijad legyőzhetetlen</l>
+                  <l>Nyilát segélyemül; gyuladj ki Artemis</l>
+                  <l>Tűzlángja, mely Lykia</l>
+                  <l>Hegyei közt bolyongasz;<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_25">25)</ref>
+                  </l>
+                  <l>Meg téged, aranysövegű<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_26">26)</ref> és</l>
+                  <l>Ittas arczu Bakchos,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_27">27)</ref>
+                  </l>
+                  <l>Hazám szülötte,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_28">28)</ref> Mænadok</l>
+                  <l>Társa,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_29">29)</ref> téged kérlek én,</l>
+                  <l>Rohanj az istenek</l>
+                  <l>Közt legellenségesebb</l>
+                  <l>Istenre,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_30">30)</ref> jer lobogó szövétnekeddel!<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_31">31)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>(Oedipus föllép.)</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Imádkozol; s a mit kérsz, elnyered, ha rám</l>
+                  <l>Hallgatva, teljesíted isten jósszavát,</l>
+                  <l>Meggyógyul akkor és megkönnyebbül bajod.</l>
+                  <l>Mint a jóslatban és a bünben egyaránt</l>
+                  <l>Járatlan szólok; egymagamban nem sokat</l>
+                  <l>Kutathatok ki, némi jel ha nem vezet.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_32">32)</ref>
+                  </l>
+                  <l> Legkésőbb jutva hát a polgárok közé,</l>
+                  <l>Egész Kadmos népének im ezt hirdetem:</l>
+                  <l>Akárki tudja köztetek, mily férfiú</l>
+                  <l>Gyilkolta meg Laïost, Labdakos fiát,</l>
+                  <l>Parancsolom, jelentsen mindent föl nekem.</l>
+                  <l>Ne féljen attól, hogy talán önnönmagát</l>
+                  <l>Vádolja majd be; mert nem éri semmi baj,</l>
+                  <l>Csupán a várost hagyja el sértetlenül.</l>
+                  <l>Ki meg talán egy idegenben ismeri</l>
+                  <l>A gyilkost, el ne rejtse tőlem; mert reá</l>
+                  <l>Nagy jutalom vár, és hálámban részesül.</l>
+                  <l>De ha nem szóltok, s egyik-másik önmagát</l>
+                  <l>Avagy barátját féltve, megvetné szavam:</l>
+                  <l>Ime halljátok, mit teendek akkor én.</l>
+                  <l>Megtiltom, hogy ez embert, bárki légyen is,</l>
+                  <l>E földön, melyen mint király uralkodom,</l>
+                  <l>Akárki befogadja, vagy szóljon vele,</l>
+                  <l>Vagy részesítse őt az áldozatban és</l>
+                  <l>Imákban, vagy megszentelt vizzel hintse meg;</l>
+                  <l>Mindenki űzze el házából őt, miként</l>
+                  <l>Mindnyájunk megfertőztetőjét; ezt adá</l>
+                  <l>Tudtomra most isten pythói jóslata.</l>
+                  <l>És én mindenben ez istennek s a halott</l>
+                  <l>Királynak egykép hű frigytársaként teszek.</l>
+                  <l>Reátok bizom, mindezt teljesiteni,</l>
+                  <l>Érettem, istenért s e földért, mely kihal</l>
+                  <l>Istentől elhagyottan és gyümölcstelen.</l>
+                  <l>Ha nem jött volna istenektől e parancs,</l>
+                  <l>Engeszteletlen hagyni a legjobb király</l>
+                  <l>S ember halálát még akkor sem illenék.</l>
+                  <l>Kutatni kell azt. Ámde most, hogy az enyém</l>
+                  <l>A hatalom, mely az övé volt egykoron,</l>
+                  <l>Enyém lett ágya és atyává tett neje,</l>
+                  <l>S testvérekül neveznék egymást gyermekink,</l>
+                  <l>Ha gyászos végzet ki nem irtja fajzatát:</l>
+                  <l>Most hogy fejére nehezült a sors keze,</l>
+                  <l>Én küzdöm érte ezt a harczot, mint saját</l>
+                  <l> Atyámért, semmit kisérletlen nem hagyok,</l>
+                  <l>A mig föl nem találom azt, ki megölé</l>
+                  <l>A Labdakidát, Polydoros fajzatát,</l>
+                  <l>Kadmos sarját, kit nemze ősi Agenor.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_33">33)</ref>
+                  </l>
+                  <l>Az istenekhez fordulok: ne adjanak</l>
+                  <l>Sem termő földet, sem nejöktől magzatot</l>
+                  <l>Azoknak, kik nem teljesítik szavamat;</l>
+                  <l>A dögvész szálljon rájok s még rosszabb halál!</l>
+                  <l>De a gyilkost megátkozom, bár egyedül</l>
+                  <l>Tevé titokban, vagy többekkel frigyesen;</l>
+                  <l>Fejezze be hitványul hitvány életét!</l>
+                  <l>S ha tán házam lakója volt, s én tudva ezt,</l>
+                  <l>Megtürtem tüzhelyemnél, szálljon mind reám</l>
+                  <l>Az átok, melyet a gyilkosra mondtam én.</l>
+                  <l>De nektek Kadmos népe, kik helyeslitek</l>
+                  <l>Szándékomat, legyen Diké oltalmatok,</l>
+                  <l>S az istenek áldása védjen szűntelen!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>A mint köt átkod, akként szólok, oh király!</l>
+                  <l>Sem nem vagyok a gyilkos, sem nem mondhatom</l>
+                  <l>Nevét; Phœbosnak, a ki ezt reánk bizá,</l>
+                  <l>Lett volna dolga, fölfedezni a bünöst.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Jól mondod; ám az embernek hatalma nincs,</l>
+                  <l>Az istent arra birni, a mit nem akar.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Mondok más módot, melyet jónak gondolok.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ha hármat is tudsz, ne habozz kimondani.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Tudom, mit Phœbos isten lát, azt látja jól</l>
+                  <l>A jós Tiresias is; megkérdezve őt,</l>
+                  <l>Mindent legjobban megtudhatnál, oh király!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem voltam én e tárgyra nézve sem hanyag;</l>
+                  <l>Kreon szavára kétszer is meghívtam őt,</l>
+                  <l>S csodálkozom, hogy oly sokáig elmarad.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>A többi hir bizonynyal kósza szóbeszéd.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mily szóbeszéd? Minden szót megvizsgálok én.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Azt mondják, útasok vevék el életét.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hallottam én is; ám a tettre nincs tanú.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ha van szivében még egy szikra félelem,</l>
+                  <l>Nem fog habozni, hallva szörnyü átkodat.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ki tenni nem félt, szótól meg nem rémül az.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>De van, ki fölfedezze: im az isteni</l>
+                  <l>Jóst erre vezetik már, egyedül reá</l>
+                  <l>Szállt emberek közt az igazság szelleme.</l>
+               </lg>
+               <lg>
+                  <l>(Oedipus küldöttei föllépnek a vak Tiresiassal, kit egy gyermek kezén vezet.) </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Tiresias, ki szellemeddel áthatod</l>
+                  <l>Az égnek, földnek nyilt és titkos dolgait,</l>
+                  <l>Tudod, bár nem látod szemeddel, mily nehéz</l>
+                  <l>Kór gyötri városunkat; s egyedül te vagy,</l>
+                  <l>Kiben fölleljük megváltóját, oh uram!</l>
+                  <l>Mert Phœbos, mint tán mondák is követjeim,</l>
+                  <l>Azt adja kérdésünkre válaszul, hogy úgy</l>
+                  <l>Találhatunk csak szörnyü kórunk ellen irt,</l>
+                  <l>Ha fölfedezve Laïos gyilkosait,</l>
+                  <l>Halált mondunk reájok vagy száműzetést.</l>
+                  <l>Ne sajnáld tőlünk hát a jóslatot, melyet</l>
+                  <l>Madár szavából vagy máskép szerezhetél,</l>
+                  <l>És mentsd meg városunkat, engem s tenmagad</l>
+                  <l>Lemosva rólunk a vérbűn fertőzetét.</l>
+                  <l>Benned reménylünk; hisz ki jót tesz ott, a hol</l>
+                  <l>Hatalma s módja van rá, legszebben tesz az.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS (magában).</l>
+               </lg>
+               <lg>
+                  <l>Ah, ah! mily iszonyú baj, tudni azt, minek</l>
+                  <l>Tudása nincs javunkra. Jól ismertem ezt,</l>
+                  <l>De feledém; máskép nem jöttem volna el.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mi történt? Mért jelensz meg oly kedvetlenül?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Bocsáss lakomba vissza; könnyebb lesz a sors</l>
+                  <l>Reád s reám is, ha tanácsomnak hiszesz.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem jog szerint szólsz, s hálátlan vagy városunk</l>
+                  <l>Iránt, mely táplált, megtagadva ezt a szót.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Látom, hogy tenmagad javára sem leszen</l>
+                  <l>Szavad; s nehogy hasonló érjen engem is –</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Az égre! el ne menj, ha sejted a valót;</l>
+                  <l>Mindnyájan kérünk, lábaidhoz borulunk.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Mindnyájan dőrék vagytok; nem szólok soha,</l>
+                  <l>Nehogy feltárjam a te szörnyü bajodat.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit hallok? Mindent tudsz és szólni nem akarsz?</l>
+                  <l>S elárulsz minket, elveszíted a hazát?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Nem foglak gyötreni sem téged, sem magam;</l>
+                  <l>Mit faggatsz hasztalan? Tőlem meg nem tudod.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, rosszak roszsza! – mert haragra gyujtanád</l>
+                  <l>A kősziklát is – nem fogsz végre szólani?</l>
+                  <l>Ily érzéketlen és makacs maradsz tehát?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Makacsságom fellázit; ám a tiedet</l>
+                  <l>Nem látod; egyedül bennem találsz hibát.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ki az, kit föl nem ingerelne ily beszéd,</l>
+                  <l>Hallván, miként veted meg városunk javát?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Minden megjő, bár hallgatással fedjem is.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mi fog megjönni? Ezt kell épen mondanod.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Nem mondok többet; most, ha tetszik, haragod</l>
+                  <l>Törjön ki, bárha legdühöngőbb lánggal is.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Bizony nem is fogom magamba fojtani</l>
+                  <l>Dühömben azt, mit sejtek; tudd meg, rád esik</l>
+                  <l>Gyanúm, te terveléd s tevéd meg ezt a bünt,</l>
+                  <l>Csakhogy nem tenkezeddel; ha világtalan</l>
+                  <l>Nem volnál, téged vádolnálak egyedül.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Valóban? S én azt mondom, tartsd meg átkodat,</l>
+                  <l>Melyet kimondál, s mától fogva ne beszélj</l>
+                  <l>Többé soha e férfiakkal, sem velem,</l>
+                  <l>Mert tenmagad vagy e föld bűnfertőzete.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hah! ily szót mersz arczomba dobni, szemtelen?</l>
+                  <l>S azt véled, elkerülöd büntetésedet?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Már elkerültem; mert igazság van velem.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ki oktatott rá? Csak nem jós-művészeted?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Te, a ki kedvem ellen szólni késztetél.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit? Mondd el ismét, jobban meg kell értenem.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Nem értéd már meg? Vagy kisérteni akarsz?</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem értettem meg tisztán; mondd még egyszer el.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Azt mondom, hogy te vagy a gyilkos, kit kutatsz.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem fogsz másodszor boszulatlan sérteni.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Mást mondjak hát, hogy még nagyobb haragra gyúlj?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mondhatsz akármit; hasztalan fogsz szólani.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Szeretteidhez, mondom, öntudatlanul</l>
+                  <l>Gyalázat fűz, s nem látod, meddig sülyedél.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>És mindig boszulatlan szólsz így, azt hiszed?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Igen, ha megvan az igazság ereje.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Megvan, de nem te benned; mert világtalan</l>
+                  <l>Vagy szemre, fülre és lélekre egyaránt.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Boldogtalan! szememre hányod azt, a mit</l>
+                  <l>Mindenki nemsokára rád fog mondani.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ej szállt reád, nem árthatsz többé sem nekem,</l>
+                  <l>Sem másnak, ki a napvilágot látja még.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Nem általam hoz végzeted bukást reád;</l>
+                  <l>Elég erős Apollo, az ő gondja ez.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Kreon gondolta ezt ki, vagy te egymagad?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Kreon nem hoz reád bajt, csak te egy magad.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Kincs, hatalom, müvészet, mely felülmulod</l>
+                  <l>A versengő élet minden művészetét,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_34">34)</ref>
+                  </l>
+                  <l>Oh, mily irígység jár nyomodban szüntelen,</l>
+                  <l>Ha már e trónomtól is, mely kéretlenül</l>
+                  <l>Jutott ajándékkép a várostól nekem,</l>
+                  <l>Kreon, e régi és hűséges jó barát,</l>
+                  <l>Alattomos cselekkel vágy megfosztani,</l>
+                  <l>Fölbérelvén ez álnok bűvészt ellenem,</l>
+                  <l>E csalfa szemfényvesztőt, a kinek szeme</l>
+                  <l>Csak nyereségét látja, ám jóslásra vak.</l>
+                  <l>Ugyan mondd hát, miben mutathatsz jóserőt?</l>
+                  <l>Midőn itt volt a szörnyeteg dalos, miért</l>
+                  <l> Nem tudtad a polgárokat megmenteni?</l>
+                  <l>Mert minden jött-ment nem tudá megoldani</l>
+                  <l>A rejtett szót, nem; jóstehetség kelle ott,</l>
+                  <l>Melyet madárjelekből meg nem tanulál,</l>
+                  <l>Isten sem ihletett meg; ekkor jöttem én,</l>
+                  <l>S elnémítám őt, én, tudatlan Oedipus,</l>
+                  <l>Értelmem által, nem madárjelek szerint;</l>
+                  <l>Én, kit te megbuktatni vágysz, remélve, hogy</l>
+                  <l>Kreon trónjához közelebb fogsz állani.</l>
+                  <l>S én azt reménylem, téged és bűntársadat</l>
+                  <l>Meg fog rikatni ez engesztelés.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_35">35)</ref> Ha nem</l>
+                  <l>Volnál ily vén, megkeserülnéd szándokod.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Nekünk úgy látszik, hogy harag sugallta csak</l>
+                  <l>Ennek szavát, s a tiedet is, Oedipus,</l>
+                  <l>Pedig nincs erre szükség, inkább lássuk azt,</l>
+                  <l>Mint oldjuk meg legjobban isten jóslatát.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Habár király vagy, abban egyenlők vagyunk,</l>
+                  <l>Hogy megfeleljek; van jogom rá nékem is.</l>
+                  <l>Mert Loxiasnak<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_36">36)</ref> szolgálok csak, nem neked;</l>
+                  <l>Kreonra sem szorultam, hogy védőm legyen.</l>
+                  <l>Kimondom hát, mert gúnyolád vakságomat:</l>
+                  <l>A te szemed lát, s mégsem látod, mennyire</l>
+                  <l>Sülyedtél, mily helyen vagy és kivel lakol.</l>
+                  <l>Tudod, kitől születtél? Ellensége vagy</l>
+                  <l>Élő s holt kedvesidnek öntudatlanul.</l>
+                  <l>Apádnak és anyádnak kettős átka fog</l>
+                  <l> Ez országból kiüzni téged egykoron,</l>
+                  <l>S ki napfényt látsz most, akkor éj borul reád.</l>
+                  <l>Hol van Kithæron,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_37">37)</ref> hol a rév mely csakhamar,</l>
+                  <l>Nem fogja visszhangozni jajgatásodat,</l>
+                  <l>Ha megtudod, mily zátonyos part volt a nász,</l>
+                  <l>Hová szerencsésen hajózva eljutál?</l>
+                  <l>És nem látod még más bajoknak tengerét,</l>
+                  <l>Mely rád és gyermekidre fog zúdulni majd.</l>
+                  <l>Most hát gyalázd Kreont, szidalmazd ajkamat;</l>
+                  <l>Hisz nincs e földön emberek közt senki sem,</l>
+                  <l>Ki iszonyúbban vész el, mint te egykoron.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Meddig hallgassam még az ily beszédeket?</l>
+                  <l>Nem lesz vesztedre? Nem sietsz már? Nem akarsz</l>
+                  <l>Házadba térni és elhagyni e helyet?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Ha nem hivatsz, nem jöttem volna én ide.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ha tudhatom, hogy ily botorságot beszélsz,</l>
+                  <l>Bizony nem is hivatlak hozzám tégedet.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Botor vagyok szerinted, ámde szüleid</l>
+                  <l>Szemében, kiktől éltet nyertél, bölcs valék.</l>
+               </lg>
+               <lg>
+                  <l>(Távozni akar.)</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Mi ez? Maradj! Mily ember adta éltemet?</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>E mai nap szül és veszít el tégedet.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_38">38)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mily rejtelmekben és homályosan beszélsz.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Rejtett szavakhoz nem legjobban értesz-e?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Vesd csak szememre azt, mi fényt hozott reám.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Épen szerencséd tette tönkre éltedet.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit bánom én, ha csak megmentém e hazát.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Megyek hát; és te gyermekem jövel, vezess.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Igen, vezessen el; jelenléted zavar,</l>
+                  <l>Mig eltávozván, nem fogsz többé gyötreni.</l>
+               </lg>
+               <lg>
+                  <l>TIRESIAS.</l>
+               </lg>
+               <lg>
+                  <l>Megyek, de halld, mért jöttem; mert nem rettegek</l>
+                  <l>Arczodtól, nincs hatalmad életem fölött.</l>
+                  <l>Kimondom hát: ez ember, kit régen kutatsz,</l>
+                  <l>Hirdetve, fenyegetve, – Laïos gyilkosa</l>
+                  <l> Itt van, s azt vélik róla most, hogy idegen</l>
+                  <l>Bevándorolt, de nemsokára thebai</l>
+                  <l>Szülöttnek ismerik fel, s nem lesz öröme</l>
+                  <l>E változásban; koldus lesz, ki dús vala,</l>
+                  <l>Vak lesz, ki látott, s vándorbottal idegen</l>
+                  <l>Országokban fog számüzetve bolygani.</l>
+                  <l>Kitűnik majd, hogy önnön gyermekeinek</l>
+                  <l>Testvére s atyja, és az asszonynak, kitől</l>
+                  <l>Éltét vevé, szülötte s férje egyaránt,</l>
+                  <l>Vérfertőző és apagyilkos. Menj be hát,</l>
+                  <l>S gondolkozzál felőle; és ha lelsz hazug</l>
+                  <l>Szót benne, mondd, hogy elhagyott a jóserő.</l>
+               </lg>
+               <lg>
+                  <l>(Tiresiast a gyermek elvezeti. Oedipus a palotába megy. A kar egyedül marad.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Kiről jelenté a pythói szikla jósigéje,</l>
+                  <l>Hogy vértől ázott kezeit e szörnyü tettre nyujtá?</l>
+                  <l>Szökjék rohanó vihar</l>
+                  <l>Szárnyán sebesebben a</l>
+                  <l>Futó paripánál.</l>
+                  <l>Ime Zeus fia mint rohan ellene már,</l>
+                  <l>Tüzes ostora van boszuló keze közt;</l>
+                  <l>S léptét a halál vad</l>
+                  <l>Szellemei kisérik.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Parancsot ád hó boritotta Parnass orma immár,</l>
+                  <l>A szó felhangzott, a bűnös nyomát kutassa minden.</l>
+                  <l>Mint űzött bika bolyg talán</l>
+                  <l>Erdők vadonán, avagy</l>
+                  <l>A szirtüregekben,</l>
+                  <l>Egyedül, szomorún, nyomorogva szegény,</l>
+                  <l>S fut a jóslat elől, mely a föld közepén<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_39">39)</ref>
+                  </l>
+                  <l>Hangzik, s a bolyongót</l>
+                  <l>Üzi örök erővel.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Rettenetest, rettenetest</l>
+                  <l>Jósol a bölcs látnoki szó:</l>
+                  <l>Elhagy a kétség, el a hit,</l>
+                  <l>És agyam eszméje megáll.</l>
+                  <l>Sürü éj árnya borult</l>
+                  <l>Arra, mi volt, s arra, mi van.</l>
+                  <l>Soha sem, most sem, előbb sem</l>
+                  <l>Hallottam a harczról, Polybos<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_40">40)</ref>
+                  </l>
+                  <l>Gyermeke s a Labdakidák közt;</l>
+                  <l>Van-e próba, bizonyság, mely elég biztos, erős,</l>
+                  <l>Letiporni dicső hírét a királynak,</l>
+                  <l>Hogy boszulója legyek a titkos halálnak,</l>
+                  <l>Mely orozva lesujtá a Labdakidát?</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Ismeri jól, ismeri Zeus</l>
+                  <l>S Phœbos az ember szive mély</l>
+                  <l>Titkait, ám helytelen azt</l>
+                  <l>Mondani, hogy emberi jós</l>
+                  <l> Szeme jobb, mint az enyém.</l>
+                  <l>Mert tudomány s ész diadalt</l>
+                  <l>Ül ugyan más tudományán,</l>
+                  <l>De nem hiszem a vádszavakat,</l>
+                  <l>Mig csak a tett nem bizonyitja.</l>
+                  <l>Ime láttuk a szárnyfedte leány<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_41">41)</ref> ellen a bölcs</l>
+                  <l>Erejét s tudományát, melylyel a várost</l>
+                  <l>Megszabaditva, e hont üdvére vezérlé:</l>
+                  <l>Soha sem fogom én rossznak mondani őt.</l>
+               </lg>
+               <lg>
+                  <l>(Kreon föllép.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Polgárok, értesülvén, hogy mily iszonyú</l>
+                  <l>Dolgokkal vádol engem Oedipus király,</l>
+                  <l>Ime, jövök leverten; mert ha azt hiszi,</l>
+                  <l>Hogy tőlem tettel vagy beszéddel valami</l>
+                  <l>Kárt szenvedett jelen gyötrelmeink között,</l>
+                  <l>Úgy nem vágyódom többé, ilyen vád alatt.</l>
+                  <l>Sokáig élni. Nem csekély a szenvedés,</l>
+                  <l>Melyet viselnem kell e megszólás miatt;</l>
+                  <l>A legnagyobb kín lesz reám, ha városunk</l>
+                  <l>S te rossznak vélsz, s barátim rossznak tartanak.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Talán inkább csak a felingerült harag</l>
+                  <l>Sugá e vádat, s nem józan megfontolás.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Miből tűnt az ki, hogy tanácsom biztatá</l>
+                  <l>A jós ajkát hazug szavakra ellene?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Igy mondá. Hogy mily értelemben, nem tudom.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>S nem volt zavart értelme és tekintete,</l>
+                  <l>Midőn kimondá ezt a vádat ellenem?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Azt nem tudom; uralkodóknak tetteit</l>
+                  <l>Vizsgálni nem szokásom. Itt jön ő maga.</l>
+               </lg>
+               <lg>
+                  <l>(Oedipus föllép.)</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S te itt vagy? Mily orczával jösz e hely felé?</l>
+                  <l>Hogy mersz házamba lépni, a ki életem</l>
+                  <l>Ellen meréd emelni gyilkos kezedet,</l>
+                  <l> És nyiltan elrabolni készülsz trónomat?</l>
+                  <l>Az égre, mondd, gyávának véltél engemet,</l>
+                  <l>Vagy őrültnek, hogy ezt a tervedet szövéd?</l>
+                  <l>Azt hitted nem fedem föl titkos cseledet,</l>
+                  <l>Vagy rájövén, nem mernék szembe szállani?</l>
+                  <l>Nem inkább esztelenség a te szándokod,</l>
+                  <l>Pénz és barátok nélkül vágyva trón után,</l>
+                  <l>A melyre néppel s kincscsel juthatsz egyedül?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Tudod, mit tégy most? Szavaidra válaszul</l>
+                  <l>Hallgasd meg szómat, és meghallgatván, itélj.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Jól tudsz beszélni, ám én roszul hallgatok</l>
+                  <l>Reád; mert ellenséget lát benned szemem.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ép e felől hallgasd meg szavamat.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ép e felől ne mondd, hogy bűntől tiszta vagy.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ha azt hiszed, hogy oktalan fejeskedés</l>
+                  <l>Dicsőségedre válik: helytelen hited.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ha azt hiszed, hogy a rokont büntetlenül</l>
+                  <l>Illetheted sértéssel: helytelen hited.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Elismerem, hogy a mit mondál, mind helyes;</l>
+                  <l>De szólj, minő a sértés, melyet szenvedél?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Te birtál-e, vagy nem te birtál arra, hogy</l>
+                  <l>Magamhoz hivjam a dicső, nagy látnokot?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ez most is véleményem változatlanul.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>És mily hosszú idője mult, hogy Laïos –</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz? Mit tett Laïos? Nem értelek.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mikor történt, hogy gyilkos kéztől elveszett?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hosszú nagy évek teltek el azóta már.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S a jós gyakorlá akkor is művészetét?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oly bölcseséggel mint most, s ép úgy tisztelék.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S azon időben említett-e engemet?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem, legalább jelenlétemben sohasem.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S a gyilkosságnak nem kutattátok nyomát?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Kutattuk; hogy ne? Ám nem jöttünk semmire.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S mért nem fedezte akkor azt föl ez a bölcs?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Azt nem tudom; s nem tudva, inkább hallgatok.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>De annyit tudsz, és tudva el is mondhatod –</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi az? Nem hallgatok felőle, ha tudom.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy az, ha csak egyet nem ért veled, soha</l>
+                  <l>Nem fogta volna rám a gyilkosság bünét.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Te tudhatod legjobban, ezt mondotta-e?</l>
+                  <l>De most hadd kérdjelek ki, mint te kérdezél.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Kérdezz; nem bizonyítod rám a gyilkolást.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>No hát? Nem vetted hitvesül testvéremet?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>E kérdésedre tagadást nem mondhatok.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>És nem osztod meg a hatalmat s trónt vele?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>A mit kivánhat, tőlem mindazt megnyeri.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>S nem állok én mind harmadik mellettetek?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ép ebből látszik, hogy mily rossz barát valál.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem úgy, ha jól megfontolod, mint én tevém.</l>
+                  <l>Először is, nézd: hol van az, ki félelem</l>
+                  <l> Között akarna inkább trónon ülni, mint</l>
+                  <l>Békén pihenni épen oly hatalmasan?</l>
+                  <l>Bizonynyal én olyan vagyok, hogy a király</l>
+                  <l>Hatalmát inkább óhajtom, mint a nevét;</l>
+                  <l>És ilyen minden józanul gondolkodó.</l>
+                  <l>Most nyugton élek s tőled megvan mindenem;</l>
+                  <l>Mig sokszor kedvem ellen tennék, mint király.</l>
+                  <l>Hogy volna mégis kedvesebb a trón nekem,</l>
+                  <l>Mint gondtalan uralkodás és hatalom?</l>
+                  <l>Még nem sülyedtem oly nagy balgaságba én,</l>
+                  <l>Hogy mást kivánjak, mint a szépet s hasznosat.</l>
+                  <l>Most minden ember szivesen lát, üdvözöl,</l>
+                  <l>S hozzám fordul mindenki, a ki rád szorul;</l>
+                  <l>Mert ettől függ kéréseik jó sikere.</l>
+                  <l>Mért veszteném el mindezt a király czimért?</l>
+                  <l>Nem vetemül ily rosszaságra józan ész.</l>
+                  <l>Soha sem voltam én ily szándék embere,</l>
+                  <l>Nem is segitnék ebben másokat soha.</l>
+                  <l>Bizonyságul, menj, kérdezd Pythóban magad,</l>
+                  <l>Hogy híven meghozám-e isten jóslatát;</l>
+                  <l>S ha rajta kapsz, hogy a büvészszel közösen</l>
+                  <l>Terveltem bármit: ölj meg, nem csupán magad</l>
+                  <l>Itéletével, én is hozzá járulok.</l>
+                  <l>De zavaros gyanuból vádat ne emelj.</l>
+                  <l>Mert nem jogos, ha könnyen jónak gondolod</l>
+                  <l>A rossz embert, és rossznak véled azt, ki jó.</l>
+                  <l>Ki hű barátját eltaszitja, azt hiszem,</l>
+                  <l>Saját éltének legszebb kincsét dobja el.</l>
+                  <l>Idővel mindezt biztosan megtudhatod;</l>
+                  <l>Mert az idő mutatja csak ki az erényt,</l>
+                  <l>Mig a gonoszt egy nap alatt megismered.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Jó volt beszéde annak, ki elesni fél,</l>
+                  <l> Király! A gyors itélet nem jár biztosan.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Midőn gyorsan jő rám a titkos cselvető,</l>
+                  <l>Részemről is szükséges gyors határozás.</l>
+                  <l>Ha nyugton várok, végre hajtja szándokát,</l>
+                  <l>S haszontalan fáradság lesz, mit én teszek.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi szándokod hát? Számüzésbe küldsz talán?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, nem! Halálra s nem futásra szántalak.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>De hát előbb mutasd ki, hogy méltán gyülölsz.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem engedsz? nem hiszed szavam, hogy így beszélsz?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mert látom, nincs eszed.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Saját javamra van.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Az én javamra is legyen.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Gonosztevő!</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>De ha tévednél?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Tenned kell parancsomat.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem, ha rosszul parancsolsz.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, én városom!</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nemcsak te, én is a városhoz tartozom.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Hagyjátok ezt, fejdelmek! Épen idején</l>
+                  <l>Látom Jokastét házából közelgeni;</l>
+                  <l>Előtte föl kell e viszálylyal hagynotok.</l>
+               </lg>
+               <lg>
+                  <l>(Jokaste föllép.)</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Miért kelétek, oh, ti boldogtalanok!</l>
+                  <l>E dőre nyelvcsatára; nem szégyenlitek,</l>
+                  <l>Az ország ily bajában egymást bántani?</l>
+                  <l>Nem mégysz lakodba, s te Kreon nem térsz haza?</l>
+                  <l> Vagy semmiből nagy bajt akartok kelteni?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Oh, testvér! szörnyü szándékkal van ellenem</l>
+                  <l>Királyi férjed, Oedipus; két rossz közül</l>
+                  <l>Vagy számüzéssel, vagy halállal fenyeget.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Megvallom, oh, nőm, úgy van; rajtakaptam őt,</l>
+                  <l>Hogy gonoszul éltemre tör gonosz csele.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Haljak meg átkozottan és boldogtalan,</l>
+                  <l>Ha abból, melylyel vádolsz, bármit is tevék.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Az istenekre, hígy szavának, Oedipus;</l>
+                  <l>Tartsd tiszteletben, melyet monda, esküjét,</l>
+                  <l>Gondolj reám, s ezekre, kik itt állanak.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Versszak.</l>
+               </lg>
+               <lg>
+                  <l>Fogadd az észnek, szivnek szavát, oh, király!</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Miben kivánod tennem azt?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Hogy őt, ki nem volt előbb sem botor, s eskü véd most, meg ne vesd.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Tudod, mit kivánsz?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Jól tudom.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Beszélj tehát.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Alaptalan gyanúból el ne itéld</l>
+                  <l>A hű barátot, a kit szent eskü véd.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Tudd meg, hogy ezt kivánva, enhalálomat</l>
+                  <l>Kivánod tőlem, vagy száműzetésemet.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Az istenek legelsejére, nagy</l>
+                  <l>Heliosra, nem! Veszszek el nyomorultan, hagyjanak el</l>
+                  <l>Az ég s emberek, ha ez szándokom.</l>
+                  <l>Ámde kín tépi bús szivemet</l>
+                  <l>E honnak szenvedésein, ha még</l>
+                  <l>Ti is tetézitek a régi bajt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Menjen tehát, bár menthetetlenül halál</l>
+                  <l>Vagy szégyenítő számüzés vár is reám.</l>
+                  <l>Kérő szavad, s nem ő, indítá szivemet</l>
+                  <l>Ez irgalomra; őt, bárhol lesz, gyűlölöm.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Gyülölve engedsz, ám ha csillapul dühöd,</l>
+                  <l>Magadnak lész terhére. Ily természetek</l>
+                  <l>Önnönmagoknak leggyötrelmesb terhei.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem hagysz el hát, nem távozol már?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Távozom;</l>
+                  <l>Te félreismersz, itt a régi maradok.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_42">42)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>(El.) </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Jokaste, mért nem sietsz ezzel a házba most?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Előbb tudnom kell, mint esett?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>A szóbeszédből gyanú lett; hiú bár, de fáj az ilyen is.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mindkettejök részéről?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ugy van.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>És mi volt?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Legyen elég, elég sok bajunk között;</l>
+                  <l>Hagyjuk a szót, hol a viszály végződött.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Látod, hová jutsz? Jó levén a szándokod,</l>
+                  <l> Lenézed, eltompitni akarod szivem.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Király, mondám nem egyszer, ime halld:</l>
+                  <l>Esztelen botor volnék s helyes itéletre képtelen,</l>
+                  <l>Ha elhagyva megtagadnálak én</l>
+                  <l>Tégedet, ki nyomor s baj közül</l>
+                  <l>Kimentéd egykor drága honomat;</l>
+                  <l>Vezéreld most is üdvre, mint tudod.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Az istenekre mondd el, oh király, nekem,</l>
+                  <l>Mi volt az ok, mely ily haragra ingerelt?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Elmondom, mert ezeknél<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_43">43)</ref> többre tartalak;</l>
+                  <l>Halld hát, mily terveket szőtt ellenem Kreon.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Beszélj, mi biztos vádat mondhatsz ellene?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Azt mondja, hogy én voltam Laïos gyilkosa.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Saját vagy más bizonyságára mondja ezt?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Egy jóst, egy szemfényvesztőt tolt előre, mert</l>
+                  <l>Saját nyelvét mindentől menten tartja ő.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Vesd el most annak gondját, a mit emlitél,</l>
+                  <l>S hallgass rám és tanuld meg, hogy az emberek</l>
+                  <l>Között nincs egy sem, a ki a jövőbe lát.</l>
+                  <l>Bizonyságát rövid szavakban ime halld:</l>
+                  <l>Laïos király jós mondatot vett egykoron,</l>
+                  <l>Nem mondom, hogy Phœbostól, ám szolgáitól,</l>
+                  <l>Hogy a gyermek kezétől kell meghalnia,</l>
+                  <l>Ki tőlem s tőle fogja nyerni életét.</l>
+                  <l>S mégis, mint híre jár, hármas keresztuton</l>
+                  <l>Idegen rablók gyilkolák meg hajdan őt;</l>
+                  <l>Fiát pedig, ki életének harmadik</l>
+                  <l>Napját sem látta, megkötött lábakkal és</l>
+                  <l>Más ember által zord hegyen kitéteté.</l>
+                  <l>És igy Apollo nem tölté be jóslatát,</l>
+                  <l>Sem a fiú nem lett atyjának gyilkosa,</l>
+                  <l>Laïos sem gyermekétől nyerte a halált.</l>
+                  <l>Pedig mindezt előre hirdeté a jós!</l>
+                  <l> Ne gondolj hát vele. Mit isten föl akar</l>
+                  <l>Deritni, könnyen napvilágra hozza azt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mint megzavarja, megrendíti lelkemet</l>
+                  <l>A szó, melyet most hallék tőled, hitvesem.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mily aggódás rendíte meg, hogy igy beszélsz?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ugy tetszik, mintha azt mondottad volna, hogy</l>
+                  <l>Hármas keresztuton ölték meg Laïost.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Ez volt a hír felőle, s nem szűnt meg ma sem.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>És mely vidéken érte őt e baleset?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Phokisnak mondják a vidéket, s Daulia</l>
+                  <l>És Delphi útja egyesül azon helyen.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>És mily hosszú idő mult el azóta már?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Kevéssel az előtt, hogy elfoglaltad ez</l>
+                  <l>Országnak trónját, érkezett hozzánk a hir.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, Zeus, minő végzetre szántál engemet?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mi az, mit úgy szivedre vettél, Oedipus?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ne kérdezz még; de mondd milyen volt alkata</l>
+                  <l>Laïosnak, mily előre haladott kora!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Magas volt, őszbe csavarodtak fürtjei,</l>
+                  <l>S alakja tőled nem nagyon különbözött.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, jaj nekem? Magamra szórtam hát ma én</l>
+                  <l>A szörnyü átkok árját öntudatlanul.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz? Rettegek rád nézni, oh, király!</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Borzadva aggódom, hogy jól látott a jós;</l>
+                  <l>De hogy egészen meggyőzz, mondj még egyet el.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Úgy félek! Ám ha kérdezz, felelek reá.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Csekély kiséret volt mellette, vagy talán</l>
+                  <l>Miként királyhoz illik, számos fegyveres?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Öten voltak mindössze és ezek között</l>
+                  <l>A hirnök; s Laïost egyetlen szekér vivé.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, jaj, minden világos immár! És ki volt,</l>
+                  <l>Oh, asszony, a ki nektek erről hirt hozott?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Szolgája, az egyetlen, ki megmenekült.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Vajon most is jelen van még a házban ő?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Nincs többé már itt; mert hogy visszatért ide,</l>
+                  <l>S a trónon téged látott s halva Laïost,</l>
+                  <l>Esengve kére, megragadva kezemet,</l>
+                  <l>Bocsássam a mezőre, a juhnyájhoz őt,</l>
+                  <l>Hogy a várostól mentől távolabb legyen.</l>
+                  <l>El is bocsátám; mert akármily szolga volt,</l>
+                  <l>Ennél nagyobb kegyelmet is megérdemelt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Lehetne ismét gyorsan visszahivni őt?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Minden bizonynyal; ámde mért kivánod ezt?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, asszony, félek attól, hogy nagyon sokat</l>
+                  <l>Mondottam már, a mért most látni vágyom őt.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>El fog hát jönni; ám én is méltó vagyok</l>
+                  <l>Megtudni, hogy mi gyötri kebledet, király.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem hallgatok, ha kinzó aggodalmaim</l>
+                  <l>Eddig jutottak már. Ki volna kívüled,</l>
+                  <l>Kinek méltóbban mondhatnám el sorsomat?</l>
+                  <l>Atyám korinthi Polybos volt, és anyám</l>
+                  <l>A dorisi Merope. Legnagyobb valék</l>
+                  <l>Én ott a polgárok közt, miglen oly eset</l>
+                  <l>Történt velem, mely méltán meglepett ugyan,</l>
+                  <l>De nem volt méltó haragomra, mely kigyúlt.</l>
+                  <l>Egy ember, lakománál, borozás között,</l>
+                  <l>Ittas fővel cserélt fiúnak nevezett.</l>
+                  <l>Csak nehezen tartottam vissza e napon</l>
+                  <l>Boszúmat; s másnap megkérdém szülőimet,</l>
+                  <l>Kik e sértésért nagy haragra gyultanak</l>
+                  <l>Ez ember ellen, hogy ilyen szót ejte ki.</l>
+                  <l>És én elégedett voltam velök; de még</l>
+                  <l>Mindig gyötört ez; mert nagyon szétment hire.</l>
+                  <l>Szülőim tudtán kivül elmenék tehát</l>
+                  <l>Pythóba. És Apollo, bár nem méltatott</l>
+                  <l>Válaszra abban, a miért jövék; de más</l>
+                  <l>Szörnyű, rettentő sorsot nyilváníta ki,</l>
+                  <l>Hogy nászra kell anyámmal lépnem, és e föld</l>
+                  <l>Szinére elviselhetetlen fajt hozok,</l>
+                  <l>S atyámnak, a ki nemzett, gyilkosa leszek.</l>
+                  <l>Ezt hallva elfutottam, s ezután csupán</l>
+                  <l>A csillagok szerint mértem ki, merre van</l>
+                  <l>Korinth vidéke,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_44">44)</ref> hogy ne lássam magamon</l>
+                  <l>Beteljesülni ezt a szörnyű jóslatot.</l>
+                  <l>S tovább haladva eljuték a tájra, hol</l>
+                  <l>– Miként te mondád – meggyilkolták a királyt.</l>
+                  <l>Midőn a hármas úthoz már közel valék,</l>
+                  <l>Egy fullajtár jött szembe vélem, s fiatal</l>
+                  <l>Csikóktól vont szekéren olyan férfiú,</l>
+                  <l> Minőt leirtál; a szekérhajtó s maga</l>
+                  <l>Az aggastyán erővel félre űztenek.</l>
+                  <l>Én haragomban megütöttem a kocsist,</l>
+                  <l>Ki eltaszított; az aggastyán látva ezt,</l>
+                  <l>S kilesve, a mint a szekérhez érkezém,</l>
+                  <l>Kettős hegyű botjával fejtetőmre sujt.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_45">45)</ref>
+                  </l>
+                  <l>De nem hasonló viszonzást nyert; hirtelen</l>
+                  <l>Reá sujték botommal, és ő a szekér</l>
+                  <l>Öléből tüstént fejtetőre kibukott;</l>
+                  <l>Aztán meggyilkolám a többit. Ha talán</l>
+                  <l>Rokonság van ez idegen s Laïos között,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_46">46)</ref>
+                  </l>
+                  <l>Ki nyomorultabb akkor, mint ennen magam,</l>
+                  <l>Ki az, kit inkább gyűlölnek az istenek?</l>
+                  <l>Kit nem fogadhat sem polgár, sem idegen</l>
+                  <l>Lakába, nem beszélhet hozzá senki sem;</l>
+                  <l>Elűzi házából mindenki. S én magam</l>
+                  <l>Mondám fejemre ezt az átkot, senki más.</l>
+                  <l>A holtnak ágyát meggyalázzák kezeim,</l>
+                  <l>Melyek meggyilkolák őt. Nem vagyok gonosz?</l>
+                  <l>Nem minden ízemben tisztátlan? Hogyha el</l>
+                  <l>Kell innen futnom, nem szabad enyéimet</l>
+                  <l>Meglátnom, sem hazámba tennem lábamat,</l>
+                  <l>Nehogy anyámmal nászra lépjek, s Polybost</l>
+                  <l>Megöljem, a ki nemzett engem s fölnevelt.</l>
+                  <l>Nem eltalálja a valót, ki azt hiszi,</l>
+                  <l>Hogy mind e bajt kegyetlen dæmon küldi rám?</l>
+                  <l>Soha, soha ne lássam többé e napot,</l>
+                  <l>Oh isten szent felsége! Inkább tünjem el</l>
+                  <l>Az emberek szeméből, hogysem magamon</l>
+                  <l>Betelni lássam ennyi balsors szégyenét.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Reánk is aggasztó ez, oh, király, de mig</l>
+                  <l>Ki nem hallgattad a tanút, bizzál s remélj.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ugyis csupán ez egyetlen remény maradt</l>
+                  <l>Számomra, hogy a pásztort várjam még ide.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>És mit vársz tőle, hogyha majd megérkezett?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Megmondom. Ha megegyezik azzal szava,</l>
+                  <l>A mit te mondál, úgy többé nem rettegek.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mit hallottál te tőlem olyan feltünőt?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Azt mondád, hogy szerinte rablók voltanak,</l>
+                  <l>Kik meggyilkolták Laïost. Ha most is ily</l>
+                  <l>Többes számban szól, úgy nem én öltem meg őt;</l>
+                  <l>Hiszen egy embert többnek nézni nem lehet.</l>
+                  <l> De ha csupán egy vándorról fog szólani,</l>
+                  <l>Világos akkor, hogy rám súlyosúl e tett.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Tisztán igy szóla akkor, hidd el biztosan,</l>
+                  <l>És nem lehet, hogy visszavonja most szavát;</l>
+                  <l>Mert az egész nép hallá, nem csak én magam.</l>
+                  <l>De ha első szavától el is térne tán,</l>
+                  <l>Mégsem derítené fel bizton, oh, király,</l>
+                  <l>Laïos halálát; hisz kimondá Loxias,</l>
+                  <l>Hogy gyermekem kezétől kell meghalnia.</l>
+                  <l>És e szegény bizonynyal meg nem ölte őt,</l>
+                  <l>Mert már előbb elveszté önnön életét.</l>
+                  <l>Azért bizony sem erre, sem amarra nem</l>
+                  <l>Tekintenék én többé jóslatok miatt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Helyes beszéd. De mégis küldj el valakit</l>
+                  <l>E szolgáért, hadd jöjjön; ne mulaszd el ezt.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Azonnal érte küldök, s most menjünk haza.</l>
+                  <l>Nem tennék semmit, a mi nem kedves neked.</l>
+               </lg>
+               <lg>
+                  <l>(Oedipus, Jokaste a palotába mennek.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Oh, vajha sorsom lehetne,</l>
+                  <l>Szüntelen megóvni ajkam s tetteim</l>
+                  <l>Szent tisztaságát, mint az égi törvény</l>
+                  <l>Rendeli, mely mennyei fény</l>
+                  <l>Ölén született, s egyedül Olympos</l>
+                  <l>Volt atyja, nem emberi</l>
+                  <l>Múló akarat szülé,</l>
+                  <l>S melyet nem altat el sohasem a feledés, homály.</l>
+                  <l>A nagy isten élteti azt s nem évül el.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>A büszkeség zsarnokot szül;</l>
+                  <l>És ha dőrén felfuvalkodván, magát</l>
+                  <l>Eltölti azzal, mi nem üdvös és jó,</l>
+                  <l>S fölhatol a legmagasabb</l>
+                  <l>Oromra: lehull onnan mély nyomorba,</l>
+                  <l>Honnan soha nem viszik</l>
+                  <l>Ki lábai. Ám az ég</l>
+                  <l>Vezesse győzelemre a harczot honom üdveért.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_47">47)</ref>
+                  </l>
+                  <l>A nagy isten volt s marad útamon vezér.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Ámde kinek szavát s kezét a büszkeség ragadja el,</l>
+                  <l>Nem tiszteli istenek lakát s Dikétől nem remeg,</l>
+                  <l>Azt érje a végzet átka,</l>
+                  <l>Gőgje büntetéseül,</l>
+                  <l>Ha jogtalan hasznot keres magának,</l>
+                  <l>A bűnnek útjain halad,</l>
+                  <l>S dőrén az ellen szól, mi sérthetetlen.</l>
+                  <l>Az ily bünös keble hogy maradna ment</l>
+                  <l>A boszú sujtó nyilától?</l>
+                  <l>Mert ha ily tett is jutalmat érdemel:</l>
+                  <l>Miért az imádság?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Nem megyek áhítattal én a földközép<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_48">48)</ref> felé soha,</l>
+                  <l>Olympia<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_49">49)</ref> szent helyére, Abæ<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_50">50)</ref> templomába sem,</l>
+                  <l>Ha nem teljesül e jóslat</l>
+                  <l>Az egész világ előtt.</l>
+                  <l>Mindenható Zeus – hogyha joggal illet</l>
+                  <l>E név – ki mindenek fölött</l>
+                  <l>Úr vagy, ne légyen rejtve ez előled!</l>
+                  <l>Az ősi jóslat, melyet Laïos kapott,</l>
+                  <l>Megvetésnek tárgya lett már,</l>
+                  <l>És Apollo fénye nem ragyog sehol,</l>
+                  <l>Eltűnik a szentség.</l>
+               </lg>
+               <lg>
+                  <l>(Jokaste jő a palotából hölgyeivel, kik koszorúkat, korsókat s illatszereket hoznak.)</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Országnagyok, azt gondolám, az istenek</l>
+                  <l> Szent templomába térek, felajánlani</l>
+                  <l>E koszorúkat és ez illatszereket.</l>
+                  <l>Tulságosan kinozza Oedipus szivét</l>
+                  <l>Ezernyi gond; s az újat nem fontolja meg,</l>
+                  <l>Mint bölcshez illenék, a régiek szerint,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_51">51)</ref>
+                  </l>
+                  <l>Nem; minden szóra hallgat, mely megrémiti.</l>
+               </lg>
+               <lg>
+                  <l>(Az oltár felé fordul, melyet hölgyei ezalatt megkoszorúztak s rajta tüzet gyujtottak, s illatszereket szór a lángok közé.)</l>
+               </lg>
+               <lg>
+                  <l>Mivel tanácsom rajta semmit sem segit,</l>
+                  <l>Lykeios Phœbos<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_52">52)</ref> (mert te vagy legközelebb)</l>
+                  <l>Ez áldozattal kérve hozzád fordulok:</l>
+                  <l>Adj tiszta, szent feloldást bajaink alól;</l>
+                  <l>Mert reszketünk mindnyájan, látva, hogy hajónk</l>
+                  <l>Kormányosát mily félelem bénitja meg.</l>
+               </lg>
+               <lg>
+                  <l>(A korinthi követ fellép.)</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Megtudhatnám-e tőletek, idegenek,</l>
+                  <l>Hol lelhetem föl Oedipus király lakát?</l>
+                  <l>Vagy inkább mondjátok meg, hol van ő maga.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ez háza és ő benn van most, oh, jövevény!</l>
+                  <l>S e nőben gyermekeinek anyját láthatod.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Legyen hát boldog s éljen mindig boldogok</l>
+                  <l>Között, e férfiúnak áldott hitvese.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Ezt kívánom viszont neked, oh, idegen,</l>
+                  <l>Méltó vagy rá e szives óhajtásodért;</l>
+                  <l>De mondd, mi kívánságod, milyen hirt hozál?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Jó hírt házadnak es férjednek, asszonyom.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Minő hir az? Kinek részéről küldetél?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Korinthból; és a hirnek, a melyet hozok,</l>
+                  <l>Örülni fogsz, hogy is ne; s tán bánkódni is.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>De mily hir az? Kettős hatása mint lehet?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Királyunkká akarják őt választani</l>
+                  <l>A földszoros<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_53">53)</ref> lakói; igy beszélik ott.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Hogyan? Nem ül már trónusán ősz Polybos?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Nem többé; sirba rejté őt már a halál.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz, oh, aggastyán! Meghalt Polybos?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Ha nem valót beszélek, haljak meg magam.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>JOKASTE (egyik hölgyéhez.)</l>
+               </lg>
+               <lg>
+                  <l>Leányom, menj sietve tudtul adni ezt</l>
+                  <l>Uradnak. És ti, istenek jóslatjai,</l>
+                  <l>Hol vagytok? Ez volt, a kit Oedipus került,</l>
+                  <l>Félvén, nehogy megölje őt; és ime, most</l>
+                  <l>A sors vevé el életét, nem Oedipus.</l>
+               </lg>
+               <lg>
+                  <l>(Oedipus fellép).</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, szeretett Jokaste, drága nőm, miért</l>
+                  <l>Hivattál ki a palotából engemet?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Hallgasd ez embert, s meghallgatva lásd, hová</l>
+                  <l>Jutott az istenek felséges jóslata.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ki hát ez ember és minő hirt hoz nekem?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Korinth földéről érkezik, jelentve hogy,</l>
+                  <l>Nincs már életben, meghalt Polybos, atyád.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz? Add tudtomra, idegen, magad.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Ha ezt kell legelőször tisztán mondanom,</l>
+                  <l>Tudd biztosan, hogy elragadta a halál.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Csalárdság ölte-é meg, avagy kór keze?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Megdönt elaggott testet egy könnyű lökés.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Igy hát, mint látom, kór ölé meg a szegényt.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>S a kóron kívül élte hosszú évei.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ah, ah! Miért hát megkérdezni, hitvesem,</l>
+                  <l>A jós Pytho oltárát és a madarak</l>
+                  <l>Légben rikoltó hangját! Hisz megjósolák,</l>
+                  <l>Hogy meg fogom atyámat ölni, és ime,</l>
+                  <l>A föld alatt pihen már ő, s én itt vagyok,</l>
+                  <l>Kardot se’ fogva – ha csak nem az ölte meg,</l>
+                  <l>Hogy értem vágyott; – így hoztam rá csak halált.</l>
+                  <l>Hades keblében nyugszik Polybos, vele</l>
+                  <l>A sirba szálltak e hivságos jóslatok.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Nem mondtam én ezt régtől fogva már neked?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mondtad; de engem megzavart a félelem.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Ne engedj hát most ennek szívedben helyet.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogyan? S anyámnak ágyától ne féljek-e?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mit féljen az, kit a véletlen sors vezet,</l>
+                  <l>De a jövőben nem lát semmit biztosan?</l>
+                  <l>Legjobb vaktában élni, a mint csak lehet.</l>
+                  <l>Azért anyád nászától egy cseppet se félj;</l>
+                  <l>Sok ember látta már álmában önmagát</l>
+                  <l>Mint anyja férjét. Ám ki ezt föl sem veszi,</l>
+                  <l>Az könnyedén átéli földi napjait.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Helyes beszédnek mondanám minden szavad,</l>
+                  <l>Ha már anyám nem volna életben; de mert</l>
+                  <l>Még él, szükséges félnem, bármi jól beszélj.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Atyádnak sirja mégis nagy vigasz reád.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Elismerem; de az élőtől rettegek.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Mily asszony az, ki ily nagy félelemre készt?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Merope, oh, aggastyán! Polybos neje.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>S mi benne az, mi ily nagy rettegésbe ejt?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Egy isten-küldte szörnyü jóslat, idegen!</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Elmondható-e? Vagy nem tudhat róla más?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Sőt inkább. Azt jósolta hajdan Loxias,</l>
+                  <l>Hogy frigyesülnöm kell saját anyámmal, és</l>
+                  <l>Atyám vérét ennen kezemmel ontanom.</l>
+                  <l>Ezért távoztam régtől fogva messzire</l>
+                  <l>Korinthtól, és szerencsém volt ez – ah! pedig</l>
+                  <l>Nincs édesebb, mint a szülők tekintete.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>S ettől való féltedben számüzéd magad?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy ne legyek atyám gyilkosa, oh, öreg!</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Miért ne oldjalak fel téged, oh, király,</l>
+                  <l>E rettegéstől? Hisz jó szándékkal jövék.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Bizonynyal méltó hála jutna részedül.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Azért jövék leginkább, hogy ha egykoron</l>
+                  <l>Honodba térsz, jutalmat nyerjek tőled ott.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Szülőimhez nem térek vissza én soha.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Jól látom, nem tudod, mit tészsz, oh, gyermekem!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogyan, öreg? Az égre magyarázd meg ezt!</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Ha ez az ok, mely a hazától futni keszt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Félek, nehogy elérjen Phœbos jóslata.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Hogy fertőzet ne érjen szüleid miatt?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Igen, aggastyán, ettől félék szüntelen.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Nos hát tudod, hogy minden ok nélkül remegsz?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogyan? Hát nem vagyok szülőim gyermeke?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Mert Polybosnak nincsen törzsedhez köze.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz! Nem Polybos nemzett engemet?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Nem inkább, mint saját magam, csak épen úgy.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy volna egyenlő atyámmal, ki nem az?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Ép úgy nem volt atyád ő, mint én nem vagyok.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>De mért mondott hát gyermekének engemet?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Mert, tudd meg, kezeimből nyert ajándokul.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S más kézből nyerve, oly nagyon szerethetett?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Hosszú gyermektelenség birta erre őt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S te vettél engem, vagy véletlenül lelél?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Kithæron erdős völgytorkában leltelek.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S miért vevéd ezen vidékre útadat?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>A nyájat őrzém, mely a hegységben legelt.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Pásztor valál hát, a ki bérért vándorol?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>S azon időben megmentőd is, gyermekem.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mitől mentél meg? Mily gyötrelmet szenvedék?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Bizonyságot tehetnek lábcsuklóid is.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, jaj, miért emlited régi bajomat?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Én oldtam fel keresztül fűzött lábadat.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ily szörnyü volt a pólya, melyet viselék!</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>E balszerencse adta aztán nevedet.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Atyámtól vagy anyámtól? Oh, az égre, szólj!</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Ezt jobban tudja, a kitől átvettelek.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Tehát mástól vevél át, nem magad lelél?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Nem; más pásztor volt, a ki átadott nekem.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ki volt az? Nem tudnád-e megnevezni őt?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Ugy mondák, Laïos háznépéhez tartozott.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ahhoz, ki egykoron e föld királya volt?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Igen, ezen királynak volt ő pásztora.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>És él-e még ez ember, hogy láthassam őt?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET (a karhoz).</l>
+               </lg>
+               <lg>
+                  <l>Ti benszülöttek, legjobban tudjátok ezt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ti, kik mellettem álltok valamennyien,</l>
+                  <l>Van köztetek, ki ezt a pásztort ismeri,</l>
+                  <l>S akár kinn a mezőn, akár itt látta őt?</l>
+                  <l>Beszéljetek; most jő napfényre a titok.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Azt vélem, nem lesz senki más, mint épen az,</l>
+                  <l>Kit már előbb kivántál látni; ámde nőd</l>
+                  <l>Jokaste legjobban meg tudná mondani.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit gondolsz, asszony, egy személy-e az, a kit</l>
+                  <l>Behívatánk, és, az kiről emez beszél?</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Mi az? Kiről szólt? Mit törődöl te vele?</l>
+                  <l>Hiú beszédét legjobb lesz ha feleded.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Azt nem teszem, hogy ily nyomokra jutva most,</l>
+                  <l>Ne hozzam napvilágra származásomat.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Az istenekre, ne kutasd ezt, ha saját</l>
+                  <l>Élteddel gondolsz. Ah! elég az én kinom.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Bizzál! Legyek bár harmadik anyám szerint</l>
+                  <l>Hármas rabszolga, nem hoz az szégyent reád.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_54">54)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Oh, kérlek, hagyj föl ezzel és fogadd szavam.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem tehetem, föl kell derítnem a homályt.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Én jót akarva legjobbat tanácsolok.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>E legjobb az, mi régtől gyötri lelkemet.</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Boldogtalan, bár meg ne tudnád, hogy ki vagy!</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS (egyik szolgájához).</l>
+               </lg>
+               <lg>
+                  <l>Menj és vezesd azonnal a pásztort elém.</l>
+               </lg>
+               <lg>
+                  <l>(Jokaste felé.)</l>
+               </lg>
+               <lg>
+                  <l>Ez meg fényes törzsére büszke hadd legyen.</l>
+               </lg>
+               <lg>
+                  <l>(A szolga elsiet.)</l>
+               </lg>
+               <lg>
+                  <l>JOKASTE.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, jaj, boldogtalan! Ez egy szóval lehet</l>
+                  <l>Téged szólitnom, semmi mással ezután.</l>
+               </lg>
+               <lg>
+                  <l>(Elrohan a palotába.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Miért rohant el a királyné, Oedipus,</l>
+                  <l>Ily keserű bánattal? Rettegek, nehogy</l>
+                  <l>E hallgatásból nagy bajok támadjanak.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hadd jöjjön, a minek reám kell jönnie,</l>
+                  <l>De törzsöm ismernem kell, bárminő csekély.</l>
+                  <l>Amaz meg, nagyralátó asszony létire,</l>
+                  <l>Hadd szégyenelje aljas származásomat.</l>
+                  <l>Ám én, szerencse-osztó Tyche<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_55">55)</ref> fiaként</l>
+                  <l>Tekintve enmagam, pirúlni nem fogok.</l>
+                  <l>Ő volt anyám; s éltem kisérő holdjai</l>
+                  <l>Kicsinynyé majd meg nagygyá tettek engemet.</l>
+                  <l>Ilyen levén, más czélra törni nem fogok,</l>
+                  <l>Mint arra, hogy megtudjam származásomat.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Versszak.</l>
+               </lg>
+               <lg>
+                  <l>Ha a jövőt látja jós szemem, s agyamban ész honol,</l>
+                  <l>Ugy az Olympra, megéred, oh Kithæron,</l>
+                  <l>Hogy mihelyt feljő az égre holnap</l>
+                  <l>A tele hold, sugarát mint Oedipus</l>
+                  <l>Anyja s dajkája köszöntöd,</l>
+                  <l>S tánczczal ünneplünk, ki országunk fejedelminek oly nagy</l>
+                  <l>Jótevője voltál.</l>
+                  <l>Engedd, legyen így kedvedre, gyógyító Phœbos!</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>Ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Isteni lányok közül ki volt, kitől éltet nyerél?<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_56">56)</ref>
+                  </l>
+                  <l>Kedvese tán a hegyen bolyongó Pánnak?</l>
+                  <l>Vagy Apollo karja közt pihent? Mert</l>
+                  <l>Kedveli ő is az erdős bérczeket.</l>
+                  <l>Tán a kyllenei isten,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_57">57)</ref>
+                  </l>
+                  <l>Vagy hegyormon székelő Bakchos fia, vagy Helikonnak</l>
+                  <l>Játszi gyermekétől?<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_58">58)</ref>
+                  </l>
+                  <l>Hisz sokszor enyelge ő a bérczi nymphákkal.</l>
+               </lg>
+               <lg>
+                  <l>(A pásztor föllép.) </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS (a karhoz).</l>
+               </lg>
+               <lg>
+                  <l>Gyanítom, ámbár nem találkozám vele</l>
+                  <l>Előbb soha, hogy azt a pásztort látom itt,</l>
+                  <l>Kit régtől fogva keresénk; mert aggkora</l>
+               </lg>
+               <lg>
+                  <l>(A korinthi követre mutatva.)</l>
+               </lg>
+               <lg>
+                  <l>E férfiúval ép’ egyenlővé teszi,</l>
+                  <l>S azokban, kik kisérik, jól ráismerek</l>
+                  <l>Cselédjeimre; ám te jobban tudhatod,</l>
+                  <l>Mint én, hisz ezelőtt is többször láttad őt.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ráismerek bizonynyal; mert hű pásztora</l>
+                  <l>Volt ő Laïosnak mindig, mint tán senki más.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Először, oh, korinthi idegen, te szólj:</l>
+                  <l>Erről beszéltél?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Erről, a kit lát szemed.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS (a pásztorhoz.)</l>
+               </lg>
+               <lg>
+                  <l>Te meg, öreg, tekints reám és válaszolj</l>
+                  <l>Kérdéseimre. Hajdan Laïos volt urad?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Igen, de nem vásárolt; nála születém.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Minő munkád volt, milyen életét vivél?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>A nyájat őrzém éltem legtöbb napjain.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S leginkább mily vidéken választál tanyát?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Kithæron hegységében vagy hozzá közel.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Emlékezel, hogy láttad ott e férfiút?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Minő dologban? Milyen férfiról beszélsz?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Erről, ki itt áll. Volt-e már dolgod vele?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Hamarjában nem emlékezhetem reá.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Nem is lehet csodálni, oh, király! De én</l>
+                  <l>Tisztán eszébe juttatom. Mert jól tudom,</l>
+                  <l>Emlékszik arra, hogy Kithæron oldalán</l>
+                  <l>(Ő kettős nyájat őrizvén, csak egyet én)</l>
+                  <l>Tavasztól őszig én magam s e férfiú</l>
+                  <l>Három félévet éltünk szomszédok gyanánt;</l>
+                  <l>S a tél jöttével én saját tanyám felé,</l>
+                  <l>Ő meg Laïos aklába hajtá nyájait.</l>
+                  <l>Akként történt-e, mint elmondám, vagy nem úgy?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Való, mit mondasz, bár hosszú idője mult.</l>
+               </lg>
+               <lg>
+                  <l>KÖVET.</l>
+               </lg>
+               <lg>
+                  <l>Mondd hát, emlékszel a fiúra, kit nekem</l>
+                  <l>Adál, hogy fölneveljem, mint sajátomat?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Mi ez? Mi végre kérdezed most tőlem ezt?</l>
+               </lg>
+               <lg>
+                  <l>KÖVET (Oedipusra mutat).</l>
+               </lg>
+               <lg>
+                  <l>Itt áll, barátom, a fiú, kit átadál.</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Vesztedre indulsz? Nem hallgatsz el iziben?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ah, meg ne ródd e férfiú szavát, öreg,</l>
+                  <l>Mert inkább illet téged, mint őt megrovás.</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>De hát miben vétkeztem, oh, legjobb király?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem szólsz, kiről ez kérdez, a fiú felől.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Semmit se tudva szólt ez, ámde hasztalan.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ha jó szántodból nem beszélsz, majd sírva szólsz.</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Az égre, kimélj, vén létemre, engemet.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS (szolgáihoz).</l>
+               </lg>
+               <lg>
+                  <l>Kössétek tüstént hátra mind a két kezét.</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj, miért? Mit kívánsz tőlem hallani?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Te adtad ennek a fiút, kiről beszél?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Én adtam. Bár meghaltam volna az napon!</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ma fogsz meghalni, ha nem mondasz igazat.</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Előbb halok meg, ha kimondom a valót.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ez ember, a mint látszik, kibuvót keres.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Bizonynyal nem; hisz rég mondám: én adtam át.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Kitől vevéd? Sajátod volt vagy másoké?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Nem volt sajátom, más kezéből vettem át.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Minő polgártól, milyen házból származott?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Ne kérdj, az égre, oh ne kérdj többet, király!</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Meghalsz, ha még másodszor kell ezt kérdenem.</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>A gyermek Laïos háznépéhez tartozott.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Szolgától vagy királyi törzsből született?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, jaj! rettentő az, mit mondani fogok.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S én hallani; de még is meg kell hallanom.</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Laïos fiának mondák; ám nőd oda benn</l>
+                  <l>Legjobban elmondhatja, mind ez mint esett.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ő adta át tehát neked?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Igen király!</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Minő szándékkal?</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Hogy kioltsam életét.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Saját szülője! Szörnyü!</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Bal jóslat miatt.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mi volt az?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>Hogy meg fogja ölni szüleit.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>S miért adád ez aggastyán kezébe őt?</l>
+               </lg>
+               <lg>
+                  <l>PÁSZTOR.</l>
+               </lg>
+               <lg>
+                  <l>A szánalom vitt rá, király, azt vélve, hogy</l>
+                  <l>Honába, távol földre fogja vinni őt;</l>
+                  <l>De csak szörnyű bajokra tartá fenn. Ha te</l>
+                  <l>Vagy az, kiről szólt, úgy bánatra születél.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, jaj, jaj! Minden tisztán napvilágra jött.</l>
+                  <l>Oh, fény, utószor látlak immár téged én,</l>
+                  <l>Ki születém, hol nem kellett, ki férj valék,</l>
+                  <l>Hol nem lehet, s megöltem azt, kit nem szabad.</l>
+               </lg>
+               <lg>
+                  <l>(El a palotába. A követ és pásztor másfelé távoznak.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Ah, emberek, emberek!</l>
+                  <l>Kik itt éltek a föld szinén,</l>
+                  <l>Oh, mily semmi az élet!</l>
+                  <l>Ki az, hol a férfiú,</l>
+                  <l>Hogy több élv juta részeül,</l>
+                  <l>Mint mennyit ad a képzelet,</l>
+                  <l>Mely képzelve enyészik?</l>
+                  <l> Gyász példád im előttem áll,</l>
+                  <l>S szörnyü végzeted, Oedipus,</l>
+                  <l>És boldognak az ég alatt</l>
+                  <l>Senkit se dicsérek.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>A legmagasabb fokig</l>
+                  <l>Jutottál utadon, merő</l>
+                  <l>Boldogság vala részed</l>
+                  <l>(Oh Zeus!) letiportad a</l>
+                  <l>Horgas körmü, dalos szüzet,</l>
+                  <l>S védő bástya gyanánt e hont</l>
+                  <l>Megmentéd a haláltól.</l>
+                  <l>És ezért a királyi trón</l>
+                  <l>S fényes Theba uralma lett</l>
+                  <l>Osztályrészed, a legnagyobb</l>
+                  <l>Fény, tisztelet ére.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>De most, ki az, kit nagyobb nyomor gyötör,</l>
+                  <l>Ki boldogtalanabb az emberek</l>
+                  <l>Között, ki sülyedt annyira?</l>
+                  <l>Oh, jaj, Oedipus dicső feje!</l>
+                  <l>Mért fogadta egy</l>
+                  <l>Rév ölébe, ah!</l>
+                  <l>Az atyát s fiút,</l>
+                  <l>S a szülöttet férj gyanánt?</l>
+                  <l>Mint lehet az, miként lehet,</l>
+                  <l>Hogy boszulatlan elviselt</l>
+                  <l>Ennyi időn át szülői telked?</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Nyomorba ért a mindent látó idő,</l>
+                  <l>Elitélve a szörnyü nászfrigyet,</l>
+                  <l>Melyet szülő s szülött kötött.</l>
+                  <l>Oh, jaj, Laïos szegény fia!</l>
+                  <l>Bár ne láttalak</l>
+                  <l>Volna én soha.</l>
+                  <l>Nem találhatok</l>
+                  <l>Szavakat, keservemet</l>
+                  <l>Hogy kifejezzem. Hisz valót</l>
+                  <l>Szólva, te adtad éltemet</l>
+                  <l>Vissza, te hoztál szememre álmot.</l>
+               </lg>
+               <lg>
+                  <l>(A hirmondó jő a palotából.)</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Ti, e hazának mindig tisztelt nagyjai,</l>
+                  <l>Mit fogtok látni, oh, mit fogtok hallani,</l>
+                  <l>Mily szörnyü lesz fájdalmatok, ha Labdakos</l>
+                  <l>Házát még nagyra tartja honfi kebletek!</l>
+                  <l>Mert sem az Ister, sem a Phasis árjai<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_59">59)</ref>
+                  </l>
+                  <l>Nem moshatják tisztára e ház rejtező</l>
+                  <l>Bünszennyét, s nemsokára napvilágra jő</l>
+                  <l>A szándékos, nem kényszerített borzalom.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_60">60)</ref>
+                  </l>
+                  <l>S minden baj közt a szándékos legsúlyosabb.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>Mi sem hiányzik abban, a mit már tudunk,</l>
+                  <l>A borzalomból; mit mondhatsz ezen kivül?</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Kevés szóval kimondhatom s megértheted:</l>
+                  <l>A felséges Jokaste már halálra vált.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Boldogtalan! és mi hozott reá halált?</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Saját keze. De azt, mi legfájdalmasabb,</l>
+                  <l>Nem érezed; mert szemtanúja nem valál;</l>
+                  <l>Mégis, mint emlékemben megmaradhatott,</l>
+                  <l>Hallgasd meg a szegénynek szenvedéseit.</l>
+                  <l>Bősz fájdalmában átfutván a csarnokon,</l>
+                  <l>A nászágyas terembe rohant egyenest,</l>
+                  <l>Mindkét kezével tépve bomlott fürtjeit.</l>
+                  <l>Aztán belülről jól bezárva ajtaját,</l>
+                  <l>Laïos nevét kiáltá, a ki rég halott,</l>
+                  <l>Emlitve régi nászát, mely megölte őt,</l>
+                  <l>És önfiának hagyta hátra özvegyét,</l>
+                  <l>Hogy gyermekétől szüljön átkos fajzatot.</l>
+                  <l>Siratta ágyát, hol kétszer boldogtalan,</l>
+                  <l> A férjtől férjet s gyermektől szült gyermeket.</l>
+                  <l>Mily módon halt meg ezután, azt nem tudom;</l>
+                  <l>Mert Oedipus orditva tört be ekkor, és</l>
+                  <l>Miatta nem láthattuk szenvedéseit;</l>
+                  <l>Csak erre néztünk, mint rohant fel és alá.</l>
+                  <l>Futkosva kardot kére tőlünk, majd megint</l>
+                  <l>Nejét kérdé, ki nem neje, s a kétszeres</l>
+                  <l>Anyát, ki őt és önnön sarjait szülé.</l>
+                  <l>Egy isten végre megmutatta, hol van ő,</l>
+                  <l>Mert a jelenlevőkből egy sem mutatá.</l>
+                  <l>Mikéntha titkos kéz vezetné, iszonyún</l>
+                  <l>Kiáltva, most a kétszárnyú ajtóra ment,</l>
+                  <l>Kiemelé sarkából, s a szobába tört.</l>
+                  <l>S itt láttuk a királynét hurkolt kötelen</l>
+                  <l>Magasról függve. A mint a boldogtalan</l>
+                  <l>Ezt látta, szörnyü ordítással rá rohant,</l>
+                  <l>S feloldozá a fonalat. S mig a szegény</l>
+                  <l>Földön feküdt, borzasztót láttak szemeink:</l>
+                  <l>Kitépte az aranyból készült kapcsokat,</l>
+                  <l>Melyek fentarták a királyné öltönyét,</l>
+                  <l>S felkapva két szemébe verte, hangosan</l>
+                  <l>Kiáltva: Nem láttátok eddig, mit teszek,</l>
+                  <l>Nem láttátok, mit szenvedék, mit vétkezém,</l>
+                  <l>Lássátok most sötétben, kit nem volt szabad</l>
+                  <l>Látnom, s ne ismerjétek, kit kivántatok.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_61">61)</ref>
+                  </l>
+                  <l>Igy átkozódva feltartá pilláit és</l>
+                  <l>Többször szemébe szúrt; a vérző szemgolyók</l>
+                  <l>Megöntözék orczáit; nem csepegve húllt</l>
+                  <l>A vér sebéből; ah! áradva tört elő</l>
+                  <l>Szeméből fekete vérének zápora.</l>
+                  <l>Kettőtől és nem egytől származott e vész,</l>
+                  <l>A férfiút s az asszonyt sujtva egyaránt.</l>
+                  <l>A régi áldás, mely e ház fölött pihent,</l>
+                  <l>Valóban áldás volt ugyan, de a mai</l>
+                  <l>Napon gyalázat, átok, siralom, halál,</l>
+                  <l>S mi rossz név csak van, nem hiányzik egy sem itt.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>S miként pihent meg gyötrelmében a szegény?</l>
+               </lg>
+               <lg>
+                  <l>HIRMONDÓ.</l>
+               </lg>
+               <lg>
+                  <l>Kiált, nyissák ki a kaput, s a kadmosi</l>
+                  <l>Népnek mutassák azt, ki apját megölé,</l>
+                  <l>Ki anyját – ah! nem mondhatom szörnyű szavát.</l>
+                  <l>Önnön magát akarja most száműzni ő,</l>
+                  <l>Mert önmagára mondott átka üldözi,</l>
+                  <l>De szükséges számára oltalom s vezér;</l>
+                  <l>Mert szenvedése súlyát nem viselheti.</l>
+                  <l>Saját szemeddel láthatod. Im a kapu</l>
+                  <l>Megnyilik már; oly látvány tűnik most eléd,</l>
+                  <l>Mely szánalomra indít ellenséget is.</l>
+               </lg>
+               <lg>
+                  <l>(Oedipust szolgák vezetik a palotából.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Oh, iszonyu látvány emberi szemnek!</l>
+                  <l>Oh, legiszonyúbb mindannyia közt,</l>
+                  <l>Mely előmbe tünt valaha! Oh, nyomorult,</l>
+                  <l>Mi vad őrület szállt meg? Melyik isten</l>
+                  <l>Sujtotta fejedre csapásainak</l>
+                  <l>Legszörnyűbb csapását?</l>
+                  <l>Jaj, jaj! Oh, szegény!</l>
+                  <l>Nem nézhetem arczodat, ah! pedig én</l>
+                  <l>Annyit akarnék kérdeni tőled, tudni felőled,</l>
+                  <l>De borzalom fog el engem.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, jaj!</l>
+                  <l>Oh, boldogtalan én! Hova, mily</l>
+                  <l>Földre jutok? Hova hangzik a szó</l>
+                  <l>Ajkamról? Sorsom, mire váltál?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Nem látott, hallott borzalommá változott.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh, iszonyú,</l>
+                  <l>Oh, örök éji homály, melynek neve nincs,</l>
+                  <l>Nincs irja, határa!</l>
+                  <l>Jaj! jaj!</l>
+                  <l>És még egyszer jaj! Egyesülve gyötrenek</l>
+                  <l>Sebem fájdalma és szörnyű emlékeim!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ily gyászos, rettentő nyomorban nem csoda,</l>
+                  <l>Ha kétszer érzed és panaszlod kínodat.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh, hű barát,</l>
+                  <l>Oldalomon maradál s gondját viseled</l>
+                  <l>Annak, kit az éj fed.</l>
+                  <l>Jaj! jaj!</l>
+                  <l>Mert nem vagy rejtve, tisztán hallom hangodat,</l>
+                  <l>S megismerem, bár éjhomály borul reám.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Szörnyű tett! Oh, mint olthatád ki igy szemed</l>
+                  <l>Világát? Melyik isten biztatott reá?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Apollo, igen, Apollo vala,</l>
+                  <l>Betetőzve ekként kinjaimat.</l>
+                  <l>De senki más nem sujta rám, saját kezem tevé.</l>
+                  <l>Miért a szem nekem,</l>
+                  <l>Ki látva semmi kellemest nem láthatok?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Valóban úgy van, mint beszélsz.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Mi az, mit látnom, szeretnem, mi az, mit hallanom</l>
+                  <l>Kedves lehetne rám, barátaim?</l>
+                  <l>Oh, vigyetek, vigyetek el innen engemet,</l>
+                  <l>Vigyetek el, ki e föld átka vagyok,</l>
+                  <l>Leggonoszabb, legméltóbb istenek</l>
+                  <l>Gyülöletére.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Boldogtalan, kit sorsod sujt s az öntudat,</l>
+                  <l>Oh, bár ne tudtam volna rólad én soha!</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh, átok reá, ki feloldozá</l>
+                  <l>Kötelékeitől lábaimat,</l>
+                  <l>S kimente a halálból. Átkozott e szánalom!</l>
+                  <l>Ha akkor meghalok,</l>
+                  <l>Nem gyötreném most enmagam s szerettimet.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Szerintem is jobb volna úgy.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem lettem volna bizonynyal atyámnak gyilkosa,</l>
+                  <l>Sem annak férje, ki világra szült.</l>
+                  <l>Most bűn fia s az egektől elhagyott vagyok,</l>
+                  <l>Megosztva atyámmal a násznyoszolyát,</l>
+                  <l>Oh, ha van, a mi rosznál rosszabb:</l>
+                  <l>Engemet ért az!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Nem mondhatom helyesnek azt, a mit tevél,</l>
+                  <l>Jobb volna nem létezned, mint élned vakon.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ne mondd, hogy nem legjobban tettem, mit tevék,</l>
+                  <l>Ne oktass erre és ne adj tanácsokat.</l>
+                  <l>Mert nem tudom, mily szemmel nézhetném atyám</l>
+                  <l>Tekintetét, ha majdan Hadeshez jutok,</l>
+                  <l>Avagy szegény anyámat, kikkel azt tevém,</l>
+                  <l>Mire bitófa nem elég nagy büntetés?</l>
+                  <l>Vagy gyermekim látása volna rám öröm,</l>
+                  <l>Kik úgy születtek, a miként születtenek?</l>
+                  <l>Oh, nem, az én szememnek nem kivánatos</l>
+                  <l> Többé sem ez, sem Theba, sem a várorom,</l>
+                  <l>Sem a szent szobrok, melyektől én, nyomorult,</l>
+                  <l>Ki származásra Thebában legjobb valék,</l>
+                  <l>Ennen magam fosztám meg; én parancsolám,</l>
+                  <l>Hogy űzze el mindenki a gonosztevőt,</l>
+                  <l>Kit isten s Laïos vére azzá bélyegez.</l>
+                  <l>Ekként kinyilvánitva nagy szennyfoltomat,</l>
+                  <l>Hogyan lehetne még rátok tekintenem?</l>
+                  <l>Sehogy sem. Sőt ha el lehetne tiltani</l>
+                  <l>A hangokat fülemtől, pillanatra sem</l>
+                  <l>Haboznék, úgy elzárni gyászos testemet,</l>
+                  <l>Hogy vak levén, ne halljak semmit sem. Hiszen</l>
+                  <l>A szenvedőre édes mit sem érzeni.</l>
+                  <l>Oh, jaj Kithæron, mért fogadtál el, miért</l>
+                  <l>Nem gyilkolál meg tüstént engem, hogy soha</l>
+                  <l>Ne tudta volna senki származásomat?</l>
+                  <l>Oh, Polybos, Korinthos és te, őseim</l>
+                  <l>Vélt palotája, oh, miért neveltetek</l>
+                  <l>Diszes külsőben nagyra ennyi rothadást!</l>
+                  <l>Mert rossz vagyok most s rossz szülőknek gyermeke.</l>
+                  <l>Oh, hármas ösvény és te rejtett völgy öle,</l>
+                  <l>Sötét erdő, hol egyesül a három út,</l>
+                  <l>Melyet saját atyám vérével itatott</l>
+                  <l>Ennen kezem, oh, emlékeztek még reám,</l>
+                  <l>Mily tetteimnek voltatok tanúi, mit</l>
+                  <l>Tevék itt újra aztán? Oh, te nász, te nász!</l>
+                  <l>Mely engem szültél, s a szülöttől azután</l>
+                  <l>Ismét termékenyülve, egy vérből adál</l>
+                  <l>Atyát, testvért és egy személyben gyermeket,</l>
+                  <l>Anyát, menyasszonyt és nőt,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_62">62)</ref> és mindazt, a mi</l>
+                  <l>Az emberek szemében szörnyü borzalom.</l>
+                  <l>De mert a rút tettekről nem szép szólni sem,</l>
+                  <l>Az istenekre, dobjatok ki engemet</l>
+                  <l>Ez országból, vagy öljetek meg, rejtsetek</l>
+                  <l>Tenger mélyébe, hogy többé ne lássatok.</l>
+                  <l>Fel, fel, ragadjátok meg a boldogtalant;</l>
+                  <l>Hígyétek, nincs mit félnetek. Hisz átkomat</l>
+                  <l> Nem képes ember elviselni kívülem.</l>
+                  <l>S ha már az emberekkel nem törődtök is,</l>
+                  <l>Tartsátok tiszteletben a nagy Helios</l>
+                  <l>Mindent tápláló lángját, leplezetlenül</l>
+                  <l>Nem hagyva ily fertőzetet, melyet se’ föld,</l>
+                  <l>Sem égi zápor, sem napfény nem türhet el.</l>
+                  <l>Vigyétek gyorsan most a házba vissza őt;</l>
+                  <l>Mert a rokon fájdalmát, szent szokás szerint,</l>
+                  <l>Csak önfajának illik látni s hallani.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_63">63)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Kivánságodra épen jókor jő Kreon,</l>
+                  <l>Tanácsot adni s tenni, mert helyedben ő</l>
+                  <l>Marad az ország oltalmára egyedül.<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_64">64)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, jaj, minő szavakkal forduljak felé?</l>
+                  <l>Mi az, mit tőle joggal várhatok? Holott</l>
+                  <l>Előbb hozzá mindenben jogtalan valék?</l>
+               </lg>
+               <lg>
+                  <l>(Kreon föllép.)</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Nem jöttem, gúnyolódni rajtad, Oedipus,</l>
+                  <l>Avagy szemedre hányni régi rosszakat.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Az istenekre, ha reményemen felül</l>
+                  <l>Ily jószivű vagy a leggonoszabb iránt,</l>
+                  <l>Hallgass meg, kérlek, éretted, nem magamért.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mi az, mit tőlem ily forrón epedve kérsz?</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>E földről gyorsan űzz ki engemet oda,</l>
+                  <l>Hol többé nem fér hozzám emberek szava.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Megtenném, hidd el bizton, ha nem kellene</l>
+                  <l>Előbb istentől megkérdezni, mit tegyünk.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hiszen tisztán kinyilvánitá már szava,</l>
+                  <l>Halált mondván a gaz apagyilkosra, rám.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Ezt mondta; ámde most, hogy igy fordult az ügy,</l>
+                  <l>Jobb lesz mégis megtudni tőle, mit tegyünk.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ily nyomorult sorsáért kéritek szavát?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Az isten jóslatának már te is hihetsz.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Igen, s te benned bízom s esdve kérlek én,</l>
+                  <l>Temesd el azt, ki ott benn van,<ref target="#6965612261644328102_66100-h-8.htm.html#Footnote_65">65)</ref> kedved szerint;</l>
+                  <l>Hisz illik ezt megtenned tennen törzsödért.</l>
+                  <l>De azt ne várja ősi városom soha,</l>
+                  <l>Hogy engem élve lásson falai között;</l>
+                  <l>Nem, engedj a hegyekben laknom, ott az én</l>
+                  <l>Kithæronomnak ormán, melyet szüleim</l>
+                  <l>Még életemben választának siromul;</l>
+                  <l>Hadd haljak úgy meg, a miként ők akarák.</l>
+                  <l>Bár jól tudom, nem pusztit el se’ kór, se’ más;</l>
+                  <l>Hisz nem kerűltem volna már el a halált</l>
+                  <l>Hajdan se’, ha nem várna szörnyü kín reám.</l>
+                  <l>De menjen hát, a merre indult, végzetem!</l>
+                  <l>Figyermekim ne hozzanak gondot reád,</l>
+                  <l> Kreon; hisz férfiak, és bárhol legyenek,</l>
+                  <l>Nem fog sehol hiányt szenvedni életök;</l>
+                  <l>De két leányom, ah szegény kis lányaim!</l>
+                  <l>Kiknek számára asztalt nélkülem soha</l>
+                  <l>Nem terítének, s mindenben részök vala,</l>
+                  <l>Mit én élveztem; – kérlek, két kis lányomat</l>
+                  <l>Vedd oltalmadba; és engedd meg most nekem,</l>
+                  <l>Hogy átöleljem őket és sirjak velök.</l>
+                  <l>Uram, menj!</l>
+                  <l>Nemes szülött, menj! Hisz ha őket ölelem,</l>
+                  <l>Enyémnek vélem, mint midőn látott szemem.</l>
+               </lg>
+               <lg>
+                  <l>(Kreon intésére kivezetik a palotából Oedipus két kis leányát, Antigonét és Isménét.)</l>
+               </lg>
+               <lg>
+                  <l>Mit mondok?</l>
+                  <l>Az istenekre, nem két kedves kicsinyem</l>
+                  <l>Sirását hallom? Megsajnált tehát Kreon,</l>
+                  <l>S előmbe hozta legdrágább szülöttimet?</l>
+                  <l>Való ez?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Való; én vezetém elődbe; jól tudám,</l>
+                  <l>Hogy örömödre lesz, mit hajdan szeretél.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Élj boldogul hát, és ez utadért legyen</l>
+                  <l>Az isten jobb oltalmad, mint nekem vala.</l>
+                  <l> Oh, gyermekim, hol vagytok? Jertek hát ide,</l>
+                  <l>Jertek, fogjátok e testvéri kezeket.</l>
+                  <l>Melyek okozták, hogy atyátok két szemét,</l>
+                  <l>A hajdan fényeset, most igy kell látnotok,</l>
+                  <l>Atyátokét, ki nem látott, nem kérdezett,</l>
+                  <l>S az által lett atyátok, őt a ki szülé.</l>
+                  <l>Könyem hull rátok – ah! mert nincs tekintetem –</l>
+                  <l>Ha keserü jövőtöket meggondolom,</l>
+                  <l>A mely reátok vár az emberek között.</l>
+                  <l>Mert mily körökben, milyen ünnepélyeken</l>
+                  <l>Fogtok részt venni, honnan házatokba nem</l>
+                  <l>Könyezve tértek vissza, élvezet helyett?</l>
+                  <l>S ha egykoron eléritek a nász korát,</l>
+                  <l>Hol lesz a férfi, gyermekim, ki botorul</l>
+                  <l>Magára venné a szégyent, mely egyaránt</l>
+                  <l>Szülőitekre és reátok háramol?</l>
+                  <l>Mily borzalom hiányzik? Atyját megölé</l>
+                  <l>Atyátok; anyját, a ki életét adá,</l>
+                  <l>Nőűl vevé, és onnan nyerte gyermekit,</l>
+                  <l>A honnan egykor önnön vére származott.</l>
+                  <l>Ezt hányják szemetekre. S igy ki venne el?</l>
+                  <l>Oh, gyermekim, nem lesz oly férfi! Násztalan,</l>
+                  <l>Meddőn kell élteteknek elhervadnia.</l>
+                  <l>S te, oh, Menœkeus fia, ki egyedül</l>
+                  <l>Maradsz most atyjok – mert mi, a kik éltöket</l>
+                  <l>Adtuk, mindketten elveszénk – rokonidat</l>
+                  <l>Ne hagyd szegényen s férjtelen bolyongani,</l>
+                  <l>Ne engedd, hogy balsorsom érje őket is.</l>
+                  <l>Oh, szánd meg őket; lásd, ily ifjan semmijök</l>
+                  <l>Nincs e világon, csak mi tőled jut nekik!</l>
+                  <l>Igérd meg, adj kezet rá, oh, nemes rokon!</l>
+                  <l>Ti nektek sok tanácsot adnék gyermekim,</l>
+                  <l>Ha felfognátok; most csak az kivánatom,</l>
+                  <l>Hogy bárhol enged élni sorsotok, legyen</l>
+                  <l>Jobb s boldogabb az élet, mint atyátoké.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Már elég a köny, a sóhaj; térj a házba vissza most.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Engedek, bár nem örömmel.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mindennek van ideje.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ám tudod, mily kikötéssel?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mondd el, akkor megtudom.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy száműzz e földről engem.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Isten ítél e fölött.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Hisz az isten gyűlöl engem.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Úgy kérésed teljesül.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Azt hiszed?</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Hiún nem mondom azt ki, mit nem gondolok.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Úgy vezess el innen engem.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Jöjj s bocsásd el gyermekid.</l>
+               </lg>
+               <lg>
+                  <l>OEDIPUS.</l>
+               </lg>
+               <lg>
+                  <l>Ne ragadd el tőlem őket.</l>
+               </lg>
+               <lg>
+                  <l>KREON.</l>
+               </lg>
+               <lg>
+                  <l>Mindent birni ne akarj.</l>
+                  <l>Hisz mit birnod sikerült is, híved az sem maradott.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Theba városom lakói, lássátok, ez Oedipus,</l>
+                  <l>Ki a rejtett szót megoldá s leghatalmasabb vala,</l>
+                  <l>Boldog sorsát irigyelte minden polgár egyaránt:</l>
+                  <l>Lássátok, mi szörnyü balsors árja zúdul most reá!</l>
+                  <l>Senki hát halandó embert, a kinek még hátra van</l>
+                  <l>Végső napja, ne nevezzen boldognak, mig élete</l>
+                  <l>Véghatárát bánat nélkül el nem érte biztosan.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>Jegyzetek oedipus királyhoz.</head>
+               <p rend="justify">
+                  <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_1">1.</ref> Kadmos, Theba alapítója.</p>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_2">2.</ref> Az esdeklők borostyán- vagy olajfalombot tartottak kezökben, annak jeléül, hogy magokat az istenek oltalma alá helyezték. A lombokat az oltárra tették, s ha az istenek megadták a kért segélyt, elvették onnan.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_3">3.</ref> Oedipus nem dicsekvésből mondja ezt, hanem az esdeklők vigasztalására, hogy ő, az egész világon dicsőitett király, személyesen jő részt venni bánatokban.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_4">4.</ref> Pallast Thebában több név alatt tisztelték, azért nem lehet határozottan tudni, hogy sok temploma közül melyik kettőről van szó.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_5">5.</ref> Apollo temploma, Theba kapuja előtt, az Ismenos partján, hol az áldozat hamvaiból jósoltak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_6">6.</ref> A város pusztulása minden éltető forrásában mutatkozik: a föld magvai kivesznek, a marhanyájak elpusztulnak, a nők holt gyermekeket szülnek.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_7">7.</ref> A döghalált gyujtó istennek nevezi, mert a lobogó tűz jelképe a legszörnyűbb pusztításnak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_8">8.</ref> A sphinx, mely versekben adta elő rejtélyét, s azt, ki meg nem oldá, elnyelte.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_9">9.</ref> Pytho, Delphi rége neve.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_10">10.</ref> A kik szerencsés jóslatot nyertek, babérkoszorús fővel tértek haza.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_11">11.</ref> Kreon, nem akarván ily tömeg előtt világosan beszélni, nehogy a bűnös, ha tán jelen volna, megmenekülhessen, kitérőleg, általános kifejezésben beszél: «Jó hírrel jövök, mert szerintem a súlyos szerencsétlenség is szerencsére fordul, ha a helyes módon járunk végére.»</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_12">12.</ref> Mert a jóslatok különben többnyire kétértelműek szoktak lenni.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_13">13.</ref> Thebából. Oedipus azt hiszi, hogy a támadás Laïos élete ellen Thebából indult ki.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_14">14.</ref> Annak jeléül, hogy az isten meghallgatta a könyörgést.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_15">15.</ref> A jóniai – attikai monda szerint Apollo Delosból ment Attikán keresztül Pythóba, míg a boeotiaiak szerint az ő országokban született. Sophokles, mint atheni, az attikai mondát követi. Pæan, ima Apollohoz: néha, mint itt is, maga Apollo.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_16">16.</ref> Az isteni szózat a jósda oraculuma, melyet az arany bizalom, remény szül, mert a kik hozzá fordulnak, a legjobbat reménylik.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_17">17.</ref> Artemis oltára és szobra a piacz közepén állt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_18">18.</ref> A sphinx pusztításait értik, melyet Oedipus a három védisten segélyével győzött le.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_19">19.</ref> A esteli isten Hades, mert a homeri felfogás szerint lakását a föld nyugati szélén képzelték, hol a nap leáldozik.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_20">20.</ref> A dögvészben elhúnytak, kikhez senki sem mer közeledni, mert még halva is a dögvészt terjesztik.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_21">21.</ref> Pallas Athene.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_22">22.</ref> A dögvészt, melyet fölebb gyujtó istennek nevezett, most a hadi istennel hasonlítja össze, mert mindkettő halált hoz az emberekre; de megkülönböztetésül utána teszi, hogy «pajzstalanul» közelg.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_23">23.</ref> A középtenger, melyet Poseidon neje, Amphitrite ágyának nevez.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_24">24.</ref> Apollo, ki megszabadította a sikyoniakat a pusztító farkasoktól.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_25">25.</ref> A vadászó Artemis mindkét kezében lobogó fáklyával s nymphái kiséretében barangol a neki szentelt Lykia hegyei közt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_26">26.</ref> Bakchos gazdag fürtjeit tarka kendő szorította össze, innen van Chryseomitres mellékneve.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_27">27.</ref> Bakchos a bor istene.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_28">28.</ref> Mert Thebában született Semelétől.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_29">29.</ref> A Mænadok Bakchos állandó kisérőnői.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_30">30.</ref> Az ellenséges isten, ki nem részesül a többi istennel egyenlő tiszteletben, Ares.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_31">31.</ref> Bakchos lobogó fáklyák kiséretében szokott a Parnassuson járni.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_32">32.</ref> Oedipus erősen hangsulyozza, hogy ő maga teljesen ismeretlen azon körülményekkel, melyek Laïos meggyilkolására vonatkoznak, s azért csak úgy vezethet sikerre a vizsgálat, ha a thebai polgárok némi jelekkel elősegítik kutatását.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_33">33.</ref> Laïos genealogiája. Agenor fia volt Kadmos, ezé Polydor, s ettől született Labdakos, Laïos atyja.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_34">34.</ref> Azon művészetét érti Oedipus, melylyel megfejtette a sphinx rejtélyét. Apollo említésére hirtelen fölébredt gyanúja Kreon ellen, ki épen most jött Delphiből, hogy talán szövetkezett Tiresiassal az ő megbuktatására. Azért említi kincsét, hatalmát, melyre Kreon vágyik, s művészetét, melyet a jós irigyel tőle.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_35">35.</ref> Gúnyosan mondja, hogy veszedelmökre lesz azon gondolat, hogy Oedipus kiüzése által tisztitsák meg a várost.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_36">36.</ref> Loxias, Apollo mellékneve homályos jóslatai miatt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-4.htm.html#FNanchor_37">37.</ref> Kithæron, a határhegy Attika és Boeotia közt. Tiresias általában hegy helyett említi külön Kithæront, titkos vonatkozással Oedipus kitételére.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_38">38.</ref> Ma fogod megtudni születésed titkát, s ennek következtében fogsz elveszni.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_39">39.</ref> A föld közepe Delphi, mert két sas, vagy más monda szerint két holló, melyeket Zeus a föld két végén elbocsátott, itt találkozott.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_40">40.</ref> Polybos korinthi királyt tartották Oedipus atyjának.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_41">41.</ref> A sphinx.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_42">42.</ref> Te félreismersz ugyan, de itt, a thebai polgárok szemében, még mindig az vagyok, a mi voltam.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_43">43.</ref> A kart érti, melynek igyekezete, hogy az egész viszályt elsimítsa, Oedipust ellene is haragra és gyanúra ingerli.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_44">44.</ref> A csillagok állásából számítni ki valamely irányt: e kifejezést leginkább azokról használják, kik a tengeren vagy a sivatagban utaznak. Oedipus Korinthot vélve hazájának, nehogy beteljesüljön a jóslat, nem tér oda vissza, s csak a csillagok állásából tudja eztán, merre van Korinth.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_45">45.</ref> A kéthegyű bot, melylyel a régiek lovaikat gyors haladásra szokták nógatni.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-5.htm.html#FNanchor_46">46.</ref> Oedipus retteg egyenesen kimondani azon gondolatot, hogy ez idegen talán maga Laïos volt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_47">47.</ref> Hogy Laïos gyilkosát fölfedezzék.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_48">48.</ref> Delphi.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_49">49.</ref> Olympiában Zeus ősrégi jósdája volt, hol a papok az elégetett áldozatokból jósoltak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_50">50.</ref> A phokisi Abaeban Apollo temploma és jósdája volt, melyet régiebbnek tartottak a delphii jósdánál. E három híres szentély fölemlítésével a kar, melynek kegyelete megbotránkozott Jokaste miatt, ki oly kicsinylőleg beszélt Apollo jóslatáról, – ezt mondja: Ha az isteni jóslat megvetése büntetlenül marad, úgy semmit sem ér többé az istenek tisztelete, s nem érdemes többé az isteni jósdákhoz fordulni.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_51">51.</ref> Oedipus az új jóslatot nem itéli meg a régiek szerint, melyek nem teljesültek; s azért aggódik hasztalan.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_52">52.</ref> Lykeios Apollo mellékneve, vagy mivel Lykiában született, vagy mivel Sikyonban a farkasokat kiirtotta.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_53">53.</ref> Korinth a Hellas és Peloponnesos közötti földszoroson feküdt.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_54">54.</ref> «Habár anyám, nagyanyám és szépanyám is rabszolga volt s így én három nemzedéken át rabszolgavérből születtem, nem fog az reád szégyent hozni.» Oedipus még mindig azon reményben van, hogy a pásztor tanúsága fel fogja őt menteni a gyilkosság gyanúja alól; azért, nem sejtve Jokaste rettegésének okát, arra magyarázza, mintha a pásztor vallomásától azért félne, nehogy Oedipus születése igen alacsonynak tünjék ki.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_55">55.</ref> Tyche (a római Fortuna) a szerencse istennője. Oedipus nem fél születése titkának földerítésétől, mert bármily törzsből származott is, tulajdonképeni anyjának Tychét tekintheti, ki őt eddig különös oltalmába vette s a legalsóbb sorsból legmagasabbra emelte.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_56">56.</ref> A Kithæron hegy nymphái közül melyik szülte Oedipust? A kar előbb az anyát kérdi, s a következő sorokban találgatja, ki lehetett Oedipus atyja; Pan vagy Apollo, vagy Hermes vagy Bakchos nemzette-e őt valamely nymphával?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_57">57.</ref> Hermes, kit a nyájak isteneként is tiszteltek, Arkadia kyllenei ormán született.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_58">58.</ref> A Helikon nymphái a múzsák, kik a Parnass ormát kedvelő Bakchossal gyakori összeköttetésben vannak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_59">59.</ref> Az Istert (Duna) és a kolchisi Phasist a régiek Európa és Ázsia legnagyobb folyóinak tartották.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-6.htm.html#FNanchor_60">60.</ref> Mert önkénytesen szúrta ki szemét Oedipus, önkénytesen akasztotta fel magát Jokaste.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-7.htm.html#FNanchor_61">61.</ref> Gyermekeit érti, kiket soha sem lett volna szabad látnia, s szüleit, kiket mindig vágyott ismerni, s kiket most, ha velök Hadesben találkozik, nem fog megismerni.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-7.htm.html#FNanchor_62">62.</ref> Oedipus, ki egy személyben nejének fia, gyermekeinek testvére és atyja, s Jokaste, ki anyja és neje fiának.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-7.htm.html#FNanchor_63">63.</ref> Ez utolsó nyolcz verset a kéziratok Kreonnal mondatják el, s igy van a Donner-féle fordításban is, Nauck azonban Oedipus szájába adja, s helyesen, mert ha Kreon mondaná ezt, úgy Oedipus tovább egy perczig sem maradhatna kinn, s leányait sem vezethetnék ki hozzá. [Schöll (76. l.) – ki azonban a két utolsó verset mégis Kreonnak tulajdonítja.]</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-7.htm.html#FNanchor_64">64.</ref> Mert Polynikos és Eteokles még kiskorúak.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#6965612261644328102_66100-h-7.htm.html#FNanchor_65">65.</ref> Jokastét, kinek nevét Oedipus borzad kiejteni.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

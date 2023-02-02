@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Suicide: Etude de Sociologie</title>
+            <author>Émile Durkheim</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date/>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-09-26T12:32:16.509166477</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                     
+      <body>
+         <head>Le Suicide: Etude de Sociologie</head>
+         <author>Émile Durkheim</author>
+         <subtitle>et Ernest Denis</subtitle>
+         <div type="div1">
+            <head>Qui a voulu la guerre ?</head>
+            <subtitle>1915</subtitle>
+            <p>
+               <figure>
+                  <binaryObject xml:id="d3e2608" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+       Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+       MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+       CAL6AY8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+       AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+       FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+       h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+       5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+       AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+       NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+       hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+       5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1yOMf2LbZHTpULx7htUYq3bjOi23OeKay
+       d685nVAoeWVGKAgXk9atMn51EVznPWpuaEO3cDjim7MGpyNrUEd6BEJjyc8CnRpheeTT9tPC
+       8UAR7aUx4YdPwqULS7MmkMi8v9aXy+OasCPnrQyg8dqQ7lMoR0AxQi8Gp2TnFBjwMimIgCZb
+       cxFKUp6x881Jsz9KAK2ylCVOVBIxTim3tmkBAI+aPLAPFT7TSbKAICoBwBQQOeOtT7M0nl0A
+       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
+      </binaryObject>
+               </figure>
+            </p>
+            <p rend="justify">Armand Colin, Paris, 1915</p>
+            <p rend="justify">
+               <lb/>Exporté de Wikisource le 17 septembre 2022</p>
+            <p>Comme tous les événements historiques, la guerre actuelle dépend, en partie, de causes profondes et lointaines. Les historiens auront un jour à rechercher par suite de quelles conditions démographiques, économiques, ethniques, les occasions de conflits semblaient, depuis quelque temps, se multiplier entre les peuples ; comment l’état précaire de l’Empire austro-hongrois, le développement des sociétés balkaniques, la conscience plus claire que certaines nationalités prenaient d’elles-mêmes devaient, dans un avenir plus ou moins prochain, déterminer un remaniement de la carte d’Europe ; comment enfin, de tout cela, résultait un état de malaise et d’inquiétude qui préparait les esprits à la guerre.</p>
+            <p>Mais, quelle que puisse être l’importance de ces causes impersonnelles, elles ne sont pas efficaces par elles-mêmes. Pour qu’elles produisent leurs effets, encore faut-il que des volontés humaines se prêtent à leur action. Pour qu’une guerre éclate, il faut qu’un État la veuille, et c’est lui qui en porte la responsabilité. Si, dans ces dix dernières années, nous avons traversé des crises très graves — conférence d’Algésiras, affaires de Casablanca et d’Agadir, annexion de la Bosnie et de l’Herzégovine, guerre balkanique, — sans qu’il en soit résulté de guerre européenne, ce n’est pas que la situation morale de l’Europe ait été alors beaucoup plus satisfaisante qu’elle ne l’est aujourd’hui ; mais c’est que des volontés pacifiques réussirent à conjurer le danger. Si donc, cette fois, la catastrophe s’est produite, c’est que ces volontés, ou certaines d’entre elles, ont fléchi. Et alors une question se pose : où s’est produit ce fléchissement ? Quel est le peuple qui a voulu la guerre de préférence à la paix, et pour quelle raison l’a-t-il préférée ?</p>
+            <p>C’est cette question que nous nous proposons de traiter. Elle s’impose si naturellement à l’attention que chacun, sans doute, l’a déjà résolue pour son propre compte. Seulement, jusqu’à ces derniers temps, il était difficile de se faire, sur ce point, une opinion éclairée et réfléchie ; car nous n’avions, pour nous décider, que des informations trop fragmentaires pour qu’il nous fût possible d’embrasser la crise dans son ensemble et dans la suite de son développement. Aujourd’hui, nous disposons de plusieurs recueils de documents diplomatiques qui, émanés de gouvernements différents, se complètent et se contrôlent mutuellement</p>
+            <p>Cette étude est d’autant plus nécessaire que le Gouvernement allemand s’est déjà saisi de la question et a prétendu la résoudre à l’aide de documents exclusivement allemands. La solution qu’il en donne est exposée dans la préface de son <hi rend="italic">Livre Blanc</hi> : suivant lui, c’est la Russie qui serait responsable de la guerre. Nous ne pouvions laisser sans réponse une thèse au service de laquelle a été mise la plus large publicité. Toutefois, si nous croyons devoir la mentionner dès le début de ce travail, ce n’est pas que nous ayons l’intention de la prendre directement à partie et de la discuter en elle-même. Pour faire voir ce qu’elle vaut, il suffira de raconter les faits, simplement, honnêtement, dans l’ordre même où ils se sont produits, en nous bornant à signaler chemin faisant ce qu’ils sont devenus dans le système allemand. Une fois ces constatations faites — et on les trouvera consignées dans les notes mises au bas des pages</p>
+            <p>Mais en abordant le sujet de ce travail, nous ne devons pas oublier que nous sommes nous-mêmes juge et partie dans le débat, puisque notre patrie est en cause. Nous avons donc à nous prémunir et surtout à prémunir nos lecteurs contre l’influence possible d’un parti-pris national, si respectable qu’il soit. Pour cela, nous nous astreindrons à faire d’abord un récit objectif et complet des événements, sans y mêler aucune appréciation. Nous nous permettrons ensuite de conclure ; mais, à ce moment, il sera facile au lecteur de contrôler, par l’exposé qui aura précédé, les résultats auxquels nous serons parvenus.</p>
+            <list type="ordered">
+               <item>
+                  <ref target="#c1_Qui_a_voulu_la_guerre___Avant_propos.xhtml#cite_ref-1">↑</ref> Nous avons cinq recueils de ce genre : le livre russe, connu sous le nom de Livre <hi rend="italic">Orange</hi> (désormais <hi rend="italic">L. O</hi>.), le livre français ou <hi rend="italic">Livre Jaune</hi> (<hi rend="italic">L. J</hi>.). le livre belge ou <hi rend="italic">Livre Gris</hi> (<hi rend="italic">L. G.</hi>), le livre allemand ou Livre Blanc (<hi rend="italic">L. B</hi>.), enfin celui que le Gouvernement anglais a publié sous le titre de <hi rend="italic">Correspondance du Gouvernement britannique relative à la Crise européenne</hi>, que nous désignerons par l’abréviation <hi rend="italic">Cor. B</hi>. Pendant que notre travail était sous presse, a paru le livre serbe ; mais il n’ajoute rien d’important aux précédents.</item> 
+               <item>
+                  <ref target="#c1_Qui_a_voulu_la_guerre___Avant_propos.xhtml#cite_ref-2">↑</ref> Pour signaler ces notes à l’attention du lecteur, nous les avons mises en italique.</item>
+            </list>
+            <div type="div2" rend="P7">
+               <head>I. — <hi rend="italic">L’Ultimatum autrichien et la Réponse serbe</hi>
+                  <lb/>
+                  <hi rend="italic">(23-25 juillet)</hi>.</head>
+               <p>Le 28 juin 1914, à Serajevo, capitale administrative de la Bosnie, l’archiduc François-Ferdinand, héritier présomptif de la couronne austro-hongroise, fut assassiné ainsi que sa femme, la duchesse de Hohenberg. Ce double crime fut le point de départ de la guerre.</p>
+               <p>Manifestement, les assassins étaient des conspirateurs qui avaient voulu protester ainsi contre l’annexion de la Bosnie et de l’Herzégovine à l’Autriche et préparer la réunion de ces provinces à la Serbie. Pour cette raison, l’Autriche posa tout de suite comme une évidence que l’origine de ce complot devait être cherchée à Belgrade et qu’il avait été organisé, sinon par le Gouvernement serbe, du moins par des associations que ce Gouvernement avait le tort de tolérer et même de protéger. C’est dans cet esprit que fut conduite l’enquête ordonnée par le Gouvernement de Vienne : aussi était-il facile de prévoir à quels résultats elle aboutirait. Elle était à peine commencée que déjà la presse officieuse annonçait qu’une « démarche » comminatoire allait être faite auprès de la Serbie pour l’obliger à cesser ses coupables agissements. Dès le 2 juillet, l’ambassadeur français, M. Dumaine, avertissait son Gouvernement que la situation lui paraissait inquiétante</p>
+               <p>Or, ce même jour, l’Autriche faisait remettre à Belgrade son ultimatum.</p>
+               <p>
+                  <hi rend="bold">Caractère belliqueux de l’Ultimatum autrichien</hi>. — Cet ultimatum est trop connu pour qu’il soit nécessaire de le reproduire ici : nous nous bornons à en rappeler les articles essentiels.</p>
+               <p>Considérant comme établi que le meurtre de Serajevo avait été tramé à Belgrade, le Gouvernement autrichien réclamait du Gouvernement serbe un certain nombre de mesures destinées à prévenir le retour de semblables attentats.</p>
+               <p>Tout d’abord, le Gouvernement serbe devrait à la première page du <hi rend="italic">Journal officiel</hi> en date du 26 juillet, publier une déclaration dont la formule lui était étroitement dictée et par laquelle il condamnait toute propagande contre l’Autriche-Hongrie, exprimait ses regrets que des fonctionnaires y eussent pris part et promettait de punir sévèrement tous ceux qui, dans l’avenir, se rendraient coupables des mêmes actes. Cette déclaration devait également être portée à la connaissance de l’armée.</p>
+               <p>De plus, il devait s’engager :</p>
+               <p>1<hi rend="sup">o</hi> À supprimer toute publication dirigée contre l’Autriche ;</p>
+               <p>2<hi rend="sup">o</hi> À dissoudre la société Narodna Odbrana, plus spécialement accusée de se livrer à une propagande active contre la monarchie austro-hongroise ; à confisquer ses moyens d’action et à procéder de même pour toutes les sociétés à venir qui se formeraient pour le même objet ;</p>
+               <p>3<hi rend="sup">o</hi> À éliminer de l’instruction publique toute personne et tout enseignement qui faciliteraient cette même propagande ;</p>
+               <p>4<hi rend="sup">o</hi> À éloigner de l’armée et de l’administration tous les officiers et les fonctionnaires que le Gouvernement autrichien signalerait comme coupables au même titre ;</p>
+               <p>5<hi rend="sup">o</hi> À accepter la collaboration des organes du Gouvernement impérial et royal dans la « suppression » de ce mouvement subversif ;</p>
+               <p>6<hi rend="sup">o</hi> À ouvrir, contre les partisans du complot de Serajevo se trouvant en territoire serbe, une enquête judiciaire ; « des organes délégués par le Gouvernement impérial et royal prendront part aux recherches y relatives » ;</p>
+               <p>7<hi rend="sup">o</hi> À procéder d’urgence à l’arrestation de deux sujets serbes, spécialement désignés comme compromis dans le complot ;</p>
+               <p>8<hi rend="sup">o</hi> À empêcher le trafic illicite d’armes et d’explosifs à travers la frontière et à punir les fonctionnaires qui l’avaient permis ou facilité ;</p>
+               <p>9<hi rend="sup">o</hi> À donner des explications sur les propos hostiles à la monarchie dualiste tenus par de hauts fonctionnaires serbes tant en Serbie qu’à l’étranger ;</p>
+               <p>10<hi rend="sup">o</hi> À aviser le Gouvernement autrichien de l’exécution des mesures sus-énoncées.</p>
+               <p>Quarante-huit heures étaient laissées à la Serbie pour faire connaître sa réponse.</p>
+               <p>Dès que l’ultimatum eut été publié, l’avis unanime des chancelleries fut qu’il avait été conçu et rédigé de « manière à rendre la guerre inévitable ». « J’ai eu, dit Sir M. de Bunsen, ambassadeur anglais à Vienne, des entretiens avec tous mes collègues représentant les grandes Puissances. L’impression qui m’en est restée est… que le Gouvernement austro-hongrois est absolument résolu à faire la guerre à la Serbie</p>
+               <p>D’autre part, la date choisie, la procédure adoptée, tout paraît bien prouver que l’on tenait à prévenir toute intervention en faveur de la paix. L’optimisme que l’Autriche officielle professait au dernier moment, et que l’événement devait si vite démentir, avait fini par endormir la défiance même des États les plus intéressés à suivre de près cette affaire. Sur les assurances formelles qui lui avaient été données, l’ambassadeur de Russie à Vienne venait de partir en congé</p>
+               <p>Cette attitude belliqueuse était, d’ailleurs, réclamée par une partie notable de l’opinion publique. On voulait la guerre et l’on jugeait que l’instant était favorable pour la faire. « Si nous ne nous décidons pas à la guerre, écrivait la <hi rend="italic">Militärische Randschau</hi>, celle que nous devrons faire dans deux ou trois ans au plus tard s’engagera dans des circonstances beaucoup moins propices… Puisqu’un jour nous devrons accepter la lutte, provoquons-la tout de suite. » Et la <hi rend="italic">Neue Freie Presse</hi> s’indignait qu’on pût parler d’apaisement. Pour elle, l’apaisement ne pouvait résulter que « d’une <hi rend="italic">guerre au couteau</hi> contre le panserbisme »</p>
+               <p>Or la guerre avec la Serbie, c’était la porte ouverte à la guerre européenne. Certes, il serait injuste de dire que tout le monde à Vienne ait voulu délibérément cette extension du conflit. On assure que le comte Berchtold et son entourage se seraient contentés d’ « une opération localisée contre la Serbie ». Mais tout un clan estimait, au contraire, qu’il fallait « marcher avant que la Russie ait terminé ses grands perfectionnements de l’armée et des voies ferrées et avant que la France ait mis au point son organisation militaire »</p>
+               <p>
+                  <hi rend="bold">L’Ultimatum était connu de l’Allemagne.</hi> — La lourde responsabilité qu’a ainsi assumée l’Autriche a-t-elle été partagée par l’Allemagne ? Celle-ci a-t-elle connu l’ultimatum ayant sa publication et a-t-elle encouragé son alliée à le risquer ?</p>
+               <p>Le Chancelier, M. de Bethmann-Hollweg, et le secrétaire d’État aux Affaires étrangères ; M. de Jugow, ont toujours soutenu qu’ils avaient totalement ignoré les exigences autrichiennes avant qu’elles fussent communiquées à Belgrade et que, s’ils les approuvaient sans réserve, ils ne sauraient pourtant en être rendus responsables.</p>
+               <p>Mais ces affirmations réitérées ne rencontrèrent généralement que scepticisme et incrédulité. On trouvait bien surprenant que l’Allemagne pût soutenir, avec l’énergie que nous verrons, les prétentions autrichiennes, si elle en avait ignoré la portée</p>
+               <p>Nous avons, d’ailleurs, aujourd’hui tout un ensemble de témoignages qui confirment cette présomption.</p>
+               <p>Il existe en Allemagne une mesure préparatoire à la mobilisation qui consiste à prévenir les hommes et les officiers de la réserve de se tenir prêts à un appel qui pourrait être prochain. C’est, suivant l’expression de M. Cambon, « un <hi rend="italic">garde à vous général</hi> » auquel on recourt aux époques de tension. Cet avertissement avait été lancé en 1911 au cours des négociations relatives au Maroc</p>
+               <p>Vers la même époque (23 juillet), le président du Conseil de Bavière, s’entretenant de l’incident austro-serbe avec notre ministre à Munich, fut amené à lui dire qu’il « avait connaissance » de la note autrichienne</p>
+               <p>D’ailleurs, nous avons l’aveu du Gouvernement allemand lui-même. Dans la Préface dont il a fait précéder le <hi rend="italic">Livre Blanc</hi>, après avoir exposé la situation dans laquelle se trouvait l’Autriche à la suite de l’attentat de Serajevo, l’écrivain officiel ajoute : « Dans ces circonstances, l’Autriche était obligée de se dire que ni sa dignité ni le souci de son salut ne lui permettaient plus de rester spectatrice inactive de ces menées. <hi rend="italic">Le Gouvernement impérial et royal nous fit connaître sa façon de voir et nous demanda notre avis. Du fond du cœur, nous avons pu dire à notre allié que nous étions d’accord avec lui sur la manière d’envisager la situation et d’assurer que toute action qu’il considérerait comme nécessaire pour mettre un terme au mouvement dirigé en Serbie contre l’existence de la monarchie aurait notre approbation</hi> En agissant ainsi, nous avions parfaitement conscience qu’une démarche belliqueuse de l’Autriche-Hongrie contre la Serbie pouvait faire entrer la Russie dans l’arène et, conformément à nos devoirs d’allié, nous entraîner nous-mêmes dans une guerre… <hi rend="italic">Nous avons donc laissé à l’Autriche les mains entièrement libres pour agir contre la Serbie</hi> Mais nous n’avons pas pris part à la manière dont cette action a été organisée</p>
+               <p>Non seulement il la connaissait, mais il l’avait approuvée, il s’y était, suivant le mot qui vient d’être rapporté, associé de tout cœur : il l’avait faite sienne. Il doit donc être considéré comme co-auteur d’une démarche que l’Autriche n’aurait jamais osée si elle n’avait su qu’elle serait soutenue par son puissant allié. Aussi bien, l’état d’esprit était-il aussi belliqueux à Berlin qu’à Vienne. « Tous les journaux, écrit, le 24 juillet, le chargé d’affaires russe à Berlin, accueillent avec une grande sympathie le ton énergique adopté par l’Autriche, même ceux qui reconnaissent l’impossibilité pour la Serbie d’accepter les conditions posées</p>
+               <p>
+                  <hi rend="bold">Attitude des Puissances. Premières tentatives de conciliation, repoussées par l’Allemagne et l’Autriche.</hi> — Dès ce moment, l’Allemagne, bien qu’elle ne soit pas directement intéressée dans la question, passe au premier plan et l’attitude qu’elle adopte est nettement intransigeante et même comminatoire.</p>
+               <p>Le 24 juillet, M. de Schoen vient exposer à M. Bienvenu-Martin, ministre intérimaire des Affaires étrangères, le point de vue de son gouvernement. L’Allemagne estime, dit-il, que la question ne concerne que l’Autriche et la Serbie ; elle doit donc être réglée entre ces deux pays. Toute intervention d’une autre puissance provoquerait, « par le jeu des alliances, des conséquences incalculables</p>
+               <p>Les autres Puissances se trouvèrent unanimes pour voir, dans l’ultimatum, un scandale juridique et diplomatique. On n’a jamais vu, dit Sir Ed. Grey « un État adresser à un autre État indépendant un document d’un caractère aussi formidable »</p>
+               <p>L’Allemagne, par la bouche de son ambassadeur à Londres, avait, dès le premier abord demandé à l’Angleterre d’agir à Saint-Pétersbourg pour y conseiller l’abstention, c’est-à-dire, en somme, pour y défendre le point de vue allemand. Sir Ed. Grey répondit que les termes de l’ultimatum ne lui permettaient pas de tenir un semblable langage ; car le Gouvernement russe était fondé à trouver inadmissibles les prétentions autrichiennes</p>
+               <p>Les pourparlers s’annonçaient donc laborieux. Aussi, comme le délai accordé par l’ultimatum était très court, on jugea que le plus urgent était d’obtenir une prolongation. On aurait ainsi le temps d’aviser avant qu’aucun acte irréparable fût accompli. La proposition fut faite par M. Sazonoff</p>
+               <p>Dès lors, on ne pouvait plus rien faire en temps utile ; il n’y avait plus qu’à attendre que la réponse serbe fût remise à l’Autriche.</p>
+               <p>
+                  <hi rend="bold">La Réponse serbe.</hi> — On attendit avec anxiété ; car on croyait généralement que la Serbie ne se soumettrait pas, tant les exigences autrichiennes étaient jugées exorbitantes. Tout ce qu’on souhaitait, c’est qu’elle ne répondît pas par un refus radical qui rendît impossible toute négociation.</p>
+               <p>Or, le 25 juillet, à 5 h. 45 du soir, elle remettait sa réponse qui était une soumission intégrale.</p>
+               <p>La Serbie s’engageait, à faire la déclaration solennelle qui était exigée d’elle et dans les termes exacts qui lui étaient prescrits. Quant aux dix autres articles de l’ultimatum, deux, mais deux seulement, n’étaient acceptés qu’avec certaines réserves. Ce sont ceux qui concernent la coopération de fonctionnaires étrangers.</p>
+               <p>Le Gouvernement serbe faisait remarquer qu’il se représentait mal en quoi pourrait consister cette coopération, pour ce qui regarde « la destruction du mouvement subversif ». Cependant, il se déclarait prêt à l’admettre autant qu’« elle répondrait aux principes du droit international et à la procédure criminelle, ainsi qu’aux rapports de bon voisinage » (art. 5).</p>
+               <p>De même, la collaboration d’autorités austro-hongroises aux enquêtes judiciaires était jugée impossible ; car elle constituait « une violation de la Constitution et de la loi sur la procédure criminelle ». Néanmoins, ajoutait la note, « dans des cas concrets, des communications sur les résultats de l’instruction en question pourraient être données aux agents austro-hongrois » (art. 6).</p>
+               <p>Pour tout le reste, la Serbie prenait l’engagement de se conformer aux exigences autrichiennes. Au sujet des mesures réclamées contre les menées de la presse, le Gouvernement serbe faisait observer, il est vrai, que l’état actuel de la législation le laissait provisoirement désarmé, la provocation à la haine de l’Autriche n’étant pas légalement un délit, et la confiscation des publications où ces menées pourraient se produire n’étant pas permise par la Constitution. Mais il se chargeait de faire voter les lois nécessaires dès la première convocation de la Skouptchina et lorsque aurait lieu la révision de la Constitution, qui était toute prochaine.</p>
+               <p>Enfin, au cas où le Gouvernement autrichien ne serait pas satisfait de sa réponse, le Gouvernement serbe se disait « <hi rend="italic">prêt, comme toujours, à accepter une entente pacifique, soit en remettant cette question à la décision du Tribunal international de La Haye, soit aux grandes Puissances</hi>. »</p>
+               <p>Ainsi, même sur les points réservés, la porte était largement ouverte à l’entente. Il n’est guère douteux que cette déférence inespérée était due à l’action de la Russie. En effet, le 27 juillet, c’est-à-dire à une date où la paix était encore plus compromise qu’au moment où nous sommes parvenus, l’Empereur de Russie, en réponse à un appel que le prince héritier de Serbie lui avait adressé le 24, lui envoyait des conseils pressants de prudence et de modération. « Mon Gouvernement, disait le Tzar, s’applique de toutes ses forces à aplanir les présentes difficultés. Je ne doute point que Votre Altesse et le Gouvernement royal ne veuillent faciliter cette tâche <hi rend="italic">en ne négligeant rien pour arriver à une solution qui permette de prévenir les horreurs d’une nouvelle guerre,</hi> tout en sauvegardant la dignité de la Serbie. Tant qu’il y a le moindre espoir d’éviter une effusion de sang, tous nos efforts doivent tendre vers ce but. »</p>
+               <list type="ordered">
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-1-n18">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 8.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-2-n20">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 11 et 12.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-3">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 20.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-4">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 41.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-5">↑</ref> Nous négligeons complètement la question de savoir ce que valaient les allégations de l’Autriche : elles ont eu trop peu d’influences sur la suite des événements.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-6">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 18.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-7">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 25.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-8">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 12.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-9">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 27.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-10">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 20.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-11">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 14.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-12">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 30.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-13">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 95.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-14">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 5.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-15">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 15.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-16">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 21.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-17">↑</ref> Depuis, le Gouvernement bavarois a cru devoir démentir ce récit ; mais son auteur, M. Allizé, le maintient intégralement. Peut-être le Gouvernement bavarois joue-t-il sur les mots ; il ignorait le texte de la note, mais en connaissait le contenu certainement.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-18">↑</ref> 
+                     <hi rend="italic">L. B.,</hi> Préf., p. 4-5.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-19">↑</ref> 
+                     <hi rend="italic">L. O.,</hi> n<hi rend="sup">o</hi> 7.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-20">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 47.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-21">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">os</hi> 12, 50 ; <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 71 et 80.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-22">↑</ref> 
+                     <hi rend="italic">L. B.,</hi> n<hi rend="sup">o</hi> 2.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-23">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 28.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-24">↑</ref> Le lendemain, il est vrai, M. de Schoen protesta que sa communication n’avait rien de comminatoire (<hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 36). Le même jour, à Londres, l’ambassadeur d’Autriche expliqua à Sir Ed. Grey que la note autrichienne n’était pas un ultimatum, mais « une démarche avec une limite de temps » (<hi rend="italic">Cor. B</hi>., n<hi rend="sup">o</hi> 14), et qu’il n’était question que de préparatifs militaires, non d’opérations ». Ces protestations verbales, que l’événement allait démentir, n’étaient qu’un moyen d’endormir l’inquiétude et de ralentir l’activité des Puissances.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-25">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 97.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-26">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 139.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-27">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 5.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-28">↑</ref> 
+                     <hi rend="italic">L. J.</hi> n<hi rend="sup">o</hi> 56.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-29">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 38.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-30">↑</ref> On lit, cependant, dans la Préface du <hi rend="italic">Livre Blanc</hi>, que les gouvernements français et anglais avaient, tous deux, promis d’agir dans le même sens que le Gouvernement allemand » (p. 6). On est déconcerté en voyant énoncer avec autant de sérénité une affirmation manifestement contraire à la vérité. Jamais ni l’Angleterre ni la France n’ont admis que la Russie devait rester à l’écart.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-31">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">os</hi> 36 et 37.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-32">↑</ref> 
+                     <hi rend="italic">De cette première tentative de conciliation, il n’y a pas trace dans</hi> le Livre Blanc, <hi rend="italic">ni dans la Préface</hi>.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-33">↑</ref> 
+                     <hi rend="italic">L. O.,</hi> n<hi rend="sup">o</hi> 4.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-34">↑</ref> 
+                     <hi rend="italic">L. O.,</hi> n<hi rend="sup">os</hi> 15 et 16, <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 20.</item> 
+                  <item>
+                     <ref target="#c2_Qui_a_voulu_la_guerre___1.xhtml#cite_ref-35">↑</ref> 
+                     <hi rend="italic">L. O.,</hi> n<hi rend="sup">os</hi> 14 et 11., <hi rend="italic">L. J.</hi> n<hi rend="sup">o</hi> 45. — <hi rend="italic">De cette seconde tentative de conciliation et de son échec, il n’y a pas davantage trace dans le</hi> Livre Blanc.</item>
+               </list>
+            </div>
+            <div type="div2" rend="P7">
+               <head>II. — <hi rend="italic">La rupture diplomatique</hi>
+                  <lb/>
+                  <hi rend="italic">et la déclaration de guerre à la Serbie</hi>
+                  <lb/>
+                  <hi rend="italic">(25-28 juillet).</hi>
+               </head>
+               <p>On pouvait croire la paix assurée, M. de Jagow reconnaissait lui-même, le 29 juillet, qu’« il voyait (dans la réponse serbe) une base de négociations possible ». Malheureusement, l’Autriche ne voulut pas se contenter du succès qu’elle venait de remporter. La note fut remise à 5 heures 25 du soir. Quelques instants après, le ministre d’Autriche rompait les relations diplomatiques. Il n’avait même pas pris le temps matériellement nécessaire pour procéder à un examen qui pouvait avoir de si graves conséquences. C’est donc qu’il avait l’ordre de rompre en tout état de cause. Cette rupture était, d’ailleurs, si conforme aux désirs du gouvernement et de l’opinion publique que la nouvelle en fut accueillie avec enthousiasme à Vienne comme à Berlin</p>
+               <p>Sur le moment même, l’Autriche n’éprouva pas le besoin de justifier sa détermination ; c’est seulement le 28 juillet qu’une note explicative, très brève d’ailleurs, fut remise à M. Bienvenu-Martin. Sur trois points essentiels, la réponse serbe était déclarée tout à fait insuffisante</p>
+               <p>On qualifiait de vain prétexte la raison que donnait la Serbie pour ne pas admettre, en principe, la participation de fonctionnaires austro-hongrois à la poursuite des partisans du complot qui résidaient en territoire serbe. L’Autriche, disait-on, a demandé cette coopération pour les « recherches de police » et non pour « les enquêtes judiciaires ». La Serbie a donc cherché une équivoque en substituant une expression à l’autre. </p>
+               <p>En second lieu, on déclarait que les mesures proposées pour mettre fin aux agissements de la presse équivalaient à un refus ; car les procès de presse sont rarement efficaces et, d’ailleurs, aucune date définie n’était fixée pour les innovations qu’on promettait d’introduire dans la législation.</p>
+               <p>Enfin, dans l’article relatif aux associations hostiles, si la Serbie promettait de dissoudre la Narodna Odbrana, elle s’abstenait volontairement d’envisager le cas où cette société se reformerait sous un autre nom</p>
+               <p>Mais il est difficile de ne pas voir quel écart énorme il y avait entre l’insignifiance de ces griefs et la gravité de la décision prise par l’Autriche.</p>
+               <p>Sur le dernier point notamment, les doléances autrichiennes étaient inexplicables ; car la Serbie s’était engagée à dissoudre, non seulement la Narodna Odbrana, mais « toute autre société qui agirait contre l’Autriche ». Le nom ne faisait donc rien à l’affaire.</p>
+               <p>En ce qui concerne les mesures à prendre contre la presse, l’Autriche, pour être fondée à qualifier de refus déguisé la proposition serbe, aurait dû tout au moins signaler quelque autre procédé légal qui fût plus efficace. Or, elle n’en indiquait aucun. Et on ne voit pas, en effet, comment il était possible de punir un acte jusqu’alors licite, sans une loi nouvelle qui l’érigeât en délit, ou comment des publications pouvaient être légalement confisquées si la Constitution interdisait cette confiscation. Ou bien l’Autriche demandait-elle à la Serbie d’agir illégalement et arbitrairement ?</p>
+               <p>La seule contestation sérieuse était donc celle qui concernait la collaboration des fonctionnaires austro-hongrois. Mais si la difficulté soulevée par la Serbie venait uniquement de ce qu’elle avait remplacé à tort le mot de « recherches » par celui « d’enquêtes », ne pouvait-on s’assurer d’abord, par des voies pacifiques, s’il n’y avait pas eu méprise de sa part, au lieu de recourir tout de suite aux armes pour trancher la question ?</p>
+               <p>
+                  <hi rend="bold">Une démarche singulière de l’Allemagne.</hi> — À cette phase de la crise, l’attitude générale de l’Autriche et de l’Allemagne resta ce qu’elle était précédemment : nous en aurons, sous peu, la preuve. Cependant, l’Allemagne fit, à ce moment, une démarche singulière qui mérite d’être signalée.</p>
+               <p>Le 26 juillet, c’est-à-dire au lendemain de la rupture, M. de Schoen se présente chez M. Bienvenu-Martin et lui renouvelle la demande que l’Allemagne avait déjà adressée à Sir Ed. Grey. L’Autriche, dit-il, a fait savoir à la Russie qu’elle ne cherche pas d’agrandissement territorial ; elle veut seulement assurer sa tranquillité. La paix est, par conséquent, certaine, si la Russie s’abstient de toute intervention, c’est-à-dire si elle laisse l’Autriche infliger à la Serbie le traitement que celle-ci mérite. Que la France use donc de son influence à Saint-Pétersbourg dans ce sens, et elle sera entendue. « L’Allemagne, ajoute-il, se sent solidaire de la France dans l’ardent désir que la paix soit maintenue ». Et cette affirmation de solidarité fut renouvelée, avec insistance, à la fin de l’entretien</p>
+               <p>Le même jour, à 7 heures du soir, l’ambassadeur revient au ministère ; il se rend à la Direction politique et demande que, pour éviter des commentaires erronés, on envoie à la presse un communiqué sur l’entretien de l’après-midi. Il propose même de rédiger cette note dans les termes suivants : « L’Ambassadeur d’Allemagne et le Ministre des Affaires étrangères ont eu, pendant l’après-midi, un nouvel entretien au cours duquel ils ont examiné, <hi rend="italic">dans l’esprit le plus amical et dans un sentiment de solidarité pacifique, les moyens qui pourraient être employés pour assurer la paix générale</hi> »</p>
+               <p>Naturellement, le Gouvernement français refusa d’accéder à une demande qui ne pouvait qu’induire l’opinion publique en erreur ; car, à supposer que l’Allemagne partageât les sentiments pacifiques de la France, les deux Gouvernements n’entendaient pas la paix de la même manière. L’Allemagne voulait qu’on agît exclusivement sur Saint-Pétersbourg afin que le cabinet de Vienne eût les mains libres ; la France ne pouvait se prêter qu’à une action qui s’exercerait sur Vienne et sur Saint-Pétersbourg à la fois. Mais alors, pourquoi demander une manifestation publique qui était si peu d’accord avec la réalité ? Ne cherchait-on pas à faire croire que la France marchait de concert avec l’Allemagne, et cela pour compromettre le Gouvernement français vis-à-vis de la Russie et désorganiser la double alliance ? De cette manière, en même temps qu’on isolait la Russie, on se préparait, par des assurances pacifiques qui n’étaient que verbales, une sorte de prétexte pour rejeter ensuite sur les deux alliés la responsabilité de la guerre, si elle éclatait, comme il était dès lors à prévoir.</p>
+               <p>
+                  <hi rend="bold">Deux nouvelles tentatives de conciliation repoussées par l’Allemagne et l’Autriche</hi>. — Tandis que, par cette démarche ambiguë, l’Allemagne ne poursuivait que des intérêts particuliers, les Puissances de la Triple-Entente, soutenues par l’Italie, s’employaient activement au maintien de la paix. Les relations diplomatiques étaient rompues, mais la guerre n’était pas déclarée ; peut-être pourrait-on arrêter le conflit avant l’ouverture des hostilités.</p>
+               <p>Dès le début, Sir Ed. Grey avait, avec une parfaite netteté, précisé la position de l’Angleterre dans le débat. </p>
+               <p>Par elle-même, la guerre austro-serbe ne l’intéressait pas, et, si l’Autriche pouvait régler directement son affaire avec la Serbie, sans que la Russie intervînt, il y donnait les mains</p>
+               <p>Il était, d’ailleurs, particulièrement qualifié pour entreprendre ces négociations ; car l’absence d’obligations précises envers les parties en présence lui permettait d’apprécier la situation avec une parfaite impartialité. Il ne méconnaissait aucunement que l’Autriche pût avoir contre la Serbie de sérieux griefs</p>
+               <p>Sur tous ces points, l’entente était facile avec la Russie. Elle aussi reconnaissait que les motifs qui avaient déterminé l’Autriche se comprenaient parfaitement, que « certaines de ses demandes étaient assez raisonnables », mais qu’il y en avait d’autres qui étaient inexécutables, au moins immédiatement ; ce sont celles qui supposaient un remaniement des lois sur la presse et sur les associations. Il y en avait aussi d’incompatibles avec la dignité de la Serbie comme État indépendant</p>
+               <p>Deux moyens furent essayés pour arriver à ce résultat.</p>
+               <p>Reprenant, mais avec des précisions nouvelles, une idée qu’il avait exprimée dès le premier abord, Sir Ed. Grey proposa que les quatre grandes Puissances qui n’étaient pas directement intéressées au débat intervinssent comme médiatrices. Les ambassadeurs de France, d’Allemagne et d’Italie seraient autorisés à se réunir en conférence avec Sir Ed. Grey pour chercher de concert une issue ; mais il serait convenu que, pendant la durée des négociations, la Serbie, la Russie et l’Autriche « s’abstiendraient de toute opération militaire »</p>
+               <p>L’idée fut acceptée avec empressement par la France et par l’Italie</p>
+               <p>L’Angleterre fut vite fixée sur le sort de son projet : l’Allemagne refusa net de s’en occuper. Elle acceptait bien, en termes très vagues d’ailleurs, le principe général d’une médiation exercée par les quatre Puissances, mais ne voulait pas d’une conférence. Ce serait, disait-elle, faire comparaître l’Autriche et la Russie devant une sorte de cour d’arbitrage ; ce qui lui paraissait inadmissible. En vain, Sir Ed. Grey et l’ambassadeur d’Angleterre à Berlin répondaient qu’il s’agissait simplement de procéder à un examen privé et sans caractère protocolaire, au cours duquel on chercherait en commun ce qui pourrait être tenté</p>
+               <p>La proposition russe n’eut pas une meilleure fortune. Le Gouvernement allemand avait déclaré à plusieurs reprises qu’elle avait ses préférences ; et, en effet, il n’avait aucune raison de s’y opposer puisqu’elle n’engageait aucunement l’Allemagne</p>
+               <p>Au reste, ce même jour, se produisait l’événement qu’on voulait prévenir ou retarder. Après la rupture des relations diplomatiques, l’Autriche s’était bornée à mobiliser : elle laissait même entrevoir que les hostilités ne commenceraient pas tout de suite. Or, le 28, comme si l’on avait voulu couper court aux négociations qui se poursuivaient, la guerre était déclarée et les opérations militaires commençaient aussitôt</p>
+               <p>Aussi se demanda-t-on à quoi pouvait être due cette violente résolution, survenue au milieu de négociations qu’elle paraissait destinée à arrêter. Parmi les soupçons qu’elle inspire, écrivait, le 28, M. Paléologue, « le plus inquiétant est que l’Allemagne l’aurait poussée (l’Autriche) à l’agression contre la Serbie, afin de pouvoir elle-même entrer en lutte avec la Russie et la France, dans des circonstances qu’elle suppose devoir lui être le plus favorables et dans des conditions délibérées »</p>
+               <list type="ordered">
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-1-n104">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 47 ; <hi rend="italic">Cor. B.</hi> n<hi rend="sup">o</hi> 41.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-2-n105">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 75 <hi rend="italic">bis</hi>.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-3-n107">↑</ref> Cette explication et celles qui suivent sont empruntées, non à la note reçue par M. Bienvenu-Martin, qui énonce les griefs autrichiens sans les justifier, mais au <hi rend="italic">Livre Blanc</hi> (p. 23 et suiv.). La réponse serbe y est accompagnée d’un commentaire, d’origine autrichienne, qui a pour objet de démontrer que les concessions de la Serbie sont purement apparentes.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-4-n109">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 56.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-5-n110">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 57.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-6-n112">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 62.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-7-n114">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 10.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-8-n115">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 6.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-9-n116">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 24.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-10-n117">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 17.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-11-n118">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 44.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-12-n120">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 5.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-13-n121">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 90.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-14-n122">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 46.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-15-n123">↑</ref> 
+                     <hi rend="italic">L. O.,</hi> n<hi rend="sup">o</hi> 25.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-16-n124">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 54.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-17-n125">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 55.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-18-n127">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 36.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-19-n128">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 51, 49.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-20-n129">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 53, 55.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-21-n130">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 45, 67.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-22-n132">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 74.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-23-n133">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 74 ; <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 49.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-24-n135">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 38.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-25-n136">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 32 ; <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 56.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-26-n137">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 82.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-27-n138">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 61.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-28-n139">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 50.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-29-n140">↑</ref> Déjà avant la déclaration de guerre, les Autrichiens avaient tiré sur deux vapeurs serbes et les avaient endommagés : deux navires marchands serbes avaient été capturés par un monitor hongrois (<hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 65.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-30-n142">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 64.</item> 
+                  <item>
+                     <ref target="#c3_Qui_a_voulu_la_guerre___2.xhtml#cite_ref-31-n143">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 83.</item>
+               </list>
+            </div>
+            <div type="div2" rend="P7">
+               <head>III. — <hi rend="italic">Le premier ultimatum de l’Allemagne à la Russie</hi>
+                  <lb/>
+                  <hi rend="italic">(Journées des 29 et 30 juillet)</hi>
+               </head>
+               <p>Ainsi, à mesure que la crise se développait, on s’éloignait davantage d’une solution pacifique. En vain l’Angleterre, la Russie, la France et l’Italie se conjuraient pour prévenir le résultat redouté, chacune des étapes que nous venons de parcourir était un pas en avant vers la guerre. Celle-ci était même si proche qu’elle faillit éclater dès le 30 juillet.</p>
+               <p>
+                  <hi rend="bold">La Triple-Entente et l’Italie poursuivent les négociations. Attitude fuyante de l’Allemagne.</hi> — Tout le monde pensait que, si la Serbie était attaquée, la Russie serait forcée de lui prêter aussitôt assistance</p>
+               <p>À s’en tenir aux apparences, on pouvait croire que les chances de paix étaient encore sérieuses, car le langage que tint à ce moment l’Allemagne paraissait témoigner de dispositions plus favorables. On dirait qu’un revirement s’était produit et que le cabinet de Berlin était maintenant décidé à user de son influence à Vienne en faveur de la paix. En effet, le 29 au matin, M. de Schoen venait informer M. Bienvenu-Martin, à titre officieux il est vrai, que le Gouvernement allemand poursuivait ses efforts en vue d’amener le gouvernement autrichien à s’expliquer sur le but et l’extension des opérations qu’il projetait en Serbie. « Le cabinet de Berlin, ajoutait-il, espère recevoir des précisions qui seraient de nature à donner satisfaction à la Russie… Quand on saura jusqu’où l’Autriche veut aller, on aura une base de discussion</p>
+               <p>Ces bonnes paroles, quoiqu’un peu vagues, pouvaient paraître rassurantes. Malheureusement, ni dans les documents diplomatiques ni dans la marche des événements, on n’aperçoit aucune trace de l’action modératrice que l’Allemagne prétendait être en train d’exercer, presque avec excès.</p>
+               <p>Le Gouvernement allemand a publié un <hi rend="italic">Livre Blanc</hi> exclusivement destiné à établir qu’il n’est pas responsable de la guerre, qu’il a fait, en faveur de la paix, tout ce qui était humainement possible. La meilleure manière de prouver sa thèse eût été de publier les dépêches dans lesquelles il donnait à son ambassadeur à Vienne, M. de Tschirsky, ces instructions pacifiques. Or, sur les vingt-sept pièces que comprend le <hi rend="italic">Livre Blanc</hi>, <hi rend="italic">il n’en est pas une seule qui ait cet objet</hi>. Nulle part, il n’y est question d’une action à exercer sur le Gouvernement autrichien pour l’engager à modérer son intransigeance. On y voit bien le Chancelier allemand, dans un télégramme du 27 juillet, transmettre à Vienne, mais sans les appuyer d’aucune manière, la proposition de M. Sazonoff et celle de Sir Ed. Grey dont il a été question précédemment ; puis on trouve une dépêche, datée du 28, où M. de Tschifsky répond que le comte Berchtold les décline comme trop tardives, la guerre contre la Serbie étant déclarée ; et c’est tout. Sans doute, un recueil diplomatique ne comprend généralement que des pièces choisies. Mais il serait surprenant que la Chancellerie allemande eût précisément omis celles qu’elle avait le plus d’intérêt à publier.</p>
+               <p>À défaut d’instructions écrites, les dispositions pacifiques de l’Allemagne se sont-elles manifestées par des actes ?</p>
+               <p>Puisque l’Autriche avait radicalement repoussé les pourparlers directs avec la Russie, il n’y avait plus qu’un moyen d’aboutir : il fallait revenir au projet anglais et faire intervenir simultanément, sous la forme d’une conférence ou de toute autre manière, les quatre Puissances désintéressées. Les circonstances semblaient favorables. Maintenant que, par le bombardement de Belgrade, l’Autriche avait obtenu comme une première satisfaction, elle serait peut-être moins réfractaire à l’idée de soumettre son litige à l’Europe. D’autre part, les concessions nouvelles que la Serbie se disait prête à faire (v. plus haut p. 27) pouvaient rendre un arrangement plus facile</p>
+               <p>Sir Ed. Grey en parle donc de nouveau au prince Lichnowsky ; mais celui-ci y oppose le même refus qu’auparavant, et en le justifiant par les mêmes raisons. Il lui paraît inadmissible que l’Autriche soit traduite devant un tribunal européen. Mais Sir Ed. Grey insiste. L’Allemagne a accepté le principe d’une médiation. Si donc les mots de « conférence » et d’« arbitrage » l’effraient, c’est à elle qu’il appartient de dire sous quelle forme elle conçoit possible cette médiation qu’elle juge elle-même nécessaire. La formule qu’elle proposera, quelle qu’elle soit, sera agréée avec gratitude, si elle permet de maintenir la paix</p>
+               <p>Elle jugea, sans doute, la question embarrassante, car, le 30, elle n’y avait pas encore répondu ; et pourtant, on était à un moment où les heures et même les minutes avaient un prix inestimable</p>
+               <p>L’Allemagne avait cependant un moyen très simple de travailler à la paix : c’était de peser sur le cabinet de Vienne pour l’amener à ne réclamer que des garanties acceptables. La Russie se bornait à demander que l’Autriche respectât, outre l’intégrité territoriale de la Serbie, ses droits de souveraineté. Ce qui importait, en effet, c’est que la Serbie ne tombât pas sous la dépendance politique de l’Autriche. Que des assurances fussent données sur ce point, et la paix n’était guère douteuse. Mais quand M. Sazonoff demanda au Gouvernement allemand de l’aider à les obtenir, il essuya un refus. M. de Pourtalès, avec qui il eut une conversation à ce sujet le 29 juillet, se borna à lui répondre qu’il transmettrait sa demande à Berlin, mais qu’il ne pouvait rien faire de plus. Il ajouta même que, en faisant cette proposition, on demandait à l’Allemagne « de faire, par rapport à l’Autriche, ce qu’on reprochait à l’Autriche de vouloir faire par rapport à la Serbie : on voulait attenter à sa souveraineté. En déclarant qu’elle n’avait aucune prétention territoriale, l’Autriche s’était engagée à tenir compte des intérêts russes : grande concession de la part d’un État engagé dans une guerre ! On devait donc lui permettre de régler seule ses affaires avec la Serbie. Il serait toujours temps, quand se tiendrait la Conférence de la paix, de revenir à la question de savoir si et dans quelle mesure la souveraineté de la Serbie devrait être épargnée »</p>
+               <p>La politique réelle de l’Allemagne ne concordait donc aucunement avec son langage : tout en protestant d’un vif désir de sauvegarder la paix, elle rejetait tous les moyens proposés pour arriver à ce but et n’en suggérait aucun autre. Les principes dont s’inspirait le Gouvernement allemand expliquent cette ambiguïté. Suivant lui, en effet, la Russie n’était pas fondée à intervenir, mais devait se désintéresser de la Serbie : du moment que l’Autriche avait promis de respecter le territoire serbe, il n’y avait rien de plus à lui réclamer. Or, c’est ce que la Russie ne pouvait admettre. La paix à laquelle l’Allemagne se disait si désireuse de travailler se trouvait ainsi subordonnée à une condition qui rendait la guerre inévitable. La médiation qu’elle offrait était le contraire d’une médiation ; car le rôle d’un médiateur ne consiste pas à faire abstraction des intérêts et des revendications d’une des parties en cause. Elle parlait d’apaiser le conflit, mais en oubliant la difficulté qui en était l’origine. Elle prononçait le mot de conciliation, mais en entendant par là la soumission pure et simple d’un des deux adversaires. Nulle part, cette contradiction n’éclate avec plus d’évidence que dans deux télégrammes adressés vers ce moment par l’Empereur d’Allemagne à l’Empereur de Russie. Rentré d’une croisière le 20, Guillaume II télégraphiait, le 28, à son cousin pour lui dire qu’il allait agir à Vienne ; mais, en même temps, il déclarait avec force que les exigences de l’Autriche étaient entièrement justifiées ; et comme le Tzar, dans sa réponse, avait contesté cette assertion, Guillaume II télégraphiait à nouveau pour la maintenir ; il ajoutait impérieusement que, dans la guerre austro-serbe, la Russie devait s’en tenir au rôle de spectatrice et que, d’ailleurs, cela lui était facile</p>
+               <p>Au reste, ce qui montre bien quelles étaient les dispositions réelles de l’Allemagne, c’est que, pendant les journées mêmes où se poursuivaient ces négociations, elle préparait un acte qui, s’il avait abouti, aurait immédiatement déterminé la guerre.</p>
+               <p>
+                  <hi rend="bold">Premier ultimatum de l’Allemagne à la Russie.</hi> — Dès que la crise s’était ouverte, le Gouvernement russe avait dû se préoccuper des mesures militaires qui pouvaient devenir nécessaires. Le 25 juillet, à un Conseil des Ministres présidé par le Tzar, la mobilisation de treize corps d’armée, destinés à agir éventuellement contre l’Autriche, avait été envisagée. Toutefois, elle ne devait devenir effective que si l’Autriche prenait les armes contre la Serbie et après avis conforme du Ministre des Affaires étrangères</p>
+               <p>Cette décision fut communiquée officiellement au Gouvernement allemand dans les termes les plus amicaux : on l’assura que la Russie n’avait aucune intention agressive contre l’Allemagne</p>
+               <p>Mais l’Allemagne, bien qu’elle ne fût pas menacée, prit tout autrement les choses. Dans la journée même du 29, le comte de Pourtalès alla déclarer à M. Sazonoff que, si la Russie n’arrêtait pas ses préparatifs militaires, l’armée allemande recevrait l’ordre de mobiliser ; et les événements nous apprendront que, pour l’Allemagne, mobilisation signifie guerre</p>
+               <p>Et la menace fut bien près d’être exécutée. Dans la soirée du 29, un Conseil extraordinaire fut tenu à Potsdam sous la présidence de l’Empereur. Les autorités militaires y avaient été convoquées. Des décisions y furent prises qui ne furent pas rendues publiques, mais qui, certainement, n’étaient pas favorables à la paix ; car, au cours de la nuit, le Chancelier fit venir en hâte l’ambassadeur anglais, Sir E. Goschen ; et, après lui avoir exprimé la crainte que la conflagration européenne ne devînt inévitable, il offrit « une forte enchère pour s’assurer la neutralité de l’Angleterre ». Si, dit-il, la Grande-Bretagne consentait à rester à l’écart, le Gouvernement impérial était prêt à donner toutes les assurances que, en cas de victoire, il ne chercherait aucun agrandissement territorial aux dépens de la France continentale ; il se refusa, toutefois, à prendre le même engagement pour les colonies françaises. En même temps, il promit que l’Allemagne respecterait la neutralité de la Hollande, si elle était également respectée par les autres belligérants. Quant à la Belgique, « les opérations que l’Allemagne pourrait se trouver dans la nécessité d’(y) entreprendre dépendraient de ce que ferait la France » ; en tout cas, si la Belgique ne se rangeait pas contre l’Allemagne, elle serait évacuée après la guerre. Enfin, il termina en rappelant que, depuis son arrivée au pouvoir, il avait toujours eu pour but d’arriver à un accord avec l’Angleterre. « Il espérait que ces assurances pourraient devenir la base de cette entente qu’il désirait si vivement. Il pensait à une entente générale de neutralité entre l’Allemagne et l’Angleterre… et la promesse de la neutralité britannique dans le conflit lui permettrait d’entrevoir les moyens de réaliser son désir »</p>
+               <p>Le fait que cette conversation avait lieu d’urgence, immédiatement après la conférence de Potsdam, prouve qu’elle avait été déterminée par les résolutions prises au cours de cette conférence et que la question dont le Chancelier entretenait son interlocuteur était regardée par lui comme exceptionnellement urgente. Or cette question supposait la guerre déclarée. C’est donc que des mesures venaient d’être prises à Potsdam qui rendaient la guerre imminente. Et en effet, le 30, vers une heure de l’après-midi, le <hi rend="italic">Lokal Anzeiger</hi> faisait paraître une édition spéciale où se trouvait promulgué le décret ordonnant la mobilisation générale</p>
+               <p>Cependant, une heure après, M. de Jagow téléphonait aux ambassadeurs pour démentir la nouvelle, et le gouvernement faisait saisir les exemplaires du journal qui l’avait publiée. Mais le <hi rend="italic">Lokal Anzeiger</hi>, organe semi-officiel, n’eût pas préparé une édition spéciale pour annoncer une mesure aussi grave, si elle n’avait pas été réellement prise. Seulement, après coup, on avait décidé de la rapporter, mais en omettant de prévenir le journal. Ce revirement se traduisit d’ailleurs par une nouvelle démarche de M. de Pourtalès : dans cette même nuit du 29 au 30, il retourna chez M. Sazonoff et là, s’il insista de nouveau pour que la Russie arrêtât ses préparatifs militaires, ce fut sur un ton beaucoup moins catégorique et qui n’avait plus rien de comminatoire. Il se borna à demander à quelles conditions la Russie suspendrait sa mobilisation. L’ultimatum était retiré</p>
+               <p>La conversation que M. de Bethmann-Hollweg avait eue, quelques heures auparavant, avec Sir E. Goschen fut, très vraisemblablement, pour beaucoup dans ce changement d’attitude. L’ambassadeur anglais, en effet, avait répondu avec la plus grande réserve à l’appel chaleureux qui lui était adressé et aux offres qui lui étaient faites. Il s’était borné à déclarer que, à son avis, Sir Ed. Grey ne serait pas disposé à s’engager d’une façon quelconque, mais tiendrait à garder sa liberté</p>
+               <p>L’Allemagne tenait essentiellement à la neutralité de l’Angleterre</p>
+               <p>
+                  <hi rend="bold">Nouvelle proposition pacifique de la Russie, repoussée par l’Allemagne.</hi> — Mais cet incident offrit à M. Sazonoff une nouvelle occasion de montrer la sincérité de ses intentions pacifiques.</p>
+               <p>Au cours de sa seconde visite au Ministère des Affaires étrangères, M. de Pourtalès avait répété une fois de plus que la promesse faite par l’Autriche de ne pas porter atteinte au territoire serbe devait suffire à la Russie. « Ce n’est pas seulement l’intégrité territoriale de la Serbie que nous devons sauvegarder, répondit M. Sazonoff, c’est encore son indépendance et sa souveraineté. » Puis il ajouta : « L’heure est trop grave pour que je ne vous déclare pas toute ma pensée. En intervenant à Pétersbourg, tandis qu’elle refuse d’intervenir à Vienne, l’Allemagne ne cherche qu’à gagner du temps afin de permettre à l’Autriche d’écraser le petit royaume serbe avant que la Russie n’ait pu le secourir. Mais l’Empereur Nicolas a un tel désir de conjurer la guerre que je vais vous faire en son nom une dernière proposition : <hi rend="italic">Si l’Autriche, reconnaissant que son conflit avec la Serbie a assumé le caractère d’une question d’intérêt européen, se déclare prête à éliminer de son </hi>
+                  <hi rend="italic">ultimatum les clauses qui portent atteinte à la souveraineté de la Serbie, la Russie s’engage à cesser toutes mesures militaires</hi> »</p>
+               <p>Le comte de Pourtalès promit de transmettre cette proposition auprès de son gouvernement. Mais le même jour, M. de Jagow, mis au courant, la déclarait inacceptable pour l’Autriche</p>
+               <p>En résumé, il y a, à cette période, un contraste marqué entre les paroles et les actes du Gouvernement allemand. Aussi peut-on se demander si ses paroles n’étaient pas destinées à couvrir ses actes et à faire croire que les mesures prises ou préparées à ce moment par l’Allemagne lui étaient arrachées par la malignité de ses adversaires, en dépit d’elle-même et des sentiments pacifiques qu’elle affirmait verbalement.</p>
+               <list type="ordered">
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-1-n179">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 11.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-2-n180">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 86.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-3-n181">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 78 ; <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 50.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-4-n183">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 94.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-5-n184">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 93, 2<hi rend="sup">e</hi> annexe.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-6-n185">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 84.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-7-n186">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 107.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-8-n188">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 90.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-9-n189">↑</ref> 
+                     <hi rend="italic">L. O.,</hi> n<hi rend="sup">o</hi> 48.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-10-n190">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 98 ; <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 84.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-11-n192">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 81.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-12-n193">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 108.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-13-n194">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 109.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-14-n195">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 75.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-15-n197">↑</ref> 
+                     <hi rend="italic">L. B.</hi>, p. 9. — On lit pourtant dans la Préface du <hi rend="italic">Livre Blanc</hi> : « À notre suggestion, l’ambassadeur austro-hongrois reçut des instructions le 29 juillet pour entrer en conversation avec M. Sazonoff. Le comte Szapary était autorisé à expliquer au ministre russe la note adressée à la Serbie, et à accepter toute suggestion venant de la Russie, aussi bien qu’à discuter avec M. Sazonoff toutes les questions concernant les relations austro-russes (p. 10). » <hi rend="italic">On vient de voir quel langage l’ambassadeur allemand tint à M. Sazonoff justement le 29 juillet : il n’y est pas trace des dispositions conciliantes que, au même moment, le Gouvernement de Berlin aurait suggérées au cabinet de Vienne.</hi> D’ailleurs, le 29, le comte Berchtold venait de refuser toute conversation directe avec la Russie. On voit quel respect le <hi rend="italic">Livre Blanc</hi> a pour la vérité. Bien entendu, d’ailleurs, il ne cite aucune pièce à l’appui de son affirmation.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-16-n199">↑</ref> 
+                     <hi rend="italic">L. B.</hi>, n<hi rend="sup">os</hi> 20 et 22.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-17-n201">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 50.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-18-n202">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">os</hi> 95, 97, 101.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-19-n203">↑</ref> 
+                     <hi rend="italic">Cor. B.,</hi> n<hi rend="sup">o</hi> 70.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-20-n204">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 104.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-21-n205">↑</ref> Cf. <hi rend="italic">L. B.</hi>, Préf. p. 7.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-22-n207">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 100. — Toutefois, M. Viviani lui ayant exprimé le désir qu’aucune disposition ne fût prise qui pût offrir à l’Allemagne un prétexte pour une mobilisation générale, M. Sazonoff lui fit savoir le 30 que, dans la nuit même, l’état-major avait fait surseoir à des mesures militaires qui auraient pu prêter à l’équivoque (<hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 102).</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-23-n209">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 85.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-24-n210">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 61.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-25-n211">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 103.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-26-n213">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 85.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-27-n214">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 89.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-28-n215">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 98, <hi rend="italic">in fine</hi>.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-29-n216">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 73, 76.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-30-n218">↑</ref> 
+                     <hi rend="italic">Dans le</hi> Livre Blanc <hi rend="italic">allemand, comme dans la Préface, il n’y a pas trace de cet ultimatum ni des événements dont il est connexe.</hi>
+                  </item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-31-n219">↑</ref> 
+                     <hi rend="italic">L. J.,</hi> n<hi rend="sup">o</hi> 103, <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 60.</item> 
+                  <item>
+                     <ref target="#c4_Qui_a_voulu_la_guerre___3.xhtml#cite_ref-32-n220">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 63, <hi rend="italic">L. J.</hi>, N<hi rend="sup">o</hi> 107. — <hi rend="italic">Dans le</hi> Livre Blanc, <hi rend="italic">il n’y a pas trace de cette nouvelle tentative de </hi>
+                     <hi rend="italic">conciliation</hi>.</item>
+               </list>
+            </div>
+            <div type="div2" rend="P7">
+               <head>IV. — <hi rend="italic">La déclaration de guerre à la Russie et à la France</hi>
+                  <lb/>
+                  <hi rend="italic">(31 juillet-3 août).</hi>
+               </head>
+               <p>Nous arrivons au dénouement. Par suite de l’insécurité et de la défiance réciproque où vivaient tous les peuples d’Europe, la question de la mobilisation va se poser de nouveau avec une nouvelle acuité, et ce sera la guerre.</p>
+               <p>
+                  <hi rend="bold">Le second ultimatum de l’Allemagne à la Russie.</hi> — L’Autriche n’avait encore mobilisé qu’une partie de ses troupes. Mais le 31 juillet, à la première heure, la mobilisation générale était décrétée : tous les hommes de 19 à 42 ans étaient appelés</p>
+               <p>À cette nouvelle, la Russie jugea naturel de prendre les mêmes précautions. Elle savait d’ailleurs que, depuis plusieurs jours, l’Allemagne se préparait à la mobilisation : la flotte de Norvège ralliait l’Allemagne ; les réservistes avaient reçu l’ordre de ne pas s’absenter (cf. plus haut, p. 11) ; les officiers absents étaient rappelés, les propriétaires d’automobiles invités à tenir leurs voitures à la disposition de l’autorité militaire ; d’importants mouvements de troupes avaient lieu du côté du golfe de Finlande, etc. Dans ces conditions, étant donnée surtout l’extrême lenteur avec laquelle se fait la mobilisation russe, il parut impossible d’attendre davantage : le 31 juillet, vers le milieu de la journée, la flotte et l’armée tout entières furent mobilisées</p>
+               <p>L’Autriche accueillit la nouvelle sans aucune objection : c’était juste le moment où, comme nous allons le voir, les relations des deux pays devenaient meilleures et, à partir de là, elles continuèrent à s’améliorer. Mais, à Berlin, la protestation fut véhémente et elle se traduisit immédiatement en actes. Déjà, à 12 heures de l’après-midi, l’Empereur Guillaume avait envoyé au Tzar un télégramme d’un ton très menaçant. Il n’y parlait pas encore de la mobilisation russe, mais se plaignait seulement de mesures militaires qui auraient été prises contre lui à sa frontière orientale. Il annonçait qu’il allait être obligé de prendre « les mêmes précautions défensives », et sans dire encore que la guerre en résulterait nécessairement, il faisait entendre qu’elle était inévitable si la Russie continuait à armer ; il en déclinait la responsabilité par avance et la rejetait tout entière sur l’Empereur Nicolas</p>
+               <p>Suivant un mot de M. de Pourtalès, si ce n’était pas encore la guerre, on en était tout près.</p>
+               <p>
+                  <hi rend="bold">Nouvelle formule de transaction, acceptée de l’Autriche, repoussée par l’Allemagne.</hi> — Et cependant, à ce même moment, les négociations se poursuivaient en dehors de l’Allemagne et elles prenaient une tournure favorable qu’elles n’avaient pas eue jusqu’alors. N’étaient les menaces allemandes, on aurait pu croire la paix toute proche.</p>
+               <p>Nous avons vu (v. plus haut, p. 35) que, le 30 juillet, après la mobilisation partielle de l’armée russe, une conversation d’un ton très conciliant, avait eu lieu à Vienne entre le comte Berchtold et M. Schebeko. Mais nous n’avons pas encore rapporté les propos les plus importants qui furent échangés dans cet entretien. On ne s’était pas borné à se donner mutuellement des assurances pacifiques ; on avait abordé le fond du débat. Pour la première fois, on avait parlé du conflit austro-serbe et des moyens de le régler. Il fut entendu que l’on reprendrait officiellement les pourparlers que M. Sazonoff et M. Szapary avaient engagés à titre privé, et que le comte Berchtold avait interrompus, le 28, en refusant à son ambassadeur les pouvoirs nécessaires pour les continuer (v. plus haut, p. 27) : ce refus aurait été dû, disait le Ministre autrichien, à un malentendu, mais M. Szapary allait être immédiatement « autorisé à discuter quel accommodement serait compatible avec la dignité et le prestige dont les deux Empires ont un souci égal ». Jamais concession de cette importance n’avait été faite par l’Autriche. De son côté, d’ailleurs, l’ambassadeur russe assurait « que son Gouvernement tiendrait un compte beaucoup plus large qu’on ne suppose des exigences de la Monarchie » austro-hongroise</p>
+               <p>Juste à ce moment, l’Allemagne se plaint auprès de diverses Puissances que les efforts qu’elle fait, dit-elle, pour prêcher la paix et la modération à Vienne sont embarrassés et paralysés par la mobilisation russe contre l’Autriche</p>
+               <p>Une formule nouvelle, élaborée par l’Angleterre et la Russie, allait, d’ailleurs, faciliter à l’Autriche ce revirement.</p>
+               <p>Le 20, Sir Ed. Grey, en causant avec l’ambassadeur allemand, avait émis l’idée qu’il y aurait peut-être un moyen de rendre plus facilement acceptable le principe de la médiation : l’Autriche, aussitôt qu’elle aurait occupé une partie du territoire serbe, déclarerait « qu’elle n’avancera pas plus loin jusqu’à ce que les Puissances aient fait un effort pour s’interposer entre elle et la Russie »</p>
+               <p>L’Angleterre et la France acceptèrent sans hésiter cette nouvelle proposition. Que l’Autriche y adhérât à son tour, et l’ultimatum qui venait d’être adressé à la Russie se trouvait sans objet. L’Allemagne obtenait satisfaction, car la mobilisation russe devait s’arrêter d’elle-même, dès que l’Autriche aurait consenti les concessions qu’on lui demandait de faire. L’Autriche les consentit aussitôt et en prévint l’Allemagne</p>
+               <p>Sans doute, s’il s’exprimait, malgré tout, avec tant de réserve, c’est que le silence observé par son Gouvernement sur ces importantes négociations ne lui paraissait pas de très bon augure. Et en effet, cette formule, que tous les autres États trouvaient équitable, que les parties les plus directement engagées dans le conflit s’étaient empressées d’accepter, l’Allemagne l’écarta. En vain, le 1<hi rend="sup">er</hi> août, l’ambassadeur anglais à Berlin s’appliqua à montrer à M. de Jagow ce qu’il y avait d’étrange dans la situation : le différend principal était entre l’Autriche et la Russie ; l’Allemagne n’intervenait que comme alliée de l’Autriche ; si donc les deux États intéressés étaient d’accord pour converser, et c’était le cas, il serait illogique que l’Allemagne mît obstacle à une solution pacifique, « <hi rend="italic">si elle ne désirait pas la guerre pour son propre compte</hi> »</p>
+               <p>Mais au moment où cette conversation avait lieu, la mobilisation allemande était déjà décrétée (1<hi rend="sup">er</hi> août).</p>
+               <p>
+                  <hi rend="bold">Déclaration de guerre à la Russie.</hi> — Il n’est plus désormais question ni de la Serbie et du crime de Serajevo, ni de l’Autriche et de son ultimatum. L’Allemagne et la Russie restent seules face à face.</p>
+               <p>C’est le 1<hi rend="sup">er</hi> août à midi qu’expirait l’ultimatum. La Russie jugea naturellement contraire à sa dignité de répondre, dans les limites de temps qui lui avaient été prescrites, à une injonction aussi hautaine. Cependant, l’Empereur Nicolas ne voulut pas laisser déclarer la guerre sans avoir fait, pour la paix, un nouvel et dernier effort. À peine le délai fixé était-il écoulé que, le 1<hi rend="sup">er</hi> août à 2 heures de l’après-midi, il adressa à l’Empereur Guillaume le télégramme suivant : « Je conçois que tu sois obligé de mobiliser ; mais je voudrais avoir de toi la même garantie que je t’ai donnée</p>
+               <p>Le soir même, à 7 h. 10, la guerre était officiellement déclarée par l’Allemagne à la Russie. Dans la note que M. de Pourtalès remit, à cet effet, à M. Sazonoff, le seul grief invoqué était le refus de répondre à l’ultimatum allemand</p>
+               <p>On se demandera comment le Gouvernement allemand qui, le 20 juillet, ajournait son projet d’ultimatum parce qu’il craignait l’intervention anglaise, a pu, trois jours plus tard, passer outre à cette crainte. Ce n’est pas cependant que l’Angleterre ait changé d’altitude. Tout au contraire, le 30 juillet, Sir Ed. Grey télégraphiait à Sir E. Goschen pour lui confirmer que le marché, proposé la veille par le Chancelier en échange de la neutralité britannique, « ne saurait être accueilli un seul instant. Ce serait, disait-il, une honte pour nous de passer ce marché avec l’Allemagne aux dépens de la France, une honte dont la bonne renommée de ce pays ne se remettrait jamais »</p>
+               <p>Seulement, on ne prit pas ses paroles à la lettre. On ne crut pas que le Gouvernement anglais se reconnaîtrait des obligations, au moins morales, envers la France, mais on pensa, sans doute, qu’il voulait seulement garder les mains libres pour agir suivant les circonstances. Et comme Sir Ed. Grey répétait sans cesse que son attitude dépendrait avant tout de l’opinion publique, on se préoccupa de ménager cette dernière. Un grave déni de justice, un acte d’agression sans raison apparente pouvait l’émouvoir. Or, la déclaration de guerre que l’on méditait le 29 juillet avait évidemment ce caractère. Déclarer la guerre à la Russie parce qu’elle avait mobilisé contre l’Autriche, et cela alors que l’Autriche n’y trouvait rien à redire, c’était avouer qu’on voulait la guerre pour la guerre. On jouait donc un jeu dangereux en rompant dans ces conditions. Au contraire, une mobilisation générale de la Russie que l’on pouvait, avec un peu d’habileté, présenter comme dirigée explicitement contre l’Allemagne, était un motif plus spécieux et qui risquait moins de révolter les sentiments pacifistes de l’Angleterre. C’est pourquoi on préféra patienter. La patience était d’autant plus facile qu’il était aisé de prévoir, dès le 30</p>
+               <p>
+                  <hi rend="bold">Déclaration de guerre à la France.</hi> — Qu’allait faire la France ?</p>
+               <p>Nul ne mettait en doute qu’elle remplirait ses devoirs envers son alliée. Mais, afin de bien faire éclater devant le monde la volonté arrêtée qu’avait l’Allemagne de faire la guerre à la France, le Gouvernement français s’interdit tout ce qui pourrait ressembler à un acte d’hostilité. En annonçant à nos ambassadeurs que la mobilisation française était décrétée, M. Viviani eut soin de les prévenir quelle constituait une simple mesure de préservation qui n’empêcherait pas le Gouvernement de poursuivre les négociations commencées</p>
+               <p>Mais l’Allemagne, elle, ne pouvait pas attendre. Le plan de son État-Major était de se jeter immédiatement sur la France, de la réduire à merci en quelques semaines pour se retourner ensuite contre la Russie. Il lui fallait donc aller vite. Elle patienta cependant le plus qu’elle put, espérant sans doute que la France finirait par prendre l’initiative de la rupture et lui épargnerait l’odieux de l’agression. Mais, le 1<hi rend="sup">er</hi> août, l’ultimatum adressé à la Belgique était expiré, les hostilités allaient commencer, il n’était plus possible de différer davantage : aussi, à 6 h. 45 du soir, M. de Schoen venait-il au quai d’Orsay réclamer ses passeports et déclarer la guerre.</p>
+               <p>Il n’était pas très facile de motiver une déclaration que ne justifiait aucun conflit direct entre les deux pays. On se borna à alléguer que des aviateurs français avaient commis des actes d’hostilité en territoire allemand. L’un aurait essayé de détruire des constructions près de Wesel, d’autres auraient été aperçus sur la région de l’Eifel, un autre enfin aurait jeté des bombes sur le chemin de fer près de Karlsruhe et de Nuremberg. La manière même dont ces accusations étaient énoncées suffit à prouver qu’elles étaient de simples et pauvres inventions. Aucun témoignage n’était cité, aucune précision n’était donnée sur les endroits exacts où ces faits auraient eu lieu, sur leur date, sur la manière dont ils se seraient produits, sur la nature et l’étendue des dommages causés. Tous ces incidents étaient présentés comme s’ils s’étaient produits en dehors du temps et de l’espace, ce qui est la meilleure preuve de leur irréalité</p>
+               <p>Ces inventions étaient d’autant plus audacieuses que, dès le 2 août, M. Viviani avait signalé au gouvernement de Berlin des faits de guerre caractérisés qui avaient été commis par les troupes allemandes sur le territoire français. Elles avaient passé la frontière à Cirey ainsi que près de Longwy ; elles marchaient sur le fort qui porte ce dernier nom</p>
+               <p>Pour des raisons que nous ne chercherons pas à déterminer, l’Autriche-Hongrie ne crut pas devoir procéder comme son alliée : elle ne déclara pas la guerre à la France. Il en résulta une situation paradoxale : l’ambassadeur d’Autriche restait notre hôte, tandis que les troupes autrichiennes étaient sur notre frontière. Le 10 août, le Gouvernement français fit cesser ce paradoxe en rappelant M. Dumaine ; M. de Scézsen demanda alors ses passeports.</p>
+               <p>Mais il y eut un membre de la Triplice qui refusa de se ranger du côté de l’Allemagne : ce fut l’Italie. Dès le début, elle avait blâmé l’ultimatum autrichien. Pendant les négociations, elle avait appuyé les efforts de la Triple-Entente en vue de la paix. Aussi, dès le 1<hi rend="sup">er</hi> août, le marquis de San Giuliano avait-il averti l’ambassadeur allemand à Rome que « <hi rend="italic">la guerre entreprise… ayant un caractère agressif</hi>, ne cadrant pas avec le caractère défensif de la Triple-Alliance, l’Italie ne pourrait participer à la guerre »</p>
+               <list type="ordered">
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-1-n258">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 115.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-2-n260">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 113, <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 118. — <hi rend="italic">Ce fait capital que la mobilisation générale autrichienne a été antérieure à la mobilisation générale russe n’est, nulle part, signalé dans le</hi> Livre Blanc. Cette antériorité est pourtant certaine. Elle est affirmée non seulement par le télégramme explicite de M. Paléologue, mais par le rapport que Sir M. de Bunsen adressa à son Gouvernement après être rentré en Angleterre (<hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 161). Il y a bien un télégramme du même ambassadeur fixant au 1<hi rend="sup">er</hi> août la mobilisation générale de l’armée et de la flotte (<hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 127. Mais il faut entendre par là que le 1<hi rend="sup">er</hi> août fut le premier jour de la mobilisation : la promulgation du décret était de la veille.<lb/>La presse allemande a fait grand état d’une lettre écrite par un agent diplomatique belge, nommé M. de l’Escaille, qui fut interceptée par le cabinet noir allemand. M. de l’Escaille y exprimait des sentiments assez favorables à l’Allemagne, disant qu’elle avait fait le possible pour prévenir la guerre. Un fait montre quel crédit méritent les sources où se renseignait M. de l’Escaille : dans cette lettre, datée du 30 juillet, il est dit que le décret de mobilisation générale a été <hi rend="italic">publié</hi> le 30 à 4 heures du matin ; ce qui est certainement inexact. Pourtant la date d’une publication de ce genre est un fait facile à constater.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-3-n261">↑</ref> 
+                     <hi rend="italic">L. B.</hi>, Préf., p. 13.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-4-n263">↑</ref> 
+                     <hi rend="italic">L. B.</hi>, n<hi rend="sup">o</hi> 25.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-5-n264">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 121.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-6-n266">↑</ref> 
+                     <hi rend="italic">L. J</hi>., n<hi rend="sup">o</hi> 104.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-7-n267">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 98, 103, 108 ; <hi rend="italic">L. B</hi>., Télégramme du Kaiser, Préf., p. 13.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-8-n269">↑</ref> 
+                     <hi rend="italic">Cor. B</hi>., n<hi rend="sup">o</hi> 88. — Le Gouvernement allemand assura Sir Ed. Grey qu’il avait transmis cette proposition à Vienne et l’y avait appuyée (<hi rend="italic">Cor. B</hi>., n<hi rend="sup">os</hi> 88 et 103). Nous verrons pourtant que, quand M. Sazonoff l’eut acceptée à peine modifiée, l’Allemagne n’en voulut pas entendre parler. En tout cas, dans le <hi rend="italic">Livre Blanc</hi>, il n’y a pas une pièce où il soit question de l’action qui aurait été exercée sur le Gouvernement de Vienne à cette occasion.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-9-n270">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 103.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-10-n271">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 67.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-11-n273">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 135.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-12-n274">↑</ref> (2) <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 133.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-13-n275">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 137 ; <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 75.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-14-n276">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 125.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-15-n278">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 138.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-16-n279">↑</ref> 
+                     <hi rend="italic">De la proposition russe, amendée par l’Angleterre, aussi bien que des concessions de l’Autriche, il n’est pas fait mention dans le</hi> Livre Blanc.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-17-n281">↑</ref> Cette garantie avait été donnée par le Tzar dans un télégramme du 31.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-18-n282">↑</ref> 
+                     <hi rend="italic">L. B.</hi>, Préf., p. 13.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-19-n283">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 76.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-20-n284">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 144.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-21-n286">↑</ref> 
+                     <hi rend="italic">L. O.</hi>, n<hi rend="sup">o</hi> 79.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-22-n287">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 101.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-23-n288">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 123.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-24-n290">↑</ref> Dès le 30, M. de Jagow annonçait que l’Autriche allait décider la mobilisation générale (<hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 109).</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-25-n291">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 127.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-26-n293">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 136.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-27-n294">↑</ref> Nous avons voulu nous assurer si, dans les journaux allemands, ces faits étaient rapportés avec plus de précision. Nous avons consulté cinq grands journaux (<hi rend="italic">Vorwaerts, Arbeiterzeitung</hi>, de Vienne <hi rend="italic">Frankfurter Zeihtung, Koelnische Zeitung, Münchner Neueste Nachrichten</hi>) de fin juillet au 5 août. Nous avons noté d’abord qu’il n’y est pas question de l’avion qui aurait survolé Karlsruhe. Pour les autres, l’imprécision est la même que dans la note officielle. Ces incidents, qui auraient été la cause déterminante de la guerre, sont rapportés en une ligne, deux ou trois au plus. <hi rend="italic">Jamais les bombes n’ont laissé de traces</hi>. Un de ces avions, celui de Wesel, aurait été descendu ; on ne nous dit rien de l’aviateur, de ce qu’il est devenu, ni de l’avion lui-même. Enfin, on les signale bien à leur arrivée en Allemagne ; ensuite, on n’en parle plus. On ne les a pas vus retourner à leurs lieux d’origine.<lb/>Mais voici qui est plus probant encore. Nous avons pu nous procurer un journal de Nuremberg même, le <hi rend="italic">Fränkischer Kurrier</hi>. Le 2 août, jour où l’avion aurait lancé des bombes, il n’est pas dit un mot de l’incident. C’est le 3 que Nuremberg apprit la nouvelle par un télégramme de Berlin, identique à celui que publièrent les autres journaux. Enfin, la <hi rend="italic">Koelnische Zeitung</hi> du 3, édition du matin, publie un télégramme de Munich ainsi conçu : « Le ministère bavarois de la guerre doute de l’exactitude de la nouvelle annonçant que des aviateurs auraient été vus au-dessus des lignes Nuremberg-Kitzingen et Nuremberg-Ansbach jetant des bombes sur la voie ».<lb/>Nous avons été grandement aidés dans ces recherches par notre collègue J. Hadamard et M. Edg. Milhaud, professeur à l’Université de Genève, à qui nous adressons tous nos remerciements.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-28-n296">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 136.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-29-n297">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 139.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-30-n298">↑</ref> Dans son discours au Reichstag, le 4 août, le Chancelier prétendit que, d’après l’état-major général, une seule de ces violations de frontière avait été réellement commise. D’ailleurs, il ne nous dit ni où, ni quand elle aurait eu lieu.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-31-n300">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 136.</item> 
+                  <item>
+                     <ref target="#c5_Qui_a_voulu_la_guerre___4.xhtml#cite_ref-32-n301">↑</ref> 
+                     <hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 124. — Depuis que ces lignes ont été écrites, nous avons appris par le récent discours de M. Giolitti que, déjà en 1913, l’Autriche avait voulu machiner une guerre contre la Serbie et que l’Italie avait refusé son concours à cette agression. L’assassinat de Serajevo n’était donc qu’un prétexte.</item>
+               </list>
+            </div>
+            <div type="div2" rend="P7">
+               <head>V. — <hi rend="italic">Conclusion.</hi>
+               </head>
+               <p>Une fois les faits établis, la question que nous nous sommes posée est résolue. Il n’y a qu’à les laisser parler : ils disent d’eux-mêmes <hi rend="italic">qui a voulu la guerre</hi>.</p>
+               <p>Ce n’est évidemment pas la France. Même ses pires ennemis n’ont pas porté contre elle cette accusation. En fait, elle a, jusqu’au bout et de toutes ses forces, lutté pour la paix. On a dit</p>
+               <p>Il est tout aussi impossible de mettre l’Angleterre en cause. C’est elle qui a présidé à toutes les tentatives de conciliation ; c’est même elle qui, le plus souvent, les a suscitées. L’attachement de l’Angleterre à la paix était même tel que Sir Ed. Grey n’aurait pas hésité à se considérer comme délié de toute obligation envers la France et la Russie si la guerre avait éclaté par la faute de ces deux pays. Le 31 juillet, il télégraphiait à Sir E. Goschen : « J’ai dit à l’ambassadeur d’Allemagne ce matin que, si l’Allemagne faisait une proposition raisonnable qui montrerait clairement que l’Allemagne et l’Autriche s’efforçaient de préserver la paix européenne, et si la Russie et la France étaient assez déraisonnables pour la repousser, je la soutiendrai à Saint-Pétersbourg et à Paris, et <hi rend="italic">je vais jusqu’à dire que, si la Russie et la France ne l’acceptaient pas, le Gouvernement de Sa Majesté se désintéresserait des conséquences</hi>
+               </p>
+               <p>Dans la Préface du <hi rend="italic">Livre Blanc</hi>, le Gouvernement allemand reconnaissait ces intentions pacifiques de l’Angleterre. Depuis, il est vrai, il a changé de sentiment. Aujourd’hui, c’est une opinion courante en Allemagne que la responsabilité de la guerre incombe à l’Angleterre. On l’a accusée d’avoir attiré l’Allemagne « dans une embuscade »</p>
+               <p>Et cependant, il ne pouvait s’en prendre qu’à lui-même, car il avait été dûment averti. À plusieurs reprises, Sir Ed. Grey avait répété que, si la guerre se généralisait, il pourrait être obligé d’intervenir, que, notamment, si l’Allemagne violait la neutralité belge, « il serait très difficile de contenir le sentiment public en Angleterre ». Il avait appelé l’attention du Gouvernement allemand sur le caractère « très sérieux » des avertissements qu’il lui donnait et, écartant par avance les reproches qui lui sont adressés aujourd’hui, il avait ajouté que, après des explications aussi nettes, on ne serait pas fondé à l’accuser un jour d’avoir trompé l’Allemagne par un langage équivoque</p>
+               <p>L’attitude de la Russie n’a pas été moins pacifique que celle de l’Angleterre et de la France. Sans doute, la Russie ne pouvait consentir à se désintéresser du sort de la Serbie. Mais, sous cette réserve qu’elle ne pouvait laisser porter atteinte ni au territoire ni à la souveraineté de la Serbie, elle se montra prête à accepter toutes les transactions. Elle admettait que des garanties pouvaient être demandées au Gouvernement serbe qui, d’ailleurs, ne les refusait pas. Elle poussa l’esprit de modération jusqu’à s’interdire toute décision grave même après que l’Autriche eut déclaré la guerre à la Serbie. Elle s’associa à toutes les tentatives de conciliation, elle en proposa plusieurs, déclarant qu’elle se ralliait par avance à toutes celles qui paraîtraient équitables à l’Angleterre et à la France. « Je négocierai jusqu’au bout », avait dit un jour M. Sazonoff, et il le fit. L’Allemagne lui a, il est vrai, reproché d’avoir, le 31, décrété la mobilisation générale et, pour ce fait unique, elle a voulu rendre le Gouvernement russe responsable de la guerre. C’était oublier volontairement que cette mesure avait été imposée à la Russie par la mesure identique que l’Autriche avait prise antérieurement. Aux millions d’hommes que l’Autriche se préparait à mettre en ligne, la Russie ne pouvait se borner à opposer les quelques corps d’armée qu’elle était en train de mobiliser. D’ailleurs, nous savons que M. Sazonoff offrit d’arrêter ses préparatifs si l’Autriche s’engageait à en faire autant, et ce n’est pas de la faute de la Russie si sa proposition n’aboutit pas. Aucune des puissances de la Triple-Entente ne saurait donc être incriminée.</p>
+               <p>Lourde, au contraire, est la responsabilité de l’Autriche. C’est elle qui a déclenché le cataclysme en adressant à la Serbie un ultimatum intentionnellement inacceptable. Puis, quand la crise fut ouverte, elle l’achemina vers un dénouement violent en fermant, pendant longtemps, l’oreille à toutes les transactions proposées. Cependant, on doit noter à sa décharge que, si elle désirait certainement la guerre avec la Serbie, elle ne semble pas avoir cherché une conflagration générale. Si, pendant un temps, elle s’est montrée intransigeante, c’est dans la conviction, soigneusement entretenue par M. de Tschirsky, que la Russie laisserait faire comme en 1909, après l’annexion de l’Herzégovine et de la Bosnie. Aussi, quand elle s’aperçut qu’elle se trompait et que la Russie prenait les choses au sérieux, changea-t-elle aussitôt d’attitude. C’est la mobilisation russe qui la rendit conciliante. Le 29, la mobilisation partielle est décrétée ; le 30, le ton du comte Berchtold s’adoucit. Et plus la guerre européenne devient menaçante, plus le Gouvernement de Vienne devient pacifique. Quand il se rend compte enfin du jeu terrible qu’il était en train de jouer, il cherche à reculer. Mais il est trop tard ; l’Allemagne a pris la direction du mouvement et elle l’entraîne à sa suite. Elle est victime du <hi rend="italic">bluff</hi> auquel il s’est trop complaisamment prêté. Aussi l’Allemagne n’a-t-elle pas dit la vérité, quand elle a prétendu que les préparatifs militaires de la Russie l’avaient empêchée d’agir utilement à Vienne. C’est, au contraire, à ce moment que l’Autriche s’est assagie et s’est offerte d’elle-même à une action médiatrice</p>
+               <p>Mais tout ce qui diminue la responsabilité de l’Autriche accroît d’autant celle de l’Allemagne.</p>
+               <p>C’est l’Allemagne qui, en promettant à son alliée, dont elle connaissait les desseins, un appui intégral, l’a encouragée à provoquer la Serbie. C’est elle ensuite qui, en approuvant sans réserve cette attitude provocatrice, poussa l’Autriche à y persévérer.</p>
+               <p>Quand la Russie, l’Angleterre, la France et l’Italie demandèrent que, du moins, un court répit leur fût accordé pour pouvoir délibérer sur la question soulevée, et cela dans l’espoir tacite que le temps et la réflexion pourraient exercer une action apaisante sur les esprits, c’est l’Allemagne qui, en refusant de se joindre aux autres puissances, empêcha la demande d’aboutir.</p>
+               <p>C’est elle qui, tout en protestant de ses sentiments pacifiques, fit avorter le projet de conférence à quatre, sans rien proposer qui pût en tenir lieu.</p>
+               <p>C’est elle qui, saisie du projet de pourparlers directs entre la Russie et l’Autriche, auquel elle ne pouvait rien objecter puisqu’il ne l’engageait à rien, refusa de l’appuyer à Vienne et se borna à le transmettre, non sans un mauvais vouloir évident.</p>
+               <p>C’est elle qui témoigna de son agressivité foncière en menaçant, dès le 29 juillet, de se jeter sur la Russie, et cela sous un prétexte qu’elle reconnut ensuite indéfendable.</p>
+               <p>C’est elle qui, le 30, sans consulter l’Autriche, rejeta une nouvelle proposition de M. Sazonoff qui pouvait, tout au moins, servir de base à des négociations ultérieures.</p>
+               <p>C’est elle qui, quand la mobilisation générale était partout décrétée, quand la guerre paraissait imminente, refusa même d’examiner un nouveau projet transactionnel qui aurait conjuré le danger, que l’Autriche acceptait, que toutes les Puissances recommandaient et qui devait lui donner à elle-même entière satisfaction.</p>
+               <p>C’est elle, enfin, qui a déclaré la guerre à la Russie et à la France, en justifiant cette double déclaration par des inventions mensongères.</p>
+               <p>À cet ensemble concordant de charges accablantes, l’Allemagne oppose un système dont la Préface du <hi rend="italic">Livre Blanc</hi> nous donne la version officielle : il a pour objet de rejeter sur la Russie toute la responsabilité. La discussion n’en sera pas longue : il s’écroule, dès qu’on s’est rendu compte de la méthode qui a permis de le construire.</p>
+               <p>L’auteur de cette préface ne falsifie pas, au sens propre du mot, les faits dont il se sert : <hi rend="italic">il procède par omissions méthodiques</hi>. Sans doute, on trouve dans son exposé des affirmations sans preuves, d’autres qui sont manifestement contraires à la vérité ; nous en avons cité plusieurs. Très souvent, les événements ne sont pas datés, et l’ordre dans lequel ils sont disposés n’a rien de chronologique ; de tout cela résulte une confusion qui ne rend pas le contrôle facile. Mais en somme, si ces erreurs et ces inexactitudes n’indiquent qu’un souci médiocre de la vérité, elles ne sont pas essentielles. Seulement, si les faits ne sont pas outrageusement altérés, tous ceux qui démentent la thèse allemande sont soigneusement passés sous silence, ou bien ils tiennent si peu de place dans le récit que l’on peut à peine les remarquer au passage. Pour s’en assurer, il suffit de se reporter aux notes que nous avons mises au bas des pages qui précèdent : nous y avons signalé ces oublis trop habiles. Nous savons à combien de tentatives de conciliation l’Allemagne a refusé de prêter son concours : or, dans le <hi rend="italic">Livre Blanc</hi>, une seule pièce se rapporte à un refus de ce genre (n<hi rend="sup">o</hi> 12). Le lecteur qui n’aurait pas d’autre source d’informations ignorerait la démarche faite par la Russie, l’Angleterre et la France pour obtenir une prorogation de l’ultimatum autrichien, et le projet de pourparlers directs entre Vienne et Saint-Pétersbourg</p>
+               <p>En résumé, il n’existe pas à l’actif de l’Allemagne un seul geste sérieux de paix, mais rien que de vaines paroles. Au contraire, tous les actes qui ont, peu à peu, orienté la crise vers la guerre — note autrichienne, refus de toute prorogation du délai, déclaration de guerre à la Serbie, rejet des transactions proposées, première sommation à la Russie, ultimatum suivi de la déclaration de guerre — tout cela a été ou directement voulu par elle ou fait avec son appui et sa complicité. Au début, elle est derrière l’Autriche dont elle soutient la politique agressive ; puis, une fois qu’elle a pris elle-même l’affaire en main, c’est elle aussi qui prend les décisions suprêmes et qui les impose à son alliée, alors hésitante et troublée. C’est donc elle la grande coupable.</p>
+               <p>On a objecté que l’Empereur Guillaume avait, à plusieurs reprises, témoigné, par des actes, de son attachement à la paix : son passé, dit-on, ne permet donc pas de lui prêter des intentions belliqueuses que dément tout son caractère. Mais c’est oublier que les hommes changent avec l’âge et avec les circonstances. Et en effet, il y a des raisons de croire que Guillaume II avait changé, que, vers la fin de 1913, l’ancien champion de la paix s’était ouvert à des idées de guerre. C’est l’impression que laisse une conversation qu’il eut avec le roi de Belgique, en présence du général de Moltke ; M. Cambon, qui dit la tenir d’une source absolument sûre, la rapporte dans une pièce du <hi rend="italic">Livre Jaune</hi> (n<hi rend="sup">o</hi> 6). L’Empereur aurait dit qu’« il en était venu à penser que la guerre avec la France était inévitable et qu’il faudrait un jour ou l’autre en venir là », et le général de Moltke aurait parlé comme son souverain.</p>
+               <p>Des causes très diverses peuvent avoir déterminé cette révolution morale. L’échec de la politique impériale au Maroc, l’impopularité qui en était résultée, le crédit croissant du Kronprinz, tout cela devait faire sentir à Guillaume la nécessité de relever son prestige par un coup d’éclat. D’autre part, l’agitation nationaliste en France était habilement exploitée par le parti militaire, toujours puissant : on disait que la France voulait et préparait la revanche. Enfin, l’empire austro-hongrois était menacé de dislocation à la mort de François-Joseph : si donc l’Allemagne attendait trop pour agir, il était à craindre que, au moment voulu, elle se trouvât sans alliée ou avec une alliée amoindrie et tout occupée de difficultés intérieures. Déjà très dangereuses par elles-mêmes, ces dispositions générales furent encore renforcées, en juillet 1914, partout un ensemble de circonstances particulières. L’archiduc François-Ferdinand était un ami personnel de Guillaume ; c’était, de plus, un futur souverain. À ce double titre, le Kaiser se sentait tout spécialement tenu de venger l’assassinat de Serajevo. Comme, à ce même moment, l’Angleterre semblait menacée par une sorte de guerre civile, la Russie paralysée par des grèves très graves, la France par des divisions intestines, l’occasion était propice, et il put paraître sage de ne pas la laisser échapper.</p>
+               <p>Au surplus, la question n’est pas de savoir si Guillaume II était ou non homme à vouloir la guerre, mais si lui et son Gouvernement l’ont réellement voulue. On a vu comment les faits répondent à cette question. Si, néanmoins, la thèse allemande sur les causes de la guerre a pu se faire accepter pendant un temps, non seulement par l’Allemagne, mais par un certain nombre de neutres, c’est que le procédé grâce auquel elle a été établie ne pouvait pas être immédiatement aperçu. Les lacunes volontaires, si nombreuses et si graves, qui lui donnent un air spécieux, ne pouvaient être décelées qu’à partir du moment où l’on a pu faire avec méthode l’histoire des origines de la guerre. Mais, maintenant que nous savons dans quel ordre se sont enchaînés les événements, quelle a été, à chacune des phases par lesquelles ont passé les négociations, l’attitude des différents États qui y ont participé, la culpabilité de l’Allemagne apparaît en pleine lumière. Tout la prouve, et rien ne l’infirme ni ne l’atténue. Aussi l’opinion universelle hésite-t-elle de moins en moins à désigner le Gouvernement allemand comme l’auteur responsable de l’effroyable calamité dont souffrent aujourd’hui tous les peuples. Déjà même la vérité commence à filtrer à travers la muraille de Chine qui isole aujourd’hui l’Empire allemand du reste du monde. Bien qu’elles ne soient encore que bien imparfaitement éclairées, il y a, dès à présent, des consciences allemandes qui sont troublées et qui éprouvent le besoin de décliner toute solidarité avec le grand, l’inexpiable mensonge dont nous venons de faire l’histoire. Sans doute, elles sont encore en petit nombre. Mais combien il faut que l’évidence des faits soit accablante, pour qu’elle s’impose à ceux-là mêmes qui ne peuvent pas la reconnaître sans en souffrir cruellement !</p>
+               <list type="ordered">
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-1-n338">↑</ref> C’est le langage tenu par le Chancelier allemand à la tribune du Reichstag, le 2 décembre 1914.</item> 
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-2-n340">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 111.</item> 
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-3-n341">↑</ref> L’expression a été employée dans le manifeste des 95 intellectuels.</item> 
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-4-n342">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 160.</item> 
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-5-n344">↑</ref> 
+                     <hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 125, 101.</item> 
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-6-n345">↑</ref> Nous ne disons rien d’un reproche nouveau récemment adressé par M. de Bethmann-Hollweg à l’Angleterre. C’est sur celle-ci que retomberait la responsabilité <hi rend="italic">interne</hi> de la guerre, parce « qu’elle aurait pu la prévenir en faisant savoir tout de suite à Pétersbourg qu’elle ne laisserait pas le conflit prendre les proportions d’une guerre européenne ». En d’autres termes, pour assurer la paix, l’Angleterre n’avait qu’à contester à la Russie le droit d’intervenir, c’est-à-dire à adopter le point de vue allemand qu’elle jugeait injustifiable. Ces paroles du Chancelier sont d’une extraordinaire inconscience. De plus, comment l’Angleterre aurait-elle pu obliger la Russie à s’abstenir, si celle-ci avait refusé de céder à cette injonction ? Serait-ce en s’alliant à l’Allemagne ?</item> 
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-7-n348">↑</ref> Toutefois, une autre explication des faits est possible. On pourrait se demander si les concessions que l’Autriche fit à la dernière heure n’étaient pas une manœuvre concertée avec l’Allemagne. Elles permettaient, en effet, à celle-ci de soutenir que, sous son influence, l’Autriche était devenue conciliante, que., par suite, la paix était assurée au moment où elle fut compromise par la brusque mobilisation de la Russie.<lb/>Cette interprétation n’est pas absolument invraisemblable. Si nous l’avons écartée, c’est que la manœuvre eût été singulièrement grossière et malhabile. Elle devait, en effet, se retourner contre l’Allemagne. Elle permettait de dire, comme nous l’avons fait, que, l’Autriche s’étant convertie à la paix, celle-ci était assurée sans l’intransigeance finale de l’Allemagne. Cependant, les procédés de la diplomatie allemande sont quelquefois si gros que l’hypothèse ne peut être considérée comme absolument inadmissible. Mais, au cas où elle serait vraie, tout en alourdissant la responsabilité de l’Autriche, elle ne ferait qu’accroître celle de l’Allemagne. Quoi de plus indigne que ce machiavélisme qui aurait consisté à se partager les rôles de la plus sinistre comédie et à charger l’Autriche de tenir un langage mensonger pour pouvoir atteindre plus à l’aise le but abominable que l’on poursuivait ?</item> 
+                  <item>
+                     <ref target="#c6_Qui_a_voulu_la_guerre___5.xhtml#cite_ref-8-n351">↑</ref> Dans le recueil de pièces, il y a deux lignes sur cette question (n<hi rend="sup">o</hi> 15).</item>
+               </list>
+            </div>
+            <div type="div2" rend="P17">
+               <head>Note additionnelle</head>
+               <p>Le travail précédent était sous presse quand la <hi rend="italic">Norddeutsche Allgemeine Zeitung</hi> du 21 décembre publia une réponse au <hi rend="italic">Livre Jaune</hi>. Quelques-uns des faits cités au cours de notre étude y sont contestés. Nous ne parlerons ici que des contestations qui portent sur des faits de quelque importance.</p>
+               <p>1<hi rend="sup">o</hi> On nie les concessions faites par l’Autriche à partir du 30 juillet. Le malheur est que la réalité de ces concessions a été reconnue par le gouvernement allemand lui-même. Le 1<hi rend="sup">er</hi> août, comme l’ambassadeur d’Angleterre faisait remarquer à M. de Jagow que l’Autriche était maintenant toute disposée à causer avec la Russie, le secrétaire d’État répondit que ces dispositions conciliantes étaient dues « à l’influence allemande ». Quelle qu’en pût être l’origine, elles étaient donc réelles.</p>
+               <p>2<hi rend="sup">o</hi> Un démenti partiel est opposé à la dépêche de M. Cambon relatant la conversation du roi Albert avec Guillaume II. L’Empereur n’aurait pas assisté à cet entretien ; seul, le général de Moltke aurait été présent et il n’aurait pas tenu le langage qui lui a été prêté. En réponse à ce demi-démenti, nous nous bornerons à affirmer que la source à laquelle M. Cambon a puisé ses renseignements est « absolument sûre ».</p>
+               <p>3<hi rend="sup">o</hi> Enfin, la gazette allemande nie que la mobilisation autrichienne ait été antérieure à la mobilisation générale russe : la première aurait eu lieu dans la journée du 31, la seconde dans la nuit du 30 au 31. Mais, 1<hi rend="sup">o</hi>) aucune preuve, de quelque sorte que ce soit, n’est donnée à l’appui de cette assertion. 2<hi rend="sup">o</hi>) Le télégramme de M. Paléologue daté du 31 (<hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 118) dit expressément que la mobilisation générale russe a été déterminée par la mobilisation générale autrichienne. On oppose à ce témoignage un démenti que ne justifie aucun témoignage contraire. 3<hi rend="sup">o</hi>) Le rédacteur de l’article paraît avoir oublié que, suivant M. Dumaine (<hi rend="italic">L. J.</hi>, n<hi rend="sup">o</hi> 113), la mobilisation générale autrichienne a eu lieu le 31 à la première heure : ce qui rend invraisemblable qu’elle ait pu être provoquée par la mobilisation russe, si celle-ci a eu lieu dans la nuit du 30 au 31. 4<hi rend="sup">o</hi>) Enfin, un aveu de l’Allemagne tranche le débat. Nous avons vu (p. 42) que le 31 juillet, à deux heures de l’après-midi (heure de Berlin), Guillaume II envoyait au Tzar un télégramme où il n’était pas question de la mobilisation générale russe. À ce moment donc, le gouvernement de Berlin l’ignorait. Déjà cette ignorance, à cette heure avancée de la journée, est incompréhensible, si le décret russe de mobilisation remontait à la nuit précédente. Mais voici qui lève tous les doutes, s’il en peut rester encore. Après avoir reproduit le texte du télégramme impérial, l’auteur de la Préface du <hi rend="italic">Livre Blanc</hi> (p. 12) ajoute : « Ce télégramme n’était pas encore arrivé à sa destination que <hi rend="italic">la mobilisation de toutes les forces russes, ordonnée déjà ce même jour (31 juillet) dans la matinée</hi> (am Vormittag), était en voie de réalisation ». <hi rend="italic">Vormittag</hi>, c’est la matinée, et plutôt la seconde partie de la matinée, vers 11 heures, non la nuit du 30 au 31. Le gouvernement allemand avait répondu par avance à son journal.</p>
+               <p>Ceci établi, nous devons ajouter que l’importance attachée par l’Allemagne à la question de la mobilisation russe est de pur pharisaïsme. Même si cette mobilisation n’avait pas eu lieu, l’Allemagne aurait mobilisé ce jour-là et la guerre en serait résultée. Nous avons vu, en effet, combien le télégramme de Guillaume II, écrit à deux heures de l’après-midi, était déjà menaçant, bien que, à ce moment, il ignorât la mobilisation russe. De même, dans la matinée, le Chancelier annonçait à l’ambassadeur d’Angleterre que « des mesures très graves » allaient être prises contre la Russie, « peut-être aujourd’hui » (<hi rend="italic">Cor. B.</hi>, n<hi rend="sup">os</hi> 108, 109). Et pourtant il ne sut que plus tard que la Russie mobilisait (<hi rend="italic">Cor. B.</hi>, n<hi rend="sup">o</hi> 112). — On était donc à l’affût d’un prétexte ; la mobilisation russe a simplement corsé celui qu’on avait en vue.</p>
+            </div>
+            <div type="div2" rend="P7">
+               <head>À propos de cette édition électronique</head>
+               <p>Ce livre électronique est issu de la bibliothèque numérique <ref target="https://fr.wikisource.org/wiki/Wikisource:Accueil">Wikisource</ref>
+                  <ref target="#about.xhtml#cite_note-1-n374">
+                     <hi rend="sup">[1]</hi>
+                  </ref>. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)</p>
+               <p>Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence <ref target="http://creativecommons.org/licenses/by-sa/3.0/deed.fr">Creative Commons BY-SA 3.0</ref>
+                  <ref target="#about.xhtml#cite_note-2-n375">
+                     <hi rend="sup">[2]</hi>
+                  </ref> ou, à votre convenance, celles de la licence <ref target="http://www.gnu.org/copyleft/fdl.html">GNU FDL</ref>
+                  <ref target="#about.xhtml#cite_note-3-n376">
+                     <hi rend="sup">[3]</hi>
+                  </ref>.</p>
+               <p>Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à <ref target="https://fr.wikisource.org/wiki/Aide:Signaler_une_erreur">cette adresse</ref>
+                  <ref target="#about.xhtml#cite_note-4-n377">
+                     <hi rend="sup">[4]</hi>
+                  </ref>.</p>
+               <p>Les contributeurs suivants ont permis la réalisation de ce livre :</p>
+               <list type="unordered">
+                  <item>Cantons-de-l'Est</item> 
+                  <item>Herisson</item> 
+                  <item>Yann</item> 
+                  <item>Acélan</item> 
+                  <item>Richardbl</item> 
+                  <item>Jahl de Vautban</item> 
+                  <item>*j*jac</item> 
+                  <item>Reptilien.19831209BE1</item> 
+                  <item>M0tty</item>
+               </list>
+               <list type="ordered">
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-1-n369">↑ </ref>http://fr.wikisource.org</item> 
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-2-n370">↑ </ref>http://creativecommons.org/licenses/by-sa/3.0/deed.fr</item> 
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-3-n371">↑ </ref>http://www.gnu.org/copyleft/fdl.html</item> 
+                  <item>
+                     <ref target="#about.xhtml#cite_ref-4-n372">↑ </ref>http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

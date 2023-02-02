@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rimas</title>
+            <author>Bécquer, Gustavo Adolfo </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:20:33Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-25T10:30:45.888773261</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Rimas</head>
+         <author>Bécquer, Gustavo Adolfo</author>
+         <p rend="italic">2020-01-11T23:00:00+00:00</p>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg/>
+         <div type="div1">
+            <head>Rimas</head>
+            <lg/>
+            <lg/>
+            <div type="div2">
+               <div type="div3">
+                  <head>I</head>
+                  <lg>
+                     <l>Yo sé un himno gigante y extraño</l>
+                     <l>que anuncia en la noche del alma una aurora,</l>
+                     <l>y estas páginas son de este himno</l>
+                     <l>cadencias que el aire dilata en la sombras.</l>
+                     <l>Yo quisiera escribirlo, del hombre</l>
+                     <l>domando el rebelde, mezquino idioma,</l>
+                     <l>con palabras que fuesen a un tiempo</l>
+                     <l>suspiros y risas, colores y notas.</l>
+                     <l>Pero en vano es luchar; que no hay cifra</l>
+                     <l>capaz de encerrarle, y apenas ¡oh hermosa!</l>
+                     <l>si teniendo en mis manos las tuyas</l>
+                     <l>pudiera, al oído, cantártelo a solas.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XLVIII</head>
+                  <lg>
+                     <l>Como se arranca el hierro de una herida</l>
+                     <l>su amor de las entrañas me arranqué,</l>
+                     <l>¡aunque sentí al hacerlo que la vida</l>
+                     <l>me arrancaba con él!</l>
+                     <l>Del altar que le alcé en el alma mía</l>
+                     <l>la voluntad su imagen arrojó,</l>
+                     <l>y la luz de la fe que en ella ardía</l>
+                     <l>ante el ara desierta se apagó.</l>
+                     <l>Aun para combatir mi firme empeño</l>
+                     <l>viene a mi mente su visión tenaz...</l>
+                     <l>¡Cuándo podré dormir con ese sueño</l>
+                     <l>en que acaba el soñar!!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XLVII</head>
+                  <lg>
+                     <l>Yo me he asomado a las profundas simas</l>
+                     <l>de la tierra y del cielo,</l>
+                     <l>y les he visto el fin, o con los ojos,</l>
+                     <l>o con el pensamiento.</l>
+                     <l>Mas ¡ay! de un corazón llegué al abismo</l>
+                     <l>y me incliné un momento,</l>
+                     <l>y mi alma y mis ojos se turbaron:</l>
+                     <l>¡tan hondo era y tan negro!!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XLV</head>
+                  <lg>
+                     <l>En la clave del arco mal seguro</l>
+                     <l>cuyas piedras el tiempo enrojeció,</l>
+                     <l>obra de cincel rudo, campeaba</l>
+                     <l>el gótico blasón.</l>
+                     <l>Penacho de su yelmo de granito,</l>
+                     <l>la yedra que colgaba en derredor</l>
+                     <l>daba sombra al escudo en que una mano</l>
+                     <l>tenía un corazón.</l>
+                     <l>A contemplarle en la desierta plaza</l>
+                     <l>nos paramos los dos:</l>
+                     <l>y, ése, me dijo, es el cabal emblema</l>
+                     <l>de mi constante amor.</l>
+                     <l>¡Ay! es verdad lo que me dijo entonces:</l>
+                     <l>verdad que el corazón</l>
+                     <l>lo llevará en la mano... en cualquier parte...</l>
+                     <l>pero en el pecho no.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXVIII</head>
+                  <lg>
+                     <l>¡Los suspiros son aire y van al aire!</l>
+                     <l>¡Las lágrimas son agua y van al mar!</l>
+                     <l>Dime, mujer, cuando el amor se olvida</l>
+                     <l>¿sabes tú adónde va?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXXII</head>
+                  <lg>
+                     <l>Primera voz</l>
+                  </lg>
+                  <lg>
+                     <l>Las ondas tienen vaga armonía,</l>
+                     <l>las violetas suave olor,</l>
+                     <l>brumas de plata la noche fría,</l>
+                     <l>luz y oro el día,</l>
+                     <l>yo algo mejor;</l>
+                     <l>¡yo tengo <hi rend="italic">Amor</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Segunda voz</l>
+                  </lg>
+                  <lg>
+                     <l>Aura de aplausos, nube radiosa,</l>
+                     <l>ola de envidia que besa el pie,</l>
+                     <l>isla de sueños donde reposa</l>
+                     <l>el alma ansiosa,</l>
+                     <l>¡dulce embriaguez</l>
+                     <l>la <hi rend="italic">Gloria</hi> es!</l>
+                  </lg>
+                  <lg>
+                     <l>Tercera voz</l>
+                  </lg>
+                  <lg>
+                     <l>Ascua encendida es el tesoro,</l>
+                     <l>sombra que huye la vanidad.</l>
+                     <l>Todo es mentira: la gloria, el oro,</l>
+                     <l>lo que yo adoro</l>
+                     <l>sólo es verdad;</l>
+                  </lg>
+                  <lg>
+                     <l>¡la <hi rend="italic">Libertad</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Así los barqueros pasaban cantando</l>
+                     <l>la eterna canción</l>
+                     <l>y al golpe del remo saltaba la espuma</l>
+                     <l>y heríala el sol.</l>
+                     <l>—¿Te embarcas?, gritaban, y yo sonriendo</l>
+                     <l>les dije al pasar:</l>
+                     <l>Yo ya me he embarcado; por señas que aún tengo</l>
+                     <l>la ropa en la playa tendida a secar.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XVIII</head>
+                  <lg>
+                     <l>Fatigada del baile,</l>
+                     <l>encendido el color, breve el aliento,</l>
+                     <l>apoyada en mi brazo</l>
+                     <l>del salón se detuvo en un extremo.</l>
+                     <l>Entre la leve gasa</l>
+                     <l>que levantaba el palpitante seno,</l>
+                     <l>una flor se mecía</l>
+                     <l>en compasado y dulce movimiento.</l>
+                     <l>Como cuna de nácar</l>
+                     <l>que empuja al mar y que acaricia el céfiro,</l>
+                     <l>tal vez allí dormía</l>
+                     <l>al soplo de sus labios entreabiertos.</l>
+                     <l>¡Oh! ¡quién así, pensaba,</l>
+                     <l>dejar pudiera deslizarse el tiempo!</l>
+                     <l>¡Oh! si las flores duermen,</l>
+                     <l>¡qué dulcísimo sueño!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXVI</head>
+                  <lg>
+                     <l>Voy contra mi interés al confesarlo,</l>
+                     <l>no obstante, amada mía,</l>
+                     <l>pienso cual tú que una oda sólo es buena</l>
+                     <l>de un billete del Banco al dorso escrita.</l>
+                     <l>No faltará algún necio que al oírlo</l>
+                     <l>se haga cruces y diga:</l>
+                     <l>¡Mujer al fin del siglo diez y nueve,</l>
+                     <l>material y prosaica!... ¡Boberías!</l>
+                     <l>¡Voces que hacen correr cuatro poetas</l>
+                     <l>que en invierno se embozan con la lira!</l>
+                     <l>¡Ladridos de los perros a la luna!</l>
+                     <l>Tú sabes y yo sé que en esta vida</l>
+                     <l>con genio es muy contado el que <hi rend="italic">la escribe<lb/>
+                        </hi>y con oro cualquiera <hi rend="italic">hace</hi> poesía.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>LVIII</head>
+                  <lg>
+                     <l>¿Quieres que de ese néctar delicioso</l>
+                     <l>no te amargue la hez?</l>
+                     <l>Pues aspírale, acércale a tus labios</l>
+                     <l>y déjale después.</l>
+                     <l>¿Quieres que conservemos una dulce</l>
+                     <l>memoria de este amor?</l>
+                     <l>Pues amémonos hoy mucho y mañana</l>
+                     <l>digámonos ¡adiós!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>LV</head>
+                  <lg>
+                     <l>Entre el discorde estruendo de la orgía</l>
+                     <l>acarició mi oído,</l>
+                     <l>como nota de música lejana,</l>
+                     <l>el eco de un suspiro.</l>
+                     <l>El eco de un suspiro que conozco,</l>
+                     <l>formado de un aliento que he bebido,</l>
+                     <l>perfume de una flor que oculta crece</l>
+                     <l>en un claustro sombrío.</l>
+                     <l>Mi adorada de un día, cariñosa,</l>
+                     <l>—¿En qué piensas?, me dijo.</l>
+                     <l>—En nada... —En nada ¿y lloras? —Es que tengo</l>
+                     <l>alegre la tristeza y triste el vino.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XLIV</head>
+                  <lg>
+                     <l>Como en un libro abierto</l>
+                     <l>leo de tus pupilas en el fondo.</l>
+                     <l>¿A qué fingir el labio</l>
+                     <l>risas que se desmienten con los ojos?</l>
+                     <l>¡Llora! No te avergüences</l>
+                     <l>de confesar que me quisiste un poco.</l>
+                     <l>¡Llora! Nadie nos mira.</l>
+                     <l>Ya ves; yo soy un hombre... y también lloro.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>L</head>
+                  <lg>
+                     <l>Lo que el salvaje que con torpe mano</l>
+                     <l>hace de un tronco a su capricho un dios</l>
+                     <l>y luego ante su obra se arrodilla,</l>
+                     <l>eso hicimos tú y yo.</l>
+                     <l>Dimos formas reales a un fantasma,</l>
+                     <l>de la mente ridícula invención,</l>
+                     <l>y hecho el ídolo ya, sacrificamos</l>
+                     <l>en su altar nuestro amor.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>VII</head>
+                  <lg>
+                     <l>Del salón en el ángulo oscuro,</l>
+                     <l>de su dueña tal vez olvidada,</l>
+                     <l>silenciosa y cubierta de polvo,</l>
+                     <l>veíase el arpa.</l>
+                     <l>¡Cuánta nota dormía en sus cuerdas,</l>
+                     <l>como el pájaro duerme en las ramas,</l>
+                     <l>esperando la mano de nieve</l>
+                     <l>que sabe arrancarlas!</l>
+                     <l>¡Ay!, pensé; ¡cuántas veces el genio</l>
+                     <l>así duerme en el fondo del alma,</l>
+                     <l>y una voz como Lázaro espera</l>
+                     <l>que le diga «Levántate y anda»!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XLIX</head>
+                  <lg>
+                     <l>Alguna vez la encuentro por el mundo</l>
+                     <l>y pasa junto a mí;</l>
+                     <l>y pasa sonriéndose y yo digo:</l>
+                     <l>¿Cómo puede reír?</l>
+                     <l>Luego asoma a mi labio otra sonrisa,</l>
+                     <l>máscara del dolor,</l>
+                     <l>y entonces pienso: —Acaso ella se ríe,</l>
+                     <l>como me río yo.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>II</head>
+                  <lg>
+                     <l>Saeta que voladora</l>
+                     <l>cruza arrojada al azar,</l>
+                     <l>y que no sabe dónde</l>
+                     <l>temblando se clavará;</l>
+                     <l>hoja que del árbol seca</l>
+                     <l>arrebata el vendaval,</l>
+                     <l>sin que nadie acierte el surco</l>
+                     <l>donde al polvo volverá;</l>
+                     <l>gigante ola que el viento</l>
+                     <l>riza y empuja en el mar,</l>
+                     <l>y rueda y pasa, y se ignora</l>
+                     <l>qué playa buscando va;</l>
+                     <l>luz que en cercos temblorosos</l>
+                     <l>brilla próxima a expirar</l>
+                     <l>y que no se sabe de ellos</l>
+                     <l>cuál el último será;</l>
+                     <l>eso soy yo que al acaso</l>
+                     <l>cruzo el mundo sin pensar</l>
+                     <l>de dónde vengo ni adónde</l>
+                     <l>mis pasos me llevarán.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XLII</head>
+                  <lg>
+                     <l>Cuando me lo contaron sentí el frío</l>
+                     <l>de una hoja de acero en las entrañas,</l>
+                     <l>me apoyé contra el muro, y un instante</l>
+                     <l>la conciencia perdí de donde estaba.</l>
+                     <l>Cayó sobre mi espíritu la noche,</l>
+                     <l>en ira y en piedad se anegó el alma,</l>
+                     <l>¡y entonces comprendí por qué se llora!</l>
+                     <l>¡y entonces comprendí por qué se mata!</l>
+                     <l>Pasó la nube de dolor... con pena</l>
+                     <l>logré balbucear breves palabras...</l>
+                     <l>¿Quién me dio la noticia?... Un fiel amigo...</l>
+                     <l>Me hacía un gran favor... Le di las gracias.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>LIX</head>
+                  <lg>
+                     <l>Yo sé cuál el objeto</l>
+                     <l>de tus suspiros es,</l>
+                     <l>yo conozco la causa de tu dulce</l>
+                     <l>secreta languidez.</l>
+                     <l>¿Te ríes...? Algún día</l>
+                     <l>sabrás, niña, por qué.</l>
+                     <l>Tú acaso lo sospechas,</l>
+                     <l>y yo lo sé.</l>
+                     <l>Yo sé cuándo tú sueñas,</l>
+                     <l>y lo que en sueños ves,</l>
+                     <l>como en un libro puedo lo que callas</l>
+                     <l>en tu frente leer.</l>
+                     <l>¿Te ríes...? Algún día</l>
+                     <l>sabrás, niña, por qué.</l>
+                     <l>Tú acaso lo sospechas,</l>
+                     <l>y yo lo sé.</l>
+                     <l>Yo sé por qué sonríes</l>
+                     <l>y lloras a la vez:</l>
+                     <l>yo penetro en los senos misteriosos</l>
+                     <l>de tu alma de mujer.</l>
+                     <l>¿Te ríes...? Algún día</l>
+                     <l>sabrás, niña, por qué.</l>
+                     <l>Mientras tú sientes mucho y nada sabes,</l>
+                     <l>yo, que no siento ya, todo lo sé.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>LXVII</head>
+                  <lg>
+                     <l>¡Qué hermoso es ver el día</l>
+                     <l>coronado de fuego levantarse,</l>
+                     <l>y a su beso de lumbre</l>
+                     <l>brillar las olas y encenderse el aire!</l>
+                     <l>¡Qué hermoso es tras la lluvia</l>
+                     <l>del triste otoño en la azulada tarde,</l>
+                     <l>de las húmedas flores</l>
+                     <l>el perfume aspirar hasta saciarse!</l>
+                     <l>¡Qué hermoso es cuando en copos</l>
+                     <l>la blanca nieve silenciosa cae,</l>
+                     <l>de las inquietas llamas</l>
+                     <l>ver las rojizas lenguas agitarse!</l>
+                     <l>¡Qué hermoso es cuando hay sueño</l>
+                     <l>dormir bien... y roncar como un sochantre...</l>
+                     <l>y comer... y engordar...! ¡y qué fortuna</l>
+                     <l>que esto sólo no baste!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XXII</head>
+                  <lg>
+                     <l>¿Cómo vive esa rosa que has prendido</l>
+                     <l>junto a tu corazón?</l>
+                     <l>Nunca hasta ahora contemplé en el mundo</l>
+                     <l>junto al volcán la flor.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>LVI</head>
+                  <lg>
+                     <l>Hoy como ayer, mañana como hoy,</l>
+                     <l>¡y siempre igual!</l>
+                     <l>Un cielo gris, un horizonte eterno</l>
+                     <l>y andar... andar.</l>
+                     <l>Moviéndose a compás como una estúpida</l>
+                     <l>máquina el corazón:</l>
+                     <l>la torpe inteligencia del cerebro</l>
+                     <l>dormida en un rincón.</l>
+                     <l>El alma, que ambiciona un paraíso,</l>
+                     <l>buscándole sin fe;</l>
+                     <l>fatiga sin objeto, ola que rueda</l>
+                     <l>ignorando por qué.</l>
+                     <l>Voz que incesante con el mismo tono</l>
+                     <l>canta el mismo cantar,</l>
+                     <l>gota de agua monótona que cae,</l>
+                     <l>y cae sin cesar.</l>
+                     <l>Así van deslizándose los días</l>
+                     <l>unos de otros en pos,</l>
+                     <l>hoy lo mismo que ayer... y todos ellos</l>
+                     <l>sin gozo ni dolor.</l>
+                     <l>¡Ay! ¡a veces me acuerdo suspirando</l>
+                     <l>del antiguo sufrir!</l>
+                     <l>¡Amargo es el dolor; pero siquiera</l>
+                     <l>padecer es vivir!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XXI</head>
+                  <lg>
+                     <l>¿Qué es poesía?, dices mientras clavas</l>
+                     <l>en mi pupila tu pupila azul.</l>
+                     <l>¿Qué es poesía? ¿Y tú me lo preguntas?</l>
+                     <l>Poesía... eres tú.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XXIII</head>
+                  <lg>
+                     <l>Por una mirada, un mundo;</l>
+                     <l>por una sonrisa, un cielo;</l>
+                     <l>por un beso... yo no sé</l>
+                     <l>qué te diera por un beso.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>LXXV</head>
+                  <lg>
+                     <l>¿Será verdad que cuando toca el sueño</l>
+                     <l>con sus dedos de rosa nuestros ojos,</l>
+                     <l>de la cárcel que habita huye el espíritu</l>
+                     <l>en vuelo presuroso?</l>
+                     <l>¿Será verdad que, huésped de las nieblas,</l>
+                     <l>de la brisa nocturna al tenue soplo,</l>
+                     <l>alado sube a la región vacía</l>
+                     <l>a encontrarse con otros?</l>
+                     <l>¿Y allí desnudo de la humana forma,</l>
+                     <l>allí los lazos terrenales rotos,</l>
+                     <l>breves horas habita de la idea</l>
+                     <l>el mundo silencioso?</l>
+                     <l>¿Y ríe y llora y aborrece y ama</l>
+                     <l>y guarda un rastro del dolor y el gozo,</l>
+                     <l>semejante al que deja cuando cruza</l>
+                     <l>el cielo un meteoro?</l>
+                     <l>Yo no sé si ese mundo de visiones</l>
+                     <l>vive fuera o va dentro de nosotros.</l>
+                     <l>Pero sé que conozco a muchas gentes</l>
+                     <l>a quienes no conozco.</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXXIV</head>
+                  <lg>
+                     <l>Las ropas desceñidas,</l>
+                     <l>desnudas las espadas,</l>
+                     <l>en el dintel de oro de la puerta</l>
+                     <l>dos ángeles velaban.</l>
+                     <l>Me aproximé a los hierros</l>
+                     <l>que defienden la entrada,</l>
+                     <l>y de las dobles rejas en el fondo</l>
+                     <l>la vi confusa y blanca.</l>
+                     <l>La vi como la imagen</l>
+                     <l>que en leve ensueño pasa,</l>
+                     <l>como rayo de luz tenue y difuso</l>
+                     <l>que entre tinieblas nada.</l>
+                     <l>Me sentí de un ardiente</l>
+                     <l>deseo llena el alma;</l>
+                     <l>como atrae un abismo, aquel misterio</l>
+                     <l>hacia sí me arrastraba.</l>
+                     <l>Mas ¡ay! que de los ángeles</l>
+                     <l>parecían decirme las miradas:</l>
+                     <l>—El umbral de esta puerta</l>
+                     <l>sólo Dios lo traspasa.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>VIII</head>
+                  <lg>
+                     <l>¡Cuando miro el azul horizonte</l>
+                     <l>perderse a lo lejos,</l>
+                     <l>al través de una gasa de polvo</l>
+                     <l>dorado e inquieto;</l>
+                     <l>me parece posible arrancarme</l>
+                     <l>del mísero suelo</l>
+                     <l>y flotar con la niebla dorada</l>
+                     <l>en átomos leves</l>
+                     <l>cual ella deshecho!</l>
+                     <l>Cuando miro de noche en el fondo</l>
+                     <l>oscuro del cielo</l>
+                     <l>las estrellas temblar como ardientes</l>
+                     <l>pupilas de fuego;</l>
+                     <l>me parece posible a do brillan</l>
+                     <l>subir en un vuelo,</l>
+                     <l>y anegarme en su luz, y con ellas</l>
+                     <l>en lumbre encendido</l>
+                     <l>fundirme en un beso.</l>
+                     <l>En el mar en la duda en que bogo</l>
+                     <l>ni aún sé lo que creo;</l>
+                     <l>sin embargo estas ansias me dicen</l>
+                     <l>que yo llevo algo</l>
+                     <l>divino aquí dentro.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XLI</head>
+                  <lg>
+                     <l>Tú eras el huracán y yo la alta</l>
+                     <l>torre que desafía su poder:</l>
+                     <l>¡tenías que estrellarte o que abatirme!...</l>
+                     <l>¡No pudo ser!</l>
+                     <l>Tú eras el océano y yo la enhiesta</l>
+                     <l>roca que firme aguarda su vaivén:</l>
+                     <l>¡tenías que romperte o que arrancarme!...</l>
+                     <l>¡No pudo ser!</l>
+                     <l>Hermosa tú, yo altivo: acostumbrados</l>
+                     <l>uno a arrollar, el otro a no ceder;</l>
+                     <l>la senda estrecha, inevitable el choque...</l>
+                     <l>¡No pudo ser!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>IX</head>
+                  <lg>
+                     <l>Besa el aura que gime blandamente</l>
+                     <l>las leves ondas que jugando riza;</l>
+                     <l>el sol besa a la nube de occidente</l>
+                     <l>y de púrpura y oro la matiza;</l>
+                     <l>la llama en derredor del tronco ardiente</l>
+                     <l>por besar a otra llama se desliza</l>
+                     <l>y hasta el sauce, inclinándose a su peso,</l>
+                     <l>al río que le besa, vuelve un beso.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XXXVII</head>
+                  <lg>
+                     <l>Antes que tú me moriré: escondido</l>
+                     <l>en las entrañas ya</l>
+                     <l>el hierro llevo con que abrió tu mano</l>
+                     <l>la ancha herida mortal.</l>
+                     <l>Antes que tú me moriré; y mi espíritu</l>
+                     <l>en su empeño tenaz</l>
+                     <l>se sentará a las puertas de la muerte,</l>
+                     <l>esperándote allá.</l>
+                     <l>Con las horas los días, con los días</l>
+                     <l>los años volarán,</l>
+                     <l>y a aquella puerta llamarás al cabo...</l>
+                     <l>¿Quién deja de llamar?</l>
+                     <l>Entonces que tu culpa y tus despojos</l>
+                     <l>la tierra guardará,</l>
+                     <l>lavándote en las ondas de la muerte</l>
+                     <l>como en otro Jordán;</l>
+                     <l>allí donde el murmullo de la vida</l>
+                     <l>temblando a morir va,</l>
+                     <l>como la ola que a la playa viene</l>
+                     <l>silenciosa a expirar;</l>
+                     <l>allí donde el sepulcro que se cierra</l>
+                     <l>abre una eternidad,</l>
+                     <l>todo cuanto los dos hemos callado</l>
+                     <l>allí lo hemos de hablar.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XIII</head>
+                  <lg>
+                     <l>Tu pupila es azul, y cuando ríes,</l>
+                     <l>su claridad suave me recuerda</l>
+                     <l>el trémulo fulgor de la mañana,</l>
+                     <l>que en el mar se refleja.</l>
+                     <l>Tu pupila es azul, y cuando lloras,</l>
+                     <l>las trasparentes lágrimas en ella</l>
+                     <l>se me figuran gotas de rocío</l>
+                     <l>sobre una violeta.</l>
+                     <l>Tu pupila es azul, y si en su fondo</l>
+                     <l>como un punto de luz radia una idea,</l>
+                     <l>me parece en el cielo de la tarde</l>
+                     <l>una perdida estrella.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXI</head>
+                  <lg>
+                     <l>Nuestra pasión fue un trágico sainete</l>
+                     <l>en cuya absurda fábula</l>
+                     <l>lo cómico y lo grave confundidos</l>
+                     <l>risas y llanto arrancan.</l>
+                     <l>Pero fue lo peor de aquella historia</l>
+                     <l>que al fin de la jornada</l>
+                     <l>a ella tocaron lágrimas y risas</l>
+                     <l>y a mí, sólo las lágrimas.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXV</head>
+                  <lg>
+                     <l>Cuando en la noche te envuelven</l>
+                     <l>las alas de tul del sueño</l>
+                     <l>y tus tendidas pestañas</l>
+                     <l>semejan arcos de ébano,</l>
+                     <l>por escuchar los latidos</l>
+                     <l>de tu corazón inquieto</l>
+                     <l>y reclinar tu dormida</l>
+                     <l>cabeza sobre mi pecho,</l>
+                     <l>diera, alma mía,</l>
+                     <l>cuanto poseo,</l>
+                     <l>¡la luz, el aire</l>
+                     <l>y el pensamiento!</l>
+                     <l>Cuando se clavan tus ojos</l>
+                     <l>en un invisible objeto</l>
+                     <l>y tus labios ilumina</l>
+                     <l>de una sonrisa el reflejo,</l>
+                     <l>por leer sobre tu frente</l>
+                     <l>el callado pensamiento</l>
+                     <l>que pasa como la nube</l>
+                     <l>del mar sobre el ancho espejo,</l>
+                     <l>diera, alma mía,</l>
+                     <l>cuanto deseo,</l>
+                     <l>¡la fama, el oro,</l>
+                     <l>la gloria, el genio!</l>
+                     <l>Cuando enmudece tu lengua</l>
+                     <l>y se apresura tu aliento</l>
+                     <l>y tus mejillas se encienden</l>
+                     <l>y entornas tus ojos negros,</l>
+                     <l>por ver entre sus pestañas</l>
+                     <l>brillar con húmedo fuego</l>
+                     <l>la ardiente chispa que brota</l>
+                     <l>del volcán de los deseos,</l>
+                     <l>diera, alma mía,</l>
+                     <l>por cuanto espero,</l>
+                     <l>la fe, el espíritu,</l>
+                     <l>la tierra, el cielo.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LVII</head>
+                  <lg>
+                     <l>Este armazón de huesos y pellejo</l>
+                     <l>de pasear una cabeza loca</l>
+                     <l>se halla cansado al fin, y no lo extraño,</l>
+                     <l>pues aunque es la verdad que no soy viejo,</l>
+                     <l>de la parte de vida que me toca</l>
+                     <l>en la vida del mundo, por mi daño</l>
+                     <l>he hecho un uso tal, que juraría</l>
+                     <l>que he condensado un siglo en cada día.</l>
+                     <l>Así, aunque ahora muriera,</l>
+                     <l>no podría decir que no he vivido;</l>
+                     <l>que el sayo, al parecer nuevo por fuera,</l>
+                     <l>conozco que por dentro ha envejecido.</l>
+                     <l>Ha envejecido, sí; ¡pese a mi estrella!</l>
+                     <l>Harto lo dice ya mi afán doliente;</l>
+                     <l>que hay dolor que al pasar su horrible huella</l>
+                     <l>graba en el corazón, si no en la frente.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXIV</head>
+                  <lg>
+                     <l>Dos rojas lenguas de fuego</l>
+                     <l>que, a un mismo tronco enlazadas,</l>
+                     <l>se aproximan, y al besarse</l>
+                     <l>forman una sola llama;</l>
+                     <l>dos notas que del laúd</l>
+                     <l>a un tiempo la mano arranca,</l>
+                     <l>y en el espacio se encuentran</l>
+                     <l>y armoniosas se abrazan;</l>
+                     <l>dos olas que vienen juntas</l>
+                     <l>a morir sobre una playa</l>
+                     <l>y que al romper se coronan</l>
+                     <l>con un penacho de plata;</l>
+                     <l>dos jirones de vapor</l>
+                     <l>que del lago se levantan</l>
+                     <l>y al juntarse allá en el cielo</l>
+                     <l>forman una nube blanca;</l>
+                     <l>dos ideas que al par brotan,</l>
+                     <l>dos besos que a un tiempo estallan,</l>
+                     <l>dos ecos que se confunden,</l>
+                     <l>eso son nuestras dos almas.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XLIII</head>
+                  <lg>
+                     <l>Dejé la luz a un lado, y en el borde</l>
+                     <l>de la revuelta cama me senté,</l>
+                     <l>mudo, sombrío, la pupila inmóvil</l>
+                     <l>clavada en la pared.</l>
+                     <l>¿Qué tiempo estuve así? No sé; al dejarme</l>
+                     <l>la embriaguez horrible de dolor,</l>
+                     <l>expiraba la luz y en mis balcones</l>
+                     <l>reía el sol.</l>
+                     <l>Ni sé tampoco en tan terribles horas</l>
+                     <l>en qué pensaba o qué pasó por mí;</l>
+                     <l>sólo recuerdo que lloré y maldije</l>
+                     <l>y que en aquella noche envejecí.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LII</head>
+                  <lg>
+                     <l>Olas gigantes que os rompéis bramando</l>
+                     <l>en las playas desiertas y remotas,</l>
+                     <l>envuelto entre la sábana de espumas,</l>
+                     <l>¡llevadme con vosotras!</l>
+                     <l>Ráfagas de huracán que arrebatáis</l>
+                     <l>del alto bosque las marchitas hojas,</l>
+                     <l>arrastrado en el ciego torbellino,</l>
+                     <l>¡llevadme con vosotras!</l>
+                     <l>Nubes de tempestad que rompe el rayo</l>
+                     <l>y en fuego ornáis las desprendidas orlas,</l>
+                     <l>arrebatado entre la niebla oscura,</l>
+                     <l>¡llevadme con vosotras!</l>
+                     <l>Llevadme por piedad a donde el vértigo</l>
+                     <l>con la razón me arranque la memoria.</l>
+                     <l>¡Por piedad! ¡Tengo miedo de quedarme</l>
+                     <l>con mi dolor a solas!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LIV</head>
+                  <lg>
+                     <l>Cuando volvemos las fugaces horas</l>
+                     <l>del pasado a evocar,</l>
+                     <l>temblando brilla en sus pestañas negras</l>
+                     <l>una lágrima pronta a resbalar.</l>
+                     <l>Y al fin resbala y cae como gota</l>
+                     <l>del rocío al pensar</l>
+                     <l>que cual hoy por ayer, por hoy mañana</l>
+                     <l>volveremos los dos a suspirar.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XX</head>
+                  <lg>
+                     <l>Sabe si alguna vez tus labios rojos</l>
+                     <l>quema invisible atmósfera abrasada,</l>
+                     <l>que el alma que hablar puede con los ojos</l>
+                     <l>también puede besar con la mirada.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LIII</head>
+                  <lg>
+                     <l>Volverán las oscuras golondrinas</l>
+                     <l>en tu balcón sus nidos a colgar,</l>
+                     <l>y otra vez con el ala a sus cristales</l>
+                     <l>jugando llamarán.</l>
+                     <l>Pero aquellas que el vuelo refrenaban</l>
+                     <l>tu hermosura y mi dicha a contemplar,</l>
+                     <l>aquellas que aprendieron nuestros nombres...</l>
+                     <l>ésas... ¡no volverán!</l>
+                     <l>Volverán las tupidas madreselvas</l>
+                     <l>de tu jardín las tapias a escalar,</l>
+                     <l>y otra vez a la tarde aún más hermosas</l>
+                     <l>sus flores se abrirán.</l>
+                     <l>Pero aquellas cuajadas de rocío</l>
+                     <l>cuyas gotas mirábamos temblar</l>
+                     <l>y caer como lágrimas del día...</l>
+                     <l>ésas... ¡no volverán!</l>
+                     <l>Volverán del amor en tus oídos</l>
+                     <l>las palabras ardientes a sonar;</l>
+                     <l>tu corazón de su profundo sueño</l>
+                     <l>tal vez despertará.</l>
+                     <l>Pero mudo y absorto y de rodillas,</l>
+                     <l>como se adora a Dios ante su altar,</l>
+                     <l>como yo te he querido..., desengáñate,</l>
+                     <l>nadie así te amará.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>IV</head>
+                  <lg>
+                     <l>No digáis que agotado su tesoro,</l>
+                     <l>de asuntos falta, enmudeció la lira.</l>
+                     <l>Podrá no haber poetas, pero siempre</l>
+                     <l>habrá poesía.</l>
+                     <l>Mientras las ondas de la luz al beso</l>
+                     <l>palpiten encendidas,</l>
+                     <l>mientras el sol las desgarradas nubes</l>
+                     <l>de fuego y oro vista,</l>
+                     <l>mientras el aire en su regazo lleve</l>
+                     <l>perfumes y armonías,</l>
+                     <l>mientras haya en el mundo primavera,</l>
+                     <l>¡habrá poesía!</l>
+                     <l>Mientras la ciencia a descubrir no alcance</l>
+                     <l>las fuentes de la vida,</l>
+                     <l>y en el mar o en el cielo haya un abismo</l>
+                     <l>que al cálculo resista,</l>
+                     <l>mientras la humanidad siempre avanzando</l>
+                     <l>no sepa a do camina,</l>
+                     <l>mientras haya un misterio para el hombre,</l>
+                     <l>¡habrá poesía!</l>
+                     <l>Mientras se sienta que se ríe el alma,</l>
+                     <l>sin que los labios rían,</l>
+                     <l>mientras se llore, sin que el llanto acuda</l>
+                     <l>a nublar la pupila,</l>
+                     <l>mientras el corazón y la cabeza</l>
+                     <l>batallando prosigan,</l>
+                     <l>mientras haya esperanzas y recuerdos,</l>
+                     <l>¡habrá poesía!</l>
+                     <l>Mientras haya unos ojos que reflejen</l>
+                     <l>los ojos que los miran,</l>
+                     <l>mientras responda el labio suspirando</l>
+                     <l>al labio que suspira,</l>
+                     <l>mientras sentirse puedan en un beso</l>
+                     <l>dos almas confundidas,</l>
+                     <l>mientras exista una mujer hermosa,</l>
+                     <l>¡habrá poesía!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXX</head>
+                  <lg>
+                     <l>Asomaba a sus ojos una lágrima,</l>
+                     <l>y a mi labio una frase de perdón;</l>
+                     <l>habló el orgullo y se enjugó su llanto,</l>
+                     <l>y la frase en mis labios expiró.</l>
+                     <l>Yo voy por un camino, ella por otro;</l>
+                     <l>pero al pensar en nuestro mutuo amor,</l>
+                     <l>yo digo aún: ¿por qué callé aquél día?</l>
+                     <l>Y ella dirá: ¿por qué no lloré yo?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LX</head>
+                  <lg>
+                     <l>Mi vida es un erial,</l>
+                     <l>flor que toco se deshoja;</l>
+                     <l>que en mi camino fatal</l>
+                     <l>alguien va sembrando el mal</l>
+                     <l>para que yo lo recoja.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>III</head>
+                  <lg>
+                     <l>Sacudimiento extraño</l>
+                     <l>que agita las ideas</l>
+                     <l>como huracán que empuja</l>
+                     <l>las olas en tropel.</l>
+                     <l>Murmullo que en el alma</l>
+                     <l>se eleva y va creciendo</l>
+                     <l>como volcán que sordo</l>
+                     <l>anuncia que va a arder.</l>
+                     <l>Deformes siluetas</l>
+                     <l>de seres imposibles,</l>
+                     <l>paisajes que aparecen</l>
+                     <l>como al través de un tul.</l>
+                     <l>Colores que fundiéndose</l>
+                     <l>remedan en el aire</l>
+                     <l>los átomos del iris</l>
+                     <l>que nadan en la luz.</l>
+                     <l>Ideas sin palabras,</l>
+                     <l>palabras sin sentido,</l>
+                     <l>cadencias que no tienen</l>
+                     <l>ni ritmo ni compás.</l>
+                     <l>Memorias y deseos</l>
+                     <l>de cosas que no existen,</l>
+                     <l>accesos de alegría,</l>
+                     <l>impulsos de llorar.</l>
+                     <l>Actividad nerviosa</l>
+                     <l>que no halla en qué emplearse,</l>
+                     <l>sin riendas que le guíen</l>
+                     <l>caballo volador.</l>
+                     <l>Locura que el espíritu</l>
+                     <l>exalta y desfallece,</l>
+                     <l>embriaguez divina</l>
+                     <l>del genio creador.</l>
+                     <l>             Tal es la inspiración.</l>
+                     <l>Gigante voz que el caos</l>
+                     <l>ordena en el cerebro</l>
+                     <l>y entre las sombras hace</l>
+                     <l>la luz aparecer.</l>
+                     <l>Brillante rienda de oro</l>
+                     <l>que poderosa enfrena</l>
+                     <l>de la exaltada mente</l>
+                     <l>el volador corcel.</l>
+                     <l>Hilo de luz que en haces</l>
+                     <l>los pensamientos ata,</l>
+                     <l>sol que las nubes rompe</l>
+                     <l>y toca en el cenit.</l>
+                     <l>Inteligente mano</l>
+                     <l>que en un collar de perlas</l>
+                     <l>consigue las indóciles</l>
+                     <l>palabras reunir.</l>
+                     <l>Armonioso ritmo</l>
+                     <l>que con cadencia y número</l>
+                     <l>las fugitivas notas</l>
+                     <l>encierra en el compás.</l>
+                     <l>Cincel que el bloque muerde</l>
+                     <l>la estatua modelando,</l>
+                     <l>y la belleza plástica</l>
+                     <l>añade a la ideal.</l>
+                     <l>Atmósfera en que giran</l>
+                     <l>con orden las ideas,</l>
+                     <l>cual átomos que agrupa</l>
+                     <l>recóndita atracción.</l>
+                     <l>Raudal en cuyas ondas</l>
+                     <l>su sed la fiebre apaga,</l>
+                     <l>oasis que al espíritu</l>
+                     <l>devuelve con vigor.</l>
+                     <l>             Tal es nuestra razón.</l>
+                     <l>Con ambas siempre en lucha,</l>
+                     <l>y de ambas vencedor,</l>
+                     <l>tan sólo el genio es dado</l>
+                     <l>a un yugo atar las dos.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XVI</head>
+                  <lg>
+                     <l>Si al mecer las azules campanillas</l>
+                     <l>de tu balcón,</l>
+                     <l>crees que suspirando pasa el viento</l>
+                     <l>murmurador,</l>
+                     <l>sabe que oculto entre las verdes hojas</l>
+                     <l>suspiro yo.</l>
+                     <l>Si al resonar confuso a tus espaldas</l>
+                     <l>vago rumor,</l>
+                     <l>crees que por tu nombre te ha llamado</l>
+                     <l>lejana voz,</l>
+                     <l>sabe que entre las sombras que te cercan</l>
+                     <l>te llamo yo.</l>
+                     <l>Si se turba medroso en la alta noche</l>
+                     <l>tu corazón,</l>
+                     <l>al sentir en tus labios un aliento</l>
+                     <l>abrasador,</l>
+                     <l>sabe que aunque invisible al lado tuyo</l>
+                     <l>respiro yo.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXXVII</head>
+                  <lg>
+                     <l>Dices que tienes corazón, y sólo</l>
+                     <l>lo dices porque sientes sus latidos;</l>
+                     <l>eso no es corazón..., es una máquina</l>
+                     <l>que al compás que se mueve hace ruido.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXI</head>
+                  <lg>
+                     <l>Al ver mis horas de fiebre</l>
+                     <l>e insomnio lentas pasar,</l>
+                     <l>a la orilla de mi lecho,</l>
+                     <l>¿quién se sentará?</l>
+                     <l>Cuando la trémula mano</l>
+                     <l>tienda próximo a expirar,</l>
+                     <l>buscando una mano amiga,</l>
+                     <l>¿quién la estrechará?</l>
+                     <l>Cuando la muerte vidríe</l>
+                     <l>de mis ojos el cristal,</l>
+                     <l>mis párpados aún abiertos,</l>
+                     <l>¿quién los cerrará?</l>
+                     <l>Cuando la campana suene</l>
+                     <l>(si suena en mi funeral),</l>
+                     <l>una oración al oírla,</l>
+                     <l>¿quién murmurará?</l>
+                     <l>Cuando mis pálidos restos</l>
+                     <l>oprima la tierra ya,</l>
+                     <l>sobre la olvidada fosa</l>
+                     <l>¿quién vendrá a llorar?</l>
+                     <l>¿Quién, en fin, al otro día,</l>
+                     <l>cuando el sol vuelva a brillar,</l>
+                     <l>de que pasé por el mundo,</l>
+                     <l>quién se acordará?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>X</head>
+                  <lg>
+                     <l>Los invisibles átomos del aire</l>
+                     <l>en derredor palpitan y se inflaman,</l>
+                     <l>el cielo se deshace en rayos de oro,</l>
+                     <l>la tierra se estremece alborozada,</l>
+                     <l>oigo flotando en olas de armonías</l>
+                     <l>rumor de besos y batir de alas,</l>
+                     <l>mis párpados se cierran... ¿Qué sucede?</l>
+                     <l>—¡Es el amor que pasa!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXV</head>
+                  <lg>
+                     <l>Llegó la noche, y no encontré un asilo,</l>
+                     <l>¡y tuve sed!... mis lágrimas bebí,</l>
+                     <l>¡y tuve hambre! ¡Los hinchados ojos</l>
+                     <l>cerré para morir!</l>
+                     <l>¿Estaba en un desierto? Aunque a mi oído</l>
+                     <l>de las turbas llegaba el ronco hervir,</l>
+                     <l>yo era huérfano y pobre... ¡El mundo estaba</l>
+                     <l>desierto... para mí!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXIX</head>
+                  <lg>
+                     <l>Al brillar un relámpago nacemos</l>
+                     <l>y aún dura su fulgor cuando morimos;</l>
+                     <l>¡tan corto es el vivir!</l>
+                     <l>La Gloria y el Amor tras que corremos</l>
+                     <l>sombras de un sueño son que perseguimos;</l>
+                     <l>¡despertar es morir!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XVII</head>
+                  <lg>
+                     <l>Hoy la tierra y los cielos me sonríen,</l>
+                     <l>hoy llega al fondo de mi alma el sol,</l>
+                     <l>hoy la he visto..., la he visto y me ha mirado...,</l>
+                     <l>¡hoy creo en Dios!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XI</head>
+                  <lg>
+                     <l>—Yo soy ardiente, yo soy morena,</l>
+                     <l>yo soy el símbolo de la pasión,</l>
+                     <l>de ansia de goces mi alma está llena.</l>
+                     <l>¿A mí me buscas?</l>
+                     <l>                                        —No es a ti, no.</l>
+                     <l>—Mi frente es pálida, mis trenzas de oro,</l>
+                     <l>puedo brindarte dichas sin fin.</l>
+                     <l>Yo de ternura guardo un tesoro.</l>
+                     <l>¿A mí me llamas?</l>
+                     <l>                                        —No, no es a ti.</l>
+                     <l>—Yo soy un sueño, un imposible,</l>
+                     <l>vano fantasma de niebla y luz.</l>
+                     <l>Soy incorpórea, soy intangible,</l>
+                     <l>no puedo amarte.</l>
+                     <l>                                      —¡Oh ven, ven tú!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XIX</head>
+                  <lg>
+                     <l>Cuando sobre el pecho inclinas</l>
+                     <l>la melancólica frente,</l>
+                     <l>una azucena tronchada</l>
+                     <l>me pareces.</l>
+                     <l>Porque al darte la pureza,</l>
+                     <l>de que es símbolo celeste,</l>
+                     <l>como a ella te hizo Dios</l>
+                     <l>de oro y nieve.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXIX</head>
+                  <lg>
+                     <l>La bocca mi bacciò tutto tremante</l>
+                     <l>Sobre la falda tenía</l>
+                     <l>el libro abierto;</l>
+                     <l>en mi mejilla tocaban</l>
+                     <l>sus rizos negros.</l>
+                     <l>No veíamos las letras</l>
+                     <l>ninguno creo;</l>
+                     <l>mas guardábamos ambos</l>
+                     <l>hondo silencio.</l>
+                     <l>¿Cuánto duró? Ni aun entonces</l>
+                     <l>pude saberlo.</l>
+                     <l>Sólo sé que no se oía</l>
+                     <l>más que el aliento,</l>
+                     <l>que apresurado escapaba</l>
+                     <l>del labio seco.</l>
+                     <l>Sólo sé que nos volvimos</l>
+                     <l>los dos a un tiempo,</l>
+                     <l>y nuestros ojos se hallaron</l>
+                     <l>y sonó un beso.</l>
+                     <l>. . . . . . . . . . . . . . . . . . . . . . . . .</l>
+                     <l>. . . . . . . . . . . . . . . . . . . . . . . . .</l>
+                     <l>Creación de Dante era el libro,</l>
+                     <l>era su <hi rend="italic">Infierno</hi>.</l>
+                     <l>Cuando a él bajamos los ojos,</l>
+                     <l>yo dije trémulo:</l>
+                     <l>—¿Comprendes ya que un poema</l>
+                     <l>cabe en un verso?</l>
+                     <l>Y ella respondió encendida:</l>
+                     <l>—¡Ya lo comprendo!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXVI</head>
+                  <lg>
+                     <l>Si de nuestros agravios en un libro</l>
+                     <l>se escribiese la historia,</l>
+                     <l>y se borrase en nuestras almas cuanto</l>
+                     <l>se borrase en sus hojas;</l>
+                     <l>te quiero tanto aún; dejó en mi pecho</l>
+                     <l>tu amor huellas tan hondas,</l>
+                     <l>que sólo con que tú borrases una,</l>
+                     <l>¡las borraba yo todas!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXII</head>
+                  <lg>
+                     <l>Primero es un albor trémulo y vago,</l>
+                     <l>raya de inquieta luz que corta el mar;</l>
+                     <l>luego chispea y crece y se dilata</l>
+                     <l>en ardiente explosión de claridad.</l>
+                     <l>La brilladora lumbre es la alegría,</l>
+                     <l>la temerosa sombra es el pesar.</l>
+                     <l>¡Ay! en la oscura noche de mi alma,</l>
+                     <l>¿cuándo amanecerá?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VI</head>
+                  <lg>
+                     <l>Como la brisa que la sangre orea</l>
+                     <l>sobre el oscuro campo de batalla,</l>
+                     <l>cargada de perfumes y armonías</l>
+                     <l>en el silencio de la noche vaga;</l>
+                     <l>símbolo del dolor y la ternura,</l>
+                     <l>del bardo inglés en el horrible drama,</l>
+                     <l>la dulce Ofelia, la razón perdida,</l>
+                     <l>cogiendo flores y cantando pasa.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXVIII</head>
+                  <lg>
+                     <l>Cuando entre la sombra oscura</l>
+                     <l>perdida una voz murmura</l>
+                     <l>turbando su triste calma,</l>
+                     <l>si en el fondo de mi alma</l>
+                     <l>la oigo dulce resonar,</l>
+                     <l>dime: ¿es que el viento en sus giros</l>
+                     <l>se queja, o que tus suspiros</l>
+                     <l>me hablan de amor al pasar?</l>
+                     <l>Cuando el sol en mi ventana</l>
+                     <l>rojo brilla a la mañana</l>
+                     <l>y mi amor tu sombra evoca,</l>
+                     <l>si en mi boca de otra boca</l>
+                     <l>sentir creo la impresión,</l>
+                     <l>dime: ¿es que ciego deliro,</l>
+                     <l>o que un beso en un suspiro</l>
+                     <l>me envía tu corazón?</l>
+                     <l>Y en el luminoso día,</l>
+                     <l>y en la alta noche sombría,</l>
+                     <l>si en todo cuanto rodea</l>
+                     <l>al alma que te desea</l>
+                     <l>te creo sentir y ver,</l>
+                     <l>dime: ¿es que toco y respiro</l>
+                     <l>soñando, o que en un suspiro</l>
+                     <l>me das tu aliento a beber?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXX</head>
+                  <lg>
+                     <l>¡Cuántas veces al pie de las musgosas</l>
+                     <l>paredes que la guardan,</l>
+                     <l>oí la esquila que al mediar la noche</l>
+                     <l>a los maitines llama!</l>
+                     <l>¡Cuántas veces trazó mi triste sombra</l>
+                     <l>la luna plateada</l>
+                     <l>junto a la del ciprés que de su huerto</l>
+                     <l>se asoma por las tapias!</l>
+                     <l>Cuando en sombras la iglesia se envolvía,</l>
+                     <l>de su ojiva calada</l>
+                     <l>¡cuántas veces temblar sobre los vidrios</l>
+                     <l>vi el fulgor de la lámpara!</l>
+                     <l>Aunque el viento en los ángulos oscuros</l>
+                     <l>de la torre silbara,</l>
+                     <l>del coro entre las voces percibía</l>
+                     <l>su voz vibrante y clara.</l>
+                     <l>En las noches de invierno si un medroso</l>
+                     <l>por la desierta plaza</l>
+                     <l>se atrevía a cruzar, al divisarme</l>
+                     <l>el paso aceleraba.</l>
+                     <l>Y no faltó una vieja que en el torno</l>
+                     <l>dijese a la mañana</l>
+                     <l>que de algún sacristán muerto en pecado</l>
+                     <l>acaso era yo el alma.</l>
+                     <l>A oscuras conocía los rincones</l>
+                     <l>del atrio y la portada;</l>
+                     <l>de mis pies las ortigas que allí crecen</l>
+                     <l>las huellas tal vez guardan.</l>
+                     <l>Los búhos que espantados me seguían</l>
+                     <l>con sus ojos de llamas,</l>
+                     <l>llegaron a mirarme con el tiempo</l>
+                     <l>como a un buen camarada.</l>
+                     <l>A mi lado sin miedo los reptiles</l>
+                     <l>se movían a rastras,</l>
+                     <l>¡hasta los mudos santos de granito</l>
+                     <l>creo que me saludaban!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XV</head>
+                  <lg>
+                     <l>Cendal flotante de leve bruma,</l>
+                     <l>rizada cinta de blanca espuma,</l>
+                     <l>rumor sonoro</l>
+                     <l>de arpa de oro,</l>
+                     <l>beso del aura, onda de luz,</l>
+                     <l>                                 eso eres tú.</l>
+                     <l>¡Tú, sombra aérea que cuantas veces</l>
+                     <l>voy a tocarte te desvaneces</l>
+                     <l>como la llama, como el sonido,</l>
+                     <l>como la niebla, como un gemido</l>
+                     <l>                               del lago azul!</l>
+                     <l>En mar sin playas onda sonante,</l>
+                     <l>en el vacío cometa errante,</l>
+                     <l>largo lamento</l>
+                     <l>del ronco viento,</l>
+                     <l>ansia perpetua de algo mejor,</l>
+                     <l>                                 eso soy yo.</l>
+                     <l>¡Yo, que a tus ojos en mi agonía</l>
+                     <l>los ojos vuelvo de noche y día;</l>
+                     <l>yo, que incansable corro y demente</l>
+                     <l>tras una sombra, tras la hija ardiente</l>
+                     <l>de una visión!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXVIII</head>
+                  <lg>
+                     <l>No sé lo que he soñado</l>
+                     <l>en la noche pasada.</l>
+                     <l>Triste, muy triste debió ser el sueño,</l>
+                     <l>pues despierto la angustia me duraba.</l>
+                     <l>Noté al incorporarme</l>
+                     <l>húmeda la almohada,</l>
+                     <l>y por primera vez sentí al notarlo</l>
+                     <l>de un amargo placer henchirse el alma.</l>
+                     <l>Triste cosa es el sueño</l>
+                     <l>que llanto nos arranca,</l>
+                     <l>mas tengo en mi tristeza una alegría...</l>
+                     <l>¡Sé que aún me quedan lágrimas!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>V</head>
+                  <lg>
+                     <l>Espíritu sin nombre,</l>
+                     <l>indefinible esencia,</l>
+                     <l>yo vivo con la vida</l>
+                     <l>sin formas de la idea.</l>
+                     <l>Yo nado en el vacío,</l>
+                     <l>del sol tiemblo en la hoguera,</l>
+                     <l>palpito entre las sombras</l>
+                     <l>y floto con las nieblas.</l>
+                     <l>Yo soy el fleco de oro</l>
+                     <l>de la lejana estrella,</l>
+                     <l>yo soy de la alta luna</l>
+                     <l>la luz tibia y serena.</l>
+                     <l>Yo soy la ardiente nube</l>
+                     <l>que en el ocaso ondea,</l>
+                     <l>yo soy del astro errante</l>
+                     <l>la luminosa estela.</l>
+                     <l>Yo soy nieve en las cumbres,</l>
+                     <l>soy fuego en las arenas,</l>
+                     <l>azul onda en los mares,</l>
+                     <l>y espuma en las riberas.</l>
+                     <l>En el laúd soy nota,</l>
+                     <l>perfume en la violeta,</l>
+                     <l>fugaz llama en las tumbas</l>
+                     <l>y en las ruinas yedra.</l>
+                     <l>Yo atrueno en el torrente</l>
+                     <l>y silbo en la centella,</l>
+                     <l>y ciego en el relámpago</l>
+                     <l>y rujo en la tormenta.</l>
+                     <l>Yo río en los alcores,</l>
+                     <l>susurro en la alta yerba,</l>
+                     <l>suspiro en la onda pura</l>
+                     <l>y lloro en la hoja seca.</l>
+                     <l>Yo ondulo con los átomos</l>
+                     <l>del humo que se eleva</l>
+                     <l>y al cielo lento sube</l>
+                     <l>en espiral inmensa.</l>
+                     <l>Yo, en los dorados hilos</l>
+                     <l>que los insectos cuelgan,</l>
+                     <l>me mezco entre los árboles</l>
+                     <l>en la ardorosa siesta.</l>
+                     <l>Yo corro tras las ninfas</l>
+                     <l>que en la corriente fresca</l>
+                     <l>del cristalino arroyo</l>
+                     <l>desnudas juguetean.</l>
+                     <l>Yo, en bosque de corales</l>
+                     <l>que alfombran blancas perlas,</l>
+                     <l>persigo en el océano</l>
+                     <l>las náyades ligeras.</l>
+                     <l>Yo, en las cavernas cóncavas</l>
+                     <l>do el sol nunca penetra,</l>
+                     <l>mezclándome a los gnomos,</l>
+                     <l>contemplo sus riquezas.</l>
+                     <l>Yo busco de los siglos</l>
+                     <l>las ya borradas huellas,</l>
+                     <l>y sé de esos imperios</l>
+                     <l>de que ni el nombre queda.</l>
+                     <l>Yo sigo en raudo vértigo</l>
+                     <l>los mundos que voltean,</l>
+                     <l>y mi pupila abarca</l>
+                     <l>la creación entera.</l>
+                     <l>Yo sé de esas regiones</l>
+                     <l>a do un rumor no llega,</l>
+                     <l>y donde informes astros</l>
+                     <l>de vida un soplo esperan.</l>
+                     <l>Yo soy sobre el abismo</l>
+                     <l>el puente que atraviesa,</l>
+                     <l>yo soy la ignota escala</l>
+                     <l>que el cielo une a la tierra.</l>
+                     <l>Yo soy el invisible</l>
+                     <l>anillo que sujeta</l>
+                     <l>el mundo de la forma</l>
+                     <l>al mundo de la idea.</l>
+                     <l>Yo en fin soy ese espíritu,</l>
+                     <l>desconocida esencia,</l>
+                     <l>perfume misterioso</l>
+                     <l>de que es vaso el poeta.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXVII</head>
+                  <lg>
+                     <l>Despierta, tiemblo al mirarte;</l>
+                     <l>dormida, me atrevo a verte.</l>
+                     <l>Por eso, alma de mi alma,</l>
+                     <l>yo velo mientras tú duermes.</l>
+                     <l>Despierta ríes, y al reír tus labios</l>
+                     <l>inquietos me parecen</l>
+                     <l>relámpagos de grana que serpean</l>
+                     <l>sobre un cielo de nieve.</l>
+                     <l>Dormida, los extremos de tu boca</l>
+                     <l>pliega sonrisa leve,</l>
+                     <l>suave como el rastro luminoso</l>
+                     <l>que deja un sol que muere.</l>
+                     <l>                                         —¡Duerme!</l>
+                     <l>Despierta miras, y al mirar tus ojos</l>
+                     <l>húmedos resplandecen,</l>
+                     <l>como la onda azul en cuya cresta</l>
+                     <l>chispeando el sol hiere.</l>
+                     <l>Al través de tus párpados, dormida,</l>
+                     <l>tranquilo fulgor vierten,</l>
+                     <l>cual derrama de luz templado rayo</l>
+                     <l>lámpara transparente.</l>
+                     <l>                                         —¡Duerme!</l>
+                     <l>Despierta hablas, y al hablar, vibrantes</l>
+                     <l>tus palabras parecen</l>
+                     <l>lluvia de perlas que en dorada copa</l>
+                     <l>se derrama a torrentes.</l>
+                     <l>Dormida, en el murmullo de tu aliento</l>
+                     <l>acompasado y tenue,</l>
+                     <l>escucho yo un poema que mi alma</l>
+                     <l>enamorada entiende.</l>
+                     <l>                                         —¡Duerme!</l>
+                     <l>Sobre el corazón la mano</l>
+                     <l>me he puesto por que no suene</l>
+                     <l>su latido y de la noche</l>
+                     <l>turbe la calma solemne.</l>
+                     <l>De tu balcón las persianas</l>
+                     <l>cerré ya por que no entre</l>
+                     <l>el resplandor enojoso</l>
+                     <l>de la aurora y te despierte.</l>
+                     <l>                                         —¡Duerme!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXIV</head>
+                  <lg>
+                     <l>Como guarda el avaro su tesoro,</l>
+                     <l>guardaba mi dolor;</l>
+                     <l>le quería probar que hay algo eterno</l>
+                     <l>a la que eterno me juró su amor.</l>
+                     <l>Mas hoy le llamo en vano y oigo al tiempo,</l>
+                     <l>que le agotó, decir:</l>
+                     <l>—¡Ah, barro miserable! ¡Eternamente</l>
+                     <l>no podrás ni aun sufrir!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXIV</head>
+                  <lg>
+                     <l>Cruza callada, y son sus movimientos</l>
+                     <l>silenciosa armonía:</l>
+                     <l>suenan sus pasos, y al sonar recuerdan</l>
+                     <l>del himno alado la cadencia rítmica.</l>
+                     <l>Los ojos entreabre, aquellos ojos</l>
+                     <l>tan claros como el día,</l>
+                     <l>y la tierra y el cielo, cuando abarcan,</l>
+                     <l>arden con nueva luz en sus pupilas.</l>
+                     <l>Ríe, y su carcajada tiene notas</l>
+                     <l>del agua fugitiva;</l>
+                     <l>llora, y es cada lágrima un poema</l>
+                     <l>de ternura infinita.</l>
+                     <l>Ella tiene la luz, tiene el perfume,</l>
+                     <l>el color y la línea,</l>
+                     <l>la forma, engendradora de deseos,</l>
+                     <l>la expresión, fuente eterna de poesía.</l>
+                     <l>¿Que es estúpida? ¡Bah! Mientras callando</l>
+                     <l>guarde oscuro el enigma,</l>
+                     <l>siempre valdrá lo que yo creo que calla</l>
+                     <l>más que lo que cualquiera otra me diga.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XL</head>
+                  <lg>
+                     <l>Su mano entre mis manos,</l>
+                     <l>sus ojos en mis ojos,</l>
+                     <l>la amorosa cabeza</l>
+                     <l>apoyada en mi hombro,</l>
+                     <l>Dios sabe cuántas veces</l>
+                     <l>con paso perezoso</l>
+                     <l>hemos vagado juntos</l>
+                     <l>bajo los altos olmos</l>
+                     <l>que de su casa prestan</l>
+                     <l>misterio y sombra al pórtico.</l>
+                     <l>Y ayer... un año apenas,</l>
+                     <l>pasado como un soplo,</l>
+                     <l>con qué exquisita gracia,</l>
+                     <l>con qué admirable aplomo,</l>
+                     <l>me dijo al presentarnos</l>
+                     <l>un amigo oficioso:</l>
+                     <l>«Creo que en alguna parte</l>
+                     <l>he visto a usted.» ¡Ah bobos,</l>
+                     <l>que sois de los salones</l>
+                     <l>comadres de buen tono</l>
+                     <l>y andabais allí a caza</l>
+                     <l>de galantes embrollos,</l>
+                     <l>qué historía habéis perdido,</l>
+                     <l>qué manjar tan sabroso</l>
+                     <l>para ser devorado</l>
+                     <l>
+                        <hi rend="italic">sotto voce</hi> en un corro,</l>
+                     <l>detrás del abanico</l>
+                     <l>de plumas y de oro!...</l>
+                     <l>. . . . . . . . . . . . . . . . . .</l>
+                     <l>¡Discreta y casta luna,</l>
+                     <l>copudos y altos olmos,</l>
+                     <l>paredes de su casa,</l>
+                     <l>umbrales de su pórtico,</l>
+                     <l>callad, y que en secreto</l>
+                     <l>no salga con vosotros!</l>
+                     <l>Callad; que por mi parte</l>
+                     <l>yo lo he olvidado todo;</l>
+                     <l>y ella... ella, no hay máscara</l>
+                     <l>semejante a su rostro.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXVI</head>
+                  <lg>
+                     <l>¿De dónde vengo?... El más horrible y áspero</l>
+                     <l>de los senderos busca;</l>
+                     <l>las huellas de unos pies ensangrentados</l>
+                     <l>sobre la roca dura,</l>
+                     <l>los despojos de un alma hecha jirones</l>
+                     <l>en las zarzas agudas,</l>
+                     <l>te dirán el camino</l>
+                     <l>que conduce a mi cuna.</l>
+                     <l>¿Adónde voy? El más sombrío y triste</l>
+                     <l>de los páramos cruza,</l>
+                     <l>valle de eternas nieves y de eternas</l>
+                     <l>melancólicas brumas.</l>
+                     <l>En donde esté una piedra solitaria</l>
+                     <l>sin inscripción alguna,</l>
+                     <l>donde habite el olvido,</l>
+                     <l>allí estará mi tumba.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXIII</head>
+                  <lg>
+                     <l>Como enjambre de abejas irritadas,</l>
+                     <l>de un obscuro rincón de la memoria</l>
+                     <l>salen a perseguirme los recuerdos</l>
+                     <l>de las pasadas horas.</l>
+                     <l>Yo los quiero ahuyentar. ¡Esfuerzo tan inútil!</l>
+                     <l>Me rodean, me acosan,</l>
+                     <l>y unos tras otros a clavarme vienen</l>
+                     <l>el agudo aguijón que el alma encona.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXIII</head>
+                  <lg>
+                     <l>Es cuestión de palabras, y no obstante</l>
+                     <l>ni tú ni yo jamás,</l>
+                     <l>después de lo pasado, convendremos</l>
+                     <l>en quién la culpa está.</l>
+                     <l>¡Lástima que el Amor un diccionario</l>
+                     <l>no tenga donde hallar</l>
+                     <l>cuándo el orgullo es simplemente orgullo</l>
+                     <l>y cuándo es dignidad!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LI</head>
+                  <lg>
+                     <l>De lo poco de vida que me resta</l>
+                     <l>diera con gusto los mejores años,</l>
+                     <l>por saber lo que a otros</l>
+                     <l>de mí has hablado.</l>
+                     <l>Y esta vida mortal y de la eterna</l>
+                     <l>lo que me toque, si me toca algo,</l>
+                     <l>por saber lo que a solas</l>
+                     <l>de mí has pensado.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXXIII</head>
+                  <lg>
+                     <l>Cerraron sus ojos</l>
+                     <l>que aún tenía abiertos,</l>
+                     <l>taparon su cara</l>
+                     <l>con un blanco lienzo,</l>
+                     <l>y unos sollozando,</l>
+                     <l>otros en silencio,</l>
+                     <l>de la triste alcoba</l>
+                     <l>todos se salieron.</l>
+                     <l>La luz, que en un vaso</l>
+                     <l>ardía en el suelo,</l>
+                     <l>al muro arrojaba</l>
+                     <l>la sombra del lecho,</l>
+                     <l>y entre aquella sombra</l>
+                     <l>veíase a intérvalos</l>
+                     <l>dibujarse rígida</l>
+                     <l>la forma del cuerpo.</l>
+                     <l>Despertaba el día,</l>
+                     <l>y a su albor primero</l>
+                     <l>con sus mil ruidos</l>
+                     <l>despertaba el pueblo.</l>
+                     <l>Ante aquel contraste</l>
+                     <l>de vida y misterio,</l>
+                     <l>de luz y tinieblas,</l>
+                     <l>yo pensé un momento:</l>
+                     <l>¡Dios mío, qué solos</l>
+                     <l>se quedan los muertos!!</l>
+                  </lg>
+                  <lg>
+                     <l>De la casa en hombros</l>
+                     <l>lleváronla al templo,</l>
+                     <l>y en una capilla</l>
+                     <l>dejaron el féretro.</l>
+                     <l>Allí rodearon</l>
+                     <l>sus pálidos restos</l>
+                     <l>de amarillas velas</l>
+                     <l>y de paños negros.</l>
+                     <l>Al dar de las Ánimas</l>
+                     <l>el toque postrero,</l>
+                     <l>acabó una vieja</l>
+                     <l>sus últimos rezos,</l>
+                     <l>cruzó la ancha nave,</l>
+                     <l>las puertas gimieron,</l>
+                     <l>y el santo recinto</l>
+                     <l>quedóse desierto.</l>
+                     <l>De un reloj se oía</l>
+                     <l>compasado el péndulo</l>
+                     <l>y de algunos cirios</l>
+                     <l>el chisporroteo.</l>
+                     <l>Tan medroso y triste,</l>
+                     <l>tan oscuro y yerto</l>
+                     <l>todo se encontraba,</l>
+                     <l>que pensé un momento:</l>
+                     <l>¡Dios mío, qué solos</l>
+                     <l>se quedan los muertos!!</l>
+                  </lg>
+                  <lg>
+                     <l>De la alta campana</l>
+                     <l>la lengua de hierro</l>
+                     <l>le dio volteando</l>
+                     <l>su adiós lastimero.</l>
+                     <l>El luto en las ropas,</l>
+                     <l>amigos y deudos</l>
+                     <l>cruzaron en fila</l>
+                     <l>formando el cortejo.</l>
+                     <l>Del último asilo,</l>
+                     <l>oscuro y estrecho,</l>
+                     <l>abrió la piqueta</l>
+                     <l>el nicho a un extremo:</l>
+                     <l>allí la acostaron,</l>
+                     <l>tapiáronle luego</l>
+                     <l>y con un saludo</l>
+                     <l>despidióse el duelo.</l>
+                     <l>La piqueta al hombro</l>
+                     <l>el sepulturero,</l>
+                     <l>cantando entre dientes,</l>
+                     <l>se perdió a lo lejos.</l>
+                     <l>La noche se entraba,</l>
+                     <l>el sol se había puesto.</l>
+                     <l>Perdido en las sombras</l>
+                     <l>yo pensé un momento:</l>
+                     <l>¡Dios mío, qué solos</l>
+                     <l>se quedan los muertos!!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>En las largas noches</l>
+                     <l>del helado invierno,</l>
+                     <l>cuando las maderas</l>
+                     <l>crujir hace el viento</l>
+                     <l>y azota los vidrios</l>
+                     <l>el fuerte aguacero,</l>
+                     <l>de la pobre niña</l>
+                     <l>a veces me acuerdo.</l>
+                     <l>Allí cae la lluvia</l>
+                     <l>con un son eterno;</l>
+                     <l>allí la combate</l>
+                     <l>el soplo del cierzo.</l>
+                     <l>Del húmedo muro</l>
+                     <l>tendida en el hueco,</l>
+                     <l>¡acaso de frío</l>
+                     <l>se hielan sus huesos!...</l>
+                  </lg>
+                  <lg>
+                     <l>. . . . . . . . . . . . . . . . . . . . . .</l>
+                  </lg>
+                  <lg>
+                     <l>¿Vuelve el polvo al polvo?</l>
+                     <l>¿Vuela el alma al cielo?</l>
+                     <l>¿Todo es sin espíritu</l>
+                     <l>podredumbre y cieno?</l>
+                     <l>No sé; pero hay algo</l>
+                     <l>que explicar no puedo,</l>
+                     <l>algo que repugna,</l>
+                     <l>aunque es fuerza hacerlo,</l>
+                     <l>¡a dejar tan tristes,</l>
+                     <l>tan solos los muertos!</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XIV</head>
+                  <lg>
+                     <l>Te vi un punto, y flotando ante mis ojos</l>
+                     <l>la imagen de tus ojos se quedó,</l>
+                     <l>como la mancha oscura orlada en fuego</l>
+                     <l>que flota y ciega si se mira al sol.</l>
+                     <l>Adondequiera que la vista clavo,</l>
+                     <l>torno a ver sus pupilas llamear;</l>
+                     <l>mas no te encuentro a ti, que es tu mirada,</l>
+                     <l>unos ojos, los tuyos, nada más.</l>
+                     <l>De mi alcoba en el ángulo los miro</l>
+                     <l>desasidos fantásticos lucir.</l>
+                     <l>Cuando duermo los siento que se ciernen</l>
+                     <l>de par en par abiertos sobre mí.</l>
+                     <l>Yo sé que hay fuegos fatuos que en la noche</l>
+                     <l>llevan al caminante a perecer;</l>
+                     <l>yo me siento arrastrado por tus ojos,</l>
+                     <l>pero adónde me arrastran no lo sé.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXII</head>
+                  <lg>
+                     <l>Pasaba arrolladora en su hermosura,</l>
+                     <l>y el paso le dejé,</l>
+                     <l>ni aun mirarla me volví, y no obstante</l>
+                     <l>algo en mi oído murmuró: «ésa es».</l>
+                     <l>¿Quién reunió la tarde a la mañana?</l>
+                     <l>Lo ignoro; sólo sé</l>
+                     <l>que en una breve noche de verano</l>
+                     <l>se unieron los crepúsculos, y «fue».</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXXVI</head>
+                  <lg>
+                     <l>En la imponente nave</l>
+                     <l>del templo bizantino,</l>
+                     <l>vi la gótica tumba a la indecisa</l>
+                     <l>luz que temblaba en los pintados vidrios.</l>
+                     <l>Las manos sobre el pecho,</l>
+                     <l>y en las manos un libro,</l>
+                     <l>una mujer hermosa reposaba</l>
+                     <l>sobre la urna, del cincel prodigio.</l>
+                     <l>Del cuerpo abandonado</l>
+                     <l>al dulce peso hundido,</l>
+                     <l>cual si de blanda pluma y raso fuera,</l>
+                     <l>se plegaba su lecho de granito.</l>
+                     <l>De la sonrisa última</l>
+                     <l>el resplandor divino</l>
+                     <l>guardaba el rostro, como el cielo guarda</l>
+                     <l>del sol que muere el rayo fugitivo.</l>
+                     <l>Del cabezal de piedra</l>
+                     <l>sentados en el filo,</l>
+                     <l>dos ángeles, el dedo sobre el labio,</l>
+                     <l>imponían silencio en el recinto.</l>
+                     <l>No parecía muerta;</l>
+                     <l>de los arcos macizos</l>
+                     <l>parecía dormir en la penumbra</l>
+                     <l>y que en sueños veía el paraíso.</l>
+                     <l>Me acerqué de la nave</l>
+                     <l>al ángulo sombrío,</l>
+                     <l>con el callado paso que llegamos</l>
+                     <l>junto a la cuna donde duerme un niño.</l>
+                     <l>La contemplé un momento,</l>
+                     <l>y aquel resplandor tibio,</l>
+                     <l>aquel lecho de piedra que ofrecía</l>
+                     <l>próximo al muro otro lugar vacío,</l>
+                     <l>en el alma avivaron</l>
+                     <l>la sed de lo infinito,</l>
+                     <l>el ansia de esa vida de la muerte,</l>
+                     <l>para la que un instante son los siglos...</l>
+                  </lg>
+                  <lg>
+                     <l>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</l>
+                  </lg>
+                  <lg>
+                     <l>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</l>
+                  </lg>
+                  <lg>
+                     <l>Cansado del combate</l>
+                     <l>en que luchando vivo,</l>
+                     <l>alguna vez me acuerdo con envidia</l>
+                     <l>de aquel rincón oscuro y escondido.</l>
+                     <l>De aquella muda y pálida</l>
+                     <l>mujer me acuerdo y digo:</l>
+                     <l>—¡Oh, qué amor tan callado, el de la muerte!</l>
+                     <l>¡Qué sueño el del sepulcro, tan tranquilo!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XXXIX</head>
+                  <lg>
+                     <l>¿A qué me lo decís? Lo sé: es mudable,</l>
+                     <l>es altanera y vana y caprichosa.</l>
+                     <l>Antes que el sentimiento de su alma</l>
+                     <l>brotará el agua de la estéril roca.</l>
+                     <l>Sé que en su corazón, nido de sierpes,</l>
+                     <l>no hay una fibra que al amor responda;</l>
+                     <l>que es una estatua inanimada... pero...</l>
+                     <l>¡es tan hermosa!!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LXXI</head>
+                  <lg>
+                     <l>No dormía; vagaba en ese limbo</l>
+                     <l>en que cambian de forma los objetos,</l>
+                     <l>misteriosos espacios que separan</l>
+                     <l>la vigilia del sueño.</l>
+                     <l>Las ideas que en ronda silenciosa</l>
+                     <l>daban vueltas en torno a mi cerebro,</l>
+                     <l>poco a poco en su danza se movían</l>
+                     <l>con un compás más lento.</l>
+                     <l>De la luz que entra al alma por los ojos</l>
+                     <l>los párpados velaban el reflejo;</l>
+                     <l>mas otra luz el mundo de visiones</l>
+                     <l>alumbraba por dentro.</l>
+                     <l>En este punto resonó en mi oído</l>
+                     <l>un rumor semejante al que en el templo</l>
+                     <l>vaga confuso al terminar los fieles</l>
+                     <l>con un <hi rend="italic">Amén</hi> sus rezos.</l>
+                     <l>Y oí como una voz delgada y triste</l>
+                     <l>que por mi nombre me llamó a lo lejos,</l>
+                     <l>¡y sentí olor de cirios apagados,</l>
+                     <l>de humedad y de incienso!</l>
+                  </lg>
+                  <lg>
+                     <l>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</l>
+                  </lg>
+                  <lg>
+                     <l>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</l>
+                  </lg>
+                  <lg>
+                     <l>Entró la noche y del olvido en brazos</l>
+                     <l>caí cual piedra en su profundo seno.</l>
+                     <l>Dormí y al despertar exclamé: «¡Alguno</l>
+                     <l>que yo quería ha muerto!».</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XLVI</head>
+                  <lg>
+                     <l>Me ha herido recatándose en las sombras,</l>
+                     <l>sellando con un beso su traición.</l>
+                     <l>Los brazos me echó al cuello y por la espalda</l>
+                     <l>partióme a sangre fría el corazón.</l>
+                     <l>Y ella prosigue alegre su camino,</l>
+                     <l>feliz, risueña, impávida. ¿Y por qué?</l>
+                     <l>Porque no brota sangre de la herida,</l>
+                     <l>porque el muerto está en pie.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XXXV</head>
+                  <lg>
+                     <l>¡No me admiró tu olvido! Aunque de un día</l>
+                     <l>me admiró tu cariño mucho más,</l>
+                     <l>porque lo que hay en mí que vale algo,</l>
+                     <l>eso... ni lo pudiste sospechar.</l>
+                  </lg>
+                  <lg/>
+               </div>
+               <div type="div3">
+                  <head>XII</head>
+                  <lg>
+                     <l>Porque son, niña, tus ojos</l>
+                     <l>verdes como el mar, te quejas;</l>
+                     <l>verdes los tienen las náyades,</l>
+                     <l>verdes los tuvo Minerva,</l>
+                     <l>y verdes son las pupilas</l>
+                     <l>de las hurís del Profeta.</l>
+                     <l>El verde es gala y ornato</l>
+                     <l>del bosque en la primavera.</l>
+                     <l>Entre sus siete colores</l>
+                     <l>brillante el Iris lo ostenta.</l>
+                     <l>Las esmeraldas son verdes,</l>
+                     <l>verde el color del que espera,</l>
+                     <l>y las ondas del océano,</l>
+                     <l>y el laurel de los poetas.</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Es tu mejilla temprana</l>
+                     <l>rosa de escarcha cubierta,</l>
+                     <l>en que el carmín de los pétalos</l>
+                     <l>se ve a través de las perlas.</l>
+                     <l>              Y sin embargo,</l>
+                     <l>              sé que te quejas,</l>
+                     <l>              porque tus ojos</l>
+                     <l>              crees que la afean.</l>
+                     <l>              Pues no lo creas.</l>
+                     <l>Que parecen sus pupilas</l>
+                     <l>húmedas, verdes e inquietas,</l>
+                     <l>tempranas hojas de almendro</l>
+                     <l>que al soplo del aire tiemblan.</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Es tu boca de rubíes</l>
+                     <l>purpúrea granada abierta,</l>
+                     <l>que en el estío convida</l>
+                     <l>a apagar la sed en ella.</l>
+                     <l>              Y sin embargo,</l>
+                     <l>              sé que te quejas</l>
+                     <l>              porque tus ojos</l>
+                     <l>              crees que la afean.</l>
+                     <l>              Pues no lo creas.</l>
+                     <l>Que parecen, si enojada</l>
+                     <l>tus pupilas centellean,</l>
+                     <l>las olas del mar que rompen</l>
+                     <l>en las cantábricas peñas.</l>
+                  </lg>
+                  <lg/>
+                  <lg>
+                     <l>Es tu frente que corona</l>
+                     <l>crespo el oro en ancha trenza,</l>
+                     <l>nevada cumbre en que el día</l>
+                     <l>su postrera luz refleja.</l>
+                     <l>              Y sin embargo,</l>
+                     <l>              sé que te quejas</l>
+                     <l>              porque tus ojos</l>
+                     <l>              crees que la afean.</l>
+                     <l>              Pues no lo creas.</l>
+                     <l>Que entre las rubias pestañas,</l>
+                     <l>junto a las sienes, semejan</l>
+                     <l>broches de esmeralda y oro</l>
+                     <l>que un blanco armiño sujetan.</l>
+                     <l>Porque son, niña, tus ojos</l>
+                     <l>verdes como el mar, te quejas;</l>
+                     <l>quizás si negros o azules</l>
+                     <l>se tornasen, lo sintieras.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

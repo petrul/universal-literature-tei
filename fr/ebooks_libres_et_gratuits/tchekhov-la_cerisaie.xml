@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LA CERISAIE</title>
+            <author>Tchekhov, Anton Pavlovitch </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2010-10-31T23:34:00Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-09T10:12:58.391351822</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                               
+      <body>
+         <author>Tchekhov, Anton Pavlovitch</author>
+         <div type="div1">
+            <head>La cerisaie</head>
+            <subtitle>1904</subtitle>
+            <subtitle>Traduction de Denis Roche</subtitle>
+            <div type="div2">
+               <head>Personnages<lb/>
+               </head>
+               <p rend="justify">RANIEVSKAÏA LIOUBOV ANDRÉÏEVNA, propriétaire.</p>
+               <p rend="justify">ANIA, sa fille, dix-sept ans.</p>
+               <p rend="justify">VARIA, sa fille adoptive, vingt-quatre ans.</p>
+               <p rend="justify">GAÏEV LÉONID ANDRÉÏEVITCH, frère de M<hi rend="sup">me</hi> Ranievskaïa.</p>
+               <p rend="justify">LOPAKHINE ERMOLAÏ ALEKSÉÏEVITCH, marchand.</p>
+               <p rend="justify">TROFIMOV PIOTR SERGUÉÏEVITCH, étudiant.</p>
+               <p rend="justify">SIMEONOV-PICHTCHIK BORIS BORISSOVITCH, propriétaire.</p>
+               <p rend="justify">CHARLOTTA IVANOVNA, institutrice.</p>
+               <p rend="justify">EPIKHODOV SEMION PANTELÉÏEVITCH, comptable.</p>
+               <p rend="justify">DOUNIACHA, femme de chambre.</p>
+               <p rend="justify">FIRS, valet de chambre, quatre-vingt-sept ans.</p>
+               <p rend="justify">IACHA, jeune valet de chambre.</p>
+               <p rend="justify">UN PASSANT.</p>
+               <p rend="justify">UN CHEF DE GARE.</p>
+               <p rend="justify">UN EMPLOYÉ DE LA POSTE.</p>
+               <p rend="justify">INVITÉS, DOMESTIQUES.</p>
+               <p rend="center">
+                  <hi rend="italic">L’action se passe dans la propriété de M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.</hi>
+               </p>
+            </div>
+            <div type="div2">
+               <head>Acte I<lb/>
+               </head>
+               <p rend="justify">La chambre qui est encore appelée la chambre des enfants ; une des portes donne dans la chambre d’Ania. L’aube ; le soleil va bientôt se lever. Commencement de mai ; cerisiers déjà fleuris ; mais il fait encore froid ; légère gelée blanche. Les fenêtres de la chambre sont fermées.</p>
+               <p rend="center bold">Scène première<lb/>
+               </p>
+               <p rend="center italic">Entrent Douniacha, avec une bougie, et Lopakhine, tenant un livre.</p>
+               <p rend="justify">LOPAKHINE. – Enfin le train est arrivé ! Quelle heure est-il ?</p>
+               <p rend="justify">DOUNIACHA. – Près de deux heures. (<hi rend="italic">Elle éteint la bougie.) </hi>Il fait déjà jour.</p>
+               <p rend="justify">LOPAKHINE. – Combien le train a-t-il de retard ? Au moins deux heures. <hi rend="italic">(Il bâille et s’étire.) </hi>Quel imbécile je fais ! Je viens exprès ici pour aller les attendre à la gare, et je laisse passer l’heure. Je m’endors sur une chaise ! C’est malheureux ! Tu aurais dû me réveiller !</p>
+               <p rend="justify">DOUNIACHA. – Je vous croyais parti. <hi rend="italic">(Elle tend l’oreille.) </hi>Ah ! je crois que les voici qui arrivent.</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">écoutant aussi. </hi>– Non… Le temps de prendre les bagages, ceci, cela… <hi rend="italic">(Un temps.) </hi>Lioubov Andréïevna vient de passer cinq ans à l’étranger. Comment est-elle maintenant ? C’est une excellente femme, simple, agréable à vivre… Je me rappelle, quand j’étais un blanc-bec de quinze ans, mon défunt père, qui tenait une boutique dans le village, me flanqua un coup de poing dans la figure, et mon nez se mit à saigner. Nous étions venus ici je ne sais pourquoi, et mon père était un peu ivre. Lioubov Andréïevna, toute jeune encore, toute mince, me mena à ce lavabo, dans cette chambre des enfants, et me dit : « Ne pleure pas, mon petit moujik ; avant ton mariage il n’y paraîtra plus. » <hi rend="italic">(Un temps.) </hi>Mon petit moujik ! C’est vrai que mon père était un paysan, et moi je porte des gilets blancs et des souliers jaunes !… Un groin de porc à portée des friandises… Tout nouvellement enrichi ; beaucoup d’argent !… Mais, à tout peser et considérer, rien qu’un paysan. <hi rend="italic">(Il feuillette un livre.) </hi>J’ai lu ce livre et n’y ai rien compris ; ça m’a endormi.</p>
+               <p rend="center">
+                  <hi rend="italic">Un silence.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA. – Les chiens n’ont pas dormi cette nuit ; ils sentent que leurs maîtres reviennent.</p>
+               <p rend="justify">LOPAKHINE. – Qu’est-ce qui t’arrive, Douniacha ?</p>
+               <p rend="justify">DOUNIACHA. – Mes mains tremblent. Je vais me trouver mal.</p>
+               <p rend="justify">LOPAKHINE. – Tu es trop douillette, Douniacha ! Et tu t’habilles et te coiffes en demoiselle. Ce n’est pas bien ; il faut se souvenir de ce qu’on est.</p>
+               <p rend="center bold">Scène II<lb/>
+               </p>
+               <p rend="center">LES MÊMES, EPIKHODOV</p>
+               <p rend="center">
+                  <hi rend="italic">Epikhodov entre, tenant un bouquet. Veston, bottes très cirées, qui crissent. Epikhodov laisse tomber son bouquet, le ramasse, et le remet à Douniacha.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – Le jardinier envoie ces fleurs pour la salle à manger.</p>
+               <p rend="center">
+                  <hi rend="italic">Douniacha prend les fleurs.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">à Douniacha. </hi>– Apporte-moi du kvas.</p>
+               <p rend="justify">DOUNIACHA. – Bien, monsieur.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – Trois degrés, de la gelée blanche, et les cerisiers en fleur ! Je ne saurais approuver notre climat ! <hi rend="italic">(Il soupire.) </hi>Il ne peut rien donner à propos. Ermolaï Alekséïevitch, j’ajouterai que j’ai acheté avant-hier une paire de bottes, et, j’ose vous l’affirmer, elles crissent au-delà de toute permission. Avec quoi pourrait-on bien les graisser ?</p>
+               <p rend="justify">LOPAKHINE. – Tu m’ennuies ; laisse-moi.</p>
+               <p rend="justify">EPIKHODOV. – Il n’est pas de jour où il ne m’arrive quelque malheur ; et je ne me plains pas ; j’y suis même habitué ; je souris.</p>
+               <p rend="center">
+                  <hi rend="italic">Douniacha apporte le kvas et sert Lopakhine.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – Je m’en vais. <hi rend="italic">(Il se heurte à une chaise qui tombe. D’un air de triomphe.) </hi>Voilà ! Vous voyez ! Pardon, pour l’expression, quelle mésaventure entre autres… C’est vraiment remarquable !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA. – Et moi, il faut que je vous l’avoue, Ermolaï Alekséïevitch, Epikhodov m’a fait une demande en mariage.</p>
+               <p rend="justify">LOPAKHINE. – Ah !</p>
+               <p rend="justify">DOUNIACHA. – Je ne sais que faire… C’est un homme doux, mais souvent, quand il vous parle, on ne comprend rien. Ce qu’il dit est touchant et bien ; mais on ne comprend pas. Je crois qu’il me plaît. Il m’aime à la folie ; mais c’est un homme à malheurs ; tous les jours il lui arrive quelque chose ; on l’a surnommé Vingt-Deux-Malheurs.</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">prêtant l’oreille. </hi>– Je crois que les voici.</p>
+               <p rend="justify">DOUNIACHA. – C’est eux ! Qu’est-ce qui m’arrive ?… Je me sens toute froide.</p>
+               <p rend="justify">LOPAKHINE. – Oui, c’est eux ! Allons à leur rencontre. Va-t-elle me reconnaître ? Il y a cinq ans que nous ne nous sommes vus.</p>
+               <p rend="justify">DOUNIACHA, <hi rend="italic">émue. </hi>– Je défaille !… Ah ! je défaille !</p>
+               <p rend="center">
+                  <hi rend="italic">On entend arriver deux voitures. Lopakhine et Douniacha sortent précipitamment. La scène est vide. On entend du bruit dans les pièces voisines. Firs, revenant de la gare où il est allé chercher M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, traverse la scène, appuyé sur un bâton. Il porte une livrée ancienne et un chapeau haut de forme. Il marmonne quelque chose. Le bruit, derrière la scène, augmente. Une voix : Passons par ici. M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, Ania et Charlotta Ivanovna ; cette dernière mène un petit chien, attaché par une chaînette ; toutes trois sont en costume de voyage. Varia a un manteau ; sur la tête, un mouchoir en marmotte. Gaïev, Simeonov-Pichtchik, Lopakhine, Douniacha tient un gros paquet enveloppé dans du linge et un parapluie ; des domestiques apportent les bagages. Tous traversent la scène.</hi>
+               </p>
+               <p rend="justify">ANIA. – Maman, te rappelles-tu cette chambre ?</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">joyeuse, les larmes aux yeux. </hi>– La chambre des enfants !</p>
+               <p rend="justify">VARIA. – Comme il fait froid ; j’ai les doigts gelés. <hi rend="italic">(à M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.) </hi>Mère, vos deux chambres, la blanche et la violette, n’ont pas été touchées.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – La chambre des enfants. Comme je l’aime, comme elle est jolie ! J’y couchais quand j’étais petite… <hi rend="italic">(Une larme.) </hi>Et encore aujourd’hui, je suis comme toute petite. <hi rend="italic">(Elle embrasse son frère, puis Varia, et encore son frère.) </hi>Varia aussi est toujours la même ; elle a l’air d’une religieuse… J’ai aussi reconnu Douniacha…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle l’embrasse.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – Le train a eu deux heures de retard, qu’en pensez-vous !… Quel ordre !</p>
+               <p rend="justify">CHARLOTTA, <hi rend="italic">à Pichtchik. </hi>– Mon chien mange même des noisettes<hi rend="sup bold">
+                     <note xml:id="ftn1" place="foot" n="1"> Au Théâtre artistique, à Moscou, on donne à Charlotta Ivanovna un accent un peu étranger. (N. d. T.)</note>
+                  </hi>.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">étonné. </hi>– Voyez-moi ça !</p>
+               <p rend="center">
+                  <hi rend="italic">Tous sortent, sauf Ania et Douniacha.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA. – Comme on vous attendait !…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle aide Ania à quitter son manteau et son chapeau.</hi>
+               </p>
+               <p rend="justify">ANIA. – Voilà quatre nuits que je ne dors pas ; je suis toute transie.</p>
+               <p rend="justify">DOUNIACHA. – Au moment du carême, quand vous êtes partie, il y avait de la neige, il gelait ; ce n’est pas comme maintenant. Ah ! chère mademoiselle ! <hi rend="italic">(Elle rit et l’embrasse.) </hi>Comme il me tardait de vous voir, ma joie, ma lumière, mon cœur !… Il faut que je vous le dise sans perdre une seconde…</p>
+               <p rend="justify">ANIA, <hi rend="italic">fatiguée. </hi>– Encore une histoire…</p>
+               <p rend="justify">DOUNIACHA. – Epikhodov, le comptable, m’a demandée en mariage après Pâques.</p>
+               <p rend="justify">ANIA. – Tu songes toujours à la même chose… <hi rend="italic">(Elle arrange ses cheveux.) </hi>J’ai perdu toutes mes épingles…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle est très fatiguée et vacille.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA. – Je ne sais que faire. Il m’aime, il m’aime extrêmement !</p>
+               <p rend="justify">ANIA, <hi rend="italic">regardant avec tendresse du côté de sa chambre. </hi>– Ma chambre, mes fenêtres ! c’est comme si je n’étais pas partie. Je suis chez moi ! Demain, je courrai au jardin… Ah ! si je pouvais dormir ! Toute la route je n’ai pas dormi, tant j’étais inquiète.</p>
+               <p rend="justify">DOUNIACHA. – Avant-hier, Piotr Serguéïevitch est arrivé ici.</p>
+               <p rend="justify">ANIA, <hi rend="italic">joyeuse… </hi>– Pierre<hi rend="sup bold">
+                     <note xml:id="ftn2" place="foot" n="2"> Exactement : <hi rend="italic">Pétia, </hi>diminutif de Piotr. On peut substituer ce nom-là partout où nous avons cru pouvoir mettre <hi rend="italic">Pierre ;</hi> cette forme française, dans la bouche des principaux habitants de la Cerisaie, aurait à peu près la même qualité d’affection familière que <hi rend="italic">Pétia. </hi>(N. d. T.)</note>
+                  </hi> ?</p>
+               <p rend="justify">DOUNIACHA. – Il s’est installé dans le pavillon du bain ; il dort. Il a eu peur de gêner. <hi rend="italic">(Elle regarde sa montre.) </hi>Il faudrait le réveiller, mais Varvara Mikhaïlovna m’a défendu de le faire.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Varia, son trousseau de clefs à la ceinture.</hi>
+               </p>
+               <p rend="justify">VARIA. – Douniacha, du café, vite ! Mère demande du café.</p>
+               <p rend="justify">DOUNIACHA. – Tout de suite.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort.</hi>
+               </p>
+               <p rend="justify">VARIA. – Enfin vous voilà arrivées, Dieu merci ! Te voici revenue. <hi rend="italic">(La caressant.) </hi>Ma chérie est revenue, ma belle !</p>
+               <p rend="justify">ANIA. – Ce que j’en ai vu, Varia !</p>
+               <p rend="justify">VARIA. – Je me le figure.</p>
+               <p rend="justify">ANIA. – Quand je suis partie, cette semaine d’avant Pâques, il faisait très froid. Charlotta, toute la route, n’a cessé de parler et de faire des tours de passe-passe… Pourquoi m’as-tu empêtrée de cette Charlotta, Varia ?</p>
+               <p rend="justify">VARIA. – À dix-sept ans, tu ne pouvais pourtant t’en aller toute seule à l’étranger.</p>
+               <p rend="justify">ANIA. – Nous arrivons à Paris, il y faisait froid ; il y avait de la neige. Je parle atrocement le français. Maman habite le cinquième étage. Je trouve chez elle des Français, des dames, un vieux prêtre, tenant un livre. Partout de la fumée de tabac ; aucun confort… J’ai eu soudain pitié de maman ; j’ai pris sa tête dans mes mains et ne pouvais plus la lâcher. Puis, maman m’a caressée, a pleuré…</p>
+               <p rend="justify">VARIA, <hi rend="italic">les larmes aux yeux. </hi>– Tais-toi, ne raconte plus !</p>
+               <p rend="justify">ANIA. – Maman avait déjà vendu la villa de Menton ; il ne lui restait rien. Moi non plus, il ne me reste pas un sou. C’est tout juste si nous avons pu revenir. Et maman ne se rend compte de rien ! En voyage, nous mangeons aux buffets ; elle demande tout ce qu’il y a de plus cher et donne aux garçons des roubles de pourboire ; Charlotta fait de même ; Iacha, un domestique de maman (nous l’avons amené ici), se fait servir tout un dîner ; c’est affreux…</p>
+               <p rend="justify">VARIA. – Je l’ai vu, ce flandrin.</p>
+               <p rend="justify">ANIA. – Et, ici, Varia, que s’est-il passé ? Les intérêts sont-ils payés ?</p>
+               <p rend="justify">VARIA. – Avec quoi les payer ?</p>
+               <p rend="justify">ANIA. – Mon Dieu, mon Dieu !</p>
+               <p rend="justify">VARIA. – On vendra la cerisaie au mois d’août…</p>
+               <p rend="justify">ANIA. – Mon Dieu !</p>
+               <p rend="center">
+                  <hi rend="italic">Lopakhine entrouvre la porte, les aperçoit, fait « Hum », et s’en va.</hi>
+               </p>
+               <p rend="justify">VARIA, <hi rend="italic">toujours pleurant, tendant le poing vers Lopakhine</hi>. – Voilà ce que je lui donnerais à celui-là !</p>
+               <p rend="justify">ANIA, <hi rend="italic">elle embrasse Varia doucement. </hi>– Varia, est-ce qu’il t’a demandée en mariage ? <hi rend="italic">(Varia hoche la tête) </hi>Mais, voyons, il t’aime… Pourquoi ne vous expliquez-vous pas ? Qu’attendez-vous ?</p>
+               <p rend="justify">VARIA. – Je crois que cela ne se fera pas. Il est très occupé et ne pense pas à moi. Que Dieu le bénisse ! Il m’est pénible de le voir… Tout le monde parle de notre mariage ; tout le monde me félicite ; et, au fond, il n’y a rien du tout. C’est comme un songe. <hi rend="italic">(Changeant de ton.) </hi>Ah ! la jolie broche que tu as ! une abeille ?</p>
+               <p rend="justify">ANIA, <hi rend="italic">tristement. </hi>– C’est maman qui me l’a achetée. <hi rend="italic">(Elle va vers sa chambre et dit joyeusement, comme un enfant.) </hi>Varia, à Paris, je suis montée en ballon !</p>
+               <p rend="justify">VARIA. – Ma jolie, ma chère Ania est revenue…</p>
+               <p rend="center">
+                  <hi rend="italic">Douniacha, revenant avec une cafetière, prépare le café.</hi>
+               </p>
+               <p rend="justify">VARIA, <hi rend="italic">près de la porte d’Ania. </hi>– Tout le jour, ma chérie, je trotte dans la maison et ne songe qu’à une chose : te voir mariée à un homme riche. Alors je serais tranquille et m’en irais dans un couvent. Ensuite, Kiev… Moscou… tous les lieux saints ; je les visiterais et encore et encore. Quelle splendeur divine !</p>
+               <p rend="justify">ANIA. – Au jardin les oiseaux chantent. Quelle heure est-il ?</p>
+               <p rend="justify">VARIA. – Il doit être trois heures. Il est temps que tu dormes, chérie. <hi rend="italic">(Elle entre dans la chambre d’Ania) </hi>Splendeur divine !</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Iacha, portant un plaid et une valise ; il traverse la scène en prenant des airs.</hi>
+               </p>
+               <p rend="justify">IACHA. – On peut passer par ici ?</p>
+               <p rend="justify">DOUNIACHA. – On ne vous reconnaîtrait plus, Iacha. Comme vous avez changé à l’étranger !</p>
+               <p rend="justify">IACHA. – Hum ! Et vous… qui êtes-vous ?</p>
+               <p rend="justify">DOUNIACHA. – Quand vous êtes parti je n’étais pas plus haute que ça… Je suis Douniacha, la fille de Fiodor Kozoïédov. Vous ne vous rappelez plus ?</p>
+               <p rend="justify">IACHA. – Ah !… mon petit chou !</p>
+               <p rend="justify">
+                  <hi rend="italic">Il regarde autour de lui et lui prend la taille. Douniacha pousse un cri et laisse tomber une soucoupe. Iacha sort vite.</hi>
+               </p>
+               <p rend="justify">VARIA, <hi rend="italic">sur le seuil, d’un ton mécontent. </hi>– Qu’y a-t-il encore là-bas ?</p>
+               <p rend="justify">DOUNIACHA, <hi rend="italic">les larmes aux yeux. </hi>– J’ai cassé une soucoupe.</p>
+               <p rend="justify">VARIA. – C’est bon signe.</p>
+               <p rend="justify">ANIA, <hi rend="italic">sortant de sa chambre. </hi>– Il faudrait prévenir maman que Pierre est ici.</p>
+               <p rend="justify">VARIA. – J’ai donné ordre de ne pas le réveiller.</p>
+               <p rend="justify">ANIA. – Il y a six ans que mon père est mort. Un mois après, mon frère Gricha se noyait dans la rivière ; un joli gamin de sept ans. Maman n’a pas pu en endurer davantage ; elle est partie, partie pour ne plus revenir… <hi rend="italic">(Elle frissonne.) </hi>Ah ! si elle savait comme je la comprends ! <hi rend="italic">(Un</hi> 
+                  <hi rend="italic">silence.) </hi>Pierre Trofimov était alors précepteur de Gricha. Il peut tout lui rappeler…</p>
+               <p rend="justify">
+                  <hi rend="italic">Entre Firs, en veston et gilet blanc. Il va vers la table, préoccupé.</hi>
+               </p>
+               <p rend="justify">FIRS. – Madame prendra-t-elle le café ici ?… <hi rend="italic">(Il met ses gants blancs.) </hi>Le café est prêt ? <hi rend="italic">(Sévèrement, à Douniacha.) </hi>Eh bien, toi, à quoi penses-tu ? Et la crème ?</p>
+               <p rend="justify">DOUNIACHA. – Ah ! mon Dieu !</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort précipitamment.</hi>
+               </p>
+               <p rend="justify">FIRS, <hi rend="italic">arrangeant la table. </hi>– Ah ! empotée !… <hi rend="italic">(Il marmonne.) </hi>Elles reviennent de Paris… et monsieur, lui aussi, autrefois, allait à Paris… en voiture…</p>
+               <p rend="center">
+                  <hi rend="italic">Il rit.</hi>
+               </p>
+               <p rend="justify">VARIA. – Firs, qu’as-tu à rire ?</p>
+               <p rend="justify">FIRS. – Que désirez-vous ? <hi rend="italic">(Joyeux.) </hi>Madame est revenue. J’ai vécu jusqu’à ce jour-là ; maintenant je peux mourir.</p>
+               <p rend="center">
+                  <hi rend="italic">Il pleure de joie. Entrent M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, Gaïev et Simeonov-Pichtchik. Simeonov-Pichtchik porte le costume russe en drap fin, large pantalon et bottes. Gaïev fait, des bras et du buste, des gestes comme s’il jouait au billard.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Comment est-ce ? Laissez-moi me rappeler. La jaune dans l’angle ; doublé au milieu.</p>
+               <p rend="justify">GAÏEV. – Je pousse dans l’angle !… Dire qu’il fut un temps, ma sœur, où nous donnions dans cette chambre-là. Et maintenant, j’ai déjà cinquante et un ans ! Est-ce étrange !</p>
+               <p rend="justify">LOPAKHINE. – Oui, le temps passe.</p>
+               <p rend="justify">GAÏEV. – Quoi ?</p>
+               <p rend="justify">LOPAKHINE. – Je dis le temps passe.</p>
+               <p rend="justify">GAÏEV. – Ici, ça sent encore le patchouli.</p>
+               <p rend="justify">ANIA. – Je vais aller dormir. Bonne nuit, maman.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle embrasse sa mère.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Chère petite adorée. <hi rend="italic">(Elle lui baise les mains.) </hi>Tu es heureuse d’être à la maison ! Moi, je n’en reviens pas encore.</p>
+               <p rend="justify">ANIA. – Bonjour, mon oncle.</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">il l’embrasse et lui baise les mains. </hi>– Dieu te garde, mignonne ! Comme tu ressembles à ta mère ! <hi rend="italic">(À M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.) </hi>À son âge, Liouba, tu étais exactement ainsi.</p>
+               <p rend="center">
+                  <hi rend="italic">Ania tend la main à Lopakhine et à Pichtchik. Elle sort et ferme la porte derrière elle.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Elle est très fatiguée.</p>
+               <p rend="justify">PICHTCHIK. – C’est que le voyage est long.</p>
+               <p rend="justify">VARIA, <hi rend="italic">à Lopakhine et Pichtchik. </hi>– Messieurs, il est trois heures, il faut se retirer.</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">riant. </hi>– Toujours la même, Varia. <hi rend="italic">(Elle l’attire à elle et l’embrasse.) </hi>Je vais prendre mon café et nous nous en irons tous dans nos chambres. <hi rend="italic">(Firs lui glisse un tabouret sous les pieds) </hi>Merci, mon bon. J’ai pris l’habitude du café. J’en bois jour et nuit. Merci, Firs.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle lui baise le front.</hi>
+               </p>
+               <p rend="justify">VARIA. – Il faut aller voir si tous les bagages sont là.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Est-il possible que je sois ici !… <hi rend="italic">(Elle rit.) </hi>Je voudrais sauter, battre des mains… <hi rend="italic">(Elle se couvre le visage de ses mains.) </hi>Est-ce que je ne rêve pas ?… Dieu le sait, j’aime tendrement mon pays ! Je ne pouvais regarder par la portière sans pleurer… <hi rend="italic">(Elle pleure.) </hi>Allons, il faut prendre notre café ! Merci, Firs ; merci, mon bon. Je suis si heureuse de te retrouver en vie.</p>
+               <p rend="justify">FIRS, <hi rend="italic">gravement. </hi>– Avant-hier.</p>
+               <p rend="justify">GAÏEV. – Il n’entend presque plus rien.</p>
+               <p rend="justify">LOPAKHINE. – Il faut que je parte à cinq heures pour Kharkov, quel ennui ! J’aurais voulu vous voir, causer… Vous êtes toujours aussi magnifique.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">soupirant profondément. </hi>– Elle a même embelli !… Habillée à la parisienne… Va te faire lanlaire…</p>
+               <p rend="justify">LOPAKHINE. – Tenez, Lioubov Andréïevna, votre frère Léonid Andréïevitch dit que je suis un manant, un accapareur ; mais ça m’est entièrement égal. Je voudrais seulement que vous ayez confiance en moi comme autrefois, que vos yeux extraordinaires, émouvants, me regardent comme jadis. Dieu miséricordieux ! Mon père était serf de votre grand-père et de votre père ; mais vous avez tant fait pour moi que j’ai oublié tout cela ; je vous aime comme quelqu’un de proche, plus que proche…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Je ne puis tenir en place. <hi rend="italic">(Elle se lève et marche avec agitation.) </hi>Je ne pourrai survivre au bonheur d’être de retour. Moquez-vous de moi ; je suis folle… ; cette chère petite armoire ! <hi rend="italic">(Elle l’embrasse.) </hi>Cette chère petite table !…</p>
+               <p rend="justify">GAÏEV. – En ton absence, Liouba, notre vieille nounou est morte.</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">elle s’assied et boit son café. </hi>– Dieu ait son âme ! On me l’a écrit.</p>
+               <p rend="justify">GAÏEV. – Anastase, lui aussi, est mort. Pétrouchka, le bigle, m’a quitté. Il est maintenant en ville chez le commissaire.</p>
+               <p rend="center">
+                  <hi rend="italic">Il tire de sa poche une boîte de caramels et en prend un.</hi>
+               </p>
+               <p rend="justify">PICHTCHIK. – Ma fille Dachenka m’a chargé de vous saluer…</p>
+               <p rend="justify">LOPAKHINE. – Je voudrais vous dire quelque chose de très agréable, de réconfortant… <hi rend="italic">(Il regarde sa montre.) </hi>Il faut partir, je n’ai pas le temps de beaucoup parler… Enfin, en deux ou trois mots… Vous savez que votre cerisaie va se vendre le 22 août ; c’est la date fixée. Mais ne vous inquiétez pas, chère madame ; dormez tranquille ; l’affaire n’est pas sans issue… J’ai un projet ; écoutez-moi. Votre propriété n’est qu’à vingt verstes de la ville ; le chemin de fer la traverse maintenant et, si on lotit votre cerisaie et la terre qui longe la rivière pour y construire des villas, vous n’en tirerez pas moins de 25 000 roubles par an.</p>
+               <p rend="justify">GAÏEV. – Vous n’y songez pas ! quelle absurdité !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Je ne vous entends pas bien, Ermolaï Alekséïevitch.</p>
+               <p rend="justify">LOPAKHINE. – Chaque locataire du terrain vous paiera par an au moins vingt-cinq roubles l’arpent. Et si vous annoncez dès maintenant que vous lotissez, je vous promets, sur ce qu’il vous plaira, qu’à l’automne il ne vous restera pas la moindre parcelle de terre non louée. On enlèvera tout. En un mot, vous êtes sauvée ; ce dont je vous félicite ! L’emplacement est magnifique ; la rivière profonde ; il n’y a qu’à nettoyer un peu ; abattre, par exemple, toutes les vieilles bâtisses ; cette maison-ci, qui n’est plus bonne à rien ; abattre la vieille cerisaie…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Abattre la cerisaie ! Pardon, mon cher, vous n’y entendez rien ! S’il y a dans toute notre province quelque chose d’intéressant, de remarquable, c’est notre cerisaie.</p>
+               <p rend="justify">LOPAKHINE. – Il n’y a de remarquable dans votre cerisaie que son étendue ; il n’y a des cerises que tous les deux ans et alors même on n’en sait que faire ; personne ne veut les acheter.</p>
+               <p rend="justify">GAÏEV. – Même dans le <hi rend="italic">Dictionnaire encyclopédique, </hi>il est parlé de cette cerisaie !</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">consultant sa montre. </hi>– Si nous ne trouvons rien, si nous ne nous arrêtons à rien, la cerisaie, et tout le bien, seront vendus aux enchères ; décidez donc ! Il n’y a aucune autre issue, je vous le jure. Aucune !</p>
+               <p rend="justify">FIRS. – Dans le temps, il y a quarante ou cinquante ans, on faisait sécher les cerises ; on les conservait dans l’eau, dans le vinaigre ; on en faisait des confitures ; il arrivait…</p>
+               <p rend="justify">GAÏEV. – Tais-toi, Firs.</p>
+               <p rend="justify">FIRS. – Il arrivait qu’on envoie à Moscou et à Kharkov des charrettes entières de cerises sèches. Ça faisait de l’argent. Et les cerises, alors, étaient douces, juteuses, parfumées ; on savait la manière de les préparer.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Et qui en a la recette aujourd’hui ?</p>
+               <p rend="justify">FIRS. – On l’a oubliée ; personne ne la sait plus.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">à M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa. </hi>– Qu’y a-t-il de nouveau à Paris ? Qu’y fait-on ? Avez-vous mangé des grenouilles ?</p>
+               <p rend="justify">MME RANIEVSKAÏA. – J’ai même mangé des crocodiles.</p>
+               <p rend="justify">PICHTCHIK. – Voyez-moi ça !…</p>
+               <p rend="justify">LOPAKHINE. – Jadis, il n’y avait à la campagne que des propriétaires et des paysans ; maintenant, il vient des gens pour passer l’été. Toutes les villes, même les plus petites, sont aujourd’hui entourées de villas. On peut dire que dans vingt ans l’estivant de villas se sera multiplié à l’infini. À présent, il se contente de boire son thé sous la véranda ; mais il se peut que, sur son seul arpent de terre, il veuille faire de l’agriculture. Alors votre cerisaie sera un endroit riche, splendide, luxueux…</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">s’énervant. </hi>– Quelle absurdité !</p>
+               <p rend="center">
+                  <hi rend="italic">Entrent Varia et Iacha.</hi>
+               </p>
+               <p rend="justify">VARIA. – Mère, voici deux télégrammes.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle prend une des clefs de son trousseau et ouvre la vieille armoire, dont la serrure est à avertisseur.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – C’est de Paris. <hi rend="italic">(Elle déchire les télégrammes sans les lire.) </hi>C’en est fini de Paris…</p>
+               <p rend="justify">GAÏEV. – Sais-tu un peu, Liouba, combien cette armoire a d’années ? La semaine dernière, j’ouvre un des tiroirs, je regarde, et j’aperçois des chiffres marqués au fer ; l’armoire a été faite il y a juste un siècle. Hein ! Crois-tu ! On pourrait fêter son jubilé. Un objet inanimé, évidemment, mais tout de même, c’est une bibliothèque…</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">surpris. </hi>– Un siècle, voyez-moi ça !…</p>
+               <p rend="justify">GAÏEV. – Oui, c’est quelque chose ! <hi rend="italic">(Touchant l’armoire.) </hi>Chère armoire, je te respecte ! Salut à ta longue existence, vouée depuis plus d’un siècle à un lumineux idéal de justice et de bien. Ta silencieuse invite au travail ne s’est pas affaiblie. Tu entretiens <hi rend="italic">(il s’attendrit) </hi>dans les générations de notre famille la foi en un avenir meilleur, et nous éveilles au bien et à la conscience sociale.</p>
+               <p rend="center">
+                  <hi rend="italic">Silence.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Ah ! oui…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Tu es toujours le même, Lionia<hi rend="sup bold">
+                     <note xml:id="ftn3" place="foot" n="3"> Diminutif de Léonid. (N. d. T.)</note>
+                  </hi> !</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">un peu interloqué. </hi>– Boule à droite dans l’angle ; je joue au milieu.</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">regardant sa montre. </hi>– Cette fois, il est temps que je parte.</p>
+               <p rend="justify">IACHA, <hi rend="italic">présentant un remède à M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa. </hi>– Ne voulez-vous pas prendre vos pilules, maintenant ?</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">péremptoire. </hi>– Chère dame, il ne faut pas prendre de remèdes ! ça ne produit aucun effet. Donnez-moi ça ! <hi rend="italic">(Il verse les pilules dans le creux de sa main, souffle dessus, les met dans sa bouche et les avale avec un verre de kvas.) </hi>Voilà !</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">effrayée. </hi>– Mais vous êtes fou !</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">radieux. </hi>– J’ai tout avalé.</p>
+               <p rend="justify">LOPAKHINE. – Quel gouffre !</p>
+               <p rend="center">
+                  <hi rend="italic">Tout le monde rit.</hi>
+               </p>
+               <p rend="justify">FIRS. – Monsieur est venu ici à Pâques et il a mangé un demi-seau de concombres salés.</p>
+               <p rend="center">
+                  <hi rend="italic">Il continue à marmonner quelque chose.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Que marmotte-t-il ?</p>
+               <p rend="justify">VARIA. – Voilà déjà trois ans qu’il marmonne comme ça ; nous y sommes habitués.</p>
+               <p rend="justify">IACHA. – Les années en sont cause.</p>
+               <p rend="center">
+                  <hi rend="italic">Charlotta Ivanovna, maigre, très serrée, robe blanche, face-à-main à la ceinture, traverse la scène.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Pardon, Charlotta Ivanovna, je n’ai pas encore eu le temps de vous saluer.</p>
+               <p rend="center">
+                  <hi rend="italic">Il veut lui baiser la main.</hi>
+               </p>
+               <p rend="justify">CHARLOTTA, <hi rend="italic">retirant sa main. </hi>– Si on vous permet de baiser la main, vous demanderez le coude, puis l’épaule…</p>
+               <p rend="justify">LOPAKHINE. – Pas de chance, aujourd’hui ! <hi rend="italic">(Tout le monde rit.) </hi>Charlotta Ivanovna, faites-nous un de vos tours de passe-passe.</p>
+               <p rend="justify">CHARLOTTA. – Pas maintenant. J’ai envie de dormir.</p>
+               <p rend="justify">LOPAKHINE. – Allons, il faut que je parte. Je reviendrai dans trois semaines. <hi rend="italic">(Il baise la main de M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.) </hi>D’ici là, adieu. <hi rend="italic">(À Gaïev.) </hi>Au revoir. <hi rend="italic">(Il embrasse Pichtchik.) </hi>Au revoir. <hi rend="italic">(Il tend la main à Varia, à Firs et à Iacha.) </hi>Pourtant je ne voudrais pas partir… <hi rend="italic">(À M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.) </hi>Si vous décidez quelque chose au sujet des villas, mandez-le-moi ; je vous trouverai immédiatement cinquante mille roubles. C’est sérieux ; pensez-y !</p>
+               <p rend="justify">VARIA, <hi rend="italic">fâchée. </hi>– Partez donc, à la fin !</p>
+               <p rend="justify">LOPAKHINE. – Je m’en vais, je m’en vais.</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – Le mufle ! Ah ! pardon… c’est le fiancé de Varia…</p>
+               <p rend="justify">VARIA. – Ne parlez pas pour ne rien dire, oncle !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Pourquoi non, Varia ? J’en serais très heureuse. C’est un brave homme.</p>
+               <p rend="justify">PICHTCHIK. – C’est à la vérité un homme des plus dignes… Ma fille le dit aussi… Elle dit diverses choses… <hi rend="italic">(Il fait un ronflement, mais se réveille aussitôt.) </hi>À<hi rend="italic"> </hi>propos, chère madame, rendez-moi un service, avancez-moi deux cent quarante roubles ; il me les faut demain pour payer les intérêts de mon hypothèque…</p>
+               <p rend="justify">VARIA, <hi rend="italic">effrayée, vite. </hi>– On ne les a pas ! on ne les a pas !…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – C’est vrai ; réellement, je n’ai absolument rien.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">riant. </hi>– Vous en trouverez. Je ne perds pas espoir. Voyez ; je croyais que tout était perdu, que j’étais ruiné ; et le chemin de fer traverse mes terres : on me paye. Patientez ; avec le temps, quelque chose arrivera encore. Ma fille gagnera le gros lot… Elle a un billet.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Tout le monde a bu son café ? On peut aller se reposer.</p>
+               <p rend="justify">FIRS, <hi rend="italic">il brosse Gaïev et lui parle comme à un enfant. </hi>– Vous avez encore pris le pantalon qu’il ne fallait pas ! Que puis-je faire de vous ?</p>
+               <p rend="justify">VARIA, <hi rend="italic">à demi-voix. </hi>– Chut, Ania dort !… <hi rend="italic">(Elle ouvre doucement la fenêtre.) </hi>Le soleil est déjà levé ; il ne fait pas froid. Voyez, mère, quels beaux arbres !… Mon Dieu, quel air ! Les sansonnets chantent !</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">ouvrant l’autre fenêtre. </hi>– Toute la cerisaie est blanche. Te souviens-tu, Liouba, de cette longue allée toute droite, droite comme une courroie tendue ? Les nuits de lune, elle brille. Te souviens-tu ?</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">regardant la cerisaie par la fenêtre. </hi>– Oh ! ma jeunesse, ma candeur ! J’ai dormi dans cette chambre d’enfant ; chaque matin, le bonheur s’y réveillait en même temps que moi. D’ici, je regardais la cerisaie ; elle était exactement comme je la vois aujourd’hui ; rien n’a changé ! <hi rend="italic">(Elle rit de joie.) </hi>Tout est blanc, blanc… Ma cerisaie, après un noir et vilain automne, et un hiver glacé, te revoilà, jeune, pleine de bonheur. Les anges du ciel ne t’ont pas quittée !… Ah ! si je pouvais faire tomber de mes épaules le fardeau qui pèse sur elles. Si je pouvais oublier le passé !…</p>
+               <p rend="justify">GAÏEV. – Dire que la cerisaie va être vendue à cause de nos dettes !… N’est-ce pas étrange ?…</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">agitée. </hi>– Voyez, notre défunte mère traverse la cerisaie, vêtue de blanc. <hi rend="italic">(Elle rit de joie.) </hi>Oui, c’est elle !</p>
+               <p rend="justify">GAÏEV. – Où cela ?</p>
+               <p rend="justify">VARIA. – Voyons, mère, qu’avez-vous ?</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">abattue. – </hi>Il n’y a personne !… Il m’a semblé… Là-bas, près du pavillon, ce petit arbre blanc qui penche ; on dirait une femme.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Trofimov. Uniforme d’étudiant usé. Lunettes.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">rêvant. </hi>– Quelle magnifique cerisaie ! Une blanche masse de fleurs, un ciel bleu…</p>
+               <p rend="justify">TROFIMOV. – Bonjour, madame. <hi rend="italic">(M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa se retourne.) </hi>Je ne fais que vous saluer et je pars. <hi rend="italic">(Il lui baise la main avec effusion.) </hi>On m’avait dit d’attendre jusqu’au matin pour vous voir, mais je n’ai pu y tenir davantage.</p>
+               <p rend="center">
+                  <hi rend="italic">M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa le regarde sans le reconnaître.</hi>
+               </p>
+               <p rend="justify">VARIA, <hi rend="italic">émue. </hi>– C’est Pierre Trofimov.</p>
+               <p rend="justify">TROFIMOV. – Pierre Trofimov, l’ancien précepteur de Gricha… Ai-je donc tant changé !…</p>
+               <p rend="center">
+                  <hi rend="italic">M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa l’embrasse et pleure doucement.</hi>
+               </p>
+               <p rend="justify">GAÏEV, <hi rend="italic">troublé. </hi>– Allons, Liouba, allons !…</p>
+               <p rend="justify">VARIA, <hi rend="italic">pleurant. </hi>– Je vous avais bien dit, Pétia, d’attendre jusqu’au matin…</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">pleurant. – </hi>Mon Gricha !… mon enfant !… mon petit !…</p>
+               <p rend="justify">VARIA. – Mère, que voulez-vous… C’était la volonté de Dieu !</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">tendrement, les larmes aux yeux. </hi>– Allons, ne pleurez plus ! ne pleurez plus !</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">pleurant doucement. </hi>– Mon petit s’est noyé… Pourquoi cela ? pourquoi, mon ami ? <hi rend="italic">(Baissant la voix.) </hi>Ania dort là-bas et je parle haut… Dites-moi, Pierre, pourquoi êtes-vous aussi changé ? Qu’est-ce qui vous a vieilli ?</p>
+               <p rend="justify">TROFIMOV. – Une bonne femme en wagon m’a appelé le monsieur déplumé…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Vous étiez en ce temps-là un bon petit étudiant, tout jeune, et maintenant vos cheveux s’éclaircissent ; vous portez des lunettes. Êtes-vous encore étudiant ?</p>
+               <p rend="center">
+                  <hi rend="italic">Elle va vers la porte.</hi>
+               </p>
+               <p rend="justify">TROFIMOV. – Je le resterai probablement toujours !</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">elle embrasse son frère, puis Varia. </hi>– Enfin, allons dormir… Toi aussi, Léonid, tu as vieilli.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">la suivant. – </hi>Alors on va dormir ?… Ah ! ma goutte !… Écoutez, je reste coucher ici… Demain, ma chère amie, demain matin, Lioubov Andréïevna, il me faudrait deux cent quarante roubles…</p>
+               <p rend="justify">GAÏEV. – En voilà un qui ne perd pas la carte !</p>
+               <p rend="justify">PICHTCHIK. – Deux cent quarante roubles… pour les intérêts de mon hypothèque.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Mon bon, je n’ai pas d’argent.</p>
+               <p rend="justify">PICHTCHIK. – Je vous les rendrai, chère dame ; c’est une petite somme de rien !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Allons, c’est bon ; Léonid vous les donnera. Donne-les-lui, Léonid !</p>
+               <p rend="justify">GAÏEV. – Oui, comptez-y !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Que faire, Léonid, donne-les-lui. Il en a besoin ; il les rendra.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort ainsi que Trofimov, Pichtchik et Firs.</hi>
+               </p>
+               <p rend="justify">GAÏEV, <hi rend="italic">grognant. </hi>– Ma sœur n’a pas perdu l’habitude de semer l’argent. <hi rend="italic">(À Iacha.) </hi>Recule-toi un peu, l’ami, tu sens le poulailler.</p>
+               <p rend="justify">IACHA, <hi rend="italic">souriant. </hi>– Et vous, Léonid Andréïevitch, vous êtes toujours le même.</p>
+               <p rend="justify">GAÏEV. – Quoi ? <hi rend="italic">(À Varia.) </hi>Qu’a-t-il dit ?</p>
+               <p rend="justify">VARIA, <hi rend="italic">à Iacha, l’expédiant. </hi>– Ta mère est arrivée hier soir et, depuis, elle est assise à t’attendre dans la chambre des domestiques ; elle veut te voir…</p>
+               <p rend="justify">IACHA. – Que Dieu la bénisse !</p>
+               <p rend="justify">VARIA. – Ah ! effronté !</p>
+               <p rend="justify">IACHA. – J’ai bien besoin d’elle… Elle aurait pu aussi bien ne venir que demain.</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">VARIA. – Mère est toujours ce qu’elle était ; elle n’a pas du tout changé ; si on la laissait faire, elle donnerait tout ce qu’elle a.</p>
+               <p rend="justify">GAÏEV. – C’est vrai. <hi rend="italic">(Un silence.) </hi>Si dans une maladie on prescrit beaucoup de remèdes, c’est que la maladie est incurable. Je pense, je me travaille, je trouve une foule de moyens, et, par suite, aucun ne vaut rien… Il serait bien d’hériter de quelqu’un !… Il serait bien de marier Ania à un homme très riche !… Il serait bien d’aller à Iaroslavl, tenter la chance auprès de la comtesse, notre tante !… Elle est riche, très riche…</p>
+               <p rend="justify">VARIA, <hi rend="italic">pleurant. </hi>– Si Dieu voulait nous aider !</p>
+               <p rend="justify">GAÏEV. – Oh ! ne geins pas, hein ? Notre tante est très riche, mais elle ne nous aime pas… D’abord Liouba a épousé un avocat qui n’appartenait pas à la noblesse…</p>
+               <p rend="center">
+                  <hi rend="italic">Ania apparaît à la porte de sa chambre.</hi>
+               </p>
+               <p rend="justify">GAÏEV, <hi rend="italic">il poursuit. </hi>– Ensuite, on ne peut pas dire que sa conduite ait été parfaite. Elle est très brave femme ; je l’aime beaucoup, mais on a beau chercher des circonstances atténuantes, il faut convenir que c’est une femme vicieuse ; cela se sent à chacun de ses mouvements…</p>
+               <p rend="justify">VARIA, <hi rend="italic">à voix basse, suppliante</hi>. – Ania est là !</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">gêné. </hi>– Comment ?… <hi rend="italic">(Silence.) </hi>C’est drôle, il m’est entré quelque chose dans l’œil, je n’y vois plus… Figure-toi que jeudi, au tribunal…</p>
+               <p rend="center">
+                  <hi rend="italic">Ania entre et s’avance.</hi>
+               </p>
+               <p rend="justify">VARIA. – Pourquoi ne dors-tu pas, Ania ?</p>
+               <p rend="justify">ANIA. – Je ne puis pas m’endormir.</p>
+               <p rend="justify">GAÏEV. – Ma petite ! (Il <hi rend="italic">lui baise les mains et le visage.) </hi>Mon enfant ! <hi rend="italic">(Il s’attendrit.) </hi>Tu n’es pas ma nièce, tu es mon ange gardien. Tu es tout pour moi ; crois-le.</p>
+               <p rend="justify">ANIA. – Je te crois, mon oncle. Tout le monde t’aime et te respecte… Mais il faudrait moins parler, cher oncle… Que viens-tu de dire de maman, de ta sœur !… Pourquoi as-tu dit tout cela ?</p>
+               <p rend="justify">GAÏEV. – Oui, tu as raison. <hi rend="italic">(Il prend les mains d’Ania et se cache le visage avec.) </hi>Vraiment, c’est mal ! Mon Dieu, ayez pitié de moi ! Aujourd’hui encore, j’ai fait tout un discours devant l’armoire ; c’est si bête ! Et ce n’est que quand j’ai eu fini que j’ai compris comme ce l’était…</p>
+               <p rend="justify">VARIA. – Vraiment, petit oncle, il faudrait moins parler !</p>
+               <p rend="justify">ANIA. – Si tu parles moins, tu n’en seras que plus tranquille.</p>
+               <p rend="justify">GAÏEV. – Je me tairai. <hi rend="italic">(Il</hi> 
+                  <hi rend="italic">baise les mains de Varia et d’Ania.) </hi>Je me tais. Mais parlons de notre affaire. Jeudi, j’étais au tribunal ; il est venu du monde ; on a commencé à parler de choses et d’autres, et patati et patata : il me semble qu’on pourra emprunter sur billet de quoi payer les intérêts.</p>
+               <p rend="justify">VARIA. – Si Dieu voulait nous aider !</p>
+               <p rend="justify">GAÏEV. – Mardi, je retournerai en ville et en parlerai encore… <hi rend="italic">(À Varia.) </hi>Ne pleure pas… <hi rend="italic">(À Ania.) </hi>Ta mère causera avec Lopakhine ; il ne lui refusera certainement pas de l’aider. Et toi, quand tu seras reposée, ma chérie, tu iras à Iaroslavl chez ta grand-tante la comtesse. Ainsi nous agirons de trois côtés, et notre affaire s’arrangera. Nous paierons les intérêts, j’en suis convaincu. <hi rend="italic">(Il se met un bonbon dans la bouche.) </hi>Sur mon honneur, sur tout ce que tu voudras, je le jure : le bien ne sera pas vendu ! <hi rend="italic">(Excité.) </hi>Tiens ma main <hi rend="italic">(il la lui tend), </hi>tu m’appelleras ensuite homme de rien, malhonnête homme, si l’on en vient à la vente publique ; je jure de tout mon être que cela ne sera pas !</p>
+               <p rend="justify">ANIA, <hi rend="italic">redevenue tranquille, heureuse. </hi>– Comme tu es bon, mon oncle, comme tu as de l’esprit ! <hi rend="italic">(Elle l’embrasse.) </hi>Maintenant je suis tranquille et heureuse.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Firs.</hi>
+               </p>
+               <p rend="justify">FIRS, <hi rend="italic">d’un ton de reproche. </hi>– Léonid Andréïevitch, vous n’y songez pas ; quand dormirez-vous ?</p>
+               <p rend="justify">GAÏEV. – Tout de suite, tout de suite. Va-t’en, Firs ! Maintenant, n’importe, je me déshabillerai seul. Allons, les enfants, do-do. À demain les détails. <hi rend="italic">(Il embrasse Ania et Varia) </hi>Je suis de la génération de 1880 ; on ne la vante guère ; et pourtant je puis dire que mes opinions m’ont déjà coûté cher. Ce n’est pas pour rien que les moujiks m’aiment ! Il faut connaître le moujik…</p>
+               <p rend="justify">ANIA. – Te voilà encore lancé, mon oncle.</p>
+               <p rend="justify">VARIA. – Taisez-vous, petit oncle.</p>
+               <p rend="justify">FIRS, <hi rend="italic">sévèrement. – </hi>Léonid Andréïevitch !</p>
+               <p rend="justify">GAÏEV. – Je m’en vais, je m’en vais. Allez vous coucher ! Double bande au milieu. Le coup est sûr.</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort ; Firs le suit à petits pas.</hi>
+               </p>
+               <p rend="justify">ANIA. – Je suis tranquille, maintenant. Je ne veux pas aller à Iaroslavl ; je n’aime pas ma grand-tante ; mais pourtant j’ai confiance ; j’en remercie mon oncle.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle s’assied.</hi>
+               </p>
+               <p rend="justify">VARIA. – Il faut aller dormir ; moi, j’y vais. Tu sais, Ania, il y a eu ici, pendant ton absence, des tas d’histoires. Tu te rappelles les vieux domestiques qui vivent dans l’ancienne cuisine, Iéfimiouchka, Polia, Evstigueï, et enfin Karp. Ils se mirent à laisser coucher chez eux des passants. Je ne dis rien. Mais voilà que le bruit courut que j’avais donné ordre, par avarice, de ne les plus nourrir que de pois. C’était Evstigueï qui inventait tout cela. Je me dis, tu vas voir ; j’appelle Evstigueï. <hi rend="italic">(Elle bâille.) </hi>Il arrive… Comment oses-tu, lui dis-je, espèce d’imbécile… <hi rend="italic">(Elle regarde Ania.) </hi>Ma petite Ania !… <hi rend="italic">(Un temps.) </hi>Elle dort !… <hi rend="italic">(Elle la prend sous le bras.) </hi>Allons, au lit !… <hi rend="italic">(Elle la conduit.) </hi>La chère petite est endormie…</p>
+               <p rend="center">
+                  <hi rend="italic">Elles sortent.</hi>
+               </p>
+               <p rend="center italic">Au loin, par-delà la cerisaie, un berger joue du pipeau.</p>
+               <p rend="center italic">Trofimov traverse la scène et, voyant Varia et Ania, s’arrête.</p>
+               <p rend="justify">VARIA. – Chut, chut !… Elle dort… Viens, ma chérie.</p>
+               <p rend="justify">ANIA, <hi rend="italic">doucement, dormant à moitié. </hi>– Je suis si lasse… Tous ces grelots. Cher oncle… mon oncle et maman…</p>
+               <p rend="justify">VARIA. – Viens, ma petite.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle entre dans la chambre d’Ania.</hi>
+               </p>
+               <p rend="justify">TROFIMOV, attendri. – Ô, mon soleil !… Mon printemps !</p>
+               <p rend="center">RIDEAU</p>
+            </div>
+            <div type="div2">
+               <head>Acte II<lb/>
+               </head>
+               <p rend="justify">Les champs. Une vieille chapelle, déjetée, abandonnée, et, auprès d’elle, un puits, de grosses pierres, autrefois sans doute des pierres tombales, et un vieux banc. On voit le chemin qui mène à la propriété de Gaïev. En tache sombre, d’un côté, des peupliers au-delà desquels commence la cerisaie. Plus loin, une rangée de poteaux télégraphiques, et, tout à fait à l’horizon, une grande ville se dessine confusément. Coucher de soleil.</p>
+               <p rend="center">
+                  <hi rend="italic">Charlotta, Iacha et Douniacha sont assis sur un banc. Epikhodov, debout à côté, joue de la guitare. Tous sont plongés dans leurs réflexions. Charlotta s’est coiffée d’une vieille casquette d’homme ; elle retire un fusil de son épaule et arrange la boucle de la courroie.</hi>
+               </p>
+               <p rend="justify">CHARLOTTA, <hi rend="italic">pensive. </hi>– Je n’ai pas de passeport régulier ; je ne sais pas au juste mon âge ; et il me semble toujours que je suis très jeune. Quand j’étais petite fille, mon père et ma mère couraient les foires et donnaient de belles représentations. Moi, je faisais le saut périlleux et différents tours. Quand papa et maman moururent, une dame allemande me recueillit et se mit à m’instruire. Bon. J’ai grandi et je suis devenue gouvernante. D’où je viens, qui je suis, je ne le sais pas… Peut-être mes parents n’ont-ils jamais été mariés ; cela aussi je l’ignore. <hi rend="italic">(Elle tire de sa poche un concombre et le mange.) </hi>J’ai une si grande démangeaison de parler, et personne pour m’écouter… Je n’ai personne…</p>
+               <p rend="justify">EPIKHODOV, <hi rend="italic">il joue de la guitare et chante. </hi>–</p>
+               <p rend="center">Que me fait le bruit du monde ?</p>
+               <p rend="center">Que m’importent amis, ennemis ?…</p>
+               <p rend="justify">Comme il est agréable de jouer de la mandoline !</p>
+               <p rend="justify">DOUNIACHA. – C’est une guitare, votre mandoline.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle se regarde dans un petit miroir et se poudre.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – Pour l’insensé qui aime, une guitare est une mandoline.</p>
+               <p rend="center">
+                  <hi rend="italic">Il continue à chanter.</hi>
+               </p>
+               <p rend="center">Si la flamme d’un amour partagé</p>
+               <p rend="center">Échauffe mon cœur…</p>
+               <p rend="center">
+                  <hi rend="italic">Iacha accompagne en sourdine.</hi>
+               </p>
+               <p rend="justify">CHARLOTTA. – Fi ! comme ces gens chantent mal ! De vrais chacals !</p>
+               <p rend="justify">DOUNIACHA, <hi rend="italic">à Iacha. </hi>– Tout de même, quel bonheur d’avoir été à l’étranger !</p>
+               <p rend="justify">IACHA. – Oui, pour sûr. Je ne peux pas en disconvenir.</p>
+               <p rend="center">
+                  <hi rend="italic">Il bâille, puis allume un cigare.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – C’est chose compréhensible. À l’étranger tout est, depuis longtemps déjà, en si parfait agencement.</p>
+               <p rend="justify">IACHA. – Sans doute.</p>
+               <p rend="justify">EPIKHODOV. – Je suis instruit, je lis différents livres remarquables, et néanmoins, pourtant, je ne puis pas du tout comprendre ce que je désire surtout. À proprement parler : faut-il que je vive ou que je me flanque un coup de revolver ?… À tout hasard, j’ai toujours un revolver sur moi ; le voici.</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort un revolver.</hi>
+               </p>
+               <p rend="justify">CHARLOTTA. – J’ai fini ; maintenant je m’en vais. <hi rend="italic">(Elle prend son fusil.) </hi>Toi, Epikhodov, tu es un homme très intelligent, mais aussi très effrayant ; les femmes doivent t’aimer à la folie. Brr ! <hi rend="italic">(Elle part.) </hi>Que tous ces gens d’esprit sont bêtes ! Il n’y en a aucun avec lequel on puisse dire un mot. Toujours seule, seule… Et qui je suis, pourquoi j’existe, je l’ignore…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle s’éloigne lentement.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – En ce qui me concerne, à proprement parler, sans toucher à d’autres points, je dois dire que le sort se comporte envers moi sans pitié, comme fait la tempête avec un petit bateau. À supposer que je ne me trompe pas, pourquoi est-ce que, par exemple, ce matin, je me réveille, je regarde, et je vois sur ma poitrine une araignée d’une énorme grosseur… comme ça… <hi rend="italic">(Il montre de ses deux mains la grosseur de l’araignée.) </hi>Et quand je prends du kvas pour en boire, je suis sûr d’y trouver quelque chose de déplaisant au possible, dans le genre d’une blatte. <hi rend="italic">(Un temps.) </hi>Avez-vous lu le philosophe Bockle ? <hi rend="italic">(Un silence.) </hi>Je désirerais, Avdotia Fiodorovna, abuser de vos instants et vous dire deux mots.</p>
+               <p rend="justify">DOUNIACHA. – Dites-les.</p>
+               <p rend="justify">EPIKHODOV. – Je désirerais que ce soit en tête à tête.</p>
+               <p rend="center">
+                  <hi rend="italic">Il soupire.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA, <hi rend="italic">embarrassée. – </hi>Bien… Seulement apportez-moi d’abord ma pèlerine ; elle est près de l’armoire. Il fait un peu humide.</p>
+               <p rend="justify">EPIKHODOV, <hi rend="italic">se levant. </hi>– Bon, je vais vous l’apporter… Je sais maintenant ce que j’ai à faire avec mon revolver…</p>
+               <p rend="center">
+                  <hi rend="italic">Il prend la guitare et s’en va, en jouant.</hi>
+               </p>
+               <p rend="justify">IACHA. – Vingt-Deux-Malheurs ! Un imbécile, entre nous soit dit.</p>
+               <p rend="center">
+                  <hi rend="italic">Il bâille.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA. – Pourvu qu’il n’aille pas se suicider ! <hi rend="italic">(Un silence.) </hi>Je suis devenue très inquiète, je m’alarme toujours. J’étais toute petite quand on m’a prise chez les maîtres comme domestique ; je me suis déshabituée de la vie simple, et mes mains sont blanches comme celles d’une demoiselle. Je suis devenue délicate, tendre ; un rien me fait peur… C’est effrayant. Aussi, Iacha, si vous me trompez, je ne sais ce que feront mes nerfs.</p>
+               <p rend="justify">IACHA, <hi rend="italic">il l’embrasse. </hi>– Mon petit chou !… Évidemment, une jeune fille doit se contenir ; ce que je déteste le plus, est une jeune fille de mauvaise conduite.</p>
+               <p rend="justify">DOUNIACHA. – Je suis devenue passionnément amoureuse de vous, Iacha. Vous êtes instruit ; vous pouvez parler de tout.</p>
+               <p rend="justify">IACHA, <hi rend="italic">bâillant. </hi>– Mais oui… À mon sens, voilà : si une jeune fille aime, c’est qu’elle est dépravée. <hi rend="italic">(Un silence.) </hi>Comme il est agréable de fumer un cigare en plein air. (Il <hi rend="italic">écoute.) </hi>On vient… Les maîtres !…</p>
+               <p rend="center">
+                  <hi rend="italic">Douniacha l’embrasse violemment.</hi>
+               </p>
+               <p rend="justify">IACHA. – Allez à la maison ; prenez ce sentier, comme si vous reveniez de vous baigner à la rivière ; autrement, on vous rencontrera, et on pensera que nous avions un rendez-vous. J’ai horreur de cela.</p>
+               <p rend="justify">DOUNIACHA, <hi rend="italic">elle tousse un peu. </hi>– Ce cigare m’a donné mal à la tête.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle s’en va. Iacha s’assied près de la chapelle.</hi>
+               </p>
+               <p rend="center">
+                  <hi rend="italic">Entrent M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, Gaïev et Lopakhine.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Il faut en finir. Le temps presse. La question est toute simple. Consentez-vous à vendre votre terre par lots, oui ou non ? Ne répondez qu’un seul mot. Un seul !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Qui a pu fumer ici de détestables cigares ?…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle s’assied.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – Il est tout de même commode qu’on ait fait ce chemin de fer <hi rend="italic">(il s’assied), </hi>nous avons pu aller en ville et y déjeuner. La jaune au milieu !… Je devrais aller à la maison, jouer une partie.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Tu auras le temps, après.</p>
+               <p rend="justify">LOPAKHINE. – Un seul mot ! <hi rend="italic">(Suppliant.) </hi>Donnez-moi donc une réponse !</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">bâillant. </hi>– Quoi ?</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">regardant dans son porte-monnaie</hi>. – Hier encore, j’avais beaucoup d’argent et aujourd’hui il n’y a presque plus rien. La pauvre Varia, par économie, nourrit tout le monde de soupe au lait ; à la cuisine, on ne donne aux vieux que des pois secs ; et je dépense mon argent à tort et à travers… <hi rend="italic">(Son porte-monnaie tombe ; de l’or roule) </hi>Bon ! les voilà qui s’échappent…</p>
+               <p rend="justify">IACHA. – Permettez, je vais ramasser.</p>
+               <p rend="center">
+                  <hi rend="italic">Il ramasse l’argent.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Oui, Iacha, ayez cette bonté. Et pourquoi être allés déjeuner en ville !… Infect, votre restaurant à musique. Les nappes sentaient le savon… Et toi, Léonid, pourquoi tant boire ? pourquoi tant manger ? pourquoi tant parler ? Aujourd’hui, au restaurant, tu as encore beaucoup parlé, et toujours mal à propos ! Toujours les mêmes sujets, ta génération, les décadents !… Et à qui ? Parler des décadents au garçon !</p>
+               <p rend="justify">LOPAKHINE. – Oui.</p>
+               <p rend="justify">GAÏEV. – Je suis incorrigible, c’est évident, <hi rend="italic">(impatienté, à Iacha) </hi>Qu’as-tu à toujours tourner sous nos yeux…</p>
+               <p rend="justify">IACHA, <hi rend="italic">riant. </hi>– Je ne puis pas entendre votre voix sans rire.</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">à sa sœur. </hi>– Tu l’entends, Liouba ? Ou moi, ou lui ; choisis.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Allez-vous-en, Iacha ; allez-vous-en.</p>
+               <p rend="justify">IACHA, <hi rend="italic">rendant le porte-monnaie à M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa. </hi>– Tout de Suite, je m’en vais. <hi rend="italic">(Il se retient à peine de rire) </hi>À l’instant…</p>
+               <p rend="center">
+                  <hi rend="italic">Il s’en va.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – On dit que le très riche Dériganov se propose d’acheter votre bien. Il viendra lui-même à la vente.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – D’où tenez-vous cela ?</p>
+               <p rend="justify">LOPAKHINE. – On le dit en ville.</p>
+               <p rend="justify">GAÏEV. – Notre tante de Iaroslavl a promis d’envoyer de l’argent, mais quand ? et combien ? on ne sait.</p>
+               <p rend="justify">LOPAKHINE. – Combien enverra-t-elle ? Cent mille roubles ? Deux cent mille ?…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Parbleu oui… Tout au plus dix à quinze mille, et ce sera très beau.</p>
+               <p rend="justify">LOPAKHINE. – Excusez-moi ; je n’ai jamais vu des gens aussi légers, aussi étranges que vous, comprenant aussi peu les affaires. On vous dit clairement : votre bien va se vendre, et c’est comme si vous ne compreniez pas…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Que devons-nous donc faire ? Dites-le.</p>
+               <p rend="justify">LOPAKHINE. – Je ne fais que cela chaque jour. Chaque jour, je répète la même chose. Il faut louer la cerisaie et toute votre propriété comme terrain à villas, et cela tout de suite, au plus tôt. La vente est imminente. Entendez-le. Dès que vous aurez décidé de faire ce que je vous dis, vous aurez autant d’argent que vous voudrez, et vous serez sauvés.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Des villas et des locataires de villas… c’est si vulgaire, laissez-moi vous le dire.</p>
+               <p rend="justify">GAÏEV. – Je suis entièrement de ton avis.</p>
+               <p rend="justify">LOPAKHINE. – Je vais pleurer, je vais crier ou je vais m’évanouir ; je n’en puis plus ! Vous m’avez mis à bout ! <hi rend="italic">(À Gaïev.) </hi>Vieille femme que vous êtes !</p>
+               <p rend="justify">GAÏEV. – Quoi ?</p>
+               <p rend="justify">LOPAKHINE. – Vieille femme !</p>
+               <p rend="center">
+                  <hi rend="italic">Il veut partir.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Ne vous en allez pas ; restez mon ami… Je vous en supplie ; peut-être trouverons-nous quelque chose.</p>
+               <p rend="justify">LOPAKHINE. – Qu’y a-t-il à trouver ?</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Ne partez pas, je vous en prie. Quand vous êtes ici, c’est tout de même moins triste… <hi rend="italic">(Silence.) </hi>Je suis toujours à redouter je ne sais quoi, comme si la maison allait s’écrouler sur nous.</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">en profonde méditation. </hi>– Double bande dans l’angle ; croisé au milieu.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Nous avons commis tant de fautes, tant de péchés !</p>
+               <p rend="justify">LOPAKHINE. – Quelles fautes ?</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">prenant un bonbon. </hi>– On dit que j’ai mangé toute ma fortune en caramels.</p>
+               <p rend="center">
+                  <hi rend="italic">Il rit.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Mes fautes, les voici !… J’ai toujours jeté l’argent sans compter, comme une folle, et je me suis mariée à un homme qui ne faisait que des dettes. C’est le champagne qui l’a tué ; il buvait affreusement. Et, pour mon malheur, j’ai aimé un autre homme ; j’ai cédé, et, juste à ce moment-là, première punition, comme un coup sur la tête, mon fils s’est noyé ici, dans la rivière. Et je suis partie à l’étranger pour toujours, afin de ne plus revoir cette rivière… Je fuyais les yeux fermés, éperdue, et <hi rend="italic">lui </hi>m’a poursuivie, sans pitié, durement. J’ai acheté une villa près de Menton, où il était tombé malade, et trois ans, sans repos ni jour ni nuit, je me suis épuisée à le soigner. L’an dernier, quand il a fallu vendre la villa pour payer nos dettes, je suis partie pour Paris. <hi rend="italic">Il </hi>m’a tout pris, m’a quittée, puis il a rencontré une autre femme, et j’ai voulu m’empoisonner… C’est si bête, si honteux… Et tout d’un coup, le désir m’a reprise de revoir la Russie, ma patrie, de revoir ma fille… <hi rend="italic">(Elle s’essuie les yeux.) </hi>Seigneur, Seigneur, sois miséricordieux, pardonne-moi mes péchés ! Ne me punis pas davantage ! <hi rend="italic">(Elle tire de sa poche un télégramme) </hi>J’ai reçu aujourd’hui de Paris un télégramme… Il implore son pardon, me supplie de revenir… <hi rend="italic">(Elle déchire le télégramme) </hi>On dirait qu’on entend de là musique !</p>
+               <p rend="center">
+                  <hi rend="italic">Elle écoute.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – C’est notre fameux orchestre juif ; te rappelles-tu : quatre violons, une flûte et une contrebasse.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Il existe encore !… Il faudra le faire venir un de ces jours et organiser une sauterie.</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">tendant l’oreille. </hi>– Je n’entends rien… <hi rend="italic">(Il fredonne.) </hi>« Pour de l’argent, les Allemands vous franciseront un Russe. » <hi rend="italic">(Il rit.) </hi>Quelle curieuse pièce j’ai vue hier soir ; extrêmement drôle !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Je suis sûre qu’elle n’était pas drôle du tout ! Tous, vous ne devriez pas aller voir jouer des pièces, mais vous examiner un peu plus. Comme votre vie est terne ! Que de choses vaines vous dites !</p>
+               <p rend="justify">LOPAKHINE. – C’est vrai ! À le dire sans phrase, notre vie est stupide… <hi rend="italic">(Un silence.) </hi>Mon père était un moujik ; un homme qui ne comprenait rien ; il ne m’a pas donné d’instruction, et ne faisait, étant ivre, que me flanquer des coups de bâton. Au fond, je suis aussi bûche et idiot que lui. Je n’ai rien appris. J’ai une vilaine écriture. Et quand j’écris, j’en ai honte ; c’est comme un cochon.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Il faut que vous vous mariiez, mon ami.</p>
+               <p rend="justify">LOPAKHINE. – Oui… c’est vrai.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Vous devriez épouser notre Varia ; c’est une brave fille.</p>
+               <p rend="justify">LOPAKHINE. – Oui.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Elle est paysanne, travaille toute la journée, et, surtout, elle vous aime. Et il y a longtemps qu’elle vous plaît.</p>
+               <p rend="justify">LOPAKHINE. – Eh bien ! je ne dis pas non… C’est une brave fille.</p>
+               <p rend="center">
+                  <hi rend="italic">Un silence.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – On m’offre une place dans une banque ; six mille roubles par an… Tu entends ?</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Qu’y feras-tu ? Reste tranquille.</p>
+               <p rend="justify">FIRS, <hi rend="italic">il entre, tenant un pardessus. À Gaïev. </hi>– Monsieur, veuillez mettre ce manteau ; il fait froid.</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">mettant le pardessus. </hi>– Tu m’ennuies, mon vieux.</p>
+               <p rend="justify">FIRS. – Il n’y a pas à faire de façons… Ce matin, vous êtes parti sans rien dire.</p>
+               <p rend="center">
+                  <hi rend="italic">Il l’examine.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Comme tu as vieilli, Firs !</p>
+               <p rend="justify">FIRS. – Que désirez-vous ?</p>
+               <p rend="justify">LOPAKHINE. – On te dit que tu as beaucoup vieilli.</p>
+               <p rend="justify">FIRS. – Il y a longtemps que je vis. On voulait me marier que votre père n’était pas encore né. <hi rend="italic">(Il rit.) </hi>Et l’année de l’Émancipation, j’étais déjà premier valet de chambre. Je n’ai pas voulu de la liberté et suis resté auprès de mes maîtres… <hi rend="italic">(Un silence.) </hi>Je me rappelle, tout le monde était content, et de quoi au juste, personne ne le savait.</p>
+               <p rend="justify">LOPAKHINE. – Avant, on était très bien. Du moins, on donnait les verges.</p>
+               <p rend="justify">FIRS, <hi rend="italic">qui n’a pas entendu. </hi>– Ah ! je vous crois ! Les moujiks étaient auprès des maîtres, les maîtres étaient auprès des moujiks, et aujourd’hui chacun est de son côté ; on n’y comprend plus rien.</p>
+               <p rend="justify">GAÏEV. – Tais-toi un peu, Firs… Demain, j’ai besoin d’aller en ville. On a promis de me faire connaître un général qui pourrait nous prêter de l’argent sur billet.</p>
+               <p rend="justify">LOPAKHINE. – Vous ne réussirez pas. Vous ne paierez même pas les intérêts, soyez-en sûr.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Il a rêvé cela ; il n’y a pas de général.</p>
+               <p rend="center">
+                  <hi rend="italic">Entrent Trofimov, Ania et Varia.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – Ah ! voilà les nôtres qui arrivent.</p>
+               <p rend="justify">ANIA. – Maman est ici.</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">tendrement. </hi>– Viens, viens ; venez, mes chéries.</p>
+               <p rend="justify">
+                  <hi rend="italic">(Elle embrasse Ania et Varia.) </hi>Si vous saviez toutes deux comme je vous aime. Asseyez-vous là, à côté de moi.</p>
+               <p rend="center">
+                  <hi rend="italic">Tous s’assoient.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">plaisantant. </hi>– L’éternel étudiant est toujours avec les demoiselles…</p>
+               <p rend="justify">TROFIMOV. – Ce n’est pas votre affaire.</p>
+               <p rend="justify">LOPAKHINE. – Il aura bientôt cinquante ans, et il est toujours étudiant !</p>
+               <p rend="justify">TROFIMOV. – Cessez vos sottes plaisanteries.</p>
+               <p rend="justify">LOPAKHINE. – Eh quoi, farceur, tu te fâches ?</p>
+               <p rend="justify">TROFIMOV. – Aussi laisse-moi tranquille.</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">riant. </hi>– Permettez-moi de vous demander quelle idée vous vous faites de moi ?</p>
+               <p rend="justify">TROFIMOV. – Voici, Ermolaï Alekséïevitch : vous êtes riche et serez bientôt millionnaire. Vous êtes nécessaire comme, dans la transformation de la matière, est nécessaire une bête de proie qui dévore tout ce qui se trouve sur sa route ; voilà l’idée que je me fais de vous.</p>
+               <p rend="center">
+                  <hi rend="italic">Tous rient.</hi>
+               </p>
+               <p rend="justify">VARIA. – Parlez-nous plutôt des planètes, Pierre.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Non, reprenons la conversation d’hier soir.</p>
+               <p rend="justify">TROFIMOV. – De quoi parlions-nous ?</p>
+               <p rend="justify">GAÏEV. – De l’homme fier<hi rend="sup bold">
+                     <note xml:id="ftn4" place="foot" n="4"> Allusion polémique au célèbre discours de Satine dans <hi rend="italic">Les Bas-Fonds </hi>de Gorki (1903) qui déclare : « Homme… Mot admirable, cela sonne fièrement ! »</note>
+                  </hi>.</p>
+               <p rend="justify">TROFIMOV. – Nous avons parlé longtemps sans arriver à aucune conclusion. Selon vous, il y a quelque chose de mystique dans l’homme fier. Peut-être avez-vous raison, mais, à prendre les choses simplement, quel sens a cette fierté quand la constitution physique de l’homme est faible, quand la masse de l’humanité est pour majeure partie grossière, inintelligente et profondément malheureuse ? Il faut cesser de s’extasier sur soi-même ; il faut travailler seulement.</p>
+               <p rend="justify">GAÏEV. – Quoi qu’on fasse, il faudra mourir.</p>
+               <p rend="justify">TROFIMOV. – Qui sait !… Et que signifie cela, mourir !… L’homme a peut-être une centaine de sens, et, à sa mort, il n’en meurt que cinq que nous connaissions ; les quatre-vingt-quinze autres restent vivants.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Comme vous avez de l’esprit, Pierre !…</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">ironiquement. </hi>– Effrayant !</p>
+               <p rend="justify">TROFIMOV. – L’humanité progresse, perfectionne ses forces. Tout ce qui, aujourd’hui, nous dépasse, sera un jour intelligible, familier. Mais il faut, pour en arriver là, aider de toutes nos forces ceux qui cherchent. En Russie, il y a encore bien peu de gens qui travaillent. La majeure partie des gens de ces classes cultivées que je connais ne cherche rien, ne fait rien, et n’est pas encore apte au travail. Elles se disent classes cultivées, et on y tutoie les domestiques. On s’y comporte avec les paysans comme avec des animaux. On n’y apprend rien ; on ne lit rien sérieusement ; on ne fait absolument rien. Des sciences, on se contente de parler, et on n’entend rien à l’art. Tous ont des mines graves, ne dissertent que de choses sérieuses, font de la philosophie, et, néanmoins, la grande majorité d’entre nous, quatre-vingt-dix-neuf sur cent, vit comme des sauvages. À tout propos, on vous met le poing sous le nez, on s’injurie. On mange de façon répugnante ; on dort dans la saleté, le manque d’air ; partout des punaises, de la puanteur, de l’humidité, de la saleté morale… Tous nos beaux discours ne tendent apparemment qu’à nous blouser nous-mêmes et à blouser les autres… Dites-moi où sont chez nous ces crèches dont on parle tant, ces salles de lecture ? Il n’en est question que dans les romans. En réalité, il n’en existe pas. Il n’y a partout que malpropreté, vulgarité, asiatisme… Je crains et je déteste les faces trop sérieuses, les discours sérieux. Mieux vaut nous taire !</p>
+               <p rend="justify">LOPAKHINE. – Eh bien ! écoutez-moi. Je me lève à cinq heures du matin ; je travaille du matin au soir ; je manie constamment mon argent et celui des autres ; et je vois comment sont les gens. Il suffit de se mettre à faire n’importe quoi pour comprendre combien il y a peu de gens honnêtes, convenables. Parfois, quand je ne puis m’endormir, je pense : Seigneur, tu nous as donné d’immenses forêts, des champs infinis, les horizons les plus vastes, et nous devrions avec tout cela être des géants…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Des géants ? À quoi bon ? Les géants ne sont beaux que dans les contes. Dans la réalité, ils font peur.</p>
+               <p rend="center">
+                  <hi rend="italic">Epikhodov, jouant de la guitare, passe au fond de la scène.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">rêveuse. </hi>– C’est Epikhodov qui vient.</p>
+               <p rend="justify">ANIA, <hi rend="italic">rêveuse. </hi>– Epikhodov.</p>
+               <p rend="justify">GAÏEV. – Messieurs, le soleil est couché.</p>
+               <p rend="justify">TROFIMOV. – Oui.</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">à mi-voix, comme déclamant. </hi>– Oh ! nature merveilleuse ! Tu brilles d’un éternel éclat, tu es aussi belle qu’indifférente. Toi, que nous appelons mère, tu réunis l’existence et la mort ; tu animes et tu tues…</p>
+               <p rend="justify">VARIA, <hi rend="italic">suppliante. </hi>– Cher oncle !</p>
+               <p rend="justify">ANIA. – Mon oncle, tu recommences !</p>
+               <p rend="justify">TROFIMOV. – Vous feriez mieux de faire une double bande sur la jaune.</p>
+               <p rend="justify">GAÏEV. – Je me tais, je me tais.</p>
+               <p rend="center">
+                  <hi rend="italic">Tous restent assis, rêveurs. Le calme du soir. On n’entend que Firs qui marmonne. Tout à coup, un bruit lointain, comme venu du ciel ; c’est le bruit d’une corde qui casse, mourante et triste.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">inquiète. </hi>– Qu’est-ce que c’est ?</p>
+               <p rend="justify">LOPAKHINE. – Je ne sais. C’est peut-être dans une mine, une benne qui s’est détachée. Mais c’est très loin d’ici.</p>
+               <p rend="justify">GAÏEV. – Ce n’est peut-être qu’un oiseau… un héron.</p>
+               <p rend="justify">TROFIMOV. – Ou un chat-huant.</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">frissonnant. </hi>– C’est désagréable en tout cas !</p>
+               <p rend="center">
+                  <hi rend="italic">Un silence.</hi>
+               </p>
+               <p rend="justify">FIRS. – Avant le malheur, ça s’est produit aussi. Une chouette a crié, et le samovar a ronflé sans s’arrêter.</p>
+               <p rend="justify">GAÏEV. – Avant quel malheur ?</p>
+               <p rend="justify">FIRS. – Avant l’Émancipation.</p>
+               <p rend="center">
+                  <hi rend="italic">Un silence.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Savez-vous, mes amis, qu’il se fait tard ; rentrons. (<hi rend="italic">À</hi> 
+                  <hi rend="italic">Ania.) </hi>Tu as les larmes aux yeux ; qu’as-tu, fillette ?</p>
+               <p rend="center">
+                  <hi rend="italic">Elle l’embrasse.</hi>
+               </p>
+               <p rend="justify">ANIA. – Ce n’est rien, maman.</p>
+               <p rend="justify">TROFIMOV. – Quelqu’un vient.</p>
+               <p rend="center">
+                  <hi rend="italic">Apparaît un passant. Casquette blanche ; pardessus. Il est un peu ivre.</hi>
+               </p>
+               <p rend="justify">LE PASSANT. – Permettez-moi de demander si, pour la gare, c’est tout droit ?</p>
+               <p rend="justify">GAÏEV. – Oui, prenez cette route.</p>
+               <p rend="justify">LE PASSANT. – Sensiblement reconnaissant. <hi rend="italic">(Il toussote.) </hi>Le temps est superbe… <hi rend="italic">(Déclamant.) Mon frère, mon frère qui peines, viens sur la Volga dont le gémissement</hi>
+                  <hi rend="sup bold">
+                     <hi rend="italic">
+                        <note xml:id="ftn5" place="foot" n="5"> « Mon frère, mon frère qui peines. » Citation inexacte du début du poème de S. Nadson <hi rend="italic">Mon ami, mon frère, mon frère las et à la peine… </hi>(1881). La suite (« viens sur la Volga dont le gémissement… ») est une citation du poème de N. Nekrassov, <hi rend="italic">Réflexions sur le perron.</hi>
+                        </note>
+                     </hi>
+                  </hi>
+                  <hi rend="italic">… </hi>(À <hi rend="italic">Varia.) </hi>Mademoiselle, daignez donner trente copeks à un Russien affamé…</p>
+               <p rend="center">
+                  <hi rend="italic">Varia, effrayée, pousse un cri.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">sévère. </hi>– Il y a des limites à tout…</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">saisie. </hi>– Tenez, prenez… <hi rend="italic">(Elle cherche dans son porte-monnaie.) </hi>Je n’ai pas de pièce d’argent… Ça ne fait rien, tenez, voici de l’or…</p>
+               <p rend="justify">LE PASSANT. – Sensiblement reconnaissant.</p>
+               <p rend="center">
+                  <hi rend="italic">Il s’en va. Rires.</hi>
+               </p>
+               <p rend="justify">VARIA, <hi rend="italic">effrayée. </hi>– Je rentre… je veux rentrer… Ah ! mère, à la maison les gens n’ont pas à manger et vous lui avez donné une pièce d’or !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Que faire, si je suis stupide ! À la maison, je te remettrai tout ce que j’ai. Ermolaï Alekséïevitch, vous me prêterez encore ?…</p>
+               <p rend="justify">LOPAKHINE. – À vos ordres.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Rentrons, messieurs ; il est temps. Varia, en causant, nous venons d’arranger ton mariage ; je t’en félicite.</p>
+               <p rend="justify">VARIA, <hi rend="italic">les larmes aux yeux. </hi>– Mère, on ne plaisante pas sur ces choses-là.</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">raillant. </hi>– Okhmélie… au couvent !… Okhmélie<hi rend="sup bold">
+                     <note xml:id="ftn6" place="foot" n="6"> Il veut dire <hi rend="italic">Ophélie, </hi>et, en citant ce nom-là d’après une pièce très populaire d’Ostrovski, il lui donne une déformation plaisante qui évoque une idée d’ivrognerie. (N. d. T.)</note>
+                  </hi>…</p>
+               <p rend="justify">GAÏEV. – Je n’ai plus la main sûre ; il y a longtemps que je n’ai pas joué au billard.</p>
+               <p rend="justify">LOPAKHINE. – Okhmélie, ô nymphe, tu te souviendras de moi dans tes prières.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Rentrons, messieurs, il est l’heure de souper.</p>
+               <p rend="justify">VARIA. – Comme il m’a effrayée ! Mon cœur bat !</p>
+               <p rend="justify">LOPAKHINE. – Messieurs, ne l’oubliez pas : le 22 courant, on vend la cerisaie. Pensez-y bien ; pensez-y !</p>
+               <p rend="center">
+                  <hi rend="italic">Tous partent, sauf Trofimov et Ania.</hi>
+               </p>
+               <p rend="justify">ANIA, <hi rend="italic">riant. </hi>– Grâces soient rendues au passant qui a effrayé Varia ! Nous voici seuls.</p>
+               <p rend="justify">TROFIMOV. – Varia craint que nous ne tombions amoureux l’un de l’autre et, des journées entières, elle ne nous quitte pas d’une semelle. Elle ne peut concevoir en sa jugeote que nous soyons au-dessus de l’amour. Surpasser tout le mesquin et l’éphémère qui nous enlèvent la liberté est le but de notre vie ; en avant ! Nous marcherons irrésistiblement vers la radieuse étoile qui brille là-bas ; en avant ! ne nous arrêtons pas, camarades !</p>
+               <p rend="justify">ANIA, <hi rend="italic">levant les bras. </hi>– Comme vous parlez bien ! <hi rend="italic">(Un silence.) </hi>Aujourd’hui, il fait extrêmement bon ici.</p>
+               <p rend="justify">TROFIMOV. – Oui, le temps est merveilleux.</p>
+               <p rend="justify">ANIA. – Pierre, qu’avez-vous fait de moi ? Comment se fait-il que je n’aime plus la cerisaie comme jadis ? Je l’aimais tant, me semblait-il ! Je ne croyais pas qu’il y eût sur la terre un endroit plus beau que notre verger.</p>
+               <p rend="justify">TROFIMOV. – Toute la Russie est notre verger. La terre est grande et belle, et il ne manque pas de merveilleux endroits. <hi rend="italic">(Un silence.) </hi>Songez-y, Ania : votre grand-père, votre arrière-grand-père, tous vos ancêtres étaient seigneurs, possesseurs de serfs. Se peut-il que dans chaque branche de ces cerisiers, dans chaque feuille, vous n’aperceviez pas des êtres humains, que vous n’entendiez pas leurs voix ? Oh ! c’est épouvantable. Votre cerisaie est effrayante. Le soir ou la nuit, quand on passe, la vieille écorce des arbres luit vaguement, et il semble que les cerisiers rêvent de ce qui existait il y a cent ou deux cents ans, et que de sombres visions les oppressent. Il n’y a pas à dire, nous avons au moins deux cents ans de retard ; nous n’avons rien encore, pas même une façon définie d’envisager le passé ; nous ne faisons que philosopher, gémir d’ennui ou boire. Il est clair que pour commencer à vivre vraiment, il faut tout d’abord racheter notre passé, en finir avec lui ; et cela ne se peut que par la souffrance, par un labeur inouï, soutenu. Comprenez bien cela, Ania !</p>
+               <p rend="justify">ANIA. – Notre maison n’est déjà plus à nous depuis longtemps, et je la quitterai, je vous le jure.</p>
+               <p rend="justify">TROFIMOV. – Si vous en avez les clés, jetez-les toutes dans le puits et partez ; soyez libre comme l’air.</p>
+               <p rend="justify">ANIA, <hi rend="italic">enthousiasmée. </hi>– Comme vous avez bien dit cela !</p>
+               <p rend="justify">TROFIMOV. – Croyez-moi, Ania, croyez-moi ! Je n’ai pas encore trente ans ; je suis jeune, je suis étudiant ; et pourtant combien j’ai déjà souffert. Dès que vient l’hiver, je suis affamé, inquiet, malade, pauvre comme un gueux. Et où le sort ne m’a-t-il pas déjà porté ? Où n’ai-je pas été ! Pourtant, à toute minute, jour et nuit, de vagues pressentiments remplissent mon âme ; je pressens le bonheur, Ania ; je le vois déjà.</p>
+               <p rend="justify">ANIA, rêveuse. – La lune se lève. <hi rend="italic">(On entend Epikhodov jouer sur sa guitare sa même chanson triste. Lever de lune. Varia cherche Ania du côté des peupliers et elle appelle.) </hi>Ania. Où es-tu ?</p>
+               <p rend="justify">TROFIMOV. – Oui, la lune se lève. <hi rend="italic">(Un silence.) </hi>Ce bonheur, le voilà qui vient ; il approche de plus en plus ; et je l’entends. Si nous ne le voyons pas, si nous ne le connaissons pas, qu’importe ; d’autres le verront !</p>
+               <p rend="justify">VOIX DE VARIA. – Ania, où es-tu ?</p>
+               <p rend="justify">TROFIMOV. – Encore cette Varia ! <hi rend="italic">(Fâché.) </hi>C’est révoltant !</p>
+               <p rend="justify">ANIA. – Que faire ? Allons vers la rivière. On y sera bien.</p>
+               <p rend="justify">TROFIMOV. – Allons-y.</p>
+               <p rend="center">
+                  <hi rend="italic">Ils s’acheminent vers la rivière.</hi>
+               </p>
+               <p rend="justify">VOIX DE VARIA. – Ania ! Ania !</p>
+               <p rend="center">RIDEAU</p>
+            </div>
+            <div type="div2">
+               <head>Acte III<lb/>
+               </head>
+               <p rend="justify">Un salon séparé d’une salle par une arcade. Lustre allumé. Dans le fond joue l’orchestre juif dont il a été question à l’acte II. C’est le soir. Dans la salle, on danse. Fin de quadrille ; grand rond. Voix de Simeonov-Pichtchik : « Promenade par couples ! » Dans le salon entrent par couples : d’abord Pichtchik et Charlotta Ivanovna ; puis Trofimov et M<hi rend="sup">me</hi> Ranievskaïa ; Ania avec l’employé de la poste ; Varia avec le chef de gare ; Varia pleure, et, en dansant, elle s’essuie doucement les yeux. Dernier couple, Douniacha avec un cavalier. Tous les couples traversent le salon. Pichtchik crie : « Grand rond, balancez » ; puis : « Les cavaliers à genoux » et « Remerciez vos dames ! ».</p>
+               <p rend="center">
+                  <hi rend="italic">Firs, en frac, passe un plateau.</hi>
+               </p>
+               <p rend="center">
+                  <hi rend="italic">Pichtchik et Trofimov entrent dans le salon.</hi>
+               </p>
+               <p rend="justify">PICHTCHIK. – Je suis apoplectique, j’ai déjà eu deux attaques, et il m’est difficile de danser. Mais, comme dit l’autre : si tu tombes dans une meute et que tu n’aboies pas, il faut au moins tourner la queue… J’ai une santé de cheval. Mon père qui aimait à plaisanter disait que l’antique race des Simeonov-Pichtchik remonte au cheval que Caligula fit sénateur (Il <hi rend="italic">s’assied.) </hi>Mais voilà mon malheur : pas d’argent ! Un chien affamé ne songe qu’à la viande… <hi rend="italic">(Il s’assoupit une seconde et s’éveille tout aussitôt.) </hi>Je fais de même ; je ne pense qu’à l’argent.</p>
+               <p rend="justify">TROFIMOV. – C’est vrai qu’il y a quelque chose de chevalin en vous.</p>
+               <p rend="justify">PICHTCHIK. – Eh bien ! après ? le cheval est un bel animal… Un cheval, ça peut se vendre…</p>
+               <p rend="center">
+                  <hi rend="italic">On entend jouer au billard dans une pièce voisine. Varia apparaît sous l’arcade.</hi>
+               </p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">taquin. </hi>– M<hi rend="sup">me</hi> Lopakhine…</p>
+               <p rend="justify">VARIA, <hi rend="italic">piquée. </hi>– Le monsieur déplumé…</p>
+               <p rend="justify">TROFIMOV. – Oui, un peu déplumé, et je m’en glorifie !</p>
+               <p rend="justify">VARIA, <hi rend="italic">inquiète, amèrement. </hi>– On a fait venir des musiciens, et avec quoi les paiera-t-on ?</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort.</hi>
+               </p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">à Pichtchik. </hi>– Si vous aviez, dans la vie, appliqué à un but précis l’énergie que vous avez dépensée à chercher de l’argent pour payer des intérêts, je crois que vous auriez pu mettre la terre sens dessus dessous.</p>
+               <p rend="justify">PICHTCHIK. – Nietzsche, le philosophe, ce grand, ce fameux esprit, dit quelque part qu’on a le droit de fabriquer de la fausse monnaie.</p>
+               <p rend="justify">TROFIMOV. – Vous avez lu Nietzsche ?</p>
+               <p rend="justify">PICHTCHIK. – Certes, non !… C’est ma fille qui m’a dit ça… Et, voyez-vous, je suis maintenant au point où il n’y a plus à faire que de la fausse monnaie… Après-demain, j’ai à payer trois cent dix roubles… J’en ai déjà trouvé cent trente. <hi rend="italic">(Il palpe ses poches avec inquiétude.) </hi>L’argent est parti ! J’ai perdu l’argent !… <hi rend="italic">(Pleurant.) </hi>Où est mon argent ? <hi rend="italic">(Joyeux.) </hi>Le voici ! Il avait glissé sous ma doublure… La sueur m’en est montée…</p>
+               <p rend="center">
+                  <hi rend="italic">Entrent M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, fredonnant une lesghienne, et Charlotta Ivanovna.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Pourquoi Léonid n’est-il pas encore là ? Que peut-il faire en ville ? <hi rend="italic">(À Douniacha.) </hi>Douniacha, offrez du thé aux musiciens.</p>
+               <p rend="justify">TROFIMOV. – Il est probable que la vente n’a pas eu lieu.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Ces musiciens sont venus mal à propos et toute notre soirée tombe mal… Bah ! qu’importe ?</p>
+               <p rend="center">
+                  <hi rend="italic">Elle s’assied et se remet à fredonner.</hi>
+               </p>
+               <p rend="justify">CHARLOTTA, <hi rend="italic">elle présente à Pichtchik un jeu de cartes. </hi>– Voici un jeu de cartes ; pensez-en une.</p>
+               <p rend="justify">PICHTCHIK. – C’est fait.</p>
+               <p rend="justify">CHARLOTTA. – Battez le jeu. C’est bien. Donnez-moi ça, cher monsieur Pichtchik. Une ! Deux ! Trois<hi rend="sup bold">
+                     <note xml:id="ftn7" place="foot" n="7"> Charlotta dit ces mots en allemand : <hi rend="italic">Ein, zwei, drei ! </hi>(N. d. T.)</note>
+                  </hi> ! Maintenant cherchez ; la carte est dans votre poche.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">sortant la carte de sa poche. </hi>– Huit de pique, c’est parfaitement exact. <hi rend="italic">(Étonné.) </hi>Voyez-moi ça !</p>
+               <p rend="justify">CHARLOTTA, <hi rend="italic">la main tendue, présente le jeu de cartes à Trofimov. </hi>– Dites-moi vite la carte qui est là, dessus ?</p>
+               <p rend="justify">TROFIMOV. – La dame de pique.</p>
+               <p rend="justify">CHARLOTTA. – C’est elle ? (À <hi rend="italic">Pichtchik.) </hi>Eh bien, quelle est la carte qui est en haut ?</p>
+               <p rend="justify">PICHTCHIK. – L’as de cœur…</p>
+               <p rend="justify">CHARLOTTA. – Bon !… <hi rend="italic">(Elle frappe dans sa main ; le jeu de cartes disparaît.)</hi>
+               </p>
+               <p rend="justify">Quel beau temps il fait aujourd’hui !</p>
+               <p rend="justify">
+                  <hi rend="italic">(Une voix de femme lui répond, comme de dessous le plancher :) </hi>« Oh ! oui, le temps est magnifique, mademoiselle. » Vous êtes mon bel idéal. <hi rend="italic">(La voix.)</hi> « Vous me plûtes aussi beaucoup, mademoiselle ! »</p>
+               <p rend="justify">LE CHEF DE GARE, <hi rend="italic">applaudissant. </hi>– Bravo, madame la ventriloque !</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">étonné. </hi>– Voyez-moi ça !… Séduisante Charlotta Ivanovna, je suis tout à fait amoureux de vous.</p>
+               <p rend="justify">CHARLOTTA. – Amoureux ? <hi rend="italic">(Haussant les épaules.) </hi>Est-ce que vous pouvez aimer ? <hi rend="italic">Guter Mensch, aber schlechter Musikant.</hi>
+               </p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">tapant sur l’épaule de Pichtchik. </hi>– Ah ! vieux cheval que vous êtes…</p>
+               <p rend="justify">CHARLOTTA. – Attention, encore un tour. <hi rend="italic">(Elle prend un plaid sur une chaise.) </hi>Un beau plaid à vendre. <hi rend="italic">(Elle le secoue.) </hi>Personne ne veut l’acheter ?</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">étonné. </hi>– Voyez-moi ça !</p>
+               <p rend="justify">CHARLOTTA. – Ein, zwei, drei !</p>
+               <p rend="center">
+                  <hi rend="italic">Elle lève vivement le plaid ; Ania était derrière. Ania fait une révérence, court vers sa mère, l’embrasse et s’en retourne dans la salle, à l’admiration de tout le monde.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">applaudissant. </hi>– Bravo, bravo !</p>
+               <p rend="justify">CHARLOTTA. – Essayons une seconde fois ! <hi rend="italic">Ein ! zwei ! drei !</hi>
+               </p>
+               <p rend="center italic">Elle lève le plaid ; Varia est derrière ; elle salue.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">étonné. </hi>– Voyez-moi ça !</p>
+               <p rend="justify">CHARLOTTA. – C’est fini.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle jette le plaid sur Pichtchik, fait une révérence et s’enfuit dans la salle.</hi>
+               </p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">se précipitant derrière elle. </hi>– La futée ! Ce qu’elle est adroite !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Léonid n’arrive toujours pas ; que peut-il faire si longtemps en ville ? Je ne comprends pas. Tout doit être fini. La terre est vendue, ou la vente n’a pas eu lieu. Pourquoi laisser si longtemps les gens dans l’incertitude !</p>
+               <p rend="justify">VARIA, <hi rend="italic">cherchant à la tranquilliser. </hi>– Je suis sûre que mon oncle a racheté le bien.</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">ironiquement. </hi>– Parbleu, oui !</p>
+               <p rend="justify">VARIA. – La grand-tante lui aura envoyé une procuration pour acheter en son nom et se substituer à vos créanciers. Elle aura fait cela pour Ania. Je suis sûre que Dieu aura aidé mon oncle à réussir.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Notre tante n’a envoyé que quinze mille roubles pour acheter le bien en son nom à elle ; elle n’a pas confiance en nous. Mais cet argent ne suffit même pas à payer les intérêts. <hi rend="italic">(Elle se couvre le visage de ses mains.) </hi>Aujourd’hui mon sort se décide…</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">taquinant Varia. </hi>– Madame Lopakhine.</p>
+               <p rend="justify">VARIA, <hi rend="italic">fâchée. </hi>– Éternel étudiant ! Vous avez été déjà chassé deux fois de l’Université.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Pourquoi te fâcher, Varia ? Il t’appelle M<hi rend="sup">me</hi> Lopakhine ; au fait, pourquoi ne pas épouser Lopakhine ? Veux-tu ? C’est un brave homme, un homme intéressant… Mais si tu ne le veux pas, ne l’épouse pas ; personne ne t’y force, chérie…</p>
+               <p rend="justify">VARIA. – Mère, je l’avoue, j’y ai pensé sérieusement. Lopakhine est un brave homme. Il me plaît.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Alors épouse-le ; pourquoi attendre !</p>
+               <p rend="justify">VARIA. – Mère, je ne peux pourtant pas le demander moi-même. Il y a déjà deux ans que tout le monde me parle de lui, et lui se tait ou plaisante. Je le comprends, il devient riche, il a des affaires, il n’a pas le temps de penser à moi. Si j’avais tant soit peu d’argent, ne fût-ce que cent roubles, je laisserais tout et je partirais très loin ; j’entrerais au couvent.</p>
+               <p rend="justify">TROFIMOV. – Splendeurs divines !</p>
+               <p rend="justify">VARIA, <hi rend="italic">à Trofimov. </hi>– Un étudiant devrait être intelligent !… <hi rend="italic">(D’une voix douce, avec des larmes.) </hi>Comme vous êtes devenu laid, Pierre ! comme vous avez vieilli. <hi rend="italic">(</hi>
+                  <hi rend="italic">À</hi> 
+                  <hi rend="italic">M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, et déjà ne pleurant plus.) </hi>Mais voilà, mère, je ne puis rester sans rien faire ; il faut toujours que je m’occupe à quelque chose.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Iacha, se retenant à peine de rire.</hi>
+               </p>
+               <p rend="justify">IACHA. – Epikhodov a brisé une queue de billard !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">VARIA, <hi rend="italic">sévèrement. </hi>– Pourquoi Epikhodov est-il ici ? Qui lui a permis de jouer au billard ? Je ne comprends pas ces gens-là !…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Ne la taquinez pas, Pierre ; vous le voyez, elle a assez de chagrin.</p>
+               <p rend="justify">TROFIMOV. – Elle a trop de zèle ; elle se mêle de ce qui ne la regarde pas. Tout cet été, elle n’a donné une minute de repos ni à Ania, ni à moi ; elle craint toujours qu’il n’y ait un roman entre nous. Est-ce que cela la regarde ? Est-ce que j’y ai donné le moindre prétexte, tant je suis loin des banalités ! Nous sommes au-dessus de l’amour.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Et moi, voyez-vous, il faut que je sois au-dessous !… <hi rend="italic">(Fort inquiète.) </hi>Pourquoi Léonid ne revient-il pas ? Je voudrais savoir si, oui ou non, la propriété a été vendue. Ce malheur me semble si impossible que je ne sais que penser ; je m’y perds !… Je suis capable de me mettre à crier, capable de faire une stupidité. Sauvez-moi, Pierre ; dites-moi quelque chose ; dites !</p>
+               <p rend="justify">TROFIMOV. – Que votre bien soit vendu aujourd’hui ou qu’il ne le soit pas, n’est-ce pas chose indifférente ? Tout en est fini en ce qui le concerne, depuis longtemps ; il n’y a pas à y revenir. Apaisez-vous, chère madame. Il ne faut pas se tromper soi-même : il faut, au moins une fois en sa vie, regarder la vérité en face.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Quelle vérité ? Vous voyez où est la vérité et où est l’erreur ?… moi, j’ai comme perdu la vue ; je n’y vois rien… Vous tranchez hardiment toutes les questions ; mais, dites-moi, mon cher, n’est-ce pas parce que vous êtes jeune et que vous n’avez pas eu le temps encore de vivre aucune de ces questions-là ? Vous regardez hardiment en avant ; n’est-ce pas parce que vous ne voyez et ne prévoyez rien de terrible, en raison de ce que la vie est encore cachée à vos jeunes prunelles ! Vous êtes plus hardi, plus honnête et plus profond, que nous ; mais, réfléchissez ; soyez un tout petit peu indulgent ; épargnez-moi. Voyez : je suis née ici ; ici, ont vécu mes parents, mon grand-père. J’aime cette maison. Je ne conçois pas la vie sans la cerisaie, et, s’il faut la vendre, qu’on me vende avec elle… <hi rend="italic">(Elle attire Trofimov à elle et le baise au front)… </hi>c’est ici que mon fils s’est noyé… <hi rend="italic">(Elle pleure.) </hi>Ayez pitié de moi, vous qui êtes bon !</p>
+               <p rend="justify">TROFIMOV. – Vous le savez, je vous plains de toute mon âme.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – On dit Cela autrement ! <hi rend="italic">(Elle tire son mouchoir ; un télégramme tombe.) </hi>J’ai aujourd’hui un poids sur le cœur, vous ne pouvez vous en faire une idée. Il y a trop de bruit ici, mon âme tressaille à chaque son, je tremble toute. Et je ne peux pas me retirer chez moi. Seule, j’ai peur. Ne me condamnez pas, Pierre ! Je vous aime comme quelqu’un de très proche. Je vous donnerais volontiers Ania en mariage, je le jure ; mais, mon cher, il faut travailler, il faut finir vos cours. Vous ne faites rien ; vous laissez le sort vous ballotter de tous côtés ; c’est étrange… N’est-ce pas ?… Et aussi vous devriez faire quelque chose à votre barbe pour qu’elle pousse un peu… <hi rend="italic">(Elle rit.) </hi>Vous êtes si drôle !</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">ramassant le télégramme. </hi>– Je ne demande pas à être beau.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – C’est un télégramme de Paris. J’en reçois chaque jour ; un hier, un aujourd’hui. Ce mauvais homme est encore tombé malade ; il va mal. Il me demande pardon ; il me supplie de revenir ; et, en vérité, il faudrait retourner à Paris, être auprès de lui… Vous faites une figure sévère, Pierre ; mais qu’y puis-je ? Que faire ? Il est malade, seul, malheureux ; qui peut le soigner, le surveiller, l’empêcher de faire des imprudences, lui donner à temps ses remèdes ?… Et pourquoi le cacher ou le taire : je l’aime ; c’est clair… Je l’aime ; je l’aime… C’est une pierre à mon cou et je coule avec elle ; mais j’aime cette pierre ; je ne puis vivre sans elle. <hi rend="italic">(Elle serre la main de Trofimov.) </hi>Ne pensez rien de mal de moi, Pierre ; ne me dites rien, rien…</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">ému. </hi>– Au nom de Dieu, pardonnez ma franchise, mais… il vous a tant volée !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Non, non, il ne faut pas dire cela !</p>
+               <p rend="center">
+                  <hi rend="italic">Elle se bouche les oreilles.</hi>
+               </p>
+               <p rend="justify">TROFIMOV. – Mais c’est un vaurien ; vous êtes seule à ne pas le savoir ! C’est un bas vaurien ; un rien du tout.</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">fâchée, mais se retenant. </hi>– Vous avez beau avoir vingt-six ou vingt-sept ans, Pierre, vous n’êtes toujours qu’un gamin de quatrième.</p>
+               <p rend="justify">TROFIMOV. – Soit !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Il faut être un homme à l’âge que vous avez, Pierre ; il faut comprendre ceux qui aiment. Et il faut aimer soi-même ! Il faut être amoureux ! <hi rend="italic">(Fâchée) </hi>Oui, oui, vous n’avez pas la pureté de l’âme ; vous n’êtes qu’un purillon, un original ridicule, un phénomène.</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">effrayé. </hi>– Que dit-elle ?</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Vous prétendez que vous êtes au-dessus de l’amour !… Vous n’êtes pas au-dessus de l’amour ! Mais, comme dit notre Firs, vous n’êtes qu’un… empoté… À votre âge, n’avoir pas de maîtresse !</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">effaré. </hi>– C’est affreux ce qu’elle dit là ! <hi rend="italic">(Il</hi> 
+                  <hi rend="italic">marche vite à travers la scène, se prend la tête dans les mains.) </hi>C’est affreux… Je ne peux pas rester ici, je pars… <hi rend="italic">(Il sort, mais il rentre tout aussitôt.) </hi>Entre nous, tout est fini !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">l’appelant. </hi>– Pierre, attendez ! Vous êtes drôle, Pierre ! J’ai plaisanté !… Pierre !</p>
+               <p rend="center">
+                  <hi rend="italic">On entend dans l’antichambre quelqu’un courir vite dans l’escalier et tout à coup tomber bruyamment. Ania et Varia poussent des cris, mais tout de suite on entend rire.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Qu’est-ce qu’il y a ?</p>
+               <p rend="center">
+                  <hi rend="italic">Ania entre en courant.</hi>
+               </p>
+               <p rend="justify">ANIA, <hi rend="italic">riant. </hi>– Pierre a dégringolé l’escalier.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort en courant.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Comme il est drôle, ce Pierre !</p>
+               <p rend="center">
+                  <hi rend="italic">Le chef de gare s’arrête au milieu de la salle et déclame </hi>La Pécheresse<hi rend="italic">d’Alekseï Tolstoï. On l’écoute, mais il a à peine dit quelques vers qu’une valse l’interrompt. Tous dansent. Entrent dans le salon Trofimov, Ania, Varia et M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Allons, Pierre, allons, âme pure, je vous demande pardon… Venez danser…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle danse avec Pierre. Ania et Varia dansent ensemble. Firs entre, pose sa canne près d’une porte latérale, Iacha entre lui aussi au salon, regarde les danses.</hi>
+               </p>
+               <p rend="justify">IACHA. – Eh bien, l’ancien ?</p>
+               <p rend="justify">FIRS. – Ça ne va pas… Dans le temps, à nos bals, il venait des généraux, des barons, des amiraux, et maintenant nous envoyons chercher l’employé de la poste et le chef de gare. Et ceux-là même viennent sans plaisir… Ah ! je suis devenu vieux. Feu mon maître, le grand-père, faisait prendre à tout le monde, quand on était malade, de la cire à cacheter ; j’en prends chaque jour depuis vingt ans, si ce n’est plus ; c’est peut-être pour cela que je ne suis pas encore mort.</p>
+               <p rend="justify">IACHA. – Tu nous ennuies, l’ancien. <hi rend="italic">(Il bâille.) </hi>Puisses-tu crever !</p>
+               <p rend="justify">FIRS. – Ah ! espèce d’empoté !…</p>
+               <p rend="center">
+                  <hi rend="italic">Il marmonne. Trofimov et M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa dansent d’abord dans la salle, puis dans le salon.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Merci ; je m’assieds. <hi rend="italic">(Elle le fait.) </hi>Je suis lasse.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Ania.</hi>
+               </p>
+               <p rend="justify">ANIA, <hi rend="italic">agitée. </hi>– Quelqu’un vient de dire à l’instant, dans la cuisine, que la cerisaie a été vendue aujourd’hui.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – À qui ?</p>
+               <p rend="justify">ANIA. – L’homme est parti sans le dire.</p>
+               <p rend="center">
+                  <hi rend="italic">Trofimov l’invite à danser ; elle part avec lui.</hi>
+               </p>
+               <p rend="justify">IACHA. – C’est un vieux qui a dit ça en passant.</p>
+               <p rend="justify">FIRS. – Et Léonid Andréïevitch qui n’est pas encore rentré ! Il a un pardessus de demi-saison ; il va s’enrhumer. Ah ! c’est jeune, sans expérience !…</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">inquiète. </hi>– Je meurs d’angoisse… Iacha, allez savoir à qui la cerisaie est vendue !</p>
+               <p rend="justify">IACHA. – Mais il y a longtemps que le vieux est parti.</p>
+               <p rend="center">
+                  <hi rend="italic">Il rit.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">avec un léger ennui. </hi>– Pourquoi riez-vous ? De quoi êtes-vous content ?</p>
+               <p rend="justify">IACHA. – Cet Epikhodov est très drôle ! L’imbécile ! Vingt-Deux-Malheurs.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Firs, si la cerisaie est vendue, où iras-tu ?</p>
+               <p rend="justify">FIRS. – J’irai où vous m’ordonnerez d’aller.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Pourquoi as-tu une figure pareille ? Tu ne te sens pas bien ? Tu devrais aller te coucher…</p>
+               <p rend="justify">FIRS, <hi rend="italic">il sourit. </hi>– Aller me coucher ! Et sans moi, qui servira ici ? Qui pensera à tout ? Je suis seul pour tout faire.</p>
+               <p rend="justify">IACHA, <hi rend="italic">à M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa. </hi>– Madame, je vous en prie, permettez-moi de vous demander une chose : si vous retournez à Paris, faites-moi la grâce de me prendre avec vous ; je ne puis positivement pas rester ici. <hi rend="italic">(Il regarde autour de lui ; puis, à mi-voix.) </hi>Il n’y a pas à dire, vous le voyez vous-même : le pays est sauvage, les gens sont dépravés, et avec ça, quel ennui ! À la cuisine, on nous nourrit très mal. Et ce Firs rôde sans cesse et vous dit des paroles malsonnantes. Emmenez-moi avec vous ; ayez cette bonté, madame !</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Pichtchik.</hi>
+               </p>
+               <p rend="justify">PICHTCHIK. – Permettez-moi de vous demander une petite valse, ma très belle. <hi rend="italic">(M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa accepte.) </hi>Ensorceleuse, je vous emprunterai tout de même cent quatre-vingts roubles. <hi rend="italic">(Il danse.) </hi>Il faut que je vous les emprunte. Cent quatre-vingts roubles !</p>
+               <p rend="justify">IACHA, fredonnant. –</p>
+               <p rend="center">Comprendras-tu les tourments de mon âme<hi rend="sup bold">
+                     <note xml:id="ftn8" place="foot" n="8"> Romance de N. Rjevskaïa (1869).</note>
+                  </hi> ?</p>
+               <p rend="justify">
+                  <hi rend="italic">Au fond du salon, sautille et gesticule un être à chapeau haut de forme gris, pantalon à carreaux. On entend crier : </hi>« Bravo, Charlotta Ivanovna ! »</p>
+               <p rend="justify">DOUNIACHA, <hi rend="italic">s’arrêtant pour se poudrer. </hi>– Mademoiselle m’ordonne de danser ; on manque de dames ; mais la danse me donne le vertige et me fait battre le cœur, Firs Nikolaïtch. Et l’employé des postes vient de me dire une chose qui m’a coupé la respiration.</p>
+               <p rend="center">
+                  <hi rend="italic">La musique cesse.</hi>
+               </p>
+               <p rend="justify">FIRS. – Qu’est-ce qu’il t’a dit ?</p>
+               <p rend="justify">DOUNIACHA. – Il m’a dit : vous êtes comme une fleur.</p>
+               <p rend="justify">IACHA, <hi rend="italic">bâillant. </hi>– Quel pays sauvage !…</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA. – Comme une fleur !… Je suis une jeune fille si délicate. J’adore les mots tendres…</p>
+               <p rend="justify">FIRS. – Tu te perdras.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Epikhodov.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – Vous ne souhaitez pas plus me voir, Avdotia Fiodorovna, que je ne sais quel insecte… <hi rend="italic">(Il soupire.) </hi>Ah ! la vie !</p>
+               <p rend="justify">DOUNIACHA. – Que désirez-vous ?</p>
+               <p rend="justify">EPIKHODOV. – Assurément, peut-être avez-vous raison. <hi rend="italic">(Il soupire.) </hi>Mais enfin, à regarder de ce point de vue, excusez ma franchise, si je puis m’exprimer ainsi ; vous m’avez absolument mené à cet état d’esprit. Je connais mon guignon. Chaque jour il m’arrive quelque malheur, et j’y suis si habitué que je regarde la chose en souriant. Vous m’avez donné votre parole, et bien que je…</p>
+               <p rend="justify">DOUNIACHA. – Je vous en prie ; nous reparlerons de cela plus tard ; pour l’instant, laissez-moi en repos : je rêve.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle joue de son éventail.</hi>
+               </p>
+               <p rend="justify">EPIKHODOV. – Il m’arrive chaque jour un malheur et, je me permets de m’exprimer ainsi : je ne fais qu’en sourire ; même, j’en ris.</p>
+               <p rend="justify">VARIA, <hi rend="italic">venant de la salle. </hi>– Tu n’es pas encore parti, Semion ! Vraiment quel homme de rien tu fais ! <hi rend="italic">(À Douniacha.) </hi>Sors d’ici, Douniacha. <hi rend="italic">(À Epikhodov.) </hi>Tantôt tu joues du billard et brises une queue, tantôt tu te promènes au salon comme un invité…</p>
+               <p rend="justify">EPIKHODOV. – Vous n’avez pas de comptes à me demander, permettez-moi de vous le dire.</p>
+               <p rend="justify">VARIA. – Je ne te demande pas de comptes, je te parle. Tu ne fais qu’aller de place en place, et tu ne t’occupes de rien ; nous payons un comptable, on ne sait pourquoi.</p>
+               <p rend="justify">EPIKHODOV, <hi rend="italic">blessé. </hi>– Que je turbine, que je me promène, que je mange, ou que je joue au billard, seuls les gens qui y entendent quelque chose et les patrons peuvent en discuter.</p>
+               <p rend="justify">VARIA. – Tu oses me dire ça ? <hi rend="italic">(Se montant.) </hi>Tu l’oses ! C’est donc que je n’y entends rien !… Sors d’ici et plus vite que ça !</p>
+               <p rend="justify">EPIKHODOV, <hi rend="italic">prenant peur. </hi>– Je vous prie de vous exprimer de façon choisie…</p>
+               <p rend="justify">VARIA, <hi rend="italic">hors d’elle.</hi> – Sors d’ici à l’instant ! <hi rend="italic">(Epikhodov va vers la porte ; elle le suit.) </hi>Vingt-Deux-Malheurs ! Qu’il ne reste pas trace de toi ici ! Que mes yeux ne te voient plus ! <hi rend="italic">(Epikhodov sort, et derrière la porte on l’entend dire :) </hi>« Je me plaindrai de vous. » Ah ! tu reviens ! <hi rend="italic">(Elle prend la canne que Firs a posée près de la porte.) </hi>Va-t’en, va-t’en, ou je vais te faire voir !… Et tu reviens ? Alors attrape !</p>
+               <p rend="center">
+                  <hi rend="italic">Elle brandit la canne et, à ce moment même, entre Lopakhine.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Tous mes remerciements.</p>
+               <p rend="justify">VARIA, <hi rend="italic">fâchée et rieuse</hi>. – Pardon !</p>
+               <p rend="justify">LOPAKHINE. – Ça ne fait rien ; merci pour votre aimable accueil.</p>
+               <p rend="justify">VARIA. – Il n’y a pas de quoi. <hi rend="italic">(Elle s’éloigne un peu de lui, puis, ayant regardé autour d’elle, elle lui demande avec douceur :) </hi>Je ne vous ai pas fait mal ?</p>
+               <p rend="justify">LOPAKHINE. – Non, rien du tout. Ça ne fera qu’une grosse bosse.</p>
+               <p rend="justify">UNE VOIX DANS LA SALLE. – Lopakhine est arrivé ! Ermolaï Alekséïevitch !</p>
+               <p rend="justify">PICHTCHIK. – On le voit, on l’entend ! <hi rend="italic">(Pichtchik et Lopakhine s’embrassent.) </hi>Tu sens un peu le cognac, mon vieil ami. Et nous aussi, nous faisons la fête ici.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – C’est vous, Ermolaï Alekséïevitch ? Pourquoi revenez-vous si tard ? Où est Léonid ?</p>
+               <p rend="justify">LOPAKHINE. – Léonid Andréïevitch est rentré avec moi ; il vient.</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">s’agitant. </hi>– Eh bien ? La vente a-t-elle eu lieu ? Mais parlez donc ?</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">intimidé, craignant de laisser paraître sa joie. </hi>– La vente a été finie à quatre heures ; mais nous avons manqué le train ; il a fallu attendre celui de neuf heures et demie. <hi rend="italic">(Il soupire profondément.) </hi>Ouf ! La tête me tourne…</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Gaïev. Il tient des paquets de la main droite et, de la gauche, il s’essuie les yeux.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Quoi, Léonid ? Eh bien, Léonid ! <hi rend="italic">(Impatientée, pleurant presque.) </hi>Voyons, au nom du Ciel, parle…</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">il ne répond rien et ne fait qu’un geste évasif. À Firs, les larmes aux yeux</hi>. – Tiens, prends… Il y a ici des anchois, des harengs de Kertch… De la journée, je n’ai rien mangé. J’ai tant souffert ! <hi rend="italic">(La porte du billard est ouverte, on entend un bruit de billes et la voix de Iacha : </hi>« Sept à dix-huit ! »<hi rend="italic">L’expression de Gaïev change tout à fait ; ses larmes sèchent.) </hi>Je suis extrêmement fatigué… Firs, viens m’aider à changer de vêtement.</p>
+               <p rend="center">
+                  <hi rend="italic">Il traverse le fond de la scène pour aller chez lui ; Firs le suit.</hi>
+               </p>
+               <p rend="justify">PICHTCHIK. – Comment la vente s’est-elle passée ? Dis-le donc !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – La cerisaie est-elle vendue ?</p>
+               <p rend="justify">LOPAKHINE. – Elle l’est.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Qui l’a achetée ?</p>
+               <p rend="justify">LOPAKHINE. – C’est moi qui l’ai achetée.</p>
+               <p rend="center">
+                  <hi rend="italic">Silence. M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa est anéantie. Elle tomberait si elle ne s’appuyait contre une table et un fauteuil. Varia détache de sa ceinture son trousseau de clés, le jette au milieu du salon, et sort.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – C’est moi qui l’ai achetée ! Attendez, messieurs, je vous en prie, tout se brouille dans ma tête ; je ne puis parler. <hi rend="italic">(Il rit.) </hi>Nous arrivons à la vente et y trouvons Dériganov. Léonid Andréïevitch n’avait que quinze mille roubles pour racheter, et Dériganov commence par mettre trente mille roubles, toutes dettes payées… Je vois l’affaire, je m’accroche à lui ; je dis quarante mille roubles. Il dit quarante-cinq mille. Moi, cinquante-cinq. Il n’enchérissait donc que par cinq et moi par dix… Enfin, ça a fini ; j’ai poussé jusqu’à quatre-vingt-dix mille, et le bien m’est resté. La cerisaie est maintenant à moi ! À moi ! <hi rend="italic">(Il</hi> 
+                  <hi rend="italic">rit.) </hi>Mon Dieu, Seigneur, la cerisaie est à moi ! Dites-moi donc que je suis ivre, que je suis fou, que tout cela n’est qu’une illusion… <hi rend="italic">(Il saute sur place.) </hi>Ne vous moquez pas de moi ! Si mon père et mon grand-père pouvaient sortir de leur tombe et voir comment leur Ermolaï, que l’on fouettait, qui savait à peine lire, qui, l’hiver, courait pieds nus, comment leur Ermolaï a acheté le plus beau bien qui soit sur la terre !… J’ai acheté le domaine où mon père et mon grand-père étaient serfs et où on ne les laissait pas même entrer à la cuisine. Je rêve ; cela ne fait que me paraître ainsi ; c’est une erreur… <hi rend="italic">(Il ramasse les clés et sourit doucement.) </hi>Elle a jeté les clés pour montrer qu’elle n’est plus la maîtresse ici… <hi rend="italic">(Il les fait tinter.) </hi>Bon ! ça ne fait rien. <hi rend="italic">(On entend l’orchestre qui accorde les instruments.) </hi>Eh ! les musiciens, jouez ! Je désire vous entendre ! Vous viendrez tous voir comme Ermolaï Lopakhine met la hache dans la cerisaie, comme les arbres tombent par terre. Nous bâtirons des maisons de campagne et nos petits-fils et arrière-petit-fils verront ici une vie nouvelle !… Musique, joue !</p>
+               <p rend="center">
+                  <hi rend="italic">L’orchestre joue. M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, effondrée sur une chaise, pleure amèrement.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">d’un ton de reproche. </hi>– Pourquoi aussi, pourquoi ne m’avez-vous pas écouté ! Ma pauvre, ma chère, il n’y a plus à y revenir ! <hi rend="italic">(Les larmes aux yeux.) </hi>Ah ! si cela était déjà du passé ! Si notre vie, si désordonnée, si malheureuse, pouvait un peu changer…</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">prenant Lopakhine sous le bras, à mi-voix. </hi>– Elle pleure. Passons dans la salle. Il faut la laisser seule… Venez…</p>
+               <p rend="center">
+                  <hi rend="italic">Il l’emmène.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Eh bien, quoi ? Musique, joue plus fort ! Fais tout ce que je désire. <hi rend="italic">(Ironique.) </hi>C’est le nouveau propriétaire de la cerisaie qui passe. <hi rend="italic">(Il heurte sans y donner garde contre un guéridon, renverse presque un candélabre.) </hi>Je paierai tout cela.</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort avec Pichtchik. Il n’y a plus personne dans le salon et dans la salle, sauf M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, toujours assise, ramassée sur elle-même, qui pleure. L’orchestre joue en sourdine. Ania et Trofimov entrent vite. Ania s’approche de sa mère et se met à genoux auprès d’elle. Trofimov reste au fond de la salle.</hi>
+               </p>
+               <p rend="justify">ANIA. – Maman !… Maman, tu pleures ! Ma chère, ma bonne mère, ma jolie maman, je t’aime… je te bénis. La cerisaie est vendue, c’est vrai, mais ne pleure pas, maman, tu as de la vie devant toi. Il te reste ta belle âme, ton âme pure !… Viens avec moi, maman, viens. Nous planterons une nouvelle cerisaie, plus belle que celle-ci, tu verras. Et une joie tranquille, profonde, s’étendra sur toi, comme le soleil, le soir. Et tu souriras, maman. Viens, maman, viens !…</p>
+               <p rend="center">RIDEAU</p>
+            </div>
+            <div type="div2">
+               <head>Acte IV<lb/>
+               </head>
+               <p rend="justify">Décor du premier acte. Plus de rideaux aux fenêtres, plus de tableaux. Il reste quelques meubles rassemblés dans un coin, comme destinés à être vendus. Impression de vide. Près de la porte, et au fond de la scène, sont empilés des malles, des valises, des paquets, etc. À gauche, la porte est ouverte et on entend les voix de Varia et d’Ania. Lopakhine attend, debout, Iacha tient un plateau avec des verres à bordeaux emplis de champagne. Dans l’antichambre, Epikhodov corde une malle. Bourdonnement confus au fond de la scène. Ce sont des moujiks venus dire adieu à leurs anciens maîtres. Voix de Gaïev : « Merci, mes amis, merci à vous. »</p>
+               <p rend="justify">IACHA. – Le populo est venu vous faire ses adieux. Voici mon avis, Ermolaï Alekséïevitch, le peuple est bon, mais il ne comprend pas grand-chose.</p>
+               <p rend="center">
+                  <hi rend="italic">Le bruit s’apaise. M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa et Gaïev traversent l’antichambre. M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa ne pleure pas, mais elle est pâle ; son visage se convulse ; elle ne peut parler.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – Tu leur as donné ta bourse, Liouba ! On ne peut pas agir ainsi !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Je n’ai pas pu faire autrement !…</p>
+               <p rend="center">
+                  <hi rend="italic">Tous deux sortent.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">les rappelant. </hi>– Je vous en prie : venez prendre un verre de champagne avant de partir. Je n’ai pas songé à en apporter de la ville et, au buffet de la gare, il n’en restait qu’une bouteille. <hi rend="italic">(Un silence.) </hi>Eh quoi, vous n’en voulez pas ? <hi rend="italic">(Il s’éloigne de la porte.) </hi>Si j’avais su, je n’en aurais pas acheté. Alors, je n’en prendrai pas non plus. <hi rend="italic">(Iacha dépose avec précaution le plateau sur une chaise.) </hi>Bois-en, au moins, toi.</p>
+               <p rend="justify">IACHA, <hi rend="italic">levant son verre. </hi>– Aux partants ! Vous, soyez heureux ici ! <hi rend="italic">(Il boit.) </hi>Ce champagne n’est pas authentique, je vous en donne mon billet.</p>
+               <p rend="justify">LOPAKHINE. – Il coûte huit roubles ! <hi rend="italic">(Silence.) </hi>Il fait un froid de diable, ici !</p>
+               <p>IACHA. – Nous n’avons pas chauffé aujourd’hui, puisque nous partons.</p>
+               <p rend="center">
+                  <hi rend="italic">Il rit.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Qu’as-tu à rire ?</p>
+               <p rend="justify">IACHA. – C’est de plaisir.</p>
+               <p rend="justify">LOPAKHINE. – Nous sommes en octobre et il y a du soleil comme en été. Un beau temps pour construire. <hi rend="italic">(Il regarde la pendule.) </hi>Eh ! messieurs, n’oubliez pas que le train part dans quarante-sept minutes ! Il faut donc vous rendre à la gare dans vingt minutes. Pressez-vous un peu.</p>
+               <p rend="justify">TROFIMOV <hi rend="italic">entre, ayant déjà son pardessus. </hi>– Je crois qu’il va être temps de partir. Les chevaux sont prêts. Le diable sait où sont mes caoutchoucs ! <hi rend="italic">(Depuis le seuil.) </hi>Ania, je n’ai pas trouvé mes caoutchoucs !</p>
+               <p rend="justify">LOPAKHINE. – J’ai besoin d’aller à Kharkov, je vais prendre le même train que vous. Je passerai l’hiver à Kharkov. Ici, j’ai flâné avec vous, je me suis fatigué à ne rien faire ; je ne sais déjà plus me servir de mes bras ; ils pendent comme s’ils n’étaient pas à moi.</p>
+               <p rend="justify">TROFIMOV. – Nous partons à l’instant et vous vous remettrez vite à votre utile besogne.</p>
+               <p rend="justify">LOPAKHINE. – Bois un petit verre de champagne.</p>
+               <p rend="justify">TROFIMOV. – Je n’en boirai pas.</p>
+               <p rend="justify">LOPAKHINE. – Alors c’est à Moscou que tu vas ?</p>
+               <p rend="justify">TROFIMOV. – Oui, je les accompagne jusqu’à la ville, et demain je pars pour Moscou.</p>
+               <p rend="justify">LOPAKHINE. – Je parie que les professeurs avaient interrompu leurs cours ; ils t’attendaient.</p>
+               <p rend="justify">TROFIMOV. – C’est ce qui ne te regarde pas.</p>
+               <p rend="justify">LOPAKHINE. – Depuis combien d’années es-tu à l’Université ?</p>
+               <p rend="justify">TROFIMOV. – Si tu trouvais quelque chose de plus neuf ! c’est usé.</p>
+               <p rend="justify">
+                  <hi rend="italic">(Il cherche ses caoutchoucs.) </hi>Sais-tu, Lopakhine, nous ne nous reverrons sans doute plus ; permets-moi de te donner un conseil en partant : gesticule moins ; perds cette habitude. Et, écoute aussi : construire des villas, compter que ceux qui te les loueront deviendront à leur tour propriétaires-cultivant, cela encore est un grand geste… Malgré tout, je t’aime. Tu as les doigts fins, délicats, comme un artiste ; ton âme aussi est fine et délicate…</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">l’embrassant. </hi>– Adieu, mon cher. Merci pour tout ce que tu me dis. Si tu as besoin d’argent pour le voyage, demandes-en.</p>
+               <p rend="justify">TROFIMOV. – Qu’en ferais-je ? Je n’ai pas besoin d’argent.</p>
+               <p rend="justify">LOPAKHINE. – Mais vous n’en avez pas !</p>
+               <p rend="justify">TROFIMOV. – Nous en avons. Je vous remercie. J’ai touché l’argent de ma traduction ; il est là dans ma poche. <hi rend="italic">(Inquiet) </hi>Mais je n’ai pas mes caoutchoucs !</p>
+               <p rend="justify">VARIA, <hi rend="italic">de la chambre voisine. </hi>– Tenez, vos saletés !</p>
+               <p rend="center">
+                  <hi rend="italic">Elle lance dans la pièce une paire de caoutchoucs.</hi>
+               </p>
+               <p rend="justify">TROFIMOV. – Pourquoi vous fâchez-vous, Varia ?… Mais ce ne sont pas là mes caoutchoucs !</p>
+               <p rend="justify">LOPAKHINE. – Au printemps, j’ai semé mille arpents en pavots et l’opération m’a rapporté quarante mille roubles, net… Et quand mes pavots étaient en fleur, quel tableau !… Aussi, si je t’offre de te prêter quelque chose, c’est que je le puis. Pourquoi le faire à la fierté ? Je suis un moujik ; je t’offre ça de bon cœur.</p>
+               <p rend="justify">TROFIMOV. – Ton père était moujik, le mien était pharmacien, la question n’est pas là. <hi rend="italic">(Lopakhine a tiré son portefeuille.) </hi>Non, non ; quand bien même tu me donnerais deux cent mille roubles, je ne les prendrais pas ; je suis un homme libre. Tout ce que vous prisez si fort et si haut, riches et pauvres, n’a pas le moindre pouvoir sur moi, non plus qu’un duvet qui vole dans l’air. Je puis me passer de vous ; je puis passer devant vous ; je suis fort et fier. L’humanité marche vers la haute vérité, vers le plus haut bonheur qui soit, et je suis aux premiers rangs.</p>
+               <p rend="justify">LOPAKHINE. – Atteindras-tu le but ?</p>
+               <p rend="justify">TROFIMOV. – Je l’atteindrai. <hi rend="italic">(Un temps.) </hi>Je l’atteindrai, ou, au moins, je montrerai la route aux autres.</p>
+               <p rend="center">
+                  <hi rend="italic">On entend au loin des coups de hache sur des arbres.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Allons, adieu, mon cher. Il est temps de partir. Nous soutenons nos façons de voir en levant le nez l’un devant l’autre, et la vie passe. Quand je travaille dur, sans relâche, mes idées sont plus gaies et il me semble comprendre pourquoi j’existe. Or, il y a tant de gens en Russie, mon ami, qui existent on ne sait pourquoi ! Enfin, peu importe… On dit que Léonid Andréïevitch a accepté une place à la banque et touchera six mille roubles par an… Oui, mais y restera-t-il ? Il est si paresseux…</p>
+               <p rend="justify">ANIA, <hi rend="italic">à la porte. </hi>– Maman vous fait demander qu’on n’abatte aucun arbre tant qu’elle sera encore ici.</p>
+               <p rend="justify">TROFIMOV. – Vraiment, est-ce que le tact ne vous disait pas cela ?…</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Tout de suite, tout de suite… Ah ! ces ouvriers !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort derrière Trofimov.</hi>
+               </p>
+               <p rend="justify">ANIA. – Est-ce que Firs a été conduit à l’hospice ?</p>
+               <p rend="justify">IACHA. – J’ai dit de le faire ce matin ; on a dû l’y conduire.</p>
+               <p rend="justify">ANIA, <hi rend="italic">à Epikhodov qui passe. </hi>– Semion Pantéléïevitch, informez-vous, je vous prie, si on a emmené Firs à l’hospice ?</p>
+               <p rend="justify">IACHA, <hi rend="italic">fâché. </hi>– Je l’ai dit à Iégor ce matin ; pourquoi le redemander dix fois !</p>
+               <p rend="justify">EPIKHODOV. – Le vieux Firs, à mon idée de derrière la tête, n’est pas réparable ; il n’est bon qu’à aller <hi rend="italic">ad patres. </hi>Et, en cela, je ne puis que l’envier. <hi rend="italic">(Il pose une valise sur un carton à chapeau qui s’écrase.) </hi>Ah ! voilà, parbleu ! Je le savais !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">IACHA, <hi rend="italic">ironiquement. </hi>– Vingt-Deux-Malheurs !…</p>
+               <p rend="justify">VARIA, <hi rend="italic">derrière la porte. </hi>– A-t-on emmené Firs à l’hospice ?</p>
+               <p rend="justify">ANIA. – C’est fait.</p>
+               <p rend="justify">VARIA. – Pourquoi donc n’a-t-on pas pris la lettre pour le docteur ?</p>
+               <p rend="justify">ANIA. – Il faut les rejoindre et leur remettre la lettre.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort.</hi>
+               </p>
+               <p rend="justify">VARIA, <hi rend="italic">de la chambre voisine. </hi>– Où est Iacha ? Dites-lui que sa mère est ici et veut lui faire ses adieux.</p>
+               <p rend="justify">IACHA. – On vous ferait sortir de vos gonds.</p>
+               <p rend="center">
+                  <hi rend="italic">Douniacha s’est tout le temps occupée des paquets ; maintenant que Iacha est resté seul, elle vient à lui.</hi>
+               </p>
+               <p rend="justify">DOUNIACHA. – Si vous me regardiez au moins une fois, Iacha ! Vous partez… vous m’abandonnez…</p>
+               <p rend="center">
+                  <hi rend="italic">Elle pleure et se jette à son cou.</hi>
+               </p>
+               <p rend="justify">IACHA. – Qu’y a-t-il à pleurer ? <hi rend="italic">(Il boit du champagne.) </hi>Dans six jours, je serai à nouveau à Paris. Demain, nous montons dans l’express et disparaissons comme si nous n’avions jamais été ici. C’est même à n’y pas croire. <hi rend="italic">Viffe la Franss ! </hi>Ici je ne suis pas à l’aise, je ne puis y vivre… Que peut-on faire à cela ! J’ai assez vu de barbarie, ça me suffit. <hi rend="italic">(Il boit du champagne.) </hi>Pourquoi pleurer ? Vous n’avez qu’à vous bien conduire, vous n’aurez pas à pleurer.</p>
+               <p rend="justify">DOUNIACHA, <hi rend="italic">se poudrant et se regardant dans une petite glace. </hi>– Vous m’écrirez de Paris, Iacha ? Vous le savez, je vous ai aimé ; comme je vous ai aimé, Iacha ! Je suis une créature tendre, Iacha !</p>
+               <p rend="justify">IACHA. – On vient.</p>
+               <p rend="center">
+                  <hi rend="italic">Il s’occupe des bagages en fredonnant. Entrent M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa, Gaïev, Ania et Charlotta Ivanovna.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – Il faudrait partir. Il n’y a plus beaucoup de temps. <hi rend="italic">(Regardant Iacha.) </hi>Qui est-ce qui sent le hareng, ici ?</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Dans dix minutes, il faut que nous montions en voiture. <hi rend="italic">(Elle jette un regard sur la chambre.) </hi>Adieu, bonne maison, vieille aïeule… Il ne te reste plus qu’un hiver ; au printemps, on te démolira. Que de choses ont vues ces murs ! <hi rend="italic">(Elle embrasse fiévreusement sa fille.) </hi>Mon trésor, tu rayonnes, tes yeux brillent comme des diamants ; tu es contente, dis, très contente ?</p>
+               <p rend="justify">ANIA. – Je suis très contente, maman. C’est une nouvelle vie qui commence !</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">joyeusement. </hi>– C’est vrai ; tout va bien maintenant. Avant la vente, nous nous agitions tous, nous souffrions, et quand la question a été définitivement résolue, nous nous sommes tous apaisés ; nous sommes même devenus gais… Je suis employé de banque ; me voilà financier… La jaune au milieu… Et toi, ma sœur, il n’y a pas à dire : tu as meilleure mine ; c’est positif.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Oui, c’est vrai, mes nerfs vont mieux. <hi rend="italic">(On lui présente son chapeau et son manteau.) </hi>Je dors bien… Iacha, prends mon bagage. Il est temps de partir. <hi rend="italic">(À</hi>
+                  <hi rend="italic"> </hi>
+                  <hi rend="italic">Ania.) </hi>Ma petite, nous nous reverrons bientôt… Je vais à Paris avec l’argent que ta grand-tante avait envoyé pour racheter le bien ; vive notre tante ! mais cet argent ne durera pas longtemps.</p>
+               <p rend="justify">ANIA. – Oh ! maman, tu reviendras vite, vite, n’est-ce pas ? Je vais me préparer ; je passerai un examen, et je pourrai travailler et t’aider. Nous ferons des lectures ensemble, n’est-ce pas, maman ? <hi rend="italic">(Elle baise les mains de sa mère.) </hi>Les soirées d’automne, nous lirons beaucoup de livres, et un monde nouveau, merveilleux, s’ouvrira devant nous… <hi rend="italic">(Pensive) </hi>Maman, tu reviendras ?</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Oui, mon bijou, je reviendrai.</p>
+               <p rend="center">
+                  <hi rend="italic">Elle l’embrasse. Entre Lopakhine ; Charlotta fredonne.</hi>
+               </p>
+               <p rend="justify">GAÏEV. – Heureuse Charlotta, elle chante !</p>
+               <p rend="justify">CHARLOTTA, <hi rend="italic">elle prend un des paquets qui a l’air d’un enfant emmailloté</hi>. – Dors, mon enfant, dors. <hi rend="italic">(Elle imite les pleurs d’un enfant :</hi> Ouah, ouah…) Tais-toi, mon joli, mon petit. (Ouah, ouah.) Je te plains tant… <hi rend="italic">(Elle lance le paquet sur les autres.) </hi>Alors, je vous prie, vous n’oublierez pas ; vous me trouverez une place ; je ne peux pas rester ainsi.</p>
+               <p rend="justify">LOPAKHINE. – Nous vous trouverons une place, Charlotta Ivanovna ; ne vous inquiétez pas.</p>
+               <p rend="justify">GAÏEV. – Tout le monde nous quitte ; Varia s’en va ; on ne veut plus de nous.</p>
+               <p rend="justify">CHARLOTTA. – Je ne trouve pas à m’installer en ville. Il faut bien que je parte. <hi rend="italic">(Elle fredonne.) </hi>Peu importe…</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Pichtchik.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Ah ! la merveille de la nature.</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">haletant. </hi>– Ah ! laissez-moi respirer… je suis exténué… Mes vénérables amis… donnez-moi de l’eau…</p>
+               <p rend="justify">GAÏEV. – C’est encore d’argent que tu as besoin ? Très humble serviteur ! je sors pour ne pas voir la scène.</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">PICHTCHIK. – Il y a longtemps que je ne suis pas venu vous voir, ma très belle… <hi rend="italic">(À Lopakhine.) </hi>Tu es là ?… Content de te voir, homme d’une grande intelligence ; tiens, prends : reçois <hi rend="italic">(Il lui donne de l’argent.) </hi>Quatre cents roubles… Je t’en dois encore huit cent quarante…</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">incrédule, lève les épaules. </hi>– Je crois rêver… Où as-tu pris cet argent-là ?</p>
+               <p rend="justify">PICHTCHIK. – Attends… J’ai chaud… Extraordinaire aventure ! Des Anglais sont venus sur ma terre et y ont trouvé je ne sais quelle argile blanche. <hi rend="italic">(À M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.) </hi>Et vous, ma très belle, ma charmante, vous voici quatre cents roubles… <hi rend="italic">(Il lui donne l’argent.) </hi>Le reste plus tard. <hi rend="italic">(Il boit de l’eau.) </hi>À l’instant, dans le train, un jeune homme racontait que je ne sais quel grand philosophe conseille aux gens de sauter de leur toit. « Saute ! » dit-il. Tout est là. <hi rend="italic">(Étonné.) </hi>Hein ! Croyez-vous !… De l’eau !…</p>
+               <p rend="justify">LOPAKHINE. – Qu’est-ce que c’est que tes Anglais ?</p>
+               <p rend="justify">PICHTCHIK. – Je leur ai affermé pour vingt-quatre années un coin de terre où il y a de l’argile… Et maintenant, pardon, je n’ai pas le temps, il faut que je coure plus loin… Je vais chez Znoïkov… chez Kardamonov… Je dois à tout le monde… <hi rend="italic">(</hi>
+                  <hi rend="italic">Il boit.) </hi>Portez-vous bien ; je reviendrai jeudi…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Nous partons à l’instant pour la ville et, demain, je pars pour l’étranger…</p>
+               <p rend="justify">PICHTCHIK, <hi rend="italic">inquiet. </hi>– Pourquoi en ville ? Aussi je voyais ces meubles, ces malles… Enfin, ça ne fait rien… <hi rend="italic">(Prêt à pleurer.) </hi>Ça ne fait rien… Gens du plus haut esprit, ces Anglais !… Soyez heureux… Dieu vous aidera… Ça ne fait rien… Toute chose a une fin en ce monde. <hi rend="italic">(Il baise les mains de M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa.) </hi>Quand le bruit de ma mort vous parviendra, vous vous souviendrez du vieux cheval que je suis et vous direz : il y a eu au monde un certain Simeonov-Pichtchik qui fut ceci et cela ; Dieu ait son âme… Quelle température extraordinaire nous avons ; oui. <hi rend="italic">(Il sort fort ému, mais il rentre sur-le-champ et dit :) </hi>Ma fille vous fait dire bien des choses.</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Maintenant, on peut partir. Deux choses m’inquiètent cependant : d’abord, Firs qui est malade… <hi rend="italic">(Elle consulte sa montre.) </hi>Il nous reste encore cinq minutes…</p>
+               <p rend="justify">ANIA. – Maman, Firs a déjà été conduit à l’hospice ; Iacha l’y a fait emmener ce matin.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Mon second souci, c’est Varia. Elle est habituée à se lever de bonne heure, à travailler, et, sans occupation, elle sera comme un poisson sans eau. Elle a maigri, pâli, et elle pleure, la malheureuse… <hi rend="italic">(Un temps.) </hi>Vous savez parfaitement cela, Ermolaï Alekséïevitch ; j’avais rêvé… de vous la voir épouser et il semblait que vous alliez le faire. <hi rend="italic">(Elle chuchote quelque chose à Ania, qui fait signe à Charlotta, et toutes deux sortent.) </hi>Elle vous aime ; elle est à votre convenance ; et je ne sais pas, je ne sais pas pourquoi vous avez l’air de faire exprès de vous éloigner l’un de l’autre…</p>
+               <p rend="justify">LOPAKHINE. – Moi non plus, à vrai dire, je ne le sais pas. Il y a là quelque chose d’étrange… S’il en est temps encore, je suis tout disposé… Finissons-en ; que ce soit une chose faite. Sans vous, je sens que je ne la demanderai pas.</p>
+               <p rend="justify">MME RANIEVSKAÏA. – À merveille. Il ne faut qu’une minute. Je l’appelle…</p>
+               <p rend="justify">LOPAKHINE. – Il y a justement du champagne. <hi rend="italic">(</hi>
+                  <hi rend="italic">Il</hi>
+                  <hi rend="italic"> </hi>
+                  <hi rend="italic">regarde les verres.) </hi>Les verres sont vides ; quelqu’un l’a déjà bu. <hi rend="italic">(Iacha toussote.) </hi>C’est ce qui s’appelle laper.</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">animée. </hi>– Fort bien, nous sortons… Iacha, vous aussi… Je vais l’appeler… <hi rend="italic">(Sur la porte.) </hi>Varia, laisse tout ; viens tout de suite !</p>
+               <p rend="center">
+                  <hi rend="italic">Elle sort avec Iacha.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE, regardant sa montre. – Oui…</p>
+               <p rend="center">
+                  <hi rend="italic">Un silence. Derrière la porte, rires contenus, chuchotements ; enfin, entre Varia. Elle a l’air, longtemps, de chercher quelque chose parmi les bagages.</hi>
+               </p>
+               <p rend="justify">VARIA. – C’est étrange, je ne les trouve pas…</p>
+               <p rend="justify">LOPAKHINE. – Que cherchez-vous ?</p>
+               <p rend="justify">VARIA, <hi rend="italic">comme se parlant à elle-même. </hi>– C’est moi-même qui les ai mis en place et je ne me souviens plus où.</p>
+               <p rend="center">
+                  <hi rend="italic">Un silence.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Où irez-vous maintenant, Varvara Mikhaïlovna ?</p>
+               <p rend="justify">VARIA. – Moi ? Chez les Ragouline… Je me suis entendue avec eux pour mener la maison… Gouvernante, quoi !</p>
+               <p rend="justify">LOPAKHINE. – C’est à Iachniévo ?… À une soixantaine de verstes d’ici. <hi rend="italic">(Un silence.) </hi>Ainsi votre vie est finie dans cette maison ?…</p>
+               <p rend="justify">VARIA, <hi rend="italic">regardant les bagages. </hi>– Où cela peut-il être ?… Il se peut que je les aie mis dans la malle… Oui, ma vie ici est finie… Elle ne recommencera plus…</p>
+               <p rend="justify">LOPAKHINE. – Et moi, je pars pour Kharkov… par ce même train… J’ai beaucoup d’affaires. Je laisserai ici Epikhodov ; je l’ai pris à mon service.</p>
+               <p rend="justify">VARIA. – Vous avez bien fait.</p>
+               <p rend="justify">LOPAKHINE. – L’année dernière, à pareille époque, il neigeait déjà si vous vous souvenez, et à présent il y a du soleil, il n’y a pas de vent. Mais il fait un peu froid… Au moins trois degrés au-dessous de zéro…</p>
+               <p rend="justify">VARIA. – Je n’ai pas regardé… <hi rend="italic">(Un silence.) </hi>Et puis notre thermomètre est cassé…</p>
+               <p rend="center">
+                  <hi rend="italic">Silence.</hi>
+               </p>
+               <p rend="justify">VOIX DANS LA COUR. – Ermolaï Alekséïevitch !</p>
+               <p rend="justify">LOPAKHINE, <hi rend="italic">comme s’il attendait cet appel depuis longtemps</hi>. – J’y vais !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort vite. Varia, assise sur le plancher, la tête appuyée sur un paquet, sanglote doucement. La porte s’ouvre et M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa entre avec précaution.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Eh bien ? <hi rend="italic">(Un silence.) </hi>Allons, il faut que nous partions.</p>
+               <p rend="justify">VARIA, <hi rend="italic">elle ne pleure déjà plus et essuie ses yeux. </hi>– Oui, mère, il est temps que vous partiez. Moi, j’aurai le temps d’aller aujourd’hui même chez les Ragouline, pourvu que je ne manque pas le train…</p>
+               <p rend="justify">MME RANIEVSKAÏA, <hi rend="italic">sur le seuil, à sa fille. </hi>– Ania, prends ton manteau.</p>
+               <p rend="center">
+                  <hi rend="italic">Entrent Ania, puis Gaïev et Charlotta Ivanovna. Gaïev a un gros pardessus et un passe-montagne autour du cou. Entrent des domestiques, des cochers ; Epikhodov s’occupe des bagages.</hi>
+               </p>
+               <p rend="justify">MME RANIEVSKAÏA. – Maintenant, en route !</p>
+               <p rend="justify">ANIA, <hi rend="italic">joyeusement. </hi>– En route !</p>
+               <p rend="justify">GAÏEV. – Mes amis, mes chers amis, en quittant cette maison pour toujours, puis-je taire, puis-je contenir les sentiments qui emplissent tout mon être ?…</p>
+               <p rend="justify">ANIA, <hi rend="italic">d’un ton suppliant, l’arrêtant.</hi> – Mon oncle !</p>
+               <p rend="justify">VARIA. – Oncle, il ne faut pas !</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">tristement. </hi>– Double bande sur la jaune au milieu… Je me tais.</p>
+               <p rend="center">
+                  <hi rend="italic">Entre Trofimov, puis Lopakhine.</hi>
+               </p>
+               <p rend="justify">TROFIMOV. – Allons, il serait temps de partir !</p>
+               <p rend="justify">LOPAKHINE. – Epikhodov, mon pardessus !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Oh ! encore une minute. C’est comme si je n’avais jamais vu les murs de cette maison, ces plafonds… Je les regarde avec convoitise, avec un si tendre amour…</p>
+               <p rend="justify">GAÏEV. – Il me souvient, le jour de la Trinité, quand j’avais six ans, j’étais à cette fenêtre et je regardais mon père aller à l’église…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Tous les bagages sont enlevés ?</p>
+               <p rend="justify">LOPAKHINE. – Il me semble que oui. <hi rend="italic">(À </hi>
+                  <hi rend="italic">Epikhodov, tandis qu’il met son pardessus.) </hi>Tu veilleras à ce que tout soit en ordre, Epikhodov.</p>
+               <p rend="justify">EPIKHODOV, <hi rend="italic">d’une voix enrouée. </hi>– Soyez sans inquiétude, Ermolaï Alekséïevitch.</p>
+               <p rend="justify">LOPAKHINE. – Pourquoi as-tu une voix pareille ?</p>
+               <p rend="justify">EPIKHODOV. – Je viens de boire de l’eau et j’ai avalé quelque chose.</p>
+               <p rend="justify">IACHA, <hi rend="italic">d’un air méprisant. </hi>– Barbarie !…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Quand nous serons partis, il ne restera pas une âme ici…</p>
+               <p rend="justify">LOPAKHINE. – Jusqu’au printemps.</p>
+               <p rend="center">
+                  <hi rend="italic">Varia tire d’un fourreau un parapluie qu’elle a l’air de brandir ; Lopakhine prend un air effrayé.</hi>
+               </p>
+               <p rend="justify">VARIA. – Qu’avez-vous ?… Je ne pensais même pas…</p>
+               <p rend="justify">TROFIMOV. – Allons, mesdames, en voiture. Il en est grand temps. Le train va arriver tout de suite.</p>
+               <p rend="justify">VARIA. – Pétia, voici vos caoutchoucs ; ils étaient à côté de la malle. <hi rend="italic">(Attristée.) </hi>Et comme ils sont sales… vieux !…</p>
+               <p rend="justify">TROFIMOV, <hi rend="italic">mettant ses caoutchoucs. </hi>– Partons, mesdames, messieurs !</p>
+               <p rend="justify">GAÏEV, <hi rend="italic">profondément troublé, craignant de pleurer. </hi>– Le train… la gare… Croisé au milieu, double bande sur la jaune dans l’angle !…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Partons.</p>
+               <p rend="justify">LOPAKHINE. – Tout le monde y est ? Il n’y a plus personne ? <hi rend="italic">(il ferme la porte sur le côté à gauche.) </hi>Ici, tout est emballé ; il faut fermer. Partons.</p>
+               <p rend="justify">ANIA. – Adieu, la maison ; adieu, la vie ancienne !</p>
+               <p rend="justify">TROFIMOV. – Bonjour, la vie nouvelle !…</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort avec Ania. Varia parcourt la pièce d’un regard et sort sans se presser. Sortent Iacha et Charlotta avec son chien.</hi>
+               </p>
+               <p rend="justify">LOPAKHINE. – Ainsi, jusqu’au printemps !… Sortez tous, je vous prie. Au revoir !</p>
+               <p rend="center">
+                  <hi rend="italic">Il sort. M</hi>
+                  <hi rend="sup italic">me</hi>
+                  <hi rend="italic"> Ranievskaïa et Gaïev restent seuls. Comme s’ils attendaient cela, ils se jettent au cou l’un de l’autre et pleurent sans bruit, craignant qu’on ne les entende.</hi>
+               </p>
+               <p rend="justify">GAÏEV, <hi rend="italic">au désespoir. </hi>– Ma sœur, ma sœur…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Ah ! ma cerisaie, ma chère, ma belle cerisaie ! Ma vie, ma jeunesse, mon bonheur, adieu… adieu !…</p>
+               <p rend="justify">VOIX D’ANIA, <hi rend="italic">joyeuse, appelant. </hi>– Maman !</p>
+               <p rend="justify">VOIX DE TROFIMOV, <hi rend="italic">joyeuse, excitée. </hi>– Aou !</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Un dernier regard à ces murs, à ces fenêtres ! Ma pauvre mère aimait à marcher dans cette chambre-ci…</p>
+               <p rend="justify">GAÏEV. – Ma sœur, ma sœur !…</p>
+               <p rend="justify">VOIX D’ANIA. – Maman !</p>
+               <p rend="justify">VOIX DE TROFIMOV. – Aou !…</p>
+               <p rend="justify">MME RANIEVSKAÏA. – Nous venons.</p>
+               <p rend="center">
+                  <hi rend="italic">Ils sortent. La scène est vide. On entend fermer à clé toutes les portes, puis les voitures partir. Le silence. Puis le bruit sourd, monotone, d’une hache sur un arbre. On entend des pas. Sur la porte, à droite, apparaît Firs. Il est vêtu comme à l’ordinaire, veston et gilet blanc ; aux pieds, des pantoufles. Air malade.</hi>
+               </p>
+               <p rend="justify">FIRS, <hi rend="italic">il va à la porte, touche la poignée. </hi>– Fermée ! Partis… <hi rend="italic">(Il s’assied sur le canapé.) </hi>On m’a oublié… Ça ne fait rien… Je vais m’asseoir ici… Et Léonid Andréïevitch, j’en suis sûr, n’a pas pris sa pelisse ; il n’a mis qu’un pardessus. <hi rend="italic">(Il soupire, soucieux.) </hi>Aussi, je n’y ai pas fait attention !… C’est jeune, sans expérience. <hi rend="italic">(Il marmonne quelque chose d’incompréhensible.) </hi>La vie a passé comme si je n’avais pas vécu. <hi rend="italic">(Il s’étend.) </hi>Je vais m’étendre un peu. Tu n’as plus la moindre force, Firs, rien ne te reste, rien…</p>
+               <p rend="justify">Ah ! empoté !</p>
+               <p rend="center">
+                  <hi rend="italic">Il reste étendu sans mouvement. On entend le bruit lointain, comme tombant du ciel, mourant, lugubre, d’une corde qui se casse. Puis le silence s’établit. On n’entend plus au loin dans la cerisaie qu’une hache frappant un arbre.</hi>
+               </p>
+               <p rend="center">RIDEAU</p>
+            </div>
+            <div type="div2">
+               <head>À propos de cette édition électronique</head>
+               <p rend="center bold">Texte libre de droits.</p>
+               <p rend="center">Corrections, édition, conversion informatique et publication par le groupe :</p>
+               <p rend="center bold italic">Ebooks libres et gratuits</p>
+               <p rend="center">
+                  <ptr target="http://fr.groups.yahoo.com/group/ebooksgratuits"/>
+                  <lb/>
+               </p>
+               <p rend="center">Adresse du site web du groupe :<lb/>
+                  <ptr target="http://www.ebooksgratuits.com/"/>
+               </p>
+               <p rend="center">—</p>
+               <p rend="center bold">Novembre 2010</p>
+               <p rend="center">—</p>
+               <p>
+                  <hi rend="bold">– Élaboration de ce livre électronique :</hi>
+               </p>
+               <p>Les membres de <hi rend="italic">Ebooks libres et gratuits</hi> qui ont participé à l’élaboration de ce livre, sont : Jean-BernardC, Jean-Marc, Jean-LucT, PatriceC, Coolmicro et Fred.</p>
+               <p>
+                  <hi rend="bold">– Dispositions :</hi>
+               </p>
+               <p>Les livres que nous mettons à votre disposition, sont des textes libres de droits, que vous pouvez utiliser librement, <hi rend="underline">à une fin non commerciale et non professionnelle</hi>. <hi rend="bold">Tout lien vers notre site est bienvenu…</hi>
+               </p>
+               <p>
+                  <hi rend="bold">– Qualité :</hi>
+               </p>
+               <p>Les textes sont livrés tels quels sans garantie de leur intégrité parfaite par rapport à l'original. Nous rappelons que c'est un travail d'amateurs non rétribués et que nous essayons de promouvoir la culture littéraire avec de maigres moyens.</p>
+               <p rend="center">
+                  <hi rend="italic">Votre aide est la bienvenue !</hi>
+               </p>
+               <p rend="center">VOUS POUVEZ NOUS AIDER À FAIRE CONNAÎTRE CES CLASSIQUES LITTÉRAIRES.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Teresa</title>
+            <author>Alas Clarín, Leopoldo </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:19:07Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-10T15:11:32.453297292</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Teresa</head>
+         <author>Alas Clarín, Leopoldo</author>
+         <p rend="italic">1894-12-31T23:00:00+00:00</p>
+         <div type="div1">
+            <head>Teresa</head>
+            <p rend="center bold">Leopoldo Alas Clarín</p>
+            <p rend="center">Año primera publicación: 1895</p>
+            <p rend="center">Edición: Imprenta de José Rodríguez, Madrid, 1895</p>
+            <div type="div2">
+               <head>Personajes</head>
+               <p rend="justify">TERESA<lb/>RITA<lb/>PALMIRA<lb/>ROQUE<lb/>FERNANDO<lb/>MINERO 1.º<lb/>ÍDEM 2.º<lb/>ÍDEM 3.º</p>
+            </div>
+            <div type="div2">
+               <head>Acto único</head>
+               <subtitle>División de escena.</subtitle>
+               <p rend="justify">A la izquierda del espectador, la carretera; a la derecha, interior de la casa de ROQUE. Entre la carretera y la casa, algún espacio, limitado de la parte de la carretera por un guardacantón y un montón de grava. La carretera desaparece hacia el foro, un poco oblicua en el último término de la izquierda. En el telón de fondo, se figurará la boca de una mina con una choza de madera a la entrada; delante, terraplén. Confusión y obscuridad en este término. Un farol de luz rojiza a la entrada de la mina, la luz desaparece de tarde en tarde. Entre la carretera y la casa, en segundo término, una carreta con las varas apoyadas en tierra; algunos montones de heno, que se supone se está metiendo en el pajar en los días a que corresponde el de la acción. Instrumentos de labranza, esparcidos arbitrariamente. La fachada de la casa, perpendicular al foro. En primer término, una ventana con reja; por fuera, asiento de piedra al pie de la ventana. En segundo término, la puerta de la casa. Tercer término (obscuro, confuso), la entrada al pajar, con un montante. Interior de la casa de ROQUE: cocina ahumada, pobre; en el fondo, a la izquierda, el hogar con lumbre, muy bajo. Caldera colgada de una cadena que baja de una chimenea de campana. Cerca del hogar, arrimado a la pared de la izquierda, un banco de madera; sobre él, un cuchillo muy agudo de cocina entre restos y pellejos de patatas. En el fondo, también a la derecha, escalera tosca muy fina que conduce al pajar. En el ángulo de la escalera con el piso, hueco donde puede ocultarse holgadamente una persona. A la derecha, un armario de madera, pobre, viejo. Cerca de él, una mesa antigua, también de mal aspecto. En primero y segundo término, dos puertas: la del primero es de la habitación de RITA y PALMIRA, la segunda, del interior de la casa. Ajuar de aldeano pobre y algunos utensilios de minero.</p>
+               <div type="div3">
+                  <head>Escena I</head>
+                  <p rend="justify">Anochece. A ser posible, imítese alguno de los ruidos propios del campo, en verano, en los valles del Noroeste de España; por ejemplo, voces lejanas de aldeanos, rechino apagado de carretas. De no conseguir una imitación apropiada, es preferible prescindir de todo esto. Al levantarse el telón, se oirá a lo lejos un aire del país en un instrumento rústico (algo como gaita, dulzaina, caramillo o cosa análoga). RITA (<hi rend="italic">de unos dieciocho años</hi>), y PALMIRA (<hi rend="italic">de cinco a siete años</hi>). RITA duerme de bruces sobre el montón de grava, viste traje de aldeana del país, mezclado con prendas de artesana de la ciudad, todo maltrecho, pobre. PALMIRA, cerca de ella, sentada sobre el polvo de la carretera, desgreñada, descalza. Llora con cierto ritmo, cansada ya del llanto. Cuando suena la música lejana, deja de llorar. Cesa la música, y vuelve el llanto. Pasan por la carretera algunos grupos de tres o cuatro mineros, unos silenciosos, otros en conversación confusa, lenta, desanimada. Los más, llevan lámpara de minero. Tuercen por el primer término de la izquierda, donde hace curva la carretera, y desaparecen. Después FERNANDO.</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">(<hi rend="italic">Sentada en la carretera</hi>). ¡Madre!, ¡madre! ¡Mira: Rita no me da sopa! (Se acerca, arrastrándose, a RITA). ¡Rita! ¡Ritona! ¡Despierta, que me das miedo! ¡Sopa! ¡Ritona, dame pan! (<hi rend="italic">Le mete una mano entre los labios</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(Llega por la carretera, primer término de la izquierda. Contempla un momento el grupo de niñas. Se acerca a ellas). Oye, nena, ¿por qué lloras?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">(Al ver a FERNANDO se levanta de un brinco, y retrocede hacia la casa). ¡Madre, madre! ¡Rita! ¡Tengo miedo: un hombre!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No tengas miedo: ¡Calla, vida mía! Yo… te quiero a ti. ¿Por qué lloras? Ven acá; toma.</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">¡Madre!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Aquí otra niña? ¿Una joven? ¿Qué tiene? ¿Quién es? ¿Está mala?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">¡Madre! ¡Rita! ¡Mira este señor…!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Oye, si me das un beso, te doy un perro… blanco, mira, un perro blanco. (<hi rend="italic">Le enseña una peseta</hi>).</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">¡Una peseta! ¿Para mí toda? ¿Para Rita no?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No; para ti. ¿Rita es ésta?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">Sí. (<hi rend="italic">Dejándose besar</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Es tu hermana?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">No.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Cómo te llamas tú?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">Palmira.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Para sí</hi>). ¡Como mi hermana! Sí: es su hija. Tu madre, ¿es Teresa?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">Sí; Teresa de Roque.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Y Rita? (<hi rend="italic">PALMIRA se encoge de hombros</hi>). ¿Qué es tuyo Rita?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">Está en casa.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Criada?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">No, de mi padre. ¡Es mala!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Te pega?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">No: me deja sola; se queda así, dormida… ¡Quiero pan!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Tienes hambre? ¡Alma mía! ¿Dónde está tu madre?</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">En la fuente, y a buscar a padre. ¡Madre, madre!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No te oye: la fuente está lejos. Llamaremos a Rita. ¡A ver, Rita… despierta! (<hi rend="italic">Mueve suavemente a RITA</hi>).</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">¡Eh!, ¿quién? ¡Ay! ¡Palma, calla!</p>
+                  <p rend="justify">(Se pasa las manos por la cabeza, sujeta el pañuelo que le sirve de toca; se quita algunas briznas de heno que trae pegadas a la garganta; se incorpora, y, temblando, al andar, se deja caer sobre el banco de piedra debajo de la ventana. Arrima los brazos a la pared, apoya en ellos la cabeza; el peso hace deslizarse, pared abajo, todo el busto, y cae RITA de bruces sobre el banco, como estaba antes sobre el montón de grava).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Es una marmota. (<hi rend="italic">Reparándola</hi>). No; es un ángel, pero un ángel enfermizo. ¡Oh, qué cansancio el suyo! (<hi rend="italic">Le toma el pulso y le toca la frente</hi>). ¡Infeliz criatura! Agobiada por el trabajo; mal alimentada, de fijo… ¿Quién será? ¿Estará enferma? (<hi rend="italic">Le quita yerbas pegadas a la frente</hi>). ¡Enferma, pero trabaja!</p>
+                  <p rend="justify">(Repara que PALMIRA corre por la carretera, hacia el foro, gritando).</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">¡Madre, madre! (<hi rend="italic">Desaparece por el último término izquierda</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Por allí viene gente: un grupo. Serán mineros. Sí: Roque… y Teresa… y más serán. No quiero que me vean. Ahora no. La niña diría lo de la peseta; y ese Roque es altivo, creo. No querrá limosnas, de fijo. Además, le he visto mirarme con malos ojos. Tal vez sospecha. Pero yo he de verla, he de hablar con ella otra vez. Mañana, al ser de día, sale el tren, y he de marchar; no hay remedio. Sí: hablaré a Teresa esta noche. Si puedo, aquí, a solas, cuando él salga, pues sé que sale: va a perorar a la taberna. Y si no, con un pretexto, entraré luego ahí, aunque esté Roque. Se acercan. Ahora, a mi escondite, ahí, en la Foz, entre los árboles, donde la contemplé esta tarde… ¡tan triste, tan pobre, tan dulce en su miseria…! Perdida la lozanía… y más hermosa. ¡Mi pobre ilusión del amor humilde, puro, respetuoso… no desvanecida, no, transformada; deshecha en humo, no: convertida en olorosa nube de ideal incienso, de impasible abnegación, de tristeza inexorable! ¡Oh, realidad, maestra de la vida y de la muerte! ¡Poética en tus desengaños, como este crepúsculo en la aldea!</p>
+                  <p rend="justify">(Se oye a lo lejos rumor de voces en disputa áspera, sorda, lenta: otras veces la voz de PALMIRA que llama a su madre; y por fin, la gaita o caramillo, muy lejos, perdiéndose en la distancia. FERNANDO sale de la escena por el primer término izquierda: al sentir acercarse por la carretera un grupo de mineros).</p>
+               </div>
+               <div type="div3">
+                  <head>Escena II</head>
+                  <p rend="justify">RITA; ROQUE y varios MINEROS.</p>
+                  <p rend="justify">Llega al primer término de la izquierda un grupo de mineros, entre ellos ROQUE, el cual manifiesta al andar que tiene un pie herido: el zapato de este pie, roto por delante.</p>
+                  <p rend="justify">MINERO 2.º.</p>
+                  <p rend="justify">¡Con Dios, Roque; y por la fresca, arriba; y otra vez al pozo!</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">¡Mal rayo me parta si con estos mandrias se puede hacer una que sea sonada!</p>
+                  <p rend="justify">MINERO 2.º.</p>
+                  <p rend="justify">Para sonadas, las que hace allá dentro el gas cuando se le hinchan las narices.</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">Roque, contigo se cuenta. Si ahora te quedas aquí un rato por que no diga Teresa, en casa de la Eulalia te esperamos. No faltes: lleva el papel, ese que tan bien lo relata.</p>
+                  <p rend="justify">MINERO 2.º.</p>
+                  <p rend="justify">No seas bobo, Roque, no vayas. Gastarás los cuartos, beberás, mañana la dormirás, te meterán en el ajo de la huelga, aunque seas inocente… y ¡adiós pan, Dios sabe hasta cuándo!</p>
+                  <p rend="justify">MINERO 3.º.</p>
+                  <p rend="justify">Estos de la aldea siempre servilones; burros de reata… reses que van al matadero.</p>
+                  <p rend="justify">MINERO 2.º.</p>
+                  <p rend="justify">Vaya, con Dios. Ya empieza el predicador… ¡Lilailas! El pobre siempre sudará mucho para comer poco… Los papeles… la taberna… los sermones. ¡Lilailas! Siempre fue lo mismo. Vaya; buenas noches. Roque, cena, si hay qué; y a la cama.</p>
+                  <p rend="justify">(Sale por la izquierda a paso lento bostezando).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Gallinas! Vamos andando. Si espero a ésa, habrá matraca. ¡A casa de Eulalia! Yo me debo a los míos. Cuando el hombre tiene una idea… se debe a la idea.</p>
+                  <p rend="justify">MINERO 3.º.</p>
+                  <p rend="justify">Pero ¿no has dicho a Teresa que te quedabas en casa?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">(<hi rend="italic">Se encoge de hombros</hi>). ¡Déjate de mujeres! A casa de Eulalia. El obrero defiende sus ideas donde puede… Si no hay más cátedra, más congreso, más púlpito que la taberna… en la taberna. Jesucristo iba a las tabernas a predicar el socialismo a los publicanos.</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">¡Eso! ¡Vivan los publicanos! El papa es ahora publicano también.</p>
+                  <p rend="justify">MINERO 3.º.</p>
+                  <p rend="justify">¡Pamplinas! ¡La política…! ¡El clero…! ¡Pamplinas…! No reventar de hambre y de trabajar, ésa es la fija.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">Vamos, que va a llegar Teresa. (<hi rend="italic">Bosteza RITA, y estira los brazos despertando</hi>). ¿Quién está ahí? ¡Ah!, ¡es mi hermana! ¡Esperad! ¡Rita! (<hi rend="italic">Se acerca a ella</hi>). ¿Has metido la yerba?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Sí; toda la que habéis dejado segada. (<hi rend="italic">Soñolienta y otra vez quitándose de la garganta y del pecho briznas del heno pegado a la piel</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Qué tienes?, ¿sueño?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Sí.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Calor? (<hi rend="italic">Le pasa la mano por la frente y las muñecas</hi>).</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Mucho.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">(<hi rend="italic">En voz baja</hi>). ¿Y hambre?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Sed.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">(<hi rend="italic">En voz baja</hi>). ¿Qué hay de cena?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Hay patatas. (<hi rend="italic">Gesto de repugnancia</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿No cenarás?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Si me deja Teresa, me acuesto ahora.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Sin cenar?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Se me abre la cabeza, se me hunde el cuerpo.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Estás muy cansada?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Claro.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Has trabajado mucho?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">¡Qué remedio!</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Teresa!</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Más que yo y más que tú. ¡Pobre; si no revienta…! Pero ésa puede. Tiene más alma.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">Te arde el pellejo. (<hi rend="italic">Vuelve a tocarle las muñecas</hi>).</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Más adentro ardo.</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">Roque, ¿vienes, o qué?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Ah!, sí… ¡voy!, ¡voy! «¡Rayo en la miseria! ¡Que arda el mundo! Lo mejor es eso, ¡que arda el mundo!». Rita, cena. Cena… chocolate si queda. Ya sabes lo que ha dicho el médico; sin comer no hay vida. (<hi rend="italic">A los mineros</hi>). Vamos.</p>
+               </div>
+               <div type="div3">
+                  <head>Escena III</head>
+                  <subtitle>DICHOS y TERESA. El mismo traje aproximadamente que RITA. Trae sobre la cabeza una herrada llena de agua que rebosa y le cae sobre los hombros. PALMIRA viene cogida a la falda de su madre.</subtitle>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Se detiene frente a ROQUE</hi>). Pero ¿marchas? ¿No cenas? ¿No has dicho…?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">Lo que digo es que me debo a los míos.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Los tuyos? (<hi rend="italic">Deja la herrada en tierra</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">Los míos son mis compañeros; los explotados, los miserables… ¡En fin, a callar! Dale chocolate a Rita y déjala que se acueste.</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">¡Padre, padre! (<hi rend="italic">En tono de queja</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Qué hay, pulga? (<hi rend="italic">Coge en brazos a PALMIRA que te enseña las manos vacías</hi>).</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">Mira; madre me ha quitado la peseta que me había dado un señorito muy bueno.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Una peseta! (<hi rend="italic">Deja a PALMIRA en el suelo</hi>). ¿Un señorito? A ver tú (<hi rend="italic">A TERESA</hi>), ¿qué es esto?</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">Vaya, Roque, hasta luego. Nosotros vamos andando.</p>
+                  <p rend="justify">MINERO 3.º.</p>
+                  <p rend="justify">Si vas, vas.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">No, espera. Quiero que veáis esto. Teresa, ya sabes mi genio. Aquí ha habido limosna. Esa peseta… ¿dónde está? ¿De quién es? ¿Qué señorito anduvo aquí? Tu señorito; tu antiguo amo, ¿no es eso? El sietemesino burgués que vino ayer a estudiar ahí dentro, en la mina, cómo sudábamos los pobres, cómo exponía la vida el obrero a cada momento. Ése fue. ¡Rayo en él y en ti! Ea, pronto; ¿dónde está esa peseta?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">La peseta, aquí está; quien se la dio a la niña, no lo sé. Yo no he visto aquí a ningún señorito; ni al mío, ni a ninguno.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Rayo de Dios! Nadie te pide excusas. ¿Por qué?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Por nada; pero como dices…</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">Tu señorito será un ángel, pero es un señorito, un miserable, como todos, que no creerá en la honra del pobre… venga esa limosna. El obrero no quiere limosna.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Pero… si no es limosna.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Venga!</p>
+                  <p rend="justify">PALMIRA.</p>
+                  <p rend="justify">¡Es mía! ¡Es mía! (<hi rend="italic">Llorando</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Es del diablo! (<hi rend="italic">Arroja la moneda lejos</hi>). ¡A callar todo el mundo! Ya lo veis amigos; yo predico, y hago lo que predico. La limosna envilece. La caridad, ¡pamplina!, ¡humillación! ¡Derecho! ¡Justicia! ¡Venganza!</p>
+                  <p rend="justify">MINEROS.</p>
+                  <p rend="justify">¡Eso, eso!</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Adelante! (<hi rend="italic">Se dirige hacia la izquierda</hi>). Cena y apaga la lumbre. ¡Ah! Y no olvides el chocolate de mi hermana.</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">Teresa, buenas noches.</p>
+                  <p rend="justify">MINERO 2.º.</p>
+                  <p rend="justify">Que te alivies, Rita.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">No; pídele a Dios que sane, o que se muera; porque para el pobre, la enfermedad es el infierno. ¡Oh; por qué no habrá un gas malo, allá arriba, en las nubes, para que estallase, y saltara el cielo, el mundo, como revienta allá dentro la mina!…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Pero oye, Roque (<hi rend="italic">En voz baja</hi>); mira que no hay…</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">Que no hay justicia en la tierra; ya lo sé. A eso vamos; a buscarla. ¡Adelante, adelante!</p>
+                  <p rend="justify">(Sale por la izquierda con los demás mineros).</p>
+               </div>
+               <div type="div3">
+                  <head>Escena IV</head>
+                  <subtitle>TERESA, RITA y PALMIRA. Mientras hablan TERESA y RITA, PALMIRA entra sollozando en la casa; se sube sobre un banco de madera; busca en el cajón de la mesa; saca un pedazo de pan, y llorando y comiendo, se queda dormida en el suelo, junto a la mesa.</subtitle>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No hay justicia… ni hay caldo. ¡Pobre Rita! (<hi rend="italic">Mirándola y sonriendo con tristeza</hi>). Tú bien lo sabes, no hay tal chocolate.</p>
+                  <p rend="justify">(RITA hace un gesto de resignación casi indiferente: extiende los brazos en cruz; hace un esfuerzo para andar, y acercándose a TERESA, le echa un brazo alrededor del cuello).</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Perdónale. Nos quiere mucho a todos. A mí… porque mi cariño le recuerda a nuestra madre. Antes de casarse contigo, y después de morir mi madre, yo era todo para él; y como me crié así… (Con desprecio de sí misma; algo airada.) enfermucha, ruin, casi inútil.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Inútil! Si no fuera por ti, no podríamos con tanto. ¿Por qué cargas yerba?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">¿Y si llueve? (Habla con dificultad, soñolienta, con voz débil).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Yo la hubiera recogido.</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Sí, tú; todo tú. Ni tú ni él podéis con tanto. La mina, el ganado, el maíz, la colada, la ropa al río… Palmira, yo… cargas y más cargas. (Se levanta del montón de grava, donde habrá vuelto a sentarse. Procura seguir a TERESA que habrá entrado en la casa, recogiendo antes la herrada). Dejadme ayudar; ayudar, o morir. (TERESA habrá dejado la herrada pendiente de un gancho, cerca del hogar. Sin ver a PALMIRA, enciende un quinqué pobre, colgado cerca del hogar también, y vuelve a salir de la casa). ¡Dios mío; este sueño; este cansancio; esta cabeza! ¡Ah! <hi rend="italic">La </hi>
+                     <hi rend="italic">Gallarda</hi> no sé qué tiene; todo el día anduvo echándose por tierra. ¡Pobre vaca! Como yo; quiere y no puede… Pero ella es vieja; ya sirvió; ya trabajó… y yo… yo… (Muestra gran debilidad, y se deja caer otra vez en el banco de la ventana).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Tienes hambre?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">¡Hambre… puaf! (<hi rend="italic">Repugnancia</hi>).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Bien; pero… necesidad… Iré a casa de la Chinta a pedir un poco de…</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">¡No! Basta de favores que se echan en cara. ¡Si la oyeras esta tarde! Desde media legua se la oía… ¡qué vergüenza! Si Roque la oye un día, no sé qué va a pasar. Y el Chinto, el judío, el ladrón, también murmura; también echa en cara lo que se le debe. (<hi rend="italic">Pausa</hi>). Es mucho, ¿verdad?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No sé; yo… yo, no mucho. Pero él, tu hermano… como…</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">(<hi rend="italic">Avergonzada</hi>). Sí; ya sé… Cuando esos malditos le sublevan… le emborrachan… ¡Esa Eulalia… con su taberna que Dios confunda! Él es el que paga, para que le oigan leer los papeles, y decir aquello de que él se debe a sus ideas… ¡Oh, pues yo a las mías no les debo nada bueno! (<hi rend="italic">Sombría</hi>). ¡Porque… aquí… entre sueños… entre dormida y loca… tengo unas ideas!… Pero… puede más la fatiga que ellas. (<hi rend="italic">Se levanta</hi>).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Vamos; entra; el sereno puede hacerte daño. Cena un poco, poco; y a la cama.</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Patatas… no; no puedo. Comeré una corteza… no; tampoco; nada.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Si yo… encontrara esa peseta! (<hi rend="italic">Mira vagamente en torno</hi>).</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">¿Quién es ese señorito?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Cuál?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">El que estuvo aquí antes; el que besó a Palmira.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿La besó?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Sí; y a mí… no sé qué me hizo. Me puso ahí sobre este banco, me parece; y me tornó el pulso. ¿Es médico?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No; creo que también escribe en los papeles; es sabio, ¡qué sé yo! Ahora estudia a los pobres.</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Pues ya tiene que leer.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Pensativa</hi>). Es muy bueno.</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">¿Fue tu amo?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Sí; es el señorito Fernando; el hijo de mi señora.</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Nosotros nunca servimos. Debe de ser muy malo.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Todo es cruz.</p>
+                  <p rend="justify">(RITA se deja caer otra vez sobre el banco).</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Pero es mejor servir al marido, al padre, al hermano.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Ya se sabe; eso… no es servir.</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Claro. Eso es…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Eso es… ser…</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">Claro; ser… lo que se debe ser.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Pero… ¿y Palmira?</p>
+                  <p rend="justify">RITA.</p>
+                  <p rend="justify">(<hi rend="italic">Que se va quedando dormida</hi>). Allá dentro.</p>
+                  <p rend="justify">(TERESA entra en la casa. La niña ya está dormida. La coge en brazos después de quitarle el pan que le sobre y guardarlo en la mesa. Lleva a PALMIRA por la primera puerta de la derecha, y muy pronto vuelve y sale de la casa).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Rita! ¡Rita!, ¿qué es eso? (<hi rend="italic">RITA estará como desmayada o dormida con sopor</hi>). Dormida… ¿o estará mala? ¡Rita! ¡Rita! ¿No cenas? Como un poste. Si la dejo aquí, la mata el fresco. ¡Y sin probar bocado desde medio día! ¡Rita! ¡Bah!, ¿qué remedio? Armas al hombro. (<hi rend="italic">Procura cogerla en brazos</hi>). Ay; pero ésta pesa más que mi ángel… No importa; al hombro. (Hace un esfuerzo, y cuando ya la tiene a cuestas, tocando los pies de RITA en tierra, y TERESA inclinándose bajo la carga y buscando, con un brazo extendido, un apoyo, se te pone delante FERNANDO, que llega por el primer término izquierda. Hay luna, y de la casa sale un reflejo del quinqué). ¿Quién anda ahí? ¡Ah! ¡El señorito!</p>
+               </div>
+               <div type="div3">
+                  <head>Escena V</head>
+                  <subtitle>TERESA y FERNANDO; RITA, que no habla más.</subtitle>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Buenas noches, señorito!</p>
+                  <p rend="justify">(Al tratar de incorporarse RITA, se le cae la carga hacia un lado, FERNANDO la sujeta y entre ambos la sostienen).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Está enferma?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Poca salud gasta.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pero, ahora, ¿qué tiene? ¿Está en un accidente?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No. Eso… no será… Será sueño… cansancio… y mala comida… es decir, que, como está así, no tiene buen diente. Y el trabajo… No se sabe lo que es. Muchas noches… y a veces de día… es así… pero no tan de repente… no tanto. Si me ayudara…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pues ya lo creo; vamos adentro. ¡Infeliz! ¿Quién es? ¿Criada?</p>
+                  <p rend="justify">(Entran en casa llevando a RITA dormida).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No, señor. ¡Qué criada! No. Es hermana de Roque. No tiene padre ni madre. Es Rita; nuestra Rita.</p>
+                  <p rend="justify">(Salen de la escena por la primera puerta de la derecha y vuelven a poco).</p>
+               </div>
+               <div type="div3">
+                  <head>Escena VI</head>
+                  <p rend="justify">FERNANDO, detrás; y a poco TERESA.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Parece que duerme profundamente.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Como un madero. Siempre duerme así. Trabaja mucho y es de pocos alientos… ¡Es decir, alientos…!, pero… vamos, que no responde la…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Calentura no creo que tenga; el pulso débil, pero regular…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿También es médico el señorito?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No; pero cualquiera comprende…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Bah! ¡Lo que usted no sepa…! Tanto leer, tanto estudiar. Con las noches que yo le preparé la luz para velar y más velar había para aprender todas las sabidurías del mundo.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Te acuerdas de aquellos tiempos, Teresa?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Y la señora, aunque no lo decía, ¡qué orgullosa estaba de tal hijo!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Te acuerdas mucho de nosotros; verdad? Tu hija se llama Palmira, como mi pobre hermana.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Murió en mis brazos. ¡Pobre señorita Palmira! Claro; mi hija como ella. A la señora no la vi morir. Ya estaba yo aquí en el valle. Me casé aquel año. Yo me casé en febrero y la señora murió en marzo.</p>
+                  <p rend="justify">(Pausa. TERESA nota que FERNANDO la mira fijamente, y se impacienta, va y viene como desconcertada de la puerta de la calle al hogar).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Extrañas que te mire a la cara; que te observe…?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Yo… no. Es que… ¡Ay Dios! ¡Buena cosa mira! ¿Verdad señorito que parezco una sombra? Es el trabajo; los cuidados; la vida que ahora se hace, tan diferente de aquélla, al lado de la señora.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Con resolución</hi>). ¿Eres desgraciada, Teresa?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Eso no; es decir… desgraciada… Todos los pobres son desgraciados. Dicen, que usted, don Fernando, estudia ahora eso. Pues ya irá usted viendo que es así. Y eso que en los libros no se aprende lo que es el que tiene miseria, quiero decir, el que carece… No; ni en los libros, ni viéndolo. No basta verlo, señorito.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Eres tú también socialista como tu Roque?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Quién le ha dicho que Roque…?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">En la mina; sé quién es; que no es aldeano, aunque ahora se ayuda a vivir con esta poca tierra que lleváis en arriendo; sé que era armero allá en la ciudad…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Allí le conocí yo.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Y tuvo que dejar el oficio por exaltado, por díscolo, por no tolerar la disciplina.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Impaciente</hi>). Roque trabaja como un león.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Y ruge. Dime la verdad, Teresa; yo tengo derecho a que me digas la verdad. A eso he venido. Cuando te vi hoy por primera vez, después de tantos años, sentí no sé que…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Se le puso una cara muy triste. Como si viera a una muerta. Ya lo esperaba yo. No me miro al espejo, pero sé que parezco otra. Siempre lo pensé: si el señorito vuelve a verme algún día, le pareceré un fantasma.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Y tú no esperabas que nos volviéramos a ver?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Esperar… no sé. Ni sí, ni no. Hace mucho tiempo que no espero nada bueno… ni desespero. Todo puede venir. (<hi rend="italic">Silencio</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Mira… Teresa: por no hablarnos como debemos en este poco tiempo que podemos estar a solas, sin que nadie lo sepa (<hi rend="italic">TERESA vuelve la cabeza hacia la puerta; después da en esta dirección un paso, retrocediendo sin volver la espalda a FERNANDO</hi>), me estás haciendo daño sin querer. Yo tengo que marchar sin falta mañana mismo, muy temprano; no sé cuándo podré volver…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Volver!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Sí; pero vuelva cuando vuelva, yo no quiero marchar así, sin saber cómo quedas; si eres muy desgraciada; si es verdad lo que oí en la mina… que tu Roque… ¡te maltrata!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Ah, don Fernando! ¿Quién ha dicho tal?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Con mirada escrutadora</hi>). En casa no sabías mentir.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Es que… es muy largo de explicar… Roque, mi Roque… vale más que esos que dicen… ¡yo no me quejo! ¡Nadie sabe nada! Ellos son los que mienten. (<hi rend="italic">Exaltada</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Tu Roque, sí; tu Roque; ya sabía yo; es tu marido; hay que quererle, sea como sea.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Claro! (<hi rend="italic">Tono especial de convicción; con un timbre como extraño a la voz ordinaria de TERESA</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Ay, ese claro! El claro de mi madre; sonó tu voz como la suya. ¡Claro! Siempre era claro el deber, el sacrificio.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Claro. Y para usted lo mismo. (<hi rend="italic">Acercándose</hi>). ¿A que no ha hecho el señorito en todos estos años, desde que es todo un hombre, y tiene obligaciones graves; a que no ha hecho nada de que tenga que avergonzarse? Pues yo lo mismo.</p>
+                  <p rend="justify">(Voz enérgica, algo seca. FERNANDO, que estará sentado hacia la derecha en primer término, se lleva una mano a los ojos. TERESA le mira, en pie, frente a él. Olvidada de la puerta, se acerca más a FERNANDO, nota que contiene su emoción, y se retira un paso, comprimiendo la suya).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Todo lo sé; todo lo sé. Pero… hay que atender a todos. (<hi rend="italic">Transición</hi>). Sólo te diré una cosa; tu Roque es tuyo; pero yo también… soy algo tuyo.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Voz temblorosa</hi>). ¡Ya lo creo! ¡El señorito! El hijo de la señora; mi señorito.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Sí; pero mi señorito… no es un parentesco.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Yo me entiendo.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pero no me entiendes a mí. A lo que iba: hace un año, solo en el mundo, en una fonda, tuve una enfermedad. Estuve en peligro de muerte. Era nervioso… una angustia infinita; horror de la soledad en que vivía; era como cuando… ¿te acuerdas?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Ah, don Fernando, calle! ¡Por Dios, don Fernando!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿No me quieres oír? ¿No me das este consuelo?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Sí, sí, hable; pero… Aquello no era nada. Se ponía muy nervioso… ¡unas ansias! Y su madre tenía que cogerle la cabeza; y yo, y todos, le hablábamos, le animábamos…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Sí, lo mismo; pero esta vez estaba solo. Llamaba a mi madre, y había muerto; llamaba a Palmira, y había muerto; te llamaba a ti… ¡y estabas tan lejos! (<hi rend="italic">TERESA va acercarse a FERNANDO con ademán de cogerle la cabeza, que él tendrá inclinada hacia adelante, pero se contiene; se aparta; se sienta lejos, y apoya su frente entre las manos</hi>). Después tuve una especie de delirio.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Delirio? Eso, antes no.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Ahora sí. Y me dijeron después que llamaba a voces…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">A la señora…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No, a Teresa; porque ya no tenía en el mundo más que a Teresa. (<hi rend="italic">Pausa</hi>). De modo… que no sé si yo soy algo tuyo; pero ya ves como tú eres algo mío.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Conteniéndose</hi>). La señora… era tan buena, tan cristiana, que criaba a los hijos y a los criados, como hijos de Adán todos, y todos hermanos en Cristo. Desde niños, nos tratábamos así. A mí me quería tanto… y sobre todo, después que murió la señorita…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Sí; pero hay que decirlo todo. Sí, todo, por lo que ya sabes; porque tengo que marcharme… ¡y así no quiero irme! (<hi rend="italic">Se pone en pie exaltado</hi>). Teresa, mi madre quería que el señorito y la criada, se amasen como hermanos; pero si el señorito se hubiese enamorado de la criada, no le hubiese dejado decirle que la quería… casarse con ella. Si un día llegó a temer algo, no se sabe; lo cierto es que la criada salió de casa con un pretexto… y al año se casó; y a poco desapareció del pueblo… y vino a enterrarse en las minas.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Y Dios se lo pague a la señora, de gloria. ¿Qué hubiera sido de mí sin mi Roque? ¿Servir en otra casa? ¡Ay; yo no servía para eso! Otros amos, no.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Te buscaron a Roque?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Sí; me lo buscaron Dios y la señora.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Dios! ¿Pues merecías tú castigo?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">En pie</hi>). ¡Señorito! También yo tengo que explicarle algo… (<hi rend="italic">Pausa</hi>). Para que nos entendamos. Yo a usted no quiero engañarle. Pero no sé decir lo que quiero. Hay cosas aquí dentro tan revueltas, que no les encuentro el nombre; entiéndame usted como pueda. Después que uno se casa… si se casa bien, como yo…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Yo no sé nada de eso; porque yo no me he casado…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Yo sí porque tenía miedo al hambre, a ser esclava, a humillarme, a estar sola en el mundo, a que me perdiera la miseria… usted no entiende de esto, señorito. Por muchas cosas… así… dulces… como de música, que tenga uno allá dentro… viviendo así… al aire libre, sin casa, sin amigos, sin pan seguro… se entrega uno a otra cosa más triste, más fría, más segura… más terca… Pero, después, en esa misma vida que es… como áspera, cuesta arriba, sin gracia, pena de cada día, de cada hora… sin consuelo de soñar, de sentir aquellas cosas de que hablaban los libros que me leía la señora… en esa misma miseria sin luz… va apareciendo una suavidad, una costumbre… un calor, un apego… y… yo, señorito, doy por usted la vida; pero no me hable mal de Roque.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Mal, no; pero hay que hablar de él y de mí, y de ti, y de todos. Cuando saliste de casa, porque mi madre sospechaba que yo te admiraba demasiado y temía que no pudiera contener mi… afición, como tanto tiempo la contuve… cuando consentí aquella crueldad…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Crueldad de quién?, ¿crueldad de una santa?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No; no es eso. Crueldad… del mundo, de las preocupaciones de clase, de los artificios sociales… tú no entiendes esto.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No; no lo entiendo. Sólo sé que Roque habla mucho de eso mismo cuando se exalta, cuando se desespera, cuando le falta la paciencia; y cuando le hacen beber esos miserables.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Cuando saliste de casa yo debí oponerme… o seguirte. No hice nada de eso. Entonces no comprendía lo que iba a perder, perdiéndote. La poesía del sacrificio inculcada en mi corazón y en mi cerebro por mi madre, por mis lecturas, por mis meditaciones, me hacía ver muy hermoso el dolor de perderte, de no seguirte, ¡egoísta!, sin reparar que había algo más que hacer que ser bueno pasivamente, como un esclavo. Yo debí seguirte, hacerte mía… Pero venció el respeto, venció el sacrificio… lo que creí el deber. Y a poco me vi solo en el mundo; sin mi madre, sin ti. Y a ti, ¡cómo te encuentro! (<hi rend="italic">Pausa</hi>). No hablo de tu hermosura, no; no quiero ofenderte, no quiero molestarte. No quiero, ni puedo explicarte cómo para mí esa palidez, esos ojos tristes, esos pómulos que denuncian el martirio de la miseria como clavos de una crucifixión, hundidos en el rostro… en vez de borrar la gracia que siempre vieron en ti mis ojos y mi alma, la aumentan, la hacen sublime hermosura. ¡Tú no sabes, tú no puedes saber, cómo y por qué yo estoy al cabo de la calle de todos los engaños de la vida, y no creo en clases, y veo en tus harapos atavíos de princesa espiritual; tú no sabes lo que vales; tú no sabes lo que eres; tú no puedes saber cómo ni por qué vínculos que tú respetas, que tú tienes por santos, porque te lo enseñaron mi madre y tu corazón de mártir, para mí son vínculos, barrera, abismos, sólo porque tú quieres! ¡No se hable de que te quise; no se hable de que te quiero, ni de que te necesito; no se hable de que te respeté como a una santa cuando estabas en mi casa, durmiendo cerca de mi lecho, y los dos éramos jóvenes, lozanos, llenos de salud y de ilusión, y de esperanza, y de deseo… y yo leía en tus miradas furtivas, en los relámpagos de gloria que sin querer vertías sobre mi alma, que tú también hubieras sido para mí si te dejaran, si se pudiera!… ¡Ay, sí; se podía! ¡Eso ignorábamos! ¡Se podía!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Basta!… ¡Basta, señorito! Yo también quiero hablar. Mientras callo, le estoy engañando… y no quiero engañarle. Aquí se trata de todo menos de lo que más importa: de Roque, de esta casa, de esa hija que duerme ahí cerca… oiga, oiga cómo respira: ¡qué tranquila!, ¡qué confiada! Se durmió sin cenar, con un pedazo de pan en la boca… porque no siempre han de ser patatas… óigala; ¡qué tranquila, qué confiada en su madre! Así trabaja Roque en la mina, en el campo: confiado, seguro de mí, de su casa… Si un miserable mal pensamiento me pasara por aquí (<hi rend="italic">la frente</hi>), mientras mi hija duerme o mi marido sufre en la mina, gastando la vida en ganarnos el pan… ¡con estas manos, me arrancaba esta cabeza!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Teresa, me estás ofendiendo mucho! Ya conozco que no me quieres nada, cuando tan mal me entiendes.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No sé si le ofendo; pero sé que no le quiero mal… Y, si a hacer daño vamos… ¿por qué me habla de lo que no se puede hablar… de lo que no se habló nunca?… Si todo aquello fue gloria, ¿por qué nos la enturbia ahora… desde lejos? Nunca me avergonzó el señorito metiéndose a averiguar lo que yo miraba, lo que yo sentía. Callamos siempre los dos. ¡Bien haya lo que callamos! No se arrepienta; no se arrepienta de haber obedecido a la señora; de haber respetado el único bien que yo tenía… Calle ahora, que importa más que nunca, y no se llame a engaño… créame a mí, que he padecido mucho… A veces… para ciertas penas, las mayores, nadie me acompaña a sufrir… Pero mientras soy buena, me parece que no estoy sola. A los malos se les muere el Ángel de la Guarda.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Sé buena; pero no como yo lo fui, dejándote marchar para caer en la miseria. No seas buena, olvidándote tanto de mí. Lo que yo digo es esto: que no puedo sufrir el tormento de que tú, a quien tanto quiero y necesito, y por esto te hablo de que te necesito y te quiero, padezcas hasta el martirio esta clase de dolores groseros, materiales: la miseria, los trabajos forzados; y la soledad de tu alma en el trato soez, áspero y brutal de estos… desgraciados. ¡Yo no puedo consentir eso! No; no puedo. Me remuerde la conciencia y me sangra el corazón. Mira como yo te veo; como yo te tengo que ver; para mí, tú eres mi mujer; mi mujer a quien yo por egoísmo brutal, por estupidez, abandoné un día… y que ahora encuentro cubierta de harapos, arrastrando el peso de una montaña de deberes que la oprimen, la humillan, ¡la matan…! ¡La idea de que tienes hambre, de que te… maltrata un hombre, a ti, a mi Teresa! ¡No; imposible! ¡Todo esto va a acabarse!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Fría y solemne</hi>). ¿Cómo?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No sé; pero se acaba.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No olvide, señorito, que siendo Roque quién es, y cómo es, usted no puede hacernos ningún bien, y puede hacernos mucho daño.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pues ¿cómo es Roque?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Figúrese que hubiera condes y marqueses, de eso que usted decía antes… del… socialismo… o cosa así; en fin, marqueses del orgullo de los pobres. Pues mi Roque es marqués, y duque, y conde. ¿No me entiende? Que para Roque hay clases, y la de usted es maldita; piensa, y no se trata de que tenga razón, sino de que lo piensa, y aquí es el amo, que de los señores no puede venir nada que no manche, que no deshonre si no se lo arranca la justicia del pueblo. Quiere lo que tienen los ricos para repartirlo, o no sé qué, pero no quiere nada de limosna. ¡Ay de mí, si de usted entrara un bocado de pan en mi casa! En cambio, no más con verle a usted aquí a estas horas, solo conmigo, ya creería que el señorito se lo había robado todo; porque, en rigor, ¿qué más tiene él que la honra que yo le guardo?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Ah, por Dios, Teresa, lo que dices! ¡Tu honra… a mí! ¡Ay, cuántas cosas has olvidado!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Eso, no, nada. Verá cómo recuerdo. Todas las noches, antes de meterse en su cuarto a velar, cuando la señora y yo nos íbamos a la cama, el señorito se quedaba paseando por aquella galería larga y estrecha. Al extremo estaba mi alcoba. Pasaba yo, y decía: ¡Buenas noches, señorito! (FERNANDO, que tiene oculta la cara entre las manos, inclinada la cabeza, hace signos de asentimiento) y entraba, y apagaba la luz… y oía sus pisadas que iban y venían… y ni una sola noche me cerré por dentro. Aquello sí que creería yo que sería ofenderle… A lo que usted era para mí… no le daba yo nombre… no soñaba con que usted me quisiera; no lo llamaba así, a lo menos. Pero de que estaba bien guardada por aquel centinela, estaba bien segura. ¿Acordarme? ¿Cómo he de olvidar aquella vida, si, cuando Roque grita furioso diciendo que no hay cielo… yo sé que por lo menos lo hubo? (<hi rend="italic">Esto último lo dirá como ensimismada</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Ay, Teresa!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Silencio! (Ha creído oír algún ruido fuera. Se acerca a la ventana del primer término, y escucha; en el silencio de la escena se oirá, hacia la carretera del primer término izquierda, un rumor lejano, desigual, de voces, como de disputa, algunos gritos más altos a veces; todo vago y sordo todavía). ¡Ah, bueno fuera! (Se acerca a la puerta, la entreabre y saca fuera la cabeza para oír mejor, y observa). ¡Sí, es él; su voz; viene con otros… y ya está cerca! Pero ¿cómo vuelve tan pronto? Y ya están ahí… ¡Señorito, señorito!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pero ¿qué pasa, qué tienes?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Perdone, don Fernando; pero… tiene que marcharse. No; y por ahí, de frente, no; daría con ellos…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Con quién? ¿Qué es esto? ¡Marchar! ¿Por qué?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Más enérgica</hi>). Sí, marchar, y sin que le vean; no hay más remedio. ¡Por Dios se lo pido! ¡Por mí… por todos!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No te entiendo.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Impaciente</hi>). Pues es bien claro: que viene Roque; que… no vendrá bueno; que no viene solo. Y no ha de verle a usted conmigo; solos aquí, a estas horas. (Le lleva del brazo hasta la puerta, sin oírle, atenta sólo a los de fuera).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Esconderme… yo huir de ti como un criminal? ¡Nunca! Tu marido, ¿qué puede sospechar?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Y pronto, pronto. (<hi rend="italic">Fijándose ahora en lo que FERNANDO ha dicho</hi>). ¿Sospechar? Nada. Todo lo dará por seguro; y con él los otros; ¡y cómo vendrá! Por ahí, por ahí; por detrás del carro, a la carretera, hacia la mina, arrimado al seto…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Nunca!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Ahora mismo! ¡Por la memoria de la señora! No podría usted hacerme mayor daño que quedarse. Si no escapa, le juro que estoy perdida. ¡Por la señora! ¡Por lo que más quiera! (<hi rend="italic">Vuelve a mirar fuera y se vuelve atrás de repente</hi>). ¡Oh, rabia! ¡Mísera de mí!, ¿qué culpa tengo yo?</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pero ¿qué es?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Que es tarde; que ya están ahí; que la luna alumbra traidora, y le verán si sale. (<hi rend="italic">Mantiene la puerta cerrada y sujeta</hi>). ¡Don Fernando!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pero… si… parece mentira…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Parece mentira… y hay que esconderse. Viniendo, como de fijo vendrá, ese infeliz; viéndole gente, compañeros; siendo usted un señor, el que yo llamo el señorito, el que me ha hecho a mí servil, como él piensa… y a estas horas, aquí solos, juntos, sin él saberlo… y como vendrá… ¡oh!, de seguro, no le respeta.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Cómo se entiende!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Si no es por usted; si es por mí… por lo único mío que no es un andrajo, una miseria; por esta honra que tan bien guardaban usted y su madre, allí en el palacio de Soto… ¡Porque yo no quiero que mi Roque me crea mala… y haya aquí sangre… y deshonra!… ¡Por esa hija que duerme con hambre!</p>
+                  <p rend="justify">(Se oyen más cerca los gritos; aparece en el primer término izquierda un grupo, en medio de él, ROQUE, vociferando).</p>
+               </div>
+               <div type="div3">
+                  <head>Escena VII</head>
+                  <subtitle>TERESA y FERNANDO en la casa; fuera ROQUE y grupo de MINEROS.</subtitle>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Vaya! ¡Basta! No necesito de nadie. Sé andar solo. (Da algunos pasos vacilantes. El pie herido, lo apoya apenas en el suelo; trae destrozado el pantalón por debajo y el zapato con manchas de barro y sangre y medio deshecho). ¡Ah, rayos!</p>
+                  <p rend="justify">(Grita así al sentir el dolor del pie, que quiere apoyar en tierra. Se inclina para apoyarse en el montón de grava y no caer. Se le acercan los del grupo, que muestran solicitud y animación de gente que ha bebido demasiado).</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">Vaya, vaya; a la cama. Teresa, aquí tienes a éste; abre.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Que habrá estado como deliberando dónde podrá esconder a FERNANDO y persuadiendo a éste</hi>). No, ahí dentro, no; por mal que venga, no se acostará sin ver cómo duermen la niña y Rita. Por ahí tampoco; es nuestro cuarto. No hay más remedio; detrás de esa escalera; en ese hueco. Arriba es el pajar; está cerrado… no está aquí la llave; ahí, ahí detrás. ¡Qué vergüenza, señorito, qué vergüenza! ¡Perdón, perdón!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Bueno, calla. ¡Pobrecilla mía! No padezcas tanto. No me importa; algo he de hacer por ti. Allí espero… ¿Allí no irá?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No; primero me mata. ¡Pero, por Dios, don Fernando! Que vea usted lo que vea, oiga lo que oiga… no puede ser nada que me haga más injuria que el salir usted y que se encuentren.</p>
+                  <p rend="justify">(El grupo de fuera habrá estado hablando confusamente).</p>
+                  <p rend="justify">MINERO 2.º.</p>
+                  <p rend="justify">Bueno, adiós. Y santas noches. Mañana… ya se sabe, ni uno solo a la mina. Todos a la Foz, al monte. ¿Irás Roque… si te deja la herida?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Rayos! Iré… y arda el mundo. Y si vienen los guardias, ¡a ellos! ¡Miserables! Son verdugos; son cómplices.</p>
+                  <p rend="justify">MINEROS.</p>
+                  <p rend="justify">¡Buenas noches!</p>
+                  <p rend="justify">OTROS.</p>
+                  <p rend="justify">¡Buenas noches, Roque!</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">No, esperad un momento; quiero que se vea… que se vea… ¡Teresa! (<hi rend="italic">Gritando</hi>) que vean que el Chinto miente como un canalla; ¡Teresa!, abre de par en par, que pasen éstos; que vean que en mi casa no entra, sin mi permiso, a escondidas, ningún burgués infame… ¡Teresa! ¿No sales? ¿Qué es esto?</p>
+                  <p rend="justify">(Abre TERESA la puerta. ROQUE se incorpora con dificultad).</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">No seas loco.</p>
+                  <p rend="justify">MINERO 3.º.</p>
+                  <p rend="justify">Estás algo… ves turbio.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">No, veo claro… para defender mi honra…</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">¡Bah! ¿Quién piensa…? Aquí nadie dice… ni nos importa. El Chinto es una mala lengua.</p>
+                  <p rend="justify">MINERO 2.º.</p>
+                  <p rend="justify">Te envidia, porque tienes amigos, partido…</p>
+                  <p rend="justify">UNO.</p>
+                  <p rend="justify">Y te odia porque le pinchas.</p>
+                  <p rend="justify">MINERO 3.º.</p>
+                  <p rend="justify">Y haces bien; está vendido a los de arriba, a los que nos explotan.</p>
+                  <p rend="justify">TODOS.</p>
+                  <p rend="justify">¡Buenas noches, buenas noches!</p>
+                  <p rend="justify">MINERO 1.º.</p>
+                  <p rend="justify">Hasta mañana.</p>
+                  <p rend="justify">MINERO 3.º.</p>
+                  <p rend="justify">En la Foz.</p>
+                  <p rend="justify">(Desaparecen por varias partes, y a paso lento los mineros).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Estás sorda? ¿Qué hacías? ¿Por qué no vienes? Abre ahí de par en par; que vean todos que en mi casa no hay señores.</p>
+               </div>
+               <div type="div3">
+                  <head>Escena VIII</head>
+                  <subtitle>TERESA y ROQUE; FERNANDO, escondido.</subtitle>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Qué es esto, Roque? ¿Por qué vuelves tan pronto? ¿Qué tienes?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">Se han marchado. No quieren entrar; no quieren ver…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Entra tú.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Silencio! ¡Déjame! ¡Maldita casa! ¡Maldita mujer!… ¡Cómo atáis; cómo atáis a la miseria… y al miedo… al miedo de perder el pan… y la honra!; ¡oh, yo quería ser libre! ¡Para luchar, para vengarme!… Para no deber a ese miserable, a ese judío… que me insulta, porque me tiene atado… porque… ¡Tú tienes la culpa de todo! (<hi rend="italic">Airado</hi>).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Roque, por Dios, Roque! Entra… ¿No puedes andar? ¿Qué tienes?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Será la borrachera, mujer! ¿Por qué no lo dices? ¿Por qué no me lo echas en cara? Sí, el aguardiente; es eso; el veneno que nos vende el burgués para embrutecernos, y volvernos locos… y tener él razón y perdernos. (Tropieza, y se lastima en el pie herido). ¡Ah, rayos!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿Qué es eso? (<hi rend="italic">Con ansiedad</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Eh! (<hi rend="italic">Con desprecio</hi>). Quita… nada.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¿La herida… otra vez abierta? Entra, entra… (<hi rend="italic">Quiere ayudarle a entrar</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡No te acerques… o no respondo!…</p>
+                  <p rend="justify">(Entra él solo en la casa con dificultad; se sienta en el banco junto a la mesa; apoya el pie en ésta, y la cabeza en la mano).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Entrando</hi>). Pero yo, ¿qué te he hecho? ¿Qué pasa? ¿Por qué vuelves tan pronto? Déjame ver… (<hi rend="italic">Señalando al pie herido</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡No te acerques! Y abre esa puerta… que me ahogo; y quiero que todos vean mi casa donde no hay burgueses… donde no hay señoritos. (<hi rend="italic">Se levanta</hi>). ¡Digo! Me parece… Habla tú… ¿Hay aquí algún miserable?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Por Dios, Roque, deliras!… ¿Qué es esto?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Por Dios! ¡Por Dios! La beata; la santurrona; servil, siempre servil. ¡Por ti todo! ¡Por ser quien eres! ¡Por venir de donde vienes! ¡Ah, no sabes lo que sé! El Chinto contaba la historia a grito pelado en la taberna. ¿No lo sabes? Tu señorito, el don Fernando, ese que para ti era un Dios, un ángel, un santo… ¡qué sé yo! ¡El hijo de tu ama, la que te hizo a ti santa, servil… pues ése, ese… viene a las minas a tenernos lástima!; a estudiarnos… y a darnos una limosna a ti y a mí… porque dice el Chinto que fuiste su criada, ¡y eso es verdad! Y que allá en el palacio de Soto, te querían mucho, mucho… demasiado… ¡Rayos! ¡Me engañaste miserablemente!… ¡Me buscaron a mí… para…!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Estás loco, pobre Roque! ¿Tú crees en mí…?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Nada! ¡No! ¡Te mataba! ¡Te aplastaba!… Pero el Chinto lo decía, y yo me arrojé a matarlo… Y basta que lo pueda decir; que tenga algo a que cogerse… Tú siempre con tu señora; con tu palacio de Soto. ¡Yo no quiero mujer! No quiero casa; no quiero honra que guardar; pan que ganar para vosotras… quiero ser solo, y batirme con quien me explota, cuerpo a cuerpo, el burgués y yo. Conspirar; sublevar la mina; y las otras, las del hierro, para hacer puñales, y guillotinas, y balas, y cañones… ¡quiero sangre! ¡La de tus señoritos santos, que explotan al pueblo… y después lo estudian y le tienen lástima, y le arrojan limosna!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Cálmate un poco, Roque. Siéntate. Ese pie sangra. ¡Dios mío, sangre! Déjame ver… ¿pero, qué fue? ¿Cómo fue?</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡No te acerques!… Yo estaba leyendo… leyendo el papel a los compañeros; y el Chinto, en otra mesa, se reía, y cuando le insulté por miserable, por vendido a los que nos explotan, a los amos; cuando le dije que él era un esclavo asalariado del burgués y yo un obrero leal, que me debía a mis ideas: «Cuéntame entre tus ideas» me gritó el Chinto. ¿Por qué? «Porque a mí también me debes algo». Perdí la vista… así como ahora… que no veo; pero allá, por dentro, vi rojo, vi sangre… Me arrojé sobre el bandido, pero caí a tierra; sentí aquí un dolor, tropecé con no sé qué… me sujetaron: y la herida de la mina, del maldito peñasco, echaba sangre, dolía como un infierno… Quise levantarme y matar a aquel hombre, pero no me dejaron. Me sujetaban… y a él la lengua no; y decía… eso… que tú… que el señorito… (<hi rend="italic">Exaltación súbita</hi>). ¡Ah!, y todo es posible. Porque los señoritos roban la honra del pueblo como cosa de poco precio. Y tú, tú piensas como ellos; tú te burlas de mí, de mis ideas, me tienes atado, esclavizado… por ti soy servil… aquí… en la mina; por ti no tiene pan mi Rita, la que me dejó mi madre, mi pobre Rita enferma… que no me engaña, que nunca fue, como tú, una miserable criada, esclava… ¿Callas, callas?, ¡es que eres culpable! ¡Hipócrita, defiéndete, que te mato! (<hi rend="italic">Avanza amenazador con paso vacilante</hi>).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Estás ciego, loco… Roque! ¡Mira lo que haces, loco, ciego!</p>
+                  <p rend="justify">(Retrocediendo hacia la puerta. Ve a FERNANDO que sale de su escondite para lanzarse sobre ROQUE, el cual le da la espalda, persiguiendo con paso difícil a TERESA. Ésta, al ver la actitud de FERNANDO, se precipita sobre el banco que hay junto al hogar y coge el cuchillo que está allí entre pellejos de patata. Blandiendo el arma contra su pecho, amenaza con herirse con ademán tan enérgico, claro y resuelto, expresión capital que se fía al talento de la actriz, que no deja lugar a duda a FERNANDO respecto del intento. FERNANDO vacila, pero al fin retrocede, se esconde, ante la actitud de TERESA).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Ah!, ¿qué es eso? ¿Me amenazas? ¿Tú a mí? Aquí anduvo el señorito. Nunca has hecho eso. Consejos del señorito, ¿verdad? Eso quiero yo: ¡guerra, sangre! No; pero yo no te mato… Espera… espera… me falta algo… la luz… ya… sé… la vara del guardia… allá dentro la tengo… Ya la conoces… se la arranqué a un guardia que azotaba a un minero el día de la huelga… ¿Dónde está, mala pécora? ¡Ay de ti si la has escondido! Si no parece, con esto te aplasto.</p>
+                  <p rend="justify">(Sacudiendo en la mano la lámpara de minero que estaba sobre la mesa. Sale, arrastrando el pie, tropezando con todo, por la puerta del segundo término de la derecha. Se ha de notar en su gesto, voz y actitudes, que la excitación aumenta por momentos el desvarío de la embriaguez y la ira).</p>
+               </div>
+               <div type="div3">
+                  <head>Escena IX</head>
+                  <subtitle>TERESA y FERNANDO. TERESA se deja caer sollozando sobre una silla de paja que hay cerca de la ventana. FERNANDO sale de su escondite.</subtitle>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Oh! (<hi rend="italic">Levantándose asustada al verle</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Mostrando el efecto que le ha producido la lucha interior mantenida para contenerse, y no salir antes</hi>). ¡Basta!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No; no basta. A la calle; pronto. Huya usted.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Ven tú.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Locura, perdición! A la calle; pronto… fuera.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">No; o vienes o me quedo… y le mato.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Coge otra vez el cuchillo</hi>). O sale, o escapa, o muero yo: juro por Dios y por la santa señora difunta, que muero yo. Créame, señorito; no he mentido en mi vida… ¡Muero! ¿No me conoce en los ojos que es verdad que muero; que me clavo si él vuelve y usted se queda? ¡Luego, o clavo!…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Un instante. Soy un hombre. Huir sería cobarde… ¡Sin defenderse! ¡Sin salvarte!… Va a venir… con la vara del guardia. ¡Ay, que ya la conoces! ¡Ah, maldito!… ¡Y me dices que ese hombre es bueno!…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No digo bueno ni malo; es mi hombre; soy suya.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">La vara del guardia.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Mentira… sueña… está loco… No pega.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Sí pega!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(<hi rend="italic">Mesándose los cabellos</hi>). ¡Pero qué le importa a nadie lo mío! ¡Mi casa es mía! ¡Nuestra vida, nuestra! ¡No me ofenda, señorito! ¡Esta limosna tampoco yo la quiero! ¡Pues salga usted o muero, y muero yo, y morimos todos! (<hi rend="italic">Vuelve a amenazarse con el cuchillo</hi>).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">(<hi rend="italic">Dentro</hi>). ¡Teresa! ¿Con quién hablas? Teresa, ¿qué es esto?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">(Arrebatada por el pavor, coge a FERNANDO por medio del cuerpo, le impele hacia la puerta, que cierra por dentro con cerrojo y se vuelve de frente a la habitación en que habla ROQUE. Al arrojar a FERNANDO, en voz baja, enérgica, dice). ¡Fuera digo; fuera!</p>
+               </div>
+               <div type="div3">
+                  <head>Escena X</head>
+                  <subtitle>TERESA y ROQUE en la casa; FERNANDO fuera. ROQUE aparece en el umbral, donde se detiene, apoyándose en el marco de la puerta. Cada vez anda con más dificultad. Dará muestras de gran fatiga, postración sombría, más furor, pero más ciego, incoherente y de difícil expresión.</subtitle>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¿Con quién hablabas?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Sola; con tus injurias.</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">No te entiendo… no veo… Tengo aquí plomo (<hi rend="italic">En la cabeza</hi>), y aquí cien perros de presa. (<hi rend="italic">En el pie herido</hi>).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Déjame ver…</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡No te acerques! ¿Qué buscaba yo? ¡Ah!… ¡No sé! (<hi rend="italic">Furioso</hi>). ¡Sí sé! Buscaba… a ése; a ese con quien hablabas. ¡Era tu don Fernando! Luego no mentía el Chinto. Él le vio en la sombra; en el sendero de la Foz, dijo… venía aquí… ¡Mala mujer!, ¿dónde le escondes? Que salga ese cobarde, ese burgués maldito, que no cree, ¡como ninguno cree!, en la honra de los pobres. ¡Claro! Por eso se atreven con nuestras hijas, con nuestras mujeres. «¡Como tienen hambre, no tendrán vergüenza!». ¡Oh!, que salga el tuyo y verá si muere, si paga por todos. (<hi rend="italic">TERESA habrá estado sacando del armario un vendaje</hi>). ¿Dónde estás? ¿No me oyes?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Sí; aquí…</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡Contesta, discúlpate, miserable! ¡Pero no te acerques! Fuera pamemas, no quiero tus cuidados; que venga mi hermana; que me cure ella; a ti te aborrezco.</p>
+                  <p rend="justify">(TERESA insiste en acercarse inclinada para ver la herida de ROQUE. FERNANDO observa, por la ventana entreabierta, con ansiedad. Durante toda esta parte de la escena en que no habla, el actor suplirá con la sobria acción oportuna las palabras que serían inútiles, pues está solo en la calle. Al principio habrá intentado mantenerse en la puerta, para entrar en caso de apuro, pero notará que está cerrada por dentro; mostrará contrariedad, cólera, y se acercará a la ventana, desde la cual seguirá el diálogo de dentro con la expresión y gestos que el actor juzgue del caso).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Déjame curarte, Roque! ¡Sangras!</p>
+                  <p rend="justify">(TERESA se arrodilla con una pierna, y así, avanza hacia ROQUE como pretendiendo cogerle el pie herido. Procura ROQUE retirarlo, retrocediendo algo, y esquiva a TERESA y llega a amenazarla con la lámpara de minero).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">¡No te acerques, causa de mi desgracia, de mi esclavitud, de mi deshonra… servil… criada villana, beata hipócrita!… ¡No te acerques, o te mato!… ¡Quita!</p>
+                  <p rend="justify">(Rechaza a TERESA con la mano que empuña la lámpara, y hiere con ella en la frente a su mujer. Brota sangre de la herida. Grito de dolor y espanto de TERESA, que retrocede hacia la ventana, aturdida).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Ay de mí!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡Cobarde! ¡Miserable!</p>
+                  <p rend="justify">(Desde fuera, metiendo los puños crispados entre las rejas de la ventana. TERESA, que había llevado las manos a la frente, encogida, se yergue, se lanza a la ventana y la cierra de golpe; se coloca de espaldas a ella como antes hizo en la puerta. FERNANDO mostrará la ansiedad de su situación, sin osar revelar su presencia; todas sus potencias, en adivinar lo que pasa dentro y no puede ver; pero sin distraer la atención del público, que debe concentrarse en la casa).</p>
+                  <p rend="justify">ROQUE.</p>
+                  <p rend="justify">(Cree que fue TERESA quien habló; esto ha de hacerlo más verosímil el actor por el modo de su acción, y mostrando el progreso del mal en ROQUE, próximo al colapso). ¡Gracias al diablo que contestas! Mas, quiero eso, eso… ¡Así aplastaré en tu persona las malditas ideas de servidumbre que te enseñó la tunanta de tu ama… la que me endosó esta pécora!… ¡Oh!, ¿qué es esto? ¡Me ahogo!… ¡Teresa!… ¡Ven, Teresa! ¡Yo estoy loco! ¡Aquí fuego… y plomo!… ¡Plomo! ¡Cómo pesan estos burgueses!, ¡pesan sobre mi honra… aquí… encima del cráneo!… ¡Teresa!… ¡Mi Palmira!… ¡Rita!… ¡Madre!… ¡Teresa!… (Se desploma y cae al suelo, de espaldas, en cruz).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Roque!… ¡Roque! (<hi rend="italic">Se lanza a él; le sujeta la cabeza, que apoya en sus rodillas</hi>). ¡Ya acabó todo!… ¡Ya pasó la tormenta! Pero ¡cómo pasa!… ¡cómo acaba! Y hoy más feroz que nunca… Salió sin cenar, excitado; y allá, ese Chinto infame… ¡Ah! Pero no; no será nada. Será lo de siempre: el pasmo de siempre. ¡Triste veneno te dan esos malditos! ¡Pago yo, pagas tú, todos! ¡Santa madre de Dios!… ¡qué vida!… ¡qué vida! ¡Ah, miseria! ¡Mal haya! (<hi rend="italic">Voz de lágrimas</hi>). ¡Todo es la miseria! (<hi rend="italic">Inclina la frente sobre el pecho de ROQUE, cuya cabeza ha dejado suavemente en tierra</hi>). Pero ahora, ¿cómo le levanto de aquí?… ¿Cómo le llevo a la cama… yo sola? No puedo con él. ¡Despertar a Rita… no! Dios hace que duerman siempre como piedras. No saben nada de estas cosas… Rita sí. Algo sabe; pero calla: teme avergonzarme. Hoy no; hoy no ha oído nada. Hoy duerme ella como éste, como el hierro.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Ha notado el silencio del interior; crece su impaciencia: procura violentar la puerta; llama suavemente, y dice</hi>). ¡Teresa!… ¡Teresa! ¡Por compasión!… ¿Qué sucede? ¡No puedo más! ¡Abre, o salto la puerta!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Ah! ¡Don Fernando! Infeliz; lo que habrá padecido… Sí; le abro… Ahora no importa. ¡Que me ayude primero… y después que marche y que en la vida vuelva! (<hi rend="italic">Abre a FERNANDO</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Qué es esto? ¡Mi Teresa! ¿Ese hombre? (<hi rend="italic">TERESA extiende una mano hacia ROQUE</hi>). ¡Ah!, sí. Ya veo. Al fin, como un leño. Sus vicios hacen justicia a sus crímenes.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Silencio! ¡Es mi marido!… ¡Y es un hambriento! (<hi rend="italic">Se acerca a ROQUE como amparándole</hi>). Ahora, está así, porque el hambre, el despecho, el afán, el miedo a la miseria… y los que venden veneno a los pobres en aguardiente y en papeles… le echaron ahí como un saco. Pero otras veces estuvo igual, sin dar pie ni mano… porque el gas de la mina le arrojó contra una peña. Y siempre viene a ser lo mismo. ¡Todo es hambre! La suya y la nuestra, que se le sube a la cabeza con el engaño de la traidora bebida…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pero tú, tú… ¿por qué has de sufrir?… Yo no lo sufro. Esto se acabó para siempre. ¡No me exijas más! He padecido en estos momentos, más que en toda mi vida. Por ti… he sido un miserable… ¡Tuve que hacer… lo que haría un cobarde! ¡Oh, rabia!</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">No. Tampoco ha de insultarse a sí propio. (<hi rend="italic">Sombría</hi>). Nadie tiene la culpa de nada. Ahora, a lo que importa. Voy a sacar el jergón de este infeliz. Si le metiera en la cueva en que dormimos, se ahogaría. Hoy descansará aquí fuera. Me ayudará usted, señorito… Aguarde un momento. (TERESA entra por la puerta segunda de la derecha. En tanto FERNANDO se sienta lejos de ROQUE y oculta la cabeza entre las manos). ¡Señorito, ánimo, ea! (<hi rend="italic">Sale arrastrando un jergón</hi>). Ayude, y van dos; usted por la cabeza… yo por los pies para que no se lastime. (<hi rend="italic">Colocan a ROQUE sobre el jergón en la misma postura que tenía en tierra</hi>). No hay miedo, no; ahora no despierta. Mañana el pobre Roque no se acordará casi de nada. Algo le picará en la conciencia, pero eso se le quita poco a poco sudando en la mina. Si éstos son pecados, harto los purga allá dentro. (<hi rend="italic">Se arrodilla para curar la herida a ROQUE</hi>).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Acercándose por detrás a TERESA</hi>). Pero tú le perdonas… pero tú olvidas… ¡Oh!, ¡esta sangre! (<hi rend="italic">Al ver que le resbala a TERESA por la frente al inclinarse</hi>).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Es la suya…</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¡No! Es tuya…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Suya o mía… no importa; ¡es sangre nuestra!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">¿Y no aborreces esta vida? ¿No desprecias y maldices al bárbaro y cruel que te maltrata? (<hi rend="italic">TERESA se pone en pie</hi>).</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Despreciar! ¡Aborrecer! ¿Con qué derecho? Como su pan; duermo en su cama. Él me ampara contra todos. Me aguanta, le aguanto; ésta es la vida. Lo que usted ve ahí… no es lo que yo veo. ¡Ay, señorito! Usted que es tan sabio, que ahora estudia a los pobres… nunca comprenderá lo que es el miserable. Yo lo sé, porque soy carne suya, y donde le duele, me duele. Como le ayudo a lavarse el cuerpo, que parece de diablo, cuando sale negro o encendido de la mina, con el pensamiento le lavo el alma, y se la veo limpia, con cara de domingo; enferma no más del hambre que taladra el cuerpo, y llega a los corazones. ¡Y basta! Y ahora váyase, que aunque duermen como piedras, por milagro podrían despertar Rita o Palmira, y oírle; y ya es tarde, muy tarde… ¡Oh, qué noche! (Se siente desfallecer, y cae sentada cerca de ROQUE).</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(Se acerca por detrás; se inclina, y le dice al oído). De todos te acuerdas… menos de mí… y de ti…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Basta, don Fernando! ¡Que adiós le digo!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Y lo que yo he sufrido y sufro… ¿no es nada?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Dios se lo pague, pero hizo lo que debía.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Pero fue terrible sacrificio. No importa. Todo está bien. Pero págamelo. ¡Teresa, yo no puedo marchar así! Teresa… sígueme; ven conmigo. Haz algo tú por mí, ven… que yo no puedo dejarte en esta vida de infierno.</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Ésta es vida de purgatorio; de infierno, sería esa otra.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Llevaremos a tu hija… duerme; sin despertarla. Tal vez podríamos llevar la…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Sí, eso. Robárselo todo. Pero por mucho que le robáramos, no le robaríamos lo que es suyo aquí, en mi corazón.</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Retrocede un paso</hi>). ¡Bien! ¡Basta! ¡Adiós! (<hi rend="italic">Va hacia la puerta</hi>). Con eso lo dices todo. En fin, que a él le quieres, y a mí…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Ya lo creo que le quiero! Y a usted, don Fernando, ¿no le quiero? (Acercándosele, pero llevándole suavemente hacia la puerta). Lo que yo no quiero, es que mi señorito padezca solo… viva solo allá en el mundo; no quiero que cuando le dé el mal de sus angustias, de las ansias, no tenga un regazo en que apoyar la cabeza. ¡Y no lo tiene, no lo tiene! (Ya estará fuera FERNANDO, y TERESA en el umbral). ¡Búsquelo, señorito! ¡Cásese, cásese por Dios; que tenga quién le quiera, quién le acaricie y le consuele en sus angustias!… No, no esté solo; ¡yo no quiero que mi señorito esté solo!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">(<hi rend="italic">Enternecido</hi>). ¡Teresa! Pero… ¿y tú?</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">Yo no estoy sola… Y adiós, adiós; no más, no más estar aquí. ¡No vuelva, no vuelva!</p>
+                  <p rend="justify">FERNANDO.</p>
+                  <p rend="justify">Por ahora, no. Mi presencia, para ti es duelo, espanto, desgracia. Tu único bien, pobre mártir, es que yo marche. Adiós, adiós; mi dulce, mi pobre Teresa; hija del alma de mi madre…</p>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Eso! ¡Eso! La santa madre nos bendiga. (Según FERNANDO se aleja lentamente, vuelve el rostro hacia la casa; TERESA, sacando el busto fuera como si quisiera seguirle sin moverse, va dando más expresión de ternura a sus palabras de despedida). Hasta… cuando Dios quiera… Buenas noches… (<hi rend="italic">Ya no se ve a FERNANDO</hi>). Buenas noches, señorito.</p>
+               </div>
+               <div type="div3">
+                  <head>Escena XI</head>
+                  <subtitle>TERESA; ROQUE, en tierra. Después que pierde el ruido de los pasos de FERNANDO, se vuelve, a ROQUE, aletargado.</subtitle>
+                  <p rend="justify">TERESA.</p>
+                  <p rend="justify">¡Y tú, mi pobre león! ¡Ah, otra vez la sangre! ¡Desatada la venda! (Corre a él; al inclinarse para atar la herida desatada siente la sangre que le resbala por la frente, y le nubla la vista). ¿Qué es esto? ¡No veo! (Lleva los dedos a la frente; ve en ellos la sangre). ¡Ah; no es nada! (Rasga con prisa un pedazo de la venda de ROQUE que había desenvuelto, se lo ata como quiera, con fuerza, alrededor de la frente y sigue ligando el pie de ROQUE, siempre inmóvil, en cruz. Como contestando a su pensamiento). ¡Yo aquí!… ¡Siempre aquí!… ¡Junto al hombre de mi cruz…! ¡Al pie de mi cruz… que sangra!</p>
+                  <trailer>(<hi rend="italic">Telón</hi>).</trailer>
+               </div>
+            </div>
+            <div type="div2">
+               <head>¡Gracias por leer este libro de www.elejandria.com!</head>
+               <p rend="center">Descubre nuestra colección de obras de dominio público en castellano en nuestra web</p>
+               <div type="div3">
+                  <div type="div4" rend="P4">
+                     <head>Libro descargado en www.elejandria.com, tu sitio web de obras de dominio público<lb/>¡Esperamos que lo disfrutéis!</head>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

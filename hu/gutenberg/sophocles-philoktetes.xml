@@ -1,0 +1,4002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philoktetes</title>
+            <author>Sophocles</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-06T15:25:02Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-20T11:08:02.611762583</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Philoktetes</head>
+         <author>Sophocles</author>
+         <p rend="italic">2022-09-27T22:55:06.219567+00:002020-02-23</p>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg/>
+         <div type="div1">
+            <head>Philoktetes</head>
+            <p rend="justify"> </p>
+            <p rend="center">IRTA</p>
+            <p rend="center">SOPHOKLES.</p>
+            <p rend="center"> </p>
+            <p rend="center">GÖRÖGBŐL FORDITOTTA, BEVEZETTE ÉS JEGYZETEKKEL KISÉRTE</p>
+            <p rend="center">CSIKY GERGELY.</p>
+            <p rend="center"> </p>
+            <p rend="center"> </p>
+            <p rend="center">BUDAPEST.</p>
+            <p rend="center">FRANKLIN-TÁRSULAT</p>
+            <p rend="center">MAGYAR IROD. INTÉZET ÉS KÖNYVNYOMDA.</p>
+            <p rend="center">1903.</p>
+            <p rend="center">FRANKLIN-TÁRSULAT NYOMDÁJA.</p>
+            <div type="div2">
+               <head>Bevezetés</head>
+               <p rend="justify">Midőn a hellen hadsereg Trója ellen vonult, Philoktetest, a metonai s más hadak vezérét Chryse szigetén egy kigyó úgy megmarta lábán, hogy fájdalmas sebének bűze miatt s folytonos jajveszéklésével a seregnek nagy alkalmatlanságára vált. Azért Odysseus tanácsára a szomszéd Lemnos szigetén, épen midőn egy szikla aljában elaludt, magára hagyták. E lakatlan szigeten töltött el hosszú kilencz évet, elhagyatva mindenkitől, testi és lelki gyötrelmei között. A tizedik évben Helenos jós kijelenté a görög seregnek, hogy Tróját csak Herakles nyila által veheti be; mivel pedig ez Philoktetes birtokában volt, érte küldték Odysseust, társul adván mellé Achilles fiát, Neoptolemost, hogy Philoktetest szép szerével vagy erőszakkal vigyék a táborba. A két küldött megérkezésével Lemnos szigetére, kezdődik a tragédia cselekvénye.</p>
+            </div>
+            <div type="div2">
+               <head>Személyek</head>
+               <p rend="center">ODYSSEUS.<lb/> NEOPTOLEMOS.<lb/> KAR.<lb/> PHILOKTETES.<lb/> KALMÁR.<lb/> HERAKLES.<lb/>
+               </p>
+               <lg/>
+               <lg>
+                  <l>(Kopár sziklás partvidék Lemnos szigetén. Magas szikla aljában Philoktetes barlangjának bejárata. Odysseus és Neoptolemos egy szolga kiséretében föllépnek.)</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Im a tengerlocsolta Lemnos laktalan,</l>
+                  <l>Ember nem járta szirtpartjára érkezénk,</l>
+                  <l>Hol egykor, oh Neoptolemos, a hellenek</l>
+                  <l>Legjobb hősének, Achillesnek gyermeke –</l>
+                  <l>Kitettem volt Poeas fiát, a melisit,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_1">1)</ref>
+                  </l>
+                  <l>Igy rendelvén ezt a sereg vezérei,</l>
+                  <l>Mert a maró seb lábán gennyedésbe ment;</l>
+                  <l>S a tábort úgy betölté vad, baljóslatú</l>
+                  <l>Nyögése, ordítása, hogy nem lehetett</l>
+                  <l>Többé nyugodtan áldoznunk a füstölő</l>
+                  <l>Oltárokon. De mért is erről szólani?</l>
+                  <l>Hosszú beszédre most valóban nincs idő,</l>
+                  <l>Mert megláthatna s elronthatná tervemet.</l>
+                  <l> Melylyel reménylem, nemsokára megfogom.</l>
+                  <l>Most a te dolgod, hogy segítségemre légy,</l>
+                  <l>És meglásd, hol van a kettős nyilásu szirt,</l>
+                  <l>Mely télen át a napsugárnak kétszeres</l>
+                  <l>Utat nyit, s melybe nyáron kétfelől viszen</l>
+                  <l>A hűvös szellő édes enyhe álmakat.</l>
+                  <l>Kissé lejebb balkézre hűs forrásvizet</l>
+                  <l>Fogsz észre venni, hogyha még ki nem apadt.</l>
+                  <l>Lépj csendesen előbbre és jelentsd nekem,</l>
+                  <l>Mindaz, mit mondtam, itt van-e, vagy más helyen?</l>
+                  <l>Hogy elmondjam s te meghalld majd a többit is,</l>
+                  <l>Mit tenni kell még, és munkánk közös legyen.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nincs messze, a mit mondál, Odysseus király;</l>
+                  <l>A barlangot, melyről szólsz, látom, úgy hiszem.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Ott fenn látod vagy itt lenn? Nem veszem ki, hol?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Itt fenn; de léptek hangját nem hallom sehol.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nézd, nem pihen-e álomban fekvő helyén?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Üres tanyát látok csak, melyben senki sincs.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nincs benne házi eszköz, mely lakká teszi?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Falevelek vannak megvetve ágy gyanánt.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nincs semmi más? A többi része mind üres?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Van még itt egy fából készült serleg, durva kéz</l>
+                  <l>Munkája; itt egyszersmind némi tüzi szer.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Mindez valóban az ő házi eszköze.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! még mást is látok; gennytől áztatott</l>
+                  <l>Szennyes rongyok száradnak itt a levegőn.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Itt e helyen lakik hát, tisztán látható,</l>
+                  <l>S nem is lesz távol; hogy mehetne messzire,</l>
+                  <l>Ki régi sebtől szenved lábán szüntelen?</l>
+                  <l>Vagy élelmet keresni távozott csupán,</l>
+                  <l>Vagy enyhítő füvet tud valamely helyen.</l>
+                  <l>Állítsd e szolgát lesbe, őrködjék, nehogy</l>
+                  <l>Reám üssön; mert szivesebben fogna meg</l>
+                  <l>Engem magam, mint Argos összes népeit.</l>
+               </lg>
+               <lg>
+                  <l>(A szolga el.)</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Eltávozott a szolga, őrzi az utat;</l>
+                  <l>Szólj hát tovább, ha van még több kivánatod.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Achilles gyermeke, abban, miért jövél,</l>
+                  <l>Nem lesz elég a testi bátorság csupán;</l>
+                  <l>Segítned kell, ha újat mondok, mit soha</l>
+                  <l>Nem hallottál még, mert segéd gyanánt vagy itt.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi az, mit kivánsz?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy Philoktetes szivét</l>
+                  <l>Csalárd szavak hálózatával tőrbe ejtsd.</l>
+                  <l>Ha kérdi tőled, honnan jöttél és ki vagy?</l>
+                  <l>Mondd: Achilles fia; ebben szólj igazat;</l>
+                  <l>Aztán mondd, hogy hazádba tartasz, elhagyád</l>
+                  <l>Haraggal telve, hellenek hajóhadát,</l>
+                  <l>A kik hazulról kérésekkel csaltak el,</l>
+                  <l>Mert egyedül így döntheték meg Iliont,</l>
+                  <l>És mégsem méltatának arra, hogy neked</l>
+                  <l>Adják Achilles fegyverét jogod szerint,</l>
+                  <l>Hanem Odysseusnak; s ekkor mondj reám</l>
+                  <l>Tetszés szerint rossznál rosszabb szidalmakat.</l>
+                  <l>Épen nem bántasz engem ezzel; ám ha nem</l>
+                  <l>Beszélsz így, gyászba döntöd Argos népeit.</l>
+                  <l>Mert ha kezünkbe nem jut ez ember nyila,</l>
+                  <l>El nem pusztítod Dardanos honát soha.</l>
+                  <l>S miért nem én, hanem csak te szólhatsz vele</l>
+                  <l>Gyanútlanúl és biztosan, im halld okát:</l>
+                  <l>Te nem jövél a harczba esküvés szerint,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_2">2)</ref>
+                  </l>
+                  <l> Nem szükségből,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_3">3)</ref> nem az első hadjáraton;<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_4">4)</ref>
+                  </l>
+                  <l>Míg én mindebből semmit sem tagadhatok.</l>
+                  <l>Azért ha íjával kezében észrevesz,</l>
+                  <l>Végem van s téged is elvesztelek velem.</l>
+                  <l>Ebben lesz épen cselre szükségünk, miként</l>
+                  <l>Rabold el tőle győzhetetlen fegyverét.</l>
+                  <l>Tudom, fiam, hogy a természet nem ilyen</l>
+                  <l>Ravasz beszédre s cselfogásra alkotott;</l>
+                  <l>De édes ám a győzelmet kiküzdeni.</l>
+                  <l>Merj hát! Máskor majd ismét igazak leszünk.</l>
+                  <l>Most egy kis napnyi rosszaságra adod magad</l>
+                  <l>Kezembe, aztán mondjanak mindenkoron</l>
+                  <l>Legjámborabbnak minden emberek között.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>A mit fáj meghallgatnom, Laërtes fia,</l>
+                  <l>Gyűlölt előttem akkor is, ha tenni kell.</l>
+                  <l>Mert nem születtem cselfogásra sem magam,</l>
+                  <l>Sem az, mint mondják, a ki éltemet adá.</l>
+                  <l>E férfiút erővel elragadni kész</l>
+                  <l>Vagyok, de nem csel által; hisz csak nem fog egy</l>
+                  <l>Ép lábbal győztes lenni annyiunk felett.</l>
+                  <l>Segítségedre küldtek bár és áruló</l>
+                  <l>Nem vágyom lenni; ámde inkább akarok</l>
+                  <l>Jót téve bukni, mintsem győzni becstelen.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Ifjú koromban, hős atyának gyermeke,</l>
+                  <l>Magamnak is lassú volt nyelvem, gyors kezem.</l>
+                  <l>De most tudom tapasztalásból, hogy a nyelv</l>
+                  <l> Vezet mindent az emberek közt s nem a tett.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi mást parancsolsz, mint hazugságot csupán?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Azt, hogy Philoktetest csel által fogjad el.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>De mért csel által, ha jó szóval is lehet?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Jó szóra nem hajt; és erőszak nem segít.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S mi az, mi erejét oly biztossá teszi?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Halálos íja, mely czélt nem téveszt soha.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Igy hozzá bátran közelítni sem lehet?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem, csak mint mondám, csellel foghatod meg őt.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S azt véled, a hazugság nem szégyenletes?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem, ha magunkat megmenthetjük általa.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Minő arczczal mondhatnék ily beszédeket?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem illik ott habozni, hol hasznot remélsz.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mily hasznom lesz belőle, ha Trójába jő?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Csak e nyilak veszik be Trója falait.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem én hódítom hát meg, mint biztattatok?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Te sem a nyilak nélkül, ők sem nélküled.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ha így van, meg kell hát kerítnem azokat.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>És kétszeres jutalmat nyersz, ha megteszed.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Minőt? Ezt tudva, vonakodni nem fogok.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Okosnak és bátornak fognak mondani.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Legyen hát; nem szégyenkezem már, megteszem.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Emlékezel mindenre, mit tanácsolék?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Biztos lehetsz, ha szavamat adám reá.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Maradj tehát itt s várj reá, míg megjövend,</l>
+                  <l>Én távozom, nehogy meglássa színemet.</l>
+                  <l>A kémet ismét a hajóhoz rendelem,</l>
+                  <l>S ha látom később, hogy hosszú időt veszítsz,</l>
+                  <l>E helyre küldöm újra majd e férfiút,</l>
+                  <l>Álöltözetbe rejtve, mint kalmár hajóst,</l>
+                  <l>Hogy ismeretlenül végezze dolgait.</l>
+                  <l>És ennek csürt-csavart beszédéből fiam,</l>
+                  <l>Ragadd ki majd azt, a miből hasznot merítsz.</l>
+                  <l>Megyek most a hajóra s mindezt rád bizom.</l>
+                  <l>Vezessen minket Hermes, a csel istene,</l>
+                  <l>S győző Athena, ki velem van szüntelen!</l>
+               </lg>
+               <lg>
+                  <l>(El. A kar fellép.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Mi az, mi az, mit mondjak, mit ne mondjak a</l>
+                  <l>Gyanakvónak ez idegen hazában?</l>
+                  <l>Mondd, király!</l>
+                  <l>Felül múl minden tudományt,</l>
+                  <l>Minden más értelmet azé, kinek Zeus</l>
+                  <l>A kormánybotot adta át.</l>
+                  <l>Reád jutott örökül, fiam,</l>
+                  <l>Őseid összes hatalma, beszélj hát,</l>
+                  <l>Miben lehet segítnem?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ha végig akarsz tekinteni most</l>
+                  <l>A helyen, hol e férfi tanyázik,</l>
+                  <l>Nézz oda bátran. De ha megjő</l>
+                  <l>A rettenetes, közelembe siess,</l>
+                  <l>Légy szüntelen oldalomon,</l>
+                  <l>Hogy minden perczbe’ segíthess.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Király, parancsod szívem régi gondja már:</l>
+                  <l>Szemem szüntelenül reád vigyáz csak.</l>
+                  <l>Ámde mondd,</l>
+                  <l>Mi rejtek ad neki lakást,</l>
+                  <l>S most hol járnak léptei; mert bizonynyal</l>
+                  <l>Helyén van, tudakolnom ezt,</l>
+                  <l>Nehogy orozva rohanjon rám:</l>
+                  <l>Merre megy útja, hol a pihenése,</l>
+                  <l>Kivül van-e vagy ott benn?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Im lakhelye, melynek két ajtaja nyílik,</l>
+                  <l>E szikla tövén.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>S hova ment a boldogtalan ember?</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bizonynyal ez útat szántja nehéz</l>
+                  <l>Lépteivel, s élelemért jár a közelben.</l>
+                  <l>Mert ez az élete, mondja a hír:</l>
+                  <l>Fáradtan fáradalom közt</l>
+                  <l>Szárnyas nyillal a vadra vadászva;</l>
+                  <l>És nem akadt még</l>
+                  <l>Bajának orvosa eddig.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Ah! mint szánja szivem szegényt,</l>
+                  <l>Ki oly elhagyatottan él,</l>
+                  <l>És nem őrzi baráti szem</l>
+                  <l>Gondos hű szeretettel;</l>
+                  <l>Testét gyötri a fájdalom,</l>
+                  <l>És nem hagyja pihenni soha</l>
+                  <l>A szükség. Hogy, ah! hogy tudja szegény türni az életet?</l>
+                  <l>Oh emberi küzdés!</l>
+                  <l>Oh boldogtalan emberek,</l>
+                  <l>Kiknek sorsa kiváló!</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Im ez, kit születésre, ős</l>
+                  <l> Fajra senki se’ múl felül,</l>
+                  <l>Szükség, nélkülözés között</l>
+                  <l>Fekszik most egyedül itt,</l>
+                  <l>Hol csak tarka s bozontos vad</l>
+                  <l>Tanyáz; gyötrik a testi kór</l>
+                  <l>S éhség kínjai, míg lelke nehéz gondok alatt eped</l>
+                  <l>S bús panaszát csupán</l>
+                  <l>A visszhang fecsegő szava</l>
+                  <l>Viszonozza szünetlen.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nincs semmi ezekben bámulatos;</l>
+                  <l>Mert ha agyamban is értelem él,</l>
+                  <l>Tudom, isteni kéz küldte reá</l>
+                  <l>E sorsot, a bősz Chryso haragja;<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_5">5)</ref>
+                  </l>
+                  <l>S a nyomor, mely most gyötri segítség</l>
+                  <l>Nélkül, az ég akaratja szerint van,</l>
+                  <l>Nehogy az isteni győzhetetlen ijat<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_6">6)</ref>
+                  </l>
+                  <l>Előbb feszítse Trója falának, a míg</l>
+                  <l>El nem jött az idő, melyben a jóslat</l>
+                  <l>Rendelte bukását e nyilak által.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Harmadik versszak.</l>
+               </lg>
+               <lg>
+                  <l>Csendesen, fiam!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi az?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Zaj közelg felénk…</l>
+                  <l>Mintha emberi kín sóhaja volna…</l>
+                  <l>Innen jött-e vagy onnan?</l>
+                  <l>Hozzám, hozzám hatol</l>
+                  <l>Ez ösvény felől a nehézkes</l>
+                  <l>Fáradt léptek dobogása,</l>
+                  <l>Távolból hangzik a kínos</l>
+                  <l>Sóhaj; messzire elhat a nyögés.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Harmadik ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Gyermekem, ügyelj!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mire?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>A mit tenni kell;</l>
+                  <l>Mert nincs messze e helytől, ide ért már,</l>
+                  <l> Nem zengve dalt nádfuvolán,</l>
+                  <l>Mint mezők pásztora;</l>
+                  <l>Ordítása messzire hangzik,</l>
+                  <l>Mert sebét tán megütötte,</l>
+                  <l>Vagy mert e zordon öbölben</l>
+                  <l>Hajót lát; iszonyú e kiáltás.</l>
+               </lg>
+               <lg>
+                  <l>(Philoktetes föllép.)</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj, idegenek!</l>
+                  <l>Kik vagytok, kik e földön partra szálltatok,</l>
+                  <l>Hol nincs jó révpart, hol nem laknak emberek?</l>
+                  <l>Minő hazából, mily nemzetségből valók</l>
+                  <l>Vagytok ti? A ruhátok, látom, hellasi</l>
+                  <l>Formára készült, mely nekem legkedvesebb,</l>
+                  <l>De úgy szeretném hangotok meghallani;</l>
+                  <l>Ne féljetek hát tőlem vad külsőm miatt,</l>
+                  <l>Inkább szánjátok bennem a boldogtalant,</l>
+                  <l>Az elhagyottat, a szegény örömtelent,</l>
+                  <l>És szóljatok, ha mint barátok jöttetek.</l>
+                  <l>Feleljetek hát; ép oly joggal várhatom</l>
+                  <l>Ezt tőletek, mint én felelni kész vagyok.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Oh idegen, tudd meg hát mindenek előtt,</l>
+                  <l>Mit tudni óhajtottál: hellenek vagyunk.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh kedves hangok! Mily gyönyör, hosszú idő</l>
+                  <l>Multával ismét e beszédet hallani!</l>
+                  <l>Mi szükség hajtott e vidékre, gyermekem?</l>
+                  <l>Minő szándék, minő kedves szél vezetett?</l>
+                  <l>Oh mondj el mindent, hadd tudjam kiléteted!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hazám hullám övezte Skyros szigete;<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_7">7)</ref>
+                  </l>
+                  <l>Honom felé hajózom, s Achilles fia,</l>
+                  <l>Neoptolemos vagyok. Elmondtam, mit tudok.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh te a legkedvesb atyának gyermeke,</l>
+                  <l>Kit kedves föld szült s agg Lykomedes nevelt!</l>
+                  <l>Mily út hozott e földre? Honnan érkezél?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hajóm most Ilionból visz hazám felé.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz? Hisz te nem valál akkor velünk,</l>
+                  <l> Midőn először Ilionba indulánk.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S te részt vevél ez útnak fáradalmiban?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh gyermekem, hát nem tudod, kivel beszélsz?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy ismerném azt, a kit nem láttam soha?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nevem se’ hallád s szenvedéseim hírét,</l>
+                  <l>Melyek megtörték, tönkre tették éltemet?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Minderről, mit kérdeztél, semmit sem tudok,</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh én szegény, isten gyűlölte nyomorult,</l>
+                  <l>Kinek balsorsát még a hír sem vitte el</l>
+                  <l>Hazám földére, sem Hellasban bárhová!</l>
+                  <l>Hanem kik e szigetre dobtak gonoszul,</l>
+                  <l>Hallgatnak és nevetnek; s kórom azalatt</l>
+                  <l>Szünetlenül növekszik s egyre gyarapul.</l>
+                  <l>Oh én fiam, Achilles méltó gyermeke,</l>
+                  <l>Azt látod bennem, a kiről hallád talán,</l>
+                  <l>Hogy birtokul nyeré Herakles fegyverét,</l>
+                  <l>Poeas fiát, Philoktetest, kit egykoron</l>
+                  <l>E két vezér és a kephallen fejdelem,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_8">8)</ref>
+                  </l>
+                  <l>Kitettek e vadonban szégyenteljesen,</l>
+                  <l>Mert a kegyetlen kór emészté testemet</l>
+                  <l>A gyilkos kigyó marta kínos seb miatt,</l>
+                  <l>E kórral tettek itt ki engem, oh fiam,</l>
+                  <l>S magamra hagytak, a midőn a chrysai</l>
+                  <l>Sziget felől hajóik erre tértenek.</l>
+                  <l>Örömmel látva, hogy a hosszas hányatás</l>
+                  <l>Után az álom elnyomott egy szirt alatt,</l>
+                  <l>Itt hagytak, elfutottak, némi rongyokat</l>
+                  <l>Dobván elémbe, mint koldusnak, és silány</l>
+                  <l>Élelmet – adja vissza ezt az ég nekik!</l>
+                  <l>Fiam, mit gondolsz, milyen volt az ébredés</l>
+                  <l>Ez álomból, midőn mind eltávoztanak?</l>
+                  <l>Mint könyeztem, mint nyögtem balsorsom felett?</l>
+                  <l>Látván, hogy mind eltüntek a hajók, melyek</l>
+                  <l>Idáig hoztak, s ember nem volt e helyen,</l>
+                  <l>A ki segítsen, a ki szenvedésemet</l>
+                  <l>Enyhítse, és bármerre fordítám szemem,</l>
+                  <l>Nem láttam semmit, mint gyötrelmet és nyomort,</l>
+                  <l>Ám ennek nagy bővében voltam, oh fiam!</l>
+                  <l>De napra nap mult, gyorsan eltelt az idő,</l>
+                  <l>S magamnak kellett e silány fedél alatt</l>
+                  <l>Szolgálatomra lennem; gyomromat ugyan</l>
+                  <l>Ellátta íjam, szárnyas vadgalambokat</l>
+                  <l> Ejtvén el; ám ha egyet eltalált a nyíl,</l>
+                  <l>Magamnak kellett érte másznom, sebhedett</l>
+                  <l>Lábam vonszolva kínnal, fáradságosan.</l>
+                  <l>S ha enyhítő italra vágytam, vagy ha fát</l>
+                  <l>Akartam vágni télen át, midőn a föld</l>
+                  <l>Jégtől volt megdermedve: gyötrelmek között</l>
+                  <l>Kellett érette vánszorognom; s ha tüzem</l>
+                  <l>Hiányzott, a kövekből fáradságosan</l>
+                  <l>Ütöttem ki a szikrát, mely mindig megóv.</l>
+                  <l>Mert hogyha tűz ég benne, e lakás nekem</l>
+                  <l>Mindent megad, kivéve gyógyulásomat.</l>
+                  <l>S most tudd meg azt is, milyen e sziget, fiam!</l>
+                  <l>Nincs oly hajós, ki jó szántából jő felé;</l>
+                  <l>Mert nincs révpartja, nincs helye, hol szivesen</l>
+                  <l>Fogadják, hol haszonnal kalmárkodhatik.</l>
+                  <l>Okos embernek útja erre nincs soha.</l>
+                  <l>De kedve ellen köt ki tán itt valaki?</l>
+                  <l>Mert ezt is meghozhatja a hosszú idő.</l>
+                  <l>Igen, fiam, jöttek már, és szóval nagyon</l>
+                  <l>Sajnálkozának rajtam, adtak is talán</l>
+                  <l>Részvétből egy kis élelmet s ruházatot;</l>
+                  <l>De azt, ha szólok róla, senki sem teszi,</l>
+                  <l>Hogy elvigyen hazámba; tíz év óta kell</l>
+                  <l>Viselnem így már gyötrő kórom kínjait,</l>
+                  <l>És elpusztulnom éhség és nyomor miatt.</l>
+                  <l>Im ezt tevék az Atridák s Odysseus</l>
+                  <l>Velem, fiam, hogy az olympi istenek</l>
+                  <l>Fizessenek hasonló kínokkal nekik!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Én is sajnállak téged, oh Poeas fia,</l>
+                  <l>Miként azok, kik partra szálltak itt előbb.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Szavad mellett bizonyságot teszek magam;</l>
+                  <l>Tudom, valót beszéltél; mert tapasztalám,</l>
+                  <l>Az Atridák s Odysseus mily rossz emberek.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Megbántottak hát téged is ez átkozott</l>
+                  <l>Atridák, hogy haragra gyúltál ellenök?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bár válthatná be egykor boszúmat karom,</l>
+                  <l>S ismerné meg Mykene, Sparta egyaránt,</l>
+                  <l>Hogy Skyros bátor férfiak szülő hona.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Jól van, fiam! De honnan jött e nagy harag,</l>
+                  <l>Mely ellenökben ily heves boszúra készt?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Elmondom, bárha nehezen, Poeas fia,</l>
+                  <l>Mily bántalmakkal halmozának engem el.</l>
+                  <l>Midőn Achillest elragadta a halál –</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! Ne szólj tovább egy szót se, míg előbb</l>
+                  <l>Nem hallom: meghalt igazán Peleus fia?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Meghalt, nem emberkéztől, isten ölte meg;</l>
+                  <l>A földre dönté, mint mondják, Phœbos nyila.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Dicső volt hát a győztes, vesztes egyaránt.</l>
+                  <l>De nem tudom most, oh fiam, bántalmadat</l>
+                  <l>Kérdezzem-e vagy őt sirassam legelőbb?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Azt vélem, oh boldogtalan, elég neked</l>
+                  <l>Saját bajod, nem kell siratnod másokat.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Jól mondod; szólj hát újra dolgaid felől,</l>
+                  <l> Mily megbántással hoztak rád gyalázatot?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Érettem jött atyámnak nevelője<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_9">9)</ref> és</l>
+                  <l>Az isteni Odysseus tarkaszín hajón,</l>
+                  <l>Mondván, akár igaz volt, vagy akár hamis,</l>
+                  <l>Hogy senki más nem fogja meghódítani</l>
+                  <l>Atyámnak elhunytával Tróját kivülem.</l>
+                  <l>Ilyen beszéddel csakhamar rábirtanak,</l>
+                  <l>Oh idegen, s hajóra is szálltam velök,</l>
+                  <l>Óhajtván látni a halottat, mielőtt</l>
+                  <l>Sirjába tennék; mert nem láttam őt soha;</l>
+                  <l>Aztán e vágyhoz járult még a szép remény,</l>
+                  <l>Hogy én fogom bevenni Trója ormait.</l>
+                  <l>A második nap látta már útban hajóm’,</l>
+                  <l>Midőn jó széllel a gyász Sigeionhoz ért;<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_10">10)</ref>
+                  </l>
+                  <l>S alighogy partra szálltam, az egész sereg</l>
+                  <l>Körülfogott, köszöntve s esküdözve, hogy</l>
+                  <l>A holt Achillest látja újra élve most.</l>
+                  <l>De ő holtan feküdt ott; s én, boldogtalan,</l>
+                  <l>Könnyet hintvén rá, csakhamar fölkeresém</l>
+                  <l>Az Atridákat, jog szerint barátimat,</l>
+                  <l>Kérvén atyámnak fegyverét s egyéb javát.</l>
+                  <l>De jaj! e szemtelen szóval feleltek ők:</l>
+                  <l>Achilles sarja, minden más tied lehet</l>
+                  <l>Atyád örökségéből, ám a fegyverek</l>
+                  <l>Gazdája más ember lett, Laërtes fia.</l>
+                  <l>És engem ennek hallatára nagy harag</l>
+                  <l>Ragadt el, s fájdalommal telve felelék:</l>
+                  <l>Arczátlanok, hogyan mertétek fegyverem</l>
+                  <l>Megkérdezésem nélkül másnak adni át?</l>
+                  <l>S Odysseus, ki közel volt, ekként válaszolt:</l>
+                  <l>Igen, fiú, jogosan adták azt nekem;</l>
+                  <l>Mert én mentém meg egykor őt és fegyverét.</l>
+                  <l> S én feldühödve rossznál rosszabb átkokat</l>
+                  <l>Szórtam reá s szidalmakkal halmoztam el,</l>
+                  <l>Ha mégis elragadja tőlem fegyverem,</l>
+                  <l>Idáig jutva, bárha nem gyors haragú,</l>
+                  <l>Sértő szavamra ingerülten így felelt:</l>
+                  <l>Nem voltál, hol mi voltunk, ott valál, a hol</l>
+                  <l>Nem kelle; s mégis ily merész szájjal beszélsz;</l>
+                  <l>Nem mégy Skyrosba hát e fegyverrel soha!</l>
+                  <l>Ily sok gyalázat, ily nagy megbántás után</l>
+                  <l>Hazám felé hajózom, míg a gonoszok</l>
+                  <l>Szülötte, a gonosz Odysseus megrabolt.</l>
+                  <l>S nem őt, inkább fölebbvalóit vádolom,</l>
+                  <l>Mert minden ország s hadsereg vezérei</l>
+                  <l>Szavát fogadja; és a bűnös emberek</l>
+                  <l>Tanítóik szavára lesznek gonoszok.</l>
+                  <l>Elmondtam. Ki az Atridákat gyűlöli,</l>
+                  <l>Szeresse azt az ég úgy, mint én szeretem.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Versszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh bérczes föld, ki mindent táplálsz, s ki Zeust is szüléd,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_11">11)</ref>
+                  </l>
+                  <l>Ki az aranyhullámu Paktolost lakod,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_12">12)</ref>
+                  </l>
+                  <l>Ott is hozzád esengtem, dicső anyám,</l>
+                  <l>Midőn az Atridák megsérték ez ifjat,</l>
+                  <l>Laërtes fiának adva atyja fegyvereit,</l>
+                  <l>A legnagyobb dicsőség gyanánt –</l>
+                  <l>Oh istennő, ki bikát pusztító</l>
+                  <l>Oroszlánon ülsz!<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_13">13)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>A bánat biztos zálogával jöttetek,</l>
+                  <l>Mint látom, e szigetre, oh idegenek!</l>
+                  <l>Velem egy sorson vagytok, s tisztán látható,</l>
+                  <l>Hogy az Atridák és Odysseus műve ez.</l>
+                  <l>Mert jól tudom, hogy nyelve mindig készen áll</l>
+                  <l>Minden gazságra, csalfaságra, és soha</l>
+                  <l>Nem hozhat létre semmit, a mi jó s igaz.</l>
+                  <l>De nem csodálom ezt úgy, mint hogy a nagyobb</l>
+                  <l>Ajas nyugodtan nézte s elviselheté.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem volt már életben, oh idegen! Hiszen</l>
+                  <l>Ha ő él, engem sem raboltak volna meg.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz? Ezt is elragadta a halál?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Tudd meg, hogy többé nem süt rá a napvilág.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj szegény! De nem halt meg Tydeus fia,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_14">14)</ref>
+                  </l>
+                  <l>Sem az, kit Sisyphostól pénzen vett vala</l>
+                  <l>Laërtes.<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_15">15)</ref> Inkább őket sujtaná a halál!</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem ám; tudd meg bizonynyal; sőt inkább nagyon</l>
+                  <l>Virágoznak mindketten Argos serege közt.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>S él-e derék barátom, az agg pylosi</l>
+                  <l>Nestor, ki meggátolta bölcs tanácsai</l>
+                  <l>Által gyakorta amazok rossz szándokát?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nagy gyászban van most, mert fiát Antilochost</l>
+                  <l>Kebléről elszakítá a halál keze.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! két szörnyű veszteséget említél,</l>
+                  <l>A melyet legkevésbbé vágytam hallani.</l>
+                  <l>Jaj, jaj, hová tekintsek most, ha mindezek</l>
+                  <l>Meghaltak, és Odysseus még mindig él,</l>
+                  <l>Kinek inkább meg kellett volna halnia!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ügyes küzdő ez, ám sokszor megbomlanak,</l>
+                  <l>Philoktetes, a legügyesebb tervek is.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Az istenekre, mondd meg, hol volt akkoron</l>
+                  <l>Atyádnak legdrágább barátja, Patroklos?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Meghalt ez is. Rövid szóból tanuld meg azt,</l>
+                  <l>Hogy nem a rosszakat ragadja el a harcz</l>
+                  <l>Legszivesebben, ámde a legjobbakat.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Valót beszélsz; s azért még egy ember felől</l>
+                  <l>Kérdezlek, a ki bár méltatlan, de okos,</l>
+                  <l>Ügyes nyelvű: minő sors érte életét?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ki más, ha nem Odysseus az, kit kérdezél?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem őt értettem; volt egy Thersites nevü</l>
+                  <l>Ember, ki mindig kész volt többször szólni ott,</l>
+                  <l>Hol senki sem akarta. Mit tudsz, él-e még?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem láttam őt, de úgy tudom, még mindig él.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Ugy is kell; hisz még nem veszett el semmi rossz,</l>
+                  <l>Jól gondoskodnak erről a nagy istenek;</l>
+                  <l>Kik gyakran visszahozzák Hades karjai</l>
+                  <l>Közül is mindazt, a mi csalfa és gonosz,</l>
+                  <l>És mindig sirba döntik azt, ki jó s igaz.</l>
+                  <l>Mit mondjak erről, mint dicsérjem ezt, holott</l>
+                  <l>Az istenekben is gonoszságot lelek?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi engem illet, oh Poeas nemes fia,</l>
+                  <l>Őrizkedem ezentul, hogy jó messziről</l>
+                  <l>Lássam csupán az Atridákat s Iliont;</l>
+                  <l>Mert hol derék embernél többet ér a rossz,</l>
+                  <l>Hol minden jó elpusztul és a gyáva győz,</l>
+                  <l>Oly emberekkel nem szövetkezem soha;</l>
+                  <l>Legyen ezentúl a sziklás Skyros nekem</l>
+                  <l>Elég, találjam otthon boldogságomat.</l>
+                  <l>De most megyek hajómra; s te Poeas fia,</l>
+                  <l>Élj boldogul, légy boldog, és az istenek</l>
+                  <l> Gyógyítsanak meg úgy, mint óhajtod magad.</l>
+                  <l>Mi meg siessünk; és ha kedvező szelet</l>
+                  <l>Küld ránk az isten, tüstént útra indulunk.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Már távoztok, fiam?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Igen, az indulás</l>
+                  <l>Perczét közelben kell várnunk, nem messziről.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Úgy hát atyád s anyád nevére, oh fiam,</l>
+                  <l>És arra, mit hazádban legjobban szeretsz,</l>
+                  <l>Esengve kérlek, oh ne hagyj ily egyedül</l>
+                  <l>Magamra e nyomorban, mely mint láthatod,</l>
+                  <l>S mint hallád, szörnyű kínnal gyötri éltemet;</l>
+                  <l>Végy mint fölösleget hajódra. Jól tudom,</l>
+                  <l>Hogy kellemetlen lesz hajódon ily teher;</l>
+                  <l>De tűrd el. A nagy lelkek mindig gyűlölik</l>
+                  <l>A rosszat, s azt tartják dicsőnek, a mi jó.</l>
+                  <l>Ha itt hagysz, nem fog szép hírt hozni rád, fiam,</l>
+                  <l>De ha megmentesz, nagy dicsőség lesz díjad,</l>
+                  <l>Ha Oeta földét újra élve láthatom.</l>
+                  <l> Fel! Fáradságod nem tart egy egész napig.</l>
+                  <l>Merd hát! Vezess magaddal, dobj, hová akarsz,</l>
+                  <l>Az orra, farra, vagy fenékre a hajón,</l>
+                  <l>Hol legkevésbbé háborítom társidat.</l>
+                  <l>Hallgass meg, az irgalmas Zeusra, oh fiam,</l>
+                  <l>Fogadj el! Im lásd, térdeidhez borulok,</l>
+                  <l>Bár béna, gyenge lábam. Oh ne hagyj el itt,</l>
+                  <l>Embertől távol, e vadonban egyedül!</l>
+                  <l>Oh ments meg innen, vigy hazádba engemet,</l>
+                  <l>Vagy Eubœába, hol Chalkodon a király,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_16">16)</ref>
+                  </l>
+                  <l>És innen nem lesz Oetáig hosszú az út,</l>
+                  <l>Trachis hegyéig, gyors futású Sperchios</l>
+                  <l>Partjáig; hadd öleljen újra ott atyám,</l>
+                  <l>Kiért régóta gyötri aggódás szivem,</l>
+                  <l>Hogy meghalt. Sokszor küldtem hozzá azokat,</l>
+                  <l>Kik erre jártak esdekelve untalan,</l>
+                  <l>Hogy mentésemre küldjön gályát önmaga,</l>
+                  <l>De vagy meghalt már, vagy talán követjeim</l>
+                  <l>Kevésre tartva, úgy látszik, kérésemet,</l>
+                  <l>Saját honuk felé eveztek egyenest.</l>
+                  <l>De most légy te vezérem, légy te hírnököm,</l>
+                  <l>Oh szánakozzál rajtam, ments meg engemet;</l>
+                  <l>Gondold meg, mily veszélyek várnak mindenütt</l>
+                  <l>Az emberekre, jó s balsorsban egyaránt.</l>
+                  <l>Tekintsen hát a vészre, a ki tőle ment,</l>
+                  <l>S a boldog ember óvakodjék legkivált,</l>
+                  <l>Hogy észrevétlen baj ne érje életét.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Szánd meg, király! Elmondta sok küzdelmét, kínjait:</l>
+                  <l>Oh bár ne sujtaná e sors barátimat!</l>
+                  <l> Ámde ha gyűlölöd az Atridákat,</l>
+                  <l>Gonosz tettöket most e férfi javára</l>
+                  <l>Fordítanám, a hová szive vágya vonja,</l>
+                  <l>Honába visszavinném futó</l>
+                  <l>Hajómon, kerülve így istenek</l>
+                  <l>Súlyos boszúját.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Vigyázz, nehogy most könnyen egyezzél bele,</l>
+                  <l>S ha kórja láttán majd fölgerjed undorod,</l>
+                  <l>Többé ne érezz akként, a mint most beszélsz.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Épen nem; módot arra nem nyujtok soha,</l>
+                  <l>Hogy ezt a szemrehányást joggal tedd nekem.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bizonynyal szégyen volna, ha ez idegen</l>
+                  <l>Sorsán segítni nem vágynám úgy, mint magad.</l>
+                  <l>Ha úgy tetszik, menjünk hát; készüljön hamar,</l>
+                  <l>Mert a hajó nem utasítja vissza őt.</l>
+                  <l>Csak engedjék az istenek, hogy biztosan</l>
+                  <l>Elérjünk innen, a hová kivánkozunk.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh éltem legszebb napja! kedves férfiú,</l>
+                  <l>Derék hajósok, bár lehetne tetteim</l>
+                  <l>Által mutatnom, mily barátotok levék!</l>
+                  <l>Menjünk fiam, köszöntsük végbúcsú gyanánt</l>
+                  <l>E lakhatatlan lakhelyet, hogy lásd magad,</l>
+                  <l>Miből éltem, mily hőslelkűnek születém,</l>
+                  <l>Mert azt hiszem, más ember, mint én, e nyomor</l>
+                  <l>Merő látását sem tudná kiállani,</l>
+                  <l>De engem megtanított a szükség reá.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Megálljatok! Két férfiú közelg felénk;</l>
+                  <l>Egyik hajóslegényed, másik idegen,</l>
+                  <l>Hallgassátok meg őket, aztán menjetek.</l>
+               </lg>
+               <lg>
+                  <l>(A szolga jő kalmárnak öltözve, egy másik hajóssal.)</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Ez utitárstól kérdém, Achilles fia,</l>
+                  <l>A ki harmadmagával őrizé hajód,</l>
+                  <l>Hogy mondaná meg, hol találhatok reád.</l>
+                  <l>Mivel mindketten, nem szándékosan, hanem</l>
+                  <l>Véletlen folytán egy révben találkozánk.</l>
+                  <l>Kalmárhajómmal Ilion felől jövök,</l>
+                  <l>S hazámba tartok, Peparethos bortadó</l>
+                  <l>Földére,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_17">17)</ref> s hallván, hogy mind hozzád tartozók</l>
+                  <l>Az emberek, kik itt a partra szálltanak,</l>
+                  <l>Nem akarám tovább folytatni útamat,</l>
+                  <l>Míg véled szólva méltó díjat nem nyerek.</l>
+                  <l>Mert nem tudod bizonynyal, mily új terveket</l>
+                  <l> Forralnak Argos seregében ellened,</l>
+                  <l>S nem is maradtak már a tervnél egyedül,</l>
+                  <l>Hanem halasztás nélkül tetté vált a szó.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hálás leszek hű gondodért, oh idegen,</l>
+                  <l>A mily igaz, hogy nem vagyok gonosz szivű;</l>
+                  <l>De fejtsd ki jobban, mit akartál mondani,</l>
+                  <l>Hadd ismerjem meg Argos ujabb terveit.</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Az agg Phœnix, és véle Theseus két fia,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_18">18)</ref>
+                  </l>
+                  <l>Hajóra szállva téged üldözőbe vett.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S erőszakkal vinnének vagy szóval megint?</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Azt nem tudom; csak a hallottat mondom el.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>És ily nagy hévvel indulnának ellenem,</l>
+                  <l>Az Atridák kedvéért Phœnix s társai?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Meg is tették már, tudd meg, nemcsak tervezik.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>De mint van, hogy Odysseus nem vállalta el</l>
+                  <l>E küldetést? Tán félelem tartóztatá?</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Más embert ment keresni ő s Tydæus fia,</l>
+                  <l>Epen, midőn hajómat útnak indítám.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ki az, kiért Odysseus útra kelt maga?</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Ez ember – – ámde mondd előbb nekem, ki ez,</l>
+                  <l>Ki itt jelen van? Halkan mondd, a mit akarsz.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ez a híres Philoktetes, oh idegen!</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Ne kérdezz tőlem többet, ám minél előbb</l>
+                  <l>Bocsásd szélnek vitorlád s hagyd el e helyet.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mit mond ez ember, gyermekem? Mit alkuszik</l>
+                  <l>Fölöttem oly titokban e kalmár veled?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Még nem tudom, mi czélja; ám világosan</l>
+                  <l>Kell most előtted és előttünk szólnia.</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Achilles sarja, rám ne zúdítsd a sereg</l>
+                  <l>Dühét, ha arról szólok, a miről tilos;</l>
+                  <l>Szegény létemre sok hasznom van általok.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Én gyűlölöm az Atridákat, s ez nekem</l>
+                  <l>Legjobb barátom, mert azoknak ellene;</l>
+                  <l>Nem kell tehát, ha jó barát gyanánt jövél,</l>
+                  <l>Semmit sem eltitkolnod, a mit megtudál.</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Vigyázz, mit tészsz, fiam!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Már rég meggondolám.</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Reád hárítok minden bűnt.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Jó, csak beszélj.</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Beszélek. Érte indult e két férfiú,</l>
+                  <l>Tydeus fia s Odysseus, az erőszakos,</l>
+                  <l>Esküt tevén, hogy visszahozzák biztosan,</l>
+                  <l>Akár szép szó, akár kényszer lesz fegyverük.</l>
+                  <l>Tisztán hallá mindenki a seregben ezt,</l>
+                  <l>Odysseus ajkáról; mert őt biztosabb</l>
+                  <l>Hit buzdítá e tettre, mint a másikat.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S mi fordítá most oly hosszú idő után</l>
+                  <l>Az Atridák gondját e férfiú felé,</l>
+                  <l>Kit oly rég eltaszítának maguk közül?</l>
+                  <l>Mily vágy vezette? Tán az istenek keze</l>
+                  <l>S boszúja, mely a rossz tettet megbünteti?</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Elmondom mindazt, mert bizonynyal nem tudod.</l>
+                  <l>Volt egy nemes jós, Priamos király fia,</l>
+                  <l>A kit nevére Helenosnak mondtanak;</l>
+                  <l>Midőn egy ízben éjjel kinn járt egyedül,</l>
+                  <l>Elfogta őt Odysseus, a gyalázatos,</l>
+                  <l>Álnok gonosztevő, s bilincset vert reá,</l>
+                  <l>S Argos sergébe vitte szép zsákmány gyanánt;</l>
+                  <l>Sok mindent jósolt ekkor, s egyebek között,</l>
+                  <l>Hogy addig nem veszik be Trója ormait,</l>
+                  <l>Míg vissza nem vezérlik ezt a férfiút</l>
+                  <l>Szép szóval a szigetről, melyen most lakik.</l>
+                  <l>Mihelyt hallá Laërtes sarja ezt a jós</l>
+                  <l> Ajkáról, tüstént megfogadta a sereg</l>
+                  <l>Előtt, hogy visszahozza Poeas gyermekét,</l>
+                  <l>Bizton remélvén, hogy szép szóval ráveszi;</l>
+                  <l>S ha így nem jönne, kényszerítni fogja őt,</l>
+                  <l>Fejével állva jót a biztos sikerért.</l>
+                  <l>Mindent hallottál. Ám most azt tanácsolom,</l>
+                  <l>Siess innen, te s más is, a kit érdekel.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj nekem! Megesküdött hát a gonosz,</l>
+                  <l>Hogy a sereghez szép szavakkal visszavisz?</l>
+                  <l>Ép úgy rábirna, hogy mint apja egykoron,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_19">19)</ref>
+                  </l>
+                  <l>Hadesből visszatérjek a halál után.</l>
+               </lg>
+               <lg>
+                  <l>KALMÁR.</l>
+               </lg>
+               <lg>
+                  <l>Ezt nem tudom. De most hajómra távozom;</l>
+                  <l>Rátok meg adja legjobb áldását az ég! (El.)</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem szörnyűség, oh gyermekem, ha azt hiszi</l>
+                  <l>Laërtes sarja, hogy szép szóval rábeszél,</l>
+                  <l>És elvihet hajóján a sereg közé?</l>
+                  <l>Inkább követném gyűlölt ellenségemet,</l>
+                  <l>A mérges kigyót, mely megrontá lábamat!</l>
+                  <l>De ő kész minden szóra, mindent merni kész;</l>
+                  <l>S most is tudom bizonynyal, hogy megjő ide.</l>
+                  <l>Siessünk hát, oh gyermekem; válaszszon el</l>
+                  <l> Odysseustól a tág tenger minél előbb.</l>
+                  <l>El innen hát! A jókor használt gyorsaság</l>
+                  <l>A munka multán álmat és nyugalmat ád.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mihelyt a szemközt fúvó szél lecsillapul,</l>
+                  <l>Tüstént hajóra szállunk; most útunkban áll.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Ha vész elől futsz, mindig kedvező a szél.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Tudom; de elleninket is feltartja most.<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_20">20)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nincs a kalózra kedvezőtlen szél soha,</l>
+                  <l>Ha lopni vagy rabolni nyilik alkalom.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Menjünk, ha tetszik; ám lakodból vedd előbb</l>
+                  <l> Magadhoz, mit szükséged és vágyad kiván.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Van ott, mit el kell vinnem a kevés közül.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S mi az, mit nem találhatnál fel a hajón?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Van egy füvem, melytől mindig lecsillapul</l>
+                  <l>Sebem fájdalma és elalszik teljesen.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hozd hát magaddal. Mit kivánsz még egyebet?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Megnézem, nem szóródott el véletlenül</l>
+                  <l>Egy-két nyilam? nehogy más kézbe jussanak.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>A híres íjat tartod hát kezed között?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Az és nem más, melyet most nálam lát szemed.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Szabad közelről néznem és érintenem?</l>
+                  <l>S imádva megcsókolnom szent isten gyanánt?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Igen, mind ebben, mind egyébben, oh fiam,</l>
+                  <l>Mi én tőlem függ, tetszésed szerint tehetsz.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bizonynyal vágyom értte, ám e vágy olyan,</l>
+                  <l>Hogy ha szabad, kivánom; ha nem, elhagyom.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Szentül beszélsz, szabad lesz hát neked, fiam,</l>
+                  <l>Ki egyedül adád meg, újra látnom a</l>
+                  <l>Nap fényét, újra látnom Oeta ormait,</l>
+                  <l>Az ősz atyát s barátimat; ki ellenim</l>
+                  <l>Fölé emelsz a porból, melybe sülyedék.</l>
+                  <l>Ne félj, szabad lesz kézbe fognod íjamat,</l>
+                  <l>Elvenned, visszaadnod; s dicsekedhetel,</l>
+                  <l>Hogy egyedül te érintéd erényedért;</l>
+                  <l>Mint én is egykor jó tett által nyertem el.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem sajnálom, hogy láttalak s barátomul</l>
+                  <l>Fogadtalak; mert a ki jót jóval fizet,</l>
+                  <l>Akármi kincsnél többet ér az oly barát.</l>
+                  <l>Menj hát be.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Jöjj te is velem; károm miatt</l>
+                  <l>Szükségem van rád, hogy karoddal gyámolíts.</l>
+               </lg>
+               <lg>
+                  <l>(Mindketten a barlangba mennek.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Beszéd után tudom – nem látta enszemem –</l>
+                  <l> Mint kötözé örökkön forgó kerékre</l>
+                  <l>Kronos mindenható fia azt a vakmerőt, ki</l>
+                  <l>Ágyához közelgett;<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_21">21)</ref>
+                  </l>
+                  <l>Ámde mást soha sem láttam, nem hallottam soha másról,</l>
+                  <l>Kit oly rettenetes sors ére, mint ezt,</l>
+                  <l>Bár senkinek se’ tett rosszat, se kárt,</l>
+                  <l>Ám igazakhoz igaz volt,</l>
+                  <l>S mégis elvesz ily méltatlanul. Ámulat fog el,</l>
+                  <l>Kérdve, miként, miként tudá</l>
+                  <l>Ily egyedül, s nem hallva mást,</l>
+                  <l>Mint zuhogó habok szavát,</l>
+                  <l>Tűrni e gyászos éltet?</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Magányosan, nem birva megtört lábait,</l>
+                  <l>Senkije sem volt, kinek elpanaszolja,</l>
+                  <l>Sóhajtva, könnyezve a vérző maró seb</l>
+                  <l>Gyötrő szenvedését;</l>
+                  <l>Nem volt senkie, ki az életadó föld kebeléről</l>
+                  <l>Gyógyító füveket szakítva írul,</l>
+                  <l>Lecsillapítsa égető sebe</l>
+                  <l>Vérözönét, ha előtört;</l>
+                  <l>Mint a dajka-vesztett gyermek, ődöngött egyedül</l>
+                  <l>Erre vagy arra kínosan,</l>
+                  <l>Merre utat talált nehéz</l>
+                  <l>Lépteinek, ha elpihent</l>
+                  <l>Lelke maró gyötrelme.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Nem táplálta a föld magva, gyümölcse őt,</l>
+                  <l> Sem más, mit eledellé tesz az emberkéz,</l>
+                  <l>Csak gyors íja adott röpke nyilával</l>
+                  <l>Táplálékot az éhség ölte gyomornak.</l>
+                  <l>Oh nyomorult ember!</l>
+                  <l>Tíz év óta nem enyhítik a bor cseppjei szomját,</l>
+                  <l>Ám hol az állott víz pocsolyába gyűlt,</l>
+                  <l>Csak arra tekintett.</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>De most, hogy nemes ősök sarja talált rá,</l>
+                  <l>Boldog s nagy lesz a sok nyomornak utána;</l>
+                  <l>Tengerjáró hajón visszavezérli</l>
+                  <l>Sok hold mulva atyjának ősi lakába,</l>
+                  <l>Melisi nymphákhoz,</l>
+                  <l>Sperchios viruló partjaira, hol az érczpaizsú hős</l>
+                  <l>Isteni láng közt égbe emelkedett</l>
+                  <l>Az oetai ormon.<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_22">22)</ref> (Neoptolemos és Philoktetes jönnek a barlangból.)</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Jer, ha akarsz. Miért némulsz egyszerre el</l>
+                  <l>Ok nélkül, honnan jött e dermedt ámulat?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Ah, ah, ah, ah!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi baj van?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Semmi szörnyű; menj tovább, fiam.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Talán a kór lepett meg és kinoz megint?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Épen nem. Azt hiszem, tüstént megenyhülök.</l>
+                  <l>Jaj istenem!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Miért kiáltsz istenhez ily fájdalmasan?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Irgalmat kérek tőle s enyhítő segélyt.</l>
+                  <l> Ah, ah, ah, ah!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi kín gyötör? Nem mondod? Mért e némaság?</l>
+                  <l>Bizonynyal baj lepett meg, nyilván látható.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Fiam, elvesztem; nem titkolhatom tovább</l>
+                  <l>Előled szenvedésemet – jaj! jaj nekem!</l>
+                  <l>Elfog már, elfog! Én szegény, boldogtalan!</l>
+                  <l>Fiam, elvesztem; pusztulok már; jaj nekem!</l>
+                  <l>Oh jaj nekem, jaj, oh jaj, ah, ah, jaj nekem!</l>
+                  <l>Az istenekre, oh fiam, ha itt közel</l>
+                  <l>Kardod van, vágd le gyökeréig lábamat,</l>
+                  <l>Oh vágd le gyorsan, és ne kiméld éltemet!</l>
+                  <l>Fiam, vágj!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi új kínok rohantak rád oly hirtelen,</l>
+                  <l>Hogy ennyi jajveszéklés tör ki ajkadon?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Tudod fiam –</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mit?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh fiam, tudod –</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hogyan?</l>
+                  <l>Mit sem tudok.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mit? Nem tudod? Jaj, jaj nekem!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Szörnyű teherként súlyosúl a kór reád.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Szörnyű, kimondhatatlan! Oh szánj meg, fiam!</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>De mit tegyek hát?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Meg ne rémülj s el ne hagyj;</l>
+                  <l>Időnként vissza-visszatér a kór, s emészt,</l>
+                  <l>Míg nem lakott jól.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, jaj, oh boldogtalan!</l>
+                  <l>Boldogtalan valóban ennyi kín között!</l>
+                  <l>Kivánod-e, hogy tartsalak s felfogjalak?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem ezt, nem; ámde vedd kezedbe íjamat,</l>
+                  <l>Mint épen most kivántad, s míg lecsillapul</l>
+                  <l>A kór emésztő lángja, mely most meglepett,</l>
+                  <l>Tartsd és őrizd magadnál addig. Rendesen</l>
+                  <l>Álom fog el, ha szenvedésem véget ér;</l>
+                  <l>Előbb nem csillapul le; akkor hagyjatok</l>
+                  <l>Nyugodtan szenderegni. És ha ezalatt</l>
+                  <l>Megjönnek üldözőim, kérlek, íjamat</l>
+                  <l>Nekik ne add, sem önként, sem kényszer miatt,</l>
+                  <l> Sem csellel rászedetve, mert úgy megölöd</l>
+                  <l>Magaddal azt, ki védelmedhez fordula.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bízzál vigyázatomban; más hozzá nem ér,</l>
+                  <l>Mint én s te; add hát, és szerencse lesz velünk.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Im vedd; de engeszteld meg az irigy eget,</l>
+                  <l>Ne hozzon ez rád annyi bajt és szenvedést,</l>
+                  <l>Mint rám és arra, a kié előbb vala.<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_23">23)</ref>
+                  </l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Oh istenek, adjátok ezt meg: adjatok</l>
+                  <l>Jó széllel kedvező utat, s vezessetek,</l>
+                  <l>Hová az isten rendel s készül a hajó!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Imád nem teljesül be, félek gyermekem!</l>
+                  <l>Mert mély sebemből újra ömlik a sötét</l>
+                  <l>Véráradat, új gyötrelmek várnak reám.</l>
+                  <l>Ah, ah, jaj!</l>
+                  <l>Jaj lábam, lábam, mennyi kínt adsz még nekem!</l>
+                  <l>Megindult,</l>
+                  <l> Megindult már, közel van! Én boldogtalan!</l>
+                  <l>Itt van, látjátok! Oh de el ne fussatok!</l>
+                  <l>Oh jaj, jaj!</l>
+                  <l>Oh gaz kephallen, bár hatolnák át meg át</l>
+                  <l>E gyötrő kínok kebledet! Jaj, jaj nekem!</l>
+                  <l>És újra jaj! S ti a sereg vezérei,</l>
+                  <l>Agamemnon, oh Menelaos, vajha kóromat</l>
+                  <l>Ti hordoznátok és oly hosszú ideig!</l>
+                  <l>Jaj kínok!</l>
+                  <l>Miért nem jösz már végre, oh halál, halál!</l>
+                  <l>Hiszen mindennap hivlak! oh jövel, jövel!</l>
+                  <l>Ragadj meg engem, oh fiam, nemes barát,</l>
+                  <l>És égess porrá Lemnos lángoló tüzén,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_24">24)</ref>
+                  </l>
+                  <l>A mint én egykor szintén porrá égetém</l>
+                  <l>Zeus gyermekét e fegyverek jutalmaul,</l>
+                  <l>A melyeket most őrizetbe vett kezed.</l>
+                  <l>Mit szólsz, fiam?</l>
+                  <l>Mi az? Mért hallgatsz? Hol vagy, hol vagy, oh fiam!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Régóta szenved szivem kínjaid miatt.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Végy bátorságot, oh fiam; dühvel rohan</l>
+                  <l>Reám a kín, de ismét gyorsan távozik.</l>
+                  <l>Csak kérlek, oh ne hagyj itt engem egyedül!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bízzál, itt maradunk.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Maradsz?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Igen, ne félj!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem kivánom, hogy eskű által kösd magad.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ugy sem szabad távoznom innen nélküled.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Add zálogul kezed rá.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Itt van, maradok.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Most arra, arra –</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mit szólsz? Merre?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oda fel –</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mit őrjöngsz újra? Mért tekintsz az égre fel?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Bocsáss, bocsáss!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hová?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Bocsáss el végre már!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem hagylak el.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Megölsz, ha hozzám ér kezed.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Elhagylak hát, ha jobban érted, mi segít.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES (leroskad).</l>
+               </lg>
+               <lg>
+                  <l>Oh föld, fogadj el haldokolva, mint vagyok;</l>
+                  <l>Mert kínjaim közt többé fenn nem állhatok.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Úgy látszik, nemsokára álom fogja el</l>
+                  <l>A férfiút; mert hátra hajlik már feje;</l>
+                  <l>Izzadság üt ki teste összes tagjain,</l>
+                  <l>És lába végén felpattant sötét ere,</l>
+                  <l>Melyből vér ömlik. Hagyjuk őt, barátim,</l>
+                  <l>Nyugodtan, enyhe álom hadd szálljon reá.</l>
+               </lg>
+               <lg>
+                  <l>(Philoktetes elszunnyad.)</l>
+               </lg>
+               <lg>
+                  <l>ELSŐ FÉLKAR.</l>
+               </lg>
+               <lg>
+                  <l>Versszak.</l>
+               </lg>
+               <lg>
+                  <l>Szállj ide bánatot és bajokat feledő</l>
+                  <l>Enyhe lehelletű álom!</l>
+                  <l>Szállj ide boldogító isten!</l>
+                  <l>Fogd le szemét, tartsd ott</l>
+                  <l>A sötét fátyolt, mely rája borul.</l>
+                  <l>Ide, ide, gyógyító!</l>
+                  <l>Oh fiam, vigyázz, hova állsz,</l>
+                  <l>Merre mégysz, mi lészen ezentúl</l>
+                  <l>Tenni valónk? Látod már!</l>
+                  <l>Mért halogatjuk a tettet?</l>
+                  <l>Ki az alkalmat meg tudja ragadni,</l>
+                  <l>Pillanat alatt övé a győzelem.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Közdal.</l>
+               </lg>
+               <lg>
+                  <l>Semmit sem hall már, az igaz; de tudom, hogy az íjat</l>
+                  <l>Hasztalanul nyertük, ha e férfiú nem jön el innen.</l>
+                  <l>Rá vár a koszorú, érette külde az isten;</l>
+                  <l>Szégyen, nem sikerült tettel hazugul dicsekedni.</l>
+               </lg>
+               <lg>
+                  <l>MÁSODIK FÉLKAR.</l>
+               </lg>
+               <lg>
+                  <l>Ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh fiam, isten itéljen ezek fölött;</l>
+                  <l>Ámde ha újra felelsz majd,</l>
+                  <l>Halk, susogó hangon</l>
+                  <l>Küldd szavadat hozzám;</l>
+                  <l>Mert álomtalan a beteg álma,</l>
+                  <l>Szeme, füle lát és hall.</l>
+                  <l>Ám te, a mint lehet, oly</l>
+                  <l>Titkosan add tudtomra, miként</l>
+                  <l>Hajtod végre a tervet.</l>
+                  <l>Jól tudod, kiről beszélek:</l>
+                  <l>Ha vele egy akaraton vagy,</l>
+                  <l>Látom előre a sok bajt és zavart.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Végdal.</l>
+               </lg>
+               <lg>
+                  <l>Jó szél fúj, fiam, jó szél!</l>
+                  <l>Itt fekszik végtelenül, lehúnyt szemekkel,</l>
+                  <l> Melyeket éji homály fed, –</l>
+                  <l>Kegyes, elnyomó álom, –</l>
+                  <l>Tagjainak nem ura, nincs keze, lába,</l>
+                  <l>Úgy pihen itt, mint Hades ölén a halott.</l>
+                  <l>Vigyázz, helyén legyen beszéded.</l>
+                  <l>A mennyire érteni képes eszem:</l>
+                  <l>Legjobb a veszélytelen munka.<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_25">25)</ref>
+                  </l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hallgassatok, némuljon el e balgaság;</l>
+                  <l>Mert mozdul már szeme s emelkedik feje.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh álmat váltó napfény, oh idegenek!</l>
+                  <l>Ti, kik reményemen túl oltalmaztatok!</l>
+                  <l>Mert el nem hittem volna azt, fiam, soha,</l>
+                  <l>Hogy oly részvéttel nézzed szenvedésemet,</l>
+                  <l>S oly türelemmel itt maradj segélyemül.</l>
+                  <l>Az Atridák bizonynyal nem viselheték</l>
+                  <l>Oly könnyen ezt, nem a derék vezéri pár!</l>
+                  <l>De te, fiam, nemes szívű vagy és nemes</l>
+                  <l>Törzsnek szülötte, és azért föl sem vevéd</l>
+                  <l>Sebem rossz bűzét, kínos ordításomat.</l>
+                  <l>És most, fiam, hogy szenvedésem elpihent,</l>
+                  <l>S az enyhítő felejtés árnya száll reám,</l>
+                  <l>Emelj föl engem karjaiddal, gyermekem,</l>
+                  <l>S mihelyt megszünik e zsibbadó bágyadás,</l>
+                  <l>Menjünk hajódra, ne halaszd el útadat.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Oh mint örvendek, hogy reményemen felül</l>
+                  <l>Életben látlak s nem gyötör több fájdalom;</l>
+                  <l>Mert minden jel halálodat mutatta már,</l>
+                  <l>Midőn e szörnyű kínok rád rohantanak.</l>
+                  <l>Kelj fel tehát; s ha tán inkább kedvedre van,</l>
+                  <l>Ezek vihetnek; ellenökre nem leszen</l>
+                  <l>A fáradság, ha így tetszik nekem s neked.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Emelj te föl s állíts lábamra, oh fiam!</l>
+                  <l>De ezeket ne bántsuk, hogy idő előtt</l>
+                  <l>Ne érezzék a rossz bűzt; a hajón magán</l>
+                  <l>Elég terhökre lesz jelenlétem nekik.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS (megragadja és fölemeli).</l>
+               </lg>
+               <lg>
+                  <l>Legyen. Kelj fel hát és támaszkodjál reám.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Csak bátran! Hosszú megszokás taníta rá.</l>
+               </lg>
+               <lg>
+                  <l>(Kiegyenesedik.)</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, jaj! Mihez fogjak most, mit tegyek tovább?<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_26">26)</ref>
+                  </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mi baj, fiam? Hová tévednek szavaid?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ah nem tudom, mit mondjak, oly zavart vagyok!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mért vagy zavart? ne mondj ilyesmit, oh fiam!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>De már idáig ért e kínos állapot.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Csak nem rémített vissza kórom undora,</l>
+                  <l>Hogy el ne vígy magaddal úti társadul?</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Undor lesz arra minden, ki természetét</l>
+                  <l>Meghazudtolja, azt tevém, mi nem helyes.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>De a nemest segítve, tetted és szavad</l>
+                  <l>Atyádra nem lesz meghazudtolás soha.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Szégyen fog érni; rég gyötör e gondolat.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem tettedért; de félek, szavadért az ér.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Oh mit tegyek, Zeus! Ismét oly gonosz legyek,</l>
+                  <l> Ki a valót titkolja és gazul beszél?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>E férfiú – ha meg nem csalt itéletem –</l>
+                  <l>Hajóra száll és engem itt hagy hitlenül.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem hagylak el; de az gyötör régóta már,</l>
+                  <l>Hogy a hajón majd bánatodra viszlek el.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz ezzel, oh fiam? Nem értelek.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem titkolom: Trójába, Argos népei</l>
+                  <l>Közé, az Atridákhoz kell jönnöd velem.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! mit mondasz?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ne sóhajts, míg nem tudod –</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mit kell megtudnom? Mily szándékod van velem?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Előbb bajodtól mentelek meg; azután</l>
+                  <l>Megyek bevenni Trója ormait veled.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Valóban ez szándékod?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Szükség kényszerít,</l>
+                  <l>Ne lobbanj hát haragra, hallva ezt a szót.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Elvesztem, eladattam! Mit tevél velem,</l>
+                  <l>Oh idegen? Add vissza tüstént íjamat!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem adhatom, mert azt kivánja jog s haszon,</l>
+                  <l>Hogy megfogadjam az uralkodók szavát.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Te pusztító tűz, oh te rémes szörnyeteg,</l>
+                  <l>Te álnokság mintája, mit tevél velem,</l>
+                  <l>Mint árultál el! Nem pirulsz, ha rám tekintsz,</l>
+                  <l>Ki térdeidnél esdekeltem, oh gonosz?</l>
+                  <l>Ez íjjal elraboltad tőlem éltemet!</l>
+                  <l>Add vissza, kérlek, add, esengek, oh fiam!</l>
+                  <l>Ne vedd el – ősi istenidre! – éltemet.</l>
+                  <l>Oh jaj nekem, szegénynek, még hozzám se szól!</l>
+                  <l>Nem adja vissza – mondja elfordult szeme.</l>
+                  <l>Oh révpart! oh hegyormok! oh vadállatok,</l>
+                  <l>Hű társaságom! oh ti lejtős szirtfalak!</l>
+                  <l>Hozzátok – mert másokhoz úgy sem szólhatok –</l>
+                  <l>Hozzátok hangzik ajkaimról a panasz,</l>
+                  <l>Lássátok, mit tett vélem Achilles fia!</l>
+                  <l>Trójába hurczol, esküdvén, hogy haza visz;</l>
+                  <l>És jobbját nyujtva, elrabolta íjamat,</l>
+                  <l>Az isteni Herakles szentelt fegyverét,</l>
+                  <l>Hogy felmutassa Argos népei előtt!</l>
+                  <l>Elfog s magával hurczol hős ember gyanánt,</l>
+                  <l>S nem tudja, hogy halottat öl meg és hiú</l>
+                  <l>Árnyképet. Ha erőm van, el nem fog soha;</l>
+                  <l>Hisz így is csak ravaszság által győze le.</l>
+                  <l> S most rászedetve, mit tegyek boldogtalan?</l>
+                  <l>Add vissza! térj magadhoz, légy a ki valál!</l>
+                  <l>Mit mondasz? Hallgatsz? Oh jaj, semmivé levék!</l>
+                  <l>Oh két nyilású szikla, im fegyvertelen,</l>
+                  <l>Táplálék nélkül térek hozzád vissza most,</l>
+                  <l>És elhagyatva sorvad benned életem;</l>
+                  <l>Nem ejtek el nyilammal több szárnyas madárt,</l>
+                  <l>Sem hegymászó vadat, nem, enmagam leszek</l>
+                  <l>Halottan étke annak, a mit én evém,</l>
+                  <l>S mire vadásztam, rám fog az vadászni most;</l>
+                  <l>Halálom lesz haláluk díja, e miatt,</l>
+                  <l>Kiről azt hittem, a rosszat sem ismeri,</l>
+                  <l>Veszsz el – de nem – tán újra fordul szándokod?</l>
+                  <l>Ha nem – úgy halj meg nyomorultan, gonoszul.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Mit cselekedjünk? Rajtad áll most, oh király,</l>
+                  <l>Hogy elhajózzunk, vagy meghallgassuk szavát.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Kimondhatatlan részvét hatja át szivem</l>
+                  <l>Iránta, nem csupán most, régtől fogva már.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Az égre, szánj meg, oh fiam! Ne tedd magad</l>
+                  <l>Az emberek csúfjává e csalás miatt.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, mit tegyek, mit! Bár ne hagytam volna el</l>
+                  <l>Soha Skyrost! Oly iszonyúan szenvedek.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem vagy te rossz, csak a rossz emberek szava.</l>
+                  <l>Tanított bűnre; hagyd másokra ezt, kiket</l>
+                  <l>Megillet; add át íjamat s hajózz tovább.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Most mit tegyünk, barátim?</l>
+               </lg>
+               <lg>
+                  <l>(Odysseus rejtekéből hirtelen előlép.) </l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit tészsz, oh gonosz!</l>
+                  <l>Lépj vissza tüstént s add át e nyilat nekem!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Jaj, ki ez ember? Nem Odysseus hangja ez?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Odysseust látod, tudd bizonynyal, én vagyok.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Eladtak, elvesztem, jaj! Ő volt hát, a ki</l>
+                  <l>Hálóba font és elrabolta fegyverem!</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Én voltam, tudd meg, senki más; nem tagadom.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Add vissza, oh add vissza íjamat, fiam!</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem, ha akarná, sem teendi ezt soha;</l>
+                  <l>De te velök jösz, vagy erővel visznek el.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh rosszak rossza, oh te vakmerő gonosz!</l>
+                  <l>Erővel visznek?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Ha önként nem jösz velünk.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh Lemnos földe, oh Hephæstos pusztító,</l>
+                  <l>Tűzhányó bércze, el fogjátok tűrni azt,</l>
+                  <l>Hogy elragadjon ez az ember tőletek?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Zeus, tudd meg, Zeus, e földnek legfelsőbb ura,</l>
+                  <l>Zeus rendelé ezt; s én parancsait teszem.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Gonosz te, mily beszédet fogsz még költeni?</l>
+                  <l>Az istent is hazuggá tennéd kedvedért.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem, csak igazmondóvá. Jönnöd kell velünk.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem! mondom!</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>S én azt mondom, hogy követni fogsz.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj nekem, szegénynek! Hát rabszolgaként</l>
+                  <l>Nemzett atyám, és nem szabadnak születém?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem; egyenlő vagy a legjobbakkal, s velök</l>
+                  <l>Fogod Tróját bevenni s elpusztítani.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem, szenvedjek bár százszoros bajt, nem soha,</l>
+                  <l>Míg megmarad számomra itt e meredek.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>És mit fogsz tenni?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Tüstént szétzúzom fejem</l>
+                  <l>E sziklán, a mélységbe dobva magamat.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Ragadjátok meg, hogy ne hajtsa végre ezt!</l>
+               </lg>
+               <lg>
+                  <l>(A szolgák megragadják Philoktetest.)</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh kéz, mit kell szenvedned! Drága íjadat</l>
+                  <l>Elvesztéd és ez ember most hurokra fűz!</l>
+                  <l>Oh te, ki jóra, szépre nem gondolsz soha,</l>
+                  <l>Mily orvul támadál meg, mint szedél reá;</l>
+                  <l>Ez ifjat véve pajzsul, kit nem ismerék,</l>
+                  <l>S ki hozzám méltóbb volt, mint hozzád, s nem tudott</l>
+                  <l>Semmit, csupán azt tette, mit parancsolál;</l>
+                  <l>És már is szemmel láthatólag gyötri az,</l>
+                  <l>Mit vétkezett s mi által én úgy szenvedek!</l>
+                  <l>De rossz lelked, mely lesre mindig készen áll,</l>
+                  <l>Jól megtanítá furfangos csalásra őt,</l>
+                  <l>Kiben nem volt rá sem hajlam, sem akarat.</l>
+                  <l> S most megkötözve elragadnál, nyomorult,</l>
+                  <l>E partról, melyen egykoron hazátlanul,</l>
+                  <l>Elhagyva, mint élő halottat eldobál.</l>
+                  <l>Hah!</l>
+                  <l>Veszsz el! Sokszor kivántam már én ezt neked;</l>
+                  <l>De mit sem tesznek kedvemért az istenek;</l>
+                  <l>Örömben élsz te, engem fájdalom gyötör,</l>
+                  <l>Hogy életben maradtam ennyi baj között,</l>
+                  <l>Nevetségül magadnak és az Atrida</l>
+                  <l>Vezéri párnak, melynek most szolgál karod.</l>
+                  <l>Pedig csel által s kényszerítve indulál<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_27">27)</ref>
+                  </l>
+                  <l>Velök az útra; és engem boldogtalant,</l>
+                  <l>Ki önként jöttem hét hajón, eldobtanak,</l>
+                  <l>Miként te mondod – ők rád róják ezt a bűnt. –</l>
+                  <l>S most elvinnétek? Elhurczolnátok? Miért?</l>
+                  <l>Ki semmi s rátok nézve rég halott vagyok?</l>
+                  <l>Mért nem mondasz hát, oh te istentől gyűlölt,</l>
+                  <l>Bénának, rossz szagúnak? Hát most már lehet</l>
+                  <l>Áldoznotok, habár én köztetek vagyok?</l>
+                  <l>Hisz ezt hozád fel ürügyül, hogy eltaszíts.</l>
+                  <l>Veszsz el hát! El fogsz veszni, a ki ezt tevéd</l>
+                  <l>Velem, ha van igazság, még az ég alatt!</l>
+                  <l>S tudom, hogy van; hisz nem tettétek volna meg</l>
+                  <l>Máskép ez útat a boldogtalan miatt,</l>
+                  <l>Ha istenektől nem jő serkentő fulánk.</l>
+                  <l>Oh honi földem s mindentlátó istenek,</l>
+                  <l>Oh büntessétek, büntessétek végre már</l>
+                  <l>Mindnyájokat, ha megnyerém szánalmatok!</l>
+                  <l>Mert bár nyomorban élek, ám ha vesztöket</l>
+                  <l>Látnám, azt hinném, elhagyott a szenvedés.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Haraggal telt, s haraggal szólt e férfiú</l>
+                  <l>Hozzád, Odysseus; nem hajtá meg őt a kór.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Sokat mondhatnék e szavakra válaszul,</l>
+                  <l>Ha rajtam állna; most csak egy szavam lehet:</l>
+                  <l>Hol ilyenekre van szükség, ilyen vagyok;</l>
+                  <l>S a hol igaz és jó ember kivántatik,</l>
+                  <l>Erényesebbet, mint én, nem találsz soha.</l>
+                  <l>Természetem győzelmet kiván mindenütt,</l>
+                  <l>Csak rajtad nem; neked örömmel engedek.</l>
+               </lg>
+               <lg>
+                  <l>(A szolgákhoz.)</l>
+               </lg>
+               <lg>
+                  <l>Oldjátok fel, többé hozzá ne nyúljatok;</l>
+                  <l>Maradjon itt! Hisz úgy sincs szükségünk reád,</l>
+                  <l>Ha fegyvered mienk lesz; mert ott van velünk</l>
+                  <l>Teukros, ki jól ért hozzá, mint bánjék vele;</l>
+                  <l>S hiszem, magam sem volnék rosszabb nyillövő,</l>
+                  <l>Miként te, s ép úgy eltalálhatnám a czélt.</l>
+                  <l>Mi szükség van rád? Élj Lemnosban boldogul!</l>
+                  <l>Mi távozunk, s tán meglehet, hogy én nyerem</l>
+                  <l>Ten íjad által a neked szánt hírnevet.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Jaj! mit tegyek, jaj! Fegyveremmel diszíted</l>
+                  <l>Magad hát s úgy jelensz meg Argos népe közt?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Ne szólj már többet hozzám, úgyis távozom.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh Achilles szülötte! hát nem üdvözölsz</l>
+                  <l>Többé hangoddal? Igy hagynád el e helyet!</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS (Neoptolemoshoz).</l>
+               </lg>
+               <lg>
+                  <l>Siess, ne nézz rá, bárminő nagylelkű vagy,</l>
+                  <l>Nehogy megrontsad szánalomból a sikert.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES (a karhoz).</l>
+               </lg>
+               <lg>
+                  <l>Ti is magamra hagytok, oh idegenek,</l>
+                  <l>Nem szánakoztok szenvedéseim felett?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Ez ifjú itt hajónk vezére, és a mit</l>
+                  <l>Ő mond neked, mi is azt fogjuk mondani.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bizonynyal gyenge szivünek fog mondani</l>
+                  <l>Odysseus; ám ha kivánná e férfiú,</l>
+                  <l>Maradjatok, míg útra kész lesz a hajó,</l>
+                  <l>S imánkat elvégeztük indulás előtt.</l>
+                  <l>Addig tán jobbra fordul ennek szándoka</l>
+                  <l>Irántunk. Most mi ketten hát eltávozunk,</l>
+                  <l>Ti meg, ha majd szólítlak, tüstént jöjjetek.</l>
+               </lg>
+               <lg>
+                  <l>(Neoptolemos, Odysseus el.)</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Első versszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh forró s fagyos sziklaüreg!</l>
+                  <l>Nem hagylak el hát soha sem</l>
+                  <l>Téged, én nyomorult szegény!</l>
+                  <l>Látni fogod halálomat is,</l>
+                  <l>Igy rendelte a végzet,</l>
+                  <l>Oh jaj, jaj, jaj!</l>
+                  <l>Oh szomorú barlang,</l>
+                  <l>Melyet betölte keservem!</l>
+                  <l>Mi fog táplálni ezentúl?</l>
+                  <l>Hol van számomra remény,</l>
+                  <l>Hol van a kéz, mely az éhezőt enyhíti?</l>
+                  <l>Fenn a magasban</l>
+                  <l>Átsuhan a levegőn madarak raja,</l>
+                  <l>De én nem gátolom meg.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Magad, magad, akartad ezt így,</l>
+                  <l>Boldogtalan! És nem más keze</l>
+                  <l>Dönte nagyobb hatalommal e sorsba;</l>
+                  <l>Rajtad állt a meggondolás,</l>
+                  <l>Ám te nagyobbra becsülted a rossz sorsot a jónál.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Első ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh én nyomorult, nyomorult!</l>
+                  <l>Megtörve a szörnyű kíntól,</l>
+                  <l>Nem látva emberi arczot,</l>
+                  <l>Elhagyatva kell ezután</l>
+                  <l>Elvesznem nyomorultan!</l>
+                  <l>Jaj, jaj, jaj, jaj!</l>
+                  <l>Nem szerez élelmet</l>
+                  <l>Többé az erős kéz</l>
+                  <l>Szárnyas fegyvere által;</l>
+                  <l>Mert elámíta az áruló,</l>
+                  <l>Csalfa szavával eláltatá lelkemet.</l>
+                  <l>Vajha e kínok</l>
+                  <l>Gyötrenék a gonoszt oly hosszú időn át,</l>
+                  <l>A mint engem gyötörnek!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Az ég, az ég hozá reád ezt,</l>
+                  <l>S nem emberi csalfaság, kezem</l>
+                  <l>Által. Azért e baljóslatú átkot</l>
+                  <l>Másra szórd és nem reánk,</l>
+                  <l>Mert remegek, nehogy elveszítsd jó indulatunkat.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Második versszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj, jaj! ott ül most valahol</l>
+                  <l>A part fehér fövenyén,</l>
+                  <l>S kaczagva rázza kezében</l>
+                  <l>Életadó nyilamat,</l>
+                  <l>Melyhez senki se nyúlt még.</l>
+                  <l>Oh hű fegyver, a hű</l>
+                  <l>Kézből elragadott íj!</l>
+                  <l>Nemde, ha érzelem él idegedben,</l>
+                  <l>Szánva tekintesz Herakles</l>
+                  <l>Szegény frigyesére,</l>
+                  <l>A ki lövésre nem feszít soha többé?</l>
+                  <l>Urat váltasz, a cselszövő</l>
+                  <l>Keze fog forgatni ezentúl,</l>
+                  <l>Tanúja lészsz gaztetteinek,</l>
+                  <l>S szemléled a gyűlöletest,</l>
+                  <l>Számtalan új bajt fűzve a bűnhöz,</l>
+                  <l>A melyet ellenem elkövetett.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>A férfiú mondja a jót igaznak,</l>
+                  <l>Ám ha kimondta, szidalmat</l>
+                  <l>Ne tegyen hozzá a boszús nyelv.</l>
+                  <l>Mert sokaknak akaratját</l>
+                  <l>Teljesíté egyedül ő,</l>
+                  <l>Segélyt hozván az egész seregnek.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Második ellenversszak.</l>
+               </lg>
+               <lg>
+                  <l>Oh repülő madarak, s ti</l>
+                  <l>Csillogó szemű vadjai</l>
+                  <l>Erdős hegyeimnek,</l>
+                  <l>Nem fogtok futni ezentúl</l>
+                  <l>Előlem; nincs a hatalmas</l>
+                  <l>Nyíl többé kezeimben;</l>
+                  <l>Oh nyomorult vagyok immár!</l>
+                  <l>Nem védi senki e tájat,</l>
+                  <l>Nincs több félni valótok;</l>
+                  <l>Jertek előre hát,</l>
+                  <l>Üssetek kedvtelve dús lakomát</l>
+                  <l>Véres tagjaimon!</l>
+                  <l>Hiszen úgy sincs messze halálom.</l>
+                  <l>Mi táplálhatná életemet?</l>
+                  <l>Ki él meg a levegőből,</l>
+                  <l>Ha soha sem kap semmit a földtől,</l>
+                  <l>A mi erőt és életet ád?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Az égre, közelegj hozzánk bizalommal,</l>
+                  <l>Kik jót akarva közelgénk,</l>
+                  <l>Tudd meg, e kíntól</l>
+                  <l>Megmenekülsz, ha akarsz.</l>
+                  <l>Mert iszonyú, táplálni a kórt,</l>
+                  <l>Ezernyi kínját nem tudva viselni.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Megint, megint eszembe juttatád a régi bajt,</l>
+                  <l>Oh útasok legjobbja, te!</l>
+                  <l>Miért ölsz meg, miért gyötörsz?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Mit értesz ezzel?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mért akarsz a gyűlöletes</l>
+                  <l>Trója felé vinni magaddal?</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Tudom, ez volna a legjobb.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>El, el innen! Hagyj magamra!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Örömest, örömest teszem ezt a parancsot azonnal.</l>
+                  <l>El innen, el innen,</l>
+                  <l> A hajóra, helyünkre!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Zeusra, ki átkomat hallja, ne menj el, esengek!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Csillapulj!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Emberek!</l>
+                  <l>Az égre, maradjatok!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Miért kiáltasz?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh jaj! oh jaj! Oh sors! oh sors!</l>
+                  <l>Oda életem! Ah!</l>
+                  <l>Lábam, lábam, oh mit tegyek,</l>
+                  <l>Hová legyek veled ezentúl?</l>
+                  <l> Jertek, oh emberek, vissza e helyre!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Mért? Hogy újra útnak ereszsz,</l>
+                  <l>A mint előbb kijelentéd?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Ne ródd bűnömül,</l>
+                  <l>Ha viharos kínjaim között</l>
+                  <l>Botor szót monda ki ajkam.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Jőjj, a miként mondám, boldogtalan ember!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Nem, soha sem, soha sem, vedd ezt bizonyosnak,</l>
+                  <l>Bárha tüzes villámaival</l>
+                  <l>Hamvasztana el a boszus isten!</l>
+                  <l>Veszszen el Ilion és a ki vívja!</l>
+                  <l>Mind, a kik eldobtak, sebemet megutálva, magoktól!</l>
+                  <l>Még csak ez egyet kérem, oh idegenek!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Szólj, mi e kérés?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Ha van valahol kard,</l>
+                  <l>Vagy bárd, avagy íj, hozzátok ide.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>És mit akarsz vele tenni?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Tagjaimat s fejemet levágni kezemmel,</l>
+                  <l>Halált, halált akarok most!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Miért?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Atyámat keresem.</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>És hol?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Hadesben;</l>
+                  <l>Mert nem látja már a napot,</l>
+                  <l>Oh városom, drága hazám,</l>
+                  <l>Oh ha viszont látnálak, én szegény!</l>
+                  <l>Ki elhagyva szent habjaidat,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_28">28)</ref>
+                  </l>
+                  <l>A gyűlölt Danaok frigyese</l>
+                  <l>Levék; s ime most megsemmisültem.</l>
+               </lg>
+               <lg>
+                  <l>(El a barlangba.)</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Rég útra keltem volna már hajóm felé,</l>
+                  <l>És ott is volnék, ha nem látná most szemem</l>
+                  <l>Odysseust erre jönni, s Achilles nemes</l>
+                  <l>Szülöttét, a ki gyors léptekkel közeleg.</l>
+               </lg>
+               <lg>
+                  <l>(Neoptolemos és Odysseus fellépnek.)</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem mondanád, mért fordultál meg útadon,</l>
+                  <l>S miért jösz oly sietve vissza most ide?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy az előbbi bünömet jóvá tegyem.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Csodálatos szót mondasz. És mi volt e bűn?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hogy rád és az egész seregre hallgaték –</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>S mi dolgot tettél, a mi nem hozzád való?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Rút csalfasággal rászedém e férfiút.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Kit? Oh jaj! csak nem forralsz új tervet megint?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Nem, semmi újat! Ámde Poeas gyermekét –</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Mi szándokod van? Elfogott a rettegés.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Fölkeresem, s az elrabolt nyilat megint –</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Oh Zeus, mit mondasz! Tán csak vissza nem adod?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Alávalóan, jogtalan ragadtam el.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Az istenekre, csúfságból beszélsz-e így?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Igen, ha csúfság a valót kimondani.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Mit hallok, oh Achilles sarja! Mit beszélsz?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Kétszer, háromszor ismételjem ugyanazt?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Bár egyszer sem hallottam volna ezt a szót!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Értsd meg hát tisztán, mindent elmondtam neked.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Van még, van még, ki meggátolja tettedet.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mit szólsz? Ki az, ki ebben gátot vet nekem?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Achaea összes népe, és köztük magam.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Okos létedre nem mondtál most okosat.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>S te nem beszélsz és nem cselekszel okosan.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Okosságnál igazságosság többet ér.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>De mily igazság, visszaadni azt, a mit</l>
+                  <l>Tanácsom által nyertél?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Csak jóvá teszem,</l>
+                  <l>A mit előbb alávalóan vétkezém.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>S nem félsz Argos sergétől, ha ezt megteszed?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>A jog mellettem van, hiában fenyegetsz.</l>
+                  <l>S erőszakkal sem gátolod meg szándokom.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Nem Trója ellen küzdünk hát, de ellened.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hadd jőjjön, a minek kell!</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Látod, hogy kezem</l>
+                  <l>A kardhoz nyult már?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Láthatsz tüstént engem is,</l>
+                  <l>Hogy azt teszem, s habozni épen nem fogok.</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Legyen hát, távozom most és tudtul adom</l>
+                  <l>Ezt a seregnek, tőle végy majd büntetést. (El.)</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bölcsen tevél. Ha mindig így gondolkozol,</l>
+                  <l>Távol tartasz magadtól minden bánatot.</l>
+                  <l>S most halld szavam, Philoktetes, Poeas fia!</l>
+                  <l>E sziklabarlang árnyékából lépj elő!</l>
+               </lg>
+               <lg>
+                  <l>(Philoktetes előlép.)</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mi zaj hangzik fel újra e barlang előtt?</l>
+                  <l>Miért hivtok ki, mit akartok, emberek?</l>
+               </lg>
+               <lg>
+                  <l>(Észreveszi Neoptolemost.)</l>
+               </lg>
+               <lg>
+                  <l>Jaj! Rossz van készülőben! Miért jövél megint?</l>
+                  <l>Hogy régi szenvedésem újakkal tetézd?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bizzál, és engedd elbeszélnem, mért jövék.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Félek; mert azelőtt is szép volt a szavad,</l>
+                  <l>S mivel szavadnak hittem, nagy bajomra lett.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hát nem lehet, hogy változik az érzelem?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Midőn elloptad íjam, akkor is ilyen</l>
+                  <l>Valál: igaz beszédű és álnok szivű.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>De most ne félj; csak azt kivánom hallani,</l>
+                  <l>Miként fordult szándékod: itt maradsz-e vagy</l>
+                  <l>Velünk hajózol?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Hallgass, ne beszélj tovább!</l>
+                  <l>Akármit mondasz, hasztalan minden szavad,</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Ez szándokod hát?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Inkább, mintsem mondhatom.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Jobban szerettem volna, hogy szavamra hajts;</l>
+                  <l>De ha beszédem nincs kedvedre, felhagyok</l>
+                  <l>Vele azonnal.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Hasztalan is szólanál.</l>
+                  <l>Mert nem nyered meg jó szándékomat soha,</l>
+                  <l>Te, a ki csalfán elraboltad éltemet,</l>
+                  <l>És azután bölcs oktatással jösz elém,</l>
+                  <l>Te, a legjobb atyának legrosszabb fia!</l>
+                  <l>Átok reátok, Atridák! Átok reád</l>
+                  <l>És Laërtes fiára!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Hagyd az átkokat!</l>
+                  <l>Ime, fogadd el kezeimből íjadat.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mit mondasz? Újra csalfaság játszik velem?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>A felséges Zeus szent nevére esküszöm!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh, drága hangok – ha való, a mit beszélsz.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Tüstént tett fogja bizonyítni; nyujtsd ki hát</l>
+                  <l>Jobb kezedet s légy újra fegyvered ura.</l>
+               </lg>
+               <lg>
+                  <l>(Odysseus hirtelen előlép.)</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>S én megtiltom – tanúim rá az istenek –</l>
+                  <l>Az Atridák és a sereg nevében ezt!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES (átveszi az íjat).</l>
+               </lg>
+               <lg>
+                  <l>Fiam, ki szól itt? Nem Odysseus hangja ez,</l>
+                  <l>A melyet hallok?</l>
+               </lg>
+               <lg>
+                  <l>ODYSSEUS.</l>
+               </lg>
+               <lg>
+                  <l>Tudd meg bizton, én vagyok,</l>
+                  <l>S erőszakkal Trójába viszlek, bár velem</l>
+                  <l>Vagy ellenem fog tenni Achilles fia.</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES (íját felhúzza).</l>
+               </lg>
+               <lg>
+                  <l>De nem jó kedvvel, ha e nyil bizton talál.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS (megragadja karját).</l>
+               </lg>
+               <lg>
+                  <l>Hah, nem, soha! Az égre! Hagyd el íjadat!</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Az égre, hagyd el karomat, kedves fiam!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>El nem bocsátom!</l>
+               </lg>
+               <lg>
+                  <l>(Odysseus elfut.)</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh, jaj! mért nem engedéd,</l>
+                  <l>Hogy meggyilkoljam gyűlölt ellenségemet?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Szégyen lett volna mindkettőnkre nézve az.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Tudd meg hát legalább, hogy a vezérek, e</l>
+                  <l>Hazug hírmondók, szóval hősök egyedül,</l>
+                  <l>De gyávák ott, hol dárda ellen dárda küzd.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Legyen! Megvan már íjad, s így nincs semmi ok</l>
+                  <l>Haragra vagy panaszra többé ellenem.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Úgy van. Nemes törzsödhöz méltóan tevél,</l>
+                  <l>Fiam; nem Sisyphostól nyerted éltedet,</l>
+                  <l>Hanem Achillestől, kit életében és</l>
+                  <l>Halálában mindig legjobbnak mondtanak.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Örömmel hallom e dicséretet atyám</l>
+                  <l>S magam felől; de hallgass most rám, s tudd mi az,</l>
+                  <l>Mit tőled kérek. Embernek viselni kell</l>
+                  <l> A sorsot, melyet istenek küldtek reá;</l>
+                  <l>De a ki önmagának készít szenvedést,</l>
+                  <l>Miként te, az nem érdemel bocsánatot,</l>
+                  <l>És nem lesz méltó szánalomra soha sem.</l>
+                  <l>Te el vagy keseredve és nem hallgatod</l>
+                  <l>A jó tanácsot, ellenségnek tartod azt,</l>
+                  <l>Ki jó szándékkal jóra intve jő feléd.</l>
+                  <l>S én mégis mondom – Zeus legyen reá tanúm –</l>
+                  <l>S te hallgass rám, vésd jól szivedbe szavamat:</l>
+                  <l>Az istenek küldötték ezt a kórt reád,</l>
+                  <l>Mert vakmerőn közelgél a kigyó felé,</l>
+                  <l>Mely Chryse nyilt szentélyét rejtve őrizé;<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_29">29)</ref>
+                  </l>
+                  <l>S tudd meg, hogy kórod meg nem szűnik soha sem,</l>
+                  <l>Míg ez a nap keletről jő fel s nyugaton</l>
+                  <l>Pihen le, ha csak önszántodból útra nem</l>
+                  <l>Indulsz és nem jelensz meg Trója sikjain,</l>
+                  <l>Hol fölleled Asklepiosnak fiait,</l>
+                  <l>Kik meggyógyítják kórodat, hogy azután</l>
+                  <l>Velem s nyiladdal elpusztítsad Pergamost.</l>
+                  <l>Elmondom azt is, mint tudám meg ezeket:</l>
+                  <l>Foglyunkká tettük Ilionból Helenost,</l>
+                  <l>A legjobb jóst, ki tisztán megjövendölé,</l>
+                  <l>Hogy így fog jönni; s azt is hozzátette még,</l>
+                  <l>Hogy a jelen nyár látni fogja biztosan</l>
+                  <l>Egész Trójának elbukását; s önmagát</l>
+                  <l>Halálra szánta, ha csalárd volt jóslata.</l>
+                  <l>S most tudva mindezt, jer jó szántodból velünk.</l>
+                  <l>Hisz oly szép lenne, az egész hellen sereg</l>
+                  <l>Legelső hőseként, először gyógyulást</l>
+                  <l>Találni, s aztán Trója sokszor siratott</l>
+                  <l>Várát fényes dicsőséggel megdönteni.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Oh, gyűlölt élet, mért tartasz még ide fenn,</l>
+                  <l>Mért nem bocsátsz Hades honába engemet?</l>
+                  <l>Jaj, mit tegyek? Hogy tudjak ellenállani</l>
+                  <l>Ez embernek, ki oly jó indulattal int?</l>
+                  <l>Engedjek hát? De hogy fogok majd, én szegény,</l>
+                  <l>A napvilágra lépni? Kit köszöntsek ott?</l>
+                  <l>Oh szem, mely láttad minden szenvedésemet!</l>
+                  <l>Mint tudnád elviselni, hogy az Atridák</l>
+                  <l>Között láss újra, kik megronták éltemet?</l>
+                  <l>Hogy ott lásd mellettem Laërtes gaz fiát?</l>
+                  <l>Nem elmult szenvedéseim emléke bánt,</l>
+                  <l>Nem az gyötör, hanem jövendő kínjaim</l>
+                  <l>Félelme; mert ha egyszer rosszat szült a szív,</l>
+                  <l>Úgy mindig új meg új bűnöknek anyja lesz.</l>
+                  <l>Csodálkozással tölt el a te dolgod is.</l>
+                  <l>Nem kellene Trójába menned, s engemet</l>
+                  <l>Azokhoz vinned, a kik meggyaláztanak,</l>
+                  <l>Ellopva tőled hős atyádnak fegyverét:</l>
+                  <l>S te értök harczolsz, s engem is rá kényszerítsz?</l>
+                  <l>Ne tedd ezt, oh fiam, hanem mint esküvél,</l>
+                  <l>Vezess hazámba, és te Skyrosban maradj!</l>
+                  <l>Hadd veszszenek el gonoszul e gonoszok!</l>
+                  <l>Kettős hálát nyersz tőlem így jutalmadul,<ref target="#8831371708220389629_61493-h-5.htm.html#Footnote_30">30)</ref>
+                  </l>
+                  <l>Kettős hálát atyámtól; és a rosszakat</l>
+                  <l>Nem oltalmazván, nem fogsz rossznak látszani!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Helyes beszéd, de mégis azt óhajtanám,</l>
+                  <l>Hogy hallgatnál az istenekre és reám,</l>
+                  <l>S távoznál innen jó barátod oldalán.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Tán Trója mezejére, és Atreus gyűlölt</l>
+                  <l>Fiához? Oda vinném sebhedt lábamat?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Azokhoz, a kik meggyógyítják gennyedő</l>
+                  <l>Lábad sebét, s megenyhítik fájdalmadat.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh, mily szörnyű tanácsot adsz! Mit is beszélsz!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>A mit rám és rád nézve legjobbnak hiszek.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>S így szólva nem szégyenled istentől magad?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mért szégyenkezni a miatt, mi hasznot ad?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Az Atridáknak ád ez hasznot vagy nekem?</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mint jó barátod szólok és jót akarok.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Te, a ki ellenimnek adnál engem át?</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Oh, kedvesem, ne légy a balsorsban daczos!</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Ismerlek; el akarsz e szóval veszteni.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Bizonynyal nem; de nem akarsz megérteni.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Az Atridák eldobtak, ennyit jól tudok.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>A kik eldobtak, ime most megmentenek.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>De Tróját jó szántomból nem látom soha.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mi van még hátra, mit tegyek, ha semmi szó,</l>
+                  <l>És semmi kérés nem képes megdönteni?</l>
+                  <l>Legkönnyebb lesz, ha semmit sem szólok tovább,</l>
+                  <l>S te élsz, mint eddig éltél, menthetetlenül.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Hadd szenvedjem hát a reám mért szenvedést!</l>
+                  <l>De azt, mit jobb kezeddel szentül fogadál, –</l>
+                  <l>Hogy elviszesz hazámba, – teljesítsd, fiam!</l>
+                  <l>Ne halogasd hát és ne szólj többé nekem</l>
+                  <l>Trójáról; mert eléggé gyötrött már e név.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Induljunk, ha tetszik.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mily nemes szót mondál, oh fiam!</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Lépj előre bátran, bizton.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Mint erőm megengedi.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mint kerüljem Argos vádját?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Hagyd az aggodalmakat.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S ha országom elpusztítják?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Akkor én is ott leszek.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Mit fogsz tenni védelmemre?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Itt van Herakles nyila –</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>S ezzel?</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Távol tartom őket.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Végy itt búcsút és kövess.</l>
+               </lg>
+               <lg>
+                  <l>(Herakles megjelenik egy felhőben.)</l>
+               </lg>
+               <lg>
+                  <l>HERAKLES.</l>
+               </lg>
+               <lg>
+                  <l>Nem addig, a míg nem hallod a szót,</l>
+                  <l>Poeas fia, ajkaimon!</l>
+                  <l>Mert tudd meg, Herakles hangja beszél,</l>
+                  <l>Herakles alakját látod előtted.</l>
+                  <l>Érted vagyok itt, elhagyva miattad</l>
+                  <l>A mennyei trónt,</l>
+                  <l>Hogy kijelentsem Zeus akaratját,</l>
+                  <l>S meggátoljam az útat, melybe fogál.</l>
+                  <l>Ügyelj hát szavaimra!</l>
+                  <l>Először ennen sorsom említem neked,</l>
+                  <l>Mily fárasztó küzdelmek és munkák után</l>
+                  <l>Nyerék örök dicsőséget, mint láthatod.</l>
+                  <l>Eléd is, tudd meg, ily czélt tűzött végzeted,</l>
+                  <l>Hogy fáradj, szenvedj és dicsőséget szerezz.</l>
+                  <l>Menj hát e férfiúval Trója városa</l>
+                  <l>Elé, s azonnal megszűnik gyászos bajod;</l>
+                  <l>Aztán a hadseregnek legjobb hőseként</l>
+                  <l>Kioltod nyilvesszőmmel Páris életét,</l>
+                  <l>Ki mind e bajnak egykoron forrása volt;</l>
+                  <l>Megdöntöd Tróját, és a zsákmány legjavát</l>
+                  <l>Küldöd hazádba, palotádnak ékeül,</l>
+                  <l>Atyádnak, ősz Poeasnak, Oeta mezején.</l>
+                  <l>S a zsákmányt, mely a hadseregtől jut reád,</l>
+                  <l>Vidd el máglyámra, nyilaim emlékeül.</l>
+                  <l>Hallgass te is szavamra, Achilles fia!</l>
+                  <l> Mert nem hódíthatod meg Trója ormait</l>
+                  <l>E férfi nélkül, a mint ő sem nélküled.</l>
+                  <l>Őrizzétek hát egymást, mint együtt nevelt</l>
+                  <l>Oroszlánpár! S elküldöm majd Asklepiost</l>
+                  <l>Trójába, a ki meggyógyítja kórodat.</l>
+                  <l>A sors akarja, hogy másodszor döntse meg</l>
+                  <l>E várost íjam. Ám ha majd pusztítani</l>
+                  <l>Fogjátok földét, tiszteljétek azt, mi szent.</l>
+                  <l>Mert minden mást csekélyebbnek tart Zeus atyám;</l>
+                  <l>De a kegyesség síron túl is megmarad,</l>
+                  <l>S éljünk vagy haljunk, nem enyészik el soha.</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Oh, isteni hang, rég vágytam utánad.</l>
+                  <l>Míg megjelenél!</l>
+                  <l>Követem parancsaidat.</l>
+               </lg>
+               <lg>
+                  <l>NEOPTOLEMOS.</l>
+               </lg>
+               <lg>
+                  <l>Én is megfogadom szavadat.</l>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l>HERAKLES.</l>
+               </lg>
+               <lg>
+                  <l>Ne késsetek hát cselekedni;</l>
+                  <l>Int már az idő,</l>
+                  <l>És útra készen vár a hajó.</l>
+               </lg>
+               <lg>
+                  <l>(Eltünik.)</l>
+               </lg>
+               <lg>
+                  <l>PHILOKTETES.</l>
+               </lg>
+               <lg>
+                  <l>Fel hát! Utólszor üdvözlöm e földet.</l>
+                  <l>Köszöntelek, óvó sziklafedél,</l>
+                  <l>Nymphák a habokban, a réten,</l>
+                  <l>Hullámok haragos moraja,</l>
+                  <l>Oh déli vihar, mely fejemet</l>
+                  <l>Gyakorta megöntéd barlangom ölén,</l>
+                  <l>Oh Hermes ormai, melyek</l>
+                  <l>Sokszor visszaverétek a kín</l>
+                  <l>Bús sóhajait, panaszát!</l>
+                  <l>Most oh phœbosi forrás, enyhe ital,</l>
+                  <l>Elhagylak, elhagylak örökre –</l>
+                  <l>Nem hittük ezt mi úgy-e soha?</l>
+                  <l>Isten veled, Lemnos, habverte sziget,</l>
+                  <l>Küldj oda vész kerülte úton,</l>
+                  <l>Hova Mœra vezet, a hatalmas,</l>
+                  <l>S barátaim akaratja, s az isten</l>
+                  <l>Mindenható parancsa!</l>
+               </lg>
+               <lg>
+                  <l>KAR.</l>
+               </lg>
+               <lg>
+                  <l>Fel hát! szálljunk mind a hajóra,</l>
+                  <l>S kérjük a tenger nymphái kegyét,</l>
+                  <l>Védjék útunkat a vésztől!</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>Jegyzetek Philokteteshez.</head>
+               <p rend="justify">
+                  <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_1">1.</ref> Poeas fia Philoktetes, ki melisinek neveztetik, mert atyja a thessaliai Melisben uralkodott.</p>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_2">2.</ref> Mert Neoptolemos nem volt Helena kérői közt, kik eskűvel kötelezték magukat a leendő férj védelmére.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_3">3.</ref> Mint Odysseus.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_4">4.</ref> Melyen Philoktetest kitették.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_5">5.</ref> Mert Philoktetes épen Chryse oltárát akarta fölkeresni, midőn a kigyó megmarta.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_6">6.</ref> Herakles győzhetetlen íja, melyet Apollotól, az isteni íjásztól kapott.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_7">7.</ref> Skyros, sziget az aegaei tengeren, hol Deidamia. Lykomedes király leánya, Achillestől, ki a leányok közt rejtezett, Neoptolemost szülte.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_8">8.</ref> Odysseus a kephalleni szigetek királya, melyeknek lakói mint kalózok váltak híresekké; azért Philoktetes ez elnevezésben keserű czélzást tesz Odysseus csalfaságára.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_9">9.</ref> Sophokles itt azon mondát követi, hogy Odysseus és Phoenix, Achilles nevelője mentek Neoptolemosért.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_10">10.</ref> Sigeion hegyfokot Trója mellett gyászosnak mondja, mert itt feküdt holtan Achilles.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_11">11.</ref> A föld alatt Cybele vagy Rhea istennő értetik; bérczesnek mondják, mert a hegyormokon tisztelték.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_12">12.</ref> Paktolos folyó Tmolosból jött alá, hol Cybele fő székhelye volt.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_13">13.</ref> Az istennő szekerébe oroszlánok voltak fogva; sokszor rajzolták oroszlánon nyargalva.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_14">14.</ref> Diomedes, ki Odysseussal együtt kitette volt Philoktetest.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-1.htm.html#FNanchor_15">15.</ref> Odysseus, kinek anyját Antikleiát, midőn vele Sisyphostól teherben volt, drága pénzen vásárolta meg s vette nőül Laërtes.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_16">16.</ref> Philoktetes Chalkodont, Abas fiát említi, ki Heraklesnek szövetségese volt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_17">17.</ref> Peparethos (ma Skopelos) híres volt olaj-, gabna- és bortermeléséről. Azért e költött elbeszélésben helyesen van választva, mert valószínű volt, hogy a peparethosi borkalmárok összeköttetésben álltak a görög táborral.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_18">18.</ref> Akamas és Demophon, kiket Sophokles a Homer utáni eposból vett.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_19">19.</ref> Czélzás Sisyphosra, ki haldokolva megparancsolta nejének, hogy testét temetetlenül hagyja. Az alvilágban aztán engedelmet kért Plutótól, hogy visszatérjen a földre s nejét e hanyagságért megbüntesse. Az engedélyt megkapta, de aztán nem akart többé az alvilágba visszatérni, míg erővel nem kényszerítették rá.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_20">20.</ref> A nyugati szél mindkettőjökre kedvezőtlen, mert állítólag üldözőik is Trója felől hajóznak Hellas felé.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_21">21.</ref> Ixion, kit Zeus, mivel Junót merte szeretni, az alvilágban örökkön forgó kerékre kötött.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_22">22.</ref> Herakles, ki Oeta ormán máglyára tétette magát s a tűzből az istenek közé emelkedett.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_23">23.</ref> A nagy szerencse rendesen magára vonja az istenek irigy féltékenységét; azért ez íj minden tulajdonosára vészt hozott eddig: Heraklesre és Philoktetesre. Engesztelje meg tehát Neoptolemos az istenek irigységét, nehogy őt is bajba döntse ez isteni erejű íj birása.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_24">24.</ref> A lemnosi tűz a Moschylos vulkán, mely Lemnos szigetén volt.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_25">25.</ref> A kar biztatja Neoptolemost, hogy mivel az íj kezében van, siessen el, mielőtt Philoktetes fölébredne, mert így az íj megnyerése nem fog semmi veszélylyel járni.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-2.htm.html#FNanchor_26">26.</ref> Neoptolemos, ki régóta benső harczban van önmagával, nem képes tovább folytatni tettetését.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-3.htm.html#FNanchor_27">27.</ref> Odysseus őrültnek tette magát, de Palamedes azon cselt használta ellene, mintha fiát Telemachost meg akarná ölni; Odysseus erre elárulván, hogy őrültsége szinlelt volt, kényszerült részt venni a hadjáratban.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-3.htm.html#FNanchor_28">28.</ref> Sperchios folyó.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-3.htm.html#FNanchor_29">29.</ref> Chrysének, mint nymphának, nem volt temploma, hanem csak kerített berke szabad ég alatt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <ref target="#8831371708220389629_61493-h-4.htm.html#FNanchor_30">30.</ref> A mennyiben Philoktetest megszabadítja és az Atridákat megrontja.</l>
+               </lg>
+               <lg>
+                  <l>*** END OF THIS PROJECT GUTENBERG EBOOK ***</l>
+               </lg>
+               <lg>
+                  <l>Updated editions will replace the previous one—the old editions will be renamed.</l>
+               </lg>
+               <lg>
+                  <l>Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</l>
+               </lg>
+               <lg>
+                  <l>START: FULL LICENSE</l>
+               </lg>
+            </div>
+            <div type="div2" rend="P5">
+               <head>The Full Project Gutenberg License</head>
+               <p rend="center">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</p>
+               <p rend="justify">To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</p>
+               <p rend="justify">Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</p>
+               <p rend="justify">1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</p>
+               <p rend="justify">1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</p>
+               <p rend="justify">1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</p>
+               <p rend="justify">1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</p>
+               <p rend="justify">1.E. Unless you have removed all references to Project Gutenberg:</p>
+               <p rend="justify">1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</p>
+               <p rend="justify">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</p>
+               <p rend="justify">1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</p>
+               <p rend="justify">1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</p>
+               <p rend="justify">1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</p>
+               <p rend="justify">1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.</p>
+               <p rend="justify">1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</p>
+               <p rend="justify">1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</p>
+               <p rend="justify">1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</p>
+               <p rend="justify">• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</p>
+               <p rend="justify">• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</p>
+               <p rend="justify">• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</p>
+               <p rend="justify">• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</p>
+               <p rend="justify">1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</p>
+               <p rend="justify">1.F.</p>
+               <p rend="justify">1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</p>
+               <p rend="justify">1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</p>
+               <p rend="justify">1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</p>
+               <p rend="justify">1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</p>
+               <p rend="justify">1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</p>
+               <p rend="justify">1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</p>
+               <p rend="justify">Section 2. Information about the Mission of Project Gutenberg™</p>
+               <p rend="justify">Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</p>
+               <p rend="justify">Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</p>
+               <p rend="justify">Section 3. Information about the Project Gutenberg Literary Archive Foundation</p>
+               <p rend="justify">The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</p>
+               <p rend="justify">The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</p>
+               <p rend="justify">Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</p>
+               <p rend="justify">Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</p>
+               <p rend="justify">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit <ref target="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</ref>.</p>
+               <p rend="justify">While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</p>
+               <p rend="justify">International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</p>
+               <p rend="justify">Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</p>
+               <p rend="justify">Section 5. General Information About Project Gutenberg™ electronic works</p>
+               <p rend="justify">Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</p>
+               <p rend="justify">Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</p>
+               <p rend="justify">Most people start at our website which has the main PG search facility: <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>.</p>
+               <p rend="justify">This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</p>
+               <div type="div3" rend="P6">
+                  <head>Megjegyzések:</head>
+                  <p rend="justify">Az eredeti képek elérhetők innen: <ptr target="http://books.google.com/books?id=9VpPAQAAMAAJ"/>.</p>
+                  <p rend="justify">Facebook oldalunk: <ptr target="http://www.facebook.com/PGHungarianTeam"/>.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

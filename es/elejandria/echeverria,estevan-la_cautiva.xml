@@ -1,0 +1,2995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La cautiva</title>
+            <author>Estevan Echeverria</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:25:22Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-21T20:32:11.550698633</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <div type="div1">
+            <head>La cautiva</head>
+            <author>Estevan Echeverria</author>
+            <p rend="italic">2022-04-192022-04-19</p>
+            <lg/>
+            <lg/>
+            <lg/>
+            <lg/>
+            <lg/>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Parte%20primera.xhtml#calibre_pb_0"/>Parte primera<ptr type="bookmark-end" target="#id_Parte%20primera.xhtml#calibre_pb_0"/>
+                  <lb/> El desierto</head>
+               <lg>
+                  <l>Era la tarde, y la hora</l>
+                  <l>en que el sol la cresta dora</l>
+                  <l>de los Andes. El Desierto</l>
+                  <l>inconmensurable, abierto,</l>
+                  <l>y misterioso a sus pies</l>
+                  <l>se extiende; triste el semblante,</l>
+                  <l>solitario y taciturno</l>
+                  <l>como el mar, cuando un instante</l>
+                  <l>al crepúsculo nocturno,</l>
+                  <l>pone rienda a su altivez.</l>
+               </lg>
+               <lg>
+                  <l>Gira en vano, reconcentra</l>
+                  <l>su inmensidad, y no encuentra</l>
+                  <l>la vista, en su vivo anhelo,</l>
+                  <l>do fijar su fugaz vuelo,</l>
+                  <l>como el pájaro en el mar.</l>
+                  <l>Doquier campos y heredades</l>
+                  <l>del ave y bruto guaridas,</l>
+                  <l>doquier cielo y soledades</l>
+                  <l>de Dios sólo conocidas,</l>
+                  <l>que Él sólo puede sondar.</l>
+                  <l>A veces, la tribu errante,</l>
+                  <l>sobre el potro rozagante,</l>
+                  <l>cuyas crines altaneras</l>
+                  <l>flotan al viento ligeras,</l>
+                  <l>lo cruza cual torbellino,</l>
+                  <l>y pasa; o su toldería</l>
+                  <l>sobre la grama frondosa</l>
+                  <l>asienta, esperando el día</l>
+                  <l>duerme, tranquila reposa,</l>
+                  <l>sigue veloz su camino.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Cuántas, cuántas maravillas,</l>
+                  <l>sublimes y a par sencillas,</l>
+                  <l>sembró la fecunda mano</l>
+                  <l>de Dios allí! ¡Cuánto arcano</l>
+                  <l>que no es dado al vulgo ver!</l>
+                  <l>La humilde yerba, el insecto,</l>
+                  <l>la aura aromática y pura,</l>
+                  <l>el silencio, el triste aspecto</l>
+                  <l>de la grandiosa llanura,</l>
+                  <l>el pálido anochecer.</l>
+               </lg>
+               <lg>
+                  <l>Las armonías del viento</l>
+                  <l>dicen más al pensamiento</l>
+                  <l>que todo cuanto a porfía</l>
+                  <l>la vana filosofía</l>
+                  <l>pretende altiva enseñar.</l>
+                  <l>¿Qué pincel podrá pintarlas</l>
+                  <l>sin deslucir su belleza?</l>
+                  <l>¿Qué lengua humana alabarlas?</l>
+                  <l>Sólo el genio su grandeza</l>
+                  <l>puede sentir y admirar.</l>
+               </lg>
+               <lg>
+                  <l>Ya el sol su nítida frente</l>
+                  <l>reclinaba en occidente,</l>
+                  <l>derramando por la esfera</l>
+                  <l>de su rubia cabellera</l>
+                  <l>el desmayado fulgor.</l>
+                  <l>Sereno y diáfano el cielo,</l>
+                  <l>sobre la gala verdosa</l>
+                  <l>de la llanura, azul velo</l>
+                  <l>esparcía, misteriosa</l>
+                  <l>sombra dando a su color.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El aura, moviendo apenas</l>
+                  <l>sus alas de aroma llenas,</l>
+                  <l>entre la yerba bullía</l>
+                  <l>del campo que parecía</l>
+                  <l>como un piélago ondear.</l>
+                  <l>Y la tierra, contemplando</l>
+                  <l>del astro rey la partida,</l>
+                  <l>callaba, manifestando,</l>
+                  <l>como en una despedida,</l>
+                  <l>en su semblante pesar.</l>
+               </lg>
+               <lg>
+                  <l>Sólo a ratos, altanero</l>
+                  <l>relinchaba un bruto fiero</l>
+                  <l>aquí o allá, en la campaña;</l>
+                  <l>bramaba un toro de saña,</l>
+                  <l>rugía un tigre feroz;</l>
+                  <l>o las nubes contemplando,</l>
+                  <l>como extático y gozoso,</l>
+                  <l>el yajá, de cuando en cuando,</l>
+                  <l>turbaba el mudo reposo</l>
+                  <l>con su fatídica voz.</l>
+               </lg>
+               <lg>
+                  <l>Se puso el sol; parecía</l>
+                  <l>que el vasto horizonte ardía:</l>
+                  <l>la silenciosa llanura</l>
+                  <l>fue quedando más obscura,</l>
+                  <l>más pardo el cielo, y en él,</l>
+                  <l>con luz trémula brillaba</l>
+                  <l>una que otra estrella, y luego</l>
+                  <l>a los ojos se ocultaba,</l>
+                  <l>como vacilante fuego</l>
+                  <l>en soberbio chapitel.</l>
+               </lg>
+               <lg>
+                  <l>El crepúsculo, entretanto,</l>
+                  <l>con su claroscuro manto,</l>
+                  <l>veló la tierra; una faja,</l>
+                  <l>negra como una mortaja,</l>
+                  <l>el occidente cubrió;</l>
+                  <l>mientras la noche bajando</l>
+                  <l>lenta venía, la calma,</l>
+                  <l>que contempla suspirando</l>
+                  <l>inquieta a veces el alma,</l>
+                  <l>con el silencio reinó.</l>
+               </lg>
+               <lg>
+                  <l>Entonces, como el ruido</l>
+                  <l>que suele hacer el tronido</l>
+                  <l>cuando retumba lejano,</l>
+                  <l>se oyó en el tranquilo llano</l>
+                  <l>sordo y confuso clamor;</l>
+                  <l>se perdió... y luego violento,</l>
+                  <l>como baladro espantoso</l>
+                  <l>de turba inmensa, en el viento</l>
+                  <l>se dilató sonoroso,</l>
+                  <l>dando a los brutos pavor.</l>
+               </lg>
+               <lg>
+                  <l>Bajo la planta sonante</l>
+                  <l>del ágil potro arrogante</l>
+                  <l>el duro suelo temblaba,</l>
+                  <l>y envuelto en polvo cruzaba</l>
+                  <l>como animado tropel,</l>
+                  <l>velozmente cabalgando;</l>
+                  <l>veíanse lanzas agudas,</l>
+                  <l>cabezas, crines ondeando,</l>
+                  <l>y como formas desnudas</l>
+                  <l>de aspecto extraño y cruel.</l>
+               </lg>
+               <lg>
+                  <l>¿Quién es? ¿Qué insensata turba</l>
+                  <l>con su alarido perturba</l>
+                  <l>las calladas soledades</l>
+                  <l>de Dios, do las tempestades</l>
+                  <l>sólo se oyen resonar?</l>
+                  <l>¿Qué humana planta orgullosa</l>
+                  <l>se atreve a hollar el desierto</l>
+                  <l>cuando todo en él reposa?</l>
+                  <l>¿Quién viene seguro puerto</l>
+                  <l>en sus yermos a buscar?</l>
+               </lg>
+               <lg>
+                  <l>¡Oíd! Ya se acerca el bando</l>
+                  <l>de salvajes, atronando</l>
+                  <l>todo el campo convecino;</l>
+                  <l>¡mirad! como torbellino</l>
+                  <l>hiende el espacio veloz.</l>
+                  <l>El fiero ímpetu no enfrena</l>
+                  <l>del bruto que arroja espuma;</l>
+                  <l>vaga al viento su melena,</l>
+                  <l>y con ligereza suma</l>
+                  <l>pasa en ademán atroz.</l>
+               </lg>
+               <lg>
+                  <l>¿Dónde va? ¿De dónde viene?</l>
+                  <l>¿De qué su gozo proviene?</l>
+                  <l>¿Por qué grita, corre, vuela,</l>
+                  <l>clavando al bruto la espuela,</l>
+                  <l>sin mirar alrededor?</l>
+                  <l>¡Ved que las puntas ufanas</l>
+                  <l>de sus lanzas, por despojos,</l>
+                  <l>llevan cabezas humanas,</l>
+                  <l>cuyos inflamados ojos</l>
+                  <l>respiran aún furor!</l>
+               </lg>
+               <lg>
+                  <l>Así el bárbaro hace ultraje</l>
+                  <l>al indomable coraje</l>
+                  <l>que abatió su alevosía;</l>
+                  <l>y su rencor todavía</l>
+                  <l>mira, con torpe placer,</l>
+                  <l>las cabezas que cortaron</l>
+                  <l>sus inhumanos cuchillos,</l>
+                  <l>exclamando: -"Ya pagaron</l>
+                  <l>del cristiano los caudillos</l>
+                  <l>el feudo a nuestro poder.</l>
+               </lg>
+               <lg>
+                  <l>Ya los ranchos do vivieron</l>
+                  <l>presa de las llamas fueron,</l>
+                  <l>y muerde el polvo abatida</l>
+                  <l>su pujanza tan erguida.</l>
+                  <l>¿Dónde sus bravos están?</l>
+                  <l>Vengan hoy del vituperio,</l>
+                  <l>sus mujeres, sus infantes,</l>
+                  <l>que gimen en cautiverio,</l>
+                  <l>a libertar, y como antes,</l>
+                  <l>nuestras lanzas probarán."</l>
+               </lg>
+               <lg>
+                  <l>Tal decía, y bajo el callo</l>
+                  <l>del indómito caballo,</l>
+                  <l>crujiendo el suelo temblaba;</l>
+                  <l>hueco y sordo retumbaba</l>
+                  <l>su grito en la soledad.</l>
+                  <l>Mientras la noche, cubierto</l>
+                  <l>el rostro en manto nubloso,</l>
+                  <l>echó en el vasto desierto,</l>
+                  <l>su silencio pavoroso,</l>
+                  <l>su sombría majestad. </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Parte%20segunda.xhtml#calibre_pb_1"/>Parte segunda<ptr type="bookmark-end" target="#id_Parte%20segunda.xhtml#calibre_pb_1"/>
+                  <lb/>El festín</head>
+               <p rend="justify"> </p>
+               <epigraph>...orríbile favelle,<lb/>parole di dolore, accenti d'ira,<lb/>voci alte e fioche, e suon di man con elle<lb/>facévano un tumulto...<lb/>(Dante)</epigraph>
+               <lg>
+                  <l/>
+                  <l>El festín</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Noche es el vasto horizonte,</l>
+                  <l>noche el aire, cielo y tierra.</l>
+                  <l>Parece haber apiñado</l>
+                  <l>el genio de las tinieblas,</l>
+                  <l>para algún misterio inmundo,</l>
+                  <l>sobre la llanura inmensa,</l>
+                  <l>la lobreguez del abismo</l>
+                  <l>donde inalterable reina.</l>
+               </lg>
+               <lg>
+                  <l>Sólo inquietos divagando,</l>
+                  <l>por entre las sombras negras,</l>
+                  <l>los espíritus foletos</l>
+                  <l>con viva luz reverberan,</l>
+                  <l>se disipan, reaparecen,</l>
+                  <l>vienen, van, brillan, se alejan,</l>
+                  <l>mientras el insecto chilla,</l>
+                  <l>y en fachinales o cuevas</l>
+                  <l>los nocturnos animales</l>
+                  <l>con triste aullido se quejan.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>La tribu aleve, entretanto,</l>
+                  <l>allá en la pampa desierta,</l>
+                  <l>donde el cristiano atrevido</l>
+                  <l>jamás estampa la huella,</l>
+                  <l>ha reprimido del bruto</l>
+                  <l>la estrepitosa carrera;</l>
+                  <l>y campo tiene fecundo</l>
+                  <l>al pie de una loma extensa,</l>
+                  <l>lugar hermoso, do a veces</l>
+                  <l>sus tolderías asienta.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Feliz la maloca ha sido;</l>
+                  <l>rica y de estima la presa</l>
+                  <l>que arrebató a los cristianos:</l>
+                  <l>caballos, potros y yeguas,</l>
+                  <l>bienes que en su vida errante</l>
+                  <l>ella más que el oro precia;</l>
+                  <l>muchedumbre de cautivas,</l>
+                  <l>todas jóvenes y bellas.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Sus caballos, en manadas,</l>
+                  <l>pacen la fragante yerba;</l>
+                  <l>y al lazo, algunos prendidos,</l>
+                  <l>a la pica, o la manea,</l>
+                  <l>de sus indolentes amos</l>
+                  <l>el grito de alarma esperan.</l>
+                  <l>Y no lejos de la turba,</l>
+                  <l>que charla ufana y hambrienta,</l>
+                  <l>atado entre cuatro lanzas,</l>
+                  <l>como víctima en reserva,</l>
+                  <l>noble espíritu valiente</l>
+                  <l>mira vacilar su estrella;</l>
+                  <l>al paso que su infortunio,</l>
+                  <l>sin esperanza, lamentan,</l>
+                  <l>rememorando su hogar,</l>
+                  <l>los infantes y las hembras.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Arden ya en medio del campo</l>
+                  <l>cuatro extendidas hogueras,</l>
+                  <l>cuyas vivas llamaradas</l>
+                  <l>irradiando, colorean</l>
+                  <l>el tenebroso recinto</l>
+                  <l>donde la chusma hormiguea.</l>
+                  <l>En torno al fuego sentados</l>
+                  <l>unos lo atizan y ceban;</l>
+                  <l>otros la jugosa carne</l>
+                  <l>al rescoldo o llama tuestan.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Aquél come, éste destriza,</l>
+                  <l>más allá alguno degüella</l>
+                  <l>con afilado cuchillo</l>
+                  <l>la yegua al lazo sujeta,</l>
+                  <l>y a la boca de la herida,</l>
+                  <l>por donde ronca y resuella,</l>
+                  <l>y a borbollones arroja</l>
+                  <l>la caliente sangre fuera,</l>
+                  <l>en pie, trémula y convulsa,</l>
+                  <l>dos o tres indios se pegan</l>
+                  <l>como sedientos vampiros,</l>
+                  <l>sorben, chupan, saborean</l>
+                  <l>la sangre, haciendo mormullo,</l>
+                  <l>y de sangre se rellenan.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Baja el pescuezo, vacila,</l>
+                  <l>y se desploma la yegua</l>
+                  <l>con aplausos de las indias</l>
+                  <l>que a descuartizarla empiezan.</l>
+                  <l>Arden en medio del campo,</l>
+                  <l>con viva luz las hogueras;</l>
+                  <l>sopla el viento de la pampa</l>
+                  <l>y el humo y las chispas vuelan.</l>
+                  <l>A la charla interrumpida,</l>
+                  <l>cuando el hambre está repleta,</l>
+                  <l>sigue el cordial regocijo,</l>
+                  <l>el beberaje y la gresca,</l>
+                  <l>que apetecen los varones,</l>
+                  <l>y las mujeres detestan.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El licor espirituoso</l>
+                  <l>en grandes bacías echan;</l>
+                  <l>y, tendidos de barriga</l>
+                  <l>en derredor, la cabeza</l>
+                  <l>meten sedientos, y apuran</l>
+                  <l>el apetecido néctar,</l>
+                  <l>que bien pronto los convierte</l>
+                  <l>en abominables fieras.</l>
+                  <l>Cuando algún indio, medio ebrio,</l>
+                  <l>tenaz metiendo la lengua</l>
+                  <l>sigue en la preciosa fuente,</l>
+                  <l>y beber también no deja</l>
+                  <l>a los que aguijan furiosos,</l>
+                  <l>otro viene, de las piernas</l>
+                  <l>lo agarra, tira y arrastra,</l>
+                  <l>y en lugar suyo se espeta.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Así bebe, ríe, canta,</l>
+                  <l>y al regocijo sin rienda</l>
+                  <l>se da la tribu; aquel ebrio</l>
+                  <l>se levanta, bambolea,</l>
+                  <l>a plomo cae, y gruñendo</l>
+                  <l>como animal se revuelca.</l>
+                  <l>Éste chilla, algunos lloran,</l>
+                  <l>y otros a beber empiezan.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De la chusma toda al cabo</l>
+                  <l>la embriaguez se enseñorea</l>
+                  <l>y hace andar en remolino</l>
+                  <l>sus delirantes cabezas;</l>
+                  <l>entonces empieza el bullicio,</l>
+                  <l>y la algazara tremenda,</l>
+                  <l>el infernal alarido</l>
+                  <l>y las voces lastimeras,</l>
+                  <l>mientras sin alivio lloran</l>
+                  <l>las cautivas miserables,</l>
+                  <l>y los ternezuelos niños,</l>
+                  <l>al ver llorar a sus madres.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Las hogueras, entretanto,</l>
+                  <l>en la obscuridad flamean,</l>
+                  <l>y a los pintados semblantes</l>
+                  <l>y a las largas cabelleras</l>
+                  <l>de aquellos indios beodos,</l>
+                  <l>da su vislumbre siniestra</l>
+                  <l>colorido tan extraño,</l>
+                  <l>traza tan horrible y fea,</l>
+                  <l>que parecen del abismo</l>
+                  <l>précito, inmunda ralea,</l>
+                  <l>entregada al torpe gozo</l>
+                  <l>de la sabática fiesta.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Todos en silencio escuchan;</l>
+                  <l>una voz entona recia</l>
+                  <l>las heroicas alabanzas,</l>
+                  <l>y los cantos de la guerra:</l>
+                  <l>-Guerra, guerra, y exterminio</l>
+                  <l>al tiránico dominio</l>
+                  <l>del huinca; engañosa paz:</l>
+                  <l>devore el fuego sus ranchos,</l>
+                  <l>que en su vientre los caranchos</l>
+                  <l>ceben el pico voraz.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Oyó gritos el caudillo,</l>
+                  <l>y en su fogoso tordillo</l>
+                  <l>salió Brian;</l>
+                  <l>pocos eran y él delante</l>
+                  <l>venía, al bruto arrogante</l>
+                  <l>dio una lanzada Quillán.</l>
+                  <l>Lo cargó al punto la indiada:</l>
+                  <l>con la fulminante espada</l>
+                  <l>se alzó Brian;</l>
+                  <l>grandes sus ojos brillaron,</l>
+                  <l>y las cabezas rodaron</l>
+                  <l>de Quitur y Callupán.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Echando espuma y herido</l>
+                  <l>como toro enfurecido</l>
+                  <l>se encaró,</l>
+                  <l>ceño torvo revolviendo,</l>
+                  <l>y el acero sacudiendo:</l>
+                  <l>nadie acometerlo osó.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Valichu estaba en su brazo;</l>
+                  <l>pero al golpe de un bolazo</l>
+                  <l>cayó Brian</l>
+                  <l>como potro en la llanura:</l>
+                  <l>cebo en su cuerpo y hartura</l>
+                  <l>encontrará el gavilán.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Las armas cobarde entrega</l>
+                  <l>el que vivir quiere esclavo;</l>
+                  <l>pero el indio guapo, no:</l>
+                  <l>Chañil murió como bravo,</l>
+                  <l>batallando en la refriega,</l>
+                  <l>de una lanzada murió.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Salió Brian airado</l>
+                  <l>blandiendo la lanza,</l>
+                  <l>con fiera pujanza</l>
+                  <l>Chañil lo embistió;</l>
+                  <l>del pecho clavado</l>
+                  <l>en el hierro agudo,</l>
+                  <l>con brazo forzudo,</l>
+                  <l>Brian lo levantó.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Funeral sangriento</l>
+                  <l>ya tuvo en el llano;</l>
+                  <l>ni un solo cristiano</l>
+                  <l>con vida escapó.</l>
+                  <l>¡Fatal vencimiento!</l>
+                  <l>Lloremos la muerte</l>
+                  <l>del indio más fuerte</l>
+                  <l>que la pampa crió.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Quiénes su pérdida lloran,</l>
+                  <l>quiénes sus hazañas mentan.</l>
+                  <l>Óyense voces confusas,</l>
+                  <l>medio articuladas quejas,</l>
+                  <l>baladros, cuyo son ronco</l>
+                  <l>en la llanura resuena.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De repente todos callan,</l>
+                  <l>y un sordo mormullo reina,</l>
+                  <l>semejante al de la brisa</l>
+                  <l>cuando rebulle en la selva;</l>
+                  <l>pero, gritando, algún indio</l>
+                  <l>en la boca se palmea,</l>
+                  <l>y el disonante alarido</l>
+                  <l>otra vez el campo atruena.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El indeleble recuerdo</l>
+                  <l>de las pasadas ofensas</l>
+                  <l>se aviva en su ánimo entonces,</l>
+                  <l>y atizando su fiereza</l>
+                  <l>al rencor adormecido</l>
+                  <l>y a la venganza subleva.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>En su mano los cuchillos,</l>
+                  <l>a la luz de las hogueras,</l>
+                  <l>llevando muerte relucen;</l>
+                  <l>se ultrajan, riñen, vocean,</l>
+                  <l>como animales feroces</l>
+                  <l>se despedazan y bregan.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y, asombradas, las cautivas</l>
+                  <l>la carnicería horrenda</l>
+                  <l>miran, y a Dios en silencio</l>
+                  <l>humildes preces elevan.</l>
+                  <l>Sus mujeres entretanto,</l>
+                  <l>cuya vigilancia tierna</l>
+                  <l>en las horas de peligro</l>
+                  <l>siempre cautelosa vela,</l>
+                  <l>acorren luego a calmar</l>
+                  <l>el frenesí que los ciega,</l>
+                  <l>ya con ruegos y palabras</l>
+                  <l>de amor y eficacia llenas,</l>
+                  <l>ya interponiendo su cuerpo</l>
+                  <l>entre las armas sangrientas.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Ellos resisten y luchan,</l>
+                  <l>las desoyen y atropellan,</l>
+                  <l>lanzando injuriosos gritos;</l>
+                  <l>y los cuchillos no sueltan</l>
+                  <l>sino cuando, ya rendida</l>
+                  <l>su natural fortaleza</l>
+                  <l>a la embriaguez y al cansancio,</l>
+                  <l>dobla el cuello y cae por tierra.</l>
+                  <l>Al tumulto y la matanza</l>
+                  <l>sigue el llorar de las hembras</l>
+                  <l>por sus maridos y deudos,</l>
+                  <l>las lastimosas endechas</l>
+                  <l>a la abundancia pasada,</l>
+                  <l>a la presente miseria,</l>
+                  <l>a las víctimas queridas</l>
+                  <l>de aquella noche funesta.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pronto un profundo silencio</l>
+                  <l>hace a los lamentos tregua,</l>
+                  <l>interrumpido por ayes</l>
+                  <l>de moribundos, o quejas,</l>
+                  <l>risas, gruñir sofocado</l>
+                  <l>de la embriagada torpeza;</l>
+                  <l>al espantoso ronquido</l>
+                  <l>de los que durmiendo sueñan,</l>
+                  <l>los gemidos infantiles</l>
+                  <l>del ñacurutú se mezclan;</l>
+                  <l>chillidos, aúllos tristes</l>
+                  <l>del lobo que anda a la presa.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De cadáveres, de troncos,</l>
+                  <l>miembros, sangre y osamentas,</l>
+                  <l>entremezclados con vivos,</l>
+                  <l>cubierto aquel campo queda,</l>
+                  <l>donde poco antes la tribu</l>
+                  <l>llegó alegre y tan soberbia.</l>
+                  <l>La noche en tanto camina</l>
+                  <l>triste, encapotada y negra;</l>
+                  <l>y la desmayada luz</l>
+                  <l>de las festivas hogueras</l>
+                  <l>sólo alumbra los estragos</l>
+                  <l>de aquella bárbara fiesta.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_parte%20tercera.xhtml#calibre_pb_2"/>Parte tercera<ptr type="bookmark-end" target="#id_parte%20tercera.xhtml#calibre_pb_2"/>
+                  <lb/>El puñal</head>
+               <p rend="justify">Yo iba a morir, es verdad,<lb/>entre bárbaros crueles,<lb/>y allí el pesar me mataba<lb/>de morir, mi bien, sin verte.<lb/>A darme la vida tú<lb/>saliste, hermosa, y valiente<lb/>(Calderón)</p>
+               <lg>
+                  <l/>
+                  <l>El puñal</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Yace en el campo tendida,</l>
+                  <l>cual si estuviera sin vida,</l>
+                  <l>ebria, la salvaje turba,</l>
+                  <l>y ningún ruido perturba</l>
+                  <l>su sueño o sopor mortal.</l>
+                  <l>Varones y hembras mezclados</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Paran la oreja bufando</l>
+                  <l>los caballos, que vagando</l>
+                  <l>libres despuntan la grama;</l>
+                  <l>y a la moribunda llama</l>
+                  <l>de las hogueras se ve,</l>
+                  <l>se ve sola y taciturna,</l>
+                  <l>símil a sombra nocturna,</l>
+                  <l>moverse una forma humana,</l>
+                  <l>como quien lucha y se afana,</l>
+                  <l>y oprime algo bajo el pie.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Se oye luego triste aúllo,</l>
+                  <l>y horrisonante mormullo,</l>
+                  <l>semejante al del novillo</l>
+                  <l>cuando el filoso cuchillo</l>
+                  <l>lo degüella sin piedad,</l>
+                  <l>y por la herida resuella,</l>
+                  <l>y aliento y vivir por ella,</l>
+                  <l>sangre hirviendo a borbollones,</l>
+                  <l>en horribles convulsiones,</l>
+                  <l>lanza con velocidad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Silencio; ya el paso leve</l>
+                  <l>por entre la yerba mueve,</l>
+                  <l>como quien busca y no atina,</l>
+                  <l>y temeroso camina</l>
+                  <l>de ser visto o tropezar,</l>
+                  <l>una mujer: en la diestra</l>
+                  <l>un puñal sangriento muestra,</l>
+                  <l>sus largos cabellos flotan</l>
+                  <l>desgreñados, y denotan</l>
+                  <l>de su ánimo el batallar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Ella va. Toda es oídos;</l>
+                  <l>sobre salvajes dormidos</l>
+                  <l>va pasando, escucha, mira,</l>
+                  <l>se para, apenas respira,</l>
+                  <l>y vuelve de nuevo a andar.</l>
+                  <l>Ella marcha, y sus miradas</l>
+                  <l>vagan en torno, azoradas,</l>
+                  <l>cual si creyesen ilusas</l>
+                  <l>en las tinieblas confusas</l>
+                  <l>mil espectros divisar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Ella va, y aun de su sombra,</l>
+                  <l>como el criminal, se asombra;</l>
+                  <l>alza, inclina la cabeza;</l>
+                  <l>pero en un cráneo tropieza</l>
+                  <l>y queda al punto mortal.</l>
+                  <l>Un cuerpo gruñe y resuella,</l>
+                  <l>y se revuelve; mas ella</l>
+                  <l>cobra espíritu y coraje,</l>
+                  <l>y en el pecho del salvaje</l>
+                  <l>clava el agudo puñal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El indio dormido expira,</l>
+                  <l>y ella veloz se retira</l>
+                  <l>de allí, y anda con más tino</l>
+                  <l>arrastrando del destino</l>
+                  <l>la rigorosa crueldad.</l>
+                  <l>Un instinto poderoso,</l>
+                  <l>un afecto generoso</l>
+                  <l>la impele y guía segura,</l>
+                  <l>como luz de estrella pura,</l>
+                  <l>por aquella obscuridad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Su corazón de alegría</l>
+                  <l>palpita; lo que quería,</l>
+                  <l>lo que buscaba con ansia</l>
+                  <l>su amorosa vigilancia,</l>
+                  <l>encontró gozosa al fin.</l>
+                  <l>Allí, allí está su universo,</l>
+                  <l>de su alma el espejo terso,</l>
+                  <l>su amor, esperanza y vida;</l>
+                  <l>allí contempla embebida</l>
+                  <l>su terrestre serafín.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-Brian -dice-, mi Brian querido</l>
+                  <l>busca durmiendo el olvido;</l>
+                  <l>quizás ni soñando espera</l>
+                  <l>que yo entre esta gente fiera</l>
+                  <l>le venga a favorecer.</l>
+                  <l>Lleno de heridas, cautivo,</l>
+                  <l>no abate su ánimo altivo</l>
+                  <l>la desgracia, y satisfecho</l>
+                  <l>descansa, como en su lecho,</l>
+                  <l>sin esperar, ni temer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Sus verdugos, sin embargo,</l>
+                  <l>para hacerle más amargo</l>
+                  <l>de la muerte el pensamiento,</l>
+                  <l>deleitarse en su tormento,</l>
+                  <l>y más su rencor cebar</l>
+                  <l>prolongando su agonía,</l>
+                  <l>la vida suya, que es mía,</l>
+                  <l>guardaron, cuando, triunfantes,</l>
+                  <l>hasta los tiernos infantes</l>
+                  <l>osaron despedazar,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>arrancándolos del seno</l>
+                  <l>de sus madres -¡día lleno</l>
+                  <l>de execración y amargura,</l>
+                  <l>en que murió mi ventura,</l>
+                  <l>tu memoria me da horror!-.</l>
+                  <l>Así dijo, y ya no siente,</l>
+                  <l>ni llora, porque la fuente</l>
+                  <l>del sentimiento fecunda,</l>
+                  <l>que el femenil pecho inunda,</l>
+                  <l>consumió el voraz dolor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y el amor y la venganza</l>
+                  <l>en su corazón alianza</l>
+                  <l>han hecho, y sólo una idea</l>
+                  <l>tiene fija y saborea</l>
+                  <l>su ardiente imaginación.</l>
+                  <l>Absorta el alma, en delirio</l>
+                  <l>lleno de gozo y martirio</l>
+                  <l>queda, hasta que al fin estalla</l>
+                  <l>como volcán, y se explaya</l>
+                  <l>la lava del corazón.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Allí está su amante herido,</l>
+                  <l>mirando al cielo, y ceñido</l>
+                  <l>el cuerpo con duros lazos,</l>
+                  <l>abiertos en cruz los brazos,</l>
+                  <l>ligadas manos y pies.</l>
+                  <l>Cautivo está, pero duerme;</l>
+                  <l>inmoble, sin fuerza, inerme</l>
+                  <l>yace su brazo invencible:</l>
+                  <l>de la pampa el león terrible</l>
+                  <l>presa de los buitres es.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Allí, de la tribu impía,</l>
+                  <l>esperando con el día</l>
+                  <l>horrible muerte, está el hombre</l>
+                  <l>cuya fama, cuyo nombre</l>
+                  <l>era, al bárbaro traidor,</l>
+                  <l>más temible que el zumbido</l>
+                  <l>del hierro o plomo encendido;</l>
+                  <l>más aciago y espantoso</l>
+                  <l>que el valichu rencoroso</l>
+                  <l>a quien ataca su error.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Allí está; silenciosa ella,</l>
+                  <l>como tímida doncella,</l>
+                  <l>besa su entreabierta boca,</l>
+                  <l>cual si dudara le toca</l>
+                  <l>por ver si respira aún.</l>
+                  <l>Entonces las ataduras,</l>
+                  <l>que sus carnes roen duras,</l>
+                  <l>corta, corta velozmente</l>
+                  <l>con su puñal obediente,</l>
+                  <l>teñido en sangre común.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Brian despierta; su alma fuerte,</l>
+                  <l>conforme ya con su suerte,</l>
+                  <l>no se conturba, ni azora;</l>
+                  <l>poco a poco se incorpora,</l>
+                  <l>mira sereno, y cree ver</l>
+                  <l>un asesino: echan fuego</l>
+                  <l>sus ojos de ira; mas luego</l>
+                  <l>se siente libre, y se calma,</l>
+                  <l>y dice: -¿Eres alguna alma</l>
+                  <l>que pueda y deba querer?</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¿Eres espíritu errante,</l>
+                  <l>ángel bueno, o vacilante</l>
+                  <l>parto de mi fantasía?</l>
+                  <l>-Mi vulgar nombre es María,</l>
+                  <l>ángel de tu guarda soy;</l>
+                  <l>y mientras cobra pujanza,</l>
+                  <l>ebria la feroz venganza</l>
+                  <l>de los bárbaros, segura,</l>
+                  <l>en aquesta noche obscura,</l>
+                  <l>velando a tu lado estoy:</l>
+                  <l>nada tema tu congoja.-</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y enajenada se arroja</l>
+                  <l>de su querido en los brazos,</l>
+                  <l>la da mil besos y abrazos,</l>
+                  <l>repitiendo: -Brian, Brian.-</l>
+                  <l>La alma heroica del guerrero</l>
+                  <l>siente el gozo lisonjero</l>
+                  <l>por sus miembros doloridos</l>
+                  <l>correr, y que sus sentidos</l>
+                  <l>libres de ilusión están.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y en labios de su querida</l>
+                  <l>apura aliento de vida,</l>
+                  <l>y la estrecha cariñoso</l>
+                  <l>y en éxtasis amoroso</l>
+                  <l>ambos respiran así;</l>
+                  <l>mas, súbito él la separa,</l>
+                  <l>como si en su alma brotara</l>
+                  <l>horrible idea, y la dice:</l>
+                  <l>-María, soy infelice,</l>
+                  <l>ya no eres digna de mí.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Del salvaje la torpeza</l>
+                  <l>habrá ajado la pureza</l>
+                  <l>de tu honor, y mancillado</l>
+                  <l>tu cuerpo santificado</l>
+                  <l>por mi cariño y tu amor;</l>
+                  <l>ya no me es dado quererte.-</l>
+                  <l>Ella le responde: -Advierte</l>
+                  <l>que en este acero está escrito</l>
+                  <l>mi pureza y mi delito,</l>
+                  <l>mi ternura y mi valor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Mira este puñal sangriento,</l>
+                  <l>y saltará de contento</l>
+                  <l>tu corazón orgulloso;</l>
+                  <l>diómelo amor poderoso,</l>
+                  <l>diómelo para matar</l>
+                  <l>al salvaje que insolente</l>
+                  <l>ultrajar mi honor intente;</l>
+                  <l>para, a un tiempo, de mi padre,</l>
+                  <l>de mi hijo tierno y mi madre,</l>
+                  <l>la injusta muerte vengar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y tu vida, más preciosa</l>
+                  <l>que la luz del sol hermosa,</l>
+                  <l>sacar de las fieras manos</l>
+                  <l>de estos tigres inhumanos,</l>
+                  <l>o contigo perecer.</l>
+                  <l>Loncoy, el cacique altivo</l>
+                  <l>cuya saña al atractivo</l>
+                  <l>se rindió de estos mis ojos,</l>
+                  <l>y quiso entre sus despojos</l>
+                  <l>de Brian la querida ver,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>después de haber mutilado</l>
+                  <l>a su hijo tierno; anegado</l>
+                  <l>en su sangre yace impura;</l>
+                  <l>sueño infernal su alma apura:</l>
+                  <l>dióle muerte este puñal.</l>
+                  <l>Levanta, mi Brian, levanta,</l>
+                  <l>sigue, sigue mi ágil planta;</l>
+                  <l>huyamos de esta guarida</l>
+                  <l>donde la turba se anida</l>
+                  <l>más inhumana y fatal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-¿Pero adónde, adónde iremos?</l>
+                  <l>¿Por fortuna encontraremos</l>
+                  <l>en la pampa algún asilo,</l>
+                  <l>donde nuestro amor tranquilo</l>
+                  <l>logre burlar su furor?</l>
+                  <l>¿Podremos, sin ser sentidos</l>
+                  <l>escapar, y desvalidos</l>
+                  <l>caminar a pie, ijadeando,</l>
+                  <l>con el hambre y sed luchando,</l>
+                  <l>el cansancio y el dolor?</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-Sí; el anchuroso desierto</l>
+                  <l>más de un abrigo encubierto</l>
+                  <l>ofrece, y la densa niebla,</l>
+                  <l>que el cielo y la tierra puebla,</l>
+                  <l>nuestra fuga ocultará.</l>
+                  <l>Brian, cuando aparezca el día,</l>
+                  <l>palpitantes de alegría,</l>
+                  <l>lejos de aquí ya estaremos,</l>
+                  <l>y el alimento hallaremos</l>
+                  <l>que el cielo al infeliz da.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-Tú podrás, querida amiga,</l>
+                  <l>hacer rostro a la fatiga,</l>
+                  <l>mas yo, llagado y herido,</l>
+                  <l>débil, exangüe, abatido,</l>
+                  <l>¿cómo podré resistir?</l>
+                  <l>Huye tú, mujer sublime,</l>
+                  <l>y del oprobio redime</l>
+                  <l>tu vivir predestinado;</l>
+                  <l>deja a Brian infortunado,</l>
+                  <l>solo, en tormentos morir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-No, no, tu vendrás conmigo,</l>
+                  <l>o pereceré contigo.</l>
+                  <l>De la amada patria nuestra</l>
+                  <l>escudo fuerte es tu diestra,</l>
+                  <l>¿y qué vale una mujer?</l>
+                  <l>Huyamos, tú de la muerte,</l>
+                  <l>yo de la oprobiosa suerte</l>
+                  <l>de los esclavos; propicio</l>
+                  <l>el cielo este beneficio</l>
+                  <l>nos ha querido ofrecer;</l>
+                  <l>no insensatos lo perdamos.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Huyamos, mi Brian, huyamos;</l>
+                  <l>que en el áspero camino</l>
+                  <l>mi brazo, y poder divino</l>
+                  <l>te servirán de sostén.</l>
+                  <l>-Tu valor me infunde fuerza,</l>
+                  <l>y de la fortuna adversa,</l>
+                  <l>amor, gloria o agonía</l>
+                  <l>participar con María</l>
+                  <l>yo quiero; huyamos, ven, ven.-</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Dice Brian y se levanta;</l>
+                  <l>el dolor traba su planta,</l>
+                  <l>mas devora el sufrimiento;</l>
+                  <l>y ambos caminan a tiento</l>
+                  <l>por aquella obscuridad.</l>
+                  <l>Tristes van, de cuando en cuando</l>
+                  <l>la vista al cielo llevando,</l>
+                  <l>que da esperanza al que gime,</l>
+                  <l>¿qué busca su alma sublime?</l>
+                  <l>la muerte o la libertad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-Y en esta noche sombría</l>
+                  <l>¿quién nos servirá de guía?</l>
+                  <l>-Brian, ¿no ves allá una estrella</l>
+                  <l>que entre dos nubes centella</l>
+                  <l>cual benigno astro de amor?</l>
+                  <l>Pues ésa es por Dios enviada,</l>
+                  <l>como la nube encarnada</l>
+                  <l>que vio Israel prodigiosa;</l>
+                  <l>sigamos la senda hermosa</l>
+                  <l>que nos muestra su fulgor,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>ella del triste desierto</l>
+                  <l>nos llevará a feliz puerto.-</l>
+                  <l>Ellos van; solas, perdidas,</l>
+                  <l>como dos almas queridas,</l>
+                  <l>que amor en la tierra unió,</l>
+                  <l>y en la misma forma de antes,</l>
+                  <l>andan por la noche errantes,</l>
+                  <l>con la memoria hechicera</l>
+                  <l>del bien que en su primavera</l>
+                  <l>la desdicha les robó.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Ellos van. Vasto, profundo</l>
+                  <l>como el páramo del mundo</l>
+                  <l>misterioso es el que pisan;</l>
+                  <l>mil fantasmas se divisan,</l>
+                  <l>mil formas vanas allí,</l>
+                  <l>que la sangre joven hielan:</l>
+                  <l>mas ellos vivir anhelan.</l>
+                  <l>Brian desmaya caminando</l>
+                  <l>y, al cielo otra vez mirando,</l>
+                  <l>dice a su querida así:</l>
+                  <l>-Mira: ¿no ves? la luz bella</l>
+                  <l>de nuestra polar estrella</l>
+                  <l>de nuevo se ha obscurecido,</l>
+                  <l>y el cielo más denegrido</l>
+                  <l>nos anuncia algo fatal.</l>
+                  <l>-Cuando contrario el destino</l>
+                  <l>nos cierre, Brian, el camino,</l>
+                  <l>antes de volver a manos</l>
+                  <l>de esos indios inhumanos.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Parte%20cuarta.xhtml#calibre_pb_3"/>Parte cuarta<ptr type="bookmark-end" target="#id_Parte%20cuarta.xhtml#calibre_pb_3"/>
+                  <lb/>La alborada</head>
+               <p rend="justify">Già la terra e coperta d´uccisi;<lb/>tutta è sangue la vasta pianura;...<lb/>(Manzoni.)</p>
+               <lg>
+                  <l>"Ya de muertos la tierra está cubierta,</l>
+                  <l>y la vasta llanura toda es sangre."</l>
+               </lg>
+               <lg>
+                  <l>La alborada</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Todo estaba silencioso.</l>
+                  <l>La brisa de la mañana</l>
+                  <l>recién la yerba lozana</l>
+                  <l>acariciaba, y la flor;</l>
+                  <l>y en el oriente nubloso,</l>
+                  <l>la luz apenas rayando</l>
+                  <l>iba el campo matizando</l>
+                  <l>de claroscuro verdor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Posaba el ave en su nido;</l>
+                  <l>ni del pájaro se oía</l>
+                  <l>la variada melodía,</l>
+                  <l>música que al alba da;</l>
+                  <l>y sólo, al ronco bufido</l>
+                  <l>de algún potro que se azora,</l>
+                  <l>mezclaba su voz sonora</l>
+                  <l>el agorero yajá.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>En el campo de la holganza,</l>
+                  <l>so la techumbre del cielo,</l>
+                  <l>libre, ajena de recelo,</l>
+                  <l>dormía la tribu infiel;</l>
+                  <l>mas la terrible venganza</l>
+                  <l>de su constante enemigo</l>
+                  <l>alerta estaba, y castigo</l>
+                  <l>le preparaba cruel.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Súbito, al trote asomaron</l>
+                  <l>sobre la extendida loma</l>
+                  <l>dos jinetes, como asoma</l>
+                  <l>el astuto cazador;</l>
+                  <l>y al pie de ella divisaron</l>
+                  <l>la chusma quieta y dormida,</l>
+                  <l>y volviendo atrás la brida</l>
+                  <l>fueron a dar el clamor</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>de alarma al campo cristiano.</l>
+                  <l>Pronto en brutos altaneros</l>
+                  <l>un escuadrón de lanceros</l>
+                  <l>trotando allí se acercó,</l>
+                  <l>con acero y lanza en mano;</l>
+                  <l>y en hileras dividido</l>
+                  <l>al indio, no apercibido,</l>
+                  <l>en doble muro encerró.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Entonces, el grito "Cristiano, cristiano"</l>
+                  <l>resuena en el llano,</l>
+                  <l>"Cristiano" repite confuso clamor.</l>
+                  <l>La turba que duerme despierta turbada,</l>
+                  <l>clamando azorada,</l>
+                  <l>"Cristiano nos cerca, cristiano traidor".</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Niños y mujeres, llenos de conflicto,</l>
+                  <l>levantan el grito;</l>
+                  <l>sus almas conturba la tribulación;</l>
+                  <l>los unos pasmados, al peligro horrendo,</l>
+                  <l>los otros huyendo,</l>
+                  <l>corren, gritan, llevan miedo y confusión.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Quién salta al caballo que encontró primero,</l>
+                  <l>quién toma el acero,</l>
+                  <l>quién corre su potro querido a buscar;</l>
+                  <l>mas ya la llanura cruzan desbandadas,</l>
+                  <l>yeguas y manadas,</l>
+                  <l>que el cauto enemigo las hizo espantar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>En trance tan duro los carga el cristiano,</l>
+                  <l>blandiendo en su mano</l>
+                  <l>la terrible lanza, que no da cuartel.</l>
+                  <l>Los indios más bravos luchando resisten,</l>
+                  <l>cual fieras embisten:</l>
+                  <l>el brazo sacude la matanza cruel.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El sol aparece; las armas agudas</l>
+                  <l>relucen desnudas,</l>
+                  <l>horrible la muerte se muestra doquier.</l>
+                  <l>En lomos del bruto, la fuerza y coraje,</l>
+                  <l>crece del salvaje,</l>
+                  <l>sin su apoyo, inerme, se deja vencer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pie en tierra poniendo la fácil victoria,</l>
+                  <l>que no le da gloria,</l>
+                  <l>prosigue el cristiano lleno de rencor.</l>
+                  <l>Caen luego caciques, soberbios caudillos:</l>
+                  <l>los fieros cuchillos</l>
+                  <l>degüellan, degüellan, sin sentir horror.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Los ayes, los gritos, clamor del que llora,</l>
+                  <l>gemir del que implora,</l>
+                  <l>puesto de rodillas, en vano piedad,</l>
+                  <l>todo se confunde: del plomo el silbido,</l>
+                  <l>del hierro el crujido,</l>
+                  <l>que ciego no acata ni sexo, ni edad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Horrible, horrible matanza</l>
+                  <l>hizo el cristiano aquel día;</l>
+                  <l>ni hembra, ni varón, ni cría</l>
+                  <l>de aquella tribu quedó.</l>
+                  <l>La inexorable venganza</l>
+                  <l>siguió el paso a la perfidia,</l>
+                  <l>y en no cara y breve lidia</l>
+                  <l>su cerviz al hierro dio.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Viose la yerba teñida</l>
+                  <l>de sangre, hediondo y sembrado</l>
+                  <l>de cadáveres el prado</l>
+                  <l>donde resonó el festín.</l>
+                  <l>Y del sueño de la vida</l>
+                  <l>al de la muerte pasaron</l>
+                  <l>los que poco antes se holgaron,</l>
+                  <l>sin temer aciago fin.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Las cautivas derramaban</l>
+                  <l>lágrimas de regocijo;</l>
+                  <l>una al esposo, otra al hijo</l>
+                  <l>debió allí la libertad;</l>
+                  <l>pero ellos tristes estaban,</l>
+                  <l>porque ni vivo ni muerto</l>
+                  <l>halló a Brian en el desierto,</l>
+                  <l>su valor y su lealtad.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Parte%20quinta.xhtml#calibre_pb_4"/>Parte quinta<ptr type="bookmark-end" target="#id_Parte%20quinta.xhtml#calibre_pb_4"/>
+                  <lb/>El pajonal</head>
+               <p rend="justify">...e lo spirito lasso<lb/>conforta, e ciba di speranza buona;<lb/>(Dante.)</p>
+               <lg>
+                  <l>"...y el ánimo cansado,</l>
+                  <l>de esperanza feliz nutre y conforta;"</l>
+               </lg>
+               <lg>
+                  <l>El pajonal</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Así, huyendo a la ventura,</l>
+                  <l>ambos a pie divagaron</l>
+                  <l>por la lóbrega llanura,</l>
+                  <l>y al salir la luz del día,</l>
+                  <l>a corto trecho se hallaron</l>
+                  <l>de un inmenso pajonal.</l>
+                  <l>Brian debilitado, herido,</l>
+                  <l>a la fatiga rendido</l>
+                  <l>la planta apenas movía;</l>
+                  <l>su angustia era sin igual.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero un ángel, su querida,</l>
+                  <l>siempre a su lado velaba,</l>
+                  <l>y el espíritu y la vida,</l>
+                  <l>que su alma heroica anidaba,</l>
+                  <l>la infundía, al parecer,</l>
+                  <l>con miradas cariñosas,</l>
+                  <l>voces del alma profundas,</l>
+                  <l>que debieran ser eternas,</l>
+                  <l>y aquellas palabras tiernas,</l>
+                  <l>o armonías misteriosas</l>
+                  <l>que sólo manan fecundas</l>
+                  <l>del labio de la mujer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Temerosos del salvaje,</l>
+                  <l>acogiéronse al abrigo</l>
+                  <l>de aquel pajonal amigo,</l>
+                  <l>para de nuevo su viaje</l>
+                  <l>por la noche continuar;</l>
+                  <l>descansar allí un momento,</l>
+                  <l>y refrigerio y sustento</l>
+                  <l>a la flaqueza buscar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Era el adusto verano.</l>
+                  <l>Ardiente el sol como fragua,</l>
+                  <l>en cenagoso pantano</l>
+                  <l>convertido había el agua</l>
+                  <l>allí estancada, y los peces,</l>
+                  <l>los animales inmundos</l>
+                  <l>que aquel bañado habitaban</l>
+                  <l>muertos, al aire infectaban,</l>
+                  <l>o entre las impuras heces</l>
+                  <l>aparecían a veces</l>
+                  <l>boqueando moribundos,</l>
+                  <l>como del cielo implorando</l>
+                  <l>agua y aire: aquí se vía</l>
+                  <l>al voraz cuervo, tragando</l>
+                  <l>lo más asqueroso y vil;</l>
+                  <l>allí la blanca cigüeña,</l>
+                  <l>el pescuezo corvo alzando,</l>
+                  <l>en su largo pico enseña</l>
+                  <l>el tronco de algún reptil;</l>
+                  <l>más allá se ve el carancho,</l>
+                  <l>que jamás presa desdeña,</l>
+                  <l>con pico en forma de gancho</l>
+                  <l>de la expirante alimaña</l>
+                  <l>sajar la fétida entraña.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y en aquel páramo yerto,</l>
+                  <l>donde a buscar como a puerto</l>
+                  <l>refrigerio, van errantes</l>
+                  <l>Brian y María anhelantes,</l>
+                  <l>sólo divisan sus ojos,</l>
+                  <l>feos, inmundos despojos</l>
+                  <l>de la muerte. ¡Qué destino</l>
+                  <l>como el suyo miserable!</l>
+                  <l>Si en aquel instante vino</l>
+                  <l>la memoria perdurable</l>
+                  <l>de la pasada ventura</l>
+                  <l>a turbar su fantasía</l>
+                  <l>¡cuán amarga les sería!</l>
+                  <l>¡cuán triste, yerma y obscura!</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero con pecho animoso</l>
+                  <l>en el lodo pegajoso</l>
+                  <l>penetraron, ya cayendo,</l>
+                  <l>ya levantando o subiendo</l>
+                  <l>el pie flaco y dolorido;</l>
+                  <l>y sobre un flotante nido</l>
+                  <l>de yajá ¡columna bella,</l>
+                  <l>que entre la paja descuella,</l>
+                  <l>como edificio construido</l>
+                  <l>por mano hábil¿ se sentaron</l>
+                  <l>a descansar o morir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Súbito allí desmayaron</l>
+                  <l>los espíritus vitales</l>
+                  <l>de Brian a tanto sufrir;</l>
+                  <l>y en los brazos de María,</l>
+                  <l>que inmoble permanecía,</l>
+                  <l>cayó muerto al parecer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Cómo palabras mortales</l>
+                  <l>pintar al vivo podrán</l>
+                  <l>el desaliento y angustias,</l>
+                  <l>o las imágenes mustias</l>
+                  <l>que el alma atravesarán</l>
+                  <l>de aquella infeliz mujer!</l>
+                  <l>Flor hermosa y delicada,</l>
+                  <l>perseguida y conculcada</l>
+                  <l>por cuantos males tiranos</l>
+                  <l>dio en herencia a los humanos</l>
+                  <l>inexorable poder.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero a cada golpe injusto</l>
+                  <l>retoñece más robusto</l>
+                  <l>de su noble alma el valor;</l>
+                  <l>y otra vez, con paso fuerte,</l>
+                  <l>holla el fango, do la muerte</l>
+                  <l>disputa un resto de vida</l>
+                  <l>a indefensos animales;</l>
+                  <l>y rompiendo enfurecida</l>
+                  <l>los espesos matorrales,</l>
+                  <l>camina a un sordo rumor</l>
+                  <l>que oye próximo, y mirando</l>
+                  <l>el hondo cauce anchuroso</l>
+                  <l>de un arroyo que copioso</l>
+                  <l>entre la paja corría,</l>
+                  <l>se volvió atrás, exclamando</l>
+                  <l>arrobada de alegría:</l>
+                  <l>-¡Gracias te doy, Dios Supremo!</l>
+                  <l>Brian se salva, nada temo.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pronto llega al alto nido</l>
+                  <l>donde yace su querido,</l>
+                  <l>sobre sus hombros le carga,</l>
+                  <l>y con vigor desmedido</l>
+                  <l>lleva, lleva, a paso lento,</l>
+                  <l>al puerto de salvamento</l>
+                  <l>aquella preciosa carga.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Allí en la orilla verdosa</l>
+                  <l>el inmoble cuerpo posa,</l>
+                  <l>y los labios, frente y cara</l>
+                  <l>en el agua fresca y clara</l>
+                  <l>le embebe; su aliento aspira,</l>
+                  <l>por ver si vivo respira,</l>
+                  <l>trémula su pecho toca;</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>y otra vez sienes y boca</l>
+                  <l>le empapa. En sus ojos vivos</l>
+                  <l>y en su semblante animado,</l>
+                  <l>los matices fugitivos</l>
+                  <l>de la apasionada guerra</l>
+                  <l>que su corazón encierra,</l>
+                  <l>se muestran. Brian recobrado</l>
+                  <l>se mueve, incorpora, alienta;</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>y débil mirada lenta</l>
+                  <l>clava en la hermosa María,</l>
+                  <l>diciéndola: -Amada mía,</l>
+                  <l>pensé no volver a verte,</l>
+                  <l>y que este sueño sería</l>
+                  <l>como el sueño de la muerte;</l>
+                  <l>pero tú, siempre velando,</l>
+                  <l>mi vivir sustentas, cuando</l>
+                  <l>yo en nada puedo valerte,</l>
+                  <l>sino doblar la amargura</l>
+                  <l>de tu extraña desventura.</l>
+                  <l>-Que vivas tan sólo quiero,</l>
+                  <l>porque si mueres, yo muero;</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Brian mío, alienta, triunfamos,</l>
+                  <l>en salvo y libres estamos.</l>
+                  <l>No te aflijas; bebe, bebe</l>
+                  <l>esta agua, cuyo frescor</l>
+                  <l>el extenuado vigor</l>
+                  <l>volverá a tu cuerpo en breve,</l>
+                  <l>y esperemos con valor</l>
+                  <l>de Dios el fin que imploramos.-</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Dijo así, y en la corriente</l>
+                  <l>recoge agua, y diligente,</l>
+                  <l>de sus miembros con esmero,</l>
+                  <l>se aplica a lavar primero</l>
+                  <l>las dolorosas heridas,</l>
+                  <l>las hondas llagas henchidas</l>
+                  <l>de negra sangre cuajada,</l>
+                  <l>y a sus inflamados pies</l>
+                  <l>el lodo impuro; y después</l>
+                  <l>con su mano delicada</l>
+                  <l>las venda. Brian silencioso</l>
+                  <l>sufre el dolor con firmeza;</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>pero siente a la flaqueza</l>
+                  <l>rendido el pecho animoso.</l>
+                  <l>Ella entonces alimento</l>
+                  <l>corre a buscar; y un momento,</l>
+                  <l>sin duda el cielo piadoso,</l>
+                  <l>de aquellos finos amantes,</l>
+                  <l>infortunados y errantes,</l>
+                  <l>quiso aliviar el tormento.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_parte%20sexta.xhtml#calibre_pb_5"/>Parte sexta<ptr type="bookmark-end" target="#id_parte%20sexta.xhtml#calibre_pb_5"/>
+                  <lb/>La espera</head>
+               <p rend="justify">¡Qué largas son las horas del deseo! Moreto</p>
+               <lg>
+                  <l>La espera</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Triste, obscura, encapotada</l>
+                  <l>llegó la noche esperada,</l>
+                  <l>la noche que ser debiera</l>
+                  <l>su grata y fiel compañera;</l>
+                  <l>y en el vasto pajonal</l>
+                  <l>permanecen inactivos</l>
+                  <l>los amantes fugitivos.</l>
+                  <l>Su astro, al parecer, declina,</l>
+                  <l>como la luz vespertina</l>
+                  <l>entre sombra funeral.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Brian, por el dolor vencido</l>
+                  <l>al margen yace tendido</l>
+                  <l>del arroyo; probó en vano</l>
+                  <l>el paso firme y lozano</l>
+                  <l>de su querida seguir;</l>
+                  <l>sus plantas desfallecieron,</l>
+                  <l>y sus heridas vertieron</l>
+                  <l>sangre otra vez. Sintió entonces</l>
+                  <l>como una mano de bronce</l>
+                  <l>por sus miembros discurrir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>María espera, a su lado,</l>
+                  <l>con corazón agitado,</l>
+                  <l>que amanecerá otra aurora</l>
+                  <l>más bella y consoladora;</l>
+                  <l>el amor la inspira fe</l>
+                  <l>en destino más propicio,</l>
+                  <l>y la oculta el precipicio</l>
+                  <l>cuya idea sólo pasma:</l>
+                  <l>el descarnado fantasma</l>
+                  <l>de la realidad no ve.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pasión vivaz la domina,</l>
+                  <l>ciega pasión la fascina;</l>
+                  <l>mostrando a su alma el trofeo</l>
+                  <l>de su impetuoso deseo</l>
+                  <l>la dice: tú triunfarás.</l>
+                  <l>Ella infunde a su flaqueza</l>
+                  <l>constancia allí y fortaleza;</l>
+                  <l>Ella su hambre, su fatiga,</l>
+                  <l>y sus angustias mitiga</l>
+                  <l>para devorarla más.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Sin el amor que en sí entraña,</l>
+                  <l>¿qué sería? Frágil caña,</l>
+                  <l>que el más leve impulso quiebra,</l>
+                  <l>ser delicado, fina hebra,</l>
+                  <l>sensible y flaca mujer.</l>
+                  <l>Con él es ente divino</l>
+                  <l>que pone a raya el destino,</l>
+                  <l>ángel poderoso y tierno</l>
+                  <l>a quien no haría el infierno</l>
+                  <l>vacilar y estremecer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De su querido no advierte</l>
+                  <l>el mortal abatimiento,</l>
+                  <l>ni cree se atreva la muerte</l>
+                  <l>a sofocar el aliento</l>
+                  <l>que hace vivir a los dos;</l>
+                  <l>porque de su llama intensa</l>
+                  <l>es la vida tan inmensa,</l>
+                  <l>que a la muerte vencería,</l>
+                  <l>y en sí eficacia tendría</l>
+                  <l>para animar como Dios.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El amor es fe inspirada,</l>
+                  <l>es religión arraigada</l>
+                  <l>en lo íntimo de la vida.</l>
+                  <l>Fuente inagotable, henchida</l>
+                  <l>de esperanza, su anhelar</l>
+                  <l>no halla obstáculo invencible</l>
+                  <l>hasta conseguir victoria;</l>
+                  <l>si se estrella en lo imposible</l>
+                  <l>gozoso vuela a la gloria</l>
+                  <l>su heroica palma a buscar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>María no desespera,</l>
+                  <l>porque su ahínco procura</l>
+                  <l>para lo que ama, ventura;</l>
+                  <l>y al infortunio supera</l>
+                  <l>su imperiosa voluntad.</l>
+                  <l>Mañana -el grito constante</l>
+                  <l>de su corazón amante</l>
+                  <l>la dice-, mañana el cielo</l>
+                  <l>hará cesar tu desvelo,</l>
+                  <l>la nueva luz esperad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>La noche cubierta, en tanto,</l>
+                  <l>camina en densa tiniebla,</l>
+                  <l>y en el abismo de espanto,</l>
+                  <l>que aquellos páramos puebla,</l>
+                  <l>ambos perdidos se ven.</l>
+                  <l>Parda, rojiza, radiosa,</l>
+                  <l>una faja luminosa</l>
+                  <l>forma horizonte no lejos;</l>
+                  <l>sus amarillos reflejos</l>
+                  <l>en lo obscuro hacen vaivén.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>La llanura arder parece,</l>
+                  <l>y que con el viento crece,</l>
+                  <l>se encrespa, aviva y derrama</l>
+                  <l>el resplandor y la llama</l>
+                  <l>en el mar de lobreguez.</l>
+                  <l>Aquel fuego colorado,</l>
+                  <l>en tinieblas engolfado,</l>
+                  <l>cuyo esplendor vaga horrendo,</l>
+                  <l>era trasunto estupendo</l>
+                  <l>de la inferna terriblez.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Brian, recostado en la yerba,</l>
+                  <l>como ajeno de sentido,</l>
+                  <l>nada ve: ella un ruido</l>
+                  <l>oye; pero sólo observa</l>
+                  <l>la negra desolación,</l>
+                  <l>o las sombrías visiones</l>
+                  <l>que engendran las turbaciones</l>
+                  <l>de su espíritu. ¡Cuán larga</l>
+                  <l>aquella noche y amarga</l>
+                  <l>sería a su corazón!</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Miró a su amante; espantoso,</l>
+                  <l>un bramido cavernoso</l>
+                  <l>la hizo temblar, resonando:</l>
+                  <l>era el tigre, que buscando</l>
+                  <l>pasto a su saña feroz</l>
+                  <l>en los densos matorrales,</l>
+                  <l>nuevos presagios fatales</l>
+                  <l>al infortunio traía.</l>
+                  <l>En silencio, echó María</l>
+                  <l>mano a su puñal, veloz.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Parte%20septima.xhtml#calibre_pb_6"/>Parte séptima<ptr type="bookmark-end" target="#id_Parte%20septima.xhtml#calibre_pb_6"/>
+                  <lb/>La quemazón</head>
+               <p rend="justify">Voyez... Déjà la flamme en torrent se déploie.<lb/>Lamartine<lb/>"Mirad: ya en torrente se extiende la llama."  </p>
+               <lg>
+                  <l/>
+                  <l>La quemazón</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El aire estaba inflamado,</l>
+                  <l>turbia la región suprema,</l>
+                  <l>envuelto el campo en vapor;</l>
+                  <l>rojo el sol, y coronado</l>
+                  <l>de parda obscura diadema,</l>
+                  <l>amarillo resplandor</l>
+                  <l>en la atmósfera esparcía;</l>
+                  <l>el bruto, el pájaro huía,</l>
+                  <l>y agua la tierra pedía</l>
+                  <l>sedienta y llena de ardor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Soplando a veces el viento</l>
+                  <l>limpiaba los horizontes,</l>
+                  <l>y de la tierra brotar</l>
+                  <l>de humo rojo y ceniciento</l>
+                  <l>se veían como montes;</l>
+                  <l>y en la llanura ondear,</l>
+                  <l>formando espiras doradas,</l>
+                  <l>como lenguas inflamadas,</l>
+                  <l>o melenas encrespadas</l>
+                  <l>de ardiente, agitado mar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Cruzándose nubes densas,</l>
+                  <l>por la esfera dilataban</l>
+                  <l>como cuando hay tempestad,</l>
+                  <l>sus negras alas inmensas;</l>
+                  <l>y más, y más aumentaban</l>
+                  <l>el pavor y obscuridad.</l>
+                  <l>El cielo entenebrecido,</l>
+                  <l>el aire, el humo encendido,</l>
+                  <l>eran, con el sordo ruido,</l>
+                  <l>signo de calamidad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El pueblo de lejos</l>
+                  <l>contempla asombrado</l>
+                  <l>los turbios reflejos;</l>
+                  <l>del día enlutado</l>
+                  <l>la ceñuda faz.</l>
+                  <l>El humilde llora,</l>
+                  <l>el piadoso implora;</l>
+                  <l>se turba y azora</l>
+                  <l>la malicia audaz.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Quién cree ser indicio</l>
+                  <l>fatal, estupendo,</l>
+                  <l>del día del juicio,</l>
+                  <l>del día tremendo</l>
+                  <l>que anunciado está.</l>
+                  <l>Quién piensa que al mundo,</l>
+                  <l>sumido en lo inmundo,</l>
+                  <l>el cielo iracundo</l>
+                  <l>pone a prueba ya.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Era la plaga que cría</l>
+                  <l>la devorante sequía</l>
+                  <l>para estrago y confusión:</l>
+                  <l>de la chispa de una hoguera,</l>
+                  <l>que llevó el viento ligera,</l>
+                  <l>nació grande, cundió fiera</l>
+                  <l>la terrible quemazón.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Ardiendo, sus ojos</l>
+                  <l>relucen, chispean;</l>
+                  <l>en rubios manojos</l>
+                  <l>sus crines ondean,</l>
+                  <l>flameando también:</l>
+                  <l>la tierra gimiendo,</l>
+                  <l>los brutos rugiendo,</l>
+                  <l>los hombres huyendo,</l>
+                  <l>confusos la ven.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Sutil se difunde,</l>
+                  <l>camina, se mueve,</l>
+                  <l>penetra, se infunde;</l>
+                  <l>cuanto toca, en breve</l>
+                  <l>reduce a tizón.</l>
+                  <l>Ella era; y pastales,</l>
+                  <l>densos pajonales,</l>
+                  <l>cardos y animales,</l>
+                  <l>ceniza, humo son.</l>
+                  <l>Raudal vomitando</l>
+                  <l>venía de llama,</l>
+                  <l>que hirviendo, silbando,</l>
+                  <l>se enrosca y derrama</l>
+                  <l>con velocidad.</l>
+                  <l>Sentada María</l>
+                  <l>con su Brian la vía:</l>
+                  <l>-¡Dios mío! -decía-,</l>
+                  <l>de nos ten piedad.-</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Piedad María imploraba,</l>
+                  <l>y piedad necesitaba</l>
+                  <l>de potencia celestial.</l>
+                  <l>Brian caminar no podía,</l>
+                  <l>y la quemazón cundía</l>
+                  <l>por el vasto pajonal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Allí pábulo encontrando,</l>
+                  <l>como culebra serpeando,</l>
+                  <l>velozmente caminó;</l>
+                  <l>y agitando, desbocada,</l>
+                  <l>su crin de fuego erizada,</l>
+                  <l>gigante cuerpo tomó.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Lodo, paja, restos viles</l>
+                  <l>de animales y reptiles</l>
+                  <l>quema el fuego vencedor,</l>
+                  <l>que el viento iracundo atiza;</l>
+                  <l>vuelan el humo y ceniza,</l>
+                  <l>y el inflamado vapor,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>al lugar donde, pasmados,</l>
+                  <l>los cautivos desdichados,</l>
+                  <l>con despavoridos ojos,</l>
+                  <l>están, su hervidero oyendo,</l>
+                  <l>y las llamaradas viendo</l>
+                  <l>subir en penachos rojos.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>No hay cómo huir, no hay efugio,</l>
+                  <l>esperanza ni refugio;</l>
+                  <l>¿dónde auxilio encontrarán?</l>
+                  <l>Postrado Brian yace inmoble</l>
+                  <l>como el orgulloso roble</l>
+                  <l>que derribó el huracán.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Para ellos no existe el mundo.</l>
+                  <l>Detrás, arroyo profundo</l>
+                  <l>ancho se extiende, y delante,</l>
+                  <l>formidable y horroroso,</l>
+                  <l>alza la cresta furioso</l>
+                  <l>mar de fuego devorante.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-Huye presto -Brian decía</l>
+                  <l>con voz débil a María-,</l>
+                  <l>déjame solo morir;</l>
+                  <l>este lugar es un horno:</l>
+                  <l>huye, ¿no miras en torno</l>
+                  <l>vapor cárdeno subir?-</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Ella calla, o le responde:</l>
+                  <l>-Dios, largo tiempo, no esconde</l>
+                  <l>su divina protección.</l>
+                  <l>¿Crees tú nos haya olvidado?</l>
+                  <l>Salvar tu vida ha jurado</l>
+                  <l>o morir mi corazón.-</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero del cielo era juicio</l>
+                  <l>que en tan horrendo suplicio</l>
+                  <l>no debían perecer;</l>
+                  <l>y que otra vez de la muerte</l>
+                  <l>inexorable, amor fuerte</l>
+                  <l>triunfase, amor de mujer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Súbito ella se incorpora;</l>
+                  <l>de la pasión que atesora</l>
+                  <l>el espíritu inmortal</l>
+                  <l>brota, en su faz la belleza</l>
+                  <l>estampando y fortaleza</l>
+                  <l>de criatura celestial,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>no sujeta a ley humana;</l>
+                  <l>y como cosa liviana</l>
+                  <l>carga el cuerpo amortecido</l>
+                  <l>de su amante, y con él junto,</l>
+                  <l>sin cejar, se arroja al punto</l>
+                  <l>en el arroyo extendido.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Cruje el agua, y suavemente</l>
+                  <l>surca la mansa corriente</l>
+                  <l>con el tesoro de amor;</l>
+                  <l>semejante a Ondina bella,</l>
+                  <l>su cuerpo airoso descuella,</l>
+                  <l>y hace, nadando, rumor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Los cabellos atezados,</l>
+                  <l>sobre sus hombros nevados,</l>
+                  <l>sueltos, reluciendo van;</l>
+                  <l>boga con un brazo lenta,</l>
+                  <l>y con el otro sustenta,</l>
+                  <l>a flor, el cuerpo de Brian.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Aran la corriente unidos</l>
+                  <l>como dos cisnes queridos,</l>
+                  <l>que huyen de águila crüel,</l>
+                  <l>cuya garra, siempre lista,</l>
+                  <l>desde la nube se alista</l>
+                  <l>a separar su amor fiel.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>La suerte injusta se afana</l>
+                  <l>en perseguirlos. Ufana</l>
+                  <l>en la orilla opuesta el pie</l>
+                  <l>pone María triunfante,</l>
+                  <l>y otra vez libre a su amante</l>
+                  <l>de horrenda agonía ve.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Oh del amor maravilla!</l>
+                  <l>En sus bellos ojos brota</l>
+                  <l>del corazón, gota a gota,</l>
+                  <l>el tesoro sin mancilla,</l>
+                  <l>celeste, inefable unción;</l>
+                  <l>sale en lágrimas deshecho</l>
+                  <l>su heroico amor satisfecho.</l>
+                  <l>Y su formidable cresta</l>
+                  <l>sacude, enrosca y enhiesta</l>
+                  <l>la terrible quemazón.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Calmó después el violento</l>
+                  <l>soplar del airado viento:</l>
+                  <l>el fuego a paso más lento</l>
+                  <l>surcó por el pajonal,</l>
+                  <l>sin topar ningún escollo;</l>
+                  <l>y a la orilla de un arroyo</l>
+                  <l>a morir al cabo vino,</l>
+                  <l>dejando, en su ancho camino,</l>
+                  <l>negra y profunda señal.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Parte%20octava.xhtml#calibre_pb_7"/>Parte octava<ptr type="bookmark-end" target="#id_Parte%20octava.xhtml#calibre_pb_7"/>
+                  <lb/>Brian</head>
+               <p rend="justify">Les guerriers et les coursiers eux mêmes<lb/>sont là pour attester les victoires de mon bras.<lb/>Je dois ma renomée à mon glaive...<lb/>(Antar)</p>
+               <lg>
+                  <l>"Los guerreros y aun los bridones de la batalla</l>
+                  <l>existen para atestiguar las victorias de mi brazo.</l>
+                  <l>Debo mi renombre a mi espada."</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Brian</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pasó aquél, llegó otro día</l>
+                  <l>triste, ardiente, y todavía</l>
+                  <l>desamparados como antes,</l>
+                  <l>a los míseros amantes</l>
+                  <l>encontró en el pajonal.</l>
+                  <l>Brian, sobre pajizo lecho</l>
+                  <l>inmoble está, y en su pecho</l>
+                  <l>arde fuego inextinguible;</l>
+                  <l>brota en su rostro, visible</l>
+                  <l>abatimiento mortal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Abrumados y rendidos</l>
+                  <l>sus ojos, como adormidos,</l>
+                  <l>la luz esquivan, o absortos,</l>
+                  <l>en los pálidos abortos</l>
+                  <l>de la conciencia ¡legión</l>
+                  <l>que atribula al moribundo!</l>
+                  <l>verán formas de otro mundo,</l>
+                  <l>imágenes fugitivas,</l>
+                  <l>o las claridades vivas</l>
+                  <l>de fantástica región.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Triste a su lado María</l>
+                  <l>revuelve en la fantasía</l>
+                  <l>mil contrarios pensamientos,</l>
+                  <l>y horribles presentimientos</l>
+                  <l>la vienen allí a asaltar;</l>
+                  <l>espectros que engendra el alma,</l>
+                  <l>cuando el ciego desvarío</l>
+                  <l>de las pasiones se calma,</l>
+                  <l>y perdida en el vacío</l>
+                  <l>se recoge a meditar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Allí, frágil navecilla</l>
+                  <l>en mar sin fondo ni orilla,</l>
+                  <l>do nunca ríe bonanza,</l>
+                  <l>se encuentra sin esperanza</l>
+                  <l>de poder al fin surgir.</l>
+                  <l>Allí ve su afán perdido</l>
+                  <l>por salvar a su querido;</l>
+                  <l>y cuán lejano y nubloso</l>
+                  <l>el horizonte radioso</l>
+                  <l>está de su porvenir,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>cuán largo, incierto camino</l>
+                  <l>la desdicha le previno,</l>
+                  <l>cuán triste peregrinaje;</l>
+                  <l>allí ve de aquel paraje</l>
+                  <l>la yerta inmovilidad.</l>
+                  <l>Allí ya del desaliento</l>
+                  <l>sufre el pausado tormento,</l>
+                  <l>y abrumada de tristeza,</l>
+                  <l>al cabo a sentir empieza</l>
+                  <l>su abandono y soledad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Echa la vista delante,</l>
+                  <l>y al aspecto de su amante</l>
+                  <l>desfallece su heroísmo;</l>
+                  <l>la vuelve, y hórrido abismo</l>
+                  <l>mira atónita detrás.</l>
+                  <l>Allí apura la agonía</l>
+                  <l>del que vio cuando dormía</l>
+                  <l>paraíso de dicha eterno,</l>
+                  <l>y al despertar, un infierno</l>
+                  <l>que no imaginó jamás.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>En el empíreo nublado</l>
+                  <l>flamea el sol colorado,</l>
+                  <l>y en la llanura domina</l>
+                  <l>la vaporosa calina,</l>
+                  <l>el bochorno abrasador.</l>
+                  <l>Brian sigue inmoble; y María,</l>
+                  <l>en formar se entretenía</l>
+                  <l>de junco un denso tejido,</l>
+                  <l>que guardase a su querido</l>
+                  <l>de la intemperie y calor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Cuando oyó, como el aliento</l>
+                  <l>que al levantarse o moverse</l>
+                  <l>hace animal corpulento,</l>
+                  <l>crujir la paja y romperse</l>
+                  <l>de un cercano matorral.</l>
+                  <l>Miró, ¡oh terror!, y acercarse</l>
+                  <l>vio con movimiento tardo,</l>
+                  <l>y hacia ella encaminarse,</l>
+                  <l>lamiéndose, un tigre pardo</l>
+                  <l>tinto en sangre; atroz señal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Cobrando ánimo al instante</l>
+                  <l>se alzó María arrogante,</l>
+                  <l>en mano el puñal desnudo,</l>
+                  <l>vivo el mirar, y un escudo</l>
+                  <l>formó de su cuerpo a Brian.</l>
+                  <l>Llegó la fiera inclemente;</l>
+                  <l>clavó en ella vista ardiente,</l>
+                  <l>y a compasión ya movida,</l>
+                  <l>o fascinada y herida</l>
+                  <l>por sus ojos y ademán,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>recta prosiguió el camino,</l>
+                  <l>y al arroyo cristalino</l>
+                  <l>se echó a nadar. ¡Oh amor tierno!</l>
+                  <l>de lo más frágil y eterno</l>
+                  <l>se compaginó tu ser.</l>
+                  <l>Siendo sólo afecto humano,</l>
+                  <l>chispa fugaz, tu grandeza,</l>
+                  <l>por impenetrable arcano,</l>
+                  <l>es celestial. ¡Oh belleza!</l>
+                  <l>no se anida tu poder,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>en tus lágrimas ni enojos;</l>
+                  <l>sí, en los sinceros arrojos</l>
+                  <l>de tu corazón amante.</l>
+                  <l>María en aquel instante</l>
+                  <l>se sobrepuso al terror,</l>
+                  <l>pero cayó sin sentido</l>
+                  <l>a conmoción tan violenta.</l>
+                  <l>Bella como ángel dormido</l>
+                  <l>la infeliz estaba, exenta</l>
+                  <l>de tanto afán y dolor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Entonces, ¡ah!, parecía</l>
+                  <l>que marchitado no había</l>
+                  <l>la aridez de la congoja,</l>
+                  <l>que a lo más bello despoja,</l>
+                  <l>su frescura juvenil.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Venturosa si más largo</l>
+                  <l>hubiera sido su sueño!</l>
+                  <l>Brian despierta del letargo:</l>
+                  <l>brilla matiz más risueño</l>
+                  <l>en su rostro varonil.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Se sienta; extático mira,</l>
+                  <l>como el que en vela delira;</l>
+                  <l>lleva la mano a su frente</l>
+                  <l>sudorífera y ardiente,</l>
+                  <l>¿qué cosas su alma verá?</l>
+                  <l>La luz, noche le parece,</l>
+                  <l>tierra y cielo se obscurece,</l>
+                  <l>y rueda en un torbellino</l>
+                  <l>de nubes. -Este camino</l>
+                  <l>lleno de espinas está:</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y la llanura, María,</l>
+                  <l>¿no ves cuán triste y sombría?</l>
+                  <l>¿Dónde vamos? A la muerte.</l>
+                  <l>Triunfó la enemiga suerte</l>
+                  <l>-dice delirando Brian-.</l>
+                  <l>¡Cuán caro mi amor te cuesta!</l>
+                  <l>Y mi confianza funesta,</l>
+                  <l>¡cuánta fatiga y ultrajes!</l>
+                  <l>Pero pronto los salvajes</l>
+                  <l>su deslealtad pagarán.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Cobra María el sentido</l>
+                  <l>al oír de su querido</l>
+                  <l>la voz, y en gozo nadando</l>
+                  <l>se incorpora, en él clavando</l>
+                  <l>su cariñosa mirada.</l>
+                  <l>-Pensé dormías -la dice-,</l>
+                  <l>y despertarte no quise;</l>
+                  <l>fuera mejor que durmieras</l>
+                  <l>y del bárbaro no oyeras</l>
+                  <l>la estrepitosa llegada.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-¿Sabes? Sus manos lavaron,</l>
+                  <l>con infernal regocijo,</l>
+                  <l>en la sangre de mi hijo;</l>
+                  <l>mis valientes degollaron.</l>
+                  <l>Como el huracán pasó,</l>
+                  <l>desolación vomitando,</l>
+                  <l>su vigilante perfidia.</l>
+                  <l>Obra es del inicuo bando,</l>
+                  <l>¡qué dirá la torpe envidia!</l>
+                  <l>Ya mi gloria se eclipsó.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De paz con ellos estaba,</l>
+                  <l>y en la villa descansaba.</l>
+                  <l>Oye; no te fíes, vela;</l>
+                  <l>lanza, caballo y espuela</l>
+                  <l>siempre lista has de tener.</l>
+                  <l>Mira dónde me han traído.</l>
+                  <l>Atado estoy y ceñido;</l>
+                  <l>no me es dado levantarme,</l>
+                  <l>ni valerte, ni vengarme,</l>
+                  <l>ni batallar, ni vencer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Venga, venga mi caballo,</l>
+                  <l>mi caballo por la vida;</l>
+                  <l>venga mi lanza fornida,</l>
+                  <l>que yo basto a ese tropel.</l>
+                  <l>Rodeado de picas me hallo.</l>
+                  <l>Paso, canalla traidora,</l>
+                  <l>que mi lanza vengadora</l>
+                  <l>castigo os dará crüel.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¿No miráis la polvareda</l>
+                  <l>que del llano se levanta?</l>
+                  <l>¿No sentís lejos la planta</l>
+                  <l>de los brutos retumbar?</l>
+                  <l>La tribu es, huyendo leda,</l>
+                  <l>como carnicero lobo,</l>
+                  <l>con los despojos del robo,</l>
+                  <l>no de intrépido lidiar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Mirad ardiendo la villa,</l>
+                  <l>y degollados, dormidos,</l>
+                  <l>nuestros hermanos queridos</l>
+                  <l>por la mano del infiel.</l>
+                  <l>¡Oh mengua! ¡Oh rabia! ¡Oh mancilla!</l>
+                  <l>Venga mi lanza ligero,</l>
+                  <l>mi caballo parejero,</l>
+                  <l>daré alcance a ese tropel.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Se alzó Brian enajenado,</l>
+                  <l>y su bigote erizado</l>
+                  <l>se mueve; chispean, rojos</l>
+                  <l>como centellas, sus ojos,</l>
+                  <l>que hace el entusiasmo arder;</l>
+                  <l>el rostro y talante fiero,</l>
+                  <l>do resalta con viveza</l>
+                  <l>el valor y la nobleza,</l>
+                  <l>la majestad del guerrero</l>
+                  <l>acostumbrado a vencer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero al punto desfallece.</l>
+                  <l>Ella, atónita, enmudece,</l>
+                  <l>ni halla voz su sentimiento;</l>
+                  <l>en tan solemne momento</l>
+                  <l>flaquea su corazón.</l>
+                  <l>El sol pálido declina:</l>
+                  <l>en la cercana colina</l>
+                  <l>triscan las gamas y ciervos,</l>
+                  <l>y de caranchos y cuervos</l>
+                  <l>grazna la impura legión,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>de cadáveres avara,</l>
+                  <l>cual si muerte presagiara.</l>
+                  <l>Así la caterva estulta,</l>
+                  <l>vil al heroísmo insulta,</l>
+                  <l>que triunfante veneró.</l>
+                  <l>María tiembla. Él, alzando</l>
+                  <l>la vista al cielo y tomando</l>
+                  <l>con sus manos casi heladas</l>
+                  <l>las de su amiga, adoradas,</l>
+                  <l>a su pecho las llevó.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y con voz débil la dice:</l>
+                  <l>-Oye, de Dios es arcano,</l>
+                  <l>que más tarde o más temprano</l>
+                  <l>todos debemos morir.</l>
+                  <l>Insensato el que maldice</l>
+                  <l>la ley que a todos iguala;</l>
+                  <l>hoy el término señala</l>
+                  <l>a mi robusto vivir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Resígnate; bien venida</l>
+                  <l>siempre, mi amor, fue la muerte,</l>
+                  <l>para el bravo, para el fuerte,</l>
+                  <l>que a la patria y al honor</l>
+                  <l>joven consagró su vida;</l>
+                  <l>¿qué es ella?, una chispa, nada,</l>
+                  <l>con ese sol comparada,</l>
+                  <l>raudal vivo de esplendor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>La mía brilló un momento,</l>
+                  <l>pero a la patria sirviera;</l>
+                  <l>también mi sangre corriera</l>
+                  <l>por su gloria y libertad.</l>
+                  <l>Lo que me da sentimiento</l>
+                  <l>es que de ti me separo,</l>
+                  <l>dejándote sin amparo</l>
+                  <l>aquí en esta soledad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Otro premio merecía</l>
+                  <l>tu amor y espíritu brioso,</l>
+                  <l>y galardón más precioso</l>
+                  <l>te destinaba mi fe.</l>
+                  <l>Pero ¡ay Dios! la suerte mía</l>
+                  <l>de otro modo se eslabona;</l>
+                  <l>hoy me arranca la corona</l>
+                  <l>que insensato ambicioné.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Si al menos la azul bandera</l>
+                  <l>sombra a mi cabeza diese!</l>
+                  <l>¡O antes por la patria fuese</l>
+                  <l>aclamado vencedor!</l>
+                  <l>¡Oh destino! Quién pudiera</l>
+                  <l>morir en la lid, oyendo</l>
+                  <l>el alarido y estruendo,</l>
+                  <l>la trompeta y el tambor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Tal gloria no he conseguido.</l>
+                  <l>Mis enemigos triunfaron;</l>
+                  <l>pero mi orgullo no ajaron</l>
+                  <l>los favores del poder.</l>
+                  <l>¡Qué importa! Mi brazo ha sido</l>
+                  <l>terror del salvaje fiero:</l>
+                  <l>los Andes vieron mi acero</l>
+                  <l>con honor resplandecer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Oh estrépito de las armas!</l>
+                  <l>¡Oh embriaguez de la victoria!</l>
+                  <l>¡Oh campos, soñada gloria!</l>
+                  <l>¡Oh lances del combatir!</l>
+                  <l>Inesperadas alarmas,</l>
+                  <l>patria, honor, objetos caros,</l>
+                  <l>ya no volveré a gozaros;</l>
+                  <l>joven yo debo morir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Hoy es el aniversario</l>
+                  <l>de mi primera batalla,</l>
+                  <l>y en torno a mí todo calla...</l>
+                  <l>Guarda en tu pecho mi amor,</l>
+                  <l>nadie llegue a su santuario...</l>
+                  <l>Aves de presa parecen,</l>
+                  <l>ya mis ojos se oscurecen;</l>
+                  <l>pero allí baja un cóndor;</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>y huye el enjambre insolente,</l>
+                  <l>adiós, en vano te aflijo...</l>
+                  <l>Vive, vive para tu hijo,</l>
+                  <l>Dios te impone ese deber.</l>
+                  <l>Sigue, sigue al occidente</l>
+                  <l>tu trabajosa jornada;</l>
+                  <l>adiós, en otra morada</l>
+                  <l>nos volveremos a ver.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Calló Brian, y en su querida</l>
+                  <l>clavó mirada tan bella,</l>
+                  <l>tan profunda y dolorida,</l>
+                  <l>que toda el alma por ella</l>
+                  <l>al parecer exhaló.</l>
+                  <l>El crepúsculo esparcía</l>
+                  <l>en el desierto luz mustia.</l>
+                  <l>Del corazón de María,</l>
+                  <l>el desaliento y angustia,</l>
+                  <l>sólo el cielo penetró.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Parte%20novena.xhtml#calibre_pb_8"/>Parte novena<ptr type="bookmark-end" target="#id_Parte%20novena.xhtml#calibre_pb_8"/>
+                  <lb/>María</head>
+               <p rend="justify">Fallece esperanza y crece tormento<lb/>(Anónimo)</p>
+               <lg>
+                  <l>Morte bella parea nel suo bel viso</l>
+                  <l>(Petrarca)</l>
+               </lg>
+               <lg>
+                  <l>"La muerte parecía bella en su rostro bello."</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>María</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¿Qué hará María? En la tierra</l>
+                  <l>ya no se arraiga su vida.</l>
+                  <l>¿Dónde irá? Su pecho encierra</l>
+                  <l>tan honda y vivaz herida,</l>
+                  <l>tanta congoja y pasión,</l>
+                  <l>que para ella es infecundo</l>
+                  <l>todo consuelo del mundo,</l>
+                  <l>burla horrible su contento,</l>
+                  <l>su compasión un tormento,</l>
+                  <l>su sonrisa una irrisión.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¿Qué le importan sus placeres,</l>
+                  <l>su bullicio y vana gloria,</l>
+                  <l>si ella, entre todos los seres,</l>
+                  <l>como desechada escoria,</l>
+                  <l>lejos, olvidada está?</l>
+                  <l>¿En qué corazón humano,</l>
+                  <l>en qué límite del orbe,</l>
+                  <l>el tesoro soberano,</l>
+                  <l>que sus potencias absorbe,</l>
+                  <l>ya perdido encontrará?</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Nace del sol la luz pura,</l>
+                  <l>y una fresca sepultura</l>
+                  <l>encuentra; lecho postrero,</l>
+                  <l>que al cadáver del guerrero</l>
+                  <l>preparó el más fino amor.</l>
+                  <l>Sobre ella hincada, María,</l>
+                  <l>muda como estatua fría,</l>
+                  <l>inclinada la cabeza,</l>
+                  <l>semejaba a la tristeza</l>
+                  <l>embebida en su dolor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Sus cabellos renegridos</l>
+                  <l>caen por los hombros tendidos,</l>
+                  <l>y sombrean de su frente,</l>
+                  <l>su cuello y rostro inocente,</l>
+                  <l>la nevada palidez.</l>
+                  <l>No suspira allí, ni llora;</l>
+                  <l>pero como ángel que implora,</l>
+                  <l>para miserias del suelo</l>
+                  <l>una mirada del cielo,</l>
+                  <l>hace esta sencilla prez:</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>-Ya en la tierra no existe</l>
+                  <l>el poderoso brazo</l>
+                  <l>donde hallaba regazo</l>
+                  <l>mi enamorada sien:</l>
+                  <l>Tú ¡oh Dios! no permitiste</l>
+                  <l>que mi amor lo salvase,</l>
+                  <l>quisiste que volase</l>
+                  <l>donde florece el bien.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Abre Señor a su alma</l>
+                  <l>tu seno regalado,</l>
+                  <l>del bienaventurado,</l>
+                  <l>reciba el galardón;</l>
+                  <l>encuentre allí la calma,</l>
+                  <l>encuentre allí la dicha,</l>
+                  <l>que busca en su desdicha,</l>
+                  <l>mi viudo corazón.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Dice. Un punto su sentido</l>
+                  <l>queda como sumergido.</l>
+                  <l>Echa la postrer mirada</l>
+                  <l>sobre la tumba callada</l>
+                  <l>donde toda su alma está;</l>
+                  <l>mirada llena de vida,</l>
+                  <l>pero lánguida, abatida,</l>
+                  <l>como la última vislumbre</l>
+                  <l>de la agonizante lumbre,</l>
+                  <l>falta de alimento ya.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y alza luego la rodilla;</l>
+                  <l>y tomando por la orilla</l>
+                  <l>del arroyo hacia el ocaso,</l>
+                  <l>con indiferente paso</l>
+                  <l>se encamina al parecer.</l>
+                  <l>Pronto sale de aquel monte</l>
+                  <l>de paja, y mira adelante</l>
+                  <l>ilimitado horizonte,</l>
+                  <l>llanura y cielo brillante,</l>
+                  <l>desierto y campo doquier.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Oh noche! ¡Oh fúlgida estrella!</l>
+                  <l>Luna solitaria y bella</l>
+                  <l>sed benignas; el indicio</l>
+                  <l>de vuestro influjo propicio</l>
+                  <l>siquiera una vez mostrad.</l>
+                  <l>Bochornos, cálidos vientos,</l>
+                  <l>inconstantes elementos,</l>
+                  <l>preñados de temporales,</l>
+                  <l>apiadaos; fieras fatales</l>
+                  <l>su desdicha respetad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y Tú ¡oh Dios! en cuyas manos</l>
+                  <l>de los míseros humanos</l>
+                  <l>está el oculto destino,</l>
+                  <l>siquiera un rayo divino</l>
+                  <l>haz a su esperanza ver.</l>
+                  <l>Vacilar, de alma sencilla,</l>
+                  <l>que resignada se humilla,</l>
+                  <l>no hagas la fe acrisolada;</l>
+                  <l>susténtala en su jornada,</l>
+                  <l>no la dejes perecer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Adiós pajonal funesto,</l>
+                  <l>adiós pajonal amigo.</l>
+                  <l>Se va ella sola ¡cuán presto</l>
+                  <l>de su júbilo, testigo,</l>
+                  <l>y su luto fuiste vos!</l>
+                  <l>El sol y la llama impía</l>
+                  <l>marchitaron tu ufanía;</l>
+                  <l>pero hoy tumba de un soldado</l>
+                  <l>eres, y asilo sagrado:</l>
+                  <l>pajonal glorioso, adiós.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Gózate; ya no se anidan</l>
+                  <l>en ti las aves parleras,</l>
+                  <l>ni tu agua y sombra convidan</l>
+                  <l>sólo a los brutos y fieras:</l>
+                  <l>soberbio debes estar.</l>
+                  <l>El valor y la hermosura,</l>
+                  <l>ligados por la ternura,</l>
+                  <l>en ti hallaron refrigerio;</l>
+                  <l>de su infortunio el misterio</l>
+                  <l>tú sólo puedes contar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Gózate; votos, ni ardores</l>
+                  <l>de felices amadores</l>
+                  <l>tu esquividad no turbaron,</l>
+                  <l>sino voces que confiaron</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>a tu silencio su mal.</l>
+                  <l>En la noche tenebrosa,</l>
+                  <l>con los ásperos graznidos</l>
+                  <l>de la legión ominosa,</l>
+                  <l>oirás ayes y gemidos:</l>
+                  <l>adiós triste pajonal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De ti María se aleja,</l>
+                  <l>y en tus soledades deja</l>
+                  <l>toda su alma; agradecido,</l>
+                  <l>el depósito querido</l>
+                  <l>guarda y conserva; quizá</l>
+                  <l>mano generosa y pía</l>
+                  <l>venga a pedírtelo un día;</l>
+                  <l>quizá la viva palabra</l>
+                  <l>un monumento le labra</l>
+                  <l>que el tiempo respetará.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Día y noche ella camina;</l>
+                  <l>y la estrella matutina,</l>
+                  <l>caminando solitaria,</l>
+                  <l>sin articular plegaria,</l>
+                  <l>sin descansar ni dormir,</l>
+                  <l>la ve. En su planta desnuda</l>
+                  <l>brota la sangre y chorrea;</l>
+                  <l>pero toda ella, sin duda,</l>
+                  <l>va absorta en la única idea</l>
+                  <l>que alimenta su vivir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>En ella encuentra sustento.</l>
+                  <l>Su garganta es viva fragua,</l>
+                  <l>un volcán su pensamiento,</l>
+                  <l>pero mar de hielo y agua</l>
+                  <l>refrigerio inútil es</l>
+                  <l>para el incendio que abriga,</l>
+                  <l>insensible a la fatiga,</l>
+                  <l>a cuanto ve indiferente,</l>
+                  <l>como mísera demente</l>
+                  <l>mueve sus heridos pies,</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>por el Desierto. Adormida</l>
+                  <l>está su orgánica vida;</l>
+                  <l>pero la vida de su alma</l>
+                  <l>fomenta en sí aquella calma</l>
+                  <l>que sigue a la tempestad,</l>
+                  <l>cuando el ánimo cansado</l>
+                  <l>del afán violento y duro,</l>
+                  <l>al parecer resignado,</l>
+                  <l>se abisma en el fondo obscuro</l>
+                  <l>de su propia soledad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Tremebundo precipicio,</l>
+                  <l>fiebre lenta y devorante,</l>
+                  <l>último efugio, suplicio</l>
+                  <l>del infierno, semejante</l>
+                  <l>a la postrer convulsión</l>
+                  <l>de la víctima en tormento:</l>
+                  <l>trance que si dura un día</l>
+                  <l>anonada el pensamiento,</l>
+                  <l>encanece, o deja fría</l>
+                  <l>la sangre en el corazón.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Dos soles pasan. ¿Adónde</l>
+                  <l>tu poder ¡oh Dios! se esconde?</l>
+                  <l>¿Está, por ventura, exhausto?</l>
+                  <l>¿Más dolor en holocausto</l>
+                  <l>pide a una flaca mujer?</l>
+                  <l>No; de la quieta llanura</l>
+                  <l>ya se remonta a la altura</l>
+                  <l>gritando el yajá. Camina,</l>
+                  <l>oye la voz peregrina</l>
+                  <l>que te viene a socorrer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Oh ave de la Pampa hermosa,</l>
+                  <l>cómo te meces ufana!</l>
+                  <l>Reina, sí, reina orgullosa</l>
+                  <l>eres, pero no tirana</l>
+                  <l>como el águila fatal;</l>
+                  <l>tuyo es también el espacio</l>
+                  <l>el transparente palacio:</l>
+                  <l>si ella en las rocas se anida,</l>
+                  <l>tú en la esquivez escondida</l>
+                  <l>de algún vasto pajonal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De la víctima el gemido,</l>
+                  <l>el huracán y el tronido</l>
+                  <l>ella busca, y deleite halla</l>
+                  <l>en los campos de batalla;</l>
+                  <l>pero tú la tempestad,</l>
+                  <l>día y noche vigilante,</l>
+                  <l>anuncias al gaucho errante;</l>
+                  <l>tu grito es de buen presagio</l>
+                  <l>al que asechanza o naufragio</l>
+                  <l>teme de la adversidad.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Oye sonar en la esfera</l>
+                  <l>la voz del ave agorera,</l>
+                  <l>oye María infelice;</l>
+                  <l>alerta, alerta, te dice;</l>
+                  <l>aquí está tu salvación.</l>
+                  <l>¿No la ves cómo en el aire</l>
+                  <l>balancea con donaire</l>
+                  <l>su cuerpo albo-ceniciento?</l>
+                  <l>¿No escuchas su ronco acento?</l>
+                  <l>Corre a calmar tu aflicción.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero nada ella divisa,</l>
+                  <l>ni el feliz reclamo escucha;</l>
+                  <l>y caminando va a prisa:</l>
+                  <l>el demonio con que lucha</l>
+                  <l>la turba, impele y amaga.</l>
+                  <l>Turbios, confusos y rojos</l>
+                  <l>se presentan a sus ojos</l>
+                  <l>cielo, espacio, sol, verdura,</l>
+                  <l>quieta, insondable llanura</l>
+                  <l>donde sin brújula vaga.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Mas ¡ah! que en vivos corceles</l>
+                  <l>un grupo de hombres armados</l>
+                  <l>se acerca. ¿Serán infieles,</l>
+                  <l>enemigos? No, soldados</l>
+                  <l>son del desdichado Brian.</l>
+                  <l>Llegan, su vista se pasma;</l>
+                  <l>ya no es la mujer hermosa,</l>
+                  <l>sino pálido fantasma;</l>
+                  <l>mas reconocen la esposa</l>
+                  <l>de su fuerte capitán.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Creíanla cautiva o muerta;</l>
+                  <l>grande fue su regocijo.</l>
+                  <l>Ella los mira, y despierta:</l>
+                  <l>-¿No sabéis qué es de mi hijo?-</l>
+                  <l>con toda el alma exclamó.</l>
+                  <l>Tristes mirando a María</l>
+                  <l>todos el labio sellaron,</l>
+                  <l>mas luego una voz impía:</l>
+                  <l>-Los indios lo degollaron-</l>
+                  <l>roncamente articuló.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y al oír tan crudo acento,</l>
+                  <l>como quiebra el seco tallo</l>
+                  <l>el menor soplo del viento</l>
+                  <l>o como herida del rayo,</l>
+                  <l>cayó la infeliz allí;</l>
+                  <l>viéronla caer, turbados,</l>
+                  <l>los animosos soldados;</l>
+                  <l>una lágrima la dieron,</l>
+                  <l>y funerales la hicieron</l>
+                  <l>dignos de contarse aquí.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Aquella trama formada</l>
+                  <l>de la hebra más delicada,</l>
+                  <l>cuyo espíritu robusto</l>
+                  <l>lo más acerbo e injusto</l>
+                  <l>de la adversidad probó,</l>
+                  <l>un soplo débil deshizo:</l>
+                  <l>Dios para amar, sin duda, hizo</l>
+                  <l>un corazón tan sensible;</l>
+                  <l>palpitar le fue imposible</l>
+                  <l>cuando a quien amar no halló.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Murió María. ¡Oh voz fiera!</l>
+                  <l>¡Cuál entraña te abortara!</l>
+                  <l>Mover al tigre pudiera</l>
+                  <l>su vista sola; y no hallara</l>
+                  <l>en ti alguna compasión,</l>
+                  <l>tanta miseria y conflito,</l>
+                  <l>ni aquel su materno grito;</l>
+                  <l>y como flecha saliste,</l>
+                  <l>y en lo más profundo heriste</l>
+                  <l>su anhelante corazón.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Embates y oscilaciones</l>
+                  <l>de un mar de tribulaciones</l>
+                  <l>ella arrostró; y la agonía</l>
+                  <l>saboreó su fantasía;</l>
+                  <l>y el punzante frenesí</l>
+                  <l>de la esperanza insaciable</l>
+                  <l>que en pos de un deseo vuela,</l>
+                  <l>no alcanza el blanco inefable;</l>
+                  <l>se irrita en vano y desvela,</l>
+                  <l>vuelve a devorarse a sí.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Una a una, todas bellas,</l>
+                  <l>sus ilusiones volaron,</l>
+                  <l>y sus deseos con ellas;</l>
+                  <l>sola y triste la dejaron</l>
+                  <l>sufrir hasta enloquecer.</l>
+                  <l>Quedaba a su desventura</l>
+                  <l>un amor, una esperanza,</l>
+                  <l>un astro en la noche obscura,</l>
+                  <l>un destello de bonanza,</l>
+                  <l>un corazón que querer,</l>
+                  <l>una voz cuya armonía</l>
+                  <l>adormecerla podría;</l>
+                  <l>a su llorar un testigo,</l>
+                  <l>a su miseria un abrigo,</l>
+                  <l>a sus ojos qué mirar.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Quedaba a su amor desnudo</l>
+                  <l>un hijo, un vástago tierno;</l>
+                  <l>encontrarlo aquí no pudo,</l>
+                  <l>y su alma al regazo eterno</l>
+                  <l>lo fue volando a buscar.</l>
+                  <l>Murió; por siempre cerrados</l>
+                  <l>están sus ojos cansados</l>
+                  <l>de errar por llanura y cielo,</l>
+                  <l>de sufrir tanto desvelo,</l>
+                  <l>de afanar sin conseguir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El atractivo está yerto</l>
+                  <l>de su mirar; ya el desierto,</l>
+                  <l>su último asilo, los rastros</l>
+                  <l>de tan hechiceros astros</l>
+                  <l>no verá otra vez lucir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero de ella aun hay vestigio.</l>
+                  <l>¿No veis el raro prodigio?</l>
+                  <l>Sobre su cándida frente</l>
+                  <l>aparece nuevamente</l>
+                  <l>un prestigio encantador.</l>
+                  <l>Su boca y tersa mejilla</l>
+                  <l>rosada, entre nieve brilla,</l>
+                  <l>y revive en su semblante</l>
+                  <l>la frescura rozagante</l>
+                  <l>que marchitara el dolor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>La muerte bella la quiso,</l>
+                  <l>y estampó en su rostro hermoso</l>
+                  <l>aquel inefable hechizo,</l>
+                  <l>inalterable reposo,</l>
+                  <l>y sonrisa angelical,</l>
+                  <l>que destellan las facciones</l>
+                  <l>de una virgen en su lecho</l>
+                  <l>cuando las tristes pasiones</l>
+                  <l>no han ajado de su pecho</l>
+                  <l>la pura flor virginal.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Entonces el que la viera,</l>
+                  <l>dormida ¡oh Dios! la creyera;</l>
+                  <l>deleitándose en el sueño</l>
+                  <l>con memorias de su dueño,</l>
+                  <l>llenas de felicidad,</l>
+                  <l>soñando en la alba lucida</l>
+                  <l>del banquete de la vida</l>
+                  <l>que sonríe a su amor puro;</l>
+                  <l>más ¡ay! que en el seno obscuro</l>
+                  <l>duerme de la eternidad.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_Epilogo.xhtml#calibre_pb_9"/>La cautiva<ptr type="bookmark-end" target="#id_Epilogo.xhtml#calibre_pb_9"/>
+               </head>
+            </div>
+            <div type="div2">
+               <head>Epílogo</head>
+               <p rend="justify">Douce lumière, es-tu leur âme?<lb/>(Lamartine)</p>
+               <lg>
+                  <l>"¿Eres, plácida luz, el alma de ellos?"</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>¡Oh María! Tu heroísmo,</l>
+                  <l>tu varonil fortaleza,</l>
+                  <l>tu juventud y belleza</l>
+                  <l>merecieran fin mejor.</l>
+                  <l>Ciegos de amor, el abismo</l>
+                  <l>fatal tus ojos no vieron,</l>
+                  <l>y sin vacilar se hundieron</l>
+                  <l>en él ardiendo en amor.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>De la más cruda agonía</l>
+                  <l>salvar quisiste a tu amante,</l>
+                  <l>y lo viste delirante</l>
+                  <l>en el desierto morir.</l>
+                  <l>¡Cuál tu congoja sería!</l>
+                  <l>¡Cuál tu dolor y amargura!</l>
+                  <l>Y no hubo humana criatura</l>
+                  <l>que te ayudase a sentir.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Se malogró tu esperanza;</l>
+                  <l>y cuando sola te viste</l>
+                  <l>también mísera caíste</l>
+                  <l>como árbol cuya raíz</l>
+                  <l>en la tierra ya no afianza</l>
+                  <l>su pompa y florido ornato.</l>
+                  <l>Nada supo el mundo ingrato</l>
+                  <l>de tu constancia infeliz.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Naciste humilde, y oculta,</l>
+                  <l>como diamante en la mina,</l>
+                  <l>la belleza peregrina</l>
+                  <l>de tu noble alma quedó.</l>
+                  <l>El Desierto la sepulta,</l>
+                  <l>tumba sublime y grandiosa,</l>
+                  <l>do el héroe también reposa</l>
+                  <l>que la gozó y admiró.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>El destino de tu vida</l>
+                  <l>fue amar, amor tu delirio,</l>
+                  <l>amor causó tu martirio,</l>
+                  <l>te dio sobrehumano ser;</l>
+                  <l>y amor, en edad florida,</l>
+                  <l>sofocó la pasión tierna</l>
+                  <l>que, omnipotencia de eterna,</l>
+                  <l>trajo consigo al nacer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Pero, no triunfa el olvido,</l>
+                  <l>de amor, ¡oh bella María!</l>
+                  <l>que la virgen poesía</l>
+                  <l>corona te forma ya</l>
+                  <l>de ciprés entretejido</l>
+                  <l>con flores que nunca mueren;</l>
+                  <l>y que admiren y veneren</l>
+                  <l>tu nombre y su nombre hará.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Hoy, en la vasta llanura,</l>
+                  <l>inhospitable morada,</l>
+                  <l>que no siempre sosegada</l>
+                  <l>mira el astro de la luz;</l>
+                  <l>descollando en una altura,</l>
+                  <l>entre agreste flor y yerba,</l>
+                  <l>hoy el caminante observa</l>
+                  <l>una solitaria cruz.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Fórmale grata techumbre</l>
+                  <l>la copa extensa y tupida</l>
+                  <l>de un ombú donde se anida</l>
+                  <l>la altiva águila real;</l>
+                  <l>y la varia muchedumbre</l>
+                  <l>de aves que cría el desierto,</l>
+                  <l>se pone en ella a cubierto</l>
+                  <l>del frío y sol estival.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Nadie sabe cuya mano</l>
+                  <l>plantó aquel árbol benigno,</l>
+                  <l>ni quién a su sombra, el signo</l>
+                  <l>puso de la redención.</l>
+                  <l>Cuando el cautivo cristiano</l>
+                  <l>se acerca a aquellos lugares,</l>
+                  <l>recordando sus hogares,</l>
+                  <l>se postra a hacer oración.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Fama es que la tribu errante,</l>
+                  <l>si hasta allí llega embebida</l>
+                  <l>en la caza apetecida</l>
+                  <l>de la gama y avestruz,</l>
+                  <l>al ver del ombú gigante</l>
+                  <l>la verdosa cabellera,</l>
+                  <l>suelta al potro la carrera</l>
+                  <l>gritando: -allí está la cruz.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Y revuelve atrás la vista</l>
+                  <l>como quien huye aterrado,</l>
+                  <l>creyendo, se alza el airado,</l>
+                  <l>terrible espectro de Brian.</l>
+                  <l>Pálido, el indio exorcista</l>
+                  <l>el fatídico árbol nombra;</l>
+                  <l>ni a hollar se atreven su sombra</l>
+                  <l>los que de camino van.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>También el vulgo asombrado</l>
+                  <l>cuenta que en la noche obscura</l>
+                  <l>suelen en aquella altura</l>
+                  <l>dos luces aparecer;</l>
+                  <l>que salen, y habiendo errado</l>
+                  <l>por el desierto tranquilo,</l>
+                  <l>juntas a su triste asilo</l>
+                  <l>vuelven al amanecer.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>Quizá mudos habitantes</l>
+                  <l>serán del páramo aéreo,</l>
+                  <l>quizá espíritus, ¡misterio!,</l>
+                  <l>visiones del alma son.</l>
+                  <l>Quizá los sueños brillantes</l>
+                  <l>de la inquieta fantasía,</l>
+                  <l>forman coro en la armonía</l>
+                  <l>de la invisible creación.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <div type="div3">
+                  <head>¡Gracias por leer este libro de <ref target="https://www.elejandria.com/">www.elejandria.com</ref>!</head>
+                  <div type="div4">
+                     <head>Descubre nuestra colección de obras de dominio público en castellano en nuestra web</head>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonetos del Amor Oscuro</title>
+            <author>García Lorca, Federico</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:25:38Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-10T17:06:00.185160127</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Sonetos del Amor Oscuro</head>
+         <author>García Lorca, Federico</author>
+         <p rend="italic">2020-01-11T23:00:00+00:00</p>
+         <div type="div1">
+            <head>Sonetos del Amor Oscuro</head>
+            <div type="div2">
+               <head>Soneto gongorino</head>
+               <lg>
+                  <l>Este pichón del Turia que te mando,</l>
+                  <l>de dulces ojos y de blanca pluma,</l>
+                  <l>sobre laurel de Grecia vierte y suma</l>
+                  <l>llama lenta de amor do estoy parando.</l>
+               </lg>
+               <lg>
+                  <l>Su cándida virtud, su cuello blando,</l>
+                  <l>en limo doble de caliente espuma,</l>
+                  <l>con un temblor de escarcha, perla y bruma</l>
+                  <l>la ausencia de tu boca está marcando.</l>
+               </lg>
+               <lg>
+                  <l>Pasa la mano sobre tu blancura</l>
+                  <l>y verás qué nevada melodía</l>
+                  <l>esparce en copos sobre tu hermosura.</l>
+               </lg>
+               <lg>
+                  <l>Así mi corazón de noche y día,</l>
+                  <l>preso en la cárcel del amor oscura,</l>
+                  <l>llora, sin verte, su melancolía.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Llagas de amor</head>
+               <lg>
+                  <l>Esta luz, este fuego que devora.</l>
+                  <l>Este paisaje gris que me rodea.</l>
+                  <l>Este dolor por una sola idea.</l>
+                  <l>Esta angustia de cielo, mundo y hora.</l>
+               </lg>
+               <lg>
+                  <l>Este llanto de sangre que decora</l>
+                  <l>lira sin pulso ya, lúbrica tea.</l>
+                  <l>Este peso del mar que me golpea.</l>
+                  <l>Este alacrán que por mi pecho mora.</l>
+               </lg>
+               <lg>
+                  <l>Son guirnalda de amor, cama de herido,</l>
+                  <l>donde sin sueño, sueño tu presencia</l>
+                  <l>entre las ruinas de mi pecho hundido.</l>
+               </lg>
+               <lg>
+                  <l>Y aunque busco la cumbre de prudencia</l>
+                  <l>me da tu corazón valle tendido</l>
+                  <l>con cicuta y pasión de amarga ciencia.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Soneto de la guirnalda de las rosas</head>
+               <lg>
+                  <l>¡Esa guirnalda! ¡Pronto! ¡Que me muero!</l>
+                  <l>¡Teje deprisa! ¡Cantal ¡Gime! ¡Canta!</l>
+                  <l>Que la sombra me enturbia la garganta</l>
+                  <l>y otra vez viene y mil la luz de enero.</l>
+               </lg>
+               <lg>
+                  <l>Entre lo que me quieres y te quiero,</l>
+                  <l>aire de estrellas y temblor de planta</l>
+                  <l>espesura de anémonas levanta</l>
+                  <l>con oscuro gemir un año entero.</l>
+               </lg>
+               <lg>
+                  <l>Goza el fresco paisaje de mi herida,</l>
+                  <l>quiebra juncos y arroyos delicados,</l>
+                  <l>bebe en muslo de miel sangre vertida.</l>
+               </lg>
+               <lg>
+                  <l>Pronto ¡prontol! Que unidos, enlazados,</l>
+                  <l>boca rota de amor y alma mordida,</l>
+                  <l>el tiempo nos encuentre destrozados.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>El poeta dice la verdad</head>
+               <lg>
+                  <l>Quiero llorar mi pena y te lo digo</l>
+                  <l>para que tú me quieras y me llores</l>
+                  <l>en un anochecer de ruiseñores</l>
+                  <l>con un puñal, con besos y contigo.</l>
+               </lg>
+               <lg>
+                  <l>Quiero matar al único testigo</l>
+                  <l>para el asesinato de mis flores</l>
+                  <l>y convertir mi llanto y mis sudores</l>
+                  <l>en eterno montón de duro trigo.</l>
+               </lg>
+               <lg>
+                  <l>Que no se acabe nunca la madeja</l>
+                  <l>del te quiero me quieres, siempre ardida</l>
+                  <l>con decrépito sol y luna vieja.</l>
+               </lg>
+               <lg>
+                  <l>Que lo que no me des y no te pida</l>
+                  <l>será para la muerte, que no deja</l>
+                  <l>ni sombra por la carne estremecida.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>El poeta pide a su amor que le escriba</head>
+               <lg>
+                  <l>Amor de mis entrañas, viva muerte,</l>
+                  <l>en vano espero tu palabra escrita</l>
+                  <l>y pienso, con la flor que se marchita,</l>
+                  <l>que si vivo sin mí quiero perderte.</l>
+               </lg>
+               <lg>
+                  <l>El aire es inmortal, la piedra inerte</l>
+                  <l>ni conoce la sombra ni la evita.</l>
+                  <l>Corazón interior no necesita</l>
+                  <l>la miel helada que la luna vierte.</l>
+               </lg>
+               <lg>
+                  <l>Pero yo te sufrí, rasgué mis venas,</l>
+                  <l>tigre y paloma, sobre tu cintura</l>
+                  <l>en duelo de mordiscos y azucenas.</l>
+               </lg>
+               <lg>
+                  <l>Llena, pues, de palabras mi locura</l>
+                  <l>o déjame vivir en mi serena noche</l>
+                  <l>del alma para siempre oscura.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Ay voz secreta del amor oscuro</head>
+               <lg>
+                  <l>¡Ay voz secreta del amor oscuro!</l>
+                  <l>¡ay balido sin lanas! ¡ay herida!</l>
+                  <l>¡ay aguja de hiel, camelia hundida!</l>
+                  <l>¡ay corriente sin mar, ciudad sin muro!</l>
+               </lg>
+               <lg>
+                  <l>¡Ay noche inmensa de perfil seguro,</l>
+                  <l>montaña celestial de angustia erguida!</l>
+                  <l>¡ay perro en corazón, voz perseguida!</l>
+                  <l>¡silencio sin confín, lirio maduro!</l>
+               </lg>
+               <lg>
+                  <l>Huye de mí, caliente voz de hielo,</l>
+                  <l>no me quieras perder en la maleza</l>
+                  <l>donde sin fruto gimen carne y cielo.</l>
+               </lg>
+               <lg>
+                  <l>Deja el duro marfil de mi cabeza,</l>
+                  <l>apiádate de mí, ¡rompe mi duelo!</l>
+                  <l>¡que soy amor, que soy naturaleza!</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Soneto de la dulce queja</head>
+               <lg>
+                  <l>Tengo miedo a perder la maravilla</l>
+                  <l>de tus ojos de estatua y el acento</l>
+                  <l>que me pone de noche en la mejilla</l>
+                  <l>la solitaria rosa de tu aliento.</l>
+               </lg>
+               <lg>
+                  <l>Tengo pena de ser en esta orilla</l>
+                  <l>tronco sin ramas, y lo que más siento</l>
+                  <l>es no tener la flor, pulpa o arcilla,</l>
+                  <l>para el gusano de mi sufrimiento.</l>
+               </lg>
+               <lg>
+                  <l>Si tú eres el tesoro oculto mío,</l>
+                  <l>si eres mi cruz y mi dolor mojado,</l>
+                  <l>si soy el perro de tu señorío.</l>
+               </lg>
+               <lg>
+                  <l/>
+                  <l>No me dejes perder lo que he ganado</l>
+                  <l>y decora las aguas de tu río</l>
+                  <l>con hojas de mi Otoño enajenado.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Noche del amor insomne</head>
+               <lg>
+                  <l>Noche arriba los dos con luna llena,</l>
+                  <l>yo me puse a llorar y tú reías.</l>
+                  <l>Tu desdén era un dios, las quejas mías</l>
+                  <l>momentos y palomas en cadena.</l>
+               </lg>
+               <lg>
+                  <l>Noche abajo los dos. Cristal de pena,</l>
+                  <l>llorabas tú por hondas lejanías.</l>
+                  <l>Mi dolor era un grupo de agonías</l>
+                  <l>sobre tu débil corazón de arena.</l>
+               </lg>
+               <lg>
+                  <l>La aurora nos unió sobre la cama,</l>
+                  <l>las bocas puestas sobre el chorro helado</l>
+                  <l>de una sangre sin fin que se derrama.</l>
+               </lg>
+               <lg>
+                  <l>Y el sol entró por el balcón cerrado</l>
+                  <l>y el coral de la vida abrió su rama</l>
+                  <l>sobre mi corazón amortajado.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>El poeta pregunta a su amor por la ciudad encantada de Cuenca</head>
+               <lg>
+                  <l>¿Te gustó la ciudad que gota a gota</l>
+                  <l>labró el agua en el centro de los pinos?</l>
+                  <l>¿Viste sueños y rostros y caminos</l>
+                  <l>y muros de dolor que el aire azota?</l>
+               </lg>
+               <lg>
+                  <l>¿Viste la grieta azul de luna rota</l>
+                  <l>que el Júcar moja de cristal y trinos?</l>
+                  <l>¿Han besado tus dedos los espinos</l>
+                  <l>que coronan de amor piedra remota?</l>
+               </lg>
+               <lg>
+                  <l>Te acordaste de mí cuando subías</l>
+                  <l>al silencio que sufre la serpiente,</l>
+                  <l>prisionera de grillos y de umbrías?</l>
+               </lg>
+               <lg>
+                  <l>¿No viste por el aire transparente</l>
+                  <l>una dalia de penas y alegrías</l>
+                  <l>que te mandó mi corazón caliente?</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>El poeta habla por teléfono con el amor</head>
+               <lg>
+                  <l>Tu voz regó la duna de mi pecho</l>
+                  <l>en la dulce cabina de madera.</l>
+                  <l>Por el sur de mis pies fue primavera</l>
+                  <l>y al norte de mi frente flor de helecho.</l>
+               </lg>
+               <lg>
+                  <l>Pino de luz por el espacio estrecho</l>
+                  <l>cantó sin alborada y sementera</l>
+                  <l>y mi llanto prendió por vez primera</l>
+                  <l>coronas de esperanza por el techo.</l>
+               </lg>
+               <lg>
+                  <l>Dulce y lejana voz por mí vertida.</l>
+                  <l>Dulce y lejana voz por mí gustada.</l>
+                  <l>Lejana y dulce voz amortecida.</l>
+               </lg>
+               <lg>
+                  <l>Lejana como oscura corza herida.</l>
+                  <l>Dulce como un sollozo en la nevada.</l>
+                  <l>¡Lejana y dulce en tuétano metida!</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>El amor duerme en el pecho del poeta</head>
+               <p rend="justify">Tú nunca entenderás lo que te quiero<lb/>porque duermes en mí y estás dormido.<lb/>Yo te oculto llorando, perseguido<lb/>por una voz de penetrante acero.</p>
+               <p rend="justify">Norma que agita igual carne y lucero<lb/>traspasa ya mi pecho dolorido<lb/>y las turbias palabras han mordido<lb/>las alas de tu espíritu severo.</p>
+               <p rend="justify">Grupo de gente salta en los jardines<lb/>esperando tu cuerpo y mi agonía<lb/>en caballos de luz y verdes crines.</p>
+               <p rend="justify">Pero sigue durmiendo, vida mía.<lb/>Oye mi sangre rota en los violines.<lb/>¡Mira que nos acechan todavía!</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

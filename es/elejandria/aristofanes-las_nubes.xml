@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las nubes</title>
+            <author>Aristófanes</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-09-10T10:29:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-04T04:37:18.570508053</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>Las nubes</head>
+         <author>Aristófanes</author>
+         <p rend="italic">2022-05-252022-05-252022-05-25</p>
+         <div type="div1">
+            <head>Las nubes</head>
+            <div type="div2">
+               <head>Personajes</head>
+               <p rend="start">
+                  <hi rend="bold">ESTREPSÍADES</hi>, agricultor ateniense.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES</hi>, su hijo.</p>
+               <p rend="bold">UN ESCLAVO DE ESTREPSÍADES.</p>
+               <p rend="bold">UN DISCIPULO DE SOCRATES.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES</hi>, el filósofo.</p>
+               <p rend="justify">
+                  <hi rend="bold">EL CORO DE NUBES</hi>, en figura de mujeres.</p>
+               <p rend="justify">
+                  <hi rend="bold">EL ARGUMENTO MEJOR</hi>, representado como un hombre mayor de porte antiguo.</p>
+               <p rend="justify">
+                  <hi rend="bold">EL ARGUMENTO PEOR</hi>, un joven con atuendo moderno.</p>
+               <p rend="bold">EL ACREEDOR 1</p>
+               <p rend="bold">EL ACREEDOR 2</p>
+               <p rend="justify">
+                  <hi rend="bold">QUEROFONTE</hi>, discípulo de Sócrates.</p>
+               <p rend="justify">
+                  <hi rend="bold">PERSONAJES MUDOS</hi>: Discípulos de Sócrates; Testigos del Acreedor 1<hi rend="sup">º</hi>; Jantias, esclavo de ESTREPSÍADES; otros esclavos.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_main1.xml#heading_id_2"/>Parte 1<lb/>Primer Acto<ptr type="bookmark-end" target="#id_main1.xml#heading_id_2"/>
+               </head>
+               <p rend="justify">
+                  <hi rend="italic">Hay dos casas, una grande, que pertenece a </hi>ESTREPSÍADES <hi rend="italic">y otra pequeña, en la que viven </hi>SÓCRATES <hi rend="italic">y sus discípulos. Ante la casa de</hi>ESTREPSÍADES,<hi rend="italic"> en primer plano, se</hi> <hi rend="italic">simula un interior. Es todavía de noche. Ocupan sendas camas </hi>ESTREPSÍADES <hi rend="italic">y su hijo </hi>FIDÍPIDES. <hi rend="italic">El padre da vueltas en la cama y acaba por levantarse.</hi>
+               </p>
+               <p rend="justify"> </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay<hi rend="italic">, </hi>ay, Zeus soberano!, ¡qué larga es la noche! Es interminable. ¿Nunca se hará de día? La verdad es que he oído hace un rato cantar al gallo, pero los esclavos aún están roncando. Antes no hubiera pasado esto. ¡Maldita seas, guerra, maldita por tantas y tantas cosas, cuando ya ni siquiera puedo castigar a los esclavos!<hi rend="sup"> </hi>
+               </p>
+               <p rend="justify">Tampoco el chico este se despierta en toda la noche. ¡Mira cómo se tira pedos bien envuelto con cinco mantas! En fin, si os parece, vamos a roncar bien tapados. <hi rend="italic">(Se acuesta y se tapa.) </hi>Nada, no puedo dormir, ¡pobre de mí!, mordido como estoy por los gastos, los pesebres y las deudas, por culpa de este hijo. Él, con su pelo largo, monta, guía el carro y sueña, todo con caballos. En cambio yo estoy hecho polvo cuando veo que la luna me trae otra vez el día veinte del mes, pues los intereses se acumulan . </p>
+               <p rend="italic">(Hacia la casa.) </p>
+               <p rend="justify">Chico, coge el candil y saca los apuntes de mis cuentas, para que mire a quién le debo dinero <hi rend="italic">y </hi>calcule los intereses. </p>
+               <p rend="italic">(Un esclavo trae un candil y las tablillas con las cuentas.) </p>
+               <p rend="justify">A ver qué debo. «Doce minas a Pasias». ¿De qué, doce minas a Pasias? ¿Por qué se las pedí prestadas? Ya está: cuando compré el caballo señalado con la «coppa». ¡Pobre de mí!, ¡ojalá me hubiera señalado <hi rend="sup"> </hi>antes el ojo con una piedra!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> <hi rend="italic">(Dormido.) </hi>
+               </p>
+               <p rend="justify">Filón, estás haciendo trampa. Ve por tu calle.</p>
+               <p rend="justify">ESTREPSÍADES. Ésa, ésa es la desdicha que me tiene hecho polvo: hasta dormido sueña con los caballos.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> <hi rend="italic">(Dormido.) </hi>
+               </p>
+               <p rend="justify">¿Cuántas vueltas a la pista van a dar los carros de guerra? .</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Tú sí que me haces dar muchas vueltas a mí, a tu padre! Después de Pasias, ¿en qué deuda me metí? «Tres minas por un carro pequeño y un par de ruedas a Aminias.»</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> <hi rend="italic">(Dormido.) </hi>
+               </p>
+               <p rend="justify">Haz que el caballo se revuelque  y luego llévatelo al establo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay, amigo!, ¡a mí sí que me has revolcado… fuera de mi dinero: ya he perdido varios pleitos y otros acreedores dicen que me van a embargar por los intereses!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> <hi rend="italic">(Despierto.) </hi>
+               </p>
+               <p rend="justify">A ver, padre; ¿por qué te pones de mal humor y andas dando vueltas toda la noche?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Me está picando entre las mantas… un demarco .</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¡Déjame dormir un poco, hombre! </p>
+               <p rend="italic">(Se tapa otra vez y sigue durmiendo.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Por mí, duerme! Pero para que te enteres: todas estas deudas serán tu problema. ¡Ay, ojalá hubiera reventado la casamentera que me empujó a casarme con tu madre! Yo llevaba una vida de agricultor muy agradable: sucio y mugriento, tumbado a la bartola, con un montón de rebaños, de miel de abejas y de aceitunas prensadas.</p>
+               <p rend="justify">Pero me fui a casar con la sobrina de Megacles, hijo de Megacles, yo, un campesino, con una de ciudad: una señoritinga loca por el lujo, del estilo de Cesira. el día que me casé con ella, yo, acostado a su lado, olía a vino nuevo, a higos secos, a copos de lana y a abundancia, pero ella olía a perfume, a azafrán, a morreos, a despilfarro, a glotonería, a Afrodita Colíade y a Genetilide.Sin embargo, no diré que era una vaga, que ella tejía y tejía, así que yo le mostraba esta capa </p>
+               <p rend="italic">(señala su capa) </p>
+               <p rend="justify">tomándola como excusa para decirle: «Mujer, tejes demasiado apretado» .</p>
+               <p rend="justify">
+                  <hi rend="bold">ESCLAVO.</hi> <hi rend="italic">(El candil se apaga.) </hi>
+               </p>
+               <p rend="justify">No nos queda aceite en el candil.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Rayos! ¿Por qué me encendiste el candil que chupa tanto? Ven aquí, que me las vas a pagar.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESCLAVO.</hi> ¿Por qué te las voy a pagar?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Porque le metiste una mecha de las más gruesas. </p>
+               <p rend="justify">
+                  <hi rend="italic">(El </hi>ESCLAVO <hi rend="italic">se va.) </hi>
+               </p>
+               <p rend="justify">Más adelante, cuando nos nació este hijo, a mí y a la buena de mi mujer, nos empezamos a pelear por el nombre. Ella quería añadir «ipo» <hi rend="sup"> </hi>al nombre: Jantipo, Queripo o Calipides, mientras que yo quería ponerle Fidónides, por su abuelo. Pasaba el tiempo mientras tratábamos de decidirlo y, al fin, llegamos a un acuerdo y le pusimos FIDÍPIDES. Ella cogía a este tipo y le decía cariñosamente: «Cuando tú seas mayor y conduzcas la carroza hacia la Acrópolis  <hi rend="sup"> </hi>como Megacles, con la túnica de lujo… ».</p>
+               <p rend="justify">Yo, en cambio, le decía: «Más bien cuando traigas las cabras desde el Roquedal, como tu padre, vestido con la pelliza». Pero él no me hacía ni pizca de caso y así hizo que cayera sobre mis bienes una peste caballar .<hi rend="sup"> </hi>Llevo toda la noche pensando cómo salir de esto y, por fin, ahora acabo de encontrar un camino totalmente excepcional; si consigo convencerlo de que lo siga, me veré a salvo. Bueno, en primer lugar quiero despertarlo. ¿Cómo podría yo despertarlo suavemente?, a ver, ¿cómo? ¡Fidípides, Fidipidito!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Qué pasa, padre?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Bésame y dame tu mano derecha </p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> <hi rend="italic">(Se incorpora y le alarga la mano.) </hi>
+               </p>
+               <p rend="justify">Aquí la tienes. ¿Qué pasa?</p>
+               <p rend="italic">(Las camas son retiradas del escenario.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Dime, ¿tú me quieres?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Sí, ¡por Posidón Hípico, aquí presente! <hi rend="italic">(</hi>
+               </p>
+               <p rend="italic">Señala una estatua.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No, no por el Hípico, ni hablar, que ese dios es el culpable de mis desgracias. Pues si me quieres de verdad, de corazón, obedéceme, hijo.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y en qué tengo que obedecerte?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Cambia de un plumazo tu estilo de vida y vete a aprender lo que yo te diga.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> A ver, dime, ¿qué me mandas?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Me vas a hacer caso?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Te haré caso, ¡por Dioniso!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Bien, pues mira aquí. ¿Ves esa puertecita y esa casita? </p>
+               <p rend="justify">
+                  <hi rend="italic">(Señala la casa de </hi>SÓCRATES.)</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Sí. ¿Qué es eso en realidad, padre?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Eso es el «caviladero» de los espíritus selectos. Ahí viven unos hombres que, al hablar del cielo, tratan de convencerte de que es una tapadera de horno, y de que está alrededor de nosotros, que somos los carbones. Si se les paga, ellos te enseñan a ganar pleiteando todas las causas, las justas y las injustas.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y quiénes son?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No sé exactamente el nombre. Son «cavilopensadores», gente bien.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Bah, unos hijos de perra. Ya sé yo: te refieres a esos fantasmones, paliduchos y descalzos, entre los que están el desgraciado de Sócrates y Querefonte.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Eh, eh, cállate. No digas niñerías. Si algo te importan los garbanzos de tu padre, hazte de su grupo, por favor, y manda los caballos a paseo.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Ni hablar, ¡por Dioniso!, ni aunque me dieras los faisanes que cría Leógoras </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Anda, ve, te lo pido por favor, hijo de mi alma; ve a que te enseñen.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y qué quieres que aprenda?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Dicen que con ellos están los dos Argumentos, el Mejor, sea como sea, y el Peor. De esos dos Argumentos, dicen que el Peor gana los pleitos defendiendo las causas injustas. Así que, si me aprendes ese Argumento injusto, de lo que ahora debo por tu culpa, de todas esas deudas, no tendría que devolver ni un óbolo a nadie.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> No te puedo obedecer, que ni me atrevería a mirar a la cara a los caballeros estando tan descolorido.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Por Deméter! Que conste que de lo mío no vas a probar bocado, ni tú, ni el caballo del tiro, ni el marcado con la s. Te echaré de casa, ¡a hacer puñetas! </p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES</hi>. Pues mi tío Megacles no va a consentir que yo me quede sin caballos. Hala, me voy adentro, y a ti, ¡ni caso! </p>
+               <p rend="italic">(Entra en su casa.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues yo, desde luego, no voy a quedarme así, hecho polvo. Voy a encomendarme a los dioses e iré yo en persona al caviladero para que me enseñen. Pero a mí, con lo viejo, lo olvidadizo y lo burro que soy, ¿cómo me van a entrar esas exquisiteces y esas finuras de argumentos? No tengo más remedio que ir. ¿Por qué ando perdiendo el tiempo con estas cosas en vez de llamar a la puerta? </p>
+               <p rend="justify">
+                  <hi rend="italic">(Llama a la puerta del caviladero.)</hi>¡Chico, chico!</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> <hi rend="italic">(Abriendo la puerta.)</hi>
+               </p>
+               <p rend="justify"> ¡Al cuerno! ¿Quién llama a la puerta?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES</hi>. Estrepsíades, hijo de Fidón, de Cicina.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> ¡Un patán, por Zeus!: le has pegado una patada a la puerta de una forma tan increíble que has hecho abortar una idea recién inventada.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Perdona, es que yo vivo lejos, en el campo. Anda, dime la idea abortada.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> No se nos permite decirla a los que no sean discípulos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces, dímela con toda confianza, que yo, aquí donde me ves, vengo al caviladero para ser discípulo.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO. </hi>Te lo voy a decir, pero hay que considerar estas cosas como misterios. Hace un momento preguntaba Sócrates a Querefonte cuántas veces podría saltar una pulga la longitud de sus pies, pues una mordió la ceja de Querefonte y luego saltó a la cabeza de Sócrates.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Y cómo consiguió medirlo?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> De una forma muy astuta. Fundió cera; después cogió la pulga y le sumergió los dos pies en la cera; cuando la pulga se enfrió, se le habían formado unas zapatillas persas; se las quitó, y medía con ellas la distancia.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Zeus soberano!, ¡qué finura de mente!</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> ¿Pues qué dirías si te enteraras de este otro pensamiento de Sócrates?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cuál? Por favor, cuéntamelo.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Le preguntaba Querefonte de Esfeto si, en su opinión, los mosquitos cantan por la boca o por el culo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Y qué dijo él sobre el mosquito?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCIPULO.</hi> Decía que el intestino del mosquito es estrecho, y que por ser un conducto delgado el aire pasa por él con fuerza directamente hasta el culo. Después, como el ano resulta ser un espacio hueco junto a un conducto estrecho, hace ruido por la fuerza del aire.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Así que el ano de los mosquitos es una trompeta. ¡Tres vivas por esta investigación intestinal! Seguro que si lo acusaran saldría absuelto fácilmente el que conoce tan bien el intestino del mosquito.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Pues hace un par de días se vio privado de un gran pensamiento por una salamanquesa.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿De qué modo? Cuéntamelo.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO. </hi>Investigaba el curso y los desplazamientos de la luna, y al estar con la boca abierta mirando hacia arriba como era de noche, un geco le cagó desde el alero.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Qué gracioso el geco ese que le cagó encima a Sócrates!</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Pues ayer por la noche no teníamos cena.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ajá! y, ¿cómo se las ingenió para conseguir los garbanzos?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Espolvoreó la mesa con una capa fina de ceniza, curvó un asador, lo usó como compás y… robó un manto del gimnasio .</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces, ¿por qué seguimos admirando a aquel Tales? Abre, abre el caviladero, termina ya, y enséñame a Sócrates lo más aprisa que puedas, que quiero ser su discípulo. ¡Venga, abre la puerta! </p>
+               <p rend="justify">
+                  <hi rend="italic">(El </hi>DISCÍPULO <hi rend="italic">abre la puerta. La máquina escénica trae al escenario a varios grupos de discípulos.)</hi>
+               </p>
+               <p rend="justify"> ¡Heracles!, ¿de dónde han salido estos animales?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> ¿Por qué te asombras? ¿A qué crees que se parecen?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> A los laconios capturados en <hi rend="italic">Pilos , </hi>pero, ¿por qué razón están mirando al suelo esos de <hi rend="italic">ahí?</hi>
+               </p>
+               <p rend="italic">(Señala a un grupo de discípulos.)</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Investigan lo que hay bajo tierra.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces buscan cebollas . No os preocupéis <hi rend="italic">(al grupo) </hi>más por eso, que yo sé dónde las hay grandes y hermosas. ¿Y qué están haciendo esos otros, los que están tan encorvados?</p>
+               <p rend="justify"> <hi rend="italic">(Señala otro grupo.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Ésos escrutan las tinieblas que hay más allá del Tártaro .</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Y por qué su culo mira al cielo?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Está aprendiendo astronomía por su cuenta. </p>
+               <p rend="italic">(A los discípulos que están fuera de la casa.) </p>
+               <p rend="justify">Venga, entrad, no sea que él os pille fuera.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Aún no, aún no; que se queden, que quiero ponerlos al corriente de un asuntillo mío.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Es que no les está permitido pasar demasiado tiempo fuera al aire libre. <hi rend="italic">(Los discípulos mencionados entran en el caviladero.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> </p>
+               <p rend="italic">(Va señalando algunos objetos.) </p>
+               <p rend="justify">¡Por los dioses!, ¿qué es esto? Dime.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Esto de aquí es astronomía.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Yeso otro, ¿qué es?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Es geometría.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Y,¿para qué sirve?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Para medir la tierra.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿La que se adjudica en parcelas? .</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> No, toda la tierra.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Qué cosa más buena! Esa idea es democrática y útil.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Yéste es un mapa de toda la tierra. ¿Ves? Aquí está Atenas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué dices? No lo creo, porque no veo a los jueces en sesión<ref target="http://www.cayocesarcaligula.com.ar/grecolatinos/aristofanes/las_nubes/las_nubes1.html#25b"> </ref>.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Puedes estar seguro de que este territorio es el Ática.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Ydónde están los de Cicina, mis vecinos?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Están justamente aquí. </p>
+               <p rend="italic">(Señalando la zona en el mapa.) </p>
+               <p rend="justify">Y ésta, como ves, es Eubea, <hi rend="italic">situada </hi>a lo largo del continente un buen trecho.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Lo sé bien, pues la <hi rend="italic">situamos </hi>fuera de juego nosotros con Pericles . Pero ¿dónde está Lacedemonia?.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> ¿Que dónde está? Ahí la tienes. </p>
+               <p rend="italic">(Señalando.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Qué cerca de nosotros! Planteaos de nuevo esto: apartarla de nosotros todo lo posible.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> No se puede.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Por Zeus! Ospesará entonces.</p>
+               <p rend="justify">(SÓCRATES <hi rend="italic">aparece en un cesto colgado del techo mediante una grúa.)</hi>
+               </p>
+               <p rend="justify"> ¡Anda! y ¿quién es ese hombre que está en la cuerda colgada del gancho?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Es él.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿El, quién?</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Sócrates.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Sócrates! Anda, llámamelo bien fuerte.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> Llámalo tú mismo, que yo no tengo tiempo. </p>
+               <p rend="italic">(Entra en la casa.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Sócrates, Socratillo!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Por qué me llamas, efímera criatura?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> En primer lugar, dime qué haces, por favor.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Camino por los aires y paso revista al sol .</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Así que «pasas» de los dioses desde un cesto en vez desde el suelo, si eso es lo que haces?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Nunca habría yo llegado a desentrañar los fenómenos celestes si no hubiera suspendido mi inteligencia y hubiera mezclado mi sutil pensamiento con el aire semejante a él. Si yo, estando en el suelo, hubiera examinado desde abajo las regiones de arriba, nunca habría desentrañado nada. Seguro, porque la tierra arrastra hacia así la sustancia del pensamiento. Eso mismo les pasa también a los berros.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cómo dices? ¿El pensamiento arrastra la sustancia hacia los berros? Anda, baja hasta mí, Socratillo, para que me enseñes las cosas por las que he venido.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> <hi rend="italic">(Descendiendo del cesto.) </hi>
+               </p>
+               <p rend="justify">Y,¿para qué has venido?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Quiero aprender a discursear, pues por culpa de los intereses y de los acreedores mal dispuestos, me veo despojado y saqueado: tengo todo embargado.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Y cómo es que te has endeudado sin enterarte?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Me hizo polvo una enfermedad hípica, que consume muchísimo. Pero anda, enséñame uno de tus dos Argumentos, aquél que no paga nada. Y cualquiera que sea la remuneración que me pidas, juraré por los dioses pagártela puntualmente.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Que vas a jurar por los dioses? Para empezar, los dioses no son de curso legal  entre nosotros.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces, ¿por qué cosa juráis? ¿Por unas monedas de hierro, como en Bizancio?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Quieres saber con claridad en qué consiste exactamente lo divino?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, por Zeus, si puede ser.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Y entablar diálogo con las Nubes, nuestras divinidades?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, sí.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pues siéntate en el jergón sagrado. </p>
+               <p rend="italic">(Señala un humilde jergón.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Vale, ya me siento.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Ahora coge esta corona.</p>
+               <p rend="justify"> <hi rend="italic">(Le da una corona.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Una corona para qué? ¡Pobre de mí!, no me sacrifiquéis como a Atamante ,<hi rend="sup"> </hi>Sócrates.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> No; es que esto se lo hacemos a todos los que se inician.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Y qué voy a sacar yo en limpio?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> En discursear te convertirás en un experto, en unas castañuelas, en harina de la más fina. ¡Pero estáte quieto!</p>
+               <p rend="justify"> <hi rend="italic">(Lo espolvorea con harina muy molida.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Por Zeus!, no me vas a tomar el pelo, que espolvoreado de esta manera me voy a convertir de verdad en harina.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES</hi>. Es preciso que el anciano guarde un silencio reverente y preste oídos a la plegaria. ¡Oh Rey soberano, inconmensurable Aire, que sostienes la tierra en el espacio, y tú, Éter brillante, y vosotras, Nubes, veneradas diosas del trueno y el rayo, levantaos, oh señoras, apareceos en las alturas al hombre que cavila!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Mientras se tapa con la capa.) </hi>
+               </p>
+               <p rend="justify">Aún no, aún no, hasta que me eche por encima ésta, no me vayan a mojar. ¡Si seré imbécil que he salido de casa sin llevar ni siquiera la gorra!</p>
+               <p rend="justify">
+                  <hi rend="bold">SOCRATES.</hi> Así pues, ¡oh Nubes muy venerables!, venid a mostraros a este hombre, ya sea que os encontréis en las sagradas cimas del Olimpo, batidas por la nieve, ya sea que con las Ninfas forméis un coro sagrado en los jardines de vuestro padre Océano, ya sea que con áureos jarros extraigáis agua en las bocas del Nilo, ya sea que habitéis en el lago Meotis o en la cima nevada del Mimante. Prestadme oídos aceptando el sacrificio y alegrándoos con los sagrados ritos.</p>
+               <p rend="justify"> <hi rend="italic">(Comienza a oírse el canto del coro de nubes, sin que se haga visible. Al mismo tiempo se oyen truenos.)</hi>
+               </p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Nubes imperecederas,</p>
+               <p rend="italic">alcémonos, visibles en nuestra brillante apariencia húmeda,</p>
+               <p rend="italic">desde nuestro padre Océano, de profundo estruendo,</p>
+               <p rend="italic">hasta las cimas de altísimos montes</p>
+               <p rend="italic">cubiertas de árboles, para que</p>
+               <p rend="italic">contemplemos las atalayas que se divisan a lo lejos,</p>
+               <p rend="italic">los frutos y la sagrada tierra bien regada,</p>
+               <p rend="italic">el cadencioso martillo de los divinos ríos,</p>
+               <p rend="italic">y el mar que con sordo fragor resuena;</p>
+               <p rend="italic">pues el ojo incansable del Éter resplandece</p>
+               <p rend="italic">con sus brillantes rayos.</p>
+               <p rend="italic">Ea, sacudamos de nuestra forma inmortal</p>
+               <p rend="italic">la lluviosa niebla, y contemplemos,</p>
+               <p rend="italic">con mirada que mucho abarca, la tierra.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Oh muy venerables Nubes, está claro que habéis escuchado mi llamada.</p>
+               <p rend="justify">(A Estrepsíades.)</p>
+               <p rend="justify">¿Has oído su voz y el rugido del divino trueno que inspira temor?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, <hi rend="italic">y </hi>os adoro, ¡oh muy honorables!, <hi rend="italic">y </hi>quiero tirarme pedos en respuesta a los truenos, de tanto que me asusto y tiemblo ante ellos. Y si es licito, ahora mismo ya -y aunque no sea lícito también- voy a cagar.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Déjate de bromas y no hagas lo que esos malditos comediantes; estáte quieto y callado, pues un nutrido enjambre de diosas se aproxima cantando.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORO.</hi> <hi rend="italic">(No visible aún.)</hi>
+               </p>
+               <p rend="italic">Doncellas portadoras de la lluvia,</p>
+               <p rend="italic">vayamos a la espléndida tierra de Palas, para contemplar</p>
+               <p rend="italic">el muy deseable país de Cécrope, rico en hombres</p>
+               <p rend="italic">valerosos;</p>
+               <p rend="italic">lugar sagrado de ritos indecibles, donde</p>
+               <p rend="italic">un santuario que acoge a los iniciados</p>
+               <p rend="italic">abre sus puertas en los Sagrados Misterios.</p>
+               <p rend="italic">Allí se brindan presentes a los dioses celestiales,</p>
+               <p rend="italic">templos hay de elevado techo, estatuas,</p>
+               <p rend="italic">procesiones sacratísimas de los bienaventurados,</p>
+               <p rend="italic">sacrificios y fiestas a los dioses, con ornamento de coronas,</p>
+               <p rend="italic">en las estaciones más diversas,</p>
+               <p rend="italic">y al llegar la primavera, el don de Bromio:</p>
+               <p rend="italic">la porfía de los coros melodiosos</p>
+               <p rend="italic">y la música de las flautas de grave sonido.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Por Zeus te lo pido, Sócrates, dime quiénes son las que entonan ese canto tan solemne. ¿No son alguna clase de heroínas, verdad?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Nada de eso. Son las Nubes celestiales, grandes diosas para los hombres inactivos, que nos facilitan el pensamiento, la dialéctica, la inteligencia, la expresión de invenciones novedosas, el circunloquio, el desconcertar al auditorio y el tenerlo a raya </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces, por eso, al oírlas, mi alma ha remontado el vuelo y está deseando ya hablar sutilmente y decir finuras sobre el humo, rebatir una sentencia con una sentencilla sutil y oponerse a un argumento con el argumento contrario. Así que, si puede ser, quiero verlas ya a las claras.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pues mira por este lado, en dirección al monte Parnes, que ya las diviso descendiendo lentamente.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> A ver, ¿por dónde? Señálamelo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Por ahí </p>
+               <p rend="justify">
+                  <hi rend="italic">(Señalando a un lado)</hi> </p>
+               <p rend="justify">viene un gran número de ellas atravesando navas y bosques, por ahí, por ese lado.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Mirando en la dirección indicada.) </hi>
+               </p>
+               <p rend="justify">¿Qué, qué? Yo no las veo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Allí, junto a la entrada lateral.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, ahora ya, por donde dices, empiezo a verlas. </p>
+               <p rend="italic">(Entra el coro de nubes, representadas por mujeres.)</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Ahora ya no tienes más remedio que verlas, a no ser que tengas unas legañas tan grandes como calabazas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, por Zeus. ¡Oh venerables! Ya ocupan todo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Y la verdad es que no sabías que son diosas, ni creías en ellas?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Desde luego que no, por Zeus. Yo las tomaba por niebla, rocío y vapor.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Por Zeus, es que no sabes que ellas apacientan a muchísimos «listillos», adivinos de Turios, profesores de medicina, gandules melenudos con sellos de ónice. Y a los moduladores de canciones de los coros ditirámbicos, embaucadores aéreos, a esos seres ociosos que nada hacen, los apacientan porque componen poesías para ellas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces por eso componen aquello de «ímpetu destructor de las húmedas nubes que culebrea resplandeciente», «mechones de Tifón» «de cien cabezas», «tempestades de violento fuelle» y también «aéreos seres húmedos, aves de curvas garras que se mecen en el aire» y «aguaceros de las nubes llenas de rocío», y como recompensa por ello engullen filetes de opíparos y sabrosos mújeles, y «pajariles» carnes de zorzal.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Sí, por causa de ellas. Y con razón, ¿no?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> A ver, dime: si de verdad son nubes, ¿qué les ha pasado, que parecen mujeres mortales? Porque aquéllas de allí </p>
+               <p rend="italic">(Señala al cielo)</p>
+               <p rend="justify">no son así.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Bueno, pues, ¿cómo son?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No lo sé bien, pero se parecen a copos de lana esponjados y no a mujeres, ¡por Zeus!; eso, ni una pizca. En cambio, éstas de aquí tienen nariz.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> A ver, contéstame a lo que voy a preguntarte.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Di lo que quieras, sin más.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Alguna vez, al mirar para arriba, ¿has visto una nube parecida a un centauro, a un leopardo, a un lobo o a un toro?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, por Zeus. Y eso, ¿qué?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Se convierten en todo lo que quieren. Así que si ven a un melenudo, un bruto de esos muy velludos, como el hijo de Jenofanto, para burlarse de su pasión adoptan la forma de centauros.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Y si ven a un ladrón del erario público, a Simón, ¿qué hacen?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Para proclamar su condición se convierten de golpe y porrazo en lobos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Claro, por eso ayer, al ver ellas a Cleónimo el arrojaescudos, como le echaron la vista encima a un tío tan cobarde, se convirtieron en ciervos.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Y ahora, como han visto a Clistenes, ¿ves tú?, por eso se han convertido en mujeres.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> </p>
+               <p rend="italic">(Al CORO.)</p>
+               <p rend="justify"> ¡Bienvenidas, entonces, señoras! Y ahora, si alguna vez lo hicisteis para otro, reinas todopoderosas, emitid también para mí vuestra voz tan descomunal como el propio cielo.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORO.</hi> ¡Salud, anciano cargado de años, cazador de palabras artísticas!, y tú </p>
+               <p rend="italic">(A SÓCRATES),</p>
+               <p rend="justify"> ¡sacerdote de las naderías más sutiles!, explícanos lo que quieres. Pues a ningún otro de los eruditos de hoy en día en temas celestes atenderíamos, excepto a Pródico: a él, por su sabiduría y su inteligencia, y a ti, porque caminas con paso arrogante por las calles, lanzas miradas de reojo, soportas descalzo muchas cosas desagradables y presumes a costa nuestra.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Oh Tierra, qué voz!, ¡qué sagrada, venerable y portentosa!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Es que verdaderamente éstas son las únicas diosas. Todo lo demás son pamplinas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pero Zeus, según vosotros, a ver, por la Tierra. ¿Zeus Olímpico, no es un dios?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Qué Zeus? No digas tonterías. Zeus ni siquiera existe.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pero, ¿tú qué dices? Pues, ¿quién hace llover? Esto, acláramelo antes de nada.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Ésas, claro! Y te lo demostraré con pruebas de gran peso. A ver: ¿dónde has visto tú que alguna vez llueva sin nubes? Sin embargo, lo que tendría que ser es que él hiciera llover con el cielo despejado y que éstas estuvieran ausentes.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Por Apolo!, con lo que acabas de decir le has dado un buen apoyo al asunto éste. Y la cosa es que yo antes creía a pies juntillas que Zeus orinaba a través de una criba. Pero explícame quién es el que produce los truenos, eso que me hace a mí temblar de miedo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Éstas producen los truenos al ser empujadas por todas partes.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> A ver, a ti que no se te pone nada por delante: ¿cómo?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Cuando se saturan de agua y por necesidad son forzadas a moverse, como están llenas de lluvia necesariamente son impulsadas hacia abajo; entonces, chocan unas contra otras y, como pesan mucho, se rompen con gran estrépito.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pero el que las obliga a moverse, ¿quién es? ¿No es Zeus?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Ni mucho menos; es un torbellino etéreo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Torbellino? No me había dado cuenta de eso, de que Zeus no existe y de que en su lugar reina ahora Torbellinos. Pero aún no me has explicado nada del estruendo y del trueno.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿No me has oído? Las nubes, al estar llenas de agua, te digo que chocan unas con otras y hacen ruido porque son muy densas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Vamos a ver: eso, ¿quién se lo va a creer?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Te lo voy a explicar poniéndote a ti como ejemplo. En las Panateneas, cuando ya estás harto de sopa de carne, ¿no se te revuelven las tripas y de pronto se produce un movimiento en ellas que empieza a pro­ducir borborigmos?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, por Apolo, y al momento provoca un jaleo horrible <hi rend="italic">y </hi>un alboroto; <hi rend="italic">y </hi>la dichosa sopa produce un ruido y un estruendo tremendo, como un trueno; primero flojito, «papax, papax», después más fuerte «papapapax», y cuando cago, talmente un trueno, «pa­papapax», como hacen ellas.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pues fíjate qué pedos tan grandes han salido de ese vientre tan pequeño. Y el aire éste, que es infini­to, ¿cómo no va a ser natural que produzca truenos tan grandes?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Por eso incluso los nombres de las dos cosas, «trueno» y «pedo», son parecidos. Otra cosa: el rayo con su fuego brillante, ¿de dónde viene -explícamelo-, el rayo que, cuando nos atiza, a unos los achicharra, y a otros los chamusca dejándolos vivos? Pues está claro que Zeus lo lanza sobre los perjuros.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Tú, ¡imbécil, chapado a la antigua, que hueles a tiempos de Crono!, ¿cómo es que, si fulmina a los perjuros, no abrasó a Simón, a Cleónimo ni a Teoro?, y desde luego que son perjuros. Sin embargo, fulmina su propio templo, y Sunio, «promontorio de Atenas», <hi rend="italic">y </hi>las grandes encinas: <hi rend="italic">y </hi>eso, ¿por qué? Pues claro está que la encina no es perjura.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No sé. Pero lo que dices tiene visos de verdad. Bueno, pues ¿qué es exactamente el rayo?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Cuando un viento seco al elevarse queda encerrado en las nubes, las infla desde dentro como a una vejiga, y después necesariamente las rompe, y sale disparado violentamente por causa de la densidad, y por el roce y el ímpetu del movimiento se incendia a sí mismo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Por Zeus, a mí una vez me pasó exactamente lo mismo en las Diasias. Yo estaba asando un estómago para mis parientes, pero, por descuido no lo rajé. Entonces se fue hinchando, y después, de golpe, explotó, llenándome de mierda los ojos y quemándome la cara.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> ¡Humano que deseas de nosotras la elevada sabiduría!, ¡qué dichoso llegarás a ser entre los atenienses y entre los griegos todos!: si tienes buena memoria, eres capaz de pensar, y en tu alma reside la fortaleza; si no te fatigas al estar de pie ni al caminar, si no te molesta en exceso pasar frío ni estás demasiado ansioso por el de­sayuno, si prescindes del vino de los ejercicios gimnásticos <hi rend="italic">y </hi>de los demás disparates, <hi rend="italic">y </hi>si consideras que lo mejor es lo que cuadra a un hombre inteligente vencer en la actuación y en la deliberación, así como en las porfías de la lengua.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues lo que es por tener un alma dura, un pensamiento que se mantiene despierto en la cama, y un estómago ahorrador, hecho a las privaciones y que se apañe con ajedrea a la hora de la comida, descuida, por todo ello yo podría sin miedo ofrecerme para servirte de yunque.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Así que desde luego ya no considerarás dios a ningún otro que a los que nosotros consideramos: el Vacío que nos rodea, las Nubes y la Lengua, esos tres?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Ni siquiera hablaría con los demás dioses ni lo más mínimo, aunque me topara con ellos; ni les haría sacrificios, ni vertería libaciones, ni pondría incienso en sus altares.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Así pues, dinos, sin miedo, qué hemos de hacer por ti. Pues no dejarás de conseguirlo en caso de que nos respetes y nos veneres, y al mismo tiempo trates de ser avispado.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES</hi>. Señoras, os pido entonces esta insignificancia: que yo sea, por cien estadios de distancia, el que mejor discursee de todos los griegos.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Pues eso lo obtendrás de nosotras, hasta tal punto que, de cara al futuro y desde este mismo momento, nadie en la Asamblea hará prosperar mayor número de mociones que tú</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No hagáis que proponga mociones importantes, que no quiero eso; quiero solamente volver la justicia en mi provecho y escurrirme de mis acreedores.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Entonces conseguirás lo que deseas, pues tus aspiraciones no son grandes. Ea, ponte sin miedo en manos de nuestros ministros.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Tal haré, confiando en vosotras, pues la necesidad me apremia por culpa de los caballos marcados con la «coppa» y del matrimonio que me hizo polvo. Así pues, ahora, para todo lo que quieran hacerme, les entrego a ellos este cuerpo mío, para recibir golpes, pasar hambre, sed, estar roñoso, sufrir un frío terrible o ser desollado para convertirme en odre; todo, siempre que yo me vea libre de las deudas, y a los hombres dé la impresión de ser osado, hábil de lengua, atrevido, caradura, repugnante, urdidor de mentiras, de palabra pronta, muy ducho en pleitos, un código de leyes ambulante, una castañuela, un zorro, el ojo de una aguja, un tipo flexible como el cuero, un hipócrita, un tío pegajoso, un farsante, un bribón que merece pálos, un hijo de perra, un tipo retorcido, un incordio, un hombre al que no se le escapa nada. Si me han de llamar esas cosas los que se topen conmigo, hagan de mí estos ministros todo lo que gusten. Y si quieren, por Deméter, que me sirvan convertido en salchichas a los caviladores.</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">El temple arrogante de este individuo no está falto</p>
+               <p rend="italic">de audacia, sino dispuesto a todo.</p>
+               <p rend="justify">(A ESTREPSÍADES.) </p>
+               <p rend="italic">Ten por seguro que si aprendes de mí</p>
+               <p rend="italic">estas cosas, una fama que llegará al cielo</p>
+               <p rend="italic">tendrás entre los mortales.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué me pasará?</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Junto a mí llevarás, para siempre,</p>
+               <p rend="italic">la existencia más envidiable de todas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Acaso entonces yo he de ver con eso algún día?</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Sí, tanto que a tu puerta se sentará siempre mucha gente, deseosa de comunicarse contigo y entablar diálogo para consultarte asuntos y pleitos de muchos talentos, materias dignas de tu caletre.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> <hi rend="italic">(A </hi>SÓCRATES.)</p>
+               <p rend="justify">Tú trata de impartir al viejo las enseñanzas previas que tengas intención de darle; agita su mente y pon a prueba su inteligencia.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> <hi rend="italic">(A </hi>ESTREPSÍADES.)</p>
+               <p rend="justify">A ver, tú, descríbeme tu carácter, para que, conociendo cómo es, sobre esa base pueda yo aplicar contra ti nuevos ingenios.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cómo? Por los dioses; ¿es que intentas sitiarme?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> No, lo que quiero es enterarme de algunos detalles sobre tu persona, como, por ejemplo, si tienes buena memoria.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Se comporta de dos maneras, por Zeus. Cuando se me debe algo tengo muy buena memoria, pero cuando yo, pobre de mí, soy el deudor, me vuelvo muy olvidadizo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> A ver, ¿tienes dotes para discursear?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Para discursear, no; pero para estafar, sí.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pues así, ¿cómo podrás aprender?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Descuida, lo haré bien.</p>
+               <p rend="justify">SÓCRATES. Pues ándate listo para que cuando yo lance algunas enseñanzas sabias sobre las cosas celestes, tú las cojas al vuelo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pero, ¿cómo? ¿Tengo que comerme la sabiduría como un perro?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Este hombre es un ignorante y un bárbaro. Anciano, me temo que necesita unos palos. A ver ¿qué haces si alguien te pega?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Recibo los golpes, y, después, espero un poco y reúno testigos; después otra vez dejo pasar un momento, y pongo un pleito.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Venga, deja ahí tu capa.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿He hecho algo malo?.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> No, es que es costumbre entrar desnudo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pero si yo no voy a entrara llevarme objetos robados.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Déjala ahí, ¿qué tonterías andas diciendo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Se quita la capa.)</hi>
+               </p>
+               <p rend="justify"> Bueno, pues dime: en caso de que yo esté atento y aprenda con gana, ¿a cuál de tus discípulos llegaré a parecerme?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Tus características no se van a distinguir nada de las de Querefonte.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay<hi rend="italic">, </hi>pobre mí! ¡Voya ser medio cadáver!.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿No dejarás de decir bobadas y vendrás de una vez conmigo aquí dentro, deprisa?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues ponme primero en las manos un pastel de miel, que tengo miedo de bajar ahí dentro como si fuera la cueva de Trofonio.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Venga, ¿por qué te paras a escudriñar junto a la puerta? </p>
+               <p rend="italic">(Ambos entran en el caviladero.)</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Entra con buen pie</p>
+               <p rend="italic">por causa de tu valor.</p>
+               <p rend="italic">Que la buena fortuna acompañe</p>
+               <p rend="italic">a este humano, pues, siendo ya</p>
+               <p rend="italic">de avanzada edad,</p>
+               <p rend="italic">impregna su naturaleza</p>
+               <p rend="italic">de ideas novedosas</p>
+               <p rend="italic">y se dedica a la sabiduría.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Espectadores, con franqueza os expondré toda la verdad, ¡por Dioniso que me ha sustentado desde antiguo! Que no sea yo el vencedor ni me tengan por sabio si no es verdad que yo, por consideraros a vosotros espectadores inteligentes y creer que ésta era la mejor de mis comedias, juzgué apropiado que vosotros fuerais los primeros en saborearla, siendo como ha sido la pieza que más trabajo me ha dado. Pero me tuve que retirar derrotado por hombres vulgares sin que yo mereciera eso.</p>
+               <p rend="justify">Así que os echo en cara esto a vosotros los instruidos, por quienes yo me tomé tanto trabajo. Pero ni aun así os traicionaré nunca voluntariamente, a vosotros los inteligentes. Pues desde el momento en que aquí mismo unos varones, a los que es agradable incluso mencionar, hablaron muy bien de mis dos muchachos, del reprimido y del maricón, y yo -como era todavía una joven soltera y no me era licito tener hijos­ expuse la criatura, y otra muchacha la recogió,<hi rend="sup"> </hi>y vosotros, por vuestra parte, la criasteis con generosidad, desde entonces tengo yo garantías seguras de vuestro juicio favorable.</p>
+               <p rend="justify">Así que ahora esta comedia, a la manera de aquella Electra, ha venido con ánimo de buscar, por si en alguna parte encuentra espectadores tan instruidos; pues reconocerá, si lo ve, el mechón de pelo de su hermano. Observad que es de condición humilde. En primer lugar, no ha venido trayendo cosido a su vestido un cuero colgando, rojo en la punta y grueso, para diversión de los niños, tampoco se burló de los calvos ni bailó el kordax. Ni siquiera hay un personaje anciano que, llevando la voz cantante, golpee con su bastón a cualquiera que esté a su alcance, disimulando así los chistes desafortunados. No se lanzó esta pieza al escenario con antorchas, ni gritó «¡socorro, socorro!».</p>
+               <p rend="justify">Por el contrario, ésta ha venido confiando en sí misma y en sus versos. Y yo, sí, yo, siendo un poeta del mismo talante, no me doy tufo, ni trato de engañaros trayendo a escena dos y tres veces las mismas cosas. Muy al contrario, yo estrujo mis sesos para presentar en cada ocasión innovaciones, que en nada se parecen unas a otras, y son todas ellas ingeniosas.</p>
+               <p rend="justify">Yo, cuando Cleón era muy poderoso, le golpeé en el vientre, y no tuve la osadía de saltar sobre él cuando yacía derribado. En cambio, esos otros, en cuanto Hipérbolo les permitió hacer presa en él, golpean una y otra vez a ese individuo desdichado y también a su madre.</p>
+               <p rend="justify">En primerísimo lugar Éupolis llevó a rastras su <hi rend="italic">Maricás, </hi>haciendo un refrito de nuestros <hi rend="italic">Caballeros,</hi>tan mediocre como mediocre es él, añadiéndole además, por culpa del Kórdax, una vieja borracha, personaje que ha creado Frínico tiempo atrás, aquella a la que trataba de engullir el monstruo marino.</p>
+               <p rend="justify">Después también Hermipo compuso una pieza sobre Hipérbolo, y luego ya todos los demás van en masa contra Hipérbolo, imitando mis comparaciones con las anguilas. Así pues, el que se ría con las piezas de ésos, que no se deleite con las mías. Pero si disfrutáis conmigo y con mis hallazgos, en tiempos futuros os tendrán por gente de buen juicio.</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">De entre los dioses al que gobierna</p>
+               <p rend="italic">en las alturas, Zeus, gran señor,</p>
+               <p rend="italic">en primer lugar a mi danza convoco;</p>
+               <p rend="italic">y al muy poderoso Guardián del Tridente,</p>
+               <p rend="italic">el que estremece salvajemente</p>
+               <p rend="italic">la tierra y el salino mar.</p>
+               <p rend="italic">Y al de gran fama, nuestro padre,</p>
+               <p rend="italic">el Éter muy venerable, que a todos los seres alimenta.</p>
+               <p rend="italic">Y al Auriga, que con sus rayos</p>
+               <p rend="italic">muy brillantes abraza la llanura</p>
+               <p rend="italic">de la tierra, entre los dioses</p>
+               <p rend="italic">y entre los mortales divinidad poderosa.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO</hi>. ¡Inteligentes espectadores, prestad atención aquí! Pues por haber sido injustos con nosotras, os criticamos cara a cara. De todos los dioses somos las que más beneficiamos a vuestra ciudad, y sin embargo, somos las únicas a las que no ofrecéis sacrificios ni libaciones, y eso que velamos siempre sobre vosotros.</p>
+               <p rend="justify">Pues si se hace una expedición militar sin pizca de sentido, entonces tronamos o llovemos. Después, cuando al curtidor odiado por los dioses, a Paflagón, lo ibais a elegir general, nosotras arqueamos las cejas y armamos mucho estruendo: con el relámpago, un trueno rasgó el aire, la luna abandonó su curso, y el sol, replegando a toda prisa la mecha hacia su interior, afirmaba que no os alumbraría si Cleón era general.</p>
+               <p rend="justify">Y, sin embargo, elegisteis a ese individuo. Se dice que las malas decisiones son propias de esta ciudad, pero también que los errores que cometéis, los dioses los truecan en beneficios. Fácilmente os vamos a exponer que también eso os resultará conveniente: si declaráis a Cleón el cuervo culpable de cohecho y de robo, y después le apretáis el cuello con el cepo, aunque desde luego os habéis equivocado, de nuevo los asuntos volverán a la situación anterior, tomándose en muy provechosos para la ciudad.</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Junto a mí también tú, Febo,</p>
+               <p rend="italic">señor de Delos, que habitas Cinto,</p>
+               <p rend="italic">el peñasco de elevadísima cima:</p>
+               <p rend="italic">Y tú, la bienaventurada que habitas la morada</p>
+               <p rend="italic">rica en oro de Éfeso, en la cual las hijas</p>
+               <p rend="italic">de los lidios te veneran fervientemente.</p>
+               <p rend="italic">Y nuestra diosa local,</p>
+               <p rend="italic">la que maneja la égida, Atenea, protectora de la ciudad.</p>
+               <p rend="italic">Y el que posee el monte Parnaso,</p>
+               <p rend="italic">y brilla con antorchas</p>
+               <p rend="italic">descollando entre las bacantes délficas,</p>
+               <p rend="italic">Dioniso, amante de la fiesta.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Cuando estábamos dispuestas para emprender viaje hacia aquí, la Luna se encontró con nosotras y nos encargó, en primer lugar, saludar a los Atenienses y a sus aliados; nos dijo después que estaba enfadada, pues ha sufrido malos tratos, siendo así que ella os beneficia a todos vosotros, no con palabras, sino de manera patente.</p>
+               <p rend="justify">En primer lugar os ahorra no menos de una dracma al mes en antorchas; tanto es así que todos, cuando salis por la noche, decís: «Chico, no compres antorchas, que Selene ilumina lo suficiente». Afirma que también os beneficia en otras cosas; pero vosotros no lleváis nada bien la cuenta de los días, sino que los alborotáis de arriba a abajo, hasta el punto de que, según dice, los dioses la amenazan una y otra vez cuando se les defrauda una comida y se vuelven a casa sin haber tenido parte en la fiesta que les tocaba según el cómputo de los días.</p>
+               <p rend="justify">Resulta también que cuando toca ofrecer sacrificios, vosotros aplicáis torturas y os sentáis a juzgar, y muchas veces que nosotros los dioses practicamos el ayuno guardando luto por Memnón o Sarpedón, vosotros hacéis libaciones y os reís. Por esas razones, cuando Hipérbolo fue elegido por sorteo «recordador sagrado», nosotros los dioses le arrebatamos la corona<hi rend="sup">»</hi>, pues así se enterará mejor de que es preciso que los días de la vida se computen de acuerdo con la luna.</p>
+               <p rend="justify">(SÓCRATES <hi rend="italic">sale del caviladero.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Por Respiración, por Vacío, por Aire!, no he visto en parte alguna un hombre tan palurdo, tan falto de recursos, tan tonto y tan olvidadizo. Incluso tratando de aprender unas ideas de poca monta, las ha olvidado antes de llegar a aprenderlas. Sin embargo, voy a llamarlo aquí fuera a pleno día. </p>
+               <p rend="italic">(Llama hacia el caviladero.) </p>
+               <p rend="justify">¿Dónde está Estrepsíades? ¿Saldrás ya trayéndote la cama?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES</hi>. <hi rend="italic">(Al tiempo que sale trayendo una cama.) </hi>Es que no me dejan sacarla fuera las chinches.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Ponla en el suelo de una vez y presta atención.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Ya está.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES</hi> A ver, entre las cosas de las que nunca has recibido enseñanzas, ¿cuál quieres aprender ahora en primer lugar? Dime: ¿las medidas, las palabras o los ritmos?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Las medidas, desde luego; que el otro día un comerciante de harina me estafó dos quénices</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> No te estoy preguntando eso, sino qué medida consideras más hermosa, el trímetro o el tetrámetro</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES. </hi>Para mí ninguna es más importante que el «tetraquénice»</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Dices bobadas, hombre.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Haz una apuesta conmigo a que el «tetraquénice» no es un «tetrámetro».</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Vete al cuerno! ¡Qué bruto eres y qué duro de mollera! Pero quizá puedas aprender algo de los ritmos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿De qué me servirán los ritmos para ganarme el pan?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> En primer lugar, para que seas refinado en las reuniones, y distingas qué tipo de ritmo es enoplio y qué tipo es dactílico o digital.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿El digital? Por Zeus, ése lo conozco.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pues dilo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Antes, cuando yo era niño, era éste de aquí.</p>
+               <p rend="justify"> <hi rend="italic">(Levanta el dedo corazón</hi>
+                  <hi rend="sup"> </hi>)</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Eres un patán y un imbécil.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No, estúpido, es que de esas cosas no quiero aprender ninguna.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Entonces, ¿cuál?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Aquello otro, aquello; el argumento más injusto de todos.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pero tienes que aprender otras cosas antes que eso; por ejemplo, qué cuadrúpedos son propiamente masculinos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Yo bien conozco los cuadrúpedos masculinos, si no me he vuelto majareta: carnero, macho cabrío, toro, perro, ave</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES</hi>. ¿Y los femeninos?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Oveja, cabra, vaca, perra, ave.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Ves lo que te pasa? Llamas a la hembra ave, y al macho le llamas lo mismo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cómo, a ver?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Que cómo? Ave y ave.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Es verdad, por Posidón. Pues ¿cómo tengo que llamarles ahora?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> «Ava» a una, y al otro «avo».</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Ava? Muy bien, ¡por Aire! Tanto que sólo por esa enseñanza te llenaré de grano toda la «amasadero»</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Vaya , otra vez. Ése es otro ejemplo. Le llamas la «amasadero» en masculino, cuando es un femenino.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué dices? ¿Que yo le llamo «amasadero» en masculino?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Sí señor, como también a Cleónimo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cómo es eso? Dime.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES</hi>. Lo mismo vale para ti «amasadero» que Cleónimo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pero, tío, Cleónimo nunca tuvo amasadero, sino que amasaba con un mortero redondo<hi rend="sup"> </hi>Bueno, en lo sucesivo, ¿cómo debo llamarle?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Que cómo? «La amasadera», igual que dices «la Sóstrata»</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿La «amasadera», en femenino?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Bien dicho.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Y lo de antes ¿tendría que haber sido «Cleónima nunca tuvo amasadera»?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Además, tienes que aprender todavía qué nombres de persona son masculinos y cuáles son femeninos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Yo bien sé cuáles son femeninos.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pues dilo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Lisila, Filma, Clitágora, Demetria.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Y ¿qué nombres son masculinos?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Muchísimos: Filóxeno, Melesias, Aminias.</p>
+               <p rend="justify">
+                  <hi rend="bold">SOCRATES.</hi> Pero, imbécil, ésos no son masculinos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Para vosotros no son masculinos?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Nada de eso, porque si te encontraras con Aminias, ¿cómo le llamarías?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Que cómo? Así: ¡Oye, oye, Aminia!.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Ves? Le llamas mujer, <hi rend="italic">«la </hi>Aminia».</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Y no tengo razón, si ésa no ha hecho el servicio militar? Pero, ¿por qué tengo que aprender esas cosas que todo el mundo sabe?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Déjalo, ¡por Zeus! <hi rend="italic">(Señalando la cama.) </hi>
+               </p>
+               <p rend="justify">Ahora échate aquí y…</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué hago?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Imagínate alguno de tus asuntos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡No, por favor, ahí no! Si no me queda otro remedio, deja que los imagine en el suelo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> No hay otra salida más que ésa.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Echándose en la cama.) </hi>
+               </p>
+               <p rend="justify">¡Ay,pobre de mí! ¡Qué condena voy a pagar a las chinches en el día de hoy!</p>
+               <p rend="justify">(SÓCRATES <hi rend="italic">entra en su casa.)</hi>
+               </p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Ahora piensa y examina con perspicacia,</p>
+               <p rend="italic">contorsiónate de todas las maneras</p>
+               <p rend="italic">y repliégate sobre ti mismo</p>
+               <p rend="italic">Y rápidamente, cuando caigas en un callejón sin salida,</p>
+               <p rend="italic">salta hacia otra idea de tu mente.</p>
+               <p rend="italic">Y que el sueño, dulcísimo para el ánimo,</p>
+               <p rend="italic">se aleje de tus ojos…</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay, ay, ay, ay!</p>
+               <p rend="justify">
+                  <hi rend="bold">CORO. </hi>¿Qué te pasa? ¿Qué te duele?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Me muero, ¡pobre de mí!</p>
+               <p rend="justify">De la cama salen sigilosamente para morderme los corintios:</p>
+               <p rend="justify">los costados me devoran,</p>
+               <p rend="justify">la sangre me chupan,</p>
+               <p rend="justify">las pelotas me arrancan,</p>
+               <p rend="justify">el culo me atraviesan,</p>
+               <p rend="justify">¡la vida me quitarán!</p>
+               <p rend="justify">
+                  <hi rend="bold">CORO.</hi> No te lo tomes tan a mal.</p>
+               <p rend="bold">ESTREPSÍADES.</p>
+               <p rend="justify">¿Cómo que no?,</p>
+               <p rend="justify">si se me ha ido el dinero,</p>
+               <p rend="justify">se me ha ido el color de la piel,</p>
+               <p rend="justify">se me ha ido la sangre de las venas,</p>
+               <p rend="justify">y se me han ido las zapatillas,</p>
+               <p rend="justify">y, para colmo de desgracias,</p>
+               <p rend="justify">aquí estoy papando moscas <ref target="http://www.cayocesarcaligula.com.ar/grecolatinos/aristofanes/las_nubes/las_nubes1.html#123b">
+                     <hi rend="sub bold">,</hi>
+                  </ref>
+               </p>
+               <p rend="justify">a punto de irme a paseo yo también.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id_main4.xml#heading_id_2"/>Parte 2<lb/>Segundo acto<ptr type="bookmark-end" target="#id_main4.xml#heading_id_2"/>
+               </head>
+               <p rend="justify"> </p>
+               <p rend="justify">
+                  <hi rend="italic">(Llega </hi>SÓCRATES.)</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Tú!, ¿qué haces? ¿No estás pensando?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, por Posidón.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Y, ¿qué has pensado?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Si en manos de las chinches quedará algo de mí.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Que te parta un rayo! </p>
+               <p rend="italic">(Vuelve a entrar en su casa.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Partido estoy ya, hombre.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> No flaquees; ahora tienes que cubrirte, pues has de discurrir un pensamiento estafador, un subterfugio.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Pobre de mí!, ¿quién podría echarme encima, en vez de pieles de cordero… una idea estafadora?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> <hi rend="italic">(Saliendo de su casa.)</hi>
+               </p>
+               <p rend="justify"> Hale, en primer lugar voy a ver qué hace éste. Oye, ¿estás durmiendo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No, por Apolo,no, no.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Tienes ya algo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Por Zeus, no tengo nada.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Nada en absoluto?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Nada, a no ser el cipote en mi mano derecha.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Novas a cubrirte la cabeza y a pensar algo a toda prisa?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Sobre qué? Dímelo tú, Sócrates.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Di tú mismo lo que quieres discurrir en primer lugar.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Has oído ya mil veces lo que yo quiero. Lo de los intereses, para no pagárselos a nadie.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Bien, pues cúbrete, desmenuza tu pensamiento, y dale vueltas al asunto cosa por cosa, analizando e investigando correctamente.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay,pobre de mí!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Estáte quieto; y si con alguno de los pensamientos no sabes seguir adelante, déjalo <hi rend="italic">y </hi>márchate, <hi rend="italic">y </hi>después dale vuelta otra vez con tu cabeza y sopésalo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Sale de la cama después de un momento.) </hi>
+               </p>
+               <p rend="justify">¡Queridísimo Socratillo!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Qué hay, viejo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Tengo una idea estafadora de los intereses.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Explícala.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues, dime…</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Qué?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Si yo comprara una hechicera tesalia y bajara de noche la luna, la encerrara en una caja redonda, como se guarda un espejo, y la vigilara estrechamente…</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Y,¿qué provecho ibas a sacar tú de eso?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Que cuál? Si la luna ya no saliera nunca mas en ninguna parte, yo no tendría que pagar los intereses.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Por qué motivo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Porque el dinero se presta a interés mensual.</p>
+               <p rend="justify">
+                  <hi rend="bold">SOCRATES.</hi> Muy bien. Ahora te voy a proponer otro asunto de astucia. Si se dictara contra ti una sentencia de cinco talentos, dime cómo podrías invalidarla.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Pensando.) </hi>
+               </p>
+               <p rend="justify">¿Cómo?, ¿cómo? No sé. Hay que estudiarlo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> No hagas girar siempre tu pensamiento alrededor de ti mismo; más bien deja que vuelen por el aire tus ideas, como un abejorro atado por la pata con un cordel <hi rend="sup">.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Ya he encontrado un medio astutísimo de invalidar la sentencia, tanto que tú vas a estar de acuerdo conmigo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Cuál es?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Tú, desde luego, has visto en las droguerías la piedra esa que es muy bonita y transparente, con la que se enciende el fuego?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¿Te refieres al cristal?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Exactamente. A ver, ¿qué tal si yo cogiera una y cuando el secretario hiciera inscribir mi sentencia en la tablilla, yo, poniéndome un poco lejos, así, por el lado que diera el sol, hiciera que se fundieran las palabras de mi sentencia?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Astuto, sí, ¡por las Gracias!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ajajá! ¡Qué contento estoy de haber conseguido borrar una sentencia de cinco talentos!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Hala, a ver si pillas esto deprisa.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿El qué?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Cómo rebatirías una acusación en contra tuya si estuvieras a punto de perder el pleito y no tuvieras testigos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Elemental y facilísimo.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Pues dilo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Ahí va: si yo, mientras aún estuviera en trámite otro pleito, antes de que citaran el mío, fuera corriendo y me ahorcara.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Qué tonterías dices!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Nada de eso, ¡por los dioses!, pues nadie me llevará a juicio si estoy muerto.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Estás desbarrando. Lárgate. Ya no te voy a enseñar más.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Por qué? Sí, Sócrates, ¡por los dioses!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Pero si se te olvida al momento cualquier cosa que aprendes! A ver, ¿qué fue lo primero que te enseñaron ahora mismo? ¡Habla!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> A ver, a ver, ¿qué era lo primero, qué era lo primero? ¿Qué pieza era aquella en la que se amasa la harina? Pobre de mí, ¿cuál era?</p>
+               <p rend="justify">
+                  <hi rend="bold">SOCRATES.</hi> Vete a freír espárragos, muérete, viejo torpe que te olvidas de todo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay, ay! ¿Qué va a ser de mí, desgraciado? Porque será mi perdición si no aprendo a manejar la lengua. Vosotras, Nubes, aconsejadme algo bueno.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Nosotras, anciano, te aconsejamos que si tienes un hijo ya crecidito, lo envíes para que aprenda en tu lugar.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Yo sí que tengo un hijo que es un perfecto caballero, pero, como no quiere venir a aprender, ¿qué voy a hacer yo?</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> ¿Y tú lo consientes?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Claro, porque es fuerte <hi rend="italic">y </hi>robusto, <hi rend="italic">y </hi>procede de una estirpe de mujeres de altos vuelos, la familia de Cesira. Pero voy a ir a buscarlo y, si se niega, de todas todas lo echaré de mi casa. <hi rend="italic">(A</hi> SOCRATES.)</p>
+               <p rend="justify">Entra y espérame un poco.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORO.</hi> (Mientras ESTREPSÍADES entra en su casa)</p>
+               <p rend="italic">¿Te das cuenta de que sólo por nosotras, las únicas</p>
+               <p rend="italic">de todos los dioses, obtendrás en seguida</p>
+               <p rend="italic">muchos beneficios? Pues éste está dispuesto</p>
+               <p rend="italic">a hacer todo lo que le ordenes.</p>
+               <p rend="justify">
+                  <hi rend="italic">(A </hi>SÓCRATES, <hi rend="italic">al tiempo que éste entra en el caviladero.)</hi>
+               </p>
+               <p rend="italic">Y tú, sabiendo que el hombre está majareta</p>
+               <p rend="italic">y se encuentra muy exaltado,</p>
+               <p rend="italic">chuparás todo lo más que puedas</p>
+               <p rend="italic">en seguida; pues las cosas de este estilo suelen tener</p>
+               <p rend="italic">resultados distintos de los esperados.</p>
+               <p rend="justify">
+                  <hi rend="italic">(Salen de su casa </hi>ESTREPSÍADES <hi rend="italic">y </hi>FIDÍPIDES.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Por Niebla!, no te quedarás más tiempo aquí. Ve y cómete las columnas de Megacles</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Padre, ¿qué te pasa, hombre? Tú no estás en tus cabales, ¡por Zeus Olímpico!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Ves, ves?, ¡Zeus Olímpico! ¡Qué necedad! ¡Creer en Zeus, a tu edad!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y por qué te ríes así, a ver?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Porque me doy cuenta de que eres un crío y de que tus ideas son anticuadas. Sin embargo, acércate, para que amplíes tus conocimientos, pues voy a decirte una cosa que, cuando la hayas aprendido, serás todo un hombre. ¡Pero no se lo digas a nadie!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> <hi rend="italic">(Se acerca a su padre.) </hi>
+               </p>
+               <p rend="justify">Ya estoy aquí. ¿De qué se trata?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Has jurado hace un momento por Zeus.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Sí.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Pues ves qué bueno es aprender? <hi rend="italic">No </hi>existe Zeus, Fidípides.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Entonces, ¿quién hay?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Gobierna Torbellino, que ha expulsado a Zeus.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Pero, bueno, ¿qué tonterías dices?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Que te conste que es así.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Quién lo dice?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sócrates el Melio, y<hi rend="sup"> </hi>Querefonte, que conoce bien las pisadas <hi rend="sup"> </hi>de las pulgas.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y tú estás ya tan chalado que haces caso a unos hombres biliosos? .</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Calla la boca, y no calumnies a unos hombres ingeniosos y sensatos. Por ahorrar, ninguno de ellos se corta nunca el pelo, ni se unge el cuerpo, ni va a los baños a lavarse <hi rend="sup"> </hi>Tú, en cambio, despilfarras mi hacienda en baños como si yo estuviera muerto. Anda, ve a toda prisa y aprende tú en mi lugar.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Pero, ¿qué de bueno se puede aprender de esos hombres?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿En serio? Todo lo que en la humanidad hay de sabiduría. Además, te darás cuenta de qué ignorante y lerdo eres. Hala, espérame aquí un poco.</p>
+               <p rend="italic">(Entra en su casa.)</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¡Pobre de mí!, ¿qué voy a hacer, si mi padre está loco? ¿Lo haré comparecer ante el tribunal para que lo declaren incapaz, o comunicaré su demencia a los fabricantes de ataúdes?</p>
+               <p rend="justify">
+                  <hi rend="italic">(Sale </hi>ESTREPSÍADES <hi rend="italic">de su casa con un esclavo que trae un gallo y una gallina.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> A ver: tú, ¿cómo sueles llamar a éste? Di.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Ave.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Bien; ¿y a ésta, cómo?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Ave.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿A los dos lo mismo? Haces el ridículo. No les llames más de esa manera, sino que tienes que llamar a ésta, «ava», y a este otro, «avo».</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Ava? ¿Éstas son las cosas ingeniosas que acabas de aprender ahí dentro, en casa de los «hijos de la tierra»?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Y otras muchas. Pero cada vez que aprendía algo, se me olvidaba en seguida por mis muchos años.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y también por eso es por lo que perdiste la capa?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No la he perdido: la he gastado en pensamientos.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y en qué has empleado tus zapatillas, insensato?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Como Pericles, las perdí «por pura necesidad». Pero venga, camina; vamos. </p>
+               <p rend="italic">(Se dirigen hacia el caviladero.) </p>
+               <p rend="justify">Ahora, hazle caso a tu padre y pórtate mal. También a mí me consta que una vez, cuando tú eras un crío balbuceante de seis años, te hice caso: con el primer óbolo que gané como jurado, te compré un carrito, en las Diasias.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Seguro que con el tiempo vas a lamentar esto. </p>
+               <p rend="italic">(Va con su padre hacia el caviladero.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Muy bien, que me has hecho caso! ¡Oye, oye, Sócrates, sal aquí! </p>
+               <p rend="justify">
+                  <hi rend="italic">(Sale </hi>SÓCRATES.)</p>
+               <p rend="justify">Aquí te traigo a mi hijo; ya lo he convencido, que él no quería.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Es que todavía es un crío y no ha gastado su vida en las cuerdas y colgaduras de aquí.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Tú sí que resultarías una capa gastada si te colgaran .</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿No te irás a freír espárragos? ¿Cómo es que insultas a tu maestro?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Mira, «colgaran». ¡De qué manera tan infantil lo ha pronunciado, con los labios separados! ¿Cómo va a aprender éste la defensa en los tribunales, la citación o la persuasión altisonante? Y la verdad es que Hipérbolo las aprendió por un talento.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No te preocupes, enséñale. Es ingenioso de nacimiento. Cuando era un niño así de pequeño, en casa modelaba en arcilla casitas, tallaba barcos, construía carritos de madera de higuera y hacía ranas de cáscaras de granada, no te imaginas cómo. Y mira que aprenda aquellos dos argumentos, el Mejor, sea como sea, <hi rend="italic">y </hi>el Peor, el que defiende causas injustas <hi rend="italic">y </hi>da al traste con el Mejor; y si no los dos, por lo menos el injusto, de todas todas.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Él va a aprender directamente de los propios argumentos. Yo estaré ausente.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Mientras </hi>SÓCRATES <hi rend="italic">se va.) </hi>
+               </p>
+               <p rend="justify">Recuerda esto, que él pueda rebatir cualquier demanda justa.</p>
+               <p rend="justify">
+                  <hi rend="italic">(El </hi>ARGUMENTO MEJOR <hi rend="italic">sale del caviladero)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> (Al ARGUMENTO PEOR, <hi rend="italic">que está dentro.) </hi>
+               </p>
+               <p rend="justify">Ven aquí déjate ver por los espectadores -aunque audacia tienes de sobra.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> <hi rend="italic">(Al tiempo que hace su aparición.)</hi>
+               </p>
+               <p rend="justify"> Vete a donde quieras, pues seguro que hablando en público acabaré contigo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> ¿Tú, acabar conmigo? ¿Y quién eres tú?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Un argumento.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Sí,pero un argumento peor.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Pero te voy a vencer a ti que presumes de ser mejor que yo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR</hi> ¿Valiéndote de qué astucia?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Inventando nuevas máximas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> <hi rend="italic">Sí, </hi>eso es lo que se lleva ahora, gracias a estos idiotas </p>
+               <p rend="italic">(Señalando al público).</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> No, que son inteligentes.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Acabaré contigo de mala manera.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Di: ¿haciendo qué?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Presentando lo que es justo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Yo lo echaré abajo rebatiéndolo. Pues afirmo que la justicia ni siquiera existe.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> ¿Que no existe, dices?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Pues, a ver: ¿dónde está?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Junto a los dioses.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Y si la justicia existe, ¿cómo es que Zeus no pereció por haber hecho prisionero a su padre?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> ¡Uy, uy, esto va de mal en peor! Dame la palangana.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Eres un viejo lleno de tufos y no estás al día.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Eres un maricón desvergonzado…</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Me estás echando rosas…</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> … un bufón…</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR</hi>… . y me coronas de lilas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR</hi>… . y eres de los que pegan a su padre.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> No te das cuenta de que me estás rociando de oro.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Desde luego, antes no era oro, sino plomo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Ahora, sin embargo, eso es para mí un elogio.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Eres un cara.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Y tú, un carca.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Por tu culpa, ninguno de los jóvenes quiere ir a la escuela, y llegará el día en que los atenienses sepan a ciencia cierta qué clase de cosas les estás enseñando a ellos, los muy imbéciles.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Estás de un sucio que da asco.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Sin embargo, a ti te va muy bien, y eso que antes mendigabas, haciéndote pasar por Télefo el Misio, y mordisqueando máximas Pandeleteas<hi rend="sup"> </hi>que sacabas de tu morral</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> ¡Qué inteligencia…</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> ¡Qué locura…</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> … en lo que has dicho!</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> … la tuya, y la de la ciudad que te nutre mientras echas a perder a sus jóvenes!</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> No serás tú el que enseñe a éste, siendo como eres de la época de Crono</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Sí lo seré, si hay que salvarlo y evitar que se ejercite solamente en charlatanería.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> (A FIDÍPIDES.)</p>
+               <p rend="justify">Ven aquí y deja a ése con sus chaladuras.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Te arrepentirás si le pones las manos encima.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Dejad ya de pelear y de insultaros. Haznos tú </p>
+               <p rend="justify">
+                  <hi rend="italic">(Al </hi>MEJOR)</p>
+               <p rend="justify">una demostración de lo que enseñabas a los hombres de antes, y tú </p>
+               <p rend="justify">
+                  <hi rend="italic">(Al</hi> PEOR),</p>
+               <p rend="justify">de la nueva educación, para que éste os oiga exponer vuestras razones contrapuestas, y vaya a la escuela que decida.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Eso es lo que quiero hacer.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> También yo quiero.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Pues hala, ¿cuál de los dos hablará primero?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Le cedo el privilegio a ése. Luego yo, basándome en lo que él diga, lo derribaré con disparos de palabritas y razonamientos nuevos. Finalmente, a la mínima cosa que diga, aguijoneado por todo el rostro y los ojos por mis sentencias, como por obra de avispones, a manos de ellas morirá.</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Ahora estos dos que confían</p>
+               <p rend="italic">en el superingenio de sus argumentos,</p>
+               <p rend="italic">de sus pensamientos, y de sus ideas</p>
+               <p rend="italic">acuñadoras de sentencias,</p>
+               <p rend="italic">nos harán ver cuál de ellos resultará</p>
+               <p rend="italic">ser el mejor. Está totalmente</p>
+               <p rend="italic">en juego la sabiduría,</p>
+               <p rend="italic">sobre la cual para mis amigos</p>
+               <p rend="italic">se presenta ahora el debate decisivo.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> <hi rend="italic">(Al</hi> ARGUMENTO MEJOR.)</p>
+               <p rend="justify">Tú que a los hombres de antes coronaste copiosamente con buenas costumbres, lanza esa voz tuya en la que te complaces y explica tu naturaleza.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Voy a exponer cómo era la antigua educación, cuando yo florecía con la justicia por delante, y el buen comportamiento era la práctica habitual.</p>
+               <p rend="justify">En primer lugar era de rigor que no se oyera ninguna voz de niño, ni siquiera un murmullo. Después, los muchachos del mismo barrio, para ir a casa del citarista, tenían que andar por las calles en grupo y con orden, y sin capa aunque cayeran copos de nieve como avena a medio moler.</p>
+               <p rend="justify">Éste, por su parte, les enseñaba a aprender de memoria una canción (cuidando de que no juntaran los muslos), una canción como «Palas, terrible destructora de ciudades»,o «Un grito que a lo lejos resuena», cantándola en el modo<hi rend="sup"> </hi>que sus padres transmitieron.</p>
+               <p rend="justify">Y si alguno de ellos hacía el payaso o realizaba alguna inflexión de voz como las que hacen los de ahora, esas florituras al estilo de Frinis, lo molían a palos por dejar en nada a las Musas <hi rend="sup"> </hi>Y cuando los muchachos se sentaban en casa del profesor de gimnasia, tenían que taparse con los muslos para que no enseñaran a los de fuera nada cruel.</p>
+               <p rend="justify">Después, al levantarse, tenían que borrar sus huellas, y ocuparse de no dejar a sus amantes la impronta de su hombría. Ningún chico podía untarse entonces aceite por debajo del ombligo, así que florecía sobre sus partes íntimas un tenue vello cubierto de rocío <hi rend="sup"> </hi>como en los membrillos; ni podía, al caminar, poner una voz aterciopelada a su amante y hacerle guiños para ofrecerse a sí mismo.</p>
+               <p rend="justify">Tampoco le estaba permitido echar mano de una cabeza de rábano al comer, ni picar el eneldo o el apio de sus mayores, ni tomar golosinas, ni reírse a hurtadillas, ni tener las piernas cruzadas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Antiguallas con olor a Dipolias, llenas de cigarras, de Cedides y de Bufonias.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Pero ésos son los procedimientos con los que mi educación formó a los hombres que lucharon en Maratón .<hi rend="sup"> </hi>En cambio, tú a los de ahora les enseñas a envolverse en la capa desde jovencitos, así que hacéis que yo me ahogue de rabia cuando, al llegar la ocasión de que bailen en las Panateneas, uno pone el escudo delante de su jamón, sin preocuparse de la Tritogenia.</p>
+               <p rend="justify">Por eso tú, muchacho, escógeme sin miedo a mí, el Argumento Mejor, y serás versado en odiar la plaza pública, en aborrecer los baños públicos, en avergonzarte de lo vergonzoso, en irritarte si alguien se burla de ti, en levantarte del asiento si se acercan tus mayores, en no portarte mal con tus propios padres ni hacer ninguna otra cosa reprobable que pueda [deshonrar] <hi rend="sup"> </hi>la estatua del Honor; y en no abalanzarte a casa de una bailarina, no vaya a ser que cuando te quedes pasmado ante cosas así, te dé con una manzana una putilla y veas tu buena fama hecha pedazos, y en no contradecir a tu padre en nada ni, llamándole Jápeto, echarle en cara sus años, esos años en los que tú fuiste criado como un pajarillo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Si le haces caso en eso, muchacho, por Dioniso que te parecerás a los hijos de Hipócrates, y te llamarán papamoscas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Así, con aspecto lozano y floreciente, emplearás el tiempo en ejercicios gimnásticos, y no charlando en la plaza pública de temas extravagantes y punzantes, como hacen los de ahora, ni viéndote arrastrado a juicio por un maldito asunto vicioso y controvertido; por el contrario, bajarás a la Academia<hi rend="sup"> </hi>y,<hi rend="sup"> </hi>bajo los olivos sagrados, echarás a correr, coronado de caña verde, con un buen colega de tu misma edad, y olerás a tejo, a despreocupación, y al álamo blanco, de hoja caduca, disfrutando en la estación primaveral, cuando el plátano susurra al olmo.</p>
+               <p rend="justify">Si haces esas cosas que te digo y dedicas tu atención a ellas, tendrás siempre el pecho lustroso, la piel brillante, los hombros grandes, la lengua corta, el culo grande, el cipote pequeño.</p>
+               <p rend="justify">En cambio, si practicas las mismas cosas que los de ahora, en primer lugar tendrás la piel pálida, los hombros pequeños, el pecho estrecho, la lengua larga, el culo pequeño, el jamón grande y la propuesta de decreto larga; y él te convencerá <hi rend="italic">(Señala </hi>a PEOR)</p>
+               <p rend="justify">de que consideres honesto todo lo que es ruin, y ruin lo que es honesto, y además de eso te contagiará el tomar por culo de Antímaco</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">¡Tú, que la excelsa sabiduría</p>
+               <p rend="italic">muy renombrada cultivas,</p>
+               <p rend="italic">cuán dulcemente en tus palabras</p>
+               <p rend="italic">se encuentra la flor de la virtud!</p>
+               <p rend="italic">Dichosos en verdad eran, desde luego,</p>
+               <p rend="italic">los que vivían entonces, en tiempo de los antepasados.</p>
+               <p rend="justify">(Al ARGUMENTO PEOR.)</p>
+               <p rend="italic">Frente a esto, tú, que posees una refinada inspiración,</p>
+               <p rend="italic">preciso es que digas algo novedoso,</p>
+               <p rend="italic">pues el hombre se ha ganado el aplauso.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Hábiles planes parece que necesitas contra él, si es que has de aventajar al hombre y no hacerte acreedor de la burla.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Desde hace rato me ahogaba yo en mis adentros de ganas de desbaratar todo eso con sentencias contrapuestas. Pues entre los hombres que discurren yo, precisamente por esto, recibí el nombre de Argumento Peor, porque fui el primerísimo al que se le ocurrió contradecir las costumbres establecidas y los litigios justos.</p>
+               <p rend="justify">(A FIDÍPIDES.)</p>
+               <p rend="justify">Y eso vale más que diez mil estáteres: que escoja los argumentos peores y que, encima, salga vencedor. Fíjate en cómo voy a refutar la educación de la que él es seguidor: éste dice en primer lugar que no te dejará bañarte en agua caliente.</p>
+               <p rend="justify">(Al ARGUMENTO MEJOR.)</p>
+               <p rend="justify">A ver, ¿con qué fundamento censuras los baños calientes?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Con el de que son algo muy propio de cobardes, y vuelven apocado al hombre.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Alto ahí, pues ya te tengo cogido por la cintura con una llave de la que no te puedes escapar. Así que, dime, de los hijos de Zeus, ¿qué hombre consideras que es el de espíritu más intrépido, di, y el que ha llevado a cabo los mayores trabajos?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Yo, a ningún hombre tengo por mejor que a Heracles.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Bueno, pues, ¿dónde has visto que alguna vez los «baños Heracleos» sean fríos? Y, a ver, ¿quién fue más viril que él?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Ésos, ésos son los asuntos en los que siempre los jóvenes están todo el día gastando palabras, y que hacen que estén llenos los baños públicos y vacías las palestras.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Después, condenas que pasen el tiempo en el Ágora; yo, sin embargo, lo elogio. Pues si fuera algo nocivo, jamás Homero habría pintado a Néstor como «agoreta», ni a los sabios todos. Desde ahí paso ahora a la lengua, que éste dice que los jóvenes no tienen que ejercitarla; en cambio, yo digo que sí. Y dice también que hay que ser buena persona. ¡Dos males grandísimos! Pues ¿a quién has visto tú que por ser buena persona le haya sucedido en alguna ocasión algo de provecho? Dilo, y llévame la contraria con mencionarlo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> A mucha gente. Peleo , por ejemplo, consiguió su cuchillo por ese motivo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> ¿Un cuchillo? ¡Qué ganancia tan especial consiguió el tío! Hipérbolo, en cambio, el del negocio de lámparas, ha conseguido muchísimos talentos por su falta de honradez, pero un cuchillo no, ¡por Zeus!, un cuchillo, no.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Además, Peleo se casó con Tetis por ser buena persona.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Y después ella lo abandonó y se marchó, pues él no era ardiente, y<hi rend="sup"> </hi>no resultaba atractivo para pasar en su compañía la noche entera entre las ropas de la cama: a la mujer le gusta que la traten con lascivia.</p>
+               <p rend="justify">Tú eres tan carcamal como Crono. Así que, tú, muchacho, mira todas las cosas que implica el ser buena persona, y de cuántos placeres vas a verte privado: jovenzuelos, mujeres, juego, manjares, bebidas, carcajadas.</p>
+               <p rend="justify">Y, ¿de qué te vale vivir si te ves privado de estas cosas? Bien, de aquí voy a pasar a las necesidades imperiosas de la naturaleza. Tuviste un desliz, te enamoraste, te liaste con una casada, y después te pillaron: estás perdido, pues no eres capaz de discursear.</p>
+               <p rend="justify">En cambio, si frecuentas mi trato, da rienda suelta a tu naturaleza, salta, ríete, no tengas nada por vergonzoso; pues si tienes la mala suerte de que te cojan en adulterio, responderás al marido así: que no has cometido nada malo. Después, echa la culpa a Zeus: que incluso aquél se deja vencer por el amor y las mujeres, y que tú, siendo mortal, ¿cómo podrías ser más fuerte que un dios?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR</hi> Y, ¿qué tal si por hacerte caso le meten un rábano por el culo y lo afeitan con la ceniza? <hi rend="sup">. </hi>¿Podrá argumentar algún razonamiento para evitar que lo manden a tomar por culo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Y en caso de que sea de los que toman por culo, ¿qué de malo le va a pasar?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Pues, ¿qué mal peor que ése le podría llegar a pasar?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Bien, ¿qué dirás si resultas vencido por mí en ese punto?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Me callaré, ¿qué otra cosa, si no?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Pues a ver, dime: los abogados, ¿de qué grupo son?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> De los que toman por culo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> De acuerdo. <hi rend="italic">A </hi>ver, y los trágicos, ¿de qué grupo son?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> De los que toman por culo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Bien dicho. Y los políticos, ¿de qué grupo son?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> De los que toman por culo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Luego, ¿te das cuenta de que lo que dices no vale nada? Además, de los espectadores mira a ver qué grupo es el más numeroso.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Ya estoy mirando.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Bueno, ¿qué ves?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> El más numeroso, con mucho, ¡por los dioses!, es el de los que toman por culo. Ése por lo menos sé que lo es, y aquél, y ese melenudo de ahí </p>
+               <p rend="italic">(Señalando).</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Bueno, ¿qué dices ahora?</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO MEJOR.</hi> Nos damos por vencidos. Eh, jodidos, coged mi capa, por los dioses, que me paso a vosotros. </p>
+               <p rend="italic">(Arroja la capa y entra en el caviladero.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> <hi rend="italic">(A </hi>ESTREPSÍADES)</p>
+               <p rend="justify">Qué, ¿quieres coger a este hijo tuyo y llevártelo, o te le enseño a discursear?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Enséñale y castígalo, y recuerda que tienes que dotármelo de una lengua bien afilada que por un lado sirva para pleitecillos; el otro lado de su mandíbula afílalo para asuntos de más envergadura.</p>
+               <p rend="justify">
+                  <hi rend="bold">ARGUMENTO PEOR.</hi> Descuida, te lo devolveré hecho un hábil sofista.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> <hi rend="italic">(Aparte.) </hi>
+               </p>
+               <p rend="justify">Más bien pálido, creo yo, <hi rend="italic">y </hi>hecho un desgraciado.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORO.</hi> <hi rend="italic">(A </hi>FIDÍPIDES y ARGUMENTO PEOR, que van al caviladero.) </p>
+               <p rend="justify">
+                  <hi rend="italic">Andad ya. </hi>(A ESTREPSÍADES, que entra en su casa.) </p>
+               <p rend="italic">Creo yo que te arrepentirás de eso.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> <hi rend="italic">(Al público.) </hi>
+               </p>
+               <p rend="justify">Queremos proclamar las ventajas que los jueces obtendrán en caso de que favorezcan a este coro, como es de justicia. Pues en primer lugar si queréis labrar a su tiempo los campos en barbecho, lloveremos primero para vosotros, y para los demás después.</p>
+               <p rend="justify">Además cuidaremos la cosecha y las viñas, de manera que ni la sequía ni la lluvia excesiva las sofoquen. Pero si alguien, siendo mortal, a nosotras, que somos diosas, nos ultraja, que preste atención a qué males sufrirá de nuestra parte: no recogerá vino ni ninguna otra cosa de su tierra.</p>
+               <p rend="justify">Pues cuando los olivos y las viñas despunten, los brotes serán cortados de cuajo: con tales disparos de honda los golpearemos. Y si lo vemos haciendo ladrillos, lleveremos y destrozaremos las tejas de su tejado con granizos redondos.Y si se casa él, o uno de sus parientes o amigos, lloveremos toda la noche, así que quizá deseará encontrarse incluso en Egipto más que haber sido mal juez.</p>
+               <p rend="justify">(ESTREPSÍADES <hi rend="italic">sale de su casa.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Quinto, cuarto, tercero, detrás de ése el segundo, después, el que yo temo más que todos los días, el que me hace temblar y me pone enfermo, justo detrás de ése viene el día viejo y nuevo .<hi rend="sup"> </hi>
+               </p>
+               <p rend="justify">Pues todos aquellos con los que estoy en deuda juran que depositarán la cantidad consignada, y<hi rend="sup"> </hi>después me aniquilarán y me destruirán, <hi rend="italic">y </hi>aunque yo pido cosas justas <hi rend="italic">y </hi>moderadas, como «tío, esta parte no te la lleves ahora, esta otra aplázamela, esta otra perdónamela», ellos afirman que así nunca recobrarán su dinero, me reprochan que soy injusto, y dicen que pleitearán conmigo. Pues ahora, que pleiteen: poco me importa, si Fidípides ha aprendido a discursear bien.</p>
+               <p rend="justify">Pronto lo sabré si llamo a la puerta del caviladero. </p>
+               <p rend="italic">(Golpea la puerta.)</p>
+               <p rend="justify"> ¡Chico! -digo-, ¡chico,chico!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> <hi rend="italic">(A la puerta.) </hi>
+               </p>
+               <p rend="justify">Saludo a ESTREPSÍADES.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> También yo a ti. Pero primero toma esto. </p>
+               <p rend="italic">(Le da dinero.) </p>
+               <p rend="justify">Pues de alguna manera hay que presentar los respetos al maestro. <hi rend="italic">Y </hi>mi hijo, dime si ha aprendido aquel Argumento que hace un momento trajiste a escena.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Lo ha aprendido.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Fraudulencia todopoderosa, qué bien!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Así que podrás salir victorioso de cualquier pleito que quieras.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Aunque hubiera testigos presentes cuando recibí el préstamo?</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Mucho más todavía: aunque sean mil los que estén presentes.</p>
+               <p rend="bold">ESTREPSÍADES.</p>
+               <p rend="italic">Gritaré entonces en voz alta</p>
+               <p rend="italic">mi grito: ¡Ah! llorad, prestamistas,</p>
+               <p rend="italic">vosotros, el capital y los intereses de los intereses.</p>
+               <p rend="italic">Pues ya nada malo podréis hacerme;</p>
+               <p rend="italic">tal es el hijo criado</p>
+               <p rend="italic">para mí en estas moradas,</p>
+               <p rend="italic">brillando con lengua de doble filo;</p>
+               <p rend="italic">baluarte mío, salvador de mi casa, perjuicio de mis enemigos,</p>
+               <p rend="italic">que las grandes desdichas paternas hace desaparecer;</p>
+               <p rend="italic">corre y llámalo para que desde dentro venga a mí.</p>
+               <p rend="justify">
+                  <hi rend="italic">(Entra </hi>SÓCRATES <hi rend="italic">en el caviladero.)</hi>
+               </p>
+               <p rend="justify">¡Hijo, muchacho, sal de la casa; escucha a tu padre!</p>
+               <p rend="justify">
+                  <hi rend="italic">(Sale </hi>SÓCRATES <hi rend="italic">con </hi>FIDÍPIDES.)</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Aquí lo tienes.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Querido, querido!</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> Márchate con él.</p>
+               <p rend="justify">(SÓCRATES <hi rend="italic">entra en el caviladero.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Oh, oh, hijo!<lb/>¡Huy, huy! Qué contento estoy antes de nada de ver el color de tu piel. Ahora no hay más que verte para saber que eres de los que niega <hi rend="italic">y</hi>contradice, <hi rend="italic">y </hi>sobre tu rostro florece realmente eso tan nuestro, el «¿qué quieres decir tú?», y el parecer que se sufre injusticia cuando se comete, incluso de las gordas, lo sé bien. Ahora trata de salvarme, ya que eres tú el que me perdió.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Y ¿qué es lo que temes?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> El día viejo y nuevo.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Así que ¿existe un día viejo y nuevo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, ese en el que dicen que depositarán la cantidad consignada contra mí.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Entonces los que la depositen la perderán, pues no es posible que un día se convierta en dos días.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿No se puede convertir?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES</hi> ¿Pues cómo iba a poder? A menos que la misma mujer fuera a la vez una anciana y una joven.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sin embargo, eso es lo acostumbrado.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Porque no saben bien, creo yo, lo que la ley quiere decir.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Y ¿qué quiere decir?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> El antiguo Solón era por naturaleza amigo del pueblo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Eso por ahora no tiene nada que ver con el día viejo y nuevo.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Así que aquél situó la citación en dos días, o el día viejo y el día nuevo, para que los depósitos se hicieran en la luna nueva.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Para qué añadió el día viejo?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Amigo mío, para que los demandados comparezcan un día antes y así se lo quiten de encima de antemano <hi rend="italic">y </hi>voluntariamente, <hi rend="italic">y </hi>en caso de que no, para que el día de la luna nueva por la mañana estén un poco intranquilos</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cómo es que los magistrados no aceptan entonces los depósitos de la cantidad consignada el día de la luna nueva, sino el día-viejo-y-nuevo?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Es que me parece que les pasa lo mismo que a los catadores: para malversar lo más rápidamente posible los depósitos, para eso los cobraban un día antes.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Muy bien. <hi rend="italic">(Al público.)</hi>
+               </p>
+               <p rend="justify"> Desgraciados, ¿qué hacéis ahí sentados como idiotas, para provecho de nosotros los inteligentes? ¡Vosotros sois solamente piedras, números, un estúpido rebaño de ovejas, y un montón de ánforas!</p>
+               <p rend="justify">Para mí mismo y para mi hijo aquí presente, tengo que cantar un canto de alabanza por nuestra buena suerte.</p>
+               <p rend="italic">«Afortunado Estrepsíades,</p>
+               <p rend="italic">¡qué inteligente has nacido,</p>
+               <p rend="italic">y qué hijo estás criando!»,</p>
+               <p rend="italic">me dirán mis amigos</p>
+               <p rend="italic">y mis vecinos</p>
+               <p rend="italic">con envidia, cuando tú</p>
+               <p rend="italic">ganes los pleitos por tu oratoria.</p>
+               <p rend="italic">Pero primero quiero llevarte</p>
+               <p rend="italic">dentro y festejarte.</p>
+               <p rend="italic">(Entran ambos en la casa. Llega un acreedor con un testigo.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi> <hi rend="italic">(Al testigo.)</hi>
+               </p>
+               <p rend="justify"> Además, ¿tiene un hombre que dejar que se pierda algo de lo que es suyo? Nunca; mejor hubiera sido no ruborizarse precisamente entonces, en vez de tener problemas: la cuestión es que ahora mismo te estoy arrastrando aquí para servirme de testigo por un dinero que es mío, y además de eso me haré enemigo de un vecino mío. Pero nunca mientras viva he de avergonzar a mi patria, sino que, por el contrario, voy a citar a Estrepsíades…</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Saliendo de su casa.)</hi>
+               </p>
+               <p rend="justify"> ¿Quién anda ahí?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi> … para el día-viejo-y-nuevo.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Al público.) </hi>
+               </p>
+               <p rend="justify">Tetomo por testigo de que ha dicho para dos días diferentes. </p>
+               <p rend="italic">(Al acreedor.) </p>
+               <p rend="justify">¿Por qué motivo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi> Por las doce minas que recibiste para comprar el caballo gris moteado.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> El caballo. ¿No habéis oído? ¡Yo, que todos vosotros sabéis que odio lo que tiene que ver con los caballos!</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¡Por Zeus!, y además juraste por los dioses que ibas a pagármelas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No, ¡por Zeus!, es que entonces mi Fidípides aún no había aprendido el argumento invencible.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¿Y ahora por esa razón pretendes hacer un protesto?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿De qué otra manera sacaría yo provecho de lo que él aprendió?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¿Y estás dispuesto a hacer el protesto jurando por los dioses allí donde yo te lo indiqué?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Por qué dioses?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi> Por Zeus, por Hermes, por Posidón.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Sí, por Zeus! Y yo incluso pagaría un trióbolo por poder jurar.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¡Ojalá revientes por tu descaro!</p>
+               <p rend="justify">ESTREPSÍADES. <hi rend="italic">(Palpando el vientre de su oponente.)</hi>
+               </p>
+               <p rend="justify"> Frotado con sal podría servir éste.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¡Ay, ay, cómo te burlas!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Le cabrán seis congios.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¡Por el gran Zeus y los dioses, no escaparás de mí impunemente!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Me ha hecho muchísima gracia eso de «dioses»; además, jurar por Zeus es ridículo para los que tienen dos dedos de frente.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi> Te aseguro que tú con el tiempo rendirás cuenta de esto. Pero respóndeme si me pagarás el dinero o no, y déjame ir.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Quédate quieto, que yo en seguida te daré una respuesta clara. <hi rend="italic">(Entra en su casa.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi> <hi rend="italic">(Al testigo.) </hi>
+               </p>
+               <p rend="justify">¿Qué te parece que va a hacer? ¿Te parece que me pagará?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Sale de la casa con una artesa.) </hi>
+               </p>
+               <p rend="justify">¿Dónde está ese que me reclama el dinero? Di, ¿cómo se llama esto?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¿Que cómo se llama? La amasadero.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Y tú reclamas el dinero, siendo así? No pagaría yo ni un óbolo a nadie que llamara la «amasadero» a la «amasadera»</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi>
+                  <hi rend="sup bold"> </hi>¿Que no vas a pagarme?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No, que yo sepa. Así que ¿no vas acabar de irte a escape de mi puerta?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 1.</hi> Me voy a ir, y después, para que te enteres, voy a depositar la cantidad consignada y si no ¡que me muera!</p>
+               <p rend="justify"> <hi rend="italic">(Salen el </hi>ACREEDOR 1. <hi rend="italic">ysu testigo.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues perderás eso además de las doce minas, y no quiero que te pase eso sólo porque le llamaste como un tonto «la amasadero».</p>
+               <p rend="justify">
+                  <hi rend="italic">(Llega un </hi>2. ACREEDOR.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi> ¡Ay, ay de mí!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Anda! ¿Quién es ese que se lamenta? ¿No será una de las divinidades de Carcino la que hablaba?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>¿Que quién soy yo?, ¿por qué queréis saberlo? Un hombre desdichado.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Vuélvete por tus pasos!</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>«¡Oh divinidad cruel, oh fortuna que rompiste las ruedas de mi carro! ¡Oh Palas, cómo me has destruido!»</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues, ¿qué mal te ha hecho Tlempólemo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup">  </hi>No te burles de mí, amigo; por el contrario, dile a tu hijo que me pague el dinero que recibió, sobre todo porque estoy en mala situación.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué dinero es ése?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>El que tomó prestado.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí que estás hecho polvo, me parece a mí.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>Sí, por los dioses, estaba guiando el carro y me caí.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces, ¿por qué dices tonterías como si te hubieras caído de un burro?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>¿Tonterías digo, si quiero recuperar mi dinero?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No hay posibilidad de que estés sano otra vez.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>¿Eso, por qué?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Me parece que tu cerebro ha sufrido algo así como una sacudida.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup">  </hi>Y a mí me parece que tú, por Hermes, vas a ser citado a juicio por mí, si no pagas el dinero.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Bueno, dime: ¿crees que Zeus llueve cada vez agua nueva, o que el sol arrastra desde abajo esa misma agua nuevamente?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>No sé cuál de las dos cosas es, ni me importa.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Anda, ¿y cómo va a ser justo que tú recuperes el dinero, si no sabes nada de meteorología?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>Bueno, si no tienes dinero suficiente, al menos págame el interés.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Ése, el interés, ¿qué animal es?</p>
+               <p rend="justify">ACREEDOR 2.<hi rend="sup"> </hi>¿Qué otra cosa va a ser sino que cada mes y cada día el dinero se hace siempre más y más, al pasar el tiempo?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Bien dicho. Pues a ver: ¿crees que el mar es mayor ahora que antes?</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup">  </hi>No, por Zeus, es igual. Pues no es apropiado que sea mayor.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces, desgraciado, ¿cómo es que éste no se hace mayor con los ríos que afluyen a él, y tú sin embargo tratas de hacer tu dinero más grande? ¿No te expulsarás a ti mismo de la casa?</p>
+               <p rend="justify"> <hi rend="italic">(A los de la casa.)</hi>
+               </p>
+               <p rend="justify"> Tráeme la aguijada.</p>
+               <p rend="justify"> <hi rend="italic">(Un esclavo la trae.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup">  </hi>De esto yo tomo testigos.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Dándole con la aguijada.)</hi>
+               </p>
+               <p rend="justify"> ¡Arre!, ¿por qué tardas? <hi rend="italic">¿No </hi>te mueves, caballo marcado con la «ese»?.</p>
+               <p rend="justify">
+                  <hi rend="bold">ACREEDOR 2.</hi>
+                  <hi rend="sup bold"> </hi>¿No es esto el colmo del descaro?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Te moverás? Voyalanzar sobre tila aguijada y te pincharé en el culo, caballo lateral.</p>
+               <p rend="justify">(El 2.ACREEDOR <hi rend="italic">se va.) </hi>
+               </p>
+               <p rend="justify">¿Huyes? Ya sabía yo que te haría moverte con todas tus ruedas y tus tiros.</p>
+               <p rend="justify">(ESTREPSÍADES <hi rend="italic">entra en su casa.)</hi>
+               </p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">¡Lo que es amar los asuntos ruines! Pues el</p>
+               <p rend="italic">viejo este, enamorado de ellos,</p>
+               <p rend="italic">quiere retener</p>
+               <p rend="italic">el dinero que pidió prestado.</p>
+               <p rend="italic">Y no es posible que en el día de hoy no</p>
+               <p rend="italic">le sobrevenga algún problema que</p>
+               <p rend="italic">haga a este sofista apartarse</p>
+               <p rend="italic">repentinamente de las vilezas</p>
+               <p rend="italic">que se ha puesto a cometer.</p>
+               <p rend="italic">Pues creo que él va a encontrar en seguida</p>
+               <p rend="italic">lo que hace tiempo pedía,</p>
+               <p rend="italic">que su hijo sea hábil</p>
+               <p rend="italic">para argumentar sentencias contrarias</p>
+               <p rend="italic">a lo que es justo, de manera que</p>
+               <p rend="italic">salga victorioso contra todos los que</p>
+               <p rend="italic">tengan trato con él, aunque sus argumentos</p>
+               <p rend="italic">sean abominables; y quizá, quizá</p>
+               <p rend="italic">va a desear</p>
+               <p rend="italic">que su hijo esté mudo.</p>
+               <p rend="justify">(ESTREPSÍADES <hi rend="italic">sale de su casa perseguido por su hijo.)</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay, ay, vecinos, parientes, compañeros de demo. Ayudadme por favor, que me zurran! ¡Ay, pobre de mí, mi cabeza, mi mejilla! </p>
+               <p rend="justify">
+                  <hi rend="italic">(A</hi>FIDÍPIDES.)</p>
+               <p rend="justify">¡Ah, granuja!, ¿le pegas a tu padre?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Sí, padre.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Veis que admite que me está pegando?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Ciertamente.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Granuja, parricida, sinvergüenza!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Dime otra vez esas mismas cosas y más aún. ¿Sabes que lo paso bien oyendo tantos insultos?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Maricón, que tienes un culo como una tinaja!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Rocíame con muchas rosas de esas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿A tu padre le pegas?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES. </hi>Y además, ¡por Zeus!, demostraré que te he pegado con todas las de la ley.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Sinvergüenza redomado!, ¿cómo va a ser legítimo pegarle a un padre?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Yo te lo haré ver, y además, te venceré con mis palabras.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Que vas a vencerme en esto?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> De todas todas y con facilidad. Escoge cuál de los dos Argumentos quieres sostener.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué dos Argumentos?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> El Mejor o el Peor.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Por Zeus, sí que he hecho que te enseñaran bien a argumentar contra lo justo, amigo, si vas a ser convincente en eso de que es justo y adecuado que un padre sea golpeado por sus hijos.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Yocreo que ciertamente te convenceré, tanto que cuando me haya s oído ni siquiera vas a argumentar nada en contra.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Desde luego, lo que vas a decir quiero escucharlo.</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Tu labor, anciano, consiste en discurrir</p>
+               <p rend="italic">cómo vas a derrotar a este hombre,</p>
+               <p rend="italic">pues éste, si no confiara en algo, no</p>
+               <p rend="italic">sería tan insolente:</p>
+               <p rend="italic">hay algo con lo que él se envalentona.</p>
+               <p rend="italic">Su arrogancia es bien clara.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Ya tienes que decirle al coro por qué empezó la discusión. Lovas a hacer de todas maneras.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí que voy a decirte por qué comenzamos a insultarnos. Pues bien, después de que, como sabéis, hicimos fiesta, primero le dije que cogiera la lira y cantara una canción de Simónides, «Cómo fue esquilado el carnero» <hi rend="sup">. </hi>Éste en seguida dijo que estaba anticuado eso de tocar la lira mientras se bebía como hace una mujer cuando muele cebada tostada.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y no tenías que haber sido aporreado y pisoteado justamente entonces?, ¡decirme que cantara, como si hicieras fiesta para las cigarras!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> También entonces ahí dentro, murmuraba cosas así como las de ahora; y de Simónides decía que es un mal poeta. Y yo, aunque a duras penas, me iba aguantando al principio. Pero más adelante le dije que por lo menos cogiera una rama de mirto y me recitara algo de Esquilo; y él me dijo en seguida: «Pues yo sí que considero a Esquilo el primero entre los poetas, en estar lleno de ruido y en ser incoherente, grandilocuente y fabricante de palabras pretenciosas como peñascos».</p>
+               <p rend="justify">Y ¿cómo creéis que mi corazón palpitaba entonces? Pero yo, rumiando mi cólera, le decía: «Tú recita entonces algo de ésos, de los modernos, cualesquiera que sean sus pasajes ingeniosos».</p>
+               <p rend="justify">Y en seguida él pronunció una parrafada de Eurípides: cómo un hermano, ¡dios que nos libras de males!, jodía a una hermana hija de la misma madre, y yo ya no me aguanté más, sino que le llené el saco de palabras duras y denigrantes.</p>
+               <p rend="justify">Y claro, después, como es natural, nos enzarzamos insulto tras insulto. Luego él salta sobre mí y después me estruja, me despedaza, me estrangula y me tritura.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Y no estaba bien hecho eso, tú que no elogias a Eurípides, el más inteligente?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿El más inteligente aquél?, tú… ¿qué te voy a llamar? No, que me darán de palos otra vez.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Sí, por Zeus, y sería con razón.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cómo que con razón? Yo, desvergonzado, que te crié atendiendo a todo lo que balbuceabas, por saber qué querías. Si decías «aba», yo te entendía y te daba de beber; si pedías «pa» yo iba a traerte pan; no habías acabado de decir «caca», cuando yo te había cogido, y te sacaba a la puerta sosteniéndote.</p>
+               <p rend="justify">Pero tú ahora cuando me estrangulabas, aunque yo chillaba y gritaba que quería cagar, no quisiste, ¡maldito!, sacarme fuera, a la puerta, sino que me ahogaba y me hice caca allí mismo.</p>
+               <p rend="bold">CORO.</p>
+               <p rend="italic">Creo que los corazones de los jóvenes</p>
+               <p rend="italic">saltan por oír lo que va a decir.</p>
+               <p rend="italic">Pues si éste, con haber hecho cosas de tal calibre,</p>
+               <p rend="italic">nos va a convencer con su palabrería,</p>
+               <p rend="italic">no daríamos por la piel de los viejos</p>
+               <p rend="italic">ni siquiera un garbanzo.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> (A FIDÍPIDES.)</p>
+               <p rend="justify">Tu tarea, ¡agitador y removedor de palabras de nuevo cuño!, consiste en buscar un medio de persuasión, para que parezca que dices cosas justas.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¡Qué agradable es codearse con cuestiones nuevas e ingeniosas y poder despreciar las costumbres establecidas! Pues yo, cuando dedicaba mi atención solamente a la hípica, ni siquiera era capaz de decir tres palabras sin meter la pata.</p>
+               <p rend="justify">En cambio, ahora, después de que ése me hizo acabar con esas cosas y he confraternizado con sentencias sutiles, con argumentos y pensamientos, creo que demostraré que es justo castigar al padre de uno.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sigue con tus caballos entonces, ¡por Zeus!, que es mejor para mí alimentar una cuadriga que verme triturado a fuerza de recibir golpes.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Volveré al punto de mi discurso en que me interrumpiste, y, en primer lugar, te voy a preguntar esto: ¿me pegabas cuando era niño?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Sí, por ser cariñoso y preocuparme por ti.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Pues dime, ¿no es justo que también yo sea cariñoso contigo de la misma manera y te pegue, puesto que en eso consiste ser cariñoso, en pegar?</p>
+               <p rend="justify">Pues, ¿cómo es que tu cuerpo tiene que estar libre de golpes y el mío no? Que también yo soy hombre libre de nacimiento. «Los hijos lloran, ¿crees que el padre no ha de llorar?» </p>
+               <p rend="justify">
+                  <hi rend="sup"> </hi>Tú afirmarás que la costumbre es que eso sea cosa del hijo; pero yo podría contradecirte diciendo que «los viejos son dos veces niños»; y es más natural que lloren los viejos que los jóvenes, en la medida en que es menos razonable que ellos cometan faltas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pero en ninguna parte es de ley que el padre pase por eso.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Es que no fue un hombre como tú y como yo el primero que puso esa ley, y persuadía a los antiguos hablando? ¿Y es que yo a mi vez voy a tener menos posibilidades de poner una nueva ley para los hijos de cara al futuro, que peguen también ellos a sus padres?</p>
+               <p rend="justify">Los golpes que recibimos antes de que estuviera puesta la ley los sacamos de cuenta y les concedemos habernos zurrado impunemente. Mira los gallos y esos otros bichos, cómo se toman la revancha de sus padres. ¿Y en qué se diferencian aquéllos de nosotros, si no es en que no proponen decretos?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Entonces, ya que imitas en todo a los gallos, ¿por qué no comes también estiércol y duermes en un palo?</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> No es lo mismo, tío, ni se lo parecería a Sócrates.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues entonces no me pegues; si no, un día tendrás que echarte la culpa.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> ¿Cómo es eso?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Porque es justo que yo te castigue a ti, y que tú, si lo tienes, castigues a tu hijo.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Pero en caso de que no lo tenga, en vano habrán sido mis lloros, y tú te habrás muerto habiéndote burlado de mí.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(A los espectadores ancianos.)</hi>
+               </p>
+               <p rend="justify"> Hombres de mi edad, a mí me parece que dice cosas justas. Y me parece también que hay que concederles a éstos lo que es razonable. Pues es natural que nosotros paguemos si no hacemos lo que es justo.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Mira también este otro argumento.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES</hi>. No, será mi perdición.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Quizá no llevarás tan a mal haber pasado lo que has pasado ahora.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Cómo es eso? Explícame qué provecho conseguirás que saque yo aún de eso.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Pegaré a mi madre igual que a ti.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué dices, qué dices? Esto otro es una canallada todavía más grande.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Pues, ¿qué me dices si con el Argumento Peor te voy a vencer diciendo que hay que pegar a la madre?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Qué otra cosa que, si haces eso, nada va a impedir tirarte al Barranco, con Sócrates, a ti y al Argumento Peor? </p>
+               <p rend="justify">
+                  <hi rend="italic">(Al </hi>CORO.)</p>
+               <p rend="justify">Nubes, esto me ha sucedido por culpa vuestra, por haber puesto en vuestras manos todos mis asuntos.</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Tú eres el único que tienes la culpa, por haberte dedicado a hacer canalladas.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Y por qué no me decías eso entonces, en vez de darle alas a un hombre paleto y viejo?</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Esto es lo que hacemos siempre, cada vez que nos topamos con alguien que es aficionado a las canalladas, hasta que lo precipitamos en la desgracia para que aprenda a temer a los dioses.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay de mí, Nubes! Es cruel, pero justo, pues no debería haber birlado lo que pedí prestado. </p>
+               <p rend="justify">
+                  <hi rend="italic">(A </hi>FIDÍPIDES.)</p>
+               <p rend="justify">Así que ahora, querido, ven conmigo a matar al bastardo de Querefonte y a Sócrates, que nos han engañado.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Yo no podría hacerle mal a mis maestros.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> «Sí, sí; ten respeto a Zeus Paternal».</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Mira: «Zeus Paternal». ¡Qué antiguo eres! ¿Es que existe algún Zeus?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Existe.</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> No existe, no, porque reina Torbellino, que ha expulsado a Zeus.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> No lo ha expulsado, sino que yo creía eso por culpa de esta «turbicopa» </p>
+               <p rend="justify">
+                  <hi rend="sup"> </hi>
+                  <hi rend="italic">(La señala.) </hi>
+               </p>
+               <p rend="justify">¡Qué imbécil soy, tomarte a ti, una pieza de barro, por un Dios!</p>
+               <p rend="justify">
+                  <hi rend="bold">FIDÍPIDES.</hi> Anda, desbarra aquí tú solo y sigue con tus disparates. </p>
+               <p rend="italic">(Entra en su casa.)</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¡Ay de mí, qué chaladura! ¡Qué loco me volví cuando llegué a rechazar a los dioses por culpa de Sócrates!</p>
+               <p rend="justify"> <hi rend="italic">(A una estatua de Hermes que está delante de su casa)</hi>
+               </p>
+               <p rend="justify"> Pero de ningún modo te enfades conmigo ni me hagas papilla, Hermes querido: más bien ten compasión de mí, que me volví tarumba por culpa de su charlatanería; y sé mi consejero, sobre si he de perseguirlos judicialmente incoando un proceso o lo que te parezca. </p>
+               <p rend="italic">(Hace que escucha a Hermes.) </p>
+               <p rend="justify">Bien me aconsejas no dejando que me dedique a picapleitos, sino que a toda prisa incendie la casa de los charlatanes.</p>
+               <p rend="justify"> <hi rend="italic">(Da voces hacia su casa.) </hi>
+               </p>
+               <p rend="justify">Oye, oye, Jantias, ven aquí con una escalera y un azadón, y después sube a lo alto del caviladero y destrózale el tejado, si es que quieres a tu señor, hasta que les tires la casa encima.</p>
+               <p rend="justify"> <hi rend="italic">(El esclavo sale de la casa con lo indicado y sube al tejado del caviladero.)</hi>
+               </p>
+               <p rend="justify"> Que alguien me traiga una antorcha encendida, que yo voy a hacerle a alguno de ellos pagármelas todas juntas hoy mismo, por muy fanfarrones que sean. </p>
+               <p rend="italic">(Coge la antorcha que le traen y sube también al tejado.)</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> <hi rend="italic">(Dentro.) </hi>
+               </p>
+               <p rend="justify">¡Ay, ay!</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Aplica la antorcha.) </hi>
+               </p>
+               <p rend="justify">Antorcha, tu obligación es lanzar una enorme llamarada.</p>
+               <p rend="justify">
+                  <hi rend="bold">DISCÍPULO.</hi> <hi rend="italic">(Se hace visible.)</hi>
+               </p>
+               <p rend="justify"> ¿Qué es lo que haces, hombre?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> ¿Que qué hago? ¿Qué voy a hacer sino mantener un diálogo sutil con las vigas de la casa?</p>
+               <p rend="justify">
+                  <hi rend="bold">QUEREFONTE.</hi> <hi rend="italic">(Por una ventana.) </hi>
+               </p>
+               <p rend="justify">Ay de mí, ¿quién prende fuego a nuestra casa?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi>Justamente aquel al que le quitasteis la capa.</p>
+               <p rend="justify">
+                  <hi rend="bold">QUEREFONTE.</hi> <hi rend="italic">(Igual.)</hi>
+               </p>
+               <p rend="justify"> Nos matarás, nos matarás.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> Pues eso es precisamente lo que yo quiero, si el azadón no traiciona mis esperanzas o si no me caigo yo antes y me desnuco.</p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> <hi rend="italic">(Saliendo del caviladero.) </hi>
+               </p>
+               <p rend="justify">Tú, ¿qué es lo que haces, tú, el del tejado?</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> «Camino por los aires y paso revista al sol» </p>
+               <p rend="justify">
+                  <hi rend="bold">SÓCRATES.</hi> ¡Ay,desgraciado, me voy a ahogar, pobre de mí!</p>
+               <p rend="justify">
+                  <hi rend="bold">QUEREFONTE.</hi> <hi rend="italic">(Igual que antes.) </hi>
+               </p>
+               <p rend="justify">Y yo, miserable de mí, voy a morir achicharrado.</p>
+               <p rend="justify">
+                  <hi rend="bold">ESTREPSÍADES.</hi> <hi rend="italic">(Bajando al suelo, con </hi>JANTIAS.)</p>
+               <p rend="justify">Y¿por qué razón insultabais a los dioses y escudriñabais las asentaderas de la luna? Persigue, pega, golpea, por mil cosas, pero sobre todo sabiendo cómo ultrajaban a los dioses.</p>
+               <p rend="justify">(QUEREFONTE <hi rend="italic">y los restantes discípulos consiguen salir del caviladero y huyen con </hi>SÓCRATES, <hi rend="italic">perseguidos por </hi>ESTREPSÍADES y JANTIAS.)</p>
+               <p rend="justify">
+                  <hi rend="bold">CORIFEO.</hi> Encabezad la marcha hacia fuera, que nuestro coro ya ha actuado bastante por hoy.</p>
+               <p rend="justify">FIN</p>
+               <p rend="justify"> </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
