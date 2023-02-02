@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled Document</title>
+            <author>Luigi Antonelli</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:02.19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-25T22:24:51.220932689</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Luigi Antonelli</author>
+         <div type="div1">
+            <head>C'è qualcuno al cancello</head>
+            <p>LUIGI ANTONELLI</p>
+            <p>C'è qualcuno al cancello</p>
+            <p rend="center">Atto unico</p>
+            <p>Mai rappresentata.</p>
+            <p>Edita. Milano, Casa Editrice Vitagliano, 1920.</p>
+            <p>Reca la seguente dedica: <hi rend="italic">a Virgilio Talli.</hi>
+            </p>
+            <div type="div2" rend="P16">
+               <head>Personaggi</head>
+               <p>Il marito</p>
+               <p>La moglie</p>
+               <p>L'autore</p>
+               <p>Il direttore della compagnia</p>
+               <p>Il servo</p>
+               <p>La voce del suggeritore</p>
+               <p>I Voce in platea</p>
+               <p>II Voce in platea</p>
+               <p>Il fantoccio dell'uomo al cancello</p>
+               <p>La scena raffigura la prova di una commedia sopra un palcoscenico d'Italia.</p>
+               <p>L'AUTORE discorre col DIRETTORE, seduto a sinistra della ribalta, con le spalle voltate al pubblico. Ha vicino a sé un tavolinetto. Gli attori fanno gruppo verso il fondo discorrendo sommessamente, addossati al fondale, e poi ridono forte: specialmente la signorina Melato.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Un po' di silenzio, laggiù! È vero che la prova non è incominciata, ma qui c'è l'autore che spiega. Conoscere la sua intenzione è interessante anche per Loro. Vengano più avanti.</p>
+               <p rend="end">All'AUTORE</p>
+               <p>dunque tu dici... che la scena deve essere illuminata dalla luce della luna. Va bene, perché è mezzanotte. Ma devi riflettere che il pubblico si stanca a vedere la scena quasi al buio per mezz'ora. Beh, questo si vedrà!</p>
+               <p rend="end">Ai comici</p>
+               <p>Stiamo attenti perché si farà una prova che possiamo chiamare sperimentale. L'autore farà i cambiamenti man mano che l'azione procederà, e dove crederà opportuno. Accidenti agli autori moderni!</p>
+               <p>I comici ridono.</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Hai ragione!</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">che ha uno spiccato accento fiorentino</p>
+               <p rend="justify">Non si sa mai che diavolo s'ha a fare!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Abbi pazienza, Virgilio!</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Be', s'incomincia. Dove vai?</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Vado a prendere un caffè. Ma sarò qui al momento che bisognerà mutare.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Hai date le varianti al suggeritore?</p>
+               <p rend="justify">Dà un'occhiata al SUGGERITORE</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Sì, gli ho dato tutto.</p>
+               <p rend="end">Via</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Bene. S'incomincia.</p>
+               <p>I comici si ritirano.</p>
+               <p rend="center smallcaps">LA VOCE DEL SUGGERITORE</p>
+               <p rend="justify">«Salone di un castello. A sinistra una porta. In fondo la comune che dà in una veranda, ai piedi di una selva. È circa la mezzanotte. Nessuno è in scena all'aprirsi del velario. Dopo un poco entra il marito dalla comune».</p>
+               <p>Entra infatti il I ATTORE il quale esegue l'azione secondo le parole del SUGGERITORE.</p>
+               <p rend="center smallcaps">LA VOCE DEL SUGGERITORE</p>
+               <p rend="justify">«Si ferma sul limitare. Volge lo sguardo intorno con circospezione. Sentendo rumore di passi, va a rincantucciarsi in un angolo».</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Un po' più lunga l'azione! Non abbiano paura delle pause lunghe, non abbiano paura dei silenzi. Molte volte i silenzi esprimono più delle parole, e un attore che sappia tacere è un attore raro. Faccia in modo che il pubblico capisca che Lei entra di sorpresa in questa casa, che è poi casa sua: quindi con una certa padronanza e sicurezza. Nello stesso tempo faccia capire bene che qualcuno sta per arrivare ma, nello stesso tempo, che questo qualcuno non disturba il Suo programma. Ecco fatto. Rientri.</p>
+               <p>IL MARITO esegue l'azione di prima, si guarda circospetto, poi si nasconde in un angolo.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Ecco. Qui una pausa. Ed entra il servo.</p>
+               <p>IL SERVO dalla sinistra si avvia verso l'uscita nascondendo qualche cosa nella tasca dei calzoni. IL MARITO esce dal nascondiglio e gli si pianta di fronte.</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="end">allibito</p>
+               <p rend="justify">Padrone!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">imponendogli, con un segno, di tacere, gli parla con voce repressa</p>
+               <p rend="justify">Non una parola!</p>
+               <p>IL SERVO agghiacciato rimane muto dinanzi al padrone, pronto ad eseguirne gli ordini.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Tu hai una lettera in tasca.</p>
+               <p>IL SERVO china il capo. Una pausa.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Dammela.</p>
+               <p>IL SERVO un po' esitante, ma rassegnato, cava di tasca una lettera e la dà al padrone.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">eccitatissimo, ma dominandosi dinanzi agli occhi del SERVO, apre e legge: poi, fissando IL SERVITORE bene in faccia</p>
+               <p rend="justify">Voi non conoscete una parola d'inglese, non è vero?</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">No, signore.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">State attento. Voi siete un furfante, e certamente vi farò saltare le cervella se non ubbidirete a quanto vi ordinerò.</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Sono qui per obbedire.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">scandendo bene le parole</p>
+               <p rend="justify">Consegnerete questa lettera alla persona a cui è diretta, come se io non l'avessi vista: capite? Se quella persona si meraviglierà di trovarla senza busta, direte che la signora, avendo fretta di farla recapitare, ve l'ha consegnata così.</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Sì, signore.</p>
+               <p>IL MARITO</p>
+               <p rend="justify">Quel signore... a cui è diretta la lettera, vi sta aspettando in qualche posto, immagino... Dove, precisamente?</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Nella selva, all'ingresso della lupa.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Benissimo. Badate che tra mezz'ora voi sentirete, forse, un colpo d'arma da fuoco venire dalla selva. Se la signora vi manderà a vedere, voi vi affretterete a rassicurarla con un pretesto. Qualsiasi altro ordine che vi venga dato dalla signora non dovrà da voi essere eseguito. Fingerete, però, di eseguirlo.</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Sì, signore.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Questi sono ordini precisi.</p>
+               <p rend="end">Lo guarda minaccioso</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Tutto sarà fatto come Lei ha ordinato.</p>
+               <p>Si avvia per uscire.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">trattenendolo con un gesto</p>
+               <p rend="justify">Un momento!</p>
+               <p rend="justify">Ed esce precedendo IL SERVO che si fa da banda, inchinandosi</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Ecco. Guardiamo un po'. C'è, tra padrone e servo, questa rivelazione e diciamo pure questa complicità improvvisata. Il servo è un furfante perchè serviva da intermediario, ma il padrone ora ha bisogno di lui e si serve di lui per scoprire il resto. Nonostante questo, il padrone mantiene il suo prestigio tra il disdegnoso e l'offeso. Questo deve risultare. Perciò Lei</p>
+               <p rend="end">al MARITO</p>
+               <p>dimostri maggiore altezzosità, e il servo sia rispettoso e umile, ma non senza qualche soddisfazione di essere necessario al punto che il padrone non lo scacci di casa. Ecco fatto. Ripetiamo.</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Tutto sarà fatto come Lei ha ordinato.</p>
+               <p>Si avvia per uscire.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">trattenendolo con dignità</p>
+               <p rend="justify">Un momento!</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Lo guardi dall'alto in basso.</p>
+               <p>IL MARITO esegue. IL SERVO esce.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Ecco.</p>
+               <p rend="center smallcaps">LA VOCE DEL SUGGERITORE</p>
+               <p rend="justify">«La scena rimane vuota per qualche istante. Poi entra la moglie in veste da camera, elegantissima. Ella si ferma a metà della scena».</p>
+               <p>La I ATTRICE esegue ma è, naturalmente, vestita come vuole, per la prova.</p>
+               <p rend="center smallcaps">LA VOCE DEL SUGGERITORE</p>
+               <p rend="justify">«Poi guarda l'orologio, va a sedersi al pianoforte...».</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">al DIRETTORE</p>
+               <p rend="justify">Dove sta il pianoforte?</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Là.</p>
+               <p>LA MOGLIE si siede su una sedia che si trova al posto indicato e finge di far correre le mani su una tastiera invisibile.</p>
+               <p rend="center smallcaps">LA VOCE DEL SUGGERITORE</p>
+               <p rend="justify">«...e incomincia qualche accordo. Ma poi subito si alza, si ferma davanti alla finestra, esitando. Infine si risolve. Va verso il caminetto, accende la lucerna e la tiene sospesa un minuto dinanzi alla finestra. È il segnale. Poi rimette al suo posto la lucerna e va a sedersi sopra una poltrona, in attesa. In questo momento si ode un colpo d'arma da fuoco venire dalla finestra. Ella dà un balzo e chiama con voce soffocata: Francesco! Poi cerca il bottone del campanello elettrico e lo spinge a lungo».</p>
+               <p>LA MOGLIE ha eseguito tutto, come indicavano le parole del SUGGERITORE. IL SERVO viene dal fondo.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">al direttore di scena che figura fra le quinte</p>
+               <p rend="justify">Mi raccomando, Miniati, che il colpo d'arma da fuoco non sia una schioppettata spaventevole, da fare, al solito, sussultare le signore in platea. Quelle dei palchi, anche se sussultano, fanno meno chiasso. Andiamo avanti.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Francesco, avete portato il biglietto?</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Sì. Ha detto che andava bene.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">preoccupata</p>
+               <p rend="justify">Francesco, avete udito un colpo d'arma da fuoco?</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Sì, signora. Qualche cacciatore che fa la posta alla lepre col chiaro di luna.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">È una cosa molto seccante che voi potreste evitare. Non è permesso tirare così vicino all'abitato.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Io «taglierei» questa lepre. È poi necessaria? Dov'è l'autore?</p>
+               <p rend="center smallcaps">I ATTRICE</p>
+               <p rend="end">LA MOGLIE</p>
+               <p rend="justify">È andato a prendere un caffé...</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Accidenti! Non fa che prendere caffé! Andiamo avanti!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Non è permesso tirare così vicino all'abitato.</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Cercherò domani di sapere chi è stato.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Bravo Francesco. Ora andate pure a dormire. Non ho bisogno di altro.</p>
+               <p rend="center smallcaps">IL SERVO</p>
+               <p rend="justify">Buona notte, signora.</p>
+               <p rend="end">Via</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Buona notte.</p>
+               <p rend="center smallcaps">LA VOCE DEL SUGGERITORE</p>
+               <p rend="justify">«La signora va alla finestra, l'apre di nuovo e rimane per qualche istante a guardare la notte».</p>
+               <p>IL MARITO entra dalla comune e si ferma sul limitare.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">volgendosi esterrefatta</p>
+               <p rend="justify">Tu... Ugo!</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Più forte, con più terrore! Bisogna considerare che questa signora credeva di veder arrivare l'amante e invece c'è il marito. Non è piacevole. Perciò l'azione, diciamo così di sorpresa, va fatta in due tempi. Un primo momento di terrore vero, e un altro movimento in cui la simulazione riprende il sopravvento. Perciò: «tu... Ugo!» Quel «tu» è il grido della donna terrorizzata. «Ugo» detto con calma affettata e con ansietà repressa cerca di modificare il pericolo del primo grido di sorpresa. Ecco fatto!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">eseguendo</p>
+               <p rend="justify">Tu... Ugo!...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">freddo</p>
+               <p rend="justify">Io, sì.</p>
+               <p>Le va incontro. LA MOGLIE rimane come inchiodata al suo posto.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">con simulata naturalezza, sorridendo</p>
+               <p rend="justify">Proprio io! Il marito! E che vuoi che ci faccia? Aspettavi non so chi... Una cameriera? Un pacco postale? Niente affatto. Si apre la porta, ed entra il marito. Adesso che devo fare? Buttarmi dalla finestra mi sembra un'esagerazione.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">stizzita, ma dominandosi</p>
+               <p rend="justify">Chi ti dice questo?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">con fredda ironia</p>
+               <p rend="justify">Oh! Generosa!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Ammetti almeno che sia sorpresa. Sei partito ieri...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Per star fuori quindici giorni...</p>
+               <p rend="end">Ride</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">enigmatica</p>
+               <p rend="justify">Già!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Mentre invece sto fuori quindici ore. È un po' forte, via! Si usava nei vecchi romanzi... Oggi un marito ha l'abitudine di telegrafare.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">riafferrando tutta la sua padronanza</p>
+               <p rend="justify">Già!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">E io non ho telegrafato. Invece chiudo la finestra perché comincia a far freddo.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">prontamente, prevenendolo</p>
+               <p rend="justify">Chiudo io. Siedi. Sarai stanco.</p>
+               <p>Va a chiudere.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Con maggiore scatto quella battuta! Si deve capire che la moglie non vuole che il marito si affacci perché altrimenti vede quell'altro che sta giù. Ma veramente sarebbe più logico che lo vedesse... O perché non lo deve vedere? Dov'è l'autore? Accidenti, ancora a prendere il caffé! Non fa che prender caffé tutto il giorno! Bene! Andiamo avanti.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">dopo una pausa, appena LA MOGLIE si è messa a sedere</p>
+               <p rend="justify">Grazie. No. Non sono neanche stanco. Tutt'altro che stanco! Questa passeggiata dalla stazione fin qui... una marcia veramente un po' forzata... mi ha messo di buon umore... Pare impossibile, ma mi sono ricordato dei vecchi tempi in cui attraversavo la selva, per venire sotto le tue finestre quand'eravamo fidanzati.</p>
+               <p rend="end">Cambiando tono</p>
+               <p>Senti: deve essere stato un colpo di luna. Io credo ai colpi di luna più che ai colpi di sole. Figurati che vedendo da lontano la luce della tua stanza ho avuto un balzo al cuore. Giuro. Giuro che ho accelerato il passo per arrivare più presto. Non trovi tutto ciò enorme? Io sì! Fosse stato almeno per abbracciarti! No, semplicemente per salutarti...! È o non è un colpo di luna? E per questa incantata frenesia eccomi qui a mezzanotte a disturbare la mia signora con un discorso stravagante. Che hai?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Nulla.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Eh sì! Hai qualche cosa! Tu hai...</p>
+               <p rend="justify">avrebbe voglia di dire qualche altra cosa</p>
+               <p>...un gran sonno! E allora buonanotte! Non soltanto hai un gran sonno ma sei seccata di essere stata sorpresa... sia pure in piena innocenza...</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">No. Ti dirò che non ho voglia di discorrere.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Ah! Una virtù rara, il silenzio! Ma tacere non vuol dire essere rassegnata... Quando una donna non rimprovera nulla a un uomo colpevole, è perché, forse, si è consolata. Se non si è consolata, come nel caso tuo... il silenzio è veramente una virtù rara.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">ride nervosamente, si alza, lo fissa in una maniera strana, poi gli dice lentamente</p>
+               <p rend="justify">Che cosa sai tu?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Come, che cosa so?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Che cosa sai tu se io sia o non sia una donna capace di fare o non fare una cosa? Da quanto tempo non si discorre insieme un po' più a lungo di quanto occorra per darci il buon giorno e la buona sera? Dunque? Che cosa puoi sapere di quello che è passato e passa nella mia anima? Di quello che io sia diventata? Di quello che io possa diventare? Ecco un uomo che pretenderebbe di conoscere sua moglie dopo averla lasciata quattro anni sola!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Che cosa vuoi dire con questo?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">fissandolo</p>
+               <p rend="justify">Voglio dire che io non ho nulla da nascondere: ma se la mia sincerità è una buona cosa, bisogna meritarsela. Tu non hai fatto nulla per meritare qualche cosa... Anzi, mi hai messo davanti agli occhi dei cattivi esempi. Tu sai quali esempi. Ecco perché ti chiedo: che cosa sai tu di me? Ci voleva una notte di luna e una passeggiata per la selva perché ti ricordassi di avere a casa una moglie con cui si poteva discorrere per un quarto d'ora di cose più o meno... profonde...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Io mi son sempre ricordato di avere una moglie a casa. E sapevo anche, tutte le volte che ero fuori, che mi aspettava una donna buona e fedele.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Una cosa comodissima!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Per chi?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Oh! Per te! Comodissima, non solo, ma meritatissima. Davvero, Ugo, non so come immaginare una cosa più meritata di questa! Si va, si viene, si torna, un'amante qua, un'altra là, un mese di assenza, poi otto giorni sotto il proprio tetto. E questa sciocca è qui, fresca come una rosa. Ci vuole dell'abnegazione, eh? E soprattutto della stupidità! Confessa almeno che io sono una donna di una stupidità ineffabile!</p>
+               <p rend="end">Ride d'un riso stridulo</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">sempre molto calmo</p>
+               <p rend="justify">Andiamo piano. Di questo si discorrerà dopo. Per ora ti dico che, se sei una tale donna, ti ammiro.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Grazie. Troppo gentile. Ma non ti fidare.</p>
+               <p>Sono in piedi tutti e due che si spiano, si sfidano, vicini a prorompere.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p>fissandola</p>
+               <p rend="justify">Che cosa vuoi dire?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">enigmatica</p>
+               <p rend="justify">Mah! Che cosa sai tu di me?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">sempre fissandola lungamente</p>
+               <p rend="justify">Che cosa so?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Già!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">con terribile calma</p>
+               <p rend="justify">So che hai un amante!</p>
+               <p>LA MOGLIE lo guarda livida. Poi scoppia in una sonora risata.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">livido, tagliente, ma sempre calmo</p>
+               <p rend="justify">Ridi pure. So il tuo pallore, dietro quel riso.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Mi fai proprio ridere!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">E tu a me no! E del resto il tuo amante lo conosco.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">ghiacciata</p>
+               <p rend="justify">Ti sfido a dirmi chi è.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Giacomo Riva.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Calunnie!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Non mentire, o io non sono più padrone di me. È già un miracolo che io possa dominarmi così.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Ma se non è vero!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Taci, non negarlo! Ancora una volta ti dico di non mentire.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">È una menzogna! Una menzogna!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">appressandosi a lei con collera repressa</p>
+               <p rend="justify">No, che non è una menzogna!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">retrocedendo spaventata, ma pure dominando la sua ansia</p>
+               <p rend="justify">Ti sfido a fornirmi la prova di quanto asserisci.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">La prova... la prova... Io l'ho la prova!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">L'hai? E quale?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Io l'ho, capisci? E tale che tra un istante sarai qui soffocata da un'angoscia di morte.</p>
+               <p rend="end">Una pausa</p>
+               <p>LA MOGLIE è tenuta visibilmente da una terribile angoscia. Infine ella si decide a conoscere la verità a ogni costo.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Qual'è questa prova? Io ti sfido a darmela!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Tu mi sfidi? Ebbene, vorresti miglior prova di questa? Io ho ammazzato dianzi, con un colpo di fucile, il tuo amante all'ingresso della lupa.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">con un grido straziante</p>
+               <p rend="justify">Assassino!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">freddo</p>
+               <p rend="justify">Ecco. Ora nega, se puoi.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">stringendosi la faccia tra le mani</p>
+               <p rend="justify">Assassino! Assassino!... Ho udito il colpo...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Ah sì? L'hai udito?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">dopo una pausa, fissandolo con uno sguardo in cui si leggono tutte le disperazioni</p>
+               <p rend="justify">Ebbene, sì! Assassino, era il mio amante! Era! Era!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p>sempre glaciale</p>
+               <p rend="justify">Anch'io ne ero così certo che, come vedi, l'ho ucciso.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">singhiozzando, va a gettarsi presso la poltrona in ginocchio, torcendosi le mani, presa da una grande disperazione, e mormorando sempre: «assassino»... Poi si leva improvvisamente, agitata dall'ira, va verso di lui e gli grida</p>
+               <p rend="justify">Sei stato tu che mi hai spinta, disperata, tra le sue braccia! Pure, quell'uomo non sarebbe mai entrato in questa casa se la tua condotta infame non mi avesse dispensata da ogni ritegno. E se anch'io sono stata colpevole, che mi importa? L'hai ucciso? Vado da lui. Ora che egli non potrà più entrare in questa casa io ne uscirò per sempre. Lasciami passare.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">piantandosi dinanzi alla porta</p>
+               <p rend="justify">Tu non uscirai di qui.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">fremendo</p>
+               <p rend="justify">Guarda ch'io non ti riconosco nessun diritto, all'infuori di quello di uccidermi. Il diritto di discutere, no. Lasciami passare, o io griderò, farò accorrere i servi. Lasciami, ché io sono disperata, e non toccarmi!... Lasciami passare!</p>
+               <p>Una pausa, durante la quale si ode il respiro affannoso di quelle due anime disperate e nemiche.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">con dolore profondo, dopo una lunga pausa</p>
+               <p rend="justify">Come lo amavi! Questo io ho voluto sapere. Io ho voluto conoscere di che specie fosse il tuo amore. Perciò ti ho detto che l'ho ucciso.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">con uno scatto improvviso e una luce di speranza nello sguardo</p>
+               <p rend="justify">Eh!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p>con grande amarezza</p>
+               <p rend="justify">Sì, è vivo il tuo amante. Quel colpo è stato tirato per una finzione. Per indurti a confessare. Come vedi, è servito a dovere.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">cerca di prendergli una mano</p>
+               <p rend="justify">Giura!</p>
+               <p>IL MARITO l'allontana con un gesto brusco, quasi di orrore.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">con tutto il viso irradiato dalla gioia</p>
+               <p rend="justify">Giura! Giura!</p>
+               <p>Va alla finestra, poi torna verso IL MARITO, si porta rapidamente una mano alla fronte, assumendo un atteggiamento quasi insinuante.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">fissandola</p>
+               <p rend="justify">La mia gioia è bene che egli sia vivo! Ma darà ragione a me di quello che ha fatto.</p>
+               <p rend="justify">Va ad aprire la finestra. LA MOGLIE è alle sue spalle, anelante</p>
+               <p>Lo vedi che è proprio vivo?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">sobbalzando</p>
+               <p rend="justify">Ah!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">sarcastico</p>
+               <p rend="justify">Peccato! S'io fossi stato più prudente avrei avuto il piacere di vederlo capitare qua dentro, per puro caso... Ah! Ah! Poverino! La sua ansietà in questo momento deve essere enorme. Egli ha veduto le nostre due ombre agitarsi e immaginerà forse qualche brutto scherzo. In ogni caso, ecco per lui un'avventura romantica andata a male! Un castello, un vero castello, una selva e una signora che si annoia... E la luna sopra tutto ciò! Una luna inverosimile e coreografica...</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">ormai decisa a tutto</p>
+               <p rend="justify">Non l'uccidere, sai?!</p>
+               <p>IL MARITO la guarda come trasognato, colpito dall'ardire e dall'atteggiamento di lei: atteggiamento di lotta e quasi di sfida.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Non l'uccidere! Bada che io difendo la vita di quell'uomo. Bada che io sono disposta a tutto contro di te. Sarò la tua nemica!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">con infinita tristezza</p>
+               <p rend="justify">Come lo ami!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">disarmata e sorpresa, ma diffidente</p>
+               <p rend="justify">Forse che mi vuoi far credere che soffri?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">con uno scatto d'ira</p>
+               <p rend="justify">Perché... perché lo ami così? Che cosa ha fatto quell'uomo per meritare questo da te!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">sempre diffidente, appressandosi a lui</p>
+               <p rend="justify">Rispondi! Vuoi farmi credere che soffri? Non mentire. Qui si sta a un passo dalla morte. Abbi anche tu il coraggio di essere franco. So che non soffri.</p>
+               <p rend="justify">Lo guarda a lungo, perplessa. Poi, quasi implorando</p>
+               <p>Non rendermi ancora più l'anima perplessa... Sei ferito nel tuo orgoglio, e vuoi vendicarti ... Ed è giusto! Questo, sì, lo trovo giusto... Ma non dire altro!...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">con un grido disperato</p>
+               <p rend="justify">No! No! Soffro! Soffro! E credi che mi tenga qui il pensiero o il desiderio della vendetta? No! Ti avrei uccisa, o lo avrei ucciso... Ma sono stato vile, capisci?... Sono stato vile...</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Perché?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">quasi suo malgrado confessandosi</p>
+               <p rend="justify">Perché ti voglio bene... perché ti amo...</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">rapidamente</p>
+               <p rend="justify">Basta, Ugo. Non mentire.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">È orribile, capisci? Quel che ti dico... Ma io avevo paura che, se te lo uccidevo, tu morissi di dolore. Vedi dunque a che punto sono un miserabile...</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">colpita dal dolore di lui, con voce sorda</p>
+               <p rend="justify">Taci!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">con disperazione</p>
+               <p rend="justify">Ti amo, sì. E ti amo ora che, perdendoti, hai aperto un abisso dinanzi a me!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Taci! Taci!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Portartelo via?... Oh! Che vale anche uccidere? Avrei potuto uccidere il tuo rimpianto, forse?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">agitata oscuramente da opposti sentimenti</p>
+               <p rend="justify">Ti scongiuro... non mentire...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Perché hai tanta paura di credermi?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">disperata</p>
+               <p rend="justify">Povera me!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Hai paura di credermi. Hai una paura folle ch'io ti ami!</p>
+               <p>La scuote tutta, tormentandola. Ella lascia fare, senza volontà.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Sì, ho paura...</p>
+               <p rend="justify">Poi con forza, improvvisamente</p>
+               <p rend="justify">No, non ti credo!</p>
+               <p rend="end">Tenta di ridere</p>
+               <p rend="justify">Per fortuna non ti credo!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Oh Silvia! Forse che mi hai visto qualche volta piangere dinanzi a te?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">con disperazione</p>
+               <p rend="justify">Oh t'avessi visto almeno piangere una sola lacrima! Sarei stata salva. Sarebbe bastata una parola sola!</p>
+               <p>IL MARITO piange, cercando di nascondere il viso.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">fissandolo, con l'anima in tumulto</p>
+               <p rend="justify">Dimmi perché mi hai abbandonata. Dimmi perché hai voluto umiliare la mia inutile devozione...</p>
+               <p rend="end">Con rabbia</p>
+               <p>E dimmi perché piangi!</p>
+               <p rend="end">Gli gira intorno disperata</p>
+               <p>Dimmi perché piangi!...</p>
+               <p rend="justify">Una pausa. Si ode il singhiozzo represso di lui e il respiro affannoso di lei</p>
+               <p>Questo dolore mi soffoca... Perché, perché hai inabissata la mia esistenza e ora t'affacci sulla mia rovina per mostrarmi il tuo volto angosciato? Ah! È ben meglio che tu mi uccida, ora!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">No, che vuoi vivere per lui!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Ascolta, Ugo! Io non ti so dire dove la mia disperazione mi ha condotto. Devo dire che io amavo quell'uomo, e devo crederlo per rispetto di me. Ma tu ora, Ugo, col tuo dolore è come se avessi messo a giacere il tuo cadavere tra noi due... Guarda: tra me e quella porta!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">la guarda con gli occhi sbarrati, colpito dalle parole di lei. Sembra all'improvviso risolversi e corre verso la porta. Poi torna vicino alla MOGLIE e le parla come in uno stato di incoscienza</p>
+               <p rend="justify">Egli mi aspetta laggiù... Vado!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">avviticchiandosi a lui</p>
+               <p rend="justify">No!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">felice, carezzandole i capelli, dopo una pausa</p>
+               <p rend="justify">Lasciami andare, Silvia. Sei il mio amore, tu. Per tanto tempo non ho osato più dirtelo... Bisognava che ti perdessi per avere questo coraggio. Potrei riafferrarti per sempre, lo so... lo sento... Oh! Sento questa cosa così certa che mi ubriaca di gioia... ma c'è qualcuno al cancello che è arrivato prima di me. Non si passa più!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p>quasi senza fiato</p>
+               <p rend="justify">Ugo... Ugo...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Succede sempre così. Ma chi sbarra la porta non deve essere lui. Lasciami andare. A costo di mettermici io, su quella soglia... egli non deve più entrare in questa casa.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">tremante, appassionata, incoerente</p>
+               <p rend="justify">No, non voglio che tu esponga la tua vita... È armato!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">stringendosela improvvisamente al petto la bacia sulla bocca lungamente</p>
+               <p rend="justify">Lo so... E che m'importa?</p>
+               <p>LA MOGLIE si sente mancare. Le braccia le cadono inerti ai fianchi. Ella piega i ginocchi quasi stesse per svenire. IL MARITO l'abbandona così ed esce in fretta.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">con uno sforzo si alza, rimane un momento come immemore dritta nel mezzo della scena con gli occhi sbarrati. Poi corre alla finestra e chiama con voce soffocata</p>
+               <p rend="justify">Ugo!</p>
+               <p rend="justify">Ella è anelante. Spinge lo sguardo laggiù, tenuta da un'ansia tragica</p>
+               <p>Eccoli... per pietà... Ah! No!</p>
+               <p>Getta un urlo di orrore, si copre gli occhi, come per sfuggire una visione terribile. Qualche cosa di irreparabile è accaduto al di fuori, ed ella dà con la sua scena muta l'impressione di quell'orrore. Poi si aggira come folle in mezzo alla stanza. Ed ecco: si ode un passo pesante e cadenzato dietro la porta. Qualcuno sta per entrare. Chi? Lunga pausa di angoscia durante la quale ella rimane in ascolto, aggrinciata, con l'anima anelante. IL MARITO entra barcollando, pallidissimo, tenendosi una mano sul petto.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">disperatamente, correndogli incontro</p>
+               <p rend="justify">Ugo! Sei ferito... anima mia!... Ho visto tutto! Ho visto tutto...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">accenna di sì e sorride col volto sfigurato da un pallore di morte</p>
+               <p rend="justify">Non sarai più sua!... Ho voluto portarti quassù il mio corpo, per impedirgli di entrare... Chiudi quella porta a chiave.</p>
+               <p>LA MOGLIE lo guarda trasognata.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Chiudi!</p>
+               <p>LA MOGLIE obbedisce macchinalmente.</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Giura... che non lo vedrai più! Giura!...</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Sì, sì... Giuro... Oh! Mi puoi credere!...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">sempre sorridendo</p>
+               <p rend="justify">Sì... sì...</p>
+               <p>Accenna ancora di sì col capo mostrando di essere persuaso che l'altro non entrerà più. Poi cade morto tra l'uscio e la donna.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Ugo! Ugo! Ugo!</p>
+               <p>Pausa. Poi i comici si alzano indifferentemente. La commedia è finita. IL DIRETTORE approva col capo.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Va bene, va bene. Brava Maria...</p>
+               <p rend="justify">Accarezza la guancia della signorina Melato e la stringe un po' al suo fianco mentr'ella sorride dolcemente</p>
+               <p rend="justify">Nella scena muta, mentre aspetti che «lui» salga, hai avuto uno dei più bei tuoi momenti!...</p>
+               <p rend="end">A BETRONE</p>
+               <p rend="justify">Anche tu, Annibale, con la faccia congestionata e la calma con cui pronunzi le ultime battute, sei impressionante. E se io fossi l'autore, lascerei la commedia così. Dov'è l'autore?</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p>entrando in fretta</p>
+               <p rend="justify">Scusa, Virgilio...</p>
+               <p rend="justify">I comici fanno circolo vicino al DIRETTORE</p>
+               <p rend="justify">Vedi: sono stato a sentire questo finale giù in platea. Così è inutile nasconderlo, la commedia assomiglia a tante altre. Bernstein avrebbe fatto certamente molto meglio, ma siamo sempre nella sua concezione scenica. Niccodemi avrebbe ottenuto più effetto. Ci avrebbe messo non so che... un notaio... Lui mette sempre un notaio!</p>
+               <p rend="end">I comici ridono</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="end">sorridendo</p>
+               <p rend="justify">Non fare malignità!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Io invece ci metterei del grottesco. Quando il marito e la moglie si trovano tutti e due vicino alla finestra e vedono l'altro laggiù vicino al cancello... io comincerei a cambiare secondo la variante che ho data al suggeritore.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Già! Tu pensi, in fondo, che quel marito, dopo avere in circostanze così tragiche riconquistato la sua donna... perché infine l'ha riconquistata, non c'è che dire... abbia poi molto torto a essere così imbecille da prendersi una pugnalata per il gusto di non far passare più quell'altro dalla porta... Non hai torto: forse quel marito è un imbecille...</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Perciò vediamo di voltare il dramma in grottesco. Riprendiamo dalla battuta della finestra... là dove dice...</p>
+               <p rend="center smallcaps">LA VOCE DEL SUGGERITORE</p>
+               <p rend="justify">«egli mi aspetta laggiù... Vado».</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">eseguendo</p>
+               <p rend="justify">Egli mi aspetta laggiù...! Vado!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">avviticchiandosi a lui</p>
+               <p rend="justify">No!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Lasciami andare!</p>
+               <p rend="end">Carezzandola</p>
+               <p>Sei il mio amore, Silvia! Per tanto tempo non ho osato dirtelo più! Bisognava che ti perdessi per avere questo coraggio. Potrei riafferrarti per sempre, lo so... lo sento... Oh! Sento questa cosa così certa che m'ubriaca di gioia... ma c'è qualcuno al cancello che è arrivato prima di me. Non si passa più!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Ugo! Ugo!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">la bacia disperatamente. Ella sta per svenire</p>
+               <p rend="justify">Lasciami andare!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">No, rimani qui!</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Lasciami andare!</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">appassionatamente, con voce selvaggia</p>
+               <p rend="justify">No, vieni qui... Vieni dinanzi alla finestra... qui! Ch'egli ci veda!</p>
+               <p rend="end">Languida</p>
+               <p>Ch'egli veda che sei tu, che sei tu quello che io amo... Ecco, rimani qui, e baciami... Baciami, ch'egli veda...</p>
+               <p>Si sente una sghignazzata ironica arrivare alla finestra come una sferzata. IL MARITO e LA MOGLIE rimangono perplessi.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">contrariata e stupita</p>
+               <p rend="justify">Che vuol dire?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Non ti amava. Vedi: ride!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="end">al DIRETTORE</p>
+               <p rend="justify">Che ti pare?</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Mah! Forse è più logica... Però... quella di prima mi pare più di effetto drammatico...</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="end">tranquillamente</p>
+               <p rend="justify">Io cambierei ancora...</p>
+               <p rend="center smallcaps">I COMICI</p>
+               <p rend="justify">protestando un po' scherzosamente</p>
+               <p rend="justify">Oh!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Io ci metterei un Mago...</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Sei sempre lo stesso! Ma da dove fai arrivare questo Mago?</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Che importa? I Maghi arrivano sempre da qualche parte... Ormai li ho abituati a scomodarsi per niente!</p>
+               <p rend="end">Riflettendo</p>
+               <p rend="justify">A meno che...</p>
+               <p rend="center smallcaps">I COMICI</p>
+               <p rend="end">spaventati</p>
+               <p rend="justify">Oh Dio!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">A meno che tu non preferisca una «visione». E ho dato anche la parte per la visione. Allora mettiamo il pupazzo dell'uomo al cancello. Quella statua nella nicchia possiamo farla parlare col fonografo. Perché, scusate, quest'amante è laggiù? Eh? Perché? E non si vede? E non appare? Va bene, è giù al cancello. Ma noi possiamo ottenere un effetto suggestivo magnifico facendo parlare il suo fantoccio, ossia il suo egoismo... materializzando, diciamo così, la sua presenza. Perciò ripigliamo, scusate, là dove dice: «Potrei riprenderti per sempre»...</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="justify">Potrei riprenderti per sempre, ma c'è qualcuno, laggiù, presso il cancello...</p>
+               <p rend="center smallcaps">IL FANTOCCIO DELL UOMO AL CANCELLO</p>
+               <p rend="end">con stridula voce meccanica</p>
+               <p rend="justify">Aspettare è seccante per chi odia il chiaro di luna e le complicazioni nelle avventure sentimentali. Se il mio pudore fosse più disinvolto, guarderebbe i tacchi del proprio tornaconto e metterebbe molto spazio tra la mia contraffazione stridula e il pericolo di un dramma coniugale al primo piano...</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">enfatica nella sua passione</p>
+               <p rend="justify">Oh! Il suo feroce egoismo! Ebbene, Ugo, mio amore ritrovato come un miracolo sulla soglia della tragedia, io voglio imprigionare il tuo spasimo di vendetta! Lascia che questo sogno non sia distrutto... Vedi: s'inizia ora! Non senti come la vita è bella? Le nostre anime curvate verso l'abisso si ricongiungono dinanzi alla morte per deriderla. Non senti nello strazio della mia paura battere contro il tuo petto il mio cuore di sorella?</p>
+               <p rend="center smallcaps">IL MARITO</p>
+               <p rend="end">cupo</p>
+               <p rend="justify">E vuoi che quel perfido passante che si fermò dinanzi alla mia porta a insidiarmi il nido séguiti a cercare per il mondo altre stanchezze da coltivare con la sua anima di servo?</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="end">con lirismo</p>
+               <p rend="justify">Pensa che dobbiamo a lui e alla mia stoltezza questa nuova gioia che fiorisce ora come un fiore notturno nelle nostre due anime! Che t'importa della sua ombra che dilegua? Noi le dobbiamo questa vita che abbiamo riafferrata al galoppo in una corsa tragica, e io ti giuro, anima mia, che sono pura... pura...</p>
+               <p rend="justify">Mutando tono e volgendosi all'AUTORE e al DIRETTORE, mentre sta ancora abbracciata col MARITO</p>
+               <p rend="justify">Questo non vi sembra un po' esagerato? Come faccio a esser pura?</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Già, veramente...</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Eh sì... Eh sì!</p>
+               <p rend="end">All'AUTORE</p>
+               <p>Senti, caro Gigi... Io credo che qui il pubblico mormorerà...</p>
+               <p rend="end">I comici vengono avanti</p>
+               <p>Tu l'hai tenuto per mezz'ora afferrato dalla violenza, che io credo efficacemente appassionata, di un dramma borghese, sia pure il solito dramma. Come vuoi d'un tratto precipitarlo in un lirismo che ha formato bensì il successo di altri lavori, ma perché? Perché quel lirismo, quella struttura, diciamo così... di cerebralità eloquente s'iniziava fin dalle prime battute. Ma qui no! Io credo che il pubblico mormorerà.</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Ma appunto per questo ho messo le due voci in platea!</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Ah già! Ci sono le voci di platea.</p>
+               <p rend="end">Da un'occhiata alla platea</p>
+               <p rend="center smallcaps">I e II VOCE DI PLATEA</p>
+               <p rend="justify">Siamo qui!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">spiegando con molta calma e convinzione</p>
+               <p rend="justify">Se io faccio dire dalle voci di platea quello che già pensa il pubblico della commedia, il pubblico ride perché capisce che l'autore è un uomo di spirito e ha scritto una commedia sbagliata a bella posta per provocare un dibattito finale che costituisce la sua autocritica... A me sembra un metodo eccellente per scaricare tutte le osservazioni che i critici veri erano andati caricando nel loro cervello durante la rappresentazione... Essi non potranno prendersela con l'autore una volta che l'autore già per conto suo se l'è presa con la commedia... Infatti guarda... Riprendiamo subito là dove la signorina Melato dice a Betrone: «io ti giuro anima mia...» Abbia pazienza signorina Melato...</p>
+               <p>I comici tornano alla finestra.</p>
+               <p rend="center smallcaps">LA MOGLIE</p>
+               <p rend="justify">Io ti giuro, anima mia, che sono pura...</p>
+               <p rend="center smallcaps">I VOCE DI PLATEA</p>
+               <p rend="end">indignata</p>
+               <p rend="justify">Ah no! Basta! Basta! Io mi appello al buon senso del pubblico per protestare contro questa roba...</p>
+               <p rend="center smallcaps">II VOCE DI PLATEA</p>
+               <p rend="end">approvando vivamente</p>
+               <p rend="justify">Ha mille ragioni! Io sono con lei!</p>
+               <p rend="center smallcaps">I VOCE DI PLATEA</p>
+               <p rend="end">alla II</p>
+               <p rend="justify">E mi piace di avere il consentimento di quel signore, in cui mi sembra di ravvisare un'illustrazione della città...</p>
+               <p>II VOCE fa un inchino.</p>
+               <p rend="center smallcaps">I VOCE DI PLATEA</p>
+               <p rend="justify">...e una mente illuminata e uno spirito libero... per domandare alla platea e anche ai palchi e anche al loggione se col nostro silenzio troppo educato non corriamo il rischio di renderci complici di questa mostruosità che l'autore ha voluto chiamare commedia...</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="end">al DIRETTORE</p>
+               <p rend="justify">Vedi? La condanna della commedia la facciamo venire dal pubblico, e il pubblico ride.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Sei certo che riderà?</p>
+               <p rend="center smallcaps">I ATTORE</p>
+               <p rend="end">Il MARITO</p>
+               <p rend="justify">Speriamo!</p>
+               <p rend="center smallcaps">I ATTRICE</p>
+               <p rend="end">LA MOGLIE</p>
+               <p rend="justify">Chi lo sa! Non si può mai sapere!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="end">perplesso</p>
+               <p rend="justify">Già... piuttosto questo: quale di queste soluzioni adotteremo?</p>
+               <p rend="center smallcaps">I ATTRICE</p>
+               <p rend="justify">Sicuro! Ne abbiamo provato quattro, ma non potremo recitarle tutte insieme...</p>
+               <p>I comici ridono.</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="end">all'AUTORE</p>
+               <p rend="justify">Deciditi, caro. Questa responsabilità esorbita dal mio ufficio. Non puoi mica sconvolgere e buttare in aria la commedia quattro volte nella stessa sera!</p>
+               <p rend="center smallcaps">L'AUTORE</p>
+               <p rend="justify">Sarebbe comodo!</p>
+               <p rend="center smallcaps">IL DIRETTORE</p>
+               <p rend="justify">Eh, lo so! E poi dire al pubblico: se ne vada a casa con quattro commedie in testa, si scelga quella che più le piace, e buonanotte!</p>
+               <p>I comici, l'AUTORE e il DIRETTORE s'inchinano ridendo dinanzi al pubblico.</p>
+               <p rend="center bold">Sipario</p>
+            </div>
+            <div type="div2" rend="P15">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: C'è qualcuno al cancello</p>
+               <p>AUTORE: Antonelli, Luigi</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: Paesani, Luciano</p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: </p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: Teatro / Luigi Antonelli ; a cura e con un saggio di Luciano Paesani ; prefazione di Franca Angelini. - [Atri] : Amici del libro abruzzese, stampa 2001. - 2 v. - CVII, 511 p. ; 24 cm. - 637 p. ; 24 cm.</p>
+               <p>CODICE ISBN FONTE: non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 20 gennaio 2013</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

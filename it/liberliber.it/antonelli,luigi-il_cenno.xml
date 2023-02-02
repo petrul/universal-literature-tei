@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled Document</title>
+            <author>Antonelli, Luigi </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:02.19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-29T13:46:17.448409663</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Antonelli, Luigi </author>
+         <div type="div1">
+            <head>Il cenno</head>
+            <p>Luigi Antonelli</p>
+            <p>Il cenno</p>
+            <p rend="center bold">Atto Unico<lb/>(Da una novella di Maupassant)</p>
+            <p rend="justify">Rappresentata. Roma, febbraio 1916, Compagnia di Alfredo Sainati.</p>
+            <p rend="start">Edita. Torino, «Il Dramma», II, 13, 1 dicembre 1926.</p>
+            <subtitle>PERSONAGGI</subtitle>
+            <p rend="center">La Baronessa De Grangerie</p>
+            <p rend="center">La Marchesa De Rennedon</p>
+            <p rend="center">Il Signore</p>
+            <p rend="center">La cameriera</p>
+            <div type="div2" rend="P17">
+               <head>Scena prima</head>
+               <p>Salotto elegantissimo. Un balcone, in fondo, è aperto sulla strada di S. Lazzaro. A sinistra la comune. A destra una porta che dà nella camera da letto. Mobili di lusso, gingilli, statuette, un orologio a pendolo, un binocolo da teatro un tavolino con l'occorrente per fumare. Presso la finestra è una sedia bassa di vimini tutta adorna di nastri di seta e di cuscini, assai civettuola. Uno specchio è sospeso alla parete. Due ritratti (uno di uomo, l'altro di donna) sul tavolino di mezzo a cui è attaccato anche un bottone del campanello elettrico.</p>
+               <p rend="center smallcaps">LA BARONESSA DE GRANGERIE</p>
+               <p rend="justify">seduta su di una poltrona di vimini presso la finestra, è occupata a leggere un giornale illustrato. Ella si annoia, e vorrebbe non leggere più: ma non sa che cosa fare. Si allunga tutta sulla poltrona, socchiude gli occhi e rimane per qualche istante come inerte. Poi si scuote e chiama a voce bassa</p>
+               <p rend="justify">Antonietta!</p>
+               <p>Siccome la CAMERIERA non l'ha udita, si allunga fino a spingere il campanello elettrico che si trova sul tavolino.</p>
+               <p rend="center smallcaps">CAMERIERA</p>
+               <p>dalla comune</p>
+               <p>La signora comanda?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Che ore sono Antonietta?</p>
+               <p rend="center smallcaps">CAMERIERA</p>
+               <p rend="justify">Le quattro son suonate da pochi minuti.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Quasi quasi, Antonietta, potreste ordinare allo chaffeur di tenersi pronto per una passeggiata. Fa caldo, è vero, Antonietta?</p>
+               <p rend="center smallcaps">CAMERIERA</p>
+               <p rend="justify">Molto caldo, Signora.</p>
+               <p rend="end">Suono di campanello</p>
+               <p>ANTONIETTA va verso la comune.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Tanto meglio. Se è una visita, rinunzio alla passeggiata.</p>
+               <p rend="center smallcaps">CAMERIERA</p>
+               <p rend="end">tornando quasi subito in scena</p>
+               <p rend="justify">La Marchesa De Rennedon.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">con gioia</p>
+               <p rend="justify">Oh Cara! Cara!</p>
+               <p>CAMERIERA via.</p>
+            </div>
+            <div type="div2">
+               <head>Scena seconda</head>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">che le va incontro</p>
+               <p rend="justify">Come hai fatto bene a venire! Mi annoiavo tanto! Ero disperata! Come la mia vita è triste da qualche tempo a questa parte!</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="end">baciandola</p>
+               <p rend="justify">Cara! Sentiamo perché è triste! Non hai nulla da fare: è per questo?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Forse per questo: sì, per questo! Mio marito è tutto il giorno in Banca! Ecco, tra una mezz'ora egli sarà a casa e comincerà la mia giornata, quando il sole starà per tramontare... Ma prima che tramonti, cara mia, ci son tante ore di sole che io non so assolutamente come vivere!</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Sfido io! Occupi il tempo come una borghese qualsiasi! Alla tua età, e con quegli occhi!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Già: tu pensi che l'unica sarebbe prendersi un amante...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! Dio!...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ma anche per quello è necessaria una vocazione speciale. A me per esempio – non lo crederai – diverte più fare della beneficenza! E poi amo mio marito. Incomincia ad essere chic – sai? – amare il proprio marito... Eh! Sì! Qualche volta ti invidio, sai? Quando penso che tu hai tante cose da fare...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="end">modesta</p>
+               <p rend="justify">Sì, è vero, non c'è male... ma non credere poi che stia a sfacchinare tutto il giorno...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">con un dito puntato verso di lei</p>
+               <p rend="justify">Però...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Dì la verità moriresti dalla voglia di avere, anche tu, qualche cosa da fare.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">No, no. Sinceramente no. Mi manca la vocazione. A proposito, vieni qua.</p>
+               <p rend="end">Si alza</p>
+               <p>A proposito, di sfacchinamento, o di vocazione. Ti faccio vedere una cosa curiosa. Guarda da quella finestra, ma non farti vedere. Tra le cortine.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">In quella casa di fronte?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Sì. Che vedi?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Un palazzo giallo, un balcone di ferro battuto, una signora seduta presso il balcone, in «mauve».</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Benissimo. Indovini dall'atteggiamento chi è quella signora in «mauve»?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Come vuoi che indovini? Potrebbe essere la più onesta fra le donne, potrebbe essere una cocotte.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ecco. Ecco. Hai indovinato: una cocotte. Ma una vera cocotte, mica una di quelle finte, che sono poi oneste mogli di impiegati. Una cocotte che non esercita altro mestiere che il suo. Una professionista insomma.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Eh! Ho capito!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Tu capisci anche che io, in sulle prime, sono rimasta assai seccata. Proprio di fronte alla mia finestra! Ma poi mi sono divertita ad esaminarla, a studiarla. Sai? Ella rimane lì a sedere sulla sedia a guardare tutti gli uomini che passano. E tutti gli uomini – pare impossibile – guardano lei. Si direbbe che una specie di istinto li avverte, passando sotto quelle finestre, che c'è qualche cosa per loro. Proprio come i cani quando fiutano la selvaggina. Oh! È quasi indecente! E lo sguardo che si scambiano, amica mia, è di una eloquenza fulminea. Ella dice, con quello sguardo: «Volete?». E c'è chi risponde: «Non ho tempo»; e c'è chi risponde: «Non ho quattrini», e c'è perfino chi ha l'aria di inveire: «Va al diavolo, svergognata». È la risposta, si capisce, degli onesti padri di famiglia...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">E tu ti diverti, non è vero?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Io sì. Ogni tanto io la vedo alzarsi e chiudere la finestra. Amica mia, tu comprendi perché ella chiude...</p>
+               <p>Butta le braccia al collo della MARCHESA.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Chiude la finestra perché qualcuno è entrato dalla porta.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Sì, sì! Come un pescatore con la lenza prende una bella trota!... E non è brutta, sai? Aspetta... aspetta che io ti prenda il binocolo... Guarda... guarda. È carina, è vero? È proprio carina...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="end">restituendo il binocolo</p>
+               <p rend="justify">Hai ragione. È carina.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ah! Ma tu non sai come io abbia studiata quella donna! Non solo l'ho studiata per quel che fa, ma per qualche cosa di impercettibile e quasi di inimitabile che è del suo mestiere.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! Diamine!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Sì. Io mi son domandata: «come fa quella donna a farsi capire così bene, così presto e così perfettamente»?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Come fa?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Sì: come fa?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Fa un cenno... un certo cenno.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Sicuro: un certo cenno. Ma è qui la sua genialità! Un cenno che dica tutto e sia discreto... Andiamo, via! Che cosa ella aggiunge al suo sguardo? Un movimento della testa? Un movimento della mano? Ecco perché io ho lungamente guardato col binocolo. E ho osservato che tutta la manovra consiste in un'occhiata: ma che occhiata! Da principio un'occhiata, poi un sorriso, poi un piccolo gesto del capo che chiede discretamente: «sì?»... ma così leggero, ahimè, quel gesto! E così vago e così modesto... Oh! Ti assicuro che ci vuole dello «chic» per riuscire così perfettamente! E allora, amica mia... allora io mi sono domandata: «Forse che io, la Baronessa De Grangerie, riuscirei, con tutta la mia intelligenza, a imitare quel piccolo cenno dall'alto in basso, con quell'occhiata, con quel sorriso?» Dimmi tu, amica mia, forse che io, la baronessa De Grangerie... Ebbene, io mi sono provata dinanzi allo specchio! Oh! Amica mia... bisogna convenire che una signora onesta in certe cose è più brava di una cocotte... perché non solo io ho imitato perfettamente quel gesto, ma sono riuscita a metterci più fascino, più eloquenza, più distinzione... Direi quasi che sono riuscita a metterci qualche cosa di personale...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Complimenti!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Che vuoi dire?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! Nulla! Dico che hai proprio ragione: quando ci mettiamo noi donne oneste a fare certe cose...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ma certo! È perché noi ci mettiamo, in fondo, maggior entusiasmo. Noi non saremmo mai, in nessun caso, delle mestieranti. Noi non potremmo essere che delle artiste! Vedi: non puoi credere come quella ragazza mi faccia pietà. Deve essere terribile guadagnarsi la vita... in quel modo là. Non ti pare?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Mah! Io penso che debba, sì, essere triste, ma anche divertente, qualche volta, perché ci sono dei giovanotti simpatici, alle volte...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Chi lo sa? Per esempio adesso... adesso che il sole è tutto dalla mia parte, non c'è nessuno che passi sul mio marciapiedi. Passano tutti sul suo! Se ne vedono di tutti i colori: giovani, vecchi, neri, bianchi, grigi... qualcuno è carino, più carino di...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">...di tuo marito.</p>
+               <p>BARONESSA</p>
+               <p rend="justify">Sì, e anche del tuo ex... perché tu sei divorziata. Tu non lo crederai, ma io muoio dalla voglia di fare un esperimento...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Un esperimento?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Sì. Sì. Io dico: se io facessi un cenno... forse ch'essi lo capirebbero il cenno che potrei fare io, io che sono una donna onesta? Rispondi! Rispondi!</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Amica mia... Tu mi metti in imbarazzo... Capirai, in questo campo non ti ho potuto ancora apprezzare... Forse, sì... non dico di no...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Io credo che noi donne abbiamo veramente delle anime di scimmie. Abbiamo sempre bisogno di imitare qualcuno. Imitiamo i nostri mariti, quando li amiamo, durante la luna di miele... e poi, in seguito, imitiamo i nostri amanti, e le nostre amiche: perfino i nostri figli! Perfino la maniera di pensare, perfino i modi di dire, e il gesto, tutto. Che cosa stupida! Infine che cosa potrebbe accadere?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! Niente di male!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Provare una volta sola sopra uno solo. Che cosa vuoi che succeda? Niente! Ci scambieremo un sorriso: ecco tutto. E sarà un individuo che io non rivedrò più. E se lo rivedrò non mi riconoscerà. E se mi riconoscerà io negherò, perbacco! Tu credi che possa osare di salire fin qui? No! C'è Giuseppe! Se incontra Giuseppe e vede la casa, capisce subito di aver preso un granchio...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Avanti. Voglio starti a guardare. Io col binocolo guarderò l'effetto, nascosta dietro la tenda.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">No. Con te ho soggezione. Alla tua presenza non sarei capace...</p>
+               <p>MARCHESA</p>
+               <p rend="justify">Ebbene, mi racconterai l'effetto dopo.</p>
+               <p rend="end">Per andare</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Te ne vai? Ma non rimani a pranzo con me?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Ma sì, cara. Soltanto io arrivo un momento dal gioielliere e fra un quarto d'ora sarò da te.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Non puoi, andarci dopo? No? E allora sbrigati.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Sì, io mi sbrigherò, ma... mi raccomando! Serietà, giudizio!</p>
+               <p rend="end">Ride</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Gabriella, Gabriella! Forse che è una cosa disonesta quello ch'io faccio?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Per carità.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Forse che mio marito, se lo sapesse, avrebbe il diritto di rimproverarmi?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Eh! Eh! Eh!</p>
+               <p rend="justify">Fa un gesto con la palma della mano come per dire: «sembra quasi di sì»</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Allora è una cosa disonesta?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! Dio! Disonesta non è la parola adatta... E poi disonesta è una brutta parola. In ogni caso non c'è peccato... C'è l'odore del peccato... Tu capisci che finché si tratta di odore...</p>
+               <p rend="end">Esce ridendo</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Fa presto.</p>
+            </div>
+            <div type="div2">
+               <head>Scena terza</head>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">si guarda allo specchio. Accende una sigaretta. Poi va alla finestra</p>
+               <p rend="justify">Eccola là.... cara mia, oggi non hai fortuna... Eppure, sei tanto carina! Eccolo là uno che non la guarda, e che guarda, lo stupido, dalla mia parte. Bé? Che c'è da guardarmi? Aspetta che ti voglio...</p>
+               <p rend="justify">Si appoggia col braccio al davanzale della finestra e china il capo sulla mano. Rimane così un istante. Poi improvvisamente si ritrae, sconvolta in viso, risale la scena, fermandosi in ascolto accanto alla porta agitatissima</p>
+               <p>Oh! Dio! È entrato per il portone! Viene su! Sale le scale!... Oh! Dio! Oh! Dio! Oh! Dio!... Adesso parlerà con Giuseppe... Giuseppe crederà che è un signore che conosco. Ma com'è che seguita a salire? Adesso suonerà... No, no prima che suoni...</p>
+               <p>Corre verso la comune. Si sente aprire una porta, poi un parlare concitato. Poi la porta si chiude e la BARONESSA rientra tutta in disordine, seguita da un giovanotto vestito con affettata eleganza.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">eccitatissima</p>
+               <p rend="justify">Andatevene! Andatevene! Per carità, signore, voi vi siete ingannato! Io sono una donna onesta, una donna maritata! Si tratta di un errore. Vi spiegherò... Io vi ho scambiato per un amico di casa a cui assomigliate assai... Abbiate pietà di me, signore...</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">sorridendo come per dire che egli la sa lunga</p>
+               <p rend="justify">Buon giorno, cara. Inutile seguitare. La tua storia la conosco! Sei una donna maritata? Allora sono due luigi invece di uno. Li avrai! Intanto sbrighiamoci.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Mio Dio! Voi non mi credete, signore... Ebbene, io vi scongiuro, io vi supplico...</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="end">guardandosi intorno</p>
+               <p rend="justify">Per bacco è carino il tuo appartamento! Devi essere di una terribile bolletta se ti sei ridotta, oggi, a uccellare dalla finestra.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">piangendo</p>
+               <p rend="justify">Uccellare! Io sono una donna maritata!</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">E dalli! T'ho già detto che sono due luigi invece di uno!</p>
+               <p rend="end">Guardando il ritratto</p>
+               <p>E questo qui è tuo marito?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Sì.</p>
+               <p rend="end">Piange</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Ha l'aria di un grazioso imbecille.</p>
+               <p>BARONESSA piange più forte.</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Voltiamolo dall'altra parte.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Perché?</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Perché mi fa pena. Io sono uno spirito delicato.</p>
+               <p rend="end">Enfatico</p>
+               <p>Mi fa pena vedere l'effigie di un uomo che, sia pure, sotto il manto maritale, o di amante, mantenuto, sfrutta la bellezza delle povere borghesi, che potrebbero essere brave madri di famiglia e mettere al mondo dei figli meno... naturali! Perché io sono un patriota... e tutto ciò è immorale! Noi uomini ne approfittiamo, ma quella gente là mi fa schifo! E questa qua chi è?</p>
+               <p rend="end">Mostra l'altro ritratto</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">con voce di pianto</p>
+               <p rend="justify">È Gabriella, la mia amica Gabriella.</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="end">commovendosi</p>
+               <p rend="justify">Carina la tua amica Gabriella... Un'altra volta mi presenterai alla tua amica... Ma non sciuparti gli occhi. Ho capito: sei maritata!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">E sono una donna onesta!</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">E sei anche una donna onesta. Benissimo. Conosco il tuo trucco. Tu sei di quelle a cui piace giocare all'adulterio... Eh? Oh! Non sei la sola! È la terza volta che mi capita in un mese!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">disperata</p>
+               <p rend="justify">Non mi crede! Non mi crede!</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="end">colpendosi la fronte con la mano</p>
+               <p rend="justify">Bestia ch'io sono! Scusa sai se non ci ho pensato prima. Tu dubiti – ed è giusto – che io mantenga la promessa. Ecco qua i due luigi, sono tuoi. Li metto qui sopra al caminetto.</p>
+               <p>BARONESSA</p>
+               <p rend="justify">Ma che denaro! Io non ho bisogno del vostro danaro! Tra un quarto d'ora mio marito sarà qua!</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Ma io casco dalle nuvole! Eppure – eh, piccina! – non sei mica alle prime armi, e tu dovresti aver capito che se tuo marito ci disturba io so come si fa... Gli metto in mano un biglietto da cinque franchi e lo mando a comprare qualche cosa qui di faccia...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ma se io vi pregassi... se vi scongiurassi di andarvene... in nome di... quanto avete più caro nella vita!</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="end">prendendole il mento tra due dita</p>
+               <p rend="justify">Di più caro nella vita non ho che te in questo momento. Il tuo gioco all'adulterio è perfetto, se non lo prolunghi; e mi hai messo addosso un certo non so che. Se la seconda parte della tua rappresentazione sarà come la prima, ti farò della reclame, ti manderò qualcuno dei miei amici. Orsù, fammi strada.</p>
+               <p>BARONESSA</p>
+               <p rend="justify">Ve la darò io la strada. Ve la farò mostrare dai miei domestici!</p>
+               <p rend="justify">Si dirige verso il campanello elettrico</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="end">trattenendola per un braccio</p>
+               <p rend="justify">Basta, eh? Piccina! Adesso mi arrabbio... I tuoi domestici! Per poco non mi dai ad intendere che sei una contessa, una marchesa! Sei una donna onesta, sei maritata, va benissimo, ma non bisogna esagerare!</p>
+               <p>L'orologio a pendolo suona le cinque.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Mio Dio! Ecco fra dieci minuti egli torna! Ed io sono perduta, perduta!</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Chi torna? Il signor marito? Ah! Ah! Io me ne infischio di tuo marito. E anche ammesso che egli stia per arrivare, ragione di più per sbrigarsi...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">lo guarda trasognata</p>
+               <p rend="justify">Non ve ne volete andare?</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Naturalmente me ne andrò, ma dopo.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Volete ad ogni costo...</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Ma sì, piccina. Dovresti saperlo a memoria, ormai...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">altro scoppio di singhiozzi. Ad un tratto ella si asciuga le lacrime, si irrigidisce, e con gesto tragico accennando la porta, gli dice, imperiosamente</p>
+               <p rend="justify">Là. Presto.</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Finalmente! Ci voleva tanto</p>
+               <p rend="justify">Si fa da un canto, e invita con gesto cavalleresco la signora ad entrare</p>
+               <p rend="justify">Prima lei! Prego, contessa, marchesa...</p>
+               <p>BARONESSA esce singhiozzando forte.</p>
+            </div>
+            <div type="div2">
+               <head>Scena quarta</head>
+               <p>Una pausa. Poi la voce della MARCHESA Gabriella. MARCHESA entra, attraversa la scena. Si ferma, poi, improvvisamente osserva con grande meraviglia il bastone ed il cappello dello sconosciuto. Poi guarda con sospetto la porta della camera da letto della BARONESSA. Dopo di essersi messa in modo che la sua persona nasconda cappello e bastone spinge il campanello elettrico.</p>
+               <p rend="center smallcaps">CAMERIERA</p>
+               <p rend="justify">La signora ha suonato?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Non è venuto nessuno, Antonietta, durante questa mezz'ora?</p>
+               <p rend="center smallcaps">CAMERIERA</p>
+               <p rend="justify">Nessuno signora.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Va bene. Grazie.</p>
+               <p>CAMERIERA via</p>
+            </div>
+            <div type="div2">
+               <head>Scena quinta</head>
+               <p>Si riapre la porta. IL SIGNORE rientra in scena con l'aria soddisfatta, senza accorgersi della presenza della MARCHESA Gabriella. Si volge verso la camera da letto, tutto cerimonioso, e dice : «di nuovo arrivederci, gattina mia. Arrivederci domani alla stessa ora...» IL SIGNORE, poi volgendosi, si accorge della MARCHESA Gabriella. Si ferma, le fa un inchino, va a prendersi il cappello ed il bastone senza mai perderla d'occhio, mentre la signora ha l'aria di guardarlo ironicamente dall'alto in basso. Quando le passa accanto per uscire le si avvicina tutto galante.</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="justify">Siete la sua amica Gabriella... Quella del ritratto?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">lo guarda ironicamente e un po' minacciosa</p>
+               <p rend="justify">Ma... chi le ha detto?</p>
+               <p>IL SIGNORE</p>
+               <p rend="justify">È la vostra amica che mi ha detto tutto... Un'altra volta verrò da te, unicamente per te, carina.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Ma voi siete un bel villano! Per chi mi prendete? Sapete che io sono...</p>
+               <p rend="center smallcaps">IL SIGNORE</p>
+               <p rend="end">interrompendola</p>
+               <p rend="justify">St! Lo so. Lo so. Siete una signora onesta... È il sistema della casa... Lo so. Addio... gatta!</p>
+               <p rend="end">Via</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">al colmo dello stupore si avvicina alla camera da letto chiamando</p>
+               <p rend="justify">Adriana! Adriana!</p>
+            </div>
+            <div type="div2">
+               <head>Scena sesta</head>
+               <p>BARONESSA entra correndo nella stanza e si getta fra le braccia dell'amica, singhiozzando.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Ma si può sapere che cosa hai fatto?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">tra i singhiozzi</p>
+               <p rend="justify">Forse che io lo so, amica mia?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Ma chi è quel... signore?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Non lo so.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Non lo sai?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">c. s.</p>
+               <p rend="justify">Non lo so. È venuto su, perché io ho fatto tanto bene quel cenno che sai...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Ah!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">E allora... allora io, mentre saliva le scale, ho perduto la testa... Sono andata io stessa ad aprire... mio marito stava per rientrare...</p>
+               <p rend="end">Quasi con rabbia</p>
+               <p>Non so come egli non sia ancora qui!... E ho pregato, scongiurato. Oh! Sì, se ho pregato! E volevo chiamare gente... ma egli è di un carattere tenace... volontario... Non mi ha creduto!... Io allora ho capito che il meglio che potessi fare era di sbarazzarmi di lui... al più presto... sì, al più presto... E poiché dunque era necessario... Sì... poiché era necessario... perché non voleva andarsene senza... Allora, allora... Tu comprendi...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">scoppia a ridere mentre la BARONESSA la guarda perplessa; ma lei senza ridere. Poi quando s'è calmata chiede con voce pacata</p>
+               <p rend="justify">Era simpatico, mi pare...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ma sì.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Bè! Meno male.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ma tu capisci che quel disgraziato ha detto che tornerà domani! Pensa, a parte il fatto che mi sono disonorata...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Non esagerare! Qui si tratta, amica mia, di un caso di forza maggiore...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">No, no... A parte il fatto che io mi sono disonorata, come farò io a liberarmi di quell'uomo che forse pensa di venirmi a trovare tutti i giorni?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Non c'è che un mezzo, mia cara. Farlo arrestare.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Come? Arrestare? E con che pretesto?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! È semplicissimo. Tu vai dal Commissario di Polizia. Gli dici che un signore ti segue da tre mesi, ed ha avuto l'insolenza di salire oggi fino al tuo appartamento: e ti ha annunziato un'altra visita per domani. Perciò tu chiedi di essere protetta dalla legge. Allora egli metterà a tua disposizione due agenti che lo arresteranno.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ma se egli racconta, invece, come stanno le cose?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! Non gli crederanno! Dal momento che tu avrai raccontata la tua storia al Commissario... E invece crederanno a te, a te, che sei una signora irreprensibile...</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Oh! Non più! Ormai questo non si può dire di me... Vedi cara: io ti confesso che, in cuor mio, ti rimproveravo la tua leggerezza, i tuoi troppi... sì, le tue troppe conoscenze... Oh! Ma almeno tu te li scegli tra i tuoi amici... Non ti prendi</p>
+               <p rend="end">piangendo</p>
+               <p>il primo uomo che passa...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Oh! Amica mia... in fondo, è lo stesso!... Ma lasciamo stare. Queste sono considerazioni stupide. Piuttosto pensa ora di fare come ti ho detto io: altrimenti sei perduta.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ma pensa, pensa che egli m'insulterà quando sarà arrestato.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Non gli crederanno. E tu avrai dei testimoni e lo farai condannare. Oh! In questi casi bisogna essere senza pietà. Lo farai condannare alle spese.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">battendo le mani come presa da un nuovo sgomento</p>
+               <p rend="justify">A proposito di spese... Oh! Non ci mancava che questa!</p>
+               <p rend="justify">Si alza, va al caminetto. Prende i due luigi</p>
+               <p>Tu non sai che cosa c'è qui. Guarda, guarda: del denaro! Del denaro con cui quel mascalzone ha creduto</p>
+               <p rend="end">piange</p>
+               <p>di pagarmi...</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="end">seriamente</p>
+               <p rend="justify">Quanto?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Due luigi.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="end">incredula</p>
+               <p rend="justify">Oh! No!</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Eccoli qua: due luigi.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="end">indignata</p>
+               <p rend="justify">Oh! È poco. Questo sì, mi sembra umiliante. Ebbene?</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="justify">Ebbene, che cosa devo fare io di questo denaro?</p>
+               <p rend="end">Suono di campanello.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Ecco tuo marito.</p>
+               <p>BARONESSA singhiozza.</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="end">in fretta</p>
+               <p rend="justify">Lascia stare, non piangere. Tu rischi di comprometterti.</p>
+               <p rend="center smallcaps">BARONESSA</p>
+               <p rend="end">a voce bassa</p>
+               <p rend="justify">Ma dimmi che cosa devo fare di questo denaro?</p>
+               <p rend="center smallcaps">MARCHESA</p>
+               <p rend="justify">Senti: compra un oggetto qualunque... Bisogna che tu ne faccia un piccolo regalo a tuo marito... Siamo giusti: se lo è meritato!</p>
+               <p rend="center bold">Sipario</p>
+            </div>
+            <div type="div2" rend="P18">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: Il cenno</p>
+               <p>AUTORE: Antonelli, Luigi</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: Paesani, Luciano</p>
+               <p>NOTE: Da una novella di Maupassant</p>
+               <p>CODICE ISBN E-BOOK: </p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: Teatro / Luigi Antonelli ; a cura e con un saggio di Luciano Paesani ; prefazione di Franca Angelini. - [Atri] : Amici del libro abruzzese, stampa 2001. - 2 v. - CVII, 511 p. ; 24 cm. - 637 p. ; 24 cm.</p>
+               <p>CODICE ISBN FONTE: non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 10 aprile 2013</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center bold">
+                  <ptr target="http://www.liberliber.it/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

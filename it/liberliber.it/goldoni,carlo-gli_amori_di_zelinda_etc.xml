@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gli amori di Zelinda e Lindoro</title>
+            <author>Carlo Goldoni</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-31T10:00:51.618406845</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                          
+      <body>
+         <author>Carlo Goldoni</author>
+         <div type="div1">
+            <head>Gli amori di Zelinda e Lindoro</head>
+            <div type="div2" rend="P25">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p rend="center color(#dc2300)bold">E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p rend="center">
+                  <ref target="https://www.e-text.it/">www.e-text.it</ref>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: Gli amori di Zelinda e Lindoro</p>
+               <p>AUTORE: Goldoni, Carlo</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: </p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: 9788828102656</p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ref target="https://www.liberliber.it/online/opere/libri/licenze">www.liberliber.it/online/opere/libri/licenze</ref>
+               </p>
+               <p>COPERTINA: [elaborazione da] "The Happy Lovers (1765)" di Jean-Honoré Fragonard (1732–1806). - Norton Simon Museum, Pasadena, California, United States. - https://commons.wikimedia.org/wiki/File:Happy_Lovers.jpg. - Pubblico Dominio.</p>
+               <p>TRATTO DA: 3.: Gli amori di Zelinda e Lindoro ; La gelosia di Lindoro ; L'avaro ; Il bugiardo ; La vedova scaltra ; Pamela nubile / [di Carlo Goldoni]. - 4. ed. stereotipa. - Milano : Sonzogno, 1887. - 337 p. ; 18 cm.. - (Biblioteca classica economica ; 44). </p>
+               <p>CODICE ISBN FONTE: n. d.</p>
+               <p>
+                  <anchor type="bookmark-start" xml:id="id___DdeLink__17123_3208837378"/>1a EDIZIONE ELETTRONICA DEL: 15 marzo 2001<ptr type="bookmark-end" target="#id___DdeLink__17123_3208837378"/>
+               </p>
+               <p>2a EDIZIONE ELETTRONICA DEL: 14 luglio 2021</p>
+               <p>INDICE DI AFFIDABILITÀ: 1</p>
+               <p>0: affidabilità bassa</p>
+               <p>1: affidabilità standard</p>
+               <p>2: affidabilità buona</p>
+               <p>3: affidabilità ottima</p>
+               <p>SOGGETTO:</p>
+               <p>PER015000 ARTI RAPPRESENTATIVE / Commedia</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>REVISIONE:</p>
+               <p>Marina De Stasio, marina.destasio@fastwebnet.it</p>
+               <p>Ugo Santamaria</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it (ODT)</p>
+               <p>Marco Totolo (ODT)</p>
+               <p>Mariano Piscopo, mariano.piscopo@gmail.com (ePub)</p>
+               <p>Marco Totolo (revisione ePub)</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Maria Mataluno, m.mataluno@mclink.it</p>
+               <p>Ugo Santamaria</p>
+               <subtitle>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc349_1637598191"/>Liber Liber<ptr type="bookmark-end" target="#id___RefHeading___Toc349_1637598191"/>
+               </subtitle>
+               <p rend="justify">Se questo libro ti è piaciuto, aiutaci a realizzarne altri. Fai una donazione: <ref target="https://www.liberliber.it/online/aiuta/">www.liberliber.it/online/aiuta</ref>.</p>
+               <p rend="justify">Scopri sul sito Internet di Liber Liber ciò che stiamo realizzando: migliaia di ebook gratuiti in edizione integrale, audiolibri, brani musicali con licenza libera, video e tanto altro: <ref target="https://www.liberliber.it/">www.liberliber.it</ref>.</p>
+            </div>
+            <div type="div2" rend="P26">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13550_1310162191"/>Personaggi<ptr type="bookmark-end" target="#id___RefHeading___Toc13550_1310162191"/>
+               </head>
+               <p rend="justify">DON ROBERTO, nobile.</p>
+               <p rend="justify">DONNA ELEONORA, moglie di Roberto in seconde nozze.</p>
+               <p rend="justify">DON FLAMINIO, figlio di Roberto del primo letto.</p>
+               <p rend="justify">ZELINDA, giovine civile rifugiata in casa di Roberto in figura di cameriera.</p>
+               <p rend="justify">LINDORO, giovine civile incognito in casa di Roberto in figura di segretario.</p>
+               <p rend="justify">BARBARA, giovine civile che passa per cantatrice.</p>
+               <p rend="justify">FEDERICO, mercante.</p>
+               <p rend="justify">FABRIZIO, maestro di casa di Roberto.</p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Un Facchino</hi>  che parla.</p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Un Caporale</hi>  della Guardia.</p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Un Marinaro</hi>.</p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Due</hi> 
+                  <hi rend="smallcaps">Servitori.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Sei</hi> 
+                  <hi rend="smallcaps">Soldati.</hi>
+               </p>
+               <p rend="center">La scena si rappresenta in Pavia.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13552_1310162191"/>Atto primo<ptr type="bookmark-end" target="#id___RefHeading___Toc13552_1310162191"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13554_1310162191"/>Scena prima<ptr type="bookmark-end" target="#id___RefHeading___Toc13554_1310162191"/>
+                  </head>
+                  <p rend="justify">Camera con un grande armadio nel fondo, due porte laterali aperte che poi si chiudono; ed un tavolino da una parte, ad uso di segretario, col bisogno da scrivere, e sedie.</p>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio</hi>
+                     <hi rend="italic">  solo.</hi>
+                  </p>
+                  <p rend="justify">Ah! Ci scommetterei la testa che Zelinda e Lindoro si amano segretamente. Li vedo troppo attaccati, e credo, se mal non ho inteso, si abbiano dato l'appuntamento di trovarsi qui insieme. Ecco la ragione, per cui costei mi disprezza, che altrimenti, se Lindoro è segretario, io son mastro di casa, e tutti due serviamo onorevolmente lo stesso padrone, ed ella, quantunque dia ad intendere di esser nata signora, è obbligata, come me, a nutrirsi di pane altrui, ed a servire da cameriera... Ma... Eccoli a questa volta. Vo' chiudermi in quest'armadio, e scoprire, se posso, i segreti loro. Se ne vengo in chiaro, se si amano veramente, non son Fabrizio, se non mi vendico. (<hi rend="italic">si chiude nell'armadio</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13556_1310162191"/>SCENA II<ptr type="bookmark-end" target="#id___RefHeading___Toc13556_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda, Lindoro, Fabrizio</hi>
+                     <hi rend="italic">  nascosto.</hi>
+                  </p>
+                  <p>LIN. Qui, qui, Zelinda, qui potremo parlare con libertà.</p>
+                  <p>ZEL. Gran cosa! in questa casa tutti ci fan la spia. Tutti ci tengono gli occhi addosso. Specialmente Fabrizio.</p>
+                  <p>LIN. Maledetto Fabrizio, non lo posso soffrire.</p>
+                  <p>ZEL. Zitto, che non ci sentisse.</p>
+                  <p>LIN. Non crederei che il diavolo lo portasse qui.</p>
+                  <p>ZEL. Ho delle cose da confidarvi. Guardate da quella parte se vi è nessuno.</p>
+                  <p>LIN. Guardiamo… No, non vi è nessuno… Ho anch'io da dirvi qualche cosa che mi dà pena.</p>
+                  <p>ZEL. Ditemela, caro Lindoro.</p>
+                  <p>LIN. Ditemi prima voi.</p>
+                  <p>ZEL. No, prima voi.</p>
+                  <p>LIN. Prima di tutto vi dirò, che quest'impertinente di Fabrizio m'inquieta, poichè vedo, capisco, che ha delle intenzioni sopra di voi...</p>
+                  <p>ZEL. Oh! per questa parte potete viver tranquillo. Mi conoscete, sapete che vi amo, sapete quel che ho fatto per voi...</p>
+                  <p>LIN. Sì, è vero, una giovane ben nata, come voi siete, non può dar retta ad un uomo vile, che ha fatto qualche danaro alle spese di un padrone indulgente.</p>
+                  <p>ZEL. Ma parlate piano, che, se per disgrazia ci sentisse, saremmo perduti. Serrate quella porta: io serrerò quest'altra. (<hi rend="italic">chiudono le due porte</hi>)</p>
+                  <p>LIN. Ecco fatto. Ora siamo sicuri di non essere scoperti. Per tutti questi riflessi adunque sono sicuro per la parte del servitore, ma il padrone mi fa tremare.</p>
+                  <p>ZEL. Qual padrone?</p>
+                  <p>LIN. Non so che dire, tutti due, il padre ed il figlio egualmente.</p>
+                  <p>ZEL. Oh, in quanto al vecchio, vi assicuro che sospettate a torto. Il signor Don Roberto è un uomo savio, dabbene, pieno di carità, che mi ama con amore paterno, che compatisce il mio stato, che sa che io non sono nata per servire, e procura colle sue buone grazie di raddolcire la mia condizione.</p>
+                  <p>LIN. Sì, tutto va bene; ma lo fa con troppa caricatura; e so che sua moglie medesima interpreta malamente le finezze ch'egli vi usa.</p>
+                  <p>ZEL. Donna Eleonora, pensando sì malamente, fa torto a suo marito, e fa a me un'ingiustizia. Non crediate però ch'ella agisca per gelosia, poichè una giovane che sposa un vecchio per interesse, raramente è di lui gelosa. Dubita ch'egli mi sia liberale di qualche cosa. Sa che mi ha promesso alla sua morte di beneficarmi, teme ch'io vaglia a pregiudicarla.</p>
+                  <p>LIN. Ma... E il figlio?</p>
+                  <p>ZEL. Oh circa il signor Don Flaminio, questo è quello ch'io volea confidarvi. Mi si è scoperto liberamente.</p>
+                  <p>LIN. Povero me! Sono nel maggior affanno del mondo.</p>
+                  <p>ZEL. Non temete di nulla. Siate sicuro della mia costanza.</p>
+                  <p>LIN. Ma non posso viver tranquillo. Cara Zelinda, profittiamo della protezione del vecchio, scopriamogli il nostro amore, ed impegniamo la sua bontà ad acconsentire alle nostre nozze.</p>
+                  <p>ZEL. Caro Lindoro, ci ho pensato anch'io; ma vi scopro delle grandi difficoltà. Il signor Don Roberto non vi conosce, non sa che per amor mio siate fuggito di casa vostra, e siate venuto a servirlo per segretario unicamente per star meco. Appunto perch'egli mi ama, e perchè ha qualche considerazione per me, non vorrà maritarmi con un giovine che apparentemente non può mantenermi, e in fatti non lo potete, se vostro padre non vi acconsente, e non vi accorda il modo di farlo.</p>
+                  <p>LIN. Scriverò a mio padre, gli farò scrivere, gli farò parlare; ma intanto ho da soffrire di vedervi accarezzata dal padrone, e perseguitata dal mastro di casa?</p>
+                  <p>ZEL. Non temete nè dell'uno, nè dell'altro. Ma bisogna che ci conteniamo colla maggior cautela, perchè se venissero ad iscoprirci...</p>
+                  <p>LIN. Certamente: se Fabrizio sapesse quel che passa fra di noi, sarebbe capace di rovinarci.</p>
+                  <p>ZEL. Non ci facciamo trovare insieme.</p>
+                  <p>LIN. Sì, e quando c'incontriamo, che gli occhi parlino, e che la lingua soffra.</p>
+                  <p>ZEL. Ma non basta ancora. Per togliere ogni sospetto, mostriamo di fuggirci.</p>
+                  <p>LIN. Facciamo di più, mostriamo d'odiarci.</p>
+                  <p>ZEL. Se lo potessimo fare, sarebbe il sicuro metodo per nascondere il nostro amore.</p>
+                  <p>LIN. Quando si va d'accordo, si può fingere qualche cosa.</p>
+                  <p>ZEL. Bene, ci regoleremo così.</p>
+                  <p>LIN. Poi troveremo qualche momento...</p>
+                  <p>ZEL. Oh sì: siamo in casa, profitteremo dell'occasioni...</p>
+                  <p>LIN. Profittiamo intanto di questa.</p>
+                  <p>ZEL. Andiamo, andiamo, che se i padroni ci chiamano...</p>
+                  <p>LIN. Io posso restar qui a scrivere, a far qualche cosa.</p>
+                  <p>ZEL. Ci tornerete poi. Andiamo per ora, per non dar sospetto. Io per di qua, e voi per di là.</p>
+                  <p>LIN. Guardiamo, nell'aprir le porte, se qualchedun ci vede.</p>
+                  <p>ZEL. Guardiamo per il buco della serratura. (<hi rend="italic">tutti due guardano dalla lor parte</hi>)</p>
+                  <p>LIN. (<hi rend="italic">a Zelinda</hi>) Nessuno.</p>
+                  <p>ZEL. (<hi rend="italic">a Lindoro</hi>)<hi rend="italic"> </hi>Non c'è nessuno. (<hi rend="italic">Ciascheduno apre la lor porta pian piano e guarda</hi>)</p>
+                  <p>LIN. (<hi rend="italic">a Zelinda</hi>) Non c'è persona.</p>
+                  <p>ZEL. (<hi rend="italic">a Lindoro</hi>) Qui neppure.</p>
+                  <p>LIN. (<hi rend="italic">stando sulla porta in atto di andarsene</hi>) Va tutto bene.</p>
+                  <p>ZEL. (<hi rend="italic">nella stessa situazione</hi>) Benissimo.</p>
+                  <p>LIN. Addio.</p>
+                  <p>ZEL. Vogliatemi bene.</p>
+                  <p>LIN. E che nessuno lo sappia.</p>
+                  <p>ZEL. Nessuno l'ha da sapere. (<hi rend="italic">partono</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13558_1310162191"/>SCENA III<ptr type="bookmark-end" target="#id___RefHeading___Toc13558_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio</hi>
+                     <hi rend="italic">  esce dall'armadio.</hi>
+                  </p>
+                  <p rend="justify">Non dubitate, che nessun lo saprà. Sono venuto a tempo. Non mi sono ingannato, ed ho scoperto abbastanza. Lindoro è anch'egli una persona civile, che si nasconde per amor di Zelinda? Tanto peggio per me. Bisogna cercare il modo di farlo cacciare di questa casa. Il mezzo più sicuro è quello del signor Don Flaminio. Egli ama Zelinda, e se viene a sapere i segreti amori di lei con Lindoro, son sicuro che farà di tutto per allontanare un rivale, ed io medesimo lo avvertirò, e gli suggerirò di disfarsene sicuramente. Bisogna ch'io nasconda il mio amor per Zelinda, che faccia valere l'interesse ch'io prendo per il mio padrone, e che mi serva dell'amor suo per facilitare il mio. Vado subito a ritrovarlo. Ma, eccolo ch'egli viene. Eh, il diavolo è galantuomo, contribuisce di buona voglia alle cattive intenzioni.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13560_1310162191"/>SCENA IV<ptr type="bookmark-end" target="#id___RefHeading___Toc13560_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Flaminio</hi>
+                     <hi rend="italic">  e detto.</hi>
+                  </p>
+                  <p>FLA. Dov'è Zelinda, che non si vede?</p>
+                  <p>FAB. Signore, io non so dove sia, ma so dov'è stata finora.</p>
+                  <p>FLA. Come! Dove è ella stata? Vi è qualche novità? (<hi rend="italic">affettando dell'agitazione</hi>)</p>
+                  <p>FAB. Vi è una novità, signore, che deve interessare la vostra passione, ed anche il vostro decoro.</p>
+                  <p>FLA. Oh cieli! E Zelinda ne ha parte?</p>
+                  <p>FAB. Ne ha parte grandissima, poichè ella è amante di Lindoro; e costui è sì temerario, che sapendo la vostra inclinazione per questa giovane, ha il coraggio di burlarsi di voi, e di perdervi ancora il rispetto.</p>
+                  <p>FLA. Indegno! lo farò morire sotto un bastone.</p>
+                  <p>FAB. No, signore, non vi consiglio di far rumore, poichè perdereste la speranza di venire al termine de' vostri disegni.</p>
+                  <p>FLA. Che mi consigli dunque di fare?</p>
+                  <p>FAB. Vi consiglio di parlarne al signor Don Roberto...</p>
+                  <p>FLA. Credi tu che mio padre acconsentirebbe ch'io sposassi Zelinda?</p>
+                  <p>FAB. Oh sono ben lontano di credere una simil cosa.</p>
+                  <p>FLA. Finalmente Zelinda è nata assai civilmente.</p>
+                  <p>FAB. Non importa; è povera, è in qualità di serva, non l'accorderà mai.</p>
+                  <p>FLA. Che dunque vorresti tu ch'io dicessi a mio padre?</p>
+                  <p>FAB. Voi non avete che a scoprirgli i segreti amori, che passano fra Zelinda e Lindoro. Mettergli sotto gli occhi il torto che fa costui alla casa amoreggiando colla cameriera, e il pregiudizio che ne verrebbe a questa giovine, se si maritasse con uno che non ha il modo di mantenerla. Aggiungete che Lindoro è di un cattivo carattere, che sapendo essere Zelinda di buona nascita, dà ad intendere d'essere egli pure qualche cosa di buono, ma è un falsario, un impostore, un birbante. Sapete quanto il signor Don Roberto ama e stima questa buona figliuola. Son certo che s'egli sa tutto questo, non differisce un'ora a licenziar quel birbone.</p>
+                  <p>FLA. Tu dici bene; ma io ho il cuore buono, e non so far male a persona.</p>
+                  <p>FAB. Lodo la vostra bontà, la vostra umanità; ma voi, scusatemi, non siete in obbligo di risparmiare un temerario, un indegno che parla di voi con disprezzo, e che vi mette in ridicolo a tutto andare.</p>
+                  <p>FLA. Mi mette in ridicolo?</p>
+                  <p>FAB. Vi assicuro, signore, ch'io mi sentiva rodere per parte vostra. Vedete voi quell'armadio? Là dentro mi sono celato per intendere, per rilevare; e per voi l'ho fatto, per voi, ed ho rilevato ed ho inteso cose, che mi facevano inorridire. Come? Il mio padrone un imbecille, una caricatura, un fanatico?</p>
+                  <p>FLA. Giuro al cielo! a me questo?</p>
+                  <p>FAB. Vi assicuro, che se non fosse stata la prudenza che mi avesse trattenuto...</p>
+                  <p>FLA. Qual prudenza a fronte delle ingiurie?</p>
+                  <p>FAB. Signor mio, la prudenza è necessarissima. Se si fa dello strepito, vostro padre viene a rilevare che voi amate Zelinda.</p>
+                  <p>FLA. È vero, conviene dunque ch'io soffra.</p>
+                  <p>FAB. Ma che vi disfacciate di quest'ardito.</p>
+                  <p>FLA. Hai ragione, ne parlerò a mio padre, e ne parlerò in modo che lo manderà via.</p>
+                  <p>FAB. Ma soprattutto non date a conoscere la vostra passione.</p>
+                  <p>FLA. Sarò cauto. Mi guarderò di darne alcun segno.</p>
+                  <p>FAB. Mi preme troppo la vostra quiete e la vostra soddisfazione.</p>
+                  <p>FLA. Ti ringrazio, e non lascerò di ricompensarti.</p>
+                  <p>FAB. Non perdete tempo, signore.</p>
+                  <p>FLA. Vado subito. (È gran fortuna aver un servitore fedele.) (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13578_1310162191"/>SCENA V<ptr type="bookmark-end" target="#id___RefHeading___Toc13578_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Lindoro</hi>
+                  </p>
+                  <p>FAB. Questo si chiama cavar la castagna dal fuoco colla mano altrui. Che vada Lindoro fuori di casa, e mi comprometto di guadagnare l'animo di Zelinda. Ella ha voglia di maritarsi. Don Flaminio non avrà mai la permissione di sposarla. Io sono in buon credito presso il vecchio; affè di bacco, non ci vedo altri ostacoli per averla.</p>
+                  <p>LIN. (<hi rend="italic">da sè, vedendo Fabrizio</hi>) (Ecco il mio tormento, e l'ho sempre dinanzi agli occhi).</p>
+                  <p>FAB. (<hi rend="italic">da sè</hi>) (Conviene dissimulare).</p>
+                  <p>LIN. (<hi rend="italic">Va al tavolino, siede, e si mette a scrivere</hi>)</p>
+                  <p>FAB. (<hi rend="italic">a Lindoro</hi>) Di buon'ora al lavoro.</p>
+                  <p>LIN. (<hi rend="italic">scrivendo</hi>) Io non faccio che il mio dovere.</p>
+                  <p>FAB. È ben fortunato il nostro padrone d'aver al suo servizio un giovine attento e morigerato, come voi siete.</p>
+                  <p>LIN. Vi ringrazio dell'elogio cortese.</p>
+                  <p>FAB. In verità vi amo anch'io infinitamente.</p>
+                  <p>LIN. (Oh se sapessi quanto ti odio!) È un effetto della vostra bontà.</p>
+                  <p>FAB. Ma voi, dite quel che volete, avete delle maniere così gentili ed una condotta sì nobile e sì decente, che giurerei che siete d'una condizione superiore al grado in cui vi trovate.</p>
+                  <p>LIN. Per esser galantuomo, e per far il suo debito, non vi è bisogno di nascita, ma di cuore.</p>
+                  <p>FAB. Meritereste per altro uno stato molto più fortunato.</p>
+                  <p>LIN. Io mi contento del mio.</p>
+                  <p>FAB. Mi viene in mente una cosa... Io penso a voi, come se foste qualche cosa del mio.</p>
+                  <p>LIN. (<hi rend="italic">da sè</hi>) (Più ne dice, e meno gli credo).</p>
+                  <p>FAB. Sì, dovreste prender moglie.</p>
+                  <p>LIN. Io? E come vorreste che facessi per mantenerla?</p>
+                  <p>FAB. Coll'abilità e colla condotta che avete, non potreste mai mancar di star bene.</p>
+                  <p>LIN. Sarebbe assai difficile ch'io trovassi chi mi volesse.</p>
+                  <p>FAB. Affè, ne conosco una io, che pare fatta per voi.</p>
+                  <p>LIN. E chi? se vi piace.</p>
+                  <p>FAB. Chi? Zelinda.</p>
+                  <p>LIN. (Ah il furbo!) Zelinda è povera, ma è nata bene; ella non vorrà maritarsi per continuar a vivere del pane altrui.</p>
+                  <p>FAB. Chi sa? In questa casa siete tutti due ben veduti, ben collocati. Volete ch'io ne parli?</p>
+                  <p>LIN. No, vi ringrazio, non sono in caso di maritarmi e poi, per dirvi la verità, per Zelinda non ho inclinazione veruna.</p>
+                  <p>FAB. (Ah il birbone!) Eppur Zelinda ha del merito, ha delle buone speranze...</p>
+                  <p>LIN. No, no, lasciatemi in pace, e non mi parlate di questo.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13580_1310162191"/>SCENA VI<ptr type="bookmark-end" target="#id___RefHeading___Toc13580_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">  e detti.</hi>
+                  </p>
+                  <p>ZEL. Fabrizio, i padroni vi domandano.</p>
+                  <p>FAB. Tutti due?</p>
+                  <p>ZEL. Tutti due.</p>
+                  <p>FAB. Vado subito. (Chi sa che il giovine non mi voglia in testimonio contro Lindoro? Lo servirò a dovere). (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>Zelinda, voi siete venuta in tempo ch'io parlava di voi a Lindoro.</p>
+                  <p>ZEL. Di me?</p>
+                  <p>FAB. Di voi.</p>
+                  <p>ZEL. Su qual proposito? Che cosa v'è di comune fra di noi?</p>
+                  <p>FAB. Se non c'è altro di comune, c'è il merito.</p>
+                  <p>ZEL. Voi vi prendete spasso di me. Ei bada a' fatti suoi, io bado a' miei. Nè io sono fatta per lui, nè egli è fatto per me. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13582_1310162191"/>SCENA VII<ptr type="bookmark-end" target="#id___RefHeading___Toc13582_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">  e </hi>
+                     <hi rend="bold">Fabrizio</hi>
+                  </p>
+                  <p>FAB. (Oh si regolano perfettamente!) (<hi rend="italic">a Lindoro</hi>)<hi rend="italic"> </hi>Mi dispiace davvero di vedere in voi due una specie di avversione, di antipatia, di contrarietà.</p>
+                  <p>LIN. Lasciatemi scrivere, lasciatemi lavorare.</p>
+                  <p>FAB. (Sì, sì, lavora pure, che lavorerò anch'io.) (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13584_1310162191"/>SCENA VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13584_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Zelinda</hi>
+                  </p>
+                  <p>LIN. Senz'altro costui ha qualche sospetto, e fa per tirarmi giù, poichè non è possibile, s'egli ama Zelinda...</p>
+                  <p>ZEL. (<hi rend="italic">affannata, guardando se è veduta d'alcuno</hi>) Ah il mio caro Lindoro...</p>
+                  <p>LIN. Che cosa c'è?</p>
+                  <p>ZEL. Ho gran paura e per voi, e per me.</p>
+                  <p>LIN. Oh cieli! Che cosa è stato?</p>
+                  <p>ZEL. Il padrone vecchio ed il giovine parlano insieme segretamente. Sono andata per prendere della biancheria, mi hanno guardata tutti due bruscamente, e credo, per farmi andar via, mi abbiano ordinato di venire a cercare Fabrizio.</p>
+                  <p>LIN. Da un momento all'altro non vi possono essere gran novità.</p>
+                  <p>ZEL. Io credo che tutti i momenti siano per noi pericolosi.</p>
+                  <p>LIN. Certamente l'amore non si può tenere lungamente nascosto.</p>
+                  <p>ZEL. Povera me!</p>
+                  <p>LIN. Non vi affliggete per questo. Bisogna risolvere, bisogna parlare.</p>
+                  <p>ZEL. Consigliatemi voi, come ho da contenermi.</p>
+                  <p>LIN. Non saprei. Io credo che se ne parlaste al signor Don Roberto...</p>
+                  <p>ZEL. Non sarebbe meglio che gliene parlaste voi?</p>
+                  <p>LIN. Non so. (<hi rend="italic">pensano tutti due</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13586_1310162191"/>SCENA IX<ptr type="bookmark-end" target="#id___RefHeading___Toc13586_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto</hi>
+                     <hi rend="italic">  e detti.</hi>
+                  </p>
+                  <p>ROB. (<hi rend="italic">da sè</hi>) (Eccoli, eccoli, mi hanno detto il vero).</p>
+                  <p>LIN. Ci penserò, ma in ogni caso... (<hi rend="italic">piano a Zelinda, e si mette a scrivere</hi>) Oh cieli! Il padrone.</p>
+                  <p>ZEL. (Povera me!) (<hi rend="italic">mostra il timore, poi si determina a fingere, come segue, mostrando di non sapere </hi>
+                     <hi rend="italic">che ci sia Don Roberto</hi>)<hi rend="italic"> </hi>Oh guardate lì il bel soggetto! Non si degna di mischiarsi nelle faccende basse. L'illustrissimo signor segretario non si degna di scrivere... Oh scusate signore, non vi aveva veduto. (<hi rend="italic">mostra di voltarsi a caso e di veder Roberto</hi>)</p>
+                  <p>ROB. Andate a consegnare la biancheria. La lavandaja vi aspetta. (<hi rend="italic">a Zelinda</hi>)</p>
+                  <p>ZEL. Ecco qui, signore. Voleva che Lindoro ne stendesse la lista, e non lo vuol fare. Si crede pregiudicato, teme di perdere il suo decoro. Oh egli è un buon umorino, ve l'assicuro.</p>
+                  <p>LIN. (<hi rend="italic">a Don Roberto</hi>) Ecco qui, tutto il giorno m'inquieta.</p>
+                  <p>ROB. (<hi rend="italic">a Zelinda</hi>) Basta così. Ho capito; andate a consegnar la biancheria, e poi ritornate qui.</p>
+                  <p>ZEL. Ma la lista, signore...</p>
+                  <p>ROB. Oh la lista è una cosa grande! è un affare di conseguenza! Ci vuole un segretario per farla! Povera giovane, non sa scrivere, poverina! non sa metter giù, sopra un pezzo di carta quattro rampiconi per darli alla lavandaja!</p>
+                  <p>LIN. Questo è quello che le dicevo ancor io.</p>
+                  <p>ROB. Oh senz'altro.</p>
+                  <p>ZEL. Ma io i numeri non li so fare.</p>
+                  <p>ROB. Davvero? Povera innocente! Vi troverò un maestro d'abbaco. Andate, andate; fate quel che vi dico, e poi ritornate.</p>
+                  <p>ZEL. Bene, mi farò ajutare dal mastro di casa...</p>
+                  <p>LIN. (<hi rend="italic">a Zelinda</hi>) Ma se volete che lo faccia io...</p>
+                  <p>ROB. (<hi rend="italic">a Lindoro</hi>) Non signore, la non s'incomodi.</p>
+                  <p>ZEL. Oh sì, che non s'incomodi, perchè già lo farebbe per dispetto. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Capisco che ha gelosia di Fabrizio). (<hi rend="italic">forte per consolare Lindoro</hi>)<hi rend="italic"> </hi>O bene, o male, lo farò da me. (Ho gran timore che siamo scoperti). (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13588_1310162191"/>SCENA X<ptr type="bookmark-end" target="#id___RefHeading___Toc13588_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto </hi>
+                     <hi rend="italic">e </hi>
+                     <hi rend="bold">Lindoro</hi>
+                  </p>
+                  <p>LIN. Io non so che cos'abbia quella fanciulla. È inquieta, è fastidiosa, non mi può vedere. (<hi rend="italic">scrive</hi>)</p>
+                  <p>ROB. Alzatevi.</p>
+                  <p>LIN. Signore, ho da terminar questa lettera...</p>
+                  <p>ROB. Alzatevi, che vi ho da parlare.</p>
+                  <p>LIN. (Vi è del torbido). (<hi rend="italic">si alza</hi>)</p>
+                  <p>ROB. È qualche tempo ch'io m'accorgo dell'odio, dell'avversione che passa fra voi e Zelinda, e questa cosa m'inquieta infinitamente.</p>
+                  <p>LIN. Ma io, signore, ve l'assicuro...</p>
+                  <p>ROB. Voi siete, lo so benissimo, un giovine savio, dabbene, e soprattutto sincero.</p>
+                  <p>LIN. Voi avete della bontà per me.</p>
+                  <p>ROB. Zelinda è fastidiosa, altera, e bisognerebbe mandarla via.</p>
+                  <p>LIN. Oh per dire la verità, non è poi di un cattivo temperamento. Può essere ch'io sia un po' troppo delicato... Non posso naturalmente adattarmi a soffrir le donne.</p>
+                  <p>ROB. Sì, è vero. Tanto meglio per voi. Ma vedo che, sia per una ragione o per l'altra, voi non potete star tutti due in una medesima casa.</p>
+                  <p>LIN. E vorreste per me licenziare quella povera giovine? Ne avrei un rimorso infinito, sarei alla disperazione. Una giovane civile, sfortunata, che fida unicamente in voi, che ha bisogno della vostra carità, della vostra protezione.</p>
+                  <p>ROB. Voi parlate da quel giovine saggio e prudente che siete. Bisogna aver riguardo a tutte le circostanze, che accompagnano lo stato deplorabile di questa povera figlia. Io ho anche dell'attaccamento per lei; vedo, conosco che in fondo non è poi sì cattiva. Tutto il male deriva dalla contrarietà de' vostri temperamenti. Questo è il motivo delle inquietudini vostre e mie: onde per non perdere questa giovane civile, sfortunata, che fida in me, che ha bisogno della mia carità, della mia protezione, ho deciso, ho stabilito, ho risolto di licenziare, di mandar via immediatamente il bravo, il saggio, il prudente signor Lindoro.</p>
+                  <p>LIN. Come, signore?</p>
+                  <p>ROB. Oh il come ve lo dirò io. Voi non avete che a prendere la spada e il cappello, e andarvene in questo stesso momento.</p>
+                  <p>LIN. Ma questo è un torto che voi mi fate...</p>
+                  <p>ROB. Voi chiamate un torto il licenziarvi di casa mia, ed io qual titolo dovrò dare alla vostra falsità, alla vostra impostura? Credete ch'io non sappia quel che passa fra voi e Zelinda; ch'io non conosca la furberia delle vostre finzioni? M'avete preso per uno sciocco, per un rimbambito? Vi servite della mia buona fede per burlarvi di me? Andate, sortite subito di questa casa.</p>
+                  <p>LIN. Signore, non istrapazzate così il decoro e la riputazione d'un uomo onesto.</p>
+                  <p>ROB. La ragione per cui vi licenzio, non fa torto alla vostra riputazione: andate.</p>
+                  <p>LIN. Voi non sapete con chi avete a fare.</p>
+                  <p>ROB. Temerario... ardireste voi minacciarmi?</p>
+                  <p>LIN. Non è così, signore; ma voi non sapete chi io sia.</p>
+                  <p>ROB. E non mi curo saperlo. Andate, o vi farò partire per forza.</p>
+                  <p>LIN. (Povero me! E partirò senza veder Zelinda?)</p>
+                  <p>ROB. Prendete la vostra spada e il vostro cappello. (<hi rend="italic">accennando il tavolino ove sono</hi>)</p>
+                  <p>LIN. Per carità, signore.</p>
+                  <p>ROB. Corpo di Bacco! Prendete, e andate. (<hi rend="italic">va egli a prender la spada e il cappello, e gli dà l'uno e l'altro</hi>)</p>
+                  <p>LIN. Pazienza! mi licenziate di casa vostra?</p>
+                  <p>ROB. Sì, signore.</p>
+                  <p>LIN. E perchè?</p>
+                  <p>ROB. Perchè son padrone di licenziarvi.</p>
+                  <p>LIN. È vero, lo confesso, ho fatto male, vi domando perdono.</p>
+                  <p>ROB. È tardi; andate.</p>
+                  <p>LIN. Abbiate compassione almeno...</p>
+                  <p>ROB. Ehi, chi è di là? (<hi rend="italic">sdegnato chiama gente</hi>)</p>
+                  <p>LIN. No, signore, non v'inquietate. V'obbedirò. Partirò. Vi raccomando almeno quella povera sfortunata: abbiate pietà di lei, se non l'avete di me; ma permettete che prima ch'io parta...</p>
+                  <p>ROB. No, non la vedrete più: andate.</p>
+                  <p>LIN. Non dimando di vederla; ma voglio dire almeno che non sono io il solo che l'ama... (<hi rend="italic">in aria di sdegno</hi>)</p>
+                  <p>ROB. E che vorreste voi dire?</p>
+                  <p>LIN. Dico che in questa casa la sua innocenza non è sicura, che vi è qualcuno che la insidia, forse per disonorarla.</p>
+                  <p>ROB. Temerario, ardireste così pensare di me?</p>
+                  <p>LIN. Non intendo...</p>
+                  <p>ROB. Io l'amo con amore paterno, e voi siete una mala lingua.</p>
+                  <p>LIN. Se avrete la bontà di ascoltarmi...</p>
+                  <p>ROB. O andate via subito, o vi farò cacciar da' servitori.</p>
+                  <p>LIN. (Misero me! Son perduto, sono avvilito, son disperato). (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13590_1310162191"/>SCENA XI<ptr type="bookmark-end" target="#id___RefHeading___Toc13590_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto</hi>
+                     <hi rend="italic">  solo.</hi>
+                  </p>
+                  <p rend="justify">Oh son persuaso benissimo che la gente viziosa penserà male di me, e che la maggior parte degli uomini vorranno credere ch'io ami Zelinda per interesse; e chi dà fomento a questi falsi giudizj è quella sospettosa fastidiosissima mia consorte. Gran pazzia che ho fatto a rimaritarmi! prendere una seconda moglie, giovine, altiera, e senza beni! E perchè? Per una di quelle pazzie che fanno gli uomini, quando si lasciano trasportar dal capriccio. Era ben meglio ch'io avessi dato moglie a mio figlio. Ma se non ci pensa, tanto meglio per lui. I matrimonj sono per lo meno pericolosi. Ecco qui: anche la povera Zelinda; se io non vi riparava, era sul punto di precipitarsi. Quale stato poteva darle un giovine, che non sa far altro che scrivere una lettera? Si vanta di essere di condizione: ciò non serve che a renderlo più orgoglioso, ed a fargli meglio sentire il peso della sua miseria. Ma ecco Zelinda. Sarà afflitta, lo prevedo. Bisognerà ch'io cerchi di consolarla.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13592_1310162191"/>SCENA XII<ptr type="bookmark-end" target="#id___RefHeading___Toc13592_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">  e detto.</hi>
+                  </p>
+                  <p>ZEL. Eccomi qui, signore... (<hi rend="italic">da sè</hi>) (Non vi è più Lindoro).</p>
+                  <p>ROB. Che avete, che mi parete turbata?</p>
+                  <p>ZEL. Niente, signore. Voleva far vedere a Lindoro, se questa lista va bene. (<hi rend="italic">gli fa vedere una carta</hi>)</p>
+                  <p>ROB. Date qui, date qui, la vedrò io. (<hi rend="italic">prende la carta</hi>)<hi rend="italic"> </hi>Lindoro è un giovine che ha de' capricci, che non sa le sue convenienze, che ha avuto l'ardire di trattar male con voi, e chi tratta male con voi, tratta male con me.</p>
+                  <p>ZEL. Che volete? È giovine. Io poi mi scordo facilmente di tutto.</p>
+                  <p>ROB. Ma io ho veduto che voi eravate assai disgustata di lui.</p>
+                  <p>ZEL. Sì, è vero; ma la collera in me non dura. In verità, s'egli fosse qui, vi farei vedere che non ho alcun astio contro di lui.</p>
+                  <p>ROB. Davvero?</p>
+                  <p>ZEL. Oh sì, io sono di buon cuore. Volete ch'io vada subito a ritrovarlo? (<hi rend="italic">in atto di partire</hi>)</p>
+                  <p>ROB. No, no, non v'incomodate. (<hi rend="italic">la ferma</hi>)</p>
+                  <p>ZEL. (<hi rend="italic">con sorpresa</hi>) Perchè, signore?</p>
+                  <p>ROB. Perchè Lindoro non è più in questa casa.</p>
+                  <p>ZEL. (<hi rend="italic">con passione</hi>) Non è più in questa casa?</p>
+                  <p>ROB. No certamente. Un giovinastro malcreato, incivile, che merita il vostro odio...</p>
+                  <p>ZEL. Vi accerto ch'io non l'odio sicuramente.</p>
+                  <p>ROB. Sì, son certo che non l'odiate. Ho finto bastantemente; vi parlo schietto, e vi dico che sono al fatto di tutto, e che per vostro bene l'ho licenziato.</p>
+                  <p>ZEL. Ohimè! questo è un colpo non preveduto, questo è un colpo che mi dà la morte.</p>
+                  <p>ROB. Figliuola mia, la passione vi tradisce vostro malgrado: voi vi confondete; si vede chiaro che voi l'amate.</p>
+                  <p>ZEL. Sì, signore, vel confesso; io l'amo, l'amerò sempre; e poichè voi avete scoperto un segreto ch'io custodiva gelosamente nel cuore, abbiate pietà di me. Non mi private del mio Lindoro.</p>
+                  <p>ROB. Ma non vedete, figliuola mia, che se io vi accordassi quello che mi domandate, sarei la vostra rovina?</p>
+                  <p>ZEL. Voi mi farete tutto il male possibile, se mi negate la grazia, poichè siate certo che mi vedrete morire.</p>
+                  <p>ROB. Che morire? che morire? Sono favole: sono discorsi inutili, romanzeschi. Non si muore per così poco. Vi costerà qualche lacrima; ma poi ve ne chiamerete contenta.</p>
+                  <p>ZEL. No certo; non posso vivere senza Lindoro. Voi mi tiranneggiate senza ragione, voi mi volete perdere, voi mi volete sagrificare.</p>
+                  <p>ROB. Così parlate ad un padrone che vi ama, ad uno che ha promesso fare la vostra fortuna, e che è capace di farla?</p>
+                  <p>ZEL. Ogni fortuna, senza Lindoro, è per me una disgrazia. Rinunzio a tutto, rinunzio al vostro amore, alla vostra promessa. Lasciatemi seguir l'amor mio, o lasciatemi abbandonare alla mia disperazione.</p>
+                  <p>ROB. No, Zelinda, no, cara, venite qui. Non voglio vedervi sì afflitta, sì disperata. (Bisogna lusingarla per renderla a poco a poco capace di sentimenti.)</p>
+                  <p>ZEL. Per carità, non siate meco sì crudele.</p>
+                  <p>ROB. No, non lo sono, e non lo sarò mai.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13594_1310162191"/>SCENA XIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13594_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eleonora</hi>
+                     <hi rend="italic">  e detti.</hi>
+                  </p>
+                  <p>ELE. (<hi rend="italic">da sè</hi>) (Ecco lì il caro signor consorte. Sentiamo un poco i bei ragionamenti che tiene colla cameriera.)</p>
+                  <p>ROB. Sapete quanto vi amo. Quietatevi, e col tempo spero di potervi render contenta.</p>
+                  <p>ZEL. Ah, voglia il cielo che diciate la verità!</p>
+                  <p>ELE. (<hi rend="italic">da sè</hi>) (Che sì che costoro contano sulla mia morte!)</p>
+                  <p>ROB. Fidatevi di me, e non temete. Ma rallegratevi, per amor del cielo. Fate che in casa non vi vedano così trista. Non fate ridere i vostri nemici. Nascondetevi soprattutto a mia moglie.</p>
+                  <p>ELE. (<hi rend="italic">avanzandosi</hi>)<hi rend="italic"> </hi>Bravo, signor consorte, lodo il suo spirito, la sua condotta...</p>
+                  <p>ZEL. (Eccomi in un nuovo imbarazzo.) (<hi rend="italic">resta mortificata</hi>)</p>
+                  <p>ROB. E che cosa fate voi qui?</p>
+                  <p>ELE. Vengo ad ammirare ciò che ella ha la bontà di dire a questa buona figliuola.</p>
+                  <p>ROB. Ebbene, se avete sentito quel che le ho detto, sarete meglio persuasa e di lei e di me.</p>
+                  <p>ELE. (<hi rend="italic">con collera</hi>) Sì, sono persuasissima, che vorreste ch'io crepassi per isposarla.</p>
+                  <p>ROB. Circa al desiderio che voi crepiate, lasciamola lì; ma circa allo sposare Zelinda...</p>
+                  <p>ELE. (<hi rend="italic">come sopra</hi>) E avreste coraggio di aspirare alle terze nozze?</p>
+                  <p>ROB. Io non vi rendo conto del mio coraggio. Vi dico solamente che pensate male...</p>
+                  <p>ELE. Ma spero che creperete prima di me.</p>
+                  <p>ROB. Sarà sempre meglio crepare, che vivere con una furia, come voi siete.</p>
+                  <p>ELE. Quella sfacciata me ne renderà conto.</p>
+                  <p>ZEL. Signora, voi non mi conoscete...</p>
+                  <p>ELE. Taci là, impertinente.</p>
+                  <p>ROB. Rendetele più giustizia. Ella ha delle massime, che voi non avete mai conosciute.</p>
+                  <p>ELE. Ardireste di mettermi a fronte d'una mia serva?</p>
+                  <p>ROB. Una serva morigerata vale assai più d'una cattiva padrona.</p>
+                  <p>ELE. Questo è troppo soffrire. Prenderò il mio partito. Farò quelle risoluzioni che mi convengono.</p>
+                  <p>ROB. Ne farò io una sola, che valerà per tutte le vostre.</p>
+                  <p>ZEL. No, signor padrone, per amor del cielo...</p>
+                  <p>ROB. (<hi rend="italic">ad Eleonora</hi>) Voi perseguitate a torto questa innocente.</p>
+                  <p>ELE. È innocente, come voi.</p>
+                  <p>ROB. Sì, come me. Che vorreste voi dire?</p>
+                  <p>ELE. Due perfidi...</p>
+                  <p>ROB. Parlate bene.</p>
+                  <p>ZEL. Vi prego...</p>
+                  <p>ROB. (<hi rend="italic">a Zelinda</hi>) Venite meco, non posso più tollerarla.</p>
+                  <p>ELE. (<hi rend="italic">con ironia</hi>) Sì, ricovratela sotto de' vostri innocenti auspici.</p>
+                  <p>ROB. (<hi rend="italic">a Zelinda, fremendo</hi>) Andiamo.</p>
+                  <p>ZEL. (<hi rend="italic">a Roberto</hi>) Signore, lasciatemi qui un momento.</p>
+                  <p>ELE. Ecco il bell'acquisto che ho fatto! un marito, che potrebbe esser mio padre.</p>
+                  <p>ROB. Sì, per il consiglio, per la prudenza.</p>
+                  <p>ELE. E ho da soffrire tutte le sue imperfezioni?</p>
+                  <p>ROB. Di quali imperfezioni parlate?</p>
+                  <p>ELE. Di quelle del cuore, di quelle dello spirito, e di quelle della persona.</p>
+                  <p>ROB. Andate, che non posso più tollerarvi. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13596_1310162191"/>SCENA XIV<ptr type="bookmark-end" target="#id___RefHeading___Toc13596_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eleonora</hi>
+                     <hi rend="italic">  e </hi>
+                     <hi rend="bold">Zelinda</hi>
+                  </p>
+                  <p>ELE. Per causa tua, disgraziata.</p>
+                  <p>ZEL. Signora, se sapeste lo stato mio, vi movereste a pietà di me.</p>
+                  <p>ELE. Pretendi di migliorare il tuo stato alle spese di mio marito?</p>
+                  <p>ZEL. Ah no, signora, ve l'assicuro. Sappiate che per mia disgrazia...</p>
+                  <p>ELE. Non vo' saper altro. L'unica pruova che tu puoi darmi della tua innocenza, è il sortir subito di questa casa.</p>
+                  <p>ZEL. Se non credessi di offendere il mio padrone...</p>
+                  <p>ELE. Che padrone? Sono io la padrona. Egli ti ha preso per servirmi. Le cameriere non dipendono che dal piacere e dal dispiacere delle padrone. Non son contenta di te, ti licenzio, vattene immediatamente.</p>
+                  <p>ZEL. Mi licenziate?</p>
+                  <p>ELE. Sì, ed ho l'autorità di farlo.</p>
+                  <p>ZEL. (Ah, profittiamo dell'occasione per vivere e per morir con Lindoro.)</p>
+                  <p>ELE. Se ricusi d'andartene, mi confermerai nel sospetto.</p>
+                  <p>ZEL. Signora, sono innocente, e se deggio darvene una prova coll'allontanarmene di casa vostra, partirò col maggior piacere del mondo.</p>
+                  <p>ELE. Bene, farete il vostro dovere.</p>
+                  <p>ZEL. Permettetemi ch'io unisca le mie poche robe.</p>
+                  <p>ELE. Andate, e sollecitatevi.</p>
+                  <p>ZEL. (<hi rend="italic">in atto di partire</hi>) (Oh! Amore mi renderà sollecita più che non credi.)</p>
+                  <p>ELE. (<hi rend="italic">minacciandola</hi>)Se vi avvisaste di parlarne con mio marito...</p>
+                  <p>ZEL. Non temete, signora, non lo vedrò certamente. (Ah fra le mie disgrazie questa è la meno sensibile, e può essere la più fortunata.) (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13598_1310162191"/>SCENA XV<ptr type="bookmark-end" target="#id___RefHeading___Toc13598_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eleonora</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Don Flaminio</hi>
+                  </p>
+                  <p>ELE. Potrebbe anche essere ch'ella fosse innocente; ma in ogni modo deve partire. L'orgoglio con cui mio marito mi tratta, merita ch'io ne faccia un risentimento. Sia amore, sia pietà che lo mova, agisce sempre male, se pretende di agire a mio dispetto. Se io non mi vendico da me stessa, poco conto far posso de' miei parenti. Se fosse qui Don Federico, son certa che molto farebbe valere la sua amicizia per me! È un anno ch'ei partì da Pavia. Doveva ritornare dopo sei mesi... (<hi rend="italic">guardando fra le scene</hi>) Ma che vuole il mio signor figliastro? Degna prole del mio graziosissimo sposo!</p>
+                  <p>FLA. Signora, con sua permissione, si potrebbe sapere che cosa ha con Zelinda?</p>
+                  <p>ELE. Ho io da render conto a vossignoria di quello che passa fra me e la mia cameriera?</p>
+                  <p>FLA. Ma che ha Zelinda che piange?</p>
+                  <p>ELE. Domandatelo a lei.</p>
+                  <p>FLA. Oh bene, senza ch'io lo domandi, contentatevi che vi dica che so ogni cosa; che ho sentito tutto da quella camera; che voi, signora, con vostra permissione, non potete licenziare Zelinda senza il consentimento di mio padre, ch'è il padrone di questa casa.</p>
+                  <p>ELE. Voi mi fareste ridere, se ne avessi voglia: che dice il padrone di questa casa? Si oppone egli alla mia risoluzione?</p>
+                  <p>FLA. Non lo so, non è in casa, e quando ritornerà...</p>
+                  <p>ELE. Tanto meglio se non è in casa; che Zelinda sen vada, e quando ritornerà...</p>
+                  <p>FLA. Signora, non isperate che ciò succeda. Zelinda non sortirà certamente.</p>
+                  <p>ELE. Siete voi che vi opponete?</p>
+                  <p>FLA. Sì, signora, son io che, dopo mio padre...</p>
+                  <p>ELE. Sì, tocca a voi dopo il padre ad usarmi le impertinenze.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13600_1310162191"/>SCENA XVI<ptr type="bookmark-end" target="#id___RefHeading___Toc13600_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>FAB. Signori, che cosa c'è? Mi perdonino. Non si facciano sentire dal vicinato.</p>
+                  <p>ELE. Così si perde il rispetto ad una donna della mia sorte? Sì, Zelinda deve sortire di qui; l'ho detto, lo sostengo, e se n'andrà.</p>
+                  <p>FLA. Non se n'andrà...</p>
+                  <p>FAB. (<hi rend="italic">a Don Flaminio, tirandolo in disparte</hi>) Signore, una parola in grazia. Con permissione della padrona.</p>
+                  <p>ELE. (A costo di tutto vuo' sostenere il mio punto.)</p>
+                  <p>FAB. (<hi rend="italic">piano a Don Flaminio</hi>) (Caro signor padrone, perchè non lasciate sortir Zelinda? Non vedete voi che fuori di casa, lontana da vostro padre, e nel bisogno in cui sarà di soccorso, avrete miglior agio per vederla, trattarla ed obbligarla ad amarvi?)</p>
+                  <p>FLA. (<hi rend="italic">piano a Fabrizio</hi>) (Hai ragione: non ci avevo pensato.)</p>
+                  <p>FAB. (<hi rend="italic">da sè</hi>) (Ci penso io per il mio proprio interesse.)</p>
+                  <p>ELE. Che si fa, signori miei garbatissimi? Si trama qualche insidia contro di me?</p>
+                  <p>FLA. Al contrario, signora mia. Fabrizio mi ha dette delle buone ragioni, ed io consento che Zelinda sia licenziata.</p>
+                  <p>ELE. Oh, oh, che buone ragioni ha saputo dirvi? come vi ha sì presto guadagnato lo spirito? Posso essere a parte anch'io di queste buone ragioni? (<hi rend="italic">da sè</hi>) (Non mi fido nè dell'un, nè dell'altro.)</p>
+                  <p>FAB. Signora, non è necessario che voi sappiate...</p>
+                  <p>ELE. È tanto giusto ch'io lo sappia, che vi farò parlare vostro malgrado.</p>
+                  <p>FLA. Contentatevi che Zelinda sen vada.</p>
+                  <p>ELE. Ma vuo' sapere il perchè.</p>
+                  <p>FLA. (<hi rend="italic">piano a Fabrizio</hi>) (Abbiamo fatto peggio, mi pare.)</p>
+                  <p>FAB. Orsù, poichè la signora vuol saper il segreto, conviene svelarlo.</p>
+                  <p>FLA. (<hi rend="italic">piano a Fabrizio</hi>) (No, non facciamo...)</p>
+                  <p>FAB. (<hi rend="italic">a Don Flaminio</hi>)<hi rend="italic"> </hi>(Lasciate fare.) (<hi rend="italic">a Donna Eleonora</hi>) Son persuaso che la signora non vorrà mettermi in un imbarazzo.</p>
+                  <p>ELE. No, vi prometto di risparmiarvi ogni dispiacere.</p>
+                  <p>FAB. Sappiate dunque che ho scoperto al signor Don Flaminio una cosa che lui non sapeva, e questa lo ha determinato ad acquetarsi su l'articolo di licenziare Zelinda; e la cosa è questa... ma per amor del cielo...</p>
+                  <p>ELE. Non dubitate.</p>
+                  <p>FAB. Il signor Don Roberto ama troppo questa giovane, ed ella, non so che dire... Tutto il mondo ne mormora, e ne sospetta...</p>
+                  <p>ELE. Oh ecco ch'io diceva la verità. Oh mio marito si voleva difendere, e quell'indegna... ma eccola, si è pentita forse di andarsene? Partirà suo malgrado.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13602_1310162191"/>SCENA XVII<ptr type="bookmark-end" target="#id___RefHeading___Toc13602_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>ZEL. Signora…</p>
+                  <p>ELE. (<hi rend="italic">con collera</hi>) Che ardir avete voi di ricomparirmi dinanzi gli occhi? Perchè non ve ne andate, come vi ho ordinato, come mi avete promesso?</p>
+                  <p>ZEL. (<hi rend="italic">con una riverenza</hi>) Signora, voi mi avete data la permissione di unire le mie poche robe. L'ho fatto, sono pronta a partire, e vengo unicamente per far con voi il mio dovere.</p>
+                  <p>ELE. Bene, andate, e prego il cielo vi dia migliore condotta, e migliore fortuna.</p>
+                  <p>ZEL. Circa alla fortuna, sono avvezza ad averla contraria; ma circa alla condotta, grazie al cielo, non ho niente a rimproverarmi.</p>
+                  <p>FLA. (<hi rend="italic">piano a Fabrizio</hi>) (E pur la vedo partire mal volentieri.)</p>
+                  <p>FAB. (<hi rend="italic">piano a Flaminio</hi>) (Andremo a consolarla dove sarà.)</p>
+                  <p>ZEL. (<hi rend="italic">a Donna Eleonora.</hi>) Se non fosse troppo ardire il mio, vi supplicherei d'una grazia.</p>
+                  <p>ELE. Se io potrò farvi del bene, lo farò volentieri.</p>
+                  <p>ZEL. Vorrei... Ma se non voleste incaricarvene voi, pregherò il signor Don Flaminio, o Fabrizio.</p>
+                  <p>FLA. Dite, che posso fare per voi?</p>
+                  <p>FAB. Eseguirò i vostri ordini assai volentieri.</p>
+                  <p>ZEL. Vorrei che l'uno o l'altro facesse le parti mie doverose col signor Don Roberto...</p>
+                  <p>ELE. Sì sì, me ne incarico io; ma vi avvertisco, che se il signor mio consorte viene intorno di voi, e che voi abbiate l'ardire di riceverlo e di trattarlo, vi farò uscire di questo paese con poco vostro decoro.</p>
+                  <p>ZEL. Oh cieli! e volete ancora mortificarmi sì ingiustamente? Non siete ancor persuasa della mia innocenza?</p>
+                  <p>ELE. No, perchè ho dei testimoni in contrario.</p>
+                  <p>FAB. (<hi rend="italic">piano ad Eleonora, perchè non parli</hi>) (Signora mia...)</p>
+                  <p>ZEL. E chi è, signora, che ardisce d'imposturare?... Quali sono li testimonj?</p>
+                  <p>ELE. Eccoli lì. Don Flaminio e Fabrizio.</p>
+                  <p>FAB. (<hi rend="italic">da sè</hi>) (Diavolo!)</p>
+                  <p>FLA. (<hi rend="italic">da sè</hi>) (Me l'aspettava.)</p>
+                  <p>ZEL. Come! hanno avuto coraggio quei due di parlare contro di me, in tempo ch'io ho avuto la discrezione di non parlare di loro? Sono falsi, sono mendaci. Rispetto il signor Don Flaminio come figliuolo del mio padrone, ma l'onor mio vuole che mi difenda. Se avessi badato a lui, meriterei, signora, la vostra collera ed il vostro disprezzo. Egli non ha mancato di tormentarmi con dichiarazioni amorose, con studiate lusinghe, e con promesse di matrimonio; e quell'indegno di Fabrizio che fa l'amico del suo padrone, mi ama egualmente, mi perseguita, ed è il suo rivale. Ecco, signora mia, chi dovete rimproverare, non un padrone pietoso, non un marito saggio e prudente, non una povera sfortunata. Parto di qui volentieri per non soffrire inquietudini, per togliermi alla vista degl'impostori, per salvare il mio decoro, la mia insidiata riputazione. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13604_1310162191"/>SCENA XVIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13604_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eleonora</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Don Flaminio</hi>
+                     <hi rend="italic">  e </hi>
+                     <hi rend="bold">Fabrizio</hi>
+                  </p>
+                  <p>ELE. (<hi rend="italic">a Don Flaminio e a Fabrizio</hi>) Bravi, bravissimi, l'uno e l'altro.</p>
+                  <p>FAB. (<hi rend="italic">ad Eleonora</hi>) In quanto a me, vi protesto...</p>
+                  <p>FLA. (<hi rend="italic">a Fabrizio</hi>) Indegno! vorreste gettar la colpa sopra di me?</p>
+                  <p>ELE. È inutile che parliate meco. Zelinda è sortita ed ecco una ragione di più che giustifica la risoluzione che ho presa. Se avete delle cose da dire (<hi rend="italic">a Don Flaminio</hi>) voi le direte al padre, (<hi rend="italic">a Fabrizio</hi>)<hi rend="italic"> </hi>voi le direte al padrone. (<hi rend="italic">osservando fra le scene</hi>)<hi rend="italic"> </hi>Eccolo lì, è ritornato. Sarà mio carico l'istruirlo. Toccherà a voi a giustificarvi. (Presto, presto, impediscasi ch'ei non trattenga Zelinda.) (<hi rend="italic">da sè, parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13606_1310162191"/>SCENA XIX<ptr type="bookmark-end" target="#id___RefHeading___Toc13606_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Flaminio</hi>
+                     <hi rend="italic">  e Fabrizio</hi>
+                  </p>
+                  <p>FLA. Tu m'ingannavi dunque, tu ti prendevi gioco di me?</p>
+                  <p>FAB. Signore, credete voi a tutto quello ch'avete inteso?</p>
+                  <p>FLA. Sì, lo credo anche troppo. Sei un perfido, uno scellerato, e troverò la via di mortificarti.</p>
+                  <p>FAB. Se avrete la bontà di ascoltarmi...</p>
+                  <p>FLA. Sì, se ti ascoltassi, non ti mancherebbero dei pretesti, delle menzogne.</p>
+                  <p>FAB. (Io sono nel più grand'imbarazzo del mondo.)</p>
+                  <p>FLA. (A costo di tutto, non vuo' perder di vista la mia adorata Zelinda.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13608_1310162191"/>SCENA XX<ptr type="bookmark-end" target="#id___RefHeading___Toc13608_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto</hi>
+                     <hi rend="italic">  e detti.</hi>
+                  </p>
+                  <p>ROB. (Non avrei mai creduto che mio figliuolo... Eccolo lì, con quell'altro ipocrita disgraziato.)</p>
+                  <p>FAB. (Povero me! il padrone!)</p>
+                  <p>FLA. (Ecco mio padre. Oh cieli! Chi sa, se sarà istruito?)</p>
+                  <p>ROB. Fabrizio!</p>
+                  <p>FAB. Signore!</p>
+                  <p>ROB. Ritiratevi!</p>
+                  <p>FAB. Signor padrone...</p>
+                  <p>ROB. Andate via, vi dico. Ho da parlare con mio figliuolo.</p>
+                  <p>FLA. (Ah ci sono!)</p>
+                  <p>FAB. (<hi rend="italic">accennando Don Flaminio, e parte</hi>) (Conviene obbedire. Chi sa che tutta la colpa non sia rovesciata sopra di lui.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13610_1310162191"/>SCENA XXI<ptr type="bookmark-end" target="#id___RefHeading___Toc13610_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto</hi>
+                     <hi rend="italic">  e </hi>
+                     <hi rend="bold">Don Flaminio</hi>
+                  </p>
+                  <p>ROB. Ebbene, signor figliuolo carissimo, voi siete quello ch'è lontano dal pensiero di maritarsi, che ricusate tutti i partiti che vi si propongono, che non amate le conversazioni delle donne...</p>
+                  <p>FLA. Signore, è verissimo, non lo nego, l'occasione, il merito di Zelinda mi hanno fatto cedere alla mia avversione.</p>
+                  <p>ROB. E con qual animo? con qual intenzione?</p>
+                  <p>FLA. Se ho da dirvi la verità, non ho mai pensato che ad un fine onesto e degno delle qualità amabili di quella figliuola.</p>
+                  <p>ROB. In questo tu gli hai resa quella giustizia che merita. Zelinda è nata assai civilmente, è saggia, è virtuosa, è morigerata. Ma ella non ti conviene. Io l'amo come se fosse una mia figliuola, però non l'amo a segno di perder di vista il decoro della mia famiglia. Il nostro grado e la nostra fortuna ti promettono un matrimonio comodo e decoroso, e non acconsentirò mai...</p>
+                  <p>FLA. Deh! signor padre, se avete della bontà per lei, se avete della bontà per me...</p>
+                  <p>ROB. No assolutamente. Levati dal capo cotesta idea; altrimenti troverò il modo di fare che ti svanisca...</p>
+                  <p>FLA. L'amo troppo, signore, e non sarà possibile...</p>
+                  <p>ROB. Temerario! ardisci di dire in faccia a tuo padre non sarà possibile?</p>
+                  <p>FLA. Zelinda ha del merito, e credo che la mia inclinazione sia bastantemente giustificata.</p>
+                  <p>ROB. Tocca a me ad approvarla: non tocca a te.</p>
+                  <p>FLA. Finalmente l'amore ch'io ho per lei, è un amor libero, che non fa torto a nessuno, e non reca a lei quel pregiudizio che rendere le potrebbe un amore di un'altra specie. (<hi rend="italic">con un poco di caricatura</hi>)</p>
+                  <p>ROB. Ah indegno! credi tu ch'io non ti capisca? Credi tu ch'io non veda ch'hai il mal animo di sospettare di me, ed hai la temerità di rimproverarmi?</p>
+                  <p>FLA. Non dico questo, signore...</p>
+                  <p>ROB. Orsù, ascoltami, e queste sieno l'ultime parole che ti dico su tal proposito. Pensa a prendere il tuo partito; risolviti o di maritarti, o di andar a vivere nel castello che ci appartiene. Non ti sembri duro ch'io ti allontani da me, per custodire una cameriera che merita un onesto riguardo.</p>
+                  <p>FLA. Che parlate voi di custodire la cameriera?</p>
+                  <p>ROB. Sì, Zelinda resterà meco, fintantochè sarà collocata.</p>
+                  <p>FLA. Non sapete voi che Zelinda?...</p>
+                  <p>ROB. E se tu resti col pretesto di maritarti, avverti bene di sfuggirla quando l'incontri, e non aver ardire di guardarla in faccia nemmeno.</p>
+                  <p>FLA. In casa?</p>
+                  <p>ROB. In casa.</p>
+                  <p>FLA. (<hi rend="italic">con aria di gravità</hi>) Sarete servito.</p>
+                  <p>ROB. Come! me lo dici in maniera...</p>
+                  <p>FLA. Ve lo dico costantemente, poichè Zelinda in questa casa più non si trova.</p>
+                  <p>ROB. Come? non vi è più Zelinda?</p>
+                  <p>FLA. Non signore, è sortita, è congedata, è partita.</p>
+                  <p>ROB. E chi è che l'ha congedata?</p>
+                  <p>FLA. La vostra signora sposa.</p>
+                  <p>ROB. Senza dirmelo? senza dipender da me? per astio? per dispetto? per malignità?</p>
+                  <p>FLA. Certo, per quel carattere amabile che adorna il merito della mia signora matrigna. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13612_1310162191"/>SCENA XXII<ptr type="bookmark-end" target="#id___RefHeading___Toc13612_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto</hi>
+                     <hi rend="italic">  solo.</hi>
+                  </p>
+                  <p rend="justify">Tanto ardire! una simile soperchieria usar a me? No, sarei troppo vile, se la soffrissi. Zelinda ritornerà in casa mia. La ritroverò, la ricondurrò. Eleonora è un'ingrata, mio figlio è un impertinente, Fabrizio è un impostore. Tutti perfidi, tutti nemici. Io merito più rispetto, e Zelinda più compassione. (<hi rend="italic">parte</hi>)</p>
+                  <p rend="center smallcaps">Fine dell'Atto primo</p>
+               </div>
+            </div>
+            <div type="div2" rend="P25">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13630_1310162191"/>Atto secondo<ptr type="bookmark-end" target="#id___RefHeading___Toc13630_1310162191"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13632_1310162191"/>Scena prima<ptr type="bookmark-end" target="#id___RefHeading___Toc13632_1310162191"/>
+                  </head>
+                  <p>Strada.</p>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro </hi>
+                     <hi rend="italic">solo.</hi>
+                  </p>
+                  <p rend="justify">Ah pazienza! Sa il cielo quando potrò rivedere la mia cara Zelinda! Meschino di me! L'ho lasciata nelle mani de' miei nemici, in mezzo de' suoi persecutori. È vero che Don Roberto ha cura di lei, ma egli non sa il pericolo che la sovrasta, ed ella non avrà coraggio di dirlo, ed io non ho avuto campo di manifestarlo. Questo pensiero m'inquieta più della privazione medesima. L'amore, il timore, la gelosia m'opprimono sì fattamente, che non sento la mia miseria, e sono indifferente agli oltraggi della fortuna. Ecco qui: un giovine civile, allevato fra i comodi ed i piaceri, scacciato villanamente da un luogo, ed obbligato per vivere a servire un altro. E buon per me che abbia trovato sì presto da collocarmi, per non essere costretto a vendere quel poco che ho in dosso per sostenermi. La condizione che ora sono obbligato di prendere, è più umiliante dell'altra, ma pazienza: la soffrirei volentieri purchè avessi la compagnia di Zelinda, purchè mi fosse accordato il piacere di vederla. Questa è la mia pena, questo è il mio martòro, questa è la mia unica disperazione. (<hi rend="italic">resta pensoso</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13634_1310162191"/>SCENA II<ptr type="bookmark-end" target="#id___RefHeading___Toc13634_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">, un </hi>
+                     <hi rend="bold">Facchino</hi>
+                     <hi rend="italic">  che porta un baule, e detto.</hi>
+                  </p>
+                  <p>ZEL. (<hi rend="italic">al Facchino</hi>) No, amico, non so dove andare precisamente. Mi fido in voi. Conducetemi in qualche onesto albergo.</p>
+                  <p>FAC. Se volete, vi condurrò in casa mia.</p>
+                  <p>ZEL. Sì, mi farete piacere. Sarete giustamente ricompensato.</p>
+                  <p>LIN. Qual voce? (<hi rend="italic">si volta</hi>)</p>
+                  <p>ZEL. Oh cieli! (<hi rend="italic">scoprendo Lindoro</hi>)</p>
+                  <p>LIN. La mia Zelinda?</p>
+                  <p>ZEL. Il mio bene? (<hi rend="italic">corrono e s'abbracciano</hi>)</p>
+                  <p>LIN. Come qui? Dove andate?</p>
+                  <p>ZEL. Vi racconterò...</p>
+                  <p>FAC. Signora, per quel ch'io vedo, voi non avete più bisogno di me.</p>
+                  <p>ZEL. (<hi rend="italic">al Facchino</hi>)<hi rend="italic"> </hi>Aspettate, aspettate. Sappiate, Lindoro mio...</p>
+                  <p>FAC. Ma il baule pesa.</p>
+                  <p>LIN. Mettetelo giù, galantuomo.</p>
+                  <p>FAC. Dove?</p>
+                  <p>LIN. Là, su quel muricciuolo di dietro quella casa.</p>
+                  <p>ZEL. Ed aspettate un momento, che vi chiamerò.</p>
+                  <p>FAC. Signora, vi avverto che in casa mia non vi è luogo.</p>
+                  <p>ZEL. Me l'avete pure esibito.</p>
+                  <p>FAC. Sì, vi sarebbe luogo per uno, ma non vi è luogo per due. (<hi rend="italic">si ritira</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13636_1310162191"/>SCENA III<ptr type="bookmark-end" target="#id___RefHeading___Toc13636_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda </hi>
+                     <hi rend="italic">e </hi>
+                     <hi rend="bold">Lindoro</hi>
+                  </p>
+                  <p>LIN. Presto, presto, mia cara, istruitemi delle vostre avventure. Come siete voi qui? Che fate voi del baule?</p>
+                  <p>ZEL. Vi dirò in due parole. Non sono più in casa del signor Don Roberto...</p>
+                  <p>LIN. Tanto meglio per me. Come ne siete sortita?</p>
+                  <p>ZEL. Sono stata licenziata.</p>
+                  <p>LIN. Da chi?</p>
+                  <p>ZEL. Dalla padrona.</p>
+                  <p>LIN. Perchè?</p>
+                  <p>ZEL. Vi dirò, la signora Donna Eleonora...</p>
+                  <p>LIN. No, no, non perdiamo tempo per ora; mi racconterete ciò con più comodo. Pensiamo ora a quello che più c'interessa. Dove pensate voi di ricoverarvi?</p>
+                  <p>ZEL. Non lo so. Mi aveva esibito il facchino... Ma ora che ho avuta la fortuna d'incontrarvi... Dove siete voi alloggiato?</p>
+                  <p>LIN. La necessità mi ha determinato...</p>
+                  <p>ZEL. Non pensiate già ch'io concepisca il disegno di dimorare con voi, finchè non siamo marito e moglie.</p>
+                  <p>LIN. Sì, avete ragione: ma pure eravamo insieme in casa di Don Roberto.</p>
+                  <p>ZEL. Altra cosa è il servire in una medesima casa, altra cosa sarebbe vivere insieme senza una positiva ragione.</p>
+                  <p>LIN. La sorte in questo ci è favorevole. Potreste tentare di venir a servire nella casa dove io sono collocato.</p>
+                  <p>ZEL. Avete già trovato un impiego?</p>
+                  <p>LIN. Ah sì, ma qual impiego! ho rossore a dirvelo.</p>
+                  <p>ZEL. È cosa che vaglia a disonorarvi?</p>
+                  <p>LIN. No, fintanto ch'io non son conosciuto. Vi dirò la cosa com'è. Sortito di casa di Don Roberto, ho incontrato a caso Giannino, il garzon del librajo; gli ho confidato la mia situazione, si è interessato per me. Mi ha condotto da una signora del suo paese. Ella avea bisogno d'un cameriere. Ho avuto qualche ripugnanza dapprima, ma poi pensando ch'io non poteva senza un appoggio sussistere, veggendo la difficoltà di potermi impiegare onorevolmente, temendo di non più rivedervi, ho accettato il partito, e mi sono accomodato per cameriere.</p>
+                  <p>ZEL. Povero il mio Lindoro! E tutto questo per me!</p>
+                  <p>LIN. Che non farei, mia cara, per voi?</p>
+                  <p>ZEL. E come dite voi che la fortuna ci potrebbe aiutare?</p>
+                  <p>LIN. La mia padrona ha bisogno ancor d'una cameriera... Se vi riuscisse di entrarvi?...</p>
+                  <p>ZEL. Volesse il cielo! Ma in qual maniera poss'io condurmi?</p>
+                  <p>LIN. Vi dirò. Ho sentito dire ch'ella si è raccomandata per questo a certa donna che chiamasi la Cecchina che fa la rivenditrice, ed abita vicino al luogo che si chiama il Bissone. Informatevi di lei, cercatela, parlatele, fatevi proporre; e son certo, che se la signora Barbara vi vede, vi prende subito al suo servizio.</p>
+                  <p>ZEL. Si chiama la signora Barbara la vostra padrona?</p>
+                  <p>LIN. Sì, questo è il suo nome.</p>
+                  <p>ZEL. E la sua condizione?</p>
+                  <p>LIN. Il giovane suo paesano mi assicura ch'ella è la figlia unica di un negoziante di Torino, che per disgrazia ha fallito; ma trovandosi ella in necessità come noi, si approfitta della musica che ha appresa per passatempo, ed esercita la professione della cantatrice.</p>
+                  <p>ZEL. Io non disapprovo il mestiere, quando onestamente sia esercitato; ma assicuriamoci bene...</p>
+                  <p>LIN. Giannino mi ha prevenuto, ch'ella è la più saggia e la più onesta giovane di questo mondo.</p>
+                  <p>ZEL. Quand'è così, non avrò alcuna difficoltà di propormi.</p>
+                  <p>LIN. Oh bella cosa sarebbe che ci trovassimo nuovamente insieme!</p>
+                  <p>ZEL. Direi che la sorte mi è più favorevole che contraria.</p>
+                  <p>LIN. Vi amo tanto!</p>
+                  <p>ZEL. Siete sì ben corrisposto!</p>
+                  <p>LIN. Ma andate subito, cara, andate. Vi sovvenite voi di Cecchina?</p>
+                  <p>ZEL. Sì, so benissimo. Al Bissone. Non perdo tempo... (<hi rend="italic">vuol partire, poi si ferma</hi>)<hi rend="italic"> </hi>Ma che farò frattanto del mio baule?</p>
+                  <p>LIN. Consegnatelo a me. Lo farò portare in casa della padrona. Dirò ch'è la roba mia.</p>
+                  <p>ZEL. Va benissimo. Ehi, galantuomo. (<hi rend="italic">alla scena</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13638_1310162191"/>SCENA IV<ptr type="bookmark-end" target="#id___RefHeading___Toc13638_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="italic">Il </hi>
+                     <hi rend="bold">Facchino</hi>
+                     <hi rend="italic">  col baule, e detti.</hi>
+                  </p>
+                  <p>FAC. Son qui. Avete ritrovato il quartiere?</p>
+                  <p>ZEL. Andate con questo giovane. Portate il mio baule dov'egli vi ordinerà, e sarete da lui soddisfatto.</p>
+                  <p>FAC. Benissimo. Ditegli ch'abbia riguardo al tempo che mi ha fatto perdere.</p>
+                  <p>ZEL. Sì, avete ragione. (<hi rend="italic">al Facchino</hi>)<hi rend="italic"> </hi>Pagatelo generosamente. (<hi rend="italic">a Lindoro</hi>)</p>
+                  <p>LIN. (Cara Zelinda, deggio dirvi una verità lagrimosa.)</p>
+                  <p>ZEL. E che cosa?</p>
+                  <p>LIN. Non ho tanto danaro in tasca per soddisfar il facchino.</p>
+                  <p>ZEL. Io ne ho veramente, ma tutto il mio è nel baule. Tenete la chiave, apritelo quando siete in casa, e pagatelo.</p>
+                  <p>LIN. Siete pur buona! siete pure amorosa!</p>
+                  <p>ZEL. (<hi rend="italic">in atto di partire</hi>) Addio, addio.</p>
+                  <p>LIN. (<hi rend="italic">la chiama indietro</hi>) Ma sentite sentite.</p>
+                  <p>FAC. (<hi rend="italic">a Lindoro</hi>)Va lunga questa faccenda.</p>
+                  <p>LIN. (<hi rend="italic">al Facchino</hi>) Un momento. <hi rend="italic">– </hi>Se voi venite in casa con me, com'io spero, conteniamoci con prudenza, che non si venisse a scoprire...</p>
+                  <p>ZEL. Oh sì, bisogna fingere indifferenza.</p>
+                  <p>LIN. E anche dell'avversion, se bisogna.</p>
+                  <p>ZEL. Così, così, non tanta. Ricordatevi di quel che abbiamo passato.</p>
+                  <p>FAC. Sono stanco; lo getto qui, e me ne vado.</p>
+                  <p>LIN. (<hi rend="italic">a Zelinda</hi>) Addio.</p>
+                  <p>ZEL. Addio, addio, a rivederci. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13640_1310162191"/>SCENA V<ptr type="bookmark-end" target="#id___RefHeading___Toc13640_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, il </hi>
+                     <hi rend="bold">Facchino</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Don Flaminio</hi>
+                  </p>
+                  <p>LIN. (<hi rend="italic">al Facchino</hi>)Andiamo, andiamo.</p>
+                  <p>FAC. Abbiamo d'andar troppo lontano?</p>
+                  <p>LIN. No, trenta o quaranta passi, e non più.</p>
+                  <p>FAC. Le mie spalle se ne risentono. (<hi rend="italic">vanno per partire</hi>)</p>
+                  <p>FLA. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Ah sì senz'altro; quello è il baule che appartiene a Zelinda.) (<hi rend="italic">al Facchino</hi>) Fermatevi, galantuomo.</p>
+                  <p>FAC. Un'altra fermativa?</p>
+                  <p>LIN. (<hi rend="italic">a Don Flaminio</hi>) Che cosa pretendete, signore?</p>
+                  <p>FLA. (<hi rend="italic">a Lindoro</hi>) Dove fate voi trasportare quel baule?</p>
+                  <p>LIN. Qual ragione avete voi di saperlo e di domandarlo?</p>
+                  <p>FLA. Temerario! così mi rispondete?</p>
+                  <p>LIN. Signore, io non vi perdo il rispetto, ma non sono più al vostro servigio, e non avete alcuna autorità sopra la mia persona.</p>
+                  <p>FAC. Finiamola, ch'io non posso più.</p>
+                  <p>LIN. (<hi rend="italic">al Facchino, incamminandosi</hi>) Seguitatemi.</p>
+                  <p>FLA. (<hi rend="italic">lo ferma con violenza</hi>) Fermatevi.</p>
+                  <p>FAC. (<hi rend="italic">lascia cadere il baule in terra, e vi siede sopra</hi>) Eh il diavolo vi porti.</p>
+                  <p>FLA. (<hi rend="italic">a Lindoro</hi>) Dov'è Zelinda?</p>
+                  <p>LIN. (<hi rend="italic">con sdegno</hi>) Io non lo so, signore.</p>
+                  <p>FLA. Come! Avete voi in consegna il di lei baule, e non sapete ov'ella sia?</p>
+                  <p>LIN. Non lo so, vi dico, e quando lo sapessi, non lo direi.</p>
+                  <p>FLA. (<hi rend="italic">minacciandolo</hi>) Vi farò parlare per forza.</p>
+                  <p>LIN. (<hi rend="italic">con spirito</hi>) Spero che vi guarderete di usarmi qualche violenza.</p>
+                  <p>FLA. Giuro al cielo!... (Ma no, conviene per ora moderare la collera.)</p>
+                  <p>LIN. (<hi rend="italic">al Facchino</hi>) Prendete su quel baule.</p>
+                  <p>FAC. (<hi rend="italic">a Don Flaminio</hi>) Lo prendo, o non lo prendo?</p>
+                  <p>FLA. Basta, basta... prendetelo, portatelo, non mi oppongo.</p>
+                  <p>FAC. (<hi rend="italic">a Lindoro</hi>) Aiutatemi, se l'ho da rimettere in spalla.</p>
+                  <p>LIN. (Misero me! a qual condizione son io ridotto!) (<hi rend="italic">dà la mano al baule, e lo rimette in spalla al Facchino</hi>)</p>
+                  <p>FLA. (<hi rend="italic">da sé</hi>) (È meglio ch'io li lasci fare, ch'io li sèguiti di lontano, e che mi assicuri s'egli lo porti in casa della cantatrice, dove mi dicono ch'ei sia ricoverato.)</p>
+                  <p>LIN. (<hi rend="italic">al Facchino, incamminandosi</hi>) Andiamo.</p>
+                  <p>FAC. In nome del cielo!</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13642_1310162191"/>SCENA VI<ptr type="bookmark-end" target="#id___RefHeading___Toc13642_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto </hi>
+                     <hi rend="italic">ed i suddetti.</hi>
+                  </p>
+                  <p>ROB. (<hi rend="italic">arresta il Facchino</hi>) Alto là, alto là.</p>
+                  <p>FAC. Cosa c'è di nuovo?</p>
+                  <p>ROB. Dove vai con quel baule?</p>
+                  <p>FAC. (<hi rend="italic">accennando Lindoro</hi>) Domandatelo a quel galantuomo.</p>
+                  <p>ROB. (<hi rend="italic">a Lindoro</hi>) Dov'è Zelinda?</p>
+                  <p>LIN. Non lo so, signore. Me l'ha domandato ancora il signor Don Flaminio.</p>
+                  <p>ROB. (<hi rend="italic">a Don Flaminio</hi>) Disgraziato! Persisti ancora a disobbedirmi?</p>
+                  <p>FLA. Ma io vi assicuro...</p>
+                  <p>ROB. (<hi rend="italic">a Lindoro</hi>) Voglio sapere dov'è Zelinda.</p>
+                  <p>LIN. È inutile che a me voi lo domandiate.</p>
+                  <p>FAC. (<hi rend="italic">da sè</hi>) (Lo torno a gettar per terra.)</p>
+                  <p>ROB. Troverò io la via di saperlo. Amico, voi mi conoscete; voi avete preso quel baule in casa mia; venite con me, e riportatelo ov'era prima.</p>
+                  <p>FAC. Mi pagherete?</p>
+                  <p>ROB. Vi pagherò.</p>
+                  <p>LIN. (<hi rend="italic">a Don Roberto</hi>) Ma voi, signore, non avete più autorità...</p>
+                  <p>ROB. Mi maraviglio che abbiate ardire...</p>
+                  <p>FAC. Eh corpo del diavolo! Lo porterò dove l'ho trovato. (<hi rend="italic">parte</hi>)</p>
+                  <p>ROB. (<hi rend="italic">a Lindoro</hi>)<hi rend="italic"> </hi>Ci parleremo con comodo. Se Zelinda vorrà il suo baule, verrà ella a prenderlo in casa mia. (<hi rend="italic">parte dietro al Facchino</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13644_1310162191"/>SCENA VII<ptr type="bookmark-end" target="#id___RefHeading___Toc13644_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Flaminio </hi>
+                     <hi rend="italic">e </hi>
+                     <hi rend="bold">Lindoro</hi>
+                  </p>
+                  <p>LIN. Non permetterò mai... (<hi rend="italic">vuol seguitar Don Roberto</hi>)</p>
+                  <p>FLA. (<hi rend="italic">lo trattiene</hi>) Fermatevi.</p>
+                  <p>LIN. Nessuno mi potrà impedire... (<hi rend="italic">vuol sforzare il passo</hi>)</p>
+                  <p>FLA. Fermatevi, o giuro al cielo... (<hi rend="italic">mette la mano alla guardia della spada</hi>)</p>
+                  <p>LIN. (<hi rend="italic">fa lo stesso, poi si pente</hi>) –<hi rend="italic"> </hi>(<hi rend="italic">da sè</hi>) (Ah se Zelinda non mi trattenesse!)</p>
+                  <p>FLA. Ecco il bel servigio che avete reso a Zelinda.</p>
+                  <p>LIN. Vostro padre è un uomo d'onore. Le renderà tutto quello che le appartiene.</p>
+                  <p>FLA. Ma intanto...</p>
+                  <p>LIN. Intanto siete voi la causa ch'ella avrà questo spiacere.</p>
+                  <p>FLA. Ditemi dov'ella si trova, e m'impegno di farvi avere il di lei baule.</p>
+                  <p>LIN. V'impegnereste di questo?</p>
+                  <p>FLA. Sì, vi do la mia parola d'onore.</p>
+                  <p>LIN. Malgrado ai risentimenti di vostro padre?</p>
+                  <p>FLA. Malgrado a tutto quello che mi potesse arrivare.</p>
+                  <p>LIN. Signore, se mi permettete, vorrei dirvi una cosa.</p>
+                  <p>FLA. Ditela liberamente.</p>
+                  <p>LIN. Mi perdonerete voi s'io la dico?</p>
+                  <p>FLA. È cosa che possa offendermi?</p>
+                  <p>LIN. No, poichè non è che un sentimento onesto e sincero d'un vostro buon servitore.</p>
+                  <p>FLA. Parlate dunque senza difficoltà.</p>
+                  <p>LIN. Quel ch'io ho l'onore di dirvi si è, che il modo vostro di pensare fa torto all'educazione che avete avuta, fa torto a voi medesimo...</p>
+                  <p>FLA. Mi vorreste fare il pedante?</p>
+                  <p>LIN. Non signore. Parlo con la dovuta riverenza, e vi dico, che mancar di rispetto al padre... Deh ascoltate pazientemente uno sfortunato che trovasi nel caso vostro. Io, signore, io stesso per secondare l'amore, la passione, o il capriccio, ho disobbedito mio padre, ho mancato al debito di rispettarlo, mi sono allontanato da lui, ed eccomi ridotto a soffrire la servitù, a soffrire l'avvilimento, il dispregio e la derisione. Ecco gli effetti della mala condotta. Prendete esempio da me, regolatevi nelle vostre intraprese, e compatitemi se ho avuto l'ardire di correggervi, e se ho la disgrazia di dispiacervi. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13646_1310162191"/>SCENA VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13646_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Flaminio</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Fabrizio</hi>
+                  </p>
+                  <p>FLA. Costui ha trovato la via di mortificarmi, senza ch'io possa trattarlo male. Mi ha detto la verità, mi ha convinto col suo proprio esempio. Ma le insinuazioni d'un rivale non vagliono a persuadere, e non sono in grado di cedergli tranquillamente il cuor di Zelinda. L'amo e sono impegnato, ed ho il puntiglio per sopra carico dell'amore.</p>
+                  <p>FAB. (Ecco qui Don Flaminio. Ho ancor bisogno di lui, e convien tentare di lusingarlo.) Signore...</p>
+                  <p>FLA. Indegno! ardisci ancora di presentarti dinanzi a me?</p>
+                  <p>FAB. In verità, signore, mi fate torto.</p>
+                  <p>FLA. Vorresti ancora inorpellarmi la verità?</p>
+                  <p>FAB. Ma qual verità?</p>
+                  <p>FLA. Che! non ha parlato chiaro Zelinda?</p>
+                  <p>FAB. E volete credere ad una giovine innamorata, che accusa tutto il mondo per coprir sè medesima?</p>
+                  <p>FLA. Non hai avuto coraggio di difenderti in faccia sua.</p>
+                  <p>FAB. Perchè Donna Eleonora non mi ha dato il tempo di farlo.</p>
+                  <p>FLA. Tu sei un perfido, tu m'inganni.</p>
+                  <p>FAB. Siete in errore, signore, ve l'assicuro. Vi darò prove della mia fedeltà. Sapete voi dove sia Zelinda?</p>
+                  <p>FLA. (<hi rend="italic">serio</hi>) No, non lo so.</p>
+                  <p>FAB. (<hi rend="italic">da sè</hi>) (Questo è quello che mi dispiace.)</p>
+                  <p>FLA. (Scopriamo un poco l'intenzion di costui.) Perchè mi domandi tu, se io so dove sia Zelinda?</p>
+                  <p>FAB. Perchè ora sarebbe il tempo di guadagnarla.</p>
+                  <p>FLA. Per chi?</p>
+                  <p>FAB. Per voi.</p>
+                  <p>FLA. (<hi rend="italic">con sdegno</hi>) Per me, o per te?</p>
+                  <p>FAB. Per voi, ve l'assicuro, per voi. Io non ci penso, e non ci ho pensato mai. Se anche avessi qualche inclinazione per lei, credete ch'io non capisca ch'ella è vana della pretesa sua nobiltà, e che non avrei in concambio che dei disprezzi? Io le ho parlato per conto vostro, ed ella ha interpretato male i miei detti. Ha preso gli elogi per dichiarazione d'amore, e le mie attenzioni civili per effetti di attaccamento. Mi dispiace che non si sa ove sia, altrimenti vi farei toccar con mano la verità.</p>
+                  <p>FLA. (<hi rend="italic">placidamente</hi>) Non si sa dove sia, ma si può sapere.</p>
+                  <p>FAB. Per saperlo, basterebbe rilevare dov'è Lindoro.</p>
+                  <p>FLA. E che si potrebbe sperar da lui?</p>
+                  <p>FAB. Potrebbe darsi che fossero insieme; e se non lo sono ancora, mi darebbe l'animo di ricavare da lui...</p>
+                  <p>FLA. E credi tu che Lindoro si lascerebbe indurre a scoprirlo?</p>
+                  <p>FAB. Ne son sicuro.</p>
+                  <p>FLA. Ed io ti replico che t'inganni. Ho parlato io stesso a Lindoro, l'ho lusingato, l'ho minacciato: è stato inutile, non vuol parlare.</p>
+                  <p>FAB. Eh cospetto di bacco! Se gli parlo io, scommetto che mi dà l'animo di farlo parlare.</p>
+                  <p>FLA. Se questo potesse essere...</p>
+                  <p>FAB. Sapete voi dov'egli dimora?</p>
+                  <p>FLA. Sì, l'ho saputo per accidente.</p>
+                  <p>FAB. Ditemelo, e non dubitate.</p>
+                  <p>FLA. L'amico suo, il suo paesano Giannino, l'ha collocato per cameriere in casa di certa signora Barbara cantatrice.</p>
+                  <p>FAB. So chi è, la conosco.</p>
+                  <p>FLA. La conosco anch'io, ma non so ove stia di casa.</p>
+                  <p>FAB. Lo so io, lo so io. Anderò a ritrovarlo, e gli parlerò, e gli terrò dietro se occorre, e farò tanto, che mi riuscirà di saperlo.</p>
+                  <p>FLA. Insegnami la casa della cantatrice.</p>
+                  <p>FAB. Non serve, signore, non serve che v'incomodiate. Fidatevi di me, lasciatevi servire, e vivete tranquillo. (È sciocco se crede ch'io voglia operare per lui). (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13648_1310162191"/>SCENA IX<ptr type="bookmark-end" target="#id___RefHeading___Toc13648_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Flaminio</hi>
+                     <hi rend="italic">  solo.</hi>
+                  </p>
+                  <p rend="justify">Il furbo non vuol insegnarmi la casa, ed io pazzamente gli ho nominato la persona. Dubito che continui a burlarsi di me. Ma non è difficile a rilevare la dimora della cantatrice. Andrò io stesso col pretesto di visitarla. Una virtuosa di musica non rifiuterà la sua porta ad un galantuomo, tanto più che ci siamo trovati insieme più d'una volta, e mi conosce. Voglio nuovamente parlare a Lindoro, voglio prevenire Fabrizio, e valermi del suo disegno, come egli si vale della mia scoperta. Amore non manca di mezzi termini e di ripieghi. È vero ch'io vado incontro alla collera di mio padre, ma egli non può sapere tutti i miei passi, e poi è troppo buono per non compatire una passione sì tenera, e sì comune. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13650_1310162191"/>SCENA X<ptr type="bookmark-end" target="#id___RefHeading___Toc13650_1310162191"/>
+                  </head>
+                  <p rend="justify">Camera in casa della cantatrice, con spinetta e clavicembalo.</p>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">  solo.</hi>
+                  </p>
+                  <p rend="justify">Sono inquieto per la mia Zelinda. Non so s'ella avrà trovato la rivenditrice. Non la vedo ancora a venire. Ma che dirà la povera figlia, quando saprà che il baule non è più in mio potere? Sa il cielo quanto vi vorrà per riaverlo, e ch'ella non sia obbligata a rientrare... Ma no, a costo di perder tutto, ella non rientrerà in quella casa, ella non mi darà più il dispiacere di vederla fra' miei nemici. Soffro io per lei una condizione indegna di me, soffrirà ell'ancora egualmente finchè la sorte si cangi, finchè mio padre s'acquieti, e mi permetta di essere seco lei fortunato. Ma ecco la mia padrona.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13652_1310162191"/>SCENA XI<ptr type="bookmark-end" target="#id___RefHeading___Toc13652_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Barbara</hi>
+                     <hi rend="italic">  e detto.</hi>
+                  </p>
+                  <p>BAR. Tirate innanzi, Lindoro, quella spinetta.</p>
+                  <p>LIN. Sì, signora, subito. (<hi rend="italic">eseguisce, ma con istento</hi>)</p>
+                  <p>BAR. Una sedia.</p>
+                  <p>LIN. (<hi rend="italic">accosta una sedia alla spinetta, e sospira</hi>) Eccola.</p>
+                  <p>BAR. Sapete fare il cioccolato?</p>
+                  <p>LIN. Passabilmente; mi proverò.</p>
+                  <p>BAR. Dite la verità. Voi non siete molto avvezzo a servire.</p>
+                  <p>LIN. Spero che non avrete a dolervi di me.</p>
+                  <p>BAR. Son sicurissima della vostra buona volontà, mi parete un giovine ben disposto; ma capisco dal poco che avete fatto finora che non è questo il vostro mestiere.</p>
+                  <p>LIN. Veramente nella casa da dove ora sono escito, io serviva per segretario.</p>
+                  <p>BAR. E perchè adattarvi ora ad un servigio inferiore?</p>
+                  <p>LIN. Voi mi proverete, signora, e spero che non sarete di me malcontenta.</p>
+                  <p>BAR. La vostra fisonomia, la maniera vostra civile, mi fanno credere che siate nato in uno stato migliore.</p>
+                  <p>LIN. Signora... son nato galantuomo, sono sempre vissuto da galantuomo, e questo è quello di cui ambisco vantarmi.</p>
+                  <p>BAR. Non sarebbe gran fatto che la fortuna contraria facesse un torto alla vostra nascita. Io sono nel medesimo caso. Io non era nata per professare la musica. L'ho appresa per puro divertimento, e la disgrazia del povero mio genitore…</p>
+                  <p>LIN. È stato battuto, mi pare.</p>
+                  <p>BAR. Sì, andate a vedere chi è.</p>
+                  <p>LIN. Vado subito. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13654_1310162191"/>SCENA XII<ptr type="bookmark-end" target="#id___RefHeading___Toc13654_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Barbara</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Lindoro</hi>
+                  </p>
+                  <p>BAR. Quando mai si cangerà per me la fortuna? Di tanti adoratori che mi circondano, possibile che non ne ritrovi uno che pensi onorevolmente sopra di me! Il mio contegno dovrebbe pure far conoscere il modo mio di pensare; dovrebbe disingannare i male inclinati, e movere qualcheduno a levarmi da un tal mestiere, ed a credermi degna della sua mano.</p>
+                  <p>LIN. (<hi rend="italic">da sè, in disparte</hi>) (Eccola la mia Zelinda. Oh! cieli, fate ch'ella sia ricevuta.)</p>
+                  <p>BAR. E bene, chi è?</p>
+                  <p>LIN. È una giovane che vi domanda.</p>
+                  <p>BAR. La conoscete?</p>
+                  <p>LIN. Non l'ho mai veduta.</p>
+                  <p>BAR. Sapete che cosa voglia?</p>
+                  <p>LIN. Io credo venga ad offerirsi per cameriera.</p>
+                  <p>BAR. Può essere, perchè ho licenziata quella che aveva, e mi sono raccomandata per averne un'altra.</p>
+                  <p>LIN. Ma signora, se io ho l'onor di servirvi per cameriere, che bisogno avete voi di una cameriera?</p>
+                  <p>BAR. Sapete voi accomodare il capo?</p>
+                  <p>LIN. No, veramente, non lo so fare.</p>
+                  <p>BAR. Oh bene dunque, ho bisogno di una cameriera; fatela entrare.</p>
+                  <p>LIN. (Sì, sì, venga pure. Io ne ho più bisogno di lei.) (<hi rend="italic">alla scena</hi>) Venite, quella giovane, entrate.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13656_1310162191"/>SCENA XIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13656_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>ZEL. Serva umilissima. (<hi rend="italic">con una riverenza</hi>)</p>
+                  <p>BAR. Vi saluto quella giovine. Che cosa desiderate?</p>
+                  <p>ZEL. Mi manda qui la Cecchina...</p>
+                  <p>BAR. La rivenditrice?</p>
+                  <p>ZEL. Ella appunto. Mi ha detto che la signora ha bisogno di una cameriera...</p>
+                  <p>BAR. È verissimo. Che cosa sapete fare?</p>
+                  <p>ZEL. Signora, di tutto un poco.</p>
+                  <p>BAR. Assettare il capo?</p>
+                  <p>ZEL. Ardisco dire perfettamente.</p>
+                  <p>BAR. Cucire...</p>
+                  <p>ZEL. Di bianco principalmente, e tutto quello che occorre.</p>
+                  <p>BAR. Ricamare?</p>
+                  <p>ZEL. Conosco il mestiere, ma non ne sono perfetta.</p>
+                  <p>BAR. Sapete voi accomodare i merletti?</p>
+                  <p>ZEL. Oh in questo poi mi posso vantare di non la cedere a chi che sia.</p>
+                  <p>BAR. Benissimo.</p>
+                  <p>LIN. (Ah se sapesse tutte le virtù della mia Zelinda!)</p>
+                  <p>BAR. Quanto pretendete voi di salario?</p>
+                  <p>ZEL. Vedrà quel che so fare, e ne parleremo.</p>
+                  <p>BAR. (<hi rend="italic">piano a Lindoro</hi>) (Che vi pare di questa giovane?)</p>
+                  <p>LIN. (<hi rend="italic">piano a Barbara</hi>) (Mi par che presumi di saper troppo. Bisogna vedere, bisogna provare. Queste donne si vantano di saper tutto, e spesse volte non sanno niente.)</p>
+                  <p>BAR. (<hi rend="italic">piano a Lindoro</hi>) (Avete ragione, la proverò.)</p>
+                  <p>LIN. (<hi rend="italic">da sè</hi>) (Se la prova, ne son sicuro.)</p>
+                  <p>BA        R. Due cose mi premono sopra tutto: l'assettare il capo, e l'accomodare i merletti. Per il capo vi proverò domani. Per i merletti vedrò subito quello che saprete fare. Volete trattenervi? Volete andare e tornare?</p>
+                  <p>ZEL. Resterò, se vi contentate.</p>
+                  <p>BAR. Ho una cuffia di pizzo di qualche valore. Il pizzo è rovinato. Vorrei rimetterlo, se fosse possibile.</p>
+                  <p>ZEL. Favorite di far ch'io lo veda; vi saprò dire, se sia possibile.</p>
+                  <p>BAR. Trattenetevi, ch'ora torno. (La giovine non mi dispiace. Credo sarà il mio caso.) (<hi rend="italic">da sè, parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13658_1310162191"/>SCENA XIV<ptr type="bookmark-end" target="#id___RefHeading___Toc13658_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">  e </hi>
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Barbara</hi>
+                  </p>
+                  <p>LIN. (<hi rend="italic">con allegrezza</hi>) Ah Zelinda mia, la cosa va bene che non può andar meglio.</p>
+                  <p>ZEL. (<hi rend="italic">allegra</hi>) Non posso spiegarvi la contentezza ch'io provo.</p>
+                  <p>LIN. (<hi rend="italic">come sopra</hi>) Eccoci un'altra volta riuniti insieme.</p>
+                  <p>ZEL. (<hi rend="italic">come sopra</hi>) E senz'alcuno che ci perseguiti.</p>
+                  <p>LIN. (<hi rend="italic">va crescendo l'allegrezza</hi>) Fabrizio non ci farà più paura.</p>
+                  <p>ZEL. (<hi rend="italic">più allegra</hi>) Don Flaminio non mi tormenterà più.</p>
+                  <p>LIN. (<hi rend="italic">ridendo</hi>) E Donna Eleonora?</p>
+                  <p>ZEL. (<hi rend="italic">ridendo</hi>) Oh sono sì contenta di non vederla più!</p>
+                  <p>LIN. Staremo bene.</p>
+                  <p>ZEL. Lo spero anch'io.</p>
+                  <p>LIN. Mi pare la padrona una buona giovane.</p>
+                  <p>ZEL. Sì, mi pare di buona pasta.</p>
+                  <p>LIN. (<hi rend="italic">ridendo</hi>) Crede che non ci conosciamo nemmeno.</p>
+                  <p>ZEL. (<hi rend="italic">ridendo</hi>) È la più bella cosa del mondo.</p>
+                  <p>LIN. (<hi rend="italic">la prende per le due mani</hi>) Cara la mia Zelinda!</p>
+                  <p>ZEL. Il mio caro Lindoro! Mi giubila il cuor in petto.</p>
+                  <p>BAR. (<hi rend="italic">viene, li sorprende nel loro giubilo, e si ferma un poco indietro osservando</hi>)</p>
+                  <p>ZEL. Che piacere! (<hi rend="italic">a Lindoro, non vedendo Barbara</hi>)</p>
+                  <p>LIN. Che consolazione! (<hi rend="italic">a Zelinda, non vedendo Barbara</hi>)</p>
+                  <p>BAR. Da che nasce il vostro piacere, la vostra consolazione? (<hi rend="italic">avanzandosi con qualche sorpresa</hi>)</p>
+                  <p>ZEL. (Povera me!) (<hi rend="italic">resta mortificata</hi>)</p>
+                  <p>LIN. Signora... non crediate già... Vi dirò, mi domandava questa giovane se io era contento di voi. Io le diceva che sono poche ore che ho l'onor di servirvi, ma che sperava di aver trovato la miglior padrona del mondo.</p>
+                  <p>ZEL. (<hi rend="italic">a Barbara</hi>) Questa è una gran consolazione per me.</p>
+                  <p>LIN. (<hi rend="italic">a Barbara</hi>) Questo è il maggior piacere che può aver chi serve.</p>
+                  <p>BAR. Va benissimo, e credo non sarete malcontenti di me, ma vi avverto che in casa mia si vive onestamente e non permetterò certe confidenze...</p>
+                  <p>ZEL. Nè io le amo sicuramente.</p>
+                  <p>LIN. Scusatemi, se per un trasporto di gioja...</p>
+                  <p>BAR. Basta così. Se sapete il vostro dovere, tanto meglio per voi. (Non voglio esser rigorosa, ma vedrò, se potrò fidarmi.) Quella giovane, come vi chiamate?</p>
+                  <p>ZEL. Zelinda, per obbedirvi.</p>
+                  <p>BAR. (<hi rend="italic">le fa vedere la cuffia, cioè il pizzo</hi>) Ecco qui, Zelinda, la cuffia di cui vi ho parlato. Vedete come un piccolo cane l'ha lacerata. Ditemi se è possibile d'accomodarla.</p>
+                  <p>ZEL. Qui e qui si può accomodare; ma qui ve ne manca un pezzo.</p>
+                  <p>BAR. Aspettate. Credo di averne, ma non so se sarà bastante. Lo cercherò, e ve lo porterò a far vedere. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13660_1310162191"/>SCENA XV<ptr type="bookmark-end" target="#id___RefHeading___Toc13660_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Barbara</hi>
+                  </p>
+                  <p>ZEL. Siate più cauto, quasi più ci siamo scoperti.</p>
+                  <p>LIN. È vero, quest'esempio mi servirà di regola in avvenire.</p>
+                  <p>ZEL. (<hi rend="italic">guardando se è osservata</hi>)<hi rend="italic"> </hi>Ditemi, ove avete messo il baule?</p>
+                  <p>LIN. (<hi rend="italic">rattristandosi</hi>) Il baule?</p>
+                  <p>ZEL. Sì, se resto qui ne avrò di bisogno.</p>
+                  <p>LIN. (<hi rend="italic">guardando se è osservato</hi>) Ah Zelinda mia!</p>
+                  <p>ZEL. (<hi rend="italic">guardando anch'essa</hi>) Cosa è stato?</p>
+                  <p>LIN. (<hi rend="italic">con afflizione</hi>) Il baule...</p>
+                  <p>ZEL. Ohimè! cosa è divenuto?</p>
+                  <p>LIN. Il padrone...</p>
+                  <p>ZEL. (<hi rend="italic">affannata</hi>) Qual padrone?</p>
+                  <p>LIN. Il signor Don Roberto...</p>
+                  <p>ZEL. Ebbene.</p>
+                  <p>LIN. L'ha veduto per via, l'ha riconosciuto, ed ha obbligato il facchino...</p>
+                  <p>ZEL. (<hi rend="italic">affannata</hi>) A che fare?</p>
+                  <p>LIN. A riportarlo da lui.</p>
+                  <p>ZEL. (<hi rend="italic">agitata</hi>) Ah meschina di me! la mia roba. Tutto quello che ho al mondo, che mi ho guadagnato con tanti stenti. Perchè? Con qual autorità?</p>
+                  <p>LIN. Non vi affliggete, mia cara.</p>
+                  <p>ZEL. Come? che non mi affligga? Volete voi che io perda la roba mia? o che vada a ridomandarla per avere dei dispiaceri? Oh questa cosa non me la sarei aspettata.</p>
+                  <p>LIN. Maladetto Don Flaminio, è stato egli la causa.</p>
+                  <p>ZEL. No la vostra poca attenzione.</p>
+                  <p>LIN. Ma perchè mi mortificate?</p>
+                  <p>ZEL. Sono io la mortificata. Sono io che ne risento il danno, il dispiacere, il dispetto. (<hi rend="italic">piange di rabbia</hi>)</p>
+                  <p>LIN. La rabbia mi divora, maladetto il destino. (<hi rend="italic">Si agita e batte i piedi</hi>)</p>
+                  <p>BAR. (<hi rend="italic">Li sorprende in quest'atto, e si ferma un poco</hi>)</p>
+                  <p>ZEL. (<hi rend="italic">da sè, piangendo</hi>) (Che farò ora senz'aver da mutarmi?)</p>
+                  <p>LIN. (<hi rend="italic">batte i piedi, come sopra</hi>) (Tutte le disgrazie si affollano per tormentarmi!)</p>
+                  <p>BAR. Come! Che stravaganza è questa? (<hi rend="italic">li due restano mortificati</hi>)<hi rend="italic"> </hi>Poc'anzi eravate ridenti, giubilanti, ed ora Zelinda piange, e Lindoro batte i piedi, e s'adira?</p>
+                  <p>LIN. Scusatemi... (Non so che dire.)</p>
+                  <p>BAR. (<hi rend="italic">a Zelinda</hi>) Che avete voi che piangete?</p>
+                  <p>ZEL. Signora... parlava con questo giovane di una padrona che ho avuto l'onor di servire. La poverina è morta, e quando me ne rammento, non posso trattenere le lagrime. (<hi rend="italic">piange un poco</hi>)</p>
+                  <p>BAR. (<hi rend="italic">a Lindoro</hi>) Lodo il vostro buon cuore. Ma voi qual soggetto avete di smaniare in tal modo?</p>
+                  <p>LIN. Vi dirò... Zelinda mi ha raccontato la malattia della sua padrona. Era una cosa di niente, e il medico... Sì, assolutamente il medico l'ha ammazzata. Sono così arrabbiato contro i cattivi medici, che vorrei esser medico per ammazzarli.</p>
+                  <p>BAR. Non vorrei che le vostre lacrime e le vostre collere nascondessero qualche mistero.</p>
+                  <p>ZEL. Signora, scusatemi, qual mistero ci può essere fra due persone che per la prima volta si vedono?</p>
+                  <p>LIN. In verità, signora, voi mi mortificate.</p>
+                  <p>BAR. (Se è vero il mio sospetto, me ne chiarirò facilmente.) (<hi rend="italic">fa vedere a Zelinda un pezzo di merletto</hi>) Ecco il pezzo che ho ritrovato. Vediamo se può esser bastante.</p>
+                  <p>ZEL. Mi par di sì, signora; ma per assicurarmi, permettete che io lo esamini un poco meglio.</p>
+                  <p>BAR. Fate così. Ritiratevi in quella stanza, e là potrete osservarlo a vostro bell'agio.</p>
+                  <p>ZEL. Farò tutto quello che comandate. (<hi rend="italic">in atto di partire</hi>)<hi rend="italic"> </hi>Ah la mia povera roba! Non mi poteva arrivare maggior disgrazia. (<hi rend="italic">entra in una camera </hi>
+                     <hi rend="italic">laterale</hi>)</p>
+                  <p>BAR. (<hi rend="italic">verso Lindoro</hi>) Non so se le finestre di quella camera siano aperte, o serrate.</p>
+                  <p>LIN. (<hi rend="italic">in atto di andare</hi>) Volete che io vada a vedere?</p>
+                  <p>BAR. No, no, andatemi a fare una tazza di cioccolato, e quando è fatto, portatelo.</p>
+                  <p>LIN. Sì, signora. (<hi rend="italic">guardando dov'è Zelinda</hi>)<hi rend="italic"> </hi>(Poverina! vorrei vedere di consolarla.) (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13662_1310162191"/>SCENA XVI<ptr type="bookmark-end" target="#id___RefHeading___Toc13662_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Barbara</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Don Flaminio</hi>
+                  </p>
+                  <p>BAR. Veramente tener in casa due giovani di questa sorte è una cosa un poco pericolosa. Bisognerà che mi disfaccia d'uno di loro. Ma tutti due mi paiono sì proprj e civili... Se potessi assicurarmi della loro buona condotta... Parmi di sentir qualcheduno. (<hi rend="italic">verso la scena</hi>) Chi è di là?</p>
+                  <p>FLA. Scusate, signora: non ho trovato nessuno in sala.</p>
+                  <p>BAR. Serva umilissima. La porta adunque era aperta?</p>
+                  <p>FLA. Sì, certamente.</p>
+                  <p>BAR. Che cosa ha ella da comandarmi?</p>
+                  <p>FLA. Signora, io ho avuto l'onore di vedervi più d'una volta a qualche accademia.</p>
+                  <p>BAR. Sì certo, mi sovviene benissimo di aver avuto questa fortuna.</p>
+                  <p>FLA. Sono ammiratore del vostro merito e della vostra virtù.</p>
+                  <p>BAR. Ella mi onora per effetto di gentilezza.</p>
+                  <p>FLA. E mi son presa la libertà di venirvi ad assicurare della mia stima e del mio rispetto.</p>
+                  <p>BAR. Sono sensibile alla di lei bontà. Favorisca d'accomodarsi.</p>
+                  <p>FLA. Voi siete ben alloggiata.</p>
+                  <p>BAR. Signore, non è una gran casa, ma per me è bastante.</p>
+                  <p>FLA. Voi siete Torinese, non è egli vero?</p>
+                  <p>BAR. Sì, signore, per obbedirla.</p>
+                  <p>FLA. E mi fu detto che la vostra famiglia...</p>
+                  <p>BAR. Di grazia, vi supplico non mi parlate della mia famiglia. Vorrei potermene dimenticar affatto, se non fossi obbligata a pensar sovente a mio padre.</p>
+                  <p>FLA. In fatti è dura cosa il doversi adattar ad uno stato che non conviene alla propria nascita. Ma il decoro e l'onestà con cui solete condurvi...</p>
+                  <p>BAR. Oh in questo poi non tradirò l'esser mio.</p>
+                  <p>FLA. Voi meritate miglior fortuna.</p>
+                  <p>BAR. Io non merito niente, ma vi assicuro che non ne son contenta.</p>
+                  <p>FLA. Se mai potess'io contribuire a vostri vantaggi, vi assicuro che lo farei col maggior piacere del mondo.</p>
+                  <p>BAR. Sono obbligata alla vostra cortese disposizione.</p>
+                  <p>FLA. Davvero, sull'onor mio. Conosco il vostro merito, e vorrei potervi dare qualche prova della mia stima.</p>
+                  <p>BAR. (<hi rend="italic">da sè</hi>) (Le solite esibizioni che non conchiudono niente.)</p>
+                  <p>FLA. (<hi rend="italic">da sè</hi>) (Vorrei assicurarmi se vi è Lindoro, e non so come fare.)</p>
+                  <p>BAR. Signore, la supplico dirmi con chi ho l'onor di parlare.</p>
+                  <p>FLA. Don Flaminio del Cedro, vostro buon servitore.</p>
+                  <p>BAR. Ah sì, ora mi sovviene. Mi consolo di conoscere particolarmente un cavaliere di merito e di qualità.</p>
+                  <p>FLA. Consideratemi come vostro amico, disposto a tutto quello che vi può far piacere.</p>
+                  <p>BAR. (<hi rend="italic">da sè</hi>) (Eh se dicesse davvero! ma non me ne fido.)</p>
+                  <p>FLA. Ditemi, signora Barbara, siete sola? non avete nessuno con voi?</p>
+                  <p>BAR. Non ho che un servitore, e una cameriera.</p>
+                  <p>FLA. A proposito: mi era stato detto che avevate licenziato il vostro cameriere.</p>
+                  <p>BAR. È verissimo, ma ne ho preso un altro..</p>
+                  <p>FLA. So che ve n'era uno che aspirava a venir da voi... Come si chiama quello che avete preso?</p>
+                  <p>BAR. Lindoro.</p>
+                  <p>FLA. Non è quello che io diceva. (<hi rend="italic">da sè</hi>) (Anzi è quello che io cercava.)</p>
+                  <p>BAR. Non mi pare cattivo giovane.</p>
+                  <p>FLA. E come passate il vostro tempo, signora?</p>
+                  <p>BAR. Un poco leggere, un poco cantare...</p>
+                  <p>FLA. Sarebbe troppo ardire pregarvi di una qualche picciola arietta?</p>
+                  <p>BAR. Vi servirò col maggior piacere del mondo.</p>
+                  <p>FLA. Siete amabile, siete gentile.</p>
+                  <p>BAR. Faccio il mio debito con chi mi onora. (<hi rend="italic">si alza, e va a sedere alla spinetta</hi>)</p>
+                  <p>FLA. (<hi rend="italic">da sè</hi>) (Se non vedrò oggi Lindoro, lo vedrò un altro giorno; anzi lo vorrei vedere in presenza della sua padrona.)</p>
+                  <p>BAR. Ecco qui una nuova raccolta di arie che mi sono state mandate. Ve ne sono delle buone, e delle cattive.</p>
+                  <p>FLA. Voi le renderete tutte perfette.</p>
+                  <p>BAR. Oh, non ho tanta abilità. (<hi rend="italic">va cercando un'aria per cantare</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13664_1310162191"/>SCENA XVII<ptr type="bookmark-end" target="#id___RefHeading___Toc13664_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda </hi>
+                     <hi rend="italic">col pizzo in mano, e detti</hi>
+                  </p>
+                  <p>ZEL. Le farò veder quel che ho fatto... Oh cieli! chi vedo mai. (<hi rend="italic">vede Don Flaminio, e subito si ritira</hi>)</p>
+                  <p>FLA. (<hi rend="italic">da sè</hi>) (Qui Zelinda! Qual fortuna! Qual avventura!)</p>
+                  <p>BAR. (<hi rend="italic">a Don Flaminio guardando sulle carte di musica</hi>) Ecco: questa non mi pare cattiva.</p>
+                  <p>ZEL. (<hi rend="italic">da sè</hi>) (Non so se io parta, o se io resti.)</p>
+                  <p>BAR. (<hi rend="italic">come sopra</hi>) È un mezzo cantabile assai gentile.</p>
+                  <p>FLA. (<hi rend="italic">da sè</hi>) (Bisogna profittare dell'occasione. Se Zelinda ha giudizio, non si scoprirà.)</p>
+                  <p>BAR. Ma, signore, che vuol dire che mi parete agitato, e non mi abbadate nemmeno.</p>
+                  <p>FLA. Niente niente. Favorite, che vi sentirò con piacere.</p>
+                  <p>BAR. Ma voi guardate piuttosto da quella parte.</p>
+                  <p>FLA. Vi dirò. Ho veduto sortire da quella camera una giovane con de' merletti alla mano, e quando mi ha veduto, è fuggita. Mi parve strana una tal ritirata. Io non sono qui per importunare nessuno.</p>
+                  <p>BAR. Signore, è una cameriera che è venuta poco fa ad esibirsi. Le ho dato per prova da accomodare certi merletti... Zelinda. (<hi rend="italic">la chiama</hi>)</p>
+                  <p>ZEL. Signora. (<hi rend="italic">esce un poco timorosa</hi>)</p>
+                  <p>BAR. Volevate voi qualche cosa?</p>
+                  <p>ZEL. Voleva farvi vedere, come ho trovato il modo di accomodare... (<hi rend="italic">timorosa</hi>)</p>
+                  <p>BAR. Avanzatevi. Che cos'avete? di che tremate?</p>
+                  <p>ZEL. Vedo un signore, che io non sapeva che ci fosse... (<hi rend="italic">timorosa</hi>)</p>
+                  <p>BAR. E per questo vi mettete in tanta apprensione? Non siete avvezza a vedere degli uomini?</p>
+                  <p>ZEL. Sì, signora, ma il mio rispetto... (Povera me! qual incontro! sono perduta.)</p>
+                  <p>BAR. Via, via, il rispetto va bene; ma la rustichezza non è degna del vostro spirito. Avanzatevi, lasciatemi veder quel che avete fatto.</p>
+                  <p>FLA. Venite venite, non abbiate soggezione di me. (<hi rend="italic">a Zelinda, le passa dietro, e le dice piano</hi>)<hi rend="italic"> </hi>(Non temete, vi prometto che non vi scoprirò.)</p>
+                  <p>ZEL. (<hi rend="italic">prende coraggio, e parla con brio</hi>)<hi rend="italic"> </hi>Ecco qui, signora, da questa parte l'ho accomodato in maniera che non si conosce, e da quell'altra ho principiato ad incassare il pezzo che mi avete dato.</p>
+                  <p>BAR. Va benissimo. Sono contenta. Vedo che lo sapete fare perfettamente.</p>
+                  <p>FLA. Mi par bellissimo cotesto pizzo.</p>
+                  <p>BAR. È un punto d'Inghilterra che ha qualche merito.</p>
+                  <p>FLA. Con permissione. (<hi rend="italic">si accosta a Zelinda per vedere il pizzo, e le tocca le mani</hi>)</p>
+                  <p>ZEL. Che sfacciato! (<hi rend="italic">ritira le mani con dispetto</hi>)</p>
+                  <p>BAR. (<hi rend="italic">a Zelinda</hi>) Ma perchè queste male grazie?</p>
+                  <p>ZEL. Oh io sono delicata, signora.</p>
+                  <p>BAR. (Io dubito vi sia dell'affettazione.)</p>
+                  <p>FLA. E così, signora Barbara, se volete onorarmi di farmi sentire un'<hi rend="italic">arietta</hi>...</p>
+                  <p>BAR. (<hi rend="italic">a Don Flaminio</hi>)<hi rend="italic"> </hi>Subito vi servo. (<hi rend="italic">a Zelinda</hi>) Procurate che incassando da questa parte s'incontrino questi rami.</p>
+                  <p>ZEL. Sicuramente.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13666_1310162191"/>SCENA XVIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13666_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro </hi>
+                     <hi rend="italic">colla sottocoppa con una tazza di cioccolato, e detti.</hi>
+                  </p>
+                  <p>LIN. Ecco il cioccolato... Ohimè! (<hi rend="italic">vede Don Flaminio, e tremando lascia cader tutto in terra</hi>)</p>
+                  <p>BAR. (<hi rend="italic">a Lindoro</hi>) Cosa avete fatto?</p>
+                  <p>LIN. Scusatemi... (<hi rend="italic">timoroso</hi>)</p>
+                  <p>BAR. Via, via, non è niente.</p>
+                  <p>LIN. Ne andrò a sbattere un'altra tazza...</p>
+                  <p>BAR. No, no, l'ora è avanzata, non serve più.</p>
+                  <p>LIN. (<hi rend="italic">da sè</hi>) (Il diavolo lo ha qui portato.)</p>
+                  <p>ZEL. (<hi rend="italic">da sè</hi>) (È un prodigio se non si scopre ogni cosa.)</p>
+                  <p>FLA. (<hi rend="italic">a Barbara</hi>) È questi il giovane che avete preso per cameriere?</p>
+                  <p>BAR. Sì, signore</p>
+                  <p>FLA. Mi pare un giovane di garbo.</p>
+                  <p>BAR. Lo conoscete?</p>
+                  <p>FLA. Non l'ho mai veduto.</p>
+                  <p>LIN. (<hi rend="italic">da sè</hi>) (Manco male, respiro un poco.)</p>
+                  <p>FLA. Voi meritate d'esser ben servita, e vedo che avete scelto assai bene. Specialmente l'abilità di questa giovane è singolare. Non si possono meglio accomodare i merletti. Permettetemi che io vegga quell'incassatura. (<hi rend="italic">col pretesto le tocca le mani</hi>)</p>
+                  <p>ZEL. (<hi rend="italic">piano a Don Flaminio</hi>) (Ma signore...)</p>
+                  <p>FLA. (<hi rend="italic">piano a Zelinda</hi>) (Tacete, o vi scoprirò.)</p>
+                  <p>ZEL. (<hi rend="italic">da sè</hi>) (Povera me! in qual imbarazzo mi trovo!)</p>
+                  <p>LIN. (<hi rend="italic">da sè</hi>) (E ho da soffrire che Don Flaminio usi a Zelinda delle confidenze?)</p>
+                  <p>BAR. Zelinda, mi pare che la vostra delicatezza...</p>
+                  <p>ZEL. (<hi rend="italic">a Barbara</hi>) In verità, signora, se non fosse per voi...</p>
+                  <p>BAR. Per me dico che il signor Don Flaminio abusa un poco troppo della convenienza.</p>
+                  <p>FLA. Vi domando perdono...</p>
+                  <p>LIN. (<hi rend="italic">a Don Flaminio, riscaldandosi un poco</hi>) Veramente nelle case onorate...</p>
+                  <p>FLA. (<hi rend="italic">a Lindoro</hi>) A voi non conviene parlare.</p>
+                  <p>LIN. (<hi rend="italic">da sè</hi>) (Ha ragione; ma non lo posso soffrire.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13668_1310162191"/>SCENA XIX<ptr type="bookmark-end" target="#id___RefHeading___Toc13668_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>ZEL. Con permissione. (<hi rend="italic">Zelinda, Lindoro e Don Flaminio si turbano alla vista di Fabrizio</hi>)</p>
+                  <p>BAR. Che maniera è questa d'entrare?</p>
+                  <p>FAB. Domando perdono. Ho trovata la porta aperta.</p>
+                  <p>ZEL. (Povera me!).</p>
+                  <p>LIN. (Siamo precipitati).</p>
+                  <p>FLA. (Con qual intenzione sarà venuto costui?)</p>
+                  <p>FAB. (Zelinda! Lindoro! Il padrone! a me, a me. Sono capitato in buon punto.)</p>
+                  <p>BAR. (<hi rend="italic">a Fabrizio</hi>) Ebbene, chi siete? chi domandate? cosa volete?</p>
+                  <p>FAB. (<hi rend="italic">a Barbara, accennando Don Flaminio</hi>) Scusatemi, sono venuto qui per il mio padrone.</p>
+                  <p>BAR. (<hi rend="italic">a Don Flaminio</hi>) È il vostro servitore?</p>
+                  <p>FLA. (<hi rend="italic">a Fabrizio</hi>) Sì, signora: che cosa vuoi?</p>
+                  <p>FAB. Signore, vostro padre vi cerca e vi domanda. Ha saputo che siete qui, ha saputo che correte dietro a Zelinda, che volete amarla e seguirla a dispetto suo, e vi fa sapere per bocca mia...</p>
+                  <p>BAR. Come, signore, venite in casa mia col pretesto di far a me una finezza, e vi servite della mia buona fede per soddisfare la vostra indegna passione? Vergognatevi di un tal procedere, indegno d'un Cavaliere d'onore, e contentatevi di ritirarvi...</p>
+                  <p>FLA. Avete ragione. Vi domando mille perdoni. Parto pien di rossore e di confusione; (<hi rend="italic">a Fabrizio</hi>)<hi rend="italic"> </hi>ma tu, scellerato, tu me la pagherai. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13670_1310162191"/>SCENA XX<ptr type="bookmark-end" target="#id___RefHeading___Toc13670_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="italic">I suddetti, fuori di </hi>
+                     <hi rend="bold">Don Flaminio</hi>
+                  </p>
+                  <p>FAB. Io faccio il mio dovere, e nè più nè meno...</p>
+                  <p>BAR. (<hi rend="italic">a Zelinda</hi>) E voi colla vostra delicatezza...</p>
+                  <p>ZEL. Signora, vi giuro che io non ne ho colpa.</p>
+                  <p>FAB. Anche a voi, Zelinda, deggio dir qualche cosa da parte del padrone. Egli vi fa sapere che sarà sempre lo stesso per voi, che vi riceverà nuovamente in casa, anche a dispetto di sua consorte, ma col patto che abbandoniate Lindoro, essendo una vergogna che una giovane come voi voglia precipitarsi per uno che, se vi sposerà, non vi potrà mantenere. Ho eseguita la mia commissione. (<hi rend="italic">li due restano mortificati</hi>)<hi rend="italic"> </hi>Servitor umilissimo di lor signori. (<hi rend="italic">parte</hi>)</p>
+                  <p>BAR. (<hi rend="italic">a Zelinda e Lindoro</hi>) Oh cieli! posso sentir di peggio? Indegni! escite subito di casa mia.</p>
+                  <p>ZEL. Signora, per carità...</p>
+                  <p>BAR. Andate, che non meritate pietà.</p>
+                  <p>LIN. Un amore innocente...</p>
+                  <p>BAR. Che amore innocente? Chiamate voi innocenza le imposture, la menzogna, la falsità?</p>
+                  <p>ZEL. Ah, se sapeste le circostanze delle nostre disavventure...</p>
+                  <p>BAR. Mi maraviglio di voi: con chi credevate di aver che fare? L'esser io d'una professione ch'esercito per mia disgrazia, vi faceva forse sperare di trovarmi indulgente alla vostra passione? No, il teatro non guasta il cuore a chi lo ha fortificato dalla prudenza e dall'onestà. Pensaste male, vi regolaste assai peggio. Partite subito, che non voglio più tollerarvi.</p>
+                  <p>ZEL. Oh Dio! pazienza l'andarmene. Il cielo mi provvederà. Ma l'essere da voi scacciata con questa macchia al decoro mio, è un tal dolore per me, è una sì fiera pena, che non avrò coraggio di tollerarla, che mi farà soccombere, che mi darà miseramente la morte.</p>
+                  <p>LIN. Una povera giovine, nata bene, perseguitata dalla fortuna, fugge dai persecutori della sua onestà: si ricovera in casa vostra, in compagnia d'uno, è vero, ma di un uomo onorato e civile, che abbandona tutto per lei, che si riduce a servire unicamente per lei, e sarà il nostro amore colpevole a questo segno? e saremo tutti due vilipesi, scacciati, e sì barbaramente trattati? (<hi rend="italic">patetico</hi>)</p>
+                  <p>BAR. Non so che dire. Voi mi movete tutti due a compassione, ma non posso niente in vostro avvantaggio. Il decoro mio non vuole che io vi soffra in mia casa. Vi compatisco, vi compiango, ma vi prego d'andarvene, e di scusare la delicatezza del modo mio di trattare.</p>
+                  <p>LIN. Sì, avete ragione, e partirò meno afflitto, se voi non vi mostrate sdegnata.</p>
+                  <p>ZEL. La vostra compassione consola in parte il mio rammarico, la mia pena.</p>
+                  <p>LIN. Addio, signora, vi domando perdono.</p>
+                  <p>ZEL. Scusatemi per carità. (<hi rend="italic">piangendo</hi>)</p>
+                  <p>BAR. Andate, che il cielo vi consoli e vi benedica. (<hi rend="italic">piangendo</hi>)</p>
+                  <p>ZEL. Povera sfortunata! (<hi rend="italic">piangendo</hi>) (<hi rend="italic">  parte</hi>)</p>
+                  <p>LIN. Quando mai si cangierà la mia sorte? (<hi rend="italic">afflitto</hi>)<hi rend="italic"> </hi>(<hi rend="italic">parte</hi>)</p>
+                  <p>BAR. Chi può trattenersi di piangere a fronte di due poveri afflitti? Chi è sventurato, sente meglio le sventure degli altri. Sì, essi sono degni di compassione. Chi merita d'essere rimproverato è Don Flaminio. Egli si è abusato della mia buona fede. Mi ha trattato in una maniera indegna di lui, indegna di me. Ah, ciò sempre più mi convince della poca stima in cui sono in faccia del mondo, dell'oltraggio che io faccio a me stessa e alla mia famiglia esponendomi sola agli insulti, ai disprezzi, alla derisione. Ah sì, ho meditato più volte di ritirarmi: quest'incontro mi fa risolvere in sul momento. Vo' abbandonare la professione, vo' ritornare nel mio paese: viver povera, ma quieta. Mendicar il pane, se occorre, ma non espormi ad arrossire tutto il giorno, ed a bagnar colle lagrime il poco danaro che si ricava da un mestiere difficile e pericoloso.</p>
+                  <p rend="center smallcaps">Fine dell'Atto secondo</p>
+               </div>
+            </div>
+            <div type="div2" rend="P25">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13672_1310162191"/>Atto terzo<ptr type="bookmark-end" target="#id___RefHeading___Toc13672_1310162191"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13674_1310162191"/>Scena prima<ptr type="bookmark-end" target="#id___RefHeading___Toc13674_1310162191"/>
+                  </head>
+                  <p rend="justify">Strada con veduta del fiume Ticino, alberi, e case, e varie barche sul fiume. Da una parte, vicino al fiume, un  Corpo di Guardia con soldati e una sentinella.</p>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, tutti due melanconici, senza parlare, si guardano e sospirano.</hi>
+                  </p>
+                  <p>LIN. Povera la mia Zelinda!</p>
+                  <p>ZEL. Ah Lindoro, cosa sarà di noi?</p>
+                  <p>LIN. Il cielo ci provvederà.</p>
+                  <p>ZEL. Eccoci qui, senza ricovero, e senz'appoggio.</p>
+                  <p>LIN. E senza il modo di sostenerci.</p>
+                  <p>ZEL. Se potessi ricuperar la mia roba! Nel mio baule vi è del danaro.</p>
+                  <p>LIN. Quanto danaro avrete, Zelinda?</p>
+                  <p>ZEL. Poco meno di cento scudi.</p>
+                  <p>LIN. Oh cieli! quanto ci profitterebbero presentemente!</p>
+                  <p>ZEL. Se andassi io stessa, credete voi che il signor Don Roberto mi negherebbe la roba mia?</p>
+                  <p>LIN. Ah Zelinda, se voi ci andate, io non vi rivedo mai più.</p>
+                  <p>ZEL. Ma perchè? Non son io padrona della mia libertà?</p>
+                  <p>LIN. No, non sarete padrona di voi medesima. Il signor Don Roberto che vi ama, e crede che io possa fare la vostra rovina, può ricorrere alla giustizia, dir che siete una figliuola civile, che volete precipitarvi, e farvi chiudere in un ritiro, e far in modo che io non vi possa mai più rivedere.</p>
+                  <p>ZEL. Oh Dio! io rinchiusa? Sarebbe mai possibile che Don Roberto pensasse sì crudelmente? No, non lo credo, non ne son persuasa.</p>
+                  <p>LIN. E se vi tenesse in casa con lui, come potrei io vivere, pensando che siete unita co' miei rivali, co' miei nemici? Ah morrei disperato!</p>
+                  <p>ZEL. No, caro il mio Lindoro, non vi vo' dar questa pena. Ma ho da perdere la mia roba?</p>
+                  <p>LIN. Si troverà qualche mezzo per ricuperarla.</p>
+                  <p>ZEL. Ma intanto?</p>
+                  <p>LIN. Intanto... Oh cieli! non so che dire. Sono mortificato per conto vostro.</p>
+                  <p>ZEL. Bisognerebbe procurare un alloggio.</p>
+                  <p>LIN. Lo troveremo.</p>
+                  <p>ZEL. Ma vivere insieme non è decente.</p>
+                  <p>LIN. Lo conosco ancor io.</p>
+                  <p>ZEL. E non abbiamo il modo di mantenerci.</p>
+                  <p>LIN. Questo è quello che maggiormente mi affligge.</p>
+                  <p>ZEL. Miseri noi!</p>
+                  <p>LIN. Povera la mia Zelinda! (<hi rend="italic">restano tutti due pensosi</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13676_1310162191"/>SCENA II<ptr type="bookmark-end" target="#id___RefHeading___Toc13676_1310162191"/>
+                  </head>
+                  <p rend="justify">Arriva un burchietto, da cui sbarca Don Federico in abito da viaggio con rodengotto e bastone. – Un marinaro mette in terra il baule, chiama un facchino, e viene lo stesso facchino che aveva portato il baule di Zelinda.</p>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Don Federico</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Marinaro</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Facchino</hi>
+                  </p>
+                  <p>MAR. Facchino. Ehi, vi è nessuno che porti?</p>
+                  <p>FAC. Eccomi, eccomi, che cosa ci è da portare?</p>
+                  <p>FED. Questo baule.</p>
+                  <p>FAC. Dove si ha da portare?</p>
+                  <p>FED. In strada Nova, dirimpetto all'Università, vicino ad uno speziale da medicine.</p>
+                  <p>ZEL. (<hi rend="italic">piano a Lindoro</hi>) Sentite? Pare che questo forastiere vada precisamente alla casa di Don Roberto.</p>
+                  <p>LIN. (<hi rend="italic">piano a Zelinda</hi>) Potrebb'essere Don Federico, tanto aspettato da Donna Eleonora.</p>
+                  <p>FAC. (<hi rend="italic">Vuol prendere il baule poi si ferma</hi>)<hi rend="italic"> </hi>Signore, vi sarebbe pericolo che con questo baule mi succedesse qualche altro imbroglio?</p>
+                  <p>FED. Perchè? qual imbroglio può succedere? Vengo di viaggio, quella è la roba mia.</p>
+                  <p>FAC. Scusatemi, ma questa mattina per un baule preso, e portato e riportato nel medesimo luogo, ho avuto un imbarazzo del diavolo.</p>
+                  <p>FED. E in casa di chi l'avete portato?</p>
+                  <p>FAC. Di certo signor Don Roberto...</p>
+                  <p>FED. Sì, è mio vicino. Lo conoscete?</p>
+                  <p>FAC. Lo conosco certo.</p>
+                  <p>FED. E che fa la signora Donna Eleonora?</p>
+                  <p>FAC. Oh questa poi non la conosco per niente.</p>
+                  <p>FED. Sua moglie; non la conoscete?</p>
+                  <p>FAC. Non signore; ma se volete averne notizia, ecco lì vedete quelle due persone? Credo siano di casa, ed esse ve lo diranno.</p>
+                  <p>FED. Voi altri siete di casa di Don Roberto? (<hi rend="italic">a Zelinda e Lindoro</hi>)</p>
+                  <p>LIN. Sì, signore, siamo stati al di lui servigio, ma ora non ci siamo più.</p>
+                  <p>FAC. Signore, io non ho tempo da perdere. Se volete che io porti il baule...</p>
+                  <p>FED. (Son curioso di saper qualche cosa.) (<hi rend="italic">al Facchino</hi>) Vi ho detto la casa mia. Tenete il mio nome. Consegnate il baule al mio fattore, se ci è, e se non ci è, aspettatemi.</p>
+                  <p>FAC. Oggi è la giornata dei bauli, e dell'aspettare. (<hi rend="italic">parte</hi>)</p>
+                  <p>FED. (<hi rend="italic">a Lindoro</hi>) Voi dunque eravate in casa di Don Roberto?</p>
+                  <p>LIN. Sì signore.</p>
+                  <p>FED. In qual figura?</p>
+                  <p>LIN. Di segretario.</p>
+                  <p>FED. (<hi rend="italic">a Zelinda</hi>) E questa giovine?</p>
+                  <p>ZEL. Di cameriera di Donna Eleonora.</p>
+                  <p>FED. Come si porta Donna Eleonora?</p>
+                  <p>ZEL. Benissimo.</p>
+                  <p>LIN. Scusatemi, signore, sarete voi per avventura il signor Don Federico?</p>
+                  <p>FED. Appunto, come mi conoscete?</p>
+                  <p>LIN. Oh la signora Donna Eleonora vi ha nominato più volte; ella era impaziente di rivedervi.</p>
+                  <p>FED. Povera signora! Ha sempre avuta della bontà per me. Ma per qual ragione siete usciti della casa di Don Roberto?</p>
+                  <p>LIN. Vi racconterò l'istoria, signore...</p>
+                  <p>ZEL. Che serve andar per le lunghe? Vi è stata qualche picciola differenza; cosa di nulla. Ma noi non possiamo dolerci de' nostri padroni, nè essi ponno dolersi di noi.</p>
+                  <p>LIN. Signore, siamo due sfortunati. Eccoci qui senza impiego, e senz'appoggio veruno.</p>
+                  <p>FED. Se posso giovarvi, lo farò volentieri. Parlerò col signor Don Roberto, e se il motivo per cui siete sortiti di casa non è di gran conseguenza...</p>
+                  <p>ZEL. Signore, poichè avete la bontà d'interessarvi per noi, mi basta che v'adopriate presso del mio padrone, perchè si contenti di farmi avere la mia roba.</p>
+                  <p>FED. E per qual causa ve la trattiene? Gli dovete voi qualche cosa?</p>
+                  <p>ZEL. No, signore, non gli devo niente.</p>
+                  <p>LIN. Ma vorrebbe obbligarla a tornare in casa.</p>
+                  <p>FED. (<hi rend="italic">a Zelinda</hi>) Siete voi dunque che avete voluto sortire?</p>
+                  <p>ZEL. La padrona mi ha licenziato.</p>
+                  <p>FED. E per qual ragione?</p>
+                  <p>LIN. (<hi rend="italic">con calore</hi>) Perchè la signora Donna Eleonora...</p>
+                  <p>ZEL. Ha creduto bene di licenziarmi. Mi avrò demeritato la sua protezione. La servitù non si sposa, e non mi lamento di lei.</p>
+                  <p>FED. (In verità questa giovine ha degli ottimi sentimenti.) (<hi rend="italic">alli due</hi>) Sarete, m'immagino, marito e moglie?</p>
+                  <p>LIN. Non signore.</p>
+                  <p>FED. Siete fratello e sorella?</p>
+                  <p>LIN. Nè meno.</p>
+                  <p>FED. (<hi rend="italic">verso Zelinda</hi>) Ma! due giovinotti insieme...</p>
+                  <p>ZEL. Non abbiamo a rimproverarci dalla parte dell'onestà.</p>
+                  <p>FED. Lo credo, ma non mi pare che vada bene...</p>
+                  <p>LIN. È verissimo. Avete ragione. Ci vogliamo bene, desideriamo sposarci, e non abbiamo altra colpa che questa per meritare gl'insulti della fortuna.</p>
+                  <p>FED. Non ci è altro che questo? E perchè il signor Don Roberto e la signora Donna Eleonora non danno anzi la mano ad un matrimonio conveniente eguale, onorato? Lasciate fare a me; voglio parlare a' vostri padroni, voglio persuaderli a quest'opera buona, voglio procurare di vedervi uniti e contenti.</p>
+                  <p>LIN. (<hi rend="italic">con allegrezza</hi>) Oh lo volesse il cielo!</p>
+                  <p>ZEL. (<hi rend="italic">con allegrezza</hi>) Il cielo vi ha mandato per noi.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13678_1310162191"/>SCENA III<ptr type="bookmark-end" target="#id___RefHeading___Toc13678_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eleonora </hi>
+                     <hi rend="italic">in mantelletta con un servitore, e detti.</hi>
+                  </p>
+                  <p>ELE. Che vedo! Siete ritornato, signor Federico?</p>
+                  <p>FED. Oh qual felice incontro! Sono ritornato in questo momento. (<hi rend="italic">Zelinda e Lindoro si turbano</hi>)</p>
+                  <p>ELE. Ho piacere di rivedervi. Siete qui in tempo, che ho gran bisogno di voi.</p>
+                  <p>FED. Comandatemi. Ma che avete che mi parete agitata?</p>
+                  <p>ELE. Sì, ho ragione di esserlo. Non posso reggere alle inquietudini che mi circondano. Sono sul punto di separarmi da mio marito.</p>
+                  <p>FED. E perchè mai tal cosa, ma perchè mai?</p>
+                  <p>ELE. (<hi rend="italic">accennando Zelinda</hi>) Per causa di quell'indegna.</p>
+                  <p>ZEL. Come, signora mia?</p>
+                  <p>LIN. (<hi rend="italic">ad Eleonora</hi>) Che modo di parlare è il vostro?</p>
+                  <p>FED. (<hi rend="italic">ad Eleonora</hi>) Dite, dite, parlate: qual soggetto avete da lamentarvi di lei?</p>
+                  <p>ELE. Ella è amata da mio marito...</p>
+                  <p>FED. Ora capisco. (<hi rend="italic">a Zelinda</hi>) È possibile una tal cosa?</p>
+                  <p>ZEL. Mi ama, è vero, ma con amore onesto, ma con amore paterno.</p>
+                  <p>FED. Eh figliuola mia, non credo niente a quest'amorosa paternità.</p>
+                  <p>LIN. E vorreste credere alle sue parole?...</p>
+                  <p>FED. Sì, per tutte le ragioni sono obbligato a credere più a lei che a voi.</p>
+                  <p>ZEL. Signore, non ci abbandonate per carità.</p>
+                  <p>FED. Andate, andate. Ho perduta tutta la buona opinione ch'aveva di voi. Imputate tutto il male a voi stessa e regolate meglio la vostra condotta.</p>
+                  <p>ZEL. Misera me! fra tante perdite mie ho da contar quella ancora del mio decoro? Signora, pensate bene alle conseguenze del discredito in cui mi mettete. Io raccomando al cielo la mia innocenza, e a lui rimetto gl'insulti e le ingiustizie che voi mi fate.</p>
+                  <p>ELE. Questo è il linguaggio dei colpevoli e dei temerari.</p>
+                  <p>LIN. Non signora: questo è il linguaggio delle persone onorate. E in mezzo alle nostre miserie ci resta tanto spirito e tanto coraggio per confidare nella verità, e riderci della calunnia e dell'impostura. (<hi rend="italic">parte con Zelinda</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13680_1310162191"/>SCENA IV<ptr type="bookmark-end" target="#id___RefHeading___Toc13680_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Federico </hi>
+                     <hi rend="italic">e </hi>
+                     <hi rend="bold">Donna Eleonora</hi>
+                  </p>
+                  <p>ELE. Sentite a quali impertinenze son io soggetta?</p>
+                  <p>FED. Ma, cara Donna Eleonora, parlano con tale franchezza che mi pare ancora impossibile... Siete voi ben sicura che Don Roberto abbia delle cattive intenzioni e che quella giovane vi aderisca?</p>
+                  <p>ELE. Ne son sicurissima.</p>
+                  <p>FED. Ma se ella ama il giovane che ho qui veduto, come può nutrire per il padrone...</p>
+                  <p>ELE. Non può ella amare il giovane per inclinazione ed il vecchio per interesse? Ma voi non siete più per me quel vero leale amico che mi foste per lo passato.</p>
+                  <p>FED. Signora, sono sempre il medesimo, ed ho per voi la medesima stima; ma sono un uomo d'onore, e non ho animo per compiacervi di fomentare la disunione di un matrimonio.</p>
+                  <p>ELE. Oh, per questa parte ho deciso. Voglio ritornare in casa co' miei parenti. Non voglio più vivere con mio marito.</p>
+                  <p>FED. Riflettete che questo è l'estremo dei disordini d'una famiglia; che è l'ultimo eccesso a cui possa arrivare una moglie; che farete ridere il mondo, e che vi pentirete d'averlo fatto.</p>
+                  <p>ELE. Sono risolutissima, e vi potete risparmiare l'inutile fatica di dissuadermi.</p>
+                  <p>FED. Ma che dice il signor Don Roberto? Sa egli la vostra risoluzione?</p>
+                  <p>ELE. Sì, certo, gliel'ho detta e ridetta.</p>
+                  <p>FED. E come l'ha ricevuta?</p>
+                  <p>ELE. Ha fatto di tutto per acquietarmi. Mi ha pregata, mi ha fatto pregare, ma inutilmente.</p>
+                  <p>FED. (Ecco il male che ha fatto Don Roberto. Se non l'avesse pregata, si sarebbe da sè pentita).</p>
+                  <p>ELE. Non voglio più vivere con un uomo che vuol favorire una serva a dispetto mio.</p>
+                  <p>FED. Ma io vorrei pur vedere di accomodarvi...</p>
+                  <p>ELE. Non sarà possibile...</p>
+                  <p>FED. Con decoro vostro...</p>
+                  <p>ELE. È inutile che me ne parliate.</p>
+                  <p>FED. Quando è così, non so che dire, fate tutto quel che vi aggrada.</p>
+                  <p>ELE. Oh sì, lo farò certamente.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13682_1310162191"/>SCENA V<ptr type="bookmark-end" target="#id___RefHeading___Toc13682_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>FAB. Oh signora, veniva appunto in traccia di lei.</p>
+                  <p>ELE. E dove mi andavate voi ricercando?</p>
+                  <p>FAB. Alla di lei casa paterna. Ho piacere d'averla qui ritrovata.</p>
+                  <p>ELE. Vi manda forse il carissimo signor consorte?</p>
+                  <p>FAB. Per l'appunto, è il padrone che manda da lei.</p>
+                  <p>ELE. Che dice? Che pretende da me? Vuol persuadermi? Vuol obbligarmi a ritornare in casa? Vuol promettermi delle cose grandi? Vuol lusingarmi? Vuol ch'io creda alle sue promesse, al suo pentimento? Via parlate, che cosa vuole da me?</p>
+                  <p>FAB. Signora, nessuna di queste cose. Egli mi ha ordinato, credendo ch'io la trovassi in casa de' suoi parenti, egli mi ha ordinato dirle, ch'ella è padrona di starvi, e che domani le manderà la sua roba.</p>
+                  <p>ELE. Che mi manderà la mia roba? (<hi rend="italic">mortificata</hi>)</p>
+                  <p>FED. (Bravo Don Roberto, questa è la maniera di mortificarla.)</p>
+                  <p>ELE. (<hi rend="italic">a Don Federico, ironicamente</hi>) Che dite voi della tranquillità del mio caro signor consorte?</p>
+                  <p>FED. Egli non fa che secondare la vostra risoluzione.</p>
+                  <p>ELE. È un manifesto dispregio che fa della mia persona.</p>
+                  <p>FED. Dopo che vi ha pregato, e che vi ha fatto pregare...</p>
+                  <p>ELE. Un marito che manca al suo dovere, non prega mai abbastanza una moglie offesa.</p>
+                  <p>FED. Prima di tutto bisogna vedere s'egli ha mancato, e poi un marito è sempre marito.</p>
+                  <p>FAB. (<hi rend="italic">a Donna Eleonora</hi>) Dunque, senza ch'io l'incomodi d'avvantaggio, domani avrò l'onore di consegnarle la sua roba.</p>
+                  <p>ELE. Lo so, lo so che nessuno mi può vedere. Tutta la servitù mi disprezza, perchè il padrone mi odia. Vorrebbero che io non ci fossi, per vivere a modo loro. Ma giuro al cielo! se ritorno in casa...</p>
+                  <p>FAB. Per me, l'assicuro, signora mia...</p>
+                  <p>FED. Amico, dite al vostro padrone ch'avrò io l'onore di vederlo fra poco. Signora Donna Eleonora, favorite di venire con me.</p>
+                  <p>ELE. E dove pensate voi di condurmi?</p>
+                  <p>FED. A casa mia, se vi contentate.</p>
+                  <p>ELE. Se voleste mai condurmi da mio marito, avvertite che sieno salve le mie convenienze.</p>
+                  <p>FED. (<hi rend="italic">sorridendo</hi>)<hi rend="italic"> </hi>Sì, sì, andiamo. (<hi rend="italic">dà la mano a Eleonora e partono</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13684_1310162191"/>SCENA VI<ptr type="bookmark-end" target="#id___RefHeading___Toc13684_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio </hi>
+                     <hi rend="italic">solo.</hi>
+                  </p>
+                  <p rend="justify">Ci scommetto che ora, che il padrone dice davvero, è ella la prima a raccomandarsi. Le donne fanno dello strepito quando si vedono accarezzate. Ma ecco Zelinda e Lindoro. Vengono a questa volta. L'accidente è per me favorevole. Vo' tentar d'obbligarli con delle esibizioni, con delle finezze. Lo stato in cui s'attrovano li renderà, io spero, meno orgogliosi.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13686_1310162191"/>SCENA VII<ptr type="bookmark-end" target="#id___RefHeading___Toc13686_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Fabrizio</hi>
+                     <hi rend="italic">  in disparte.</hi>
+                  </p>
+                  <p>ZEL. Oh quest'ultimo insulto mi ha avvilita del tutto.</p>
+                  <p>LIN. Finalmente la verità deve trionfare, e il mondo vi dovrà render giustizia.</p>
+                  <p>ZEL. Eh, Lindoro mio, le macchie che si fanno all'onore si cancellano difficilmente. Vi protesto che non ho più faccia da comparire: andiamo via, andiamo lungi da questa città; qui non posso più tollerarmi.</p>
+                  <p>LIN. Sì, andiamo altrove a cercar miglior destino. Vediamo se vi è occasione per imbarcarci.</p>
+                  <p>ZEL. Ma la roba mia?</p>
+                  <p>LIN. Vi sta sul cuore, vi compatisco.</p>
+                  <p>ZEL. Mi costa tanti sudori, mi costa tante mortificazioni, e ho da perderla miseramente?</p>
+                  <p>LIN. Andiamo a ricorrere alla Giustizia.</p>
+                  <p>ZEL. A ricorrere? contro di chi? contro d'un padrone sì buono, che mi ha teneramente amata, e che m'è contrario soltanto perchè mi desidera fortunata?</p>
+                  <p>LIN. I vostri riflessi sono assai ragionevoli. Ma che faremo noi qui, se non abbiamo un ricovero? Se tutto il mondo ci scaccia, c'insulta e ci perseguita?</p>
+                  <p>ZEL. Sono in un mare di confusioni. (<hi rend="italic">restano pensosi</hi>)</p>
+                  <p>LIN. Non trovo la via di risolvermi ad alcun partito.</p>
+                  <p>FAB. (<hi rend="italic">da sè in disparte, e si avanza</hi>) (Ecco il tempo opportuno per abbordarli. La loro situazione mi è favorevole.)</p>
+                  <p>LIN. Ma qualche cosa convien risolvere. (<hi rend="italic">si volta</hi>)<hi rend="italic"> </hi>Che pretendete da noi? (<hi rend="italic">a Fabrizio</hi>)</p>
+                  <p>ZEL. (<hi rend="italic">a Fabrizio</hi>) Non siete ancora sazio di perseguitarci?</p>
+                  <p>FAB. Mi dispiace nell'anima d'aver contribuito all'ultima vostra disavventura. Ma, cari amici, vedete bene, io non ne ho colpa. Il padrone mi ha comandato...</p>
+                  <p>ZEL. Eh dite che avete soddisfatto la vostra collera.</p>
+                  <p>FAB. No, vi giuro onoratamente, non ho alcuna collera contro di voi, non ho alcuna idea che vi offenda. Vi compiango, vi compatisco, e se vi ho fatto innocentemente del male, spero di essere in caso di potervi far del bene.</p>
+                  <p>LIN. Non è sì facile che io vi presti fede.</p>
+                  <p>ZEL. E sarebbe per me una nuova disgrazia, se dovessi dipendere da' vostri soccorsi.</p>
+                  <p>FAB. Io non voglio nè che mi crediate, nè che dipendiate da me. Ho parlato per voi con una persona di qualità, gli ho raccontato il caso vostro, e l'ho persuasa della vostra onestà. Questa persona non è sì sofistica come molti altri. Spero vi riceverà tutti due al suo servigio senz'alcuna difficoltà.</p>
+                  <p>ZEL. No, no, vi ringrazio, non ne son persuasa.</p>
+                  <p>LIN. Ma vediamo chi è la persona...</p>
+                  <p>ZEL. Ora siamo scoperti, e non è da sperare che nessuno ci voglia uniti.</p>
+                  <p>LIN. Perchè? Se si persuadono del nostro contegno...</p>
+                  <p>ZEL. No, vi dico, non faremo niente.</p>
+                  <p>LIN. (<hi rend="italic">con un poco di caldo</hi>) Ma voi vi volete abbandonare alla disperazione.</p>
+                  <p>ZEL. (<hi rend="italic">dolcemente</hi>) Via, non v'inquietate. Provate se sia possibile, ed io son pronta a seguirvi.</p>
+                  <p>FAB. (<hi rend="italic">da sè</hi>) (Eh, a poco a poco si ridurranno.)</p>
+                  <p>LIN. (<hi rend="italic">a Fabrizio</hi>) Chi è questa persona? Si può sapere?</p>
+                  <p>FAB. Ve la farò conoscer domani. (<hi rend="italic">verso Zelinda</hi>) Ma intanto dove vi ricovrerete voi questa notte?</p>
+                  <p>ZEL. Qualche ricovero non ci mancherà.</p>
+                  <p>LIN. Per altro l'ora si avanza, e converrebbe pensarci.</p>
+                  <p>FAB. Ho parlato ancora per questo. Vi è una mia parente, donna di tempo, conosciuta, onorata, che a mio riguardo vi riceve.</p>
+                  <p>LIN. Come! Pretendereste che io conducessi Zelinda in una casa che vi appartiene per aver la libertà di vederla?...</p>
+                  <p>ZEL. (<hi rend="italic">a Lindoro</hi>) Vedete, se ci possiamo fidare di lui?</p>
+                  <p>FAB. Ma voi prendete tutto in sinistra parte. V'insegnerò la casa di mia cugina. Non verrò nemmeno con voi, e vi prometto sull'onor mio, che fin che ci siete voi, non ci metterò piede. Non vi costerà niente, non ispenderete un quattrino, ed io non ci metterò piede.</p>
+                  <p>LIN. Quando la cosa fosse così...</p>
+                  <p>ZEL. (<hi rend="italic">a Lindoro</hi>) No, no, non ci dobbiamo fidare.</p>
+                  <p>LIN. (<hi rend="italic">a Zelinda</hi>) No, dunque?</p>
+                  <p>ZEL. No, vi dico, assolutamente no.</p>
+                  <p>LIN. (<hi rend="italic">a Fabrizio</hi>) Zelinda non vuole, e credo abbia ragione di non volerlo.</p>
+                  <p>FAB. (<hi rend="italic">da sè</hi>) (La giovane la sa più lunga di lui.)</p>
+                  <p>LIN. È vero che lo stato nostro ci dovrebbe far prendere qualche partito. Ma Zelinda pensa bene, non ci conviene la vostra proposizione.</p>
+                  <p>FAB. Non so che dire, fate quel che volete, ma io non ho cuore di vedervi nella necessità. Non volete passare da mia cugina? Avete paura che io manchi alla mia parola? Che io venga ad importunarvi? Ebbene, soffrite che in qualche modo io possa sollevarmi dal mio rimorso. Ricevete dalla mia amicizia questo lieve soccorso. Ecco in questa borsa quattro zecchini. (<hi rend="italic">tira fuori la borsa, e la fa vedere</hi>)<hi rend="italic"> </hi>Accettateli senz'alcun obbligo di restituzione.</p>
+                  <p>ZEL. Li accetterei per carità da ogn'altro; non li accetto da voi, perchè la vostra mano è sospetta.</p>
+                  <p>FAB. Ebbene dunque, se ricusate un benefizio che vien da me, vi svelerò il mistero, e parlerò benchè abbia ordine di non parlare. Questi quattro zecchini vengono dalle mani di Don Roberto. Egli mi ha dato ordine di darveli segretamente. (<hi rend="italic">tiene la borsa in atto di presentarla a Zelinda</hi>)</p>
+                  <p>ZEL. Sì ora li prendo. (<hi rend="italic">prende la borsa con violenza</hi>)<hi rend="italic"> </hi>Il signor Don Roberto ha tanto del mio nelle mani, che può mandarmi un sì piccolo sovvenimento; e quando anche non avesse del mio, la sua bontà, la sua onestà, non mi metterebbero in pena per ricever un benefizio dalle sue mani.</p>
+                  <p>LIN. (<hi rend="italic">a Fabrizio</hi>) Ha ragione, ed ha fatto bene a riceverli.</p>
+                  <p>FAB. (<hi rend="italic">da sè</hi>) (Tento tutte le vie per guadagnare un poco di confidenza.)</p>
+                  <p>ZEL. E aveste l'ardire d'offrirmi questo danaro, come un effetto della vostra liberalità?</p>
+                  <p>FAB. Finalmente non è poi sì gran cosa di fare per conto mio...</p>
+                  <p>ZEL. No, non siete capace d'un'azion generosa.</p>
+                  <p>FAB. Voi mi trattate male fuor di proposito.</p>
+                  <p>ZEL. Un'anima bassa che ha avuto cuore di esporci al rossore ed alla miseria, non può concepire nè pietà, nè rimorso.</p>
+                  <p>LIN. Mi pareva impossibile che foste capace d'una buona azione.</p>
+                  <p>FAB. Voi mi offendete e per confondervi, vi dico, e vi sosterrò che il signor Don Roberto non ne sa niente, e che sono io che vi ho regalato i quattro zecchini.</p>
+                  <p>ZEL. Quando è così, tenete la vostra borsa. (<hi rend="italic">getta la borsa a' piedi di Fabrizio</hi>)</p>
+                  <p>LIN. (<hi rend="italic">da sè</hi>) (Zelinda ha parlato troppo.)</p>
+                  <p>FAB. (<hi rend="italic">a Zelinda</hi>) La vostra superbia, la vostra ingratitudine, vi ridurrà all'estrema miseria.</p>
+                  <p>ZEL. No, grazie al cielo, non sono nè superba, nè ingrata. Ma vi conosco, so il motivo che vi anima e che vi sprona, e mi vergognerei di ricevere alcun soccorso da un uomo, col dubbio ch'egli potesse formare qualche disegno sopra di me.</p>
+                  <p>FAB. Ma io non ho disegno veruno.</p>
+                  <p>ZEL. Basta così, non m'inquietate, vi supplico, d'avvantaggio.</p>
+                  <p>FAB. Restate dunque nella vostra miseria. Nutritevi di sì bell'eroismo, ed aspettate che un'altra mano vi porti que' soccorsi che non meritate. Per me mi fate più ira che compassione. Non ho mai più veduto persone di tal carattere, indocile, orgoglioso, ostinato. Vi pentirete, e vi ricorderete di me. (<hi rend="italic">fa per partire, e lascia la borsa</hi>)</p>
+                  <p>ZEL. Non mi pentirò mai d'aver deluso l'inganno.</p>
+                  <p>LIN. Ha lasciato la borsa... (<hi rend="italic">vuol prenderla, torna Fabrizio e la lascia</hi>)</p>
+                  <p>FAB. Questo danaro servirà a miglior uso. (<hi rend="italic">prende la borsa</hi>) Voi non lo meritate, ed io ve l'offriva senza ragione.<hi rend="italic"> </hi>(<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13688_1310162191"/>SCENA VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13688_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Zelinda </hi>
+                     <hi rend="italic">e </hi>
+                     <hi rend="bold">Lindoro</hi>
+                  </p>
+                  <p>ZEL. (<hi rend="italic">a Lindoro</hi>) Con quale intenzione volevate voi raccogliere quella borsa?</p>
+                  <p>LIN. (<hi rend="italic">mortificato</hi>) Il danno che colui ci ha recato non merita forse un qualche risarcimento?</p>
+                  <p>ZEL. Ah! Lindoro, Lindoro, pur troppo è vero. La miseria talvolta fa commettere delle bassezze.</p>
+                  <p>LIN. Sì, è vero; ma non è per me che io cerchi i sovvenimenti. Siete voi che mi fate pietà.</p>
+                  <p>ZEL. Oh cieli! cosa sarà di noi? Se la fortuna continua a perseguitarci, a quali pericoli andremo incontro? Credetemi, quest'esempio mi fa tremare: il bisogno ci può lusingare; e come fidarci della buona intenzione di chi benefica senza conoscerne il fondo?</p>
+                  <p>LIN. È vero, Zelinda, è verissimo. Ma facciamo così. Mi viene ora un pensiero. Credo che il cielo me lo suggerisca. Andiamo a Genova, andiamo a presentarci a mio padre. Possibile ch'egli mi scacci villanamente, ch'egli non si mova a pietà?</p>
+                  <p>ZEL. Questo è un passo che si potrebbe tentare, ma come intraprendere il viaggio? Sono novanta miglia, si dee passar la Bocchetta, vi sono delle altre montagne incomode. A piedi, io non ho coraggio di farle, e per calesse ci manca il modo.</p>
+                  <p>LIN. Poveri noi! il nostro male non ha rimedio.</p>
+                  <p>ZEL. Ve ne sarebbe uno, un solo ve ne sarebbe per noi.</p>
+                  <p>LIN. E quale, mia cara Zelinda?</p>
+                  <p>ZEL. Eccolo qui, ascoltatemi. Non vi è altro caso, non vi è altra speranza per noi, se non che io vada a gettarmi nelle braccia del signor Don Roberto. Sapete l'amore, la bontà che ha per me, e siete sicuro ch'egli pensa da uomo onesto, e colla più rigorosa delicatezza. Don Flaminio e Fabrizio sono scoperti, li temo meno, ed il padrone saprà assicurarmi dalle loro molestie. La padrona, o non è più in casa, o se vi torna, sarà probabilmente con delle condizioni che la renderanno meno orgogliosa. Tutta la difficoltà è per voi. Non posso lusingarmi che il signor Don Roberto vi riceva in casa con me, ma posso bene colla roba mia, col mio danaro e co' miei profitti, soccorrervi fin che ne avete bisogno, finchè sappiate le ultime risoluzioni di vostro padre, o che troviate un onesto impiego in Pavia. Saprò almeno che siete qui, vi vedrò qualche volta, mi può riuscir di persuader il padrone in vostro favore. S'ei venisse a morire, che il cielo non lo voglia, mi ha promesso beneficarmi. (<hi rend="italic">con tenerezza</hi>) Così, il mio caro, il mio adorato Lindoro, soccorriamo decentemente la nostra miseria, metto in sicuro il mio decoro e la mia onestà. Vi amerò sempre colla sola pena di non vedervi, e colla dolce speranza che possiamo essere un dì contenti.</p>
+                  <p>LIN. (p<hi rend="italic">iange, e non risponde</hi>)</p>
+                  <p>ZEL. Anima mia, che dite? Oh Dio! piangete? Non rispondete.</p>
+                  <p>LIN. Che volete che io dica? Avete ragione; andate, che il ciel vi benedica.</p>
+                  <p>ZEL. Ah no, se ciò vi fa tanta pena, non anderò, resterò con voi.</p>
+                  <p>LIN. E a far che? Poverina! a penare? a patire? Ah no, andate, ne son contento, ma non m'impedite almeno di piangere il mio destino.</p>
+                  <p>ZEL. Ma io non ho cuor di lasciarvi in uno stato sì doloroso.</p>
+                  <p>LIN. No, cara, non vi affliggete, non vi arrestate per me. So che mi amate, e ciò mi basta per consolarmi. (<hi rend="italic">procura di rasserenarsi</hi>)</p>
+                  <p>ZEL. Andrò dunque... (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13690_1310162191"/>SCENA IX<ptr type="bookmark-end" target="#id___RefHeading___Toc13690_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Zelinda</hi>
+                  </p>
+                  <p>LIN. Misero me! non so in che mondo mi sia. Come mai potrò vivere da lei lontano? Numi, assistetemi per pietà. (<hi rend="italic">s'appoggia ad una scena </hi>
+                     <hi rend="italic">per afflizione</hi>)</p>
+                  <p>ZEL. (<hi rend="italic">affannata</hi>) Ah Lindoro, Lindoro.</p>
+                  <p>LIN. (<hi rend="italic">con forza</hi>) Che ci è, mia vita? Siete voi cangiata di sentimento?</p>
+                  <p>ZEL. Ho veduto Don Flaminio da quella parte, mi ha scoperta. Tremo, pavento, vorrei nascondermi, e non so dove.</p>
+                  <p>LIN. Là, là, non temete.</p>
+                  <p>ZEL. Là, nel Corpo di guardia?</p>
+                  <p>LIN. No, diavolo, fra i soldati; colà fra quegli alberi dietro di quella catasta di legna. Se ardirà seguirvi avrà che far con me.</p>
+                  <p>ZEL. Non vi esponete, per amor del cielo...</p>
+                  <p>LIN. Non temete di nulla; eccolo, eccolo, andate.</p>
+                  <p>ZEL. Quando mai finirò di tremare? (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13692_1310162191"/>SCENA X<ptr type="bookmark-end" target="#id___RefHeading___Toc13692_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Don Flaminio</hi>
+                  </p>
+                  <p>LIN. Ecco la ragione de' miei timori.</p>
+                  <p>FLA. (<hi rend="italic">correndo dietro a Zelinda</hi>) Crede ella che non mi dia l'animo di arrivarla?</p>
+                  <p>LIN. Dove andate, signore?</p>
+                  <p>FLA. Voi in disposizione d'impedirmi il passo?</p>
+                  <p>LIN. Sì, signore. Io qui, disposto di tutto perdere, piuttostochè abbandonarvi Zelinda.</p>
+                  <p>FLA. Presuntuoso che siete! Io mi rido di voi, e la raggiungerò vostro malgrado. (<hi rend="italic">si avanza</hi>)</p>
+                  <p>LIN. (<hi rend="italic">mette mano alla spada</hi>) Giuro al cielo! voi passerete per questa spada.</p>
+                  <p>FLA. (<hi rend="italic">mette mano per difendersi</hi>) Temerario! in faccia al Corpo di Guardia?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13694_1310162191"/>SCENA XI<ptr type="bookmark-end" target="#id___RefHeading___Toc13694_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Caporale</hi>
+                     <hi rend="italic">  con sei soldati.</hi>
+                  </p>
+                  <p>CAP. Alto, alto. Cosa è quest'impertinenza?</p>
+                  <p>FLA. Io non fo che difendermi dagl'insulti d'un forsennato.</p>
+                  <p>CAP. Lo so benissimo. (<hi rend="italic">a Lindoro</hi>) E voi, sugli occhi medesimi della sentinella?...</p>
+                  <p>LIN. Ah signore, scusate l'amore, il timore, la disperazione.</p>
+                  <p>CAP. Rendete la spada.</p>
+                  <p>LIN. (<hi rend="italic">dà la spada ad un soldato</hi>) Eccola.</p>
+                  <p>CAP. (<hi rend="italic">ai soldati</hi>) Conduciamolo alla gran Guardia.</p>
+                  <p>LIN. Numi, vi raccomando la mia Zelinda. (<hi rend="italic">parte scortato dai soldati e dal caporale</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13696_1310162191"/>SCENA XII<ptr type="bookmark-end" target="#id___RefHeading___Toc13696_1310162191"/>
+                  </head>
+                  <p rend="center">Don Flaminio<hi rend="italic">, poi </hi>
+                     <hi rend="bold">Zelinda</hi>
+                  </p>
+                  <p>FLA. Suo danno, non m'impedirà più di rintracciare Zelinda... Ma eccola a questa volta.</p>
+                  <p>ZEL. Ah barbaro! sarete ora contento? Il povero mio Lindoro è arrestato. Ma che credete perciò? di avermi in vostra balìa? V'ingannate. Morirò piuttosto che soffrire la vista di un oggetto che io abborrisco, che io odio. Non vi lusingate di trionfare di me, e non isperate d'andar esente da quella pena che meritate. Sì, donna qual mi vedete, avrò spirito, avrò coraggio per ricorrere, per farmi intendere, per domandare per ottenere giustizia. Sarà il mio primo giudice vostro padre; s'ei non mi ascolta, saprò ricorrere a' tribunali, e se tutto il mondo mi manca, colla mia mano, sì colla mia mano medesima, vendicherò Lindoro, vendicherò me stessa, punirò un ingiusto, punirò un persecutore dell'onestà, del decoro, dell'innocenza. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13698_1310162191"/>SCENA XIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13698_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Flaminio </hi>
+                     <hi rend="italic">solo.</hi>
+                  </p>
+                  <p rend="justify">Costei è una vipera, è una furia, è un demonio, e tal la rende un vero amore, una perfetta costanza. Che dirà mio padre di me e della mia condotta, dopo le proibizioni ch'egli mi ha fatte? Sono perduto, se io non impetro il di lui perdono. Ma convien meritarlo. Sì, andrò io stesso a gettarmi a' suoi piedi. Gli prometterò il pentimento, il cambiamento di vita, l'abbandono totale d'ogni pensiero sopra Zelinda... Ma sarò io in istato di mantenerlo? Sì, certo, lo manterrò. L'ho detto, son galantuomo, non vi penserò più. Ma un'altra cosa mi sta sul cuore. Il trattamento villano che ho usato alla cantatrice. Ella non lo merita, ed io ne sono mortificato; ma andrò a vederla, farò seco lei il mio dovere, e cercherò ogni strada per compensare colle attenzioni la pena che a quella buona giovane ho cagionata. Amore mi avea acciecato. La ragione m'illumina, e mi consiglia. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13700_1310162191"/>SCENA XIV<ptr type="bookmark-end" target="#id___RefHeading___Toc13700_1310162191"/>
+                  </head>
+                  <p>Camera di Don Roberto.</p>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto </hi>
+                     <hi rend="italic">e </hi>
+                     <hi rend="bold">Don Federico</hi>
+                  </p>
+                  <p>ROB. Orsù, signor Don Federico, non voglio parere ostinato. Mia moglie non merita ch'io mi scordi sì presto le inquietudini che mi ha dato, ma son di buon cuore, e in grazia vostra son pronto a riceverla, e a perdonarle.</p>
+                  <p>FED. Vi lodo e vi ringrazio per conto mio. Mi permettete ch'io vada a prenderla, e che ve la conduca immediatamente?</p>
+                  <p>ROB. Sì, tutto quel che volete.</p>
+                  <p>FED. Circa alle scuse ch'ella vi dovrebbe fare...</p>
+                  <p>ROB. No, no, la dispenso da questo cerimoniale; venga con animo d'esser buona, e mi troverà amoroso per lei.</p>
+                  <p>FED. Bravo, così va bene. (Manco male che l'ha esentata dagli atti di sommissione. È la miglior donna del mondo, ma è un poco troppo ostinata.) (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13702_1310162191"/>SCENA XV<ptr type="bookmark-end" target="#id___RefHeading___Toc13702_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Roberto</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Zelinda</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Fabrizio</hi>
+                  </p>
+                  <p>ROB. Tutto potrei sopportare. Ma l'astio, la persecuzione a quella povera figlia, mi passa l'anima, mi affligge infinitamente.</p>
+                  <p>ZEL. (<hi rend="italic">da sé  indietro, piangendo</hi>) (Eccolo. Oh cieli! non ho coraggio di presentarmi.)</p>
+                  <p>ROB. Dove mai sarà la povera mia Zelinda? che farà la povera sfortunata? (<hi rend="italic">Zelinda piange</hi>)<hi rend="italic"> </hi>Chi sa, se la vedrò più! Chi sa che quell'ardito di Lindoro non abbia finito di precipitarla!</p>
+                  <p>ZEL. (p<hi rend="italic">iange forte, e Don Roberto si volta</hi>)</p>
+                  <p>ROB. Oh cieli! eccola qui. Eccola, eccola, la mia Zelinda. (<hi rend="italic">le corre incontro con allegrezza</hi>)</p>
+                  <p>ZEL. Signore vi domando perdono. (<hi rend="italic">piangendo</hi>)</p>
+                  <p>ROB. Sì, cara figliuola, vi perdono assai volentieri. Ero in pena per voi; mi consolo di rivedervi. Il cielo finalmente vi ha illuminata. Siete ritornata con me, spero che non mi abbandonerete mai.</p>
+                  <p>ZEL. Ah signore, le mie disavventure si aumentano, la mia miseria è estrema; per colmo della mia disgrazia, il mio povero Lindoro è prigione.</p>
+                  <p>ROB. In prigione Lindoro! Che cosa ha fatto quel disgraziato?</p>
+                  <p>ZEL. Non ha altra colpa il meschino che avermi difesa dalle persecuzioni di vostro figlio.</p>
+                  <p>ROB. Ah figlio indegno, disobbediente, ribaldo!</p>
+                  <p>ZEL. Se avete ancora della pietà per me, accordatemi una sola grazia, vi prego.</p>
+                  <p>ROB. Povera figlia! dite, che posso fare per voi?</p>
+                  <p>ZEL. Datemi il mio poco danaro, datemi la mia roba, per carità.</p>
+                  <p>ROB. E che vorreste voi farne?</p>
+                  <p>ZEL. Vender tutto, impiegar tutto, per liberare Lindoro.</p>
+                  <p>ROB. Ed è possibile che non vogliate disingannarvi? che vogliate amarlo ostinatamente? perdervi per sua cagione? perdere l'amor mio, le speranze ch'avete sopra di me, la vostra pace, la vostra tranquillità?</p>
+                  <p>ZEL. Perderei me stessa per liberare Lindoro. (<hi rend="italic">piange</hi>)</p>
+                  <p>ROB. (Che amore è questo! che costanza inaudita, che tenerezza, che fedeltà! Ed io sarò sì barbaro per oppormi ad un tal legame? Diffiderò che la provvidenza non sia per favorire un affetto sì puro, sì costante, sì virtuoso?)</p>
+                  <p>ZEL. Eccomi a' vostri piedi, signore... (<hi rend="italic">s'inginocchia</hi>)</p>
+                  <p>ROB. Alzatevi. (<hi rend="italic">inquieto</hi>)<hi rend="italic"> </hi>In qual prigione è Lindoro?</p>
+                  <p>ZEL. Non lo so, signore.</p>
+                  <p>ROB. Chi l'ha arrestato? (<hi rend="italic">inquieto</hi>)</p>
+                  <p>ZEL. La guardia ch'è destinata al Ticino.</p>
+                  <p>ROB. Quanto tempo sarà?</p>
+                  <p>ZEL. Mezz'ora appena.</p>
+                  <p>ROB. Sarà tuttavia alla gran Guardia... Il capitano è mio amico. Ma che ha egli fatto contro mio figlio? lo ha insultato? lo ha ferito? lo ha maltrattato?</p>
+                  <p>ZEL. Nulla di ciò, signore; non ha che messo mano alla spada. Deh! perdonategli questo giovanile trasporto. (<hi rend="italic">vuole inginocchiarsi</hi>)</p>
+                  <p>ROB. Fermatevi. (Non ho cuor di resistere più lungamente.)<hi rend="italic"> </hi>Ehi, chi è di là?</p>
+                  <p>FAB. Signore.</p>
+                  <p>ROB. Andate subito alla gran Guardia. Riverite il capitano per parte mia, e se Lindoro è tuttavia in suo potere, ditegli... Sì, ch'egli è il mio segretario, ch'io ne sarò responsabile, e che mi rendo cauzione per lui.</p>
+                  <p>FAB. Sì signore...</p>
+                  <p>ZEL. (<hi rend="italic">a Fabrizio</hi>) Oh me felice! Ditegli ch'è il segretario del signor Don Roberto, del mio caro padrone, che perdona a me, che perdona a lui, che si è mosso a pietà delle mie lagrime, e delle nostre sventure.</p>
+                  <p>ROB. (<hi rend="italic">a Fabrizio</hi>) Chi può resistere a una sì bella passione?</p>
+                  <p>FAB. Avete ragione, signore. Ella merita tutto. Zelinda, vi domando scusa, e vi prometto di non inquietarvi mai più. (Bisogna farsi un merito della necessità.) (<hi rend="italic">parte</hi>)</p>
+                  <p>ZEL. Oh quante grazie! Oh quante obbligazioni! Oh quanta bontà che voi avete per me!</p>
+                  <p>ROB. Non so che dire. Voi persistete a voler Lindoro. Io lo faccio mal volentieri.</p>
+                  <p>ZEL. Perchè, signore, mal volentieri? Oh se sapeste quanto egli è amabile! quanto è egli buono... Ma oh cieli! Ecco qui la padrona. (<hi rend="italic">timorosa</hi>)</p>
+                  <p>ROB. Non temete di nulla. Spero che la troverete più docile, e meno austera.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13704_1310162191"/>SCENA XVI<ptr type="bookmark-end" target="#id___RefHeading___Toc13704_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eleonora</hi>
+                     <hi rend="italic">, </hi>
+                     <hi rend="bold">Don Federico </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>FED. Venite, signora, che il signor Don Roberto desidera di abbracciarvi.</p>
+                  <p>ELE. S'ei lo desidera... (Ma qui ancora costei!)</p>
+                  <p>ROB. Consorte carissima, è inutile l'esaminare se voi od io lo desideriamo. In ogni caso facciamo tutti due il nostro dovere. Una sola condizione io pongo al piacer della nostra unione, ed è che tolleriate in pace questa buona, questa savia, quest'onorata fanciulla.</p>
+                  <p>ELE. (Il sottomettermi è cosa dura, ma la necessità mi consiglia.)</p>
+                  <p>FED. Che dite, signora mia? avete obietti in contrario?</p>
+                  <p>ELE. No, sono ragionevole... sono umana... Mi fido del buon carattere di mio consorte... la credo onesta... la credo innocente... Resti pure, ch'io ne sono contenta. (<hi rend="italic">dissimulando</hi>)</p>
+                  <p>ZEL. Lodato il cielo. Vi ringrazio di cuore, e vi prometto tutta l'attenzione e il rispetto... Sento gente. Sarebbe mai il mio Lindoro?... (<hi rend="italic">da sè</hi>) (Ah no, è quell'importuno di Don Flaminio.)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13706_1310162191"/>SCENA XVII<ptr type="bookmark-end" target="#id___RefHeading___Toc13706_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Flaminio </hi>
+                     <hi rend="italic">e detti</hi>
+                  </p>
+                  <p>FLA. Deh caro padre...</p>
+                  <p>ROB. Temerario! ardisci ancora comparirmi dinanzi?</p>
+                  <p>FLA. Vi domando perdono. So che non lo merito, ma siete troppo buono per negarlo ad un figlio ch'è di cuore pentito, e che vi giura di non disgustarvi per l'avvenire.</p>
+                  <p>ROB. Vedi tu questa giovane? (<hi rend="italic">accennando Zelinda</hi>)</p>
+                  <p>FLA. La veggo, la rispetto, la stimo, e vi prometto di non molestarla mai più.</p>
+                  <p>ROB. Se è così, ti perdono.</p>
+                  <p>ZEL. Oh quante consolazioni per me! ma quando verrà la maggiore? Quando verrà il mio caro... Ecco Fabrizio. Oh cieli! non vi è Lindoro.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13708_1310162191"/>SCENA XVIII<ptr type="bookmark-end" target="#id___RefHeading___Toc13708_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Fabrizio</hi>
+                     <hi rend="italic">, il </hi>
+                     <hi rend="bold">Caporale </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>FAB. (<hi rend="italic">a Don Roberto</hi>) Ecco qui il caporale che ha arrestato Lindoro.</p>
+                  <p>ZEL. (<hi rend="italic">a Fabrizio</hi>) Oh Dio! cos'è di lui? Dov'è? non lo vedo. Perchè non viene?</p>
+                  <p>FAB. Aspettate un momento, e lo vedrete.</p>
+                  <p>ZEL. Lo vedrò? (<hi rend="italic">con allegrezza</hi>)</p>
+                  <p>FAB. Lo vedrete.</p>
+                  <p>ZEL. Oh cieli! non vedo l'ora.</p>
+                  <p>ROB. Ebbene, signor caporale?</p>
+                  <p>CAP. Quando mi lasceranno parlare, parlerò. Il signor capitano, che vi stima e rispetta, vi manda il segretario sulla vostra parola.</p>
+                  <p>ZEL. (<hi rend="italic">al Caporale</hi>) Ma dov'è?</p>
+                  <p>CAP. (<hi rend="italic">a Zelinda</hi>) Un momento di tempo. (<hi rend="italic">a Don Roberto</hi>) Basta che voi promettiate di rimetterlo, se bisogna, per gli effetti della Giustizia.</p>
+                  <p>ROB. Sì, signore, prometto.</p>
+                  <p>ZEL. (<hi rend="italic">a Don Roberto, agitata</hi>) Di rimetterlo alla Giustizia?</p>
+                  <p>ROB. (<hi rend="italic">a Zelinda</hi>) Non dubitate, lasciate la cura a me. (<hi rend="italic">al Caporale</hi>) Prometto di rimetterlo, se bisognerà.</p>
+                  <p>CAP. Quand'è così, ve lo rilascio subito in libertà. Elà, soldati, lasciate libero il prigioniero. (<hi rend="italic">alla scena</hi>)</p>
+                  <p>ZEL. Eccolo, eccolo. (<hi rend="italic">gli corre incontro</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc13710_1310162191"/>SCENA XIX<ptr type="bookmark-end" target="#id___RefHeading___Toc13710_1310162191"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Lindoro </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p>LIN. Ah cara Zelinda!</p>
+                  <p>ZEL. Ah il mio adorato Lindoro! (<hi rend="italic">si abbracciano modestamente</hi>)</p>
+                  <p>LIN. Che piacere!</p>
+                  <p>ZEL. Che consolazione! (<hi rend="italic">piangono d'allegrezza, e restano ammutoliti</hi>)</p>
+                  <p>ROB. (<hi rend="italic">a Donna Eleonora, a Don Flaminio e a Fabrizio</hi>) E avrete cuore d'insultarli? d'offenderli? di perseguitarli?</p>
+                  <p>ZEL. (<hi rend="italic">a Lindoro ,accennando Don Roberto</hi>) Eccolo, eccolo il nostro protettore, e il nostro amorosissimo padre, il nostro liberale benefattore.</p>
+                  <p>LIN. Ah signore... (<hi rend="italic">s'inginocchia a' piedi di Don Roberto</hi>)</p>
+                  <p>ZEL. Ah il mio caro padrone... (<hi rend="italic">s'inginocchia dall'altra parte</hi>)</p>
+                  <p>ROB. Non posso trattenere le lagrime. (<hi rend="italic">s'asciuga gli occhi</hi>)<hi rend="italic"> </hi>Alzatevi, figliuoli miei, alzatevi. Veggo benissimo che i vostri amori sono innocenti, sono approvati dal cielo, e mi sento mosso a favorire la vostra unione. Non so chi sia vostro padre. (<hi rend="italic">a Lindoro</hi>)<hi rend="italic"> </hi>Voi me lo confiderete, ed io m'impegno di scrivergli, e di persuaderlo. Restate meco frattanto, riprendete l'uno e l'altro il posto in casa, nell'amor mio, e nel mio cuore. Amatevi sempre, e poichè pare che il cielo vi voglia uniti, sposatevi, ch'io v'acconsento.</p>
+                  <p>ZEL. Caro Lindoro!</p>
+                  <p>LIN. (Oh amor mio!) (<hi rend="italic">s'abbracciano</hi>)</p>
+                  <p>ROB. (<hi rend="italic">a Donna Eleonora e a Don Flaminio</hi>) E voi rispettate il decreto del cielo, e l'opera della mia mano.</p>
+                  <p>ELE. Ne sono anch'io penetrata, ve l'assicuro.</p>
+                  <p>FLA. Contribuirò anch'io, quanto posso, alla loro felicità.</p>
+                  <p>ZEL. Benedetto il cielo che ci ha assistiti, benedetto il padrone che ci ha protetti! Signori miei, voi che siete sì teneri e sì gentili, consolatevi del lieto fine degli amori di Zelinda e Lindoro, ed onorateli, se ne sono degni, della vostra umanissima approvazione.</p>
+                  <p rend="center smallcaps">Fine della Commedia</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

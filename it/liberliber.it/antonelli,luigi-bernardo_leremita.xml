@@ -1,0 +1,2181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled Document</title>
+            <author>Luigi Antonelli</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:02.19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-14T18:20:01.381253971</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                            
+      <body>
+         <author>Luigi Antonelli</author>
+         <div type="div1">
+            <head>Bernardo l'Eremita</head>
+            <p>LUIGI ANTONELLI</p>
+            <p rend="center">Bernardo l'Eremita</p>
+            <p rend="center">Commedia in tre atti</p>
+            <p>Rappresentata. Milano, Teatro Olympia, 5 dicembre 1919, Compagnia di Antonio Gandusio.</p>
+            <p>Edita. Roma, Società Editrice «Sapientia», 1927.</p>
+            <div type="div2" rend="P21">
+               <head>Personaggi</head>
+               <p rend="center">Luciano Riva (Bernardo l'Eremita)</p>
+               <p rend="center">Nora Forster</p>
+               <p rend="center">Il Colonnello Forster</p>
+               <p rend="center">Lucio Arsicola</p>
+               <p rend="center">Ricci</p>
+               <p rend="center">Anna (istitutrice molto giovane)</p>
+               <p rend="center">Giulia Gorio (miniaturista con occhiali)</p>
+               <p rend="center">Una baronessa che sviene</p>
+               <p rend="center">Un pittore futurista</p>
+               <p rend="center">Una signorina che canta</p>
+               <p rend="center">Un signore che legge il giornale</p>
+               <p rend="center">Un cameriere d'albergo</p>
+               <p rend="center">Cameriera di casa Forster</p>
+               <p>L'azione è a Roma nel tempo nostro.</p>
+            </div>
+            <div type="div2" rend="P22">
+               <head>Atto primo</head>
+               <p>Salone di un grande albergo. Grande folla di invitati in abito di visita. Quando si alza il sipario una signorina finisce di cantare una romanza francese accompagnata dal pianoforte. Una vetrata divide la scena in due parti. Sul davanti son disposte le poltrone e le tavole della sala di lettura mutata per l'occasione in sala di concerto. La porta comune nel fondo. Altra porta a sinistra. Tavolini, sedie di vimini. Un piccolo paravento è appoggiato alla parete verso il fondo. Pomeriggio primaverile.</p>
+               <div type="div3">
+                  <head>Scena prima</head>
+                  <p>Appena la signorina ha finito di cantare la sua romanza, l'uditorio la applaude. Sono nella sala RICCI, GIULIA GORIO, LA BARONESSA, IL PITTORE FUTURISTA, IL SIGNORE CHE LEGGE IL GIORNALE e parecchie altre invitate oltre LA SIGNORINA CHE CANTA. La scena è attraversata ogni tanto da qualche CAMERIERE frettoloso. Molti si alzano per stringere la mano alla cantatrice e complimentarla.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>salendo sopra una sedia</p>
+                  <p>Signori!</p>
+                  <p rend="center smallcaps">TUTTI</p>
+                  <p>Ssst!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Signori, non ci diremo addio senza rivolgere un saluto riconoscente a coloro che col grandissimo loro nome allietarono e resero cospicua questa festa pomeridiana che si svolge, lasciatemelo dire, mentre la primavera romana occhieggia dalle finestre, e piove anzi, lasciate che io lo affermi, piove...</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Ma no!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>... piove, sì, la sua opulenta grazia...</p>
+                  <p rend="center smallcaps">PARECCHIE VOCI</p>
+                  <p>Ah!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Noi vediamo qui l'eccellentissima signora Gorio...</p>
+                  <p>LA SIGNORA GORIO s'inchina.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>... le cui miniature sarei per dire...</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Giganteggiano!</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Ma che giganteggiano!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>... le cui miniature sono una decorazione squisita al trono dell'immortalità su cui si asside quel gigante... sì, veramente un gigante della pittura: l'illustre senatore... È senatore?</p>
+                  <p rend="center smallcaps">VOCI</p>
+                  <p>Sì! Sì!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>... l'illustre senatore suo marito!</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Grazie! Grazie per me e per lui! Vi dirò, poiché siamo tra intimi... e lui non ci sente... che è stato insignito recentemente dallo Scià di Persia del Gran Cordone dell'Elefante Bianco...</p>
+                  <p rend="center smallcaps">TUTTI</p>
+                  <p rend="end">con ammirazione sdolcinata</p>
+                  <p>Ah!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="justify">che era disceso dalla sedia, vi risale con grande premura</p>
+                  <p>Orbene, signori, quando un artista, un grande artista, è insignito del Gran Cordone dell'Elefante Bianco può veramente considerare l'umanità con pacata indulgenza e ritenersi soddisfatto della propria missione nel mondo. Dico questo per l'illustre senatore Gorio. Ma qui vedo anche riuniti audaci giovani scrittori, pittori e poeti...</p>
+                  <p rend="end">con enfasi</p>
+                  <p>Fiorisce evidentemente in questa primavera romana...</p>
+                  <p>LA BARONESSA getta un grido acutissimmo e si rovescia sulla poltrona su cui è seduta. RICCI scende precipitosamente dalla sedia e corre in suo aiuto. Momento di confusione. Parecchi la sostengono e le fanno odorare dei sali.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Ma che è stato?</p>
+                  <p rend="center smallcaps">LA SIGNORINA CHE CANTA</p>
+                  <p>Non so. S'è sentita male a un tratto.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Spero che non sia stato il mio discorso a farla svenire.</p>
+                  <p rend="center smallcaps">LA BARONESSA</p>
+                  <p rend="end">un po' rinvenendo</p>
+                  <p>Quel ferito!... Quel ferito, là...</p>
+                  <p rend="end">accenna al di fuori a sinistra</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Un ferito? Dove?</p>
+                  <p rend="center smallcaps">LA BARONESSA</p>
+                  <p>Là... là... là...,</p>
+                  <p rend="center smallcaps">LA SIGNORINA CHE CANTA</p>
+                  <p>Ma no, baronessa!</p>
+                  <p rend="center smallcaps">LA BARONESSA</p>
+                  <p>Là... là... Ho visto delle bende che fasciavano una testa... E del sangue, forse...</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Come, forse!? Era o non era sangue?</p>
+                  <p rend="center smallcaps">LA BARONESSA</p>
+                  <p>Un dramma! Certamente un dramma! Chi sa quale fosco dramma...</p>
+                  <p>IL PITTORE FUTURISTA</p>
+                  <p>Cameriere! C'è stato un ferito di là? Ferito alla testa?</p>
+                  <p rend="center smallcaps">IL CAMERIERE</p>
+                  <p rend="end">sorridendo</p>
+                  <p>Ma no! È un signore che, appena arrivato dalla stazione, ha avuto non so che alla faccia che s'è gonfiata ed è stato costretto a fasciarsi la testa. Niente di speciale.</p>
+                  <p rend="end">Via</p>
+                  <p rend="center smallcaps">TUTTI</p>
+                  <p>Ah!</p>
+                  <p>LA BARONESSA si alza di scatto e se ne va in fretta, tra lo stupore degli astanti, a sedere in fondo alla sala.</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Che cos'ha adesso?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>È indispettita perché ha visto sfumare il dramma.</p>
+                  <p rend="end">Ridono</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">a RICCI</p>
+                  <p>Grazie, Ricci, delle belle parole!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>S'immagini, signora Gorio!</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p rend="end">a RICCI</p>
+                  <p>Che guardi? Aspetti qualcuno?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Sì, aspetto un amico che forse non verrà.</p>
+                  <p rend="end">Indi alla SIGNORA GORIO</p>
+                  <p>Permette? Libero Ardengo, pittore futurista.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">enfatica</p>
+                  <p>Ah! Un futurista! Per favore non parli! Ah! Lasci per favore che prima La guardi... e ora mi dica che cosa espone, perché immagino che esporrà anche Lei!...</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Uno studio di decomposizione cubica.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Decomposizione cubica? Ma che cosa rappresenta?</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Una bottiglia!</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">enfatica</p>
+                  <p>Una bottiglia! Una bottiglia! Io muoio di passione! Ricci, venga qui! Espone una bottiglia!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="end">accorrendo</p>
+                  <p>E io che vuole che ci faccia?</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Una bottiglia e poi basta?</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p rend="end">un po'seccato</p>
+                  <p>Sì: decomposizione cubica di una bottiglia.</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p rend="end">alla SIGNORA GORIO</p>
+                  <p>Ci capisce niente, Lei? Da quarant'anni da che sono al mondo...</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Troppi.</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Come troppi?</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Che cosa ha fatto Lei in questi quarant'anni? Ha inventato un nuovo peccato mortale?</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>No.</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Una nuova polvere dentifricia?</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p rend="end">indignato</p>
+                  <p>Ma signore!</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Dunque quarant'anni sono troppi. E il suo naso è naturale o artificiale?</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Prego: signore. È il più naturale che ci sia!</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Male!</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Come, male!</p>
+               </div>
+               <div type="div3" rend="P18">
+                  <head>Scena seconda</head>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">entrando dal fondo va dritto verso RICCI</p>
+                  <p>Oh! Ricci! Come...</p>
+                  <p rend="justify">si guarda intorno a osservare i presenti</p>
+                  <p>...come stai?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Oh! Vieni! Vieni! Si parlava di nasi.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Non si può dire che non sia un argomento di qualche rilievo...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="justify">indicando L'UOMO CHE LEGGE IL GIORNALE</p>
+                  <p>Il signore, vedi, ha ancora il suo naso originario...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">fingendo un grande stupore</p>
+                  <p>Oh! Ma come si fa!</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Glielo dicevo anch'io!...</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Ma come? E lei?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io? Il mio, caro signore, ha fatto fare una rapida carriera a uno dei più ricchi uomini della mia città.</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Una rapida carriera?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Aspetta che ti presenti... Il signor...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">trattenendolo</p>
+                  <p>St! Ma, caro Ricci: sei tu adesso a non aver naso!</p>
+                  <p rend="end">Tutti lo circondano incuriositi</p>
+                  <p>Dunque è proprio necessario che io racconti questa piccola avventura? Mi venne a trovare un giorno un mio amico il quale si era ingolfato negli affari che gli andavano male perché non aveva naso: e allora gli diedi il mio con cui ha guadagnato parecchi milioni. Ma anch'io col mio naso artificiale di paraffina mi trovo benissimo. Il naso artificiale ha questo vantaggio: che si può educare come si vuole. Il mio, per esempio, l'ho educato a percepire gli odori buoni e a tralasciare quelli cattivi, mentre il naso naturale è costretto a odorare ogni cosa: e il buon Dio sa se ogni cosa odora...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>E poi venne da te quella signorina che ti voleva sposare.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Già. Venne da me una donna molto carina che voleva prendermi per il naso. «Sentite – gli disse – ecco l'indirizzo del mio amico. Egli ha il mio naso con cui ha guadagnato milioni». E la inviai all'amico ricco: a quello cioè che io avevo fatto arricchire. Naturalmente l'amico l'ha sposata. Ebbene, che volete farci? La moglie è sua, ma chi la odora sono io!</p>
+                  <p>Si ride. Tutti si mettono a discutere tra loro. Rimangono in disparte LUCIANO e RICCI.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">volgendosi intorno, chiede a RICCI</p>
+                  <p>Che roba è qua dentro?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Ma! Roba di media mondanità intellettuale. Qualche ragazzo d'ingegno e parecchie cariatidi illustri.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E quella là? Quella che discorre così animatamente?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Quella è la signora Gorio.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>La miniaturista?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Sì.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Voluminosa, eh?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>È la moglie del pittore Lamberto Gorio... Lo conosci?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Personalmente, no. Ma gli ho fatto bocciare parecchi quadri alle esposizioni.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>E la moglie sa che sei Bernardo l'Ere...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Taci!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Allora vuoi che ti presenti?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì, ma senza farle capire il mio nome.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>E come posso...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Oh Dio! Presento io tutti i giorni della gente di cui non ricordo il nome! Il signor...</p>
+                  <p rend="justify">accompagna il resto, con una specie di brontolìo</p>
+                  <p>e la presentazione è fatta. Stretta di mano precipitosa e si attacca discorso...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Ah! Va bene! Il signor...</p>
+                  <p rend="justify">Imita il gesto e il brontolìo dell'amico. Indi, avvicinandosi alla signorina GORIO</p>
+                  <p>Permette, signora Gorio? Permetta che Le presenti... La signora Gorio, miniaturista... la celebre signora Gorio, moglie del celebre...</p>
+                  <p>LUCIANO le fa un grande inchino.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="end">continuando la presentazione</p>
+                  <p>... Il mio grande amico...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">precipitosamente</p>
+                  <p>Fortunatissimo! Ho ammirato, ho ammirato le Sue miniature... e i grandi quadri all'aperto... con magnifiche nutrici... di suo marito!</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Ah! È artista anche Lei?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io no, signora.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>No? Eppure, ha un certo non so che...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah sì? Il non so che si sbaglia... Io sono...</p>
+                  <p rend="end">a RICCI</p>
+                  <p>Chi sono?</p>
+                  <p rend="justify">Alla signora GORIO, con amabile sorriso</p>
+                  <p>Io sono un imbalsamatore... quel che si dice un tassidermista, signora... Specializzato in animali da cortile: galli, galline, colombi, portinai...</p>
+                  <p rend="end">Riprendendosi</p>
+                  <p>Dico: faraone.... Illusione perfetta, signora, pose al naturale... Così perfette che niente di più facile che i miei colombi, dopo un secolo, tornino a tubare come se niente fosse, e si diano alla fuga col loro cuore impagliato... Una cosa mirabile!</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">che era rimasta a bocca aperta</p>
+                  <p>Ma davvero? Che burlone! E che ne dice dell'arte di mio marito?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah signora! È un'arte... Come dire? Un'arte da gente prospera... che ha digerito bene... un'arte da gente di buona salute...</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">soddisfatta</p>
+                  <p>Ah!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Quelle balie, per esempio... Suo marito può vantarsi di aver dipinto le più prosperose balie della cristianità... con quei putti... e con quei petti... e con quei... E tutte lombarde, poi! Guardi, guardi che questo è un merito grandissimo...</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">sospira</p>
+                  <p>E pensare che la scuola moderna glie ne ha dette di tutti i colori! Quando Le dico che sono arrivati a stampare sui giornali che lo studio di mio marito è la latteria della pittura italiana contemporanea!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">indignato</p>
+                  <p>Oh! La latteria! La latteria per una ventina di balie che ha dipinto... Non saranno state più di una ventina di balie...</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Ma che dice! Appena due o tre! Lo chieda a Bernardo L'Eremita che se l'è presa con mio marito senza neanche conoscerlo!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">volgendosi a RICCI</p>
+                  <p>Ma chi è Bernardo L'Eremita?</p>
+                  <p>RICCI riesce a stento a trattenere le risa.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>È un artista!</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Un grande artista.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Dicono un grande artista!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io credevo che fosse il nome di un frate!</p>
+                  <p rend="end">Tutti protestano</p>
+                  <p rend="center smallcaps">UNA VOCE</p>
+                  <p>Idiota!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Chi è quel grazioso signore che mi ha dato dell'idiota?</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Io.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah sì?</p>
+                  <p rend="justify">Si avanza per percuoterlo. Parecchi si frappongono dicendo: «Ma no! Ma no!»...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="end">a LUCIANO e all'altro</p>
+                  <p>Andiamo, via! Non è il caso di riscaldarsi tanto! Si discute per una questione d'arte!</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Posso aver trasceso nel dare dell'idiota...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Be'!</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>E lo deploro. Ma è anche deplorevole che si parli così leggermente di un grande artista!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io parlavo del nome!</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Il nome! È il nome di un gambero!</p>
+                  <p>LUCIANO</p>
+                  <p>Appunto! Un pittore che si prende il nome di un gambero è costretto a prenderne, poi, per tutta la vita!</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Tanto più che questo gambero è un famoso ladro di conchiglie.</p>
+                  <p rend="center smallcaps">IL PITTORE FUTURISTA</p>
+                  <p>Ma c'è gambero e gambero.</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Un momento: Bernardo L'Eremita non è un gambero qualunque, e c'è il suo perché... È un gambero che ha il senso vagabondo... il gusto delle case madreperlacee... È un esteta del genere. Ed è anche un nomade, perché quando la casa comincia a esser troppo stretta, egli la cambia.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì: ma le case che prende di chi sono? Sono forse sue?</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>No.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Allora è un ladro. Sarà gambero, ma ladro.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">giubilante</p>
+                  <p>Il suo nome! Signore, mi dica per piacere il suo nome. Non l'ho capito quando me l'ha presentato Ricci.</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Ma se questo si chiama ragionare!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="end">a LUCIANO</p>
+                  <p>E ora come te la cavi?</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Mi dica dunque per piacere il suo nome.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">tra l'aspettazione di tutti</p>
+                  <p>Io sono... Bernardo L'Eremita.</p>
+                  <p>Momento di stupore. Poi risa generali, perché nessuno gli crede. RICCI si è gettato su di una poltrona e ride come un matto.</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="end">a RICCI</p>
+                  <p>Mi dica veramente come si chiama! Me lo ha presentato Lei!</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p rend="justify">avanzando verso LUCIANO e guardandolo dall'alto in basso</p>
+                  <p>Lei Bernardo L'Eremita? Ma Bernardo L'Eremita è un Dio!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non esageriamo!</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="justify">al SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Sarà vero?</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Ma che! Lei crede a quel chiacchierone?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="end">alla SIGNORA GORIO</p>
+                  <p>Le assicuro che è proprio lui!</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p rend="justify">andando verso IL SIGNORE CHE LEGGE IL GIORNALE che si è gettato anche lui su di una poltrona per ridere a suo agio</p>
+                  <p>C'è Ricci che assicura che è proprio lui!</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Ah! Ah! Sentite... veramente... che burlone! Però... diciamo la verità... siamo giusti! Per un imbalsamatore di animali da cortile...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">subitamente corrucciato gli si pianta davanti per provocarlo</p>
+                  <p>Ah sì? E Lei? È proprio sicuro di non essere imbalsamato?</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Io?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ne ho visti, sa, di uomini come Lei andare in giro burbanzosi e solenni con la paglia dentro!...</p>
+                  <p>RICCI e IL PITTORE FUTURISTA si mettono a sghignazzare.</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p>Ma dove?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Dove? Da per tutto! Forse io stesso Le ho fatto l'operazione in qualche bassa corte...</p>
+                  <p rend="center smallcaps">IL SIGNORE CHE LEGGE IL GIORNALE</p>
+                  <p rend="justify">agghiacciato, va verso LA SIGNORA GORIO</p>
+                  <p>Andiamo, signora Gorio! Non esce?</p>
+                  <p rend="center smallcaps">LA SIGNORA GORIO</p>
+                  <p>Sì! Sì!</p>
+                  <p rend="end">Al PITTORE FUTURISTA</p>
+                  <p>Che ne dice Lei?</p>
+                  <p>S'incammina per uscire. Tutti se ne vanno volgendosi indietro a guardare LUCIANO, perplessi, chiedendosi tra loro: «È lui? Sarà davvero lui?». Parecchi ridono silenziosamente alle sue spalle. IL SIGNORE CHE LEGGE IL GIORNALE se ne va anche lui per ultimo alquanto burbanzoso volgendosi di tratto in tratto verso LUCIANO e soffocando le risa nel fazzoletto; ma basta che LUCIANO lo minacci con lo sguardo perché egli abbassandosi dietro un tavolino cerchi di svignarsela. A un certo punto LUCIANO si frega le mani un po' forte e questo lo fa sobbalzare e affrettare verso l'uscita. Tutti hanno abbandonato la sala. Rimangono soli RICCI e LUCIANO.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena terza</head>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Hai visto che cosa ti capita?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perbacco, se quel signore fosse stato un altro tipo! Lo avrei condotto a più allegra conclusione.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Quale?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Lo avrei esasperato al punto da provocarmi... e allora avremmo corso il rischio di andare sul terreno...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Un duello?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Egli si sarebbe battuto con me per difendere me stesso. Ah! Ma non era il tipo... L'ho capito subito.</p>
+                  <p rend="end">RICCI tentenna il capo</p>
+                  <p>Ebbene, che cosa c'è di straordinario? Non fai tu l'agente di cambio? Lasciami vivere a modo mio, lasciami divertire, e dammi una sigaretta.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Non esci? Ti accompagno. Sei alloggiato qui?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Tu sai ch'io non alloggio mai negli alberghi di lusso dove si dànno pessimi concerti di beneficenza e dove si corre il rischio di essere presi per imbalsamatori di animali da cortile.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Hai visto come si scalmanavano a difenderti?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Lasciami stare! Quel signore avrebbe dovuto battersi con me!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Ah, ma è una fissazione! Ti fermi a Roma?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma che! Parto stasera!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Stasera? Avrei voluto passare qualche ora con te... e invece mi tocca scappare...</p>
+                  <p rend="end">Guarda l'orologio</p>
+                  <p>Son quasi le cinque.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Bravo! Valeva la pena, allora, di farmi venire qui, mentre fuori è un così bel sole!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Facciamo almeno un pezzo di strada insieme. No? Quando ci rivedremo? A Venezia, all'apertura?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Certo.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Esponi?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Avrò una piccola sala con un centinaio di stampe.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="end">per andare</p>
+                  <p>Rimani qui o esci?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">sedendosi</p>
+                  <p>Fumo la sigaretta. Poi vado via.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p rend="end">gli stringe la mano</p>
+                  <p>Allora arrivederci... Buon giorno.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Addio.</p>
+                  <p>RICCI s'incammina, ma poi si ferma a osservare LUCIO ARSICOLA che viene dalla sinistra preceduto dal CAMERIERE.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena quarta</head>
+                  <p>LUCIO ha la testa fasciata da due bende bianche che gli gonfiano la faccia come un pallone.</p>
+                  <p rend="center smallcaps">IL CAMERIERE</p>
+                  <p>Guardi: qui nessuno La vede, e può mettersi a scrivere se non vuol salire in camera. Ci sono soltanto quei due signori là che tra poco certamente lasceranno la sala. Ha bisogno di me?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>No, grazie.</p>
+                  <p>IL CAMERIERE via.</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Ah! Che cos'ha? È il signore che poc'anzi ha fatto svenire la baronessa!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">stupito</p>
+                  <p>Ho fatto svenire una baronessa?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Niente, niente... È stata una delle nostre graziose scimmie dell'intellettualità romana che avendola vista così fasciata ha immaginato chi sa quali ferite e chi sa quale dramma. Orecchioni, eh?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">un po' mortificato</p>
+                  <p>Già! Orecchioni!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Le dànno fastidio, eh?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sono molto umiliato...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Mah! Che vuol fare? Si chiuda in camera tre o quattro giorni...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ma se sapesse! Sono arrivato da due ore e non posso chiudermi in camera...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Pazienza! Allora passeggi per il Corso!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>No!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Allora stia qua! Buongiorno!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>È dottore, lei?</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>No! Ma ebbi quel fastidio quand'ero in collegio.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Già! Tra l'altre cose è più un male da ragazzi che da uomini maturi...</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Sì, ma alle volte...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sono molto umiliato!</p>
+                  <p rend="center smallcaps">RICCI</p>
+                  <p>Buongiorno.</p>
+                  <p rend="justify">Via, dopo aver fatto un cenno di saluto a LUCIANO</p>
+               </div>
+               <div type="div3">
+                  <head>Scena quinta</head>
+                  <p>LUCIANO guarda Lucio con grande curiosità.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Scusi, signore... Lei ha viaggiato con me questa notte?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma sicuro! Sicuro! Io cercavo nella mia testa... e nella Sua... Lei è il signore con cui ho viaggiato stanotte! Mi perdoni... Ella ha parecchie volte...</p>
+                  <p>LUCIO</p>
+                  <p>Cercato di attaccare discorso... Sì... Mi sono accorto che Lei non aveva voglia di parlare... Non importa: questione di carattere.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì... È vero: io sarei per mia natura socievolissimo, ma ho in orrore le persone che non conosco. Sarei amico intimo di tutta l'umanità se riuscissi a essere un poco più educato.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="justify">porgendogli la sua carta da visita</p>
+                  <p>Se mi permette...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io non ho carta... Il mio nome è Luciano Riva, ma sono più conosciuto col mio pseudonimo di Bernardo L'Eremita.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">con lieto stupore</p>
+                  <p>L'artista?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">sorridendo</p>
+                  <p>Come vuole...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ma è la firma di quelle meravigliose acqueforti che hanno tanto interessato la critica!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Oh i critici!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Le hanno dato del pazzo... L'hanno portato alle stelle... Permetta ch'io Le stringa la mano! Lei è un grande artista.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ecco la necessità di cambiar nome. Chi mi prende per un imbalsamatore, chi per un pazzo e chi per un grande artista.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">ammirato</p>
+                  <p>Avrà, spero, grande stima di sé.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non esagerata...</p>
+                  <p rend="justify">LUCIO accenna di sì come per dire: «è modesto»</p>
+                  <p>Ma enorme...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="justify">lo guarda trasognato: indi sorridendo</p>
+                  <p>Strano uomo! Uno scettico?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">perplesso</p>
+                  <p>Per adesso, signore, sono un uomo che viaggia. A parte lo scherzo, Le dirò che sono capitato in questo albergo per combinazione. S'è dato un concerto... una delle solite mattinate in pieno pomeriggio... dove una signorina inglese canta una romanza francese dinanzi a un uditorio italiano e si rivela grande artista... Avevo promesso a un amico di vederlo qui... E ora sto per andarmene... Lei è alloggiato in questo albergo?</p>
+                  <p rend="justify">Si alza come deciso ad andar via</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì. Ed è la prima volta che vengo a Roma... Sono venuto per conoscere la mia fidanzata...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Lei ha una fidanzata e non la conosce?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Già. Le sembra strano?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">di nuovo si siede</p>
+                  <p>Tutt'altro. Mi sembra una condizione indispensabile per sposarsi con un certo successo. Se due coniugi riuscissero a non conoscersi mai, il matrimonio potrebbe anche essere sopportabilissimo. E Lei chi è?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Io sono... Ah! Non oso dire di essere uno scrittore... Ho scritto un libro solo, stampato in provincia.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Il suo nome?</p>
+                  <p rend="justify">Guardando la carta da visita, legge</p>
+                  <p>Lucio Arsicòla...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">correggendo</p>
+                  <p>Arsìcola...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Arsìcola. Io non leggo libri. Perdoni dunque se...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Si figuri! Perché non li legge?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perché tutti gli autori hanno la mania di comunicare al prossimo le loro convinzioni personali. Questo li rende insopportabili.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Lei è troppo dispotico. Anche se leggesse libri, non vorrei mai dargliene uno mio.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">inchinandosi lievemente</p>
+                  <p>Così potrò sempre credere che Lei ne abbia scritto uno eccellente. Andiamo, mi racconti questa cosa che m'interessa assai... Come ha fatto a... non conoscere la sua fidanzata?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ah! È semplicissimo. Quando pubblicai il mio romanzo, l'anno scorso... «Nozze in provincia» ... uno studio di ambiente paesano, ricevetti una lettera da una signorina di Roma...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Una critica?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>No... non già una vera critica... Accade spesso che una delle solite ragazze letterate... o romantiche... Capiterà anche a Lei!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non me ne parli! Le letterate! Specialmente le scrittrici... sono la peste dell'umanità! Io poi non riesco a stampare un'acquaforte senza che dieci, almeno, signorine... brutte.... mi domandino che cosa ho voluto dire.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">sorridendo</p>
+                  <p>Ecco! Ecco!... Nel mio angolo di provincia, dove sono rimasto quasi sempre chiuso, ella portò come un soffio di primavera... un profumo di eleganza... e un po' di mistero.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E così se ne è innamorato a distanza!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ah no!... Innamorato no! Bisognerà, prima, che ci vediamo. Io le risposi semplicemente manifestandole, tra le righe, la mia voglia di seguitare l'epistolario... Infatti ella ha scritto ancòra. E così è cominciata la nostra corrispondenza... A poco a poco siamo diventati amici. A dire la verità sul principio quest'avventura romantica mi imbarazzava. Poi mi sono abituato. Guardi, guardi la fotografia... Eh? Le piace?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">guardando la fotografia</p>
+                  <p>Molto graziosa!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Non Le pare?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Molto graziosa. E allora?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Allora, dopo questa fotografia, mi piacque ancòra di più, tanto che una bella mattina mi alzai con un'idea straordinaria e scrissi sùbito alla signorina: «Ci vogliamo sposare?».</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">ride</p>
+                  <p>Ah! Ah! E che cosa rispose?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">sorridendo</p>
+                  <p>Rispose che acconsentiva, semplicemente: e che non si spaventava dei miei trentaquattro anni... Ella desiderava che io, a mia volta, mandassi la fotografia. Eh, no! Non volli essere preceduto da nessuna maschera. La fotografia non è mai abbastanza un ritratto.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Giustissimo.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Per solito, sa, non sono troppo facile alle confidenze... Ma gli è che io sono pieno di ansia perché tra poco, guardi...</p>
+                  <p rend="end">agitandosi</p>
+                  <p>tra pochi minuti verrà qui o mi manderà a cercare in questo albergo...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sa che è alloggiato qui?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì, sì! E io sono atterrito dal fatto che così non mi posso presentare! Sono troppo ridicolo!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sicché neanche la sua voce... niente, niente l'uno conosce dell'altra?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Se non ci siamo mai visti!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Il perfetto mistero!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">sorridendo</p>
+                  <p>Sicuro. Ella abita col vecchio colonnello suo padre, una villetta in fondo a via Nomentana: villino Forster.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">guardando la fotografia e leggendo la firma</p>
+                  <p>«Nora Forster».</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ora forse Lei si burlerà di me!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma nemmeno per sogno! È un genere di avventura, il Suo, Le confesso la verità, che fa la mia delizia! Io non godo, in verità, che di queste avventure.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>L'imprevisto dunque L'affascina?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Non può immaginare quanto! Il gambero sbilenco che si porta in giro le case degli altri mi somiglia in questo: che anch'io prendo a prestito tutti i giorni un asilo che il caso mi porge per metterci dentro un sogno nuovo!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>L'avventura, insomma!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì! Ma non già mi piace l'avventura quale può offrirmela la sorte. Sono io, molte volte, che la medito, la provoco. Provi, provi Lei a fabbricare il caso! Eh! Nei libri, sì... Ma nella vita!... Ah! Burlarsi della natura... simulare la notte e il sole! Anch'io lo faccio con le mie acqueforti, ma l'importante è asservire uomini e cose a strumenti d'arteficio! Mi capisce? Ah sì! La sua avventura sentimentale mi piace! Meriterebbe di non essere narrata in nessun libro.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Strano uomo!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E Lei chi è? Un romantico? Un umorista? Un ironista? Ma forse Lei, lavorando, non è felice quanto me... Per esempio, guardi... Io mi diverto talvolta a mistificare la gloria e a farne una maschera comica... A costringere le stelle ad abbassarsi per accendere le sommità dei cipressi che circondano un cimitero... Le par niente? Che cosa importa a me di vivere a seconda che mi consentano le cose? Noi, infine – noi uomini – siamo schiavi degli eventi, uniformiamo la nostra esistenza sopra un binario e seguiamo una traccia... Ma noi artisti – e io sono forse un uomo che esce dalla nostra letteratura d'eccezione – possiamo vivere come vuole il nostro cervello. Non ha Lei quest'ambizione? Allora non è un artista.</p>
+                  <p rend="justify">Cambiando tono all'improvviso</p>
+                  <p>Scusi: Le ho già detto che non sono bene educato.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">sorride</p>
+                  <p>Dica un po', dica un po': ci fu qualcuno che inventò una specie di leggenda sul Suo conto...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Che io lavoro le mie stampe in una specie di spelonca e che ho per amica una fattucchiera, e vivo facendo il vagabondo... Eh? Si dice questo?</p>
+                  <p>LUCIO</p>
+                  <p>Sì, sì... È soltanto dopo averla conosciuta che si possono credere vere queste storie.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Tutte le storie che si narrano sul mio conto sono vere. Non per niente le faccio circolare io stesso!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">ride</p>
+                  <p>Senta che cosa ella mi scrive.</p>
+                  <p rend="end">Legge una lettera</p>
+                  <p>«Voi non mi troverete abbigliata per la circostanza...».</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ecco, per esempio, una prova di coraggio. Poche donne sanno resistere alla tentazione di mettersi un vestito nuovo. A meno che ella abbia una vestaglia color viola. Le donne che indossano vestaglie color viola sono di temperamento bisbetico e tradiscono il marito dopo il quarto mese.</p>
+                  <p>LUCIO</p>
+                  <p>So... so che in fatto di donne... eh?</p>
+                  <p rend="justify">Lo minaccia scherzosamente con una mano</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma no! Sono leggende!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Come fa? Come fa?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Come faccio che cosa?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>A prenderle tutte così presto...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Ma è semplicissimo!...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Dica! Dica!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>È semplicissimo! Io dico loro delle cose enormi... ma per non spaventarle chiudo gli occhi. Le donne vedendomi con gli occhi chiusi si fanno coraggio e mi cadono fra le braccia!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Davvero?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Oh! Scherzo! Vuole che per prendere una donna ci sia un sistema? Ogni donna ha il suo stile, ovverosia il suo segreto...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="justify">ride. Poi subitamente preoccupato</p>
+                  <p>Ma dica, dica! Non Le pare che il destino si sia preso gioco di me? Ho aspettato un anno prima di decidermi: e durante questo tempo non ho mai avuto il più piccolo male... Ebbene, arrivo qui per conoscere la mia fidanzata e qualche ora prima la mia faccia diventa un mascherone di fontana; un mascherone, dica quel che vuole, impresentabile! Non è per vanità, creda... ma perbacco, non è possibile, via! Forse ella vorrà vedermi a ogni costo... non lo so... o manderà qualcuno, se io farò dire di essere ammalato... Almeno avessi taciuto l'indicazione dell'albergo a cui sono alloggiato!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Ma Lei è stato di una precisione spaventevole! Non ha nascosto nulla! Neanche il nome dell'albergo! Mentre con le donne, veda, quel che vale più di tutto è il mistero... la curiosità...</p>
+               </div>
+               <div type="div3">
+                  <head>Scena sesta</head>
+                  <p rend="center smallcaps">IL CAMERIERE</p>
+                  <p rend="end">a LUCIO</p>
+                  <p>Signore!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Oh Dio! Che c'è?</p>
+                  <p rend="center smallcaps">IL CAMERIERE</p>
+                  <p>Una graziosa signorina, che dice di essere la istitutrice di casa Forster, è qui con un'altra pure graziosa signorina e chiede di Lei.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">piano</p>
+                  <p>Sono tutte graziose.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Oh Dio! Le avete detto che sono qui?</p>
+                  <p rend="center smallcaps">IL CAMERIERE</p>
+                  <p>Sì.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>E le avete detto che...</p>
+                  <p rend="end">indica la sua faccia gonfia</p>
+                  <p rend="center smallcaps">IL CAMERIERE</p>
+                  <p>No!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Bene! Zitto!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Andiamo, via! Si dimostri un uomo di spirito!</p>
+                  <p rend="justify">Al CAMERIERE con voce risoluta</p>
+                  <p>Faccia venire la graziosa istitutrice.</p>
+                  <p rend="center smallcaps">IL CAMERIERE</p>
+                  <p>Sùbito.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">alzandosi di scatto</p>
+                  <p>No!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma che importa?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Vorrei veder Lei al mio posto!</p>
+               </div>
+               <div type="div3">
+                  <head>Scena settima</head>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Il signor Lucio Arsìcola?</p>
+                  <p>Lucio fa vivi cenni per indicare LUCIANO.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p rend="end">a LUCIANO</p>
+                  <p>Lei?</p>
+                  <p>LUCIANO si stringe nelle spalle.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>C'è qui la signorina Nora Forster.</p>
+                  <p>LUCIO indica sempre l'altro vivamente.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma benissimo! La faccia venire!</p>
+                  <p>ANNA esce tutta lieta e sorridente dopo aver accennato di sì col capo.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">con voce concitata</p>
+                  <p>Le vada incontro! Guadagni tempo! Cerchi un pretesto! Non la faccia entrare!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Eh! Si fa presto! Eccola là che viene!</p>
+                  <p rend="justify">Si vede la figura di NORA al di là della vetrata, che si avvicina</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">sempre assai concitato</p>
+                  <p>Assolutamente no, oggi!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma allora bisogna ostruire l'ingresso!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ma sì! Ostruisca!</p>
+                  <p>LUCIANO si guarda intorno, prende il paravento e lo colloca dinanzi alla porta.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena ottava</head>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p rend="end">dietro il paravento</p>
+                  <p>Eccomi qui! E che fate? Vi barricate dentro? Dov'è questo fidanzato?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Un momento! Non entri!</p>
+                  <p rend="end">Chiede all'altro col gesto</p>
+                  <p>Che devo fare?</p>
+                  <p rend="center smallcaps">LA VOCE Di NORA</p>
+                  <p>Perché?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perché... perché... Un po' per volta! Un pezzetto per volta...</p>
+                  <p rend="justify">Fa grandi segni di disapprovazione a Lucio</p>
+                  <p>Ho paura di una impressione troppo forte!</p>
+                  <p>LA VOCE DI NORA</p>
+                  <p>Ah sì? Infatti, sento che la vostra voce è molto turbata!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah sì? Andiamo, via... Una mano! Un braccio! Su!</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p>Ecco la mano...</p>
+                  <p rend="end">Ride</p>
+                  <p>Ed ecco il braccio...</p>
+                  <p rend="justify">si vede un delizioso braccio nudo spuntare al di sopra del paravento</p>
+                  <p>Va bene così?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Delizioso! Vi giuro che se tutto il resto corrisponde al campione...</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p rend="end">ridendo</p>
+                  <p>Che farete?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Vi adorerò!</p>
+                  <p rend="justify">Le bacia la mano sollevandosi sulle punte dei piedi, mentre séguita a fare grandi segni a quell'altro</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p rend="end">sempre gaia</p>
+                  <p>Ah! Ah! Adesso posso entrare?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>No!... Vengo io!</p>
+                  <p rend="justify">Altro gesto che vuol dire: «ma insomma?»</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p>Andiamo, allora!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Eccomi... eccomi...</p>
+                  <p>Dopo un ultimo inutile gesto a LUCIO che dal canto suo lo incita a uscire e coi segni gli dice: «Va tu per il momento e poi si vedrà!» gira dall'altra parte sempre tenendo la mano di lei al disopra del paravento. Si ode un'esclamazione di stupore di lui a cui risponde la gaia risata di lei.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena nona</head>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p>Ebbene?</p>
+                  <p rend="center smallcaps">LA VOCE DI LUCIANO</p>
+                  <p>Ebbene, i miei complimenti!</p>
+                  <p rend="end">Ella ride ancora allegramente</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p>Presto! Andiamo subito a casa! Mio padre ci aspetta!</p>
+                  <p rend="center smallcaps">LA VOCE DI LUCIANO</p>
+                  <p rend="end">subito mutata</p>
+                  <p>Ma come a casa?... Ma come subito a casa?</p>
+                  <p rend="justify">si affaccia sulla porta col pretesto di cercare qualche cosa per far capire a LUCIO che cosa succede e ripete ancora facendogli grandi segni</p>
+                  <p>Ma come a casa?... Ma come subito a casa?</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p>Certo! Non s'era combinato così? Ma che cercate?</p>
+                  <p rend="center smallcaps">LA VOCE Di LUCIANO</p>
+                  <p>Cerco... il cappello!</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p>Ma se l'avete in mano!...</p>
+                  <p rend="center smallcaps">LA VOCE DI LUCIANO</p>
+                  <p>Ah! Già!</p>
+                  <p rend="end">Di nuovo via</p>
+                  <p rend="center smallcaps">LA VOCE DI NORA</p>
+                  <p rend="end">dietro il paravento</p>
+                  <p>Dite dunque! Eh? Trovate che il resto risponde al campione?</p>
+                  <p rend="center smallcaps">LA VOCE DI LUCIANO</p>
+                  <p rend="end">galante</p>
+                  <p>Ma io vi giuro che lo supera!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah sì?</p>
+                  <p rend="end">Ride</p>
+                  <p>Andiamo!</p>
+                  <p rend="end">Le voci gaie si allontanano</p>
+                  <p>LUCIO rimane trasognato, immobile dietro il paravento oltre il quale sente le voci gaie indugiare e a poco a poco allontanarsi. Allora egli cade a sedere di colpo sulla sedia e rimane immobile.</p>
+                  <p rend="center bold">Sipario</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto secondo</head>
+               <p>Giardino in casa Forster. In fondo il cancello che dà sulla via maestra. Sul davanti una specie di salotto estivo coronato di verde. In mezzo un tavolino di pietra rotondo con un sedile vicino. Una grande lampada veneziana attaccata a un albero.</p>
+               <div type="div3">
+                  <head>Scena prima</head>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="justify">figura di vecchio militare in pensione. Berretto ricamato, giacca da casa con alamari neri</p>
+                  <p>Dunque, com'è questo tale?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Ah, simpatico! Simpatico!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Simpatico! Si fa presto a dire! Come avete fatto a giudicarlo simpatico?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>È burlone! È divertente!... Io poi sono stata insieme con loro pochi minuti e me ne sono tornata in carrozza perché la signorina ha preferito fare la strada a piedi. Ma saranno qui a momenti.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Già. Intanto forse avreste fatto bene ad accompagnarli.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Colonnello! Evidentemente avevano qualche cosa da dirsi... Perché vuol fare l'uomo burbero Lei che non lo è affatto?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Appunto, sono turbato dal rimorso di essere stato troppo condiscendente. Intanto questo signore poteva venire con le sue gambe qui, e mia figlia aspettarlo in casa.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>La signorina Nora ha pensato che avrebbe giudicato il suo... pretendente alla prima occhiata... Condurlo in casa avrebbe già avuto il valore di una specie di accettazione.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma devo vederlo anch'io! Sì o no? Avete detto che è allegro... burlone...</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Sì!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Strano! A giudicarlo dalle lettere sentimentali pareva che dovesse essere meno...</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Disinvolto...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Io odio gli uomini disinvolti. Tutti così questi letterati. Nei libri sono pieni di belle massime. Nella vita sono dei libertini.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Via, Colonnello!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Eh già! Come se non si sapesse che lascio fare a mia figlia quello che le pare e piace.</p>
+                  <p>Suono di campanello.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Eccoli!</p>
+                  <p>Via. NORA e LUCIANO appaiono infatti dietro il cancello.</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p rend="justify">corre ad aprire, poi torna indietro rapidamente verso il COLONNELLO e dice</p>
+                  <p>Signor Colonnello, che uomo simpatico!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">alzandosi</p>
+                  <p>Ora che l'ha detto lei, si può esser certi!</p>
+                  <p>LA CAMERIERA rimane un po' in disparte al principio della scena seguente e poi via.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena seconda</head>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Papà! Papà! Ecco l'uomo misterioso e fatale! Te lo presento. Questo è il terribile colonnello di cui vi ho parlato nelle mie lettere. Oh! Adesso che avete chiacchierato con me un'ora e mi avete osservata da tutte le parti, dite forte a papà, e alla mia presenza, l'impressione che vi ho fatta e come vi sono apparsa!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Squisita!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>E così, ora, senza cappello?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ancora meglio!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ancora meglio?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ancora meglio... se si può dire!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Vi siete formata un'idea di che cosa sia una signorina di città?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perfettamente.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Tutto quello che vedete in me è vero sapete? È genuino, niente di artefatto.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Si capisce subito.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Un po' di nero qui. Ma appena appena. Papà non vuole.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">accennando alle labbra di lei</p>
+                  <p>E un po' di rosso qui.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma appena appena.</p>
+                  <p rend="center smallcaps">LUCIANOe NORA</p>
+                  <p>Papà non vuole!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Però a me piacciono... sì, a me piacciono le palpebre con un po' di scuro, anche se sono già scure... e le labbra con un po' di rosso, anche se sono già rosse...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">al padre</p>
+                  <p>Ah! Vedi? Però... la provincia!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Già!...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Di voi sapevamo ch'eravate un bell'uomo...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">stupito</p>
+                  <p>Chi ve l'ha detto?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Il farmacista del vostro paese.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">stizzito contro il farmacista</p>
+                  <p>Dio! Quel farmacista!</p>
+                  <p>NORA</p>
+                  <p>Ma ha esagerato!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma sì! Quello non capisce niente!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Però ha detto tanto bene di voi!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non capisce niente lo stesso!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Io v'immaginavo più alto di statura.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Spero che il farmacista non vi avrà mandato anche le misure!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>No, ma del resto voi stesso avete scritto che eravate simpatico.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">stizzito contro di sé</p>
+                  <p>Dio mio! Che cosa sono andato a scrivere!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Vuol dire che, nonostante le informazioni ricevute da gente del vostro paese, la conoscenza che abbiamo fatta oggi la approfondiremo in seguito. Intanto, pranzerete con noi...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>No. Non posso.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">contrariata</p>
+                  <p>Perché?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sono atteso all'albergo.</p>
+                  <p rend="center smallcaps">NORAe IL COLONNELLO</p>
+                  <p rend="end">meravigliati</p>
+                  <p>Siete atteso?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì. Qualcuno all'albergo mi aspetta.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Non avreste dovuto impegnavi!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Vi domando scusa... ma un incontro impreveduto con una persona che, del resto, non avrei potuto vedere più tardi... perché si tratta di una cosa molto seccante...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Bene, sarà per domani. Verrete a colazione domani.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Spero che non avrete un altro impegno.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>No...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Allora, rimane stabilito per domani?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Grazie.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">indicando la figlia</p>
+                  <p>Guardate che non è senza difetti. Il suo candore è così paradossale che confina con la sfacciataggine.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Papà, tu esageri! Queste sono le solite cose che un padre dice quando ha una figlia stupida. Allora egli dice che è candida. Mentre io non sono stupida. Tanto è vero che mi piacciono gli uomini brutti, gli uomini che hanno della fantasia, dell'ardimento, gli uomini ironisti, pungenti, beffardi...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah sì?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Uomini che posseggono quei segni d'intelligenza che sono la bellezza dei brutti come voi!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Finirete per confondermi.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Chi sa quante donne ve lo avranno detto!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Moltissime! Quando una donna vuol essere gentile con un uomo brutto come me, esclama: «Ah! Io non posso sopportare gli uomini belli!». Non è mica vero! Li sopporta benissimo! Ma bisogna tener conto dell'intenzione gentile.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">un po' rannuvolata</p>
+                  <p>Ah! Non interroghiamo per carità il vostro passato.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>È già da qualche settimana, signorina, ch'io ho rinunziato ad averne.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">ride</p>
+                  <p>Che cosa ne avete fatto?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Che cosa ne ho fatto? Anche quello l'ho regalato a un amico!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sicuro. Ho incontrato questo amico tutto stremenzito per la sua virtù che non gli faceva fare un passo avanti e gli ho detto: «Che cosa fai tu senza almeno un passato?». E gli ho dato il mio. Adesso s'è già fatta una cattiva reputazione con la quale avrà molto successo.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">ride</p>
+                  <p>Ah ah! Mi piace di conoscervi così mattacchione.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Grazie. Questo non è niente.</p>
+                  <p rend="end">Quasi tra sé</p>
+                  <p>Quello che verrà dopo!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Almeno ci terrà allegri. È strano. Il vostro farmacista...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">fuori di sé</p>
+                  <p>Se facessimo a meno di parlare del farmacista? Io non ho mai capito perché esiste un farmacista... Il mio, poi, sta per avvelenare il paese con la sua mania di scrivere... Se, invece, badasse ai fatti suoi, eh? Tutte le specialità che gli mancano! E l'ipecacuana? Se sapeste che da parecchi mesi è sfornito d'ipecacuana!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Beh! Non vi adirate adesso per causa sua. Mandiamolo pure al diavolo.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">soddisfatto</p>
+                  <p>Oh!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma sì! Lasciate stare! Ascolta papà...</p>
+                  <p rend="end">Poi a LUCIANO</p>
+                  <p>Permettete che dica una cosa a papà, in segreto? È il piano di una congiura contro di voi.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Di già?</p>
+                  <p rend="end">Fra sé</p>
+                  <p>È molto, molto carina!</p>
+                  <p>NORA</p>
+                  <p>Non vi spaventate!</p>
+                  <p rend="justify">Indi prendendo il padre in disparte</p>
+                  <p>Senti, papà... Non sarà un pretesto la faccenda di quella persona che aspetta per una cosa molto grave?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Mah! Che vuoi che ne sappia io?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Non avrà, piuttosto, un appuntamento con un'amante?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>E lo domandi a me?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma dimmelo tu che hai pratica!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ohé, ragazza!</p>
+                  <p>NORA</p>
+                  <p>Allora dimmi un'altra cosa. Starai con noi tutta quest'ora? Non ci lascerai neppure un momento soli?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma lo sai che sei un bel tipo? Lascia che ci pensi io! Lascia a me la cura di essere discreto!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>No... perché ci sei tu, domando io: come può cominciare lui, poveretto, a farmi la corte?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">tentennando il capo</p>
+                  <p>Va', va' biricchina! E mostragli, se vuoi, le quattro coppie di rondini...</p>
+                  <p rend="justify">accennando alle grondaie della casa che si suppone a destra</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">battendo le mani</p>
+                  <p>Sicuro!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Temo...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che cosa?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Temo forte che tra quelle coppie di rondini si sia insidiato un barbagianni.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che vuol dire?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>È necessario che vi parli.</p>
+                  <p rend="justify">È pensieroso, accigliato. Poi fa un gesto come per dire: «no!» e torna sorridente</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="justify">gli sorride dolcemente, in silenzio, poi si avvicina al padre e gli dice a capo chino volgendogli il dorso</p>
+                  <p>Sai, infine non saresti proprio obbligato.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">allegramente</p>
+                  <p>Grazie.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Però... addio!</p>
+                  <p rend="justify">Lo lascia per andare verso LUCIANO</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">tentennando il capo</p>
+                  <p>Salgo su a sbrigare un po' di corrispondenza. A fra poco, ragazzi.</p>
+                  <p rend="end">Via</p>
+               </div>
+               <div type="div3">
+                  <head>Scena terza</head>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">dopo una pausa</p>
+                  <p>Sono molto imbarazzata.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">sorridendo</p>
+                  <p>Perché mai?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sono molto imbarazzata per questo fatto. Ecco... Io mi ero figurata, dopo avervi scritto, dopo avervi conosciuto per lettera... già da un anno... mi ero figurata di vedere oggi un vecchio amico, quasi... Che bel discorso, non è vero? Ora cercherò di spiegarmi meglio. Io pensavo che questo nostro incontro sarebbe stato come quello di due amici che si rivedono dopo una lunga assenza... E invece, nulla di tutto ciò. Sento che, se qualche cosa ci sarà, comincerà da oggi...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">soddisfattissimo</p>
+                  <p>Oh!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Il nostro epistolario non è servito a niente.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">c. s.</p>
+                  <p>Oh!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che c'è?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>C'è che questo che mi dite è molto bello.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Capisco. Voi volete essere amato per voi, per il vostro spirito, per la vostra intelligenza, per la vostra galanteria... senza l'aiuto sentimentale che aveva preparato questo incontro: ossia il nostro quasi innamoramento a distanza.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perfettamente.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ci tenete a essere giudicato... di persona.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ecco.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sento che siete orgoglioso.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sento che mi piacete molto.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah sì? Ditemi! Ditemi questa cosa!</p>
+                  <p rend="end">È raggiante</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E voi confessate che questa cosa vi sta a cuore!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Tanto! Tanto! La gioia di piacervi mi è nuova. Non era in me nell'attesa di voi. È nata adesso.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E me la offrite con tale grazia improvvisa che vi sta a meraviglia. È veramente una primizia squisita!...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>... che voi vi affrettate a cogliere!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì, perché rinasca!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">gli sorride</p>
+                  <p>Siete molto simpatico!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">le sorride</p>
+                  <p>Siete molto carina!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">dopo una pausa</p>
+                  <p>Che impressione provate a stare in questo giardino?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">confuso</p>
+                  <p>Mi sembra molto fresco...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Intendo dire che, per le descrizioni che ve ne ho fatto, voi mi vedevate qui camminare...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">c.s.</p>
+                  <p>Sì, vi vedevo molto camminare.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Anche voi avete un orto, mi avete scritto, accanto alla chiesa. E questo orto...</p>
+                  <p rend="justify">guarda LUCIANO come per invitarlo a parlare dell'orto</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Questo orto... sì, questo orto... ha proprio l'aria di un sereno e placido domestico di buona famiglia che fa la pulizia al paese: e lo odora, lo imbalsama, gli dà un'aria casalinga, e quasi gli insegna i buoni costumi, perchè nulla è più saggio di un buon orto vicino alla chiesa. Ma il buon orto ignora, come tutti gli orti di provincia, naturalmente, che ci sono dei giardini in città, anzi ce n'è uno specialmente, dove una fanciulla mi ha dato tale visione di gioia e di grazia che io ne sono stranamente commosso.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Oh sì! Io ho pensato che vorrò essere nella vita la vostra piccola grazia! Sarò discreta e dolce e non vi annoierò col cattivo umore... Già, non ne ho di cattivo umore... Mi sento troppo beata di stare al mondo, mentre tutti si lagnano...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>È incredibile.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Davvero, è incredibile come la gente non faccia che lagnarsi... Ma sapete il sistema che ho adottato? Quando mi accorgo che una persona è infelice non entra più da quel cancello. Così, qui dentro abbiamo tutti l'aria sorridente.</p>
+                  <p rend="end">breve pausa</p>
+                  <p>Però io sono, ora che ci penso, molto in collera con voi!...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perché?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Perché non si va a trovare la fidanzata con l'incubo di un amico che aspetta all'albergo.</p>
+                  <p>LUCIANO fa un gesto per dire: «Va alla malora!».</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Vogliono un appuntamento? Lo si concede per l'anno prossimo.</p>
+                  <p>LUCIANO ripete il gesto.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Infine, voi non siete felice, con tutta la vostra faccia allegra... Non negate. Io ho un istinto che mi fa capire tutto. Forse vi aspettavate di meglio. Avrei dovuto mettermi un altro vestito!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>No, che state benissimo! Sono io che mi sento per la prima volta nella vita molto scombussolato.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">battendo le mani</p>
+                  <p>Ne ho piacere.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">con improvvisa malinconia</p>
+                  <p>Sì, molto scombussolato! E come vi trovo lontana!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma perché?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non lo so... o meglio lo so, mentre con tutta la mia anima mi sento attratto verso di voi.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Mi vorrete bene? Dite!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Nora... piccola grazia, avete ragione... In questo giardino, in questa casa, voi avete imprigionata la gioia! Avete descritto un circolo breve, e dentro è l'incanto!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Lo dite con una voce che suona così vivo rammarico!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì! Perché c'è un guaio: cominciate a imprigionare anche me!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Non crediate poi che io sia sempre così bambina! So essere anche molto grave, quando voglio... Spesso sento di essere molto donna.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E che donna! La vostra gaiezza è così deliziosamente femminile!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>È strano però come la mia gaiezza abbia un'influenza disastrosa su di voi! Dianzi eravate così burlone! Ora mi parete turbato!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>La colpa è mia di avervi immaginata diversa!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che concetto vi eravate formato di me?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Che voi foste semplicemente una bella signorina qualunque.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>E invece?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E invece siete qualche cosa che non avevo mai incontrato prima di passare quel cancello.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Non vi fidate! Vediamo un po'... Una signorina che scrive all'autore di un romanzo senza conoscerlo...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Lasciamo stare l'autore!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che vuol dire? Rinunziate a «Nozze in provincia»?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma che nozze! Quali nozze?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>«Nozze in provincia»! Il vostro libro!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">riprendendosi</p>
+                  <p>Ah! Chi pensava più al mio libro! Ecco, intendiamoci bene. L'uomo che vedete dinanzi a voi non ha scritto nessun libro.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma come?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Intendo dire che io non mi prendo la responsabilità di me stesso per quello che ero secondo voi prima di aver varcato quella soglia. Io voglio essere per voi l'uomo che vi parla in questo momento... l'uomo per cui non è affatto indispensabile aver scritto libri... Insomma, l'uomo che si giudica per quel contatto diretto tra due corpi e due spiriti! Se mi prendete per quello che voi credevate ch'io fossi, non andiamo d'accordo. Oh! Intanto vi avverto che questo è un tradimento!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che tradimento?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì. Un uomo viene a conoscere la propria fidanzata... e la immagina sì, carina, secondo il ritratto. Ma ci sono dei limiti! Voi siete troppo carina! Voi avete esagerato. Non è permesso esagerare così. Ma questo non basta. Si può essere esageratamente carine senza sconvolgere un disgraziato. Invece no; voi mi state sconvolgendo. Voi fate di me un povero diavolo, uno dei tanti poveri diavoli a cui la vita pareva che avesse insegnato tante cose e che a un certo punto si accorgono di non aver imparato niente. Io ho tanto camminato, cara signorina, e – a giudicare dal cammino – ho piuttosto l'aria di aver vissuto mille anni...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Oh!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Aggiungo che in questi mille anni ho radunato tale arsenale di certezze ciniche da potermele metter sotto il braccio e andarmene soddisfatto a vagabondare per il mondo.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ebbene?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ebbene, a un certo punto sono entrato in un giardino e addio arsenale, addio certezze, addio vagabondaggio.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Rimpiangete?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Oh! Se avessi la forza di rimpiangere avrei anche quella di salvarmi! Ma ho paura...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Vi dirò invece una cosa che vi farà molto piacere.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">quasi gridando</p>
+                  <p>No! No! Troppe me ne dite, e tra poco io sono rovinato.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Volevo dirvi questo: da lontano, io vi immaginavo così...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah sì?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Voi siete né più né meno che l'uomo che aspettavo. Non soltanto spiritualmente, ma direi quasi fisicamente siete l'uomo che mi scriveva quelle tali parole e pensava a me dal suo dolce paese.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! L'intuito delle donne! Eppure, per un certo altro verso non potete credere come quello che mi avete detto mi faccia piacere! Sicché, se dopo lo scambio delle nostre lettere voi aveste dovuto riconoscere il vostro fidanzato in mezzo a una folla, alla prima occhiata avreste detto...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ecco l'uomo!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Grazie!</p>
+                  <p rend="justify">Le prende la mano in fretta e glie la bacia</p>
+                  <p>La verità si fa sempre strada!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Voi mi turbate. C'è qualcosa di enigmatico in voi. Dovete forse aver molto sofferto.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non ho mai sofferto!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Mai? Mi spaventate! Avete fatto del bene? O del male?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non lo so. Da troppo tempo cara signorina, l'umanità è da consolare! Che cosa può fare un uomo solo?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma voi! Voi?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io, signorina, ho raccolto tanto destino! E sono sempre da liberare.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">candidamente</p>
+                  <p>Ebbene sarò io la liberatrice. Vi darò tutte le gioie. Sarò vostra per tutta la vita. Nel mio circolo breve, come voi dite, farò un bell'incanto per uccidere la vostra tristezza.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">tra sé</p>
+                  <p>Adesso è venuto il momento di mandare un moccolo affettuoso al signor Arsìcola e ai suoi orecchioni.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>A che pensate?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Penso a un piccolo uomo che è legittimo proprietario di una casa che io sono andato a svaligiare. Non è la prima. Ma è quella che m'imprigiona.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Uh!</p>
+                  <p rend="end">Ride</p>
+                  <p>Fate anche il ladro?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma se non ho fatto altro mestiere nella mia vita!</p>
+                  <p>NORA ride.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Povera creatura, se poteste immaginare quanta verità e quanto bisogno disperato di confessione è in quello che dico, avreste paura di me.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che vuol dire?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perdonate. Vi spiegherò dopo. Voi dicevate, eh, che avreste vinta la mia tristezza.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sì.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma c'è una cosa ancora più vecchia, c'è anzi una cosa decrepita... ed è la mia povera anima che è tutta da liberare.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Io sono una piccola creatura ignorante, ma non credo che la vostra anima sia decrepita. Credo che qualche cosa si è sovrapposto a quella che sarebbe semplice, che sarebbe bambina se potesse tornare a galla...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">con stupore</p>
+                  <p>Come potete dire questo voi?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">semplicemente</p>
+                  <p>Così. Indovino. Mi piacete molto. Vi voglio già bene.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E che cosa indovinate?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che bisogna prendervi per mano e condurvi un po': sia perché vi sentite troppo vecchio, sia perché vogliate essere fanciullo.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">obliandosi</p>
+                  <p>Sentiamo... Che cosa mi offrite voi?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah! Io non prometto nulla... Sono tante le forze, tanti i richiami di vita ch'io sento alitare in me tutti i giorni! Qualche volta sento che la mia giovinezza è come esaltata da mille soffi... Perciò penso che offrendovi la mia giovinezza, senza promettervi nulla, debba darvi tante cose: forse tutte.... forse quelle che sanano, quelle che confortano, quelle che dànno un grande riposo, quelle che dànno una grande fede... Chi sa poi quale valga più di tutte... Forse nulla vale niente... Ma c'è il mio sorriso... Vi parrà una cosa curiosa, ma io sento dentro di me il sorriso che pare mi irradii... In fondo io credo che sia tutta la mia virtù... Piccola, è vero? E indegna di esservi offerta, è vero? Mi sento così piccola dinanzi a voi!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Mi pare venuto il secondo momento di mandare un più affettuoso moccolo al signor Arsìcola e ai suoi orecchioni... Permettete signorina che io dica qualche cosa di molto personale a quella pianta...</p>
+                  <p rend="justify">Si avvicina e parla alla pianta che ha di fronte</p>
+                  <p>Guarda che io capisco perfettamente quello che vuoi dirmi con la tua faccia che sempre si gonfia di solennità! Tu mi dici: «Piglia la tua parte giacché credevi di mistificare la vita per ottenere una doppia porzione di gioia: ed ecco che la vita t'imprigiona in una delle sue tombe. Ben ti sta!».</p>
+                  <p rend="justify">Ribattendo con beffarda violenza le ragioni della pianta</p>
+                  <p>Ah! Ah! Ma non è così! Perché se ho preso in prestito il tuo nome, io ti ho prestata la mia faccia... Ah! Ah! Meglio ancora o peggio ancora: la mia anima e il mio cervello! Oh! Siamo intesi!</p>
+                  <p rend="end">Tornando presso NORA</p>
+                  <p>Nei momenti critici, signorina, io parlo con le piante. È un vizio che ho preso da ragazzo.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma che vuol dire?</p>
+                  <p>LA CAMERIERA dalla destra attraversa il giardino verso il cancello a sinistra.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Vuol dire questo, signorina. Sedete qui: in questo momento la mia tenerezza per voi è così grande e la pietà verso di me è tale ch'io mi sento il coraggio di rimanere qui ancora cinque minuti...</p>
+                  <p>NORA</p>
+                  <p>Ma non vi tormentate così! Non vi capisco! Parlate come un disperato e avete l'aria di scherzare!</p>
+               </div>
+               <div type="div3">
+                  <head>Scena quarta</head>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>Permette, signorina? C'è di là un signore che cerca...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Di me?</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>No: del signore!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Di me? Impossibile!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma perchè non l'avete fatto entrare?</p>
+                  <p>LA CAMERIERA</p>
+                  <p>Non ha voluto, e ha dichiarato, anzi, e mi ha incaricato di dirlo, che non verrà a nessun costo. Soltanto vuole che il signore sappia ch'egli è di là e che rimane là.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>È molto strano.</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>Dice che è suo cugino.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">stupita</p>
+                  <p>Avete un cugino?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Impossibile. Non ho mai avuto cugini in vita mia.</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>Ha poi aggiunto: caso mai non riuscisse a capire chi io sia, ditegli che ho la testa fasciata, e allora capirà subito.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! È straordinario!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Dunque? È o non è vostro cugino?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">debolmente</p>
+                  <p>Ma... sì!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>E allora come va che dicevate che in vita vostra non avevate mai avuto cugini?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">confuso</p>
+                  <p>Ah! Ma non mi avevate detto che aveva la testa fasciata!...</p>
+                  <p rend="end">Affannandosi</p>
+                  <p>Ah! Voi non sapete che uomo straordinario è quello là!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Vostro cugino?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">trasognato</p>
+                  <p>Mio cugino?</p>
+                  <p rend="end">Riprendendosi</p>
+                  <p>Ah sì!</p>
+                  <p rend="end">Indi alla CAMERIERA</p>
+                  <p>Vi ha detto che a nessun costo verrebbe a cercarmi qui?</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>Sì, signore.</p>
+                  <p>LUCIANO fa un gesto come per dire: «Ah, va bene».</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Puoi andare.</p>
+                  <p>LA CAMERIERA via.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">con solennità burlesca</p>
+                  <p>C'è un individuo fasciato per ogni uomo.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sentite, caro amico, voi siete molto simpatico. Ma troppo difficile a capire.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">la guarda. Una pausa</p>
+                  <p>Mi spiego.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Oh!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>La vita ha tante vicende, non è vero? Gli uomini camminano a caso e si incontrano con le vicende.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Benissimo.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Allora avviene che un uomo, passeggiando per caso e incappando con una vicenda, ne diventa il padrone. Ne diventa cioé il suo legittimo possessore materiale. È qui l'errore. Direi il delitto. Direi l'usurpazione. Il più delle volte quell'uomo è stonato, è disadatto. È il proprietario di quella casa perchè ci è entrato per il primo, ma viceversa quella casa è mia perché io soltanto la so abitare e metterla in valore. Allora succede che chi possiede per isbaglio è l'incubo, chi dovrebbe possedere per elezione è il succubo. Ma chi è ladro? Chi rubò prima o chi ruberebbe dopo?... Quell'uomo che aspetta lì fuori è il mio incubo. Nel mio caso è un individuo fasciato perché ha un male passeggero, ma è quasi sempre fasciato di qualche cosa: di perplessità, di cattivo gusto, di pusillanimità, d'ignoranza, d'inaderenza... perché bisogna avere l'aderenza della propria epidermide alle cose e alle persone che si posseggono, altrimenti si è estranei!... Ecco perché vi dico che c'è un individuo fasciato per ogni uomo.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Per mostrarvi di essere intelligente fingerò di aver capito.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non avete capito niente?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>No.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Me l'aspettavo.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Quell'uomo lì fuori è il vostro incubo?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Sì.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Lo voglio vedere.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">gridando</p>
+                  <p>No!</p>
+                  <p rend="end">Con altra voce</p>
+                  <p>Eh no! Sarebbe il colmo!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Perché?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Perché io e lui siamo antitetici. Lui esiste in quanto io sono assente. E io esisto in quanto è assente lui. Tutti e due insieme formeremmo, dinanzi a voi, una mostruosità.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Voglio conoscerla questa mostruosità, dal momento che io comincio a essere diffidente contro di voi!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Impossibile. Non c'è forza al mondo che potrà indurre quell'uomo a entrare qui!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Andrò io da lui!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Inutile. Se vi vede, allunga il passo e se ne va. Non vi metterete mica a rincorrere un uomo fasciato lungo la via!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">con solennità</p>
+                  <p>Ma se volete, io qui faccio la sua parte!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Eh?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>E così sarete accontentata. È come se voi parlaste con lui personalmente.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah sì? Ma chi mi assicura...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Che io non falserò le sue parole?</p>
+                  <p rend="end">Con voce mutata, commossa</p>
+                  <p>La mia commozione dinanzi a voi in questo momento. Si poteva giocare con voi credendo di dover conoscere una signorina qualunque con cui il mio istinto nomade poteva rinnovare il solito genere di avventura... Ma io ho dinanzi a me l'unica creatura che avrei dovuto rispettare nella vita... E vi giuro che se potessi liberarmi per un momento da questa maschera burlesca, io piangerei... e se non piango è perché divento buffo, ed è poi una cosa che mi fa dispiacere.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">guardandolo</p>
+                  <p>Ed allora?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">con altra voce, dominando la scena</p>
+                  <p>Ed allora eccoci qui tutti e tre! Sono troppo fiero per patrocinare la mia causa giovandomi dell'assenza dell'accusatore. Eccolo là. Egli è là! E se io accuso per lui vi assicuro che lo faccio senza indulgenza. Ora supponiamo che sia accaduto questo. La vostra cameriera l'ha chiamato a nome vostro ed egli si è deciso a entrare. Per prima cosa egli si mette le mani al capo e dice: «Perdonate signorina se mi presento in questo stato»... – Ah! Non importa – dite voi col vostro bel sorriso interrogativo, e intanto gli chiedete: – Ma... con chi ho il piacere di parlare?... Lui apre tanto di occhi e mi guarda... – Ma come? Voi non le avete detto... – No. Io non le ho detto. – Siete venuto per vostro conto? – Sì, sono venuto per mio conto. E si volgerà a voi balbettando: – Ma allora la signorina non sa...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">assai turbata</p>
+                  <p>Ma insomma! Che devo sapere?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">riprendendo con lo stesso tono</p>
+                  <p>Ecco: voi dite «Ma insomma, che devo sapere?». E allora io vi presento il vostro fidanzato. Il signor Lucio Arsìcola è là!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">con terrore</p>
+                  <p>Là? Il mio fidanzato?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>L'individuo fasciato è là! Il quale ha ragione di dire a me: «Voi siete un vigliacco, signore! Come? Voi accompagnate, sebbene riluttante, questa signorina a casa, questa signorina che è quasi la mia fidanzata, perché io ho avuto il pudore o la debolezza o la civetteria di non comparirle davanti con la mia faccia gonfia... E invece di metterla al corrente della situazione voi prendete il mio posto, vi insediate nella casa che non vi appartiene, e avete anche l'aria di starci egregiamente!»...</p>
+                  <p rend="end">Cambiando posto</p>
+                  <p>Sì. È vero! È verissimo! Lo confesso!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Se lo confesso! Se vi dico che lo confesso!</p>
+                  <p rend="justify">Gravemente, con accorata passione</p>
+                  <p>Per quanto avessi da principio tutta la buona volontà di spiegare ogni cosa alla signorina, mi sono lasciato vincere dalla tentazione di andare per mio conto coi miei passi verso una sconosciuta per saccheggiarla della sua innocenza, della sua grazia, della sua ardente femminilità, e di quel delirante mistero che è il segreto di una donna: il quale consiste nel donarsi, già nelle parole che pronunzia, a quel magnifico e spudorato nemico che è l'uomo che la seduce... – Mah! – voi dite giustamente indignata...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">con dolore e con severità</p>
+                  <p>E di me? Di me che son servita...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Un momento! Se lo sto dicendo io! Voi dite giustamente indignata: di me che son servita a questo vostro gioco, chi terrà conto, e chi farà vendetta?</p>
+                  <p rend="end">Con grande impeto</p>
+                  <p>Io, signorina! Perché voi rimarrete con la vostra indignazione contro di me, poi verrà il vostro fidanzato, tutto si accomoderà fra voi due, anzi vi metterete d'accordo per caricarmi d'ingiurie... Giustissimo! Ma io? Io esco dalla vostra casa disperato...</p>
+                  <p rend="end">NORA sorride amaramente</p>
+                  <p>Ridete, ridete pure di questa buffoneria!</p>
+                  <p rend="justify">Esaltandosi come preso da follia</p>
+                  <p>La felicità di avervi ghermita, di aver tenuta per me durante un'ora la più bella preda che possa dannare un uomo, questa gioia di aver trovata e seppellita la mia felicità nella stessa ora – sappiatelo voi che siete la creatura che io avrei adorata e che sarete la creatura del mio tormento – io la sconto così: riprendendo a braccetto il mio incubo e andando alla malora! E adesso venga pure Lucio Arsìcola! Signorina. vi presento il vostro fidanzato. Io sono la sua disperazione, il suo rischio, il suo salto nel cielo. Addio, signorina!</p>
+                  <p rend="justify">Fugge verso il cancello e scompare</p>
+                  <p>NORA terrorizzata rimane senza fiato nel mezzo della scena.</p>
+                  <p rend="center bold">Sipario</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto terzo</head>
+               <p>Salotto di casa Forster. In fondo una porta (la comune). A destra si apre una finestra che dà sul giardino. Un'altra porta, a sinistra, comunica con l'appartamento occupato dal COLONNELLO e da sua figlia.</p>
+               <div type="div3">
+                  <head>Scena prima</head>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Insomma io voglio vedere questa gente.</p>
+                  <p>Pausa</p>
+                  <p>La quale penserà che esiste un padre di questa signorina. E il padre non si muove, non appare, non fiata. Bella figura che ci faccio.</p>
+                  <p>NORA</p>
+                  <p>Caro papà, tu hai ragione ma non è il caso. Infatti, se tu dovessi intervenire, il meno che potresti fare è di insultare, ammazzare, querelare, trucidare...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ah! Dunque lo ammetti!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Altro che lo ammetto! Ma qui è il guaio! Tutto si potrebbe risolvere a tuo modo se in questo complicato affare la tua Nora... capisci? Parlo della tua piccola Nora...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">con mal dissimulata tenerezza</p>
+                  <p>Sì, sì, lo so che parli della piccola Nora. Tu diventi piccola quando vuoi.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>... se – dicevo – la tua piccola Nora non ci avesse rimesso qualche cosa del suo... o stesse per rimetterci... o sentisse vagamente che qualche cosa potrà rimanere impegnata della sua esistenza... della sua vita... della sua anima...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Uh! Uh! Che parole! Che parole grosse! Oh là là!... La vita, l'esistenza, l'anima...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sempre si parla...</p>
+                  <p rend="center smallcaps">IL COLONNELLO<hi rend="italic">e </hi>NORA</p>
+                  <p>...della piccola Nora!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Si sa!</p>
+                  <p rend="end">Breve pausa</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma... di' su!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Che c'è?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Non ti sarai mica innamorata di quel falsificatore di fidanzati!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Papà! Che diamine! Un artista! Prima ti era simpatico...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma io lo credevo un altro!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>E come acquafortista lo avevi sempre ammirato!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Glie lo darò io l'Eremita!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">rimproverandolo</p>
+                  <p>Papà!</p>
+                  <p>IL COLONNELLO</p>
+                  <p>Sposati il nostro giardiniere! È un galantuomo. Non si sostituisce agli altri. Ha un nome vero. Esercita un mestiere poetico. Lo preferisco.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sposalo tu.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">crollando il capo</p>
+                  <p>Povera piccola, credo che tu non ti raccapezzi. Ma vedrai che c'è qui sempre tuo padre che ti saprà consolare.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">lo guarda</p>
+                  <p>Che cosa vuoi che me ne faccia di te?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">al colmo dello stupore</p>
+                  <p>In che senso?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">con solennità</p>
+                  <p>Papà, sono quasi le tre!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Si può sapere chi è che aspetti? Almeno questo lo potrò sapere?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">improvvisamente gaia</p>
+                  <p>Papà, li aspetto tutti e due!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Chi tutti e due?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>I miei fidanzati!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Vengono insieme? Il vero e... il falso?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sì!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma come?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>L'ho voluto io! Lui mi ha scritto una lettera di scusa... Lui, quello falso... una lettera piena di dolore...</p>
+                  <p rend="end">Pensosa</p>
+                  <p>Veramente, sì, piena di dolore...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p rend="end">quasi con compunzione</p>
+                  <p>Il ... Bernardo?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Già. E ha aggiunto che ogni sacrificio sarebbe stato disposto a fare per la mia pace, per la mia felicità: e che già aveva raccontato tutto a quell'altro... e aspettava che fosse guarito per mettersi a sua disposizione per cercare di riparare... Però, diciamo la verità... un fidanzato a cui vengono gli orecchioni nel momento preciso in cui deve conoscere la donna che ama...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma è una disgrazia!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Lo so! Ma non hai osservato mai tu che certe disgrazie capitano sempre a certi individui? È fatale, papà!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ecco, vedi: tu dici così perché già assolvi quell'altro! E condanni questo! Oh! La logica delle donne! E specialmente la generosità! E specialmente la giustizia!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma no! Non assolvo! E non condanno! Guarda: Anna lo ha visto. È stata a trovarlo, come sai, all'albergo in questi giorni. Credo che siano diventati anche un po' amici. Vuoi sentire?</p>
+                  <p rend="end">Suona</p>
+               </div>
+               <div type="div3">
+                  <head>Scena seconda</head>
+                  <p>LA CAMERIERA appare sull'uscio di fronte.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Dite alla signorina di venire qui.</p>
+                  <p>LA CAMERIERA via.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ebbene, che cosa vuoi concludere?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Io? Niente. Ma soltanto... un'impressione!</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Mi avevi chiamata?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sì, ascolta... Tu hai visto quell'altro, eh?, con la testa gonfia...</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Sì.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Com'è?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p rend="end">pensa un po', tentenna il capo</p>
+                  <p>Un buon diavolo.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ecco: un buon diavolo. Grazie, cara... non voglio saper altro.</p>
+                  <p>ANNA via.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena terza</head>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Hai sentito?</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma nessun uomo con la faccia gonfia e con la testa fasciata può pretendere di rassomigliare a Napoleone I!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Lo so... lo so...</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Insomma, che cosa hai risposto al Bernardo?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Gli ho imposto di accompagnare da me quell'altro. Ho imposto a tutti e due di venire qui insieme.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>E verranno?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Tra pochi minuti saranno qui.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ma neanche in teatro si è visto una roba simile!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ebbene, si vedrà adesso!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Vuol dire che io sto di là. Appena ti sbrighi di uno, lo mandi da me.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Va benissimo.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena quarta</head>
+                  <p>LA CAMERIERA è sull'uscio di destra.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Eccola qua l'annunziatrice tragica. Avanti, parla!</p>
+                  <p rend="end">Imitando la voce di lei</p>
+                  <p>Signor Colonnello!</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>Signor Colonnello!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Ci sono due signori di là...</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>Sissignore! E desiderano parlare con la signorina!</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>Farai passare i signori, ma chiuderai subito il cancello del giardino a doppio giro di chiave. Hai capito?</p>
+                  <p rend="center smallcaps">LA CAMERIERA</p>
+                  <p>Sissignore.</p>
+                  <p rend="center smallcaps">IL COLONNELLO</p>
+                  <p>È incredibile i fidanzati che entrano in questa casa da otto giorni a questa parte. Ma stavolta usciranno quando voglio io!</p>
+                  <p rend="justify">Via a sinistra un po' solennemente</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">trepida</p>
+                  <p>Fa passare e attendere qui.</p>
+                  <p rend="end">Via pure a sinistra</p>
+                  <p>LA CAMERIERA via dal fondo. Poi torna accompagnando i due visitatori e subito se ne va.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena quinta</head>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">cercando di darsi un'aria disinvolta</p>
+                  <p>Venga, venga avanti... Ah! Non c'è ancora la signorina. Vuol dire che non può tardare. E sarà quel che sarà...</p>
+                  <p rend="end">Si asciuga il sudore</p>
+                  <p>Adesso Le ripeto come dovrà comportarsi. È una signorina fine che ama la distinzione ma non già le convenienze sdolcinate. Il Suo temperamento, qualunque temperamento Lei abbia, lo metta fuori. Sarà quel che sarà... Le piacerà. Oh Dio! Perché tarda tanto e ci fa aspettare? Sarà quel che sarà...</p>
+                  <p>LUCIO</p>
+                  <p>Me l'ha detto.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah già!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ma di me non le parlò affatto?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io? Niente.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Purché non l'abbia troppo stregata a Suo vantaggio!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Io? Mi odia. Semplicemente mi odia. Lo vedrà. Del resto è giusto. E io qui sono venuto per rimediare e per sopportare qualunque ingiuria. Non già da Lei ma dalla signorina e da suo padre. Dio! Non pensavo più che c'era il padre! Perciò non si meravigli se io tacerò per qualunque affronto volessero farmi. Del resto... se anche a Lei piacesse gratificarmi di qualche grossa ingiuria, dica su in fretta... Si sfoghi. Meglio tra noi due soli che in presenza della signorina.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Oh no!... Io Le ho già detto tutto il mio pensiero: e d'altronde...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Se volesse, per esempio, darmi del mascalzone...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ma no!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>O semplicemente del furfante...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ma no! E poi non è Lei Bernardo l'Eremita?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">irritato</p>
+                  <p>Ma che Bernardo l'Eremita! È ora di finirla con questo Bernardo! Mi son messo una conchiglia addosso! So io che conchiglia! Beh! Sarà quel che sarà... Scusi, sa... seguo la mia idea... E dello spirito! Dello spirito! È una donna piuttosto cerebrale... moderna... infine una deliziosa creatura...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Me l'ha detto!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Gliel'ho detto. Tanto meglio. Ah! Eccola qui!</p>
+                  <p>NORA appare sul limitare della porta, a sinistra. Ella si ferma a guardare i due uomini. LUCIO s'inchina leggermente e rimane estatico a guardarla.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">s'inchina anche lui ma è piuttosto confuso e impacciato</p>
+                  <p>Per quanto...</p>
+                  <p rend="end">Si riprende, pensa, e si decide</p>
+                  <p>Per quanto possa apparire strano, signorina Nora, Le presento il signor Lucio Arsìcola, il Suo fidanzato originale... di cui io Le portai pochi giorni fa una apocrifa copia... Arrivederci.</p>
+                  <p rend="end">Fa per andar via</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Dove andate? Restate pure qui! Tanto, il cancello è chiuso e mio padre ha la chiave.</p>
+                  <p rend="end">A LUCIO</p>
+                  <p>Come va, dunque? Eh? Lucio Arsìcola!</p>
+                  <p rend="end">Lo osserva sorridendo</p>
+                  <p>Ha la faccia più buona di voi e io gli permetto di abbracciarmi...</p>
+                  <p rend="justify">LUCIO l'abbraccia un po' imbarazzato</p>
+                  <p>Perché ha proprio l'aria di un bravo omino di cui mi fiderò completamente. Voi almeno non avete intenzione di scombussolare le povere signorine di città.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">timidamente</p>
+                  <p>Ho piuttosto paura del contrario!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">ride</p>
+                  <p>Meno male, meno male...</p>
+                  <p rend="justify">Si guardano sorridendo. Una pausa</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non vi pare che io possa ragionevolmente scavalcare il cancello e andarmene per fatti miei; o, tutt'al più, gironzare tra le piante?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>No, no no no... perché tra le piante incontrereste la mia istitutrice la quale è giovane e carina! E poi non mi fido neanche del fatto che voi discorriate con le piante! C'è un pioppettino che cresce su con certe idee un po' bizzarre: se gli andate vicino voi, è finita!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">afflitto</p>
+                  <p>Il pioppettino oggi non correrebbe nessun rischio.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah! Siete di cattivo umore?</p>
+                  <p>LUCIANO</p>
+                  <p rend="end">commosso</p>
+                  <p>No, signorina Nora! Io vorrei parlarvi seriamente... io vorrei trovare qualche cosa da fare per voi...! Vorrei rendermi utile... ma rendermi utile per qualche cosa che vi stesse molto a cuore e che non dico compensasse... perchè non si può compensare...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah! Meno male!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>... ma vi facesse un po' dimenticare... Vorrei insomma che mi imponeste il sacrificio più grande, lo sforzo più arduo; la pena più grossa per me!...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Amico mio, la cosa che mi sta più a cuore oggi, e a cui desidero che voi v'interessiate, è che il mio fidanzato mi piaccia!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">deciso a sacrificarsi</p>
+                  <p>Ma sicuro!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>E guardate che dò tutta la responsabilità a voi.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>A lui?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>A me?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sì.</p>
+                  <p rend="end">Gravemente</p>
+                  <p>Bisogna che lui... mi piaccia assai assai. Altrimenti sarei infelice.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">con angoscia</p>
+                  <p>No!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Altrimenti vivrei in tale dolore che sarebbe una grande sciagura anche per voi!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">c.s.</p>
+                  <p>No!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Perché anche voi mi siete molto piaciuto.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">disperandosi per la sua posizione complicata, ma pure felice di quelle parole</p>
+                  <p>Ma santo Iddio...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Adesso vi detesto.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ah! Beh!</p>
+                  <p rend="justify">La prima esclamazione è di sollievo, la seconda di malinconia</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Per fortuna vostra il mio fidanzato è molto simpatico!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>La signorina è troppo buona!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">facendosi in quattro</p>
+                  <p>È simpaticissimo! Gliel'ho detto per la strada.</p>
+                  <p rend="justify">A LUCIO che col capo accenna di no</p>
+                  <p>È vero che gliel'ho detto per la strada?</p>
+                  <p rend="end">A NORA</p>
+                  <p>Ed è di quegli uomini che, per l'abitudine di raccogliersi in un ambiente sano, acquistano una profondità di sentire forse poco appariscente perché – appunto essendo profonda – è piena di pudore, ma che conquista a lungo andare più durevolmente del primo sfaccendato delle nostre città divoratrici.</p>
+                  <p rend="end">Sospira</p>
+                  <p>LUCIO li osserva tutti e due: prima l'uno, poi l'altra. Scambio di sguardi fra tutti e tre.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">a LUCIO, dopo un silenzio</p>
+                  <p>Non mi avete mai mandato una fotografia del vostro paesello.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Mah! È un paese senza importanza, quasi tutto abitato da contadini.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Oh, sarà pieno di colore!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>No, anzi! Sembra... lavato.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Come lavato?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">animandosi a freddo</p>
+                  <p>Oh! Com'è vero! Com'è vero!...</p>
+                  <p rend="justify">Si alza, va a perorare la causa di LUCIO dietro la sua sedia</p>
+                  <p>E com'è colto bene! Si vede che è un osservatore profondo! Io ho viaggiato dalle sue parti. Le colline hanno pochi alberi perché sono tutte seminate a grano; e il maggese, prima della semina, dà appunto quella impressione un po' scialba, un po' – come dice lui – lavata... E ci son poi quelle rupi tagliate a picco... ah sì! Quelle rupi, quelle rupi, quelle rupi... hanno l'aria di essere non solo lavate, ma stira...</p>
+                  <p rend="end">riprendendosi</p>
+                  <p>sciorinate al sole!</p>
+                  <p>Torna a sedere al suo posto. NORA osserva LUCIO senza dir nulla. Poi guarda LUCIANO. Tutti e tre si scambiano delle occhiate. Una pausa.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">sempre a LUCIO</p>
+                  <p>E come passate le giornate? Immagino che, come scrittore, preferite andar solo per i campi, in compagnia dei vostri pensieri...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì... ma... veramente, a me piace poco andar fuori. Preferisco restarmene chiuso nella mia stanzetta a suonare il mandolino.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">con mal celato orrore</p>
+                  <p>Voi? Suonate il mandolino?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">pronto, con voce pacata</p>
+                  <p>La mandola, la mandola.</p>
+                  <p>LUCIO fa un gesto per dire di no; ma l'altro, che si è alzato e si è messo alle spalle di lui lo ferma.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>La mandola. Vero?</p>
+                  <p>LUCIO accenna debolmente di no ma l'altro seguita imperterrito.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Lo prevedevo.</p>
+                  <p rend="end">A NORA</p>
+                  <p>Ah! Ma è tutt'altra cosa! Voi avete mai sentito una mandola in una sera d'estate? Perché ci vuole la sera d'estate?... Ebbene, non ha niente a che fare col suo degenere parente intisichito dalle mani degli strimpellatori. La mandola è uno strumento squisito, un interprete della malinconia pastorale. È vero sì o no?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">debolmente</p>
+                  <p>Sì.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">a NORA</p>
+                  <p>Ma bisogna naturalmente essere in campagna. Allora anche la fisarmonica... Provate a suonare la fisarmonica in un salotto. È stonata. È un disastro. Mentre tra una collina e l'altra, specialmente di notte... con la luna... le colline si mettono a ballare il saltarello per conto loro: e non c'è affatto da meravigliarsi che le civette accovacciate sulle creste delle rupi si mettano a pettegolare... tanto sono incantate da quel suono! V'assicuro che la mandola è interessantissima.</p>
+                  <p>Altra pausa. LUCIANO torna al suo posto e si mette a sedere asciugandosi il sudore. Scambio di sguardi fra tutti e tre.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="justify">con comica, ma pacata indulgenza</p>
+                  <p>E... la mattina? Quando vi alzate?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>La mattina quando mi alzo prendo il caffè e latte.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ma questo si sa!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma questo si sa!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Con un uovo!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">tra sé</p>
+                  <p>Dio! L'uovo!</p>
+                  <p>LUCIO</p>
+                  <p>C'è la mia vecchia zia che ha sempre da parte per me un uovo di gallina nera. Si dice che dà più sostanza.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">facendo eroici sforzi per trovare spiritosa la cosa</p>
+                  <p>Ah! Ah!</p>
+                  <p rend="end">Ride esageratamente</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Qui in città non siamo avvezzi a queste cose. Qui beviamo delle uova disperatamente anonime.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">sempre facendosi in quattro per riparare accorre di nuovo presso LUCIO</p>
+                  <p>Già! Però questa storia della gallina nera è molto carina! Quasi tutti gli scrittori, ho notato, amano per lo meno una bestia. Pascoli aveva nello studio un piccolo alveare con la porticina di vetro; e si poteva osservare comodamente la regina che si dava delle arie. Flaubert aveva addomesticata un'anitra selvatica. Non capisco poi perché addomesticarla. O lasciarla selvatica oppure prendersi senz'altro una di quelle che si vendono al mercato, che son già domestiche per conto loro.</p>
+                  <p rend="end">Guardando LUCIO</p>
+                  <p>E Lei, eh? Ha una gallina nera...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">con inesorabile candore</p>
+                  <p>Sì, ma non è mica con me. È nel polla...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">interrompendolo con un colpo di tosse e poi, come inghiottendo qualche cosa</p>
+                  <p>Ha notato l'occhio feroce delle galline in genere e di quelle nere in ispecie? Sono creature spietate! Mangiano e mangerebbero tutto! Date loro un uomo ridotto in chicco e si beccano un uomo! È molto bello ch'egli abbia una gallina nera! Io la trovo una cosa originale.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">con un certo dispetto</p>
+                  <p>È vero: ha ragione! È originalissima!</p>
+                  <p>LUCIANO</p>
+                  <p rend="end">coraggiosamente, a NORA</p>
+                  <p>Io trovo che soltanto la provincia dà il gusto di certe sensazioni...</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>...elementari.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">pronto</p>
+                  <p>Ecco! Proprio così! Elementari! È la parola trovata giusta, giusta, giusta...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="justify">ancora guarda prima l'uno, poi l'altro. Una pausa. Indi a LUCIO</p>
+                  <p>E se Le domandassi una cosa...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">asciugandosi il sudore</p>
+                  <p>Oh Dio! Che cosa gli domanderà adesso? Non ho mai faticato tanto per un uomo!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Mi dica la verità. Mi dica con chi ha fatto all'amore prima di mettersi in corrispondenza con me. Forse è stato fidanzato?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì... con una brava ragazza.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Senza dubbio! E come fu che...</p>
+                  <p>LUCIANO fa un gesto per dire: «La cosa va, adesso, senza bisogno di me».</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ma... mio padre allora era vivo...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>E si oppose?</p>
+                  <p>LUCIANO ripete il gesto.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì. Per delle stupidaggini... per dei pregiudizii... La ragazza veniva bensì da una famiglia modesta ma era la figlia di una brava donna che insomma... faceva un mestiere come un altro, e non c'era niente di male... e aveva avviata la figlia allo stesso mestiere...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">alquanto seccata, alzandosi</p>
+                  <p>Dite insomma chiaramente che faceva la levatrice!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">candidamente</p>
+                  <p>Sì, signorina.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">tra sé, con comico dispetto</p>
+                  <p>Stavolta non si rimedia!</p>
+                  <p rend="end">Sta per parlare</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Lasciate andare. Non vorrete far diventare poetica anche la levatrice!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Però...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Oh! Aspettate, amici miei! Bisogna pure che vi faccia parlare con mio padre! Se no lui non vi lascia uscire!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">guardando LUCIO</p>
+                  <p>Noi ci possiamo anche costituire prigionieri a vita.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">a LUCIANO</p>
+                  <p>Voi? Pure voi? Pazienza lui che ama starsene in una cameretta a suonare il mandolino! Ma voi, l'uomo dalle libertà sconfinate...</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">assai contrariato</p>
+                  <p>Non parliamo di me, vi prego... Ecco. Non parliamo di me! Andiamo piuttosto dal padre.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Sentirete!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Eh lo so! Io gli propongo prima di tutto di gettarmi dalle scale. Se non lo fa, mi getto da me. Così, spero, mi farà aprire il cancello per lasciarmi uscire per l'ultima volta.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Allora aspettate... Sarà bene uno per volta: che ne dite?</p>
+                  <p rend="end">A LUCIO</p>
+                  <p>Prima voi?</p>
+                  <p rend="end">A LUCIANO</p>
+                  <p>O prima voi?</p>
+                  <p>LUCIANO</p>
+                  <p>Sì, se volete. Prima il reprobo. Così me ne andrò e vi lascerò tranquilli.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="justify">accennando alla porta a sinistra</p>
+                  <p>È di là.</p>
+                  <p rend="end">Indi a LUCIO</p>
+                  <p>Chiamerò la signorina Anna perché vi tenga compagnia.</p>
+                  <p rend="end">Suona</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì. Grazie.</p>
+                  <p>LA CAMERIERA appare sull'uscio di fronte.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Faccia venire la signorina qui a tener compagnia al signore.</p>
+                  <p rend="end">A LUCIANO</p>
+                  <p>Allora noi possiamo andare.</p>
+                  <p rend="end">Via a sinistra</p>
+                  <p>LA CAMERIERA via. LUCIANO prima di andare nell'altra stanza si volge a salutare LUCIO facendogli cenno con un dito all'altezza dell'occhio. LUCIO gli risponde comicamente con lo stesso gesto.</p>
+               </div>
+               <div type="div3">
+                  <head>Scena sesta</head>
+                  <p>LUCIO appena rimasto solo si volge intorno. Si anima, riflette, tentenna il capo. Poi rimane sospeso in ascolto. Si sente il rumore di un formidabile pugno sulla tavola venire dalla stanza di sinistra nello stesso momento in cui dal fondo entra ANNA.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Come giudica Lei quel rumore?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Io lo giudico un pugno sulla tavola.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Anch'io.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Sono di là tutti e tre?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì. Ora senta, signorina. Io Le chiedo un favore... Lei è stata molto gentile in questi giorni. Mi ha visto gonfiato, mi ha visto sgonfiato, e perciò con Lei ho più confidenza che non con quella che avrebbe dovuto essere la mia fidanzata...</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Come! Avrebbe dovuto essere! Non si sono intesi?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Credo che non ci siamo intesi. Appunto perciò io vorrei lasciarli un po' soli... Noi, se non le dispiace, possiamo fare due passi in giardino. Le rincresce?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>No... come vuole... Ma che cosa è accaduto?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Lei, signorina, è nata in provincia come me, è vero?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Sì.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>E la città Le fa paura, m'ha detto.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Sì... un po'.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>E Lei non è promessa a nessun uomo? Non ama nessuno?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>No. Ma perché mi chiede queste cose?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Niente.</p>
+                  <p rend="justify">Si sente il rumore di un altro pugno sulla tavola venire dall'altra stanza</p>
+                  <p rend="center smallcaps">LUCIO<hi rend="italic">e </hi>ANNA</p>
+                  <p>Altro pugno.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Ma vuole spiegarmi qualche cosa? Io credo che Lei sia molto piaciuto a Nora.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Io non lo credo affatto. È vero che ho fatto di tutto per ottenere l'effetto contrario, ma credo che anche se fossi stato spiritoso e affascinante...</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Che vuol dire?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Non ha capito che quei due si amano?</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Ma no!</p>
+                  <p>LUCIO</p>
+                  <p>Io l'ho capito alla prima occhiata. E sono contento, veda! Ho subito pensato che avrei fatto di tutto per secondarli, per aiutarli e per non lasciare nel loro animo la più piccola ombra di perplessità o di rammarico. Intanto mi giuri che manterrà il segreto.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Oh, non è necessario che giuri.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Credo. Ho fede in Lei. Specialmente non dica niente alla signorina.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Ci conti. Allora mi dica che cosa ha fatto.</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Che cosa ho fatto io?</p>
+                  <p rend="end">Sorride</p>
+                  <p>Lo stupido.</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Come lo stupido?</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sono stato così ineffabilmente bestia... e meschino... e di provincia... ma sa... di quella provincia che può venir fuori da un innaffiatoio!... Mi ascolti bene. La signorina Le parlerà certo della mia goffaggine, del mio mandolino, della gallina nera, e della mia stupidità. Ora se Lei...</p>
+                  <p rend="end">accenna ad ANNA</p>
+                  <p>fosse stata un'altra... non me ne sarei crucciato affatto!... Ma Lei no..., signorina, non posso sopportare che anche Lei mi creda una bestia... Noi due, veda, apparteniamo a un'altra razza, e ci possiamo capire... C'è chi dà l'assalto alla felicità come a una diligenza, all'angolo della strada, come ha fatto sempre lui... e c'è chi vive di un'altra intimità più modesta, conquistata diversamente. Ma guardi il miracolo: è bastato che una piccola luce di bontà arrivasse a illuminare l'anima di quell'uomo per trasformarla, per trasfigurarla! Quell'uomo era stato uno spaventoso predone di tutte le sue gioie... Non aveva fatto che muovere i fantocci del mondo per la sua delizia. Ed ecco che una marionetta gli diventa tragica fra le mani...</p>
+                  <p rend="end">In ascolto</p>
+                  <p>Non si è sentito nessun altro pugno...</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p rend="end">sorridendo</p>
+                  <p>No!</p>
+                  <p rend="justify">Si sente ridere nella stanza di là</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Ridono!</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p>Tanto meglio!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p>Sì, tanto meglio! Ragione di più per lasciarli soli.</p>
+                  <p rend="justify">Si avvia a destra per uscire. A un tratto si ferma. Dice quasi con solennità</p>
+                  <p>Bernardo l'Eremita è rimasto chiuso nell'ultima conchiglia che ha rubato!</p>
+                  <p rend="center smallcaps">ANNA</p>
+                  <p rend="end">intenerita</p>
+                  <p>Lei è un'anima buona!</p>
+                  <p rend="center smallcaps">LUCIO</p>
+                  <p rend="end">senza scomporsi</p>
+                  <p>Grazie. Adesso finiremo di intenderci giù in giardino.</p>
+                  <p rend="justify">Via dal fondo seguito da ANNA</p>
+               </div>
+               <div type="div3">
+                  <head>Scena settima</head>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">precedendo NORA</p>
+                  <p>Non c'è! Dov'è andato?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Forse sarà sceso giù in giardino con la signorina.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">imbarazzato</p>
+                  <p>Non capisco perché a un certo punto uno se ne va...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Vi secca tanto?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ho una paura maledetta di rimanere solo con voi!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah sì?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non già perché ho paura che mi facciate del male: anzi, appunto perché non me ne fate e dovreste invece farmene, io soffro l'umiliazione di rimanere senza che me ne facciate... E perciò mi darei moltissimi pugni...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">lo guarda</p>
+                  <p>Siete un grande fanciullo scapato... C'era tanta infanzia sotterrata in voi quanto credevate di aver accumulato di destino.</p>
+                  <p rend="end">Una pausa</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">la guarda di sottecchi. Poi decidendosi</p>
+                  <p>Sicché non mi odiate?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p rend="end">bruscamente</p>
+                  <p>Non lo so!</p>
+                  <p rend="justify">Indi con voce subitamente angosciata</p>
+                  <p>So che sono affranta, so che sono disperata, e faccio uno sforzo immane perché mio padre non capisca. Non so neanche se vi odio.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Vorrei sapere che diritto ha quell'uomo di portarvi via e poi di scendersene tranquillamente in giardino.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ah! È lui che mi porta via? Non siete stato voi a prendere in prestito il suo nome?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Ho già detto alla pianta... che se egli mi ha prestato il suo nome, io gli ho prestato la mia faccia, il mio cervello, la mia inquietitudine, e infine gli ho regalata per sempre la mia tranquillità.</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Tanto peggio per voi.</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Nora, come siete bella, anche se mi odiate! Somigliate un po' a una figura di donna su cui ho versato inutilmente una grande quantità di acidi. Ma, anche incidendola nel rame, non riuscivo a farne mai quella che volevo!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Anche su di me avete versato tanta amarezza!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">rimane mortificatissimo a guardare in terra</p>
+                  <p>Nora... piccola Nora...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Avete voluto fare il Bernardo l'Eremita anche con me!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">al colmo dell'ira e della confusione</p>
+                  <p>Ah! Questo Bernardo! Io diventerò palombaro. Io scenderò negli abissi del mare. Io prenderò tutti i Bernardi e li strapperò dalle conchiglie che hanno usurpato. Diventerò un corsaro. Probabilmente annegherò. Così almeno non avrete più notizie di me, mentre voi sarete felice col vostro Lucio Arsìcola...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma che Arsìcola!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="end">stupito</p>
+                  <p>Eh?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Credete veramente che io possa stare accanto a quell'uomo?... Che è poi un bravissimo uomo, più bravo assai di voi... ma appunto perché così bravo, credete che ci possa stare io che sono stata irreparabilmente guastata da voi? Mi vedete accanto a lui?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">al colmo della gioia e dello stupore</p>
+                  <p>No! No! Io non vi vedo affatto!</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>E dunque!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Non lo sposate?</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Ma che sposare!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">urlando e girando per la stanza come impazzito dalla gioia</p>
+                  <p>Non lo sposa! Non lo sposa! Non lo sposa!</p>
+                  <p rend="end">Indi andando verso la finestra</p>
+                  <p>Dov'è? Dov'è?... Eccolo che sta per salire...</p>
+                  <p rend="end">Urlando fuori della finestra</p>
+                  <p>Non vi sposa! Non vi sposa!</p>
+                  <p rend="justify">Rimane comicamente in attesa della risposta, facendo cenno a NORA di tacere</p>
+                  <p rend="center smallcaps">LA VOCE Di LUCIO</p>
+                  <p rend="end">molto pacata</p>
+                  <p>Eh! Lo so! Lo so!</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p rend="justify">con comico stupore, fuori di sé per la gioia</p>
+                  <p>Lo sa! Come lo sa?</p>
+                  <p rend="justify">E copre di baci la mano di NORA che gli sorride dolcemente</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Povero amico! Eccovi fidanzato, come un borghese qualunque, a una piccola signorina perbene!</p>
+                  <p>LUCIANO</p>
+                  <p>Tacete! Tacete! Mi pare di essere un altro! Mi pare di essere così leggero e divino e felice! Mi sembra di camminare sopra un suolo che respira!...</p>
+                  <p rend="center smallcaps">NORA</p>
+                  <p>Rimpiangerete la vostra tremenda libertà?</p>
+                  <p rend="center smallcaps">LUCIANO</p>
+                  <p>Taci! Taci! Taci!</p>
+                  <p>L'attira con violenza al suo petto e la bacia. Si vede per un attimo LUCIO sporgere comicamente il capo e subito richiudere l'uscio.</p>
+                  <p rend="center bold">Sipario</p>
+               </div>
+            </div>
+            <div type="div2" rend="P20">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: Bernardo l'Eremita</p>
+               <p>AUTORE: Antonelli, Luigi</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: </p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: </p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: Teatro / Luigi Antonelli ; a cura e con un saggio di Luciano Paesani ; prefazione di Franca Angelini. - [Atri] : Amici del libro abruzzese, stampa 2001. - 2 v. - CVII, 511 p. ; 24 cm. - 637 p. ; 24 cm.</p>
+               <p>CODICE ISBN FONTE: non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 21 marzo 2013</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

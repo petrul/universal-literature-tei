@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>E-book campione Liber Liber</title>
+            <author>Carlo Goldoni</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-14T10:46:47.823836009</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                          
+      <body>
+         <author>Carlo Goldoni</author>
+         <div type="div1">
+            <head>L’osteria della posta</head>
+            <p rend="center bold">Carlo Goldoni</p>
+            <p rend="center bold italic">L'OSTERIA DELLA POSTA</p>
+            <p rend="center italic">Commedia di un atto solo in prosa, rappresentata in Zola per la prima volta nell'estate del 1762.</p>
+            <div type="div2" rend="P15">
+               <head>L'autore a chi legge</head>
+               <p>Ecco, Lettor gentilissimo, l'ultima Commedia di questa raccolta intitolata <hi rend="italic">Nuovo Teatro Comico </hi>del tuo Servitore Goldoni. Tu hai presentemente due corpi di mie Commedie, ognuno de' quali può star separatamente. Il primo corpo cioè dell'edizion Fiorentina, ristampato a Pesaro, a Turino, a Napoli ed a Bologna, e questo, che termina ora l'edizion del Pitteri.</p>
+               <p rend="justify">Si fa presentemente, come tu sai, una novella edizione completa di tutte le opere mie dal Pasquali, ma questa non ti ha da trattenere, se ami le cose mie, dal provvederti di questi dieci volumi, chiamati <hi rend="italic">Nuovo Teatro</hi>, poiché ci vorrà del tempo prima che passino queste Commedie alla nuova edizione, non pubblicando con essa che quattro volumi all'anno, in ognuno de' quali vi deve essere una Commedia non mai stampata.</p>
+               <p rend="justify">Finisco la Raccolta presente con una Commedia di un atto solo; ma che non manca di essere commedia intiera, in modo che non si potrebbe allungare volendo. Una simile ne avrai veduto nel tomo quarto della mia novella edizione, e come il pubblico non si mostrò malcontento di quella, così mi lusingo non lo sarai tu di questa. Ti ringrazio, Lettore umanissimo, della bontà con cui mi leggi, e mi soffri. Non ti stancare di leggere, ch'io non mi stanco di scrivere, ed ora ci sono piucché mai avvalorito e impegnato.</p>
+            </div>
+            <div type="div2" rend="P16">
+               <head>Personaggi</head>
+               <p>Il Conte ROBERTO di Ripalunga, <hi rend="italic">cavaliere milanese</hi>.</p>
+               <p>La Contessa BEATRICE <hi rend="italic">sua figliuola</hi>.</p>
+               <p>Il Marchese LEONARDO de' FIORELLINI, <hi rend="italic">cavaliere piemontese</hi>.</p>
+               <p>Il Tenente MALPRESTI <hi rend="italic">amico del Marchese</hi>.</p>
+               <p>IL Baron TALISMANI <hi rend="italic">cavaliere milanese</hi>.</p>
+               <p>CAMERIERE <hi rend="italic">dell'osteria</hi>.</p>
+               <p>SERVITORE <hi rend="italic">del Conte Roberto</hi>.</p>
+               <p rend="center">La Scena si rappresenta in Vercelli, all'Osteria della Posta, in una sala comune.</p>
+            </div>
+            <div type="div2" rend="P16">
+               <head>Scena prima</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Marchese</hi>
+                  <hi rend="italic">, il </hi>
+                  <hi rend="smallcaps">Tenente</hi> 
+                  <hi rend="italic">e il </hi>
+                  <hi rend="smallcaps">Cameriere</hi> 
+                  <hi rend="italic">dell'Osteria.</hi>
+               </p>
+               <p>TEN. Ehi, oste, camerieri, diavoli, dove siete?</p>
+               <p>CAM. Eccomi a servirla. Comandi.</p>
+               <p>TEN. Una camera.</p>
+               <p>CAM. Eccone qui una. Restino pur serviti.</p>
+               <p>TEN. Che camera è? Vediamo. (<hi rend="italic">entra nella camera</hi>)</p>
+               <p>CAM. Restano qui lor signori, o vogliono partir presto? (<hi rend="italic">al Marchese</hi>)</p>
+               <p>MAR. Dateci qualche cosa: una zuppa, un poco di bollito, se c'è, e fate preparare i cavalli.</p>
+               <p>TEN. Non avete camere migliori di questa? (<hi rend="italic">nell'uscire</hi>)</p>
+               <p>CAM. Non signore; non c'è di meglio.</p>
+               <p>TEN. Qui ci sono stato delle altre volte. So che avete una buona stanza sopra la strada. Apritela, che la vogliamo vedere.</p>
+               <p>CAM. È occupata, signore.</p>
+               <p>TEN. È occupata? Chi c'è dentro?</p>
+               <p>CAM. Un cavaliere milanese con una dama, che dicono sia sua figliuola.</p>
+               <p>TEN. È bella?</p>
+               <p>CAM. Non c'è male.</p>
+               <p>TEN. Da dove vengono?</p>
+               <p>CAM. Da Milano.</p>
+               <p>TEN. Dove vanno?</p>
+               <p>CAM. Non glielo so dire.</p>
+               <p>TEN. Ed a far che si trattengono qui in Vercelli?</p>
+               <p>CAM. Sono arrivati qui per la posta. Riposano; hanno ordinato il pranzo, e passate che saranno le ore più calde, proseguiranno il viaggio.</p>
+               <p>TEN. Bene; se si contentano, noi pranzeremo insieme.</p>
+               <p>MAR. No, caro amico, spicciamoci. Prendiamo un po' di rinfresco e seguitiamo la nostra strada.</p>
+               <p>TEN. Caro Marchese, io sono partito con voi da Torino per compiacervi, vi faccio compagnia assai volentieri; ma viaggiare a quest'ora, con questo sole e con questa polvere, non mi comoda molto.</p>
+               <p>MAR. Un militare si lascia far paura dalla polvere e dal calore del sole?</p>
+               <p>TEN. Se io fossi obbligato a farlo per i doveri del mio mestiere, lo farei francamente, ma quando si può, la natura insegna ad isfuggire gl'incomodi. Vi compatisco, se vi sollecita il desiderio di vedere la vostra sposa; ma abbiate ancora un poco di carità per l'amico.</p>
+               <p>MAR. Sì, sì, ho capito. L'occasione di pranzare con una giovane vi fa temere il caldo e la polvere.</p>
+               <p>TEN. Eh corbellerie! Quattr'ore prima quattr'ore dopo, domani noi saremo a Milano. Cameriere, preparateci da mangiare.</p>
+               <p>CAM. Sarà servita.</p>
+               <p>TEN. Vedete se questi signori vogliono mangiare con noi.</p>
+               <p>CAM. Il Cavaliere è sul letto che dorme. Quando sarà all'ordine il pranzo, glielo dirò.</p>
+               <p>MAR. Sollecitatevi.</p>
+               <p>CAM. Subito. (<hi rend="italic">in atto di partire</hi>)</p>
+               <p>TEN. Avete buon vino?</p>
+               <p>CAM. Se vuole del Monferrato, ne ho di prezioso.</p>
+               <p>TEN. Sì, sì, beveremo del Monferrato.</p>
+               <p>CAM. Sarà servita. (<hi rend="italic">parte</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena seconda</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Marchese</hi> 
+                  <hi rend="italic">e il </hi>
+                  <hi rend="smallcaps">Tenente</hi>
+               </p>
+               <p>TEN. Allegri, Marchese. Voi che andate incontro alle nozze, dovreste essere più gioviale.</p>
+               <p>MAR. Dovrei esserlo veramente, ma mi tiene un poco in pensiero il non avere ancor veduta la sposa. Mi dicono che sia bella passabilmente, che sia gentile ed amabile, pure ho un'estrema curiosità di vederla.</p>
+               <p>TEN. Come vi siete indotto ad obbligarvi di sposare una giovane senza prima vederla?</p>
+               <p>MAR. Il conte Roberto di lei padre è un cavaliere di antica nobiltà, molto comodo, e non ha altri che quest'unica figlia. Egli ha molte parentele in Torino, ha una sorella alla Corte, ha degli effetti in Piemonte, i miei amici hanno pensato di farmi un bene, trattando per me quest'accasamento, ed io vi ho aderito, trovandovi le mie convenienze.</p>
+               <p>TEN. E se non vi piacesse?</p>
+               <p>MAR. Pazienza. Sono in impegno, tant'e tanto la sposerei.</p>
+               <p>TEN. Va benissimo. Il matrimonio non è che un contratto. Se c'entra l'amore, è una cosa di più.</p>
+               <p>MAR. Ma vorrei che c'entrasse.</p>
+               <p>TEN. Sì, ma per il vostro meglio non vorrei che l'amaste tanto. Conosco il vostro temperamento. Ne' vostri amori solete essere un poco geloso. Se l'amaste troppo, se vi piacesse moltissimo, voi avreste delle maggiori inquietudini.</p>
+               <p>MAR. Veramente non saprei dir io medesimo, se meglio fosse una sposa amabile con un pochino di gelosia, o una brutterella senza timori.</p>
+               <p>TEN. Volete ch'io vi dica, che cosa sarebbe meglio?</p>
+               <p>MAR. Quale sarebbe l'opinione vostra?</p>
+               <p>TEN. Il non avere sposa di sorte alcuna. Poiché, se è bella, piacerà a molti, se è brutta, non piacerà né agli altri, né a voi. Se è brutta, avrete un diavolo in casa; se è bella, avrete dei diavoli in casa e fuori di casa.</p>
+               <p>MAR. In somma voi vorreste che tutti vivessero alla militare.</p>
+               <p>TEN. Sì, e credo non ci sia niente di meglio al mondo. Oggi qua, domani là; oggi un amoretto, domani un altro. Amare, far la corte, servire, e a un tocco di tamburo, salute a chi resta, e buona ventura a chi parte.</p>
+               <p>MAR. E appena giunto ad un quartiere novello, innamorarsi subito a prima veduta.</p>
+               <p>TEN. Sì in un batter d'occhio. Se questa giovane, che è qui alloggiata, è niente niente di buono, m'impegno farvi vedere come si fa ad innamorarla con due parole.</p>
+               <p>MAR. Tutto sta che vogliano compagnia.</p>
+               <p>TEN. E perché avrebbono da ricusarla?</p>
+               <p>MAR. Bisogna vedere di che umore è suo padre.</p>
+               <p>TEN. Gli parlerò io, m'introdurrò francamente. Faremo amicizia in un subito alla militare.</p>
+               <p>MAR. Ma, caro amico, non ci fermiamo qui troppe ore.</p>
+               <p>TEN. Gran premura è la vostra! Eppure, secondo ciò che mi avete detto, non vi aspettano a Milano che da qui un mese. Partiremo alle ventidue; viaggieremo di notte, e domani senz'altro sarete in tempo di sorprendere gentilmente la vostra sposa. Intanto, se volete riposare, andate lì nella nostra camera. Io voglio andare in cucina a vedere che cosa ci daranno da desinare, ed a sentire questo vino di Monferrato, che non vorrei ci corbellassero sulla fede. Nasca quel che sa nascere se avessimo anche da mangiar soli, quando vi è un buon bicchier di vino, non passeremo mal la giornata. (<hi rend="italic">parte</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena terza</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Marchese</hi> 
+                  <hi rend="italic">solo.</hi>
+               </p>
+               <p>MAR. Bravo il signor tenente. Egli è sempre di buon umore. Non so se ciò sia per grazia del temperamento, o per privilegio del suo mestiere. Quanto volentieri avrei calcata anch'io la strada del militare! Ma son solo di mia famiglia, è necessario ch'io mi mariti. Hanno a sdegno i parenti miei ch'io goda la mia dolcissima libertà, e mi conviene sagrificarla. Sia almeno il mio sagrifizio men aspro e meno pericoloso. Voglia il cielo, che una sposa amabile e di mio genio mi faccia sembrar leggiera la mia catena. Ah sì, quantunque di oro, quantunque arricchita di gemme, o adornata di fiori, è però sempre catena. La libertà è superiore ad ogni ricchezza, ma vuole il destino che l'uomo si assoggetti alle leggi della natura, e contribuisca colle proprie sue perdite al bene della società, alla sussistenza del mondo. (<hi rend="italic">entra nella sua stanza</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena quarta</head>
+               <p rend="center">
+                  <hi rend="italic">La </hi>
+                  <hi rend="smallcaps">Contessa</hi>
+                  <hi rend="italic">, poi il </hi>
+                  <hi rend="smallcaps">Cameriere</hi>
+               </p>
+               <p>BEAT. Ehi, Cecchino. (<hi rend="italic">stando sulla porta della sua camera</hi>) Cecchino. (<hi rend="italic">chiamando più forte</hi>) Costui manca sempre al servizio; non può stare alla soggezione. Mio padre, stravagante in tutto, è stravagante anche in questo; soffre un servitore il più trascurato del mondo. Converrà ch'io esca, se voglio... Ehi! chi è di là, c'è nessuno?</p>
+               <p>CAM. Comandi.</p>
+               <p>BEAT. Dov'è il nostro servitore?</p>
+               <p>CAM. È giù che dorme disteso sopra una panca, che non lo desterebbono le cannonate.</p>
+               <p>BEAT. Portatemi un bicchier d'acqua.</p>
+               <p>CAM. Subito. Dorme il signor Conte?</p>
+               <p>BEAT. Sì, dorme ancora.</p>
+               <p>CAM. Avrebbero difficoltà di pranzare in compagnia con altri due cavalieri?</p>
+               <p>BEAT. Quando si desterà mio padre, ne parlerete con lui.</p>
+               <p>CAM. Benissimo. (<hi rend="italic">parte</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena quinta</head>
+               <p rend="center">
+                  <hi rend="italic">La </hi>
+                  <hi rend="smallcaps">Contessa</hi>
+                  <hi rend="italic">, poi il </hi>
+                  <hi rend="smallcaps">Marchese</hi>
+               </p>
+               <p>BEAT. In altro tempo gradito avrei moltissimo il trattenermi in piacevole compagnia, ma ora sono così angustiata, che non ho cuore di vedere persona, né di trattare con chi che sia.</p>
+               <p>MAR. Signora, la riverisco umilmente.</p>
+               <p>BEAT. Serva divota.</p>
+               <p>MAR. È ella pure di viaggio?</p>
+               <p>BEAT. Per obbedirla.</p>
+               <p>MAR. Per dove, se è lecito?</p>
+               <p>BEAT. Per Torino.</p>
+               <p>MAR. Ed io col mio compagno son diretto a Milano.</p>
+               <p>BEAT. Ella va alla mia patria.</p>
+               <p>MAR. È milanese adunque?</p>
+               <p>BEAT. Sì signore. Con sua licenza. (<hi rend="italic">vuol partire</hi>)</p>
+               <p>MAR. Perdoni. Volea domandarle una cosa, se mi permette.</p>
+               <p>BEAT. Scusi, non vorrei che si destasse mio padre ed avesse occasion di riprendermi, s'io mi trattengo.</p>
+               <p>MAR. E chi è egli il suo signor padre?</p>
+               <p>BEAT. Il conte Roberto di Ripalunga.</p>
+               <p>MAR. (Oimè, che sento? qui la mia sposa? Perché in viaggio? Perché partir da Milano?)</p>
+               <p>BEAT. Che vuol dir, signore, questa sua sospensione? Conosce ella mio padre?</p>
+               <p>MAR. Lo conosco per fama. Sareste voi, signora, per avventura la contessina Beatrice?</p>
+               <p>BEAT. Per l'appunto; come avete voi cognizione di mia persona?</p>
+               <p>MAR. Non siete voi destinata in isposa al marchese Leonardo de' Fiorellini?</p>
+               <p>BEAT. Siete anche di ciò informato?</p>
+               <p>MAR. Sì, certamente. Il Marchese è mio amico, e so che dovea portarsi a Milano per concludere queste nozze. (Vo' tenermi celato fin che arrivo a scoprire qual novità l'abbia fatta movere dal suo paese).</p>
+               <p>BEAT. Signore... chi siete voi, per grazia?</p>
+               <p>MAR. Il conte Aruspici, capitano delle guardie del Re.</p>
+               <p>BEAT. Siete amico del marchese Leonardo?</p>
+               <p>MAR. Sì, certo, siamo amicissimi.</p>
+               <p>BEAT. Potrei lusingarmi di ottenere da voi una grazia?</p>
+               <p>MAR. Comandate, signora. Mi darò l'onor di obbedirvi.</p>
+               <p>(<hi rend="italic">il Cameriere viene con l'acqua e la presenta alla Contessa</hi>)</p>
+               <p>BEAT. Con permissione. (<hi rend="italic">al Marchese</hi>)</p>
+               <p>MAR. Vi supplico d'accomodarvi. (<hi rend="italic">le dà una sedia; la Contessa siede, e poi beve l'acqua</hi>) (Il suo volto mi persuade, son contentissimo della sua gentilezza). (<hi rend="italic">siede</hi>) (Il cuore vorrebbe ch'io mi svelassi, ma la curiosità mi trattiene). (<hi rend="italic">il Cameriere parte</hi>)</p>
+               <p>BEAT. Vorrei che con tutta sincerità, da cavaliere, da uomo d'onore qual siete, aveste la bontà di dirmi di qual carattere sia questo signor Marchese, che mi vien destinato in isposo.</p>
+               <p>MAR. Sì, signora, m'impegno di farvene intieramente il ritratto. Lo conosco assai per poterlo fare, e lo farò esattissimo, ve lo prometto. Permettete però, ch'io vi chieda primieramente per qual ragione qui vi trovate, e non piuttosto a Milano, dove, secondo il concertato, dovea portarsi il marchese Leonardo per isposarvi.</p>
+               <p>BEAT. Ve lo direi francamente, ma ho timore che si risvegli mio padre, e se mi trova qui con un forestiere...</p>
+               <p>MAR. Sarà per voi una scusa assai ragionevole, trattenendovi con un amico del vostro sposo.</p>
+               <p>BEAT. Non dite male. La ragione è onestissima.</p>
+               <p>MAR. Favorite dunque...</p>
+               <p>BEAT. Sì volentieri: io sono troppo sincera per poter nascondere la verità. Mio padre mi ha destinata in isposa ad un cavaliere ch'io non conosco. Non l'ho veduto mai, e non so s'io possa lusingarmi di dover essere con lui felice. Non mi cale ch'egli sia bello, non desidero ch'ei sia vezzoso, il più vago, il più brillante giovane di questo mondo potrebbe avere agli occhi miei qualche cosa di ributtante che mi spiacesse, e mi ponesse in necessità di fargli conoscere la mia avversione. Più dell'aspetto suo è interessante per me il suo carattere. Chi mi accerta ch'egli sia umano, virtuoso, trattabile? La ricchezza, la nobiltà, non mi lusingherà mai di star bene, se non avrò la pace del cuore, e questa vogl'io difenderla ad ogni costo, con quel dono di libertà che mi è concesso dal cielo. Mio padre, a dispetto delle mie proteste, ad onta delle mie ripulse, ha sottoscritto un contratto che mi potrebbe sagrificare. Ho de' parenti in Milano che, persuasi delle mie ragioni, mi compatiscono; ed egli, per levarmi ogni adito, ogni soccorso, vuol condurmi a Torino, vuol pormi al fianco di sua sorella, ch'è l'autrice di tal contratto, e piacciami o mi dispiaccia lo sposo, vuole costringermi a legarmi seco. Non ho potuto resistere alla improvvisa risoluzione sua di partire. Mi lascio con lui condurre a Torino ma risoluta, risolutissima di protestare la mia avversione quando mi trovassi disposta ad aborrire il consorte. Andrò io stessa a gettarmi a' piedi di quel Sovrano, chiederò giustizia contro le violenze del padre: pronta a chiudermi in un ritiro per sempre, anziché porger la mano ad un oggetto che mi paresse spiacevole, pericoloso ed ingrato.</p>
+               <p>MAR. Signora, io non so condannare né le vostre massime, né i vostri timori, né le vostre risoluzioni. Vi compatisco anzi, e vi lodo; e s'io fossi quel desso, a cui vi avessero destinata in isposa, vi lascierei in pienissima libertà, quando avessi la sfortuna di non piacervi.</p>
+               <p>BEAT. Signore, io vi ho detto sinceramente di me tutto quello che potea dirvi; ditemi ora voi qualche cosa intorno al carattere del vostro amico.</p>
+               <p>MAR. Dirovvi prima rispetto al suo personale, non esser egli assai bello, ma nel nostro paese non è mai passato per brutto.</p>
+               <p>BEAT. Benissimo; tanto basta per un marito.</p>
+               <p>MAR. L'età sua la saprete.</p>
+               <p>BEAT. Sì, quest'è forse l'unica cosa, che di lui mi fu detta. So ch'egli è ancora in una fresca virilità, e mi dicono aver egli un avvantaggio dalla natura, che lo fa parere ancor più giovane di quello ch'egli è di fatto.</p>
+               <p>MAR. Egli è piuttosto grande della persona, ma non ha l'incomodo di soverchia grassezza.</p>
+               <p>BEAT. Tutto ciò è indifferente; vorrei saper qualche cosa del suo carattere, delle sue inclinazioni, de' suoi costumi.</p>
+               <p>MAR. Vi dirò, è tanto mio amico il marchese Leonardo che non ho cuore di dirne male, e non ho coraggio di dirne bene.</p>
+               <p>BEAT. Mi hanno detto, ch'egli è qualche volta collerico.</p>
+               <p>MAR. Sì, è vero, ma con ragione.</p>
+               <p>BEAT. Sapete voi dirmi s'ei sia geloso?</p>
+               <p>MAR. Per dire la verità, piuttosto.</p>
+               <p>BEAT. Se sapete ch'egli è geloso, saprete dunque ch'egli ha fatto all'amore.</p>
+               <p>MAR. E chi è quel giovane, giunto alla fresca virilità che voi dite, che non abbia fatto all'amore?</p>
+               <p>BEAT. Questa è una cosa che mi dispiace infinitamente.</p>
+               <p>MAR. Non vi dolete di ciò. Egli ha amato sempre con onestà, con rispetto e con fedeltà.</p>
+               <p>BEAT. Ha amato sempre? Dunque ha amato più volte.</p>
+               <p>MAR. (Cospetto! ha un'argomentazione che imbarazza). Vi accerto, che s'ei si marita, donerà tutto il cuore alla di lui sposa.</p>
+               <p>BEAT. Voi vi potete di ciò compromettere?</p>
+               <p>MAR. Sì, certamente; lo conosco sì a fondo, e talmente noti mi sono i di lui pensieri, che potrei giurare per esso, non che promettere ed assicurarvi.</p>
+               <p>BEAT. E quali sono i suoi più cari trattenimenti?</p>
+               <p>MAR. Ve li dico immediatamente. I libri, la conversazione, il teatro.</p>
+               <p>BEAT. Male, malissimo. Un marito che studia, trascura assai facilmente la moglie. Chi ama la conversazione non prende affetto alla casa; e chi frequenta il teatro, trova delle occasioni assai comode per concepire delle novelle passioni.</p>
+               <p>MAR. Perdonatemi, signora mia, a me sembra che v'inganniate, e credomi in necessità di fare l'apologia al sistema del mio buon amico. Lo studio delle lettere è un'occupazione dello spirito, che non toglie al cuore l'umanità. L'amore è una passione della natura, e questa si fa sentire in mezzo alle più serie, o alle più dilettevoli applicazioni. Chi non sa far altro che amare, per necessità deve qualche volta annoiarsi della sua medesima compiacenza, e quel ch'è peggio, dee infastidire l'oggetto de' suoi amori. Lo studio all'incontro divide l'animo con proporzione; insegna ad amare con maggiore delicatezza, fa discernere il merito della persona amata, e sembrano più brillanti le fiamme, dopo i respiri del cuore, dopo la distrazion dello spirito. Veniamo ora all'articolo delle conversazioni. Infelice quell'uomo, che non ama la società. Questa lo rende colto e gentile, spogliandolo di quella selvatichezza, che lo renderebbe poco dissimile dalle bestie. Un misantropo, un solitario, non può essere che incomodo alla famiglia, e seccante per una sposa. Chi aborrisce per se medesimo la conversazione, molto meno l'accorderà alla consorte, e per quanto si amino due coniugati, non può a meno, stando insieme tutto il giorno e la notte, che non trovino frequenti motivi di corrucciarsi, e va a pericolo la tenerezza di convertirsi in noia, in dispetto, in aborrimento. Dirò per ultimo quel ch'io penso intorno ai teatri, e assicuratevi che, come io penso, pensa pure il marchese Leonardo, come se noi fossimo la stessa cosa, ed ei medesimo favellasse colle mie labbra. Il teatro è il migliore trattenimento di tutti gli altri, il più utile ed il più necessario. Le buone commedie istruiscono e dilettano in un tempo stesso. Le tragedie insegnano a far buon uso delle passioni. Il comodo di conversare in teatro non è quello che cercano le persone di mal talento, e gli occhi del pubblico esigono anzi il contegno, il rispetto, la civiltà, il buon costume. In somma, signora mia, se vi cale d'avere un marito onesto, amoroso e bastantemente discreto, io conosco il Marchese, tale ve lo assicuro e ve lo prometto; ma se lo voleste o zotico, o effeminato, disingannatevi in tempo, e siate certa, che penetrando egli il vostro pensiere, sarà il primo a mettervi in libertà, a disciorre il contratto, e a porvi in istato di non perdere il vostro cuore e la vostra pace.</p>
+               <p>BEAT. Confesso il vero, in virtù delle vostre parole, io vado a Torino assai volentieri.</p>
+               <p>MAR. Siete persuasa del carattere del marchese Leonardo? Siete contenta di quanto di lui sinceramente v'ho detto?</p>
+               <p>BEAT. Io sono persuasa, io sono contenta di quello che voi mi dite; cioè, che s'ei non mi piace, mi abbia da lasciare nella mia pienissima libertà.</p>
+               <p>MAR. Signora Contessa, scusate l'ardire, io dubito che abbiate il cuor prevenuto.</p>
+               <p>BEAT. No certo, se amassi un altro, lo direi francamente.</p>
+               <p>MAR. Possibile che la vostra bellezza non abbia ancora ferito il cuore di qualcheduno?</p>
+               <p>BEAT. Io non dico, che non vi sia qualcheduno che mi ami; dico soltanto, ch'io non ho il cuore impegnato.</p>
+               <p>MAR. E chi è, se è lecito, che per voi sospira?</p>
+               <p>BEAT. Volete sapere un po' troppo, signor capitano.</p>
+               <p>MAR. Siete tanto sincera, ch'io mi lusingo non mi terrete celato neppur quest'arcano.</p>
+               <p>BEAT. Non è arcano altrimenti. Lo sa mio padre, lo sanno tutti, e ve lo dirò francamente, è il baron Talismani.</p>
+               <p>MAR. Non lo conosco. È giovane?</p>
+               <p>BEAT. Bastantemente.</p>
+               <p>MAR. È bello?</p>
+               <p>BEAT. Non è sprezzabile.</p>
+               <p>MAR. E voi non l'amate?</p>
+               <p>BEAT. Non l'amo, ma non l'aborrisco.</p>
+               <p>MAR. Lo prendereste in isposo?</p>
+               <p>BEAT. Piuttosto lui, che una persona ch'io non conosco.</p>
+               <p>MAR. Scusatemi, io credo che ne siate accesa.</p>
+               <p>BEAT. Mi conoscete poco, signore; io non sono avvezza a mentire.</p>
+               <p>MAR. L'essere voi sì mal prevenuta per il marchese Leonardo, pare un indizio di radicata passione.</p>
+               <p>BEAT. Perdonate, io non ho detto di esserne mal prevenuta; temo, dubito, e me ne vo' assicurare. Potete voi condannarmi?</p>
+               <p>MAR. No, adorabile Contessina. Voi meritate di esser contenta, e desidero che lo siate; felice colui che avrà la sorte di possedere una sposa sì amabile e così sincera. Ammirabile è la vostra virtù, rara è la vostra bellezza, soavi sono e vivacissimi i vostri begli occhi... (<hi rend="italic">con tenerezza</hi>)</p>
+               <p>BEAT. Signor capitano, mi sembra che vi avanziate un po' troppo. (<hi rend="italic">si alza</hi>)</p>
+               <p>MAR. Mi anima l'interesse ch'io prendo pel caro amico.</p>
+               <p>BEAT. Fatelo con un poco più di contegno.</p>
+               <p>MAR. Oh cieli! vorrei pur chiedere... Ma non ardisco.</p>
+               <p>BEAT. Con permissione. È tempo ch'io vada a risvegliare il mio genitore. (<hi rend="italic">in atto di partire</hi>)</p>
+               <p>MAR. Permettetemi.</p>
+               <p>BEAT. E che cosa vorreste?</p>
+               <p>MAR. Ditemi coll'usata vostra sincerità, s'io fossi colui che vi è destinato in isposo, potrei lusingarmi di essere da voi gradito?</p>
+               <p>BEAT. Se amate la sincerità, soffrite ch'io vi dica di no.</p>
+               <p>MAR. Sono orribile agli occhi vostri?</p>
+               <p>BEAT. Non vi dirò, se piacciami o mi dispiaccia l'aspetto vostro. Dicovi solamente, che gli ultimi accenti vostri dimostrano in voi un poco troppo di militare licenza. Io non bramo uno sposo né zotico, né selvaggio; ma lo desidero onesto, morigerato e prudente. (<hi rend="italic">parte</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena sesta</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Marchese</hi> 
+                  <hi rend="italic">solo.</hi>
+               </p>
+               <p>MAR. Oh cieli! in qual orribileconfusione mi trovo! Bello è il carattere della Contessa, poiché è fondato sulla base della più pura sincerità. Ma io mi veggio sul punto di essere da lei ricusato, e dopo averla veduta, e dopo la scoperta fatta del di lei talento e del di lei cuore, la perdita mi sarebbe più dolorosa. Ha detto liberamente, che s'io fossi quel tale, non ne sarebbe contenta. Vero è che mostrò di dirlo, per causa di un mio innocente trasporto, ma potrebbe con ciò aver colorita una maggiore avversione. Che fo io dunque? Mi scopro ad essa qual sono, o torno a Torino senza più rivederla? Ah, non so che risolvere. Ecco l'amico, chiederei ad esso consiglio, ma non mi fido intieramente della sua prudenza.</p>
+            </div>
+            <div type="div2">
+               <head>Scena settima</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Tenente</hi> 
+                  <hi rend="italic">ed il suddetto.</hi>
+               </p>
+               <p>TEN. Amico, noi avremo un sontuoso pranzo. Vi è di grasso e di magro, e il vino di Monferrato è eccellente. Di più avremo un altro compagno a tavola. Un cavaliere mio amico, arrivato qui per la posta in questo momento. Parla con l'oste non so di che, e or ora sarà qui con noi.</p>
+               <p>MAR. E chi è questo forestiere?</p>
+               <p>TEN. Il baron Talismani.</p>
+               <p>MAR. Come! il baron Talismani? (<hi rend="italic">con ammirazione</hi>)</p>
+               <p>TEN. Lo conoscete anche voi?</p>
+               <p>MAR. Non l'ho mai veduto, ma so chi egli è.</p>
+               <p>TEN. Io vi assicuro, ch'è un galantuomo.</p>
+               <p>MAR. Sì, ne son persuaso. Gli avete voi detto, che siete meco? Mi avete a lui nominato?</p>
+               <p>TEN. Non ho avuto tempo di farlo.</p>
+               <p>MAR. Manco male. Avvertite a non dire ad esso chi sono.</p>
+               <p>TEN. Che imbroglio è questo? Evvi fra voi due qualche inimicizia?</p>
+               <p>MAR. Entriamo nella nostra camera. Vi narrerò una stravagante avventura.</p>
+               <p>TEN. Si sa ancora, se avremo la fortuna di aver con noi questa giovane passeggera?</p>
+               <p>MAR. Andiamo. Sentirete intorno ad essa qualche cosa di particolare.</p>
+               <p>TEN. L'avete veduta?</p>
+               <p>MAR. Ritiriamoci; che se viene il Barone, temo non abbia a nascere qualche trista scena. Non è senza mistero la sua venuta. Venite, ascoltatemi, e se mi siete amico, assistetemi. (Ah, temo che si amino, dubito che la Contessa affetti una mentita sincerità. Ardo di sdegno, fremo di gelosia). (<hi rend="italic">entra nella sua camera</hi>)</p>
+               <p>TEN. Che imbroglio è questo? Non lo capisco. Spiacemi di vedere agitato l'amico, ma non vorrei perdere l'occasione di divertirmi con una buona tavola e con una bella ragazza. (<hi rend="italic">entra nella sua camera</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena ottava</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Barone</hi> 
+                  <hi rend="italic">e il </hi>
+                  <hi rend="smallcaps">Cameriere</hi>
+               </p>
+               <p>CAM. Qui, signore, non abbiamo altre camere in libertà. Se vuol restar servita di sopra...</p>
+               <p>BAR. Dov'è il tenente?</p>
+               <p>CAM. Perdoni, io non so di questi signori che sono qui, qual sia il signor tenente.</p>
+               <p>BAR. Quegli che ha parlato meco giù nel cortile.</p>
+               <p>CAM. Sarà in quella camera col suo compagno.</p>
+               <p>BAR. E chi è il suo compagno?</p>
+               <p>CAM. Non lo conosco.</p>
+               <p>BAR. Qual è la camera in cui mi disse il padrone esservi un cavaliere attempato con sua figliuola?</p>
+               <p>CAM. Eccola lì signore: è quella.</p>
+               <p>BAR. Benissimo, non occorr'altro.</p>
+               <p>CAM. Vuol ella uno stanzino nell'appartamento di sopra?</p>
+               <p>BAR. Dove si pranza?</p>
+               <p>CAM. In questa sala.</p>
+               <p>BAR. Bene, resterò qui; io non ho bisogno di camera.</p>
+               <p>CAM. Si serva, come comanda. (<hi rend="italic">parte</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena nona</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Barone</hi> 
+                  <hi rend="italic">solo.</hi>
+               </p>
+               <p>BAR. Nasca quel che sa nascere, vo' prendermi almeno questa soddisfazione. Vo' sapere se la mal'azione che mi vien fatta, proviene dal Conte, o da sua figliuola. Partir senza dirmi nulla? Permettere ch'io vada al solito per visitar la Contessa, e farmi dire da un servitore: Sono partiti? La sera innanzi si sta insieme in conversazione, e non mi si dice: Domattina partiamo? È un insulto, è un'inciviltà insopportabile.</p>
+            </div>
+            <div type="div2">
+               <head>Scena decima</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Conte</hi> 
+                  <hi rend="italic">senza spada, ed il suddetto.</hi>
+               </p>
+               <p>CON. (Che vedo? qui il baron Talismani?) (<hi rend="italic">stando sulla porta della sua camera</hi>)</p>
+               <p>BAR. (Non so se più m'interessi l'amore, o il disprezzo, o la derisione).</p>
+               <p>CON. Signor Barone, la riverisco divotamente. (<hi rend="italic">sostenuto</hi>)</p>
+               <p>BAR. Servo suo, signor Conte. (<hi rend="italic">sostenuto</hi>)</p>
+               <p>CON. Che fa ella qui, signore?</p>
+               <p>BAR. Il mio dovere. Venni per augurarle il buon viaggio, e per usare seco lei quella urbanità, che non si è degnata di praticare con me.</p>
+               <p>CON. Vossignoria potea risparmiarsi l'incomodo. So che per me non si sarà data tal pena.</p>
+               <p>BAR. Sì, signore, sono qui venuto per voi.</p>
+               <p>CON. Ed in che vi posso servire?</p>
+               <p>BAR. Desidero che mi diciate per qual ragione vi siete partito da Milano, senza ch'io abbia avuto l'onor di saperlo.</p>
+               <p>CON. Siccome non abbiamo insieme verun interesse, io non mi sono creduto in debito di parteciparvi la mia partenza.</p>
+               <p>BAR. Parmi che a ciò vi dovesse obbligare il buon costume, l'amicizia, la convenienza.</p>
+               <p>CON. Circa al buon costume, io credo di non averlo da imparare da voi. Se mi parlate dell'amicizia, vi dirò ch'io soglio usarla e misurarla secondo le circostanze; e rispetto alla convenienza, avrei largo campo da giustificarmi, se il rispetto ch'io porto alla vostra casa, non mi costringesse a tacere.</p>
+               <p>BAR. Signore, voi tacendo mi spiacete assai più di quel che possiate fare parlando.</p>
+               <p>CON. Quand'è così adunque, parlerò per ispiacervi meno. Dite, di grazia, sapete voi che la mia figliuola è promessa in isposa ad un cavaliere piemontese?</p>
+               <p>BAR. Lo so benissimo. Ma so altresì, ch'ella non consente sposarlo, senza prima conoscerlo.</p>
+               <p>CON. Siete voi persuaso che una figliuola sia padrona di dirlo, quando il di lei padre ha sottoscritto un contratto?</p>
+               <p>BAR. Io non credo che un padre abbia l'autorità di sagrificare una figlia.</p>
+               <p>CON. Come potete voi dire, che ella sia con queste nozze sagrificata?</p>
+               <p>BAR. E come potete voi assicurarvi, che ella ne sia contenta?</p>
+               <p>CON. Per assicurarmi di ciò, la conduco meco a Torino.</p>
+               <p>BAR. Bene, io non vi condanno per questo. Ma perché non dirlo agli amici vostri?</p>
+               <p>CON. Tutti i miei amici sono stati di ciò avvertiti.</p>
+               <p>BAR. Io dunque non sono da voi onorato della vostra amicizia.</p>
+               <p>CON. Signor Barone, facciamo a parlar chiaro. L'amicizia che dite d'avere per me, non deriva da un sincero attaccamento alla mia persona, ma dall'amore che avete per mia figliuola, e il ciel non voglia che non vi muova piuttosto la condizione di un'unica figlia, erede presuntiva di un genitore non povero. Qualunque sia il pensier che vi stimola, è sempre indegno di un galantuomo, che dee rispettare l'autorità di un padre e la casa di un cavaliere onorato. Può essere che la renitenza di mia figliuola alle nozze, che io le propongo, derivi innocentemente dal di lei cuore, ma ho anche ragion di sospettare, che l'orgoglio di una fanciulla sia animato dalle lusinghe di un amante vicino. Beatrice è saggia e morigerata, ma tanto più mi confermo, che non sia ella per se medesima capace di contradirmi, senza essere prevenuta da qualche occulta passione. Voi siete il solo, su cui cader possono i miei sospetti, ed ho a ragion dubitato, che partecipandovi la risoluzione mia di condurla meco a Torino, aveste l'abilità di persuaderla a contradirmi anche in questo, e pormi in necessità di usar la violenza e il rigore. Ecco la ragione, per cui vi ho tenuto celato il disegno mio di partire, non per mancanza di rispetto a voi ed alla vostra degna famiglia. Se ciò vi sembra un aggravio, vi supplico di perdonarmi. Scusate un padre impegnato, compatite un cavaliere che ha data la sua parola. Esaminate voi stesso, e comprenderete meglio di quello ch'io possa dirvi, se onesti sono i miei sentimenti.</p>
+               <p>BAR. Sì, Conte, mi persuade il vostro sano ragionamento e sono assai soddisfatto dalle vostre cortesi giustificazioni. Vi confesso la verità, ho della stima per la degna vostra figliuola; parliamo liberamente, ho dell'amore, ho della tenerezza per essa, e volesse il cielo ch'io fossi degno di possederla, non già pel vile interesse della sua dote, ma pel merito di quella bellezza e di quella virtù che l'adorna. Vi giuro non pertanto sull'onor mio, non aver io colpa veruna nella ritrosia ch'ella mostra ai voleri vostri. Non son capace di farlo, ed ella non è sì debole per lasciarsi sedurre. Compatitemi, se ho potuto spiacervi. Scusate in me una passione onestissima, concepita per la violenza di un merito sorprendente; assicuratevi del mio rispetto, e fatemi degno della cara vostra amicizia.</p>
+               <p>CON. Ah caro amico, voi mi onorate, voi mi colmate di consolazione. Vi amo, vi stimo, eccovi in quest'abbraccio un sincero segno dell'amor mio.</p>
+               <p>BAR. Conte, poss'io avanzarmi a domandarvi una grazia?</p>
+               <p>CON. Chiedete pure; che non farei per un cavaliere sì degno?</p>
+               <p>BAR. Permettetemi ch'io possa accompagnarvi a Torino.</p>
+               <p>CON. No, scusatemi: questo è quello ch'io non vi posso permettere.</p>
+               <p>BAR. Per qual ragione?</p>
+               <p>CON. Stupisco che non la vediate da voi medesimo. Un padre onorato non ha da condurre la propria figlia allo sposo, coll'amante al fianco.</p>
+               <p>BAR. Io non intendo venirvi che col carattere di vostro amico.</p>
+               <p>CON. È ancora troppo indiviso l'amico del padre, e l'amante della figliuola.</p>
+               <p>BAR. Sono un cavaliere onorato.</p>
+               <p>CON. Se tal siete, appagatevi della ragione.</p>
+               <p>BAR. E bene, s'io non verrò con voi, non mi potrete vietare, ch'io vi seguiti di lontano.</p>
+               <p>CON. Potrò fare in modo per altro, che non restiate in Torino.</p>
+               <p>BAR. Come?</p>
+               <p>CON. Partecipando alla Corte la vostra pericolosa insistenza.</p>
+               <p>BAR. Voi mi siete dunque nemico; voi mi giuraste falsamente amicizia per adularmi.</p>
+               <p>CON. Voi piuttosto cercate d'addormentarmi con ingannevoli proteste d'indifferenza.</p>
+               <p>BAR. I pari miei non mentiscono.</p>
+               <p>CON. I pari vostri dovrebbono conoscer meglio il proprio dovere.</p>
+               <p>BAR. Il mio dover lo conosco, ed insegnerò a voi ad usar il vostro.</p>
+               <p>CON. L'ardire con cui vi avanzate a parlarmi, è prova manifesta del vostro mal animo, e della vostra indegna passione.</p>
+               <p>BAR. Non è cavaliere chi pensa male de' galantuomini.</p>
+               <p>CON. Son cavaliere, e non mi pento de miei sospetti.</p>
+               <p>BAR. Rendetemi conto dell'ingiuria che voi mi fate.</p>
+               <p>CON. Attendetemi, e ve lo proverò colla spada. (<hi rend="italic">in atto di andare alla sua camera</hi>)</p>
+            </div>
+            <div type="div2">
+               <head>Scena undicesima</head>
+               <p rend="center">
+                  <hi rend="italic">La </hi>
+                  <hi rend="smallcaps">Contessa</hi> 
+                  <hi rend="italic">e detti.</hi>
+               </p>
+               <p>BEAT. Ah, padre, trattenetevi per amor del cielo. (<hi rend="italic">al Conte</hi>)</p>
+               <p>CON. Ah, figlia ingrata! ecco svelato il gran mistero delle tue renitenze. Ecco chi ti anima ad una scorretta disobbedienza. Ecco l'oggetto delle tue fiamme, che ti fa odiare l'immagine d'ogni altro sposo. (<hi rend="italic">accennando il Barone</hi>)</p>
+               <p>BAR. (Ah volesse il cielo, ch'egli dicesse la verità!)</p>
+               <p>BEAT. No, signor, v'ingannate. Niuno ha ardito di consigliarmi, né io sono sì docile per lasciarmi vincere e persuadere. Il mio cuore è ancor libero, ed amo tanto questa mia libertà, che ardisco di contrapporla a chi mi ha dato la vita. Niuno più di voi, signore, ha il diritto di comandarmi, e sarei disposta a ciecamente obbedirvi, quando non si trattasse di un sagrifizio sì grande, sì incerto e pericoloso.</p>
+               <p>BAR. (Eppure io mi lusingo ancora ch'ella mi ami).</p>
+               <p>CON. (Vo' assicurarmi s'ella è sincera, o se finge e m'inganna). Tu temi adunque, che il marchese Leonardo possa spiacerti.</p>
+               <p>BEAT. E non è irragionevole il mio timore.</p>
+               <p>CON. E s'ei non è di tuo genio, sei risoluta di non volerlo?</p>
+               <p>BEAT. Perdonatemi, per carità...</p>
+               <p>CON. Oh via, non vo' che tu mi creda così tiranno, ch'io voglia violentare il tuo cuore, e renderti sfortunata per sempre. Sperai, togliendoti da Milano, vederti più rassegnata, temei che un segreto amor ti accendesse; ti credo libera, ti veggio nel tuo pensiero costante; penso di non arrischiare il mio decoro in Torino. Torniamo dunque a Milano. Troverò io la maniera di sciogliere il contratto col marchese Leonardo, e ti porrò nella tua pienissima libertà. Tu vedi per altro che non mancheranno al paese nostro le critiche e le mormorazioni. Sarebbe bene che tu accettassi un altro partito, di cui fossi meglio contenta. Il baron Talismani è un cavaliere di merito. Mi lagnai ingiustamente di lui, credendolo a parte dei tuoi segreti. Lo trovo innocente e mi pento d'averlo insultato. Però s'ei si scorda de' miei trasporti, s'ei non isdegna di averti, se tu acconsenti a un tal nodo, io te l'offerisco in consorte.</p>
+               <p>BAR. Ah Conte, voi mi colmate di giubilo, voi mi colmate di contentezza. Scordomi ogni dispiacere sofferto per una sì amabile sposa, per un suocero sì rispettabile e generoso.</p>
+               <p>BEAT. Piano, signore, con questi titoli di sposa e di suocero. Rendo grazie alla bontà di mio padre, che usami una sì amorosa condiscendenza; ma io non sono in grado di abbandonarmi ad una sì repentina risoluzione.</p>
+               <p>BAR. Oh cieli! ricusate voi la mia mano?</p>
+               <p>BEAT. Il tempo e l'occasione in cui me l'offrite, non merita ch'io ne faccia gran caso. Voi mi vedete in viaggio per vedere uno sposo che mi viene offerto; mi vedete in pericolo di disgustar il mio genitore, s'io non l'accetto, o di porlo in un imbarazzo, se per compiacermi si espone al pericolo di lacerare una scritta. Sembra a voi cosa onesta offrire il mezzo ai sconcerti, alle inimicizie, alle dissensioni?</p>
+               <p>BAR. Signora mia, scusatemi, voi mostrate di essere uno spirito di contraddizione.</p>
+               <p>CON. Rispettate mia figlia. Ella mostra di essere più ragionevole e più saggia di voi.</p>
+               <p>BAR. Sono ormai stanco di sofferire gl'insulti...</p>
+               <p>CON. Acchetatevi per un momento. (<hi rend="italic">al Barone</hi>) Quale dunque sarebbe la tua intenzione? (<hi rend="italic">alla Contessa</hi>)</p>
+               <p>BEAT. Proseguire il nostro cammino: veder lo sposo che mi proponete, assicurarmi del suo carattere e del suo costume. Per poco ch'egli mi piaccia, quando è onesto e discreto, preferirò ad ogn'altro colui che ha l'onore di essere da voi prescielto. Ma quando il cuore mi obbligasse ad odiarlo, avrò coraggio io medesima di manifestargli la mia avversione, di liberar me stessa dal sagrifizio, e di esimer voi da un impegno, premendomi tanto la pace mia, quanto l'onor vostro e la vostra tranquillità.</p>
+               <p>CON. Sì, figlia, tu pensi assai rettamente, e mi lusingo che il cielo ti farà esser contenta.</p>
+               <p>BAR. Qualunque sia la scena che dee succedere, verrò a Torino per esserne anch'io spettatore.</p>
+               <p>CON. Voi non ardirete di farlo.</p>
+               <p>BAR. Né voi avete autorità bastante per impedirmelo.</p>
+               <p>CON. I pazzi si castigano da per tutto.</p>
+               <p>BAR. Pazzo a me? Provvedetevi della vostra spada.</p>
+               <p>BEAT. Qual ardire è codesto?...</p>
+            </div>
+            <div type="div2">
+               <head>Scena dodicesima</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Tenente</hi> 
+                  <hi rend="italic">e detti.</hi>
+               </p>
+               <p>TEN. Alto, alto, signori miei. Non procedete più oltre colle minacce. Sono stato finora testimonio delle vostre contese. Or che vi sento prossimi ad un cimento, son qua io ad interessarmi per la pace comune.</p>
+               <p>CON. Signore, io non ho l'onor di conoscervi.</p>
+               <p>TEN. Sono un uffiziale di Sua Maestà: il tenente Malpresti, per obbedirvi.</p>
+               <p>BEAT. Siete voi il compagno di viaggio del capitano?</p>
+               <p>TEN. Sì, signora, del capitano. (<hi rend="italic">ridendo</hi>)</p>
+               <p>CON. Come conosci tu questo capitano? (<hi rend="italic">alla Contessa</hi>)</p>
+               <p>BEAT. Signore, l'ho qui veduto, ho seco lui favellato. È grande amico del marchese Leonardo. Mi ha ragionato di lui lungamente, mi ha detto dell'amico suo qualche parte di bene, ma per dirvi la verità, non ne sono intieramente contenta.</p>
+               <p>TEN. Non badate, signora, a ciò che vi ha detto il compagno mio. Egli è assai capriccioso, ama moltissimo il marchese Leonardo, l'ama quanto se stesso, e come non ardirebbe di esaltar se medesimo, usa la stessa moderazione parlando del caro amico. Badate a me, che lo conosco egualmente, ma non ho i suoi stessi riguardi. Il marchese Leonardo è il più amabile, è il più gentil cavaliere del mondo.</p>
+               <p>BAR. Signor tenente, voi potevate far a meno d'incomodarvi.</p>
+               <p>TEN. Credetemi, non mi sono incomodato per voi. Sono uscito per impedire un duello, e per rallegrar l'animo di questa bella signora. Ella teme di andare a Torino a sagrificarsi, ed io l'accerto che va incontro ad un sagrifizio, a cui si accomoderebbero più donzelle. Il marchese Leonardo è un cavaliere ben fatto. Parla bene, tratta civilmente con tutti; è di cuor generoso, ed ha fra le altre virtù la più perfetta, la più costante sincerità.</p>
+               <p>BEAT. Tutto ciò va benissimo, e la sincerità principalmente mi appaga. Ma, ditemi la verità: non è egli collerico?</p>
+               <p>TEN. No certamente.</p>
+               <p>BEAT. Non è geloso?</p>
+               <p>TEN. Nemmeno.</p>
+               <p>BEAT. Non impiega il suo tempo fra i libri, le conversazioni e il teatro?</p>
+               <p>TEN. Tutto sa prendere con parsimonia, con moderazione, con discretezza.</p>
+            </div>
+            <div type="div2">
+               <head>Scena ultima</head>
+               <p rend="center">
+                  <hi rend="italic">Il </hi>
+                  <hi rend="smallcaps">Marchese</hi> 
+                  <hi rend="italic">ed i suddetti.</hi>
+               </p>
+               <p>MAR. No, signora, non prestate fede al tenente. Egli è amico del marchese Leonardo quant'io lo sono, e il troppo affetto lo fa trascendere sino a tradire la verità.</p>
+               <p>TEN. E avrete voi il coraggio di farmi comparire un bugiardo? (<hi rend="italic">al Marchese</hi>)</p>
+               <p>MAR. La sincerità mi costringe.</p>
+               <p>TEN. Signora, non gli credete. Io conosco il marchese Leonardo perfettamente.</p>
+               <p>MAR. Signora, assicuratevi ch'io lo conosco meglio di lui.</p>
+               <p>BAR. Ecco, signora Contessa, ecco vicina per causa vostra una nuova disfida.</p>
+               <p>MAR. No, signore, non dubitate; per ciò non ci batteremo. Dica ciò che vuole il tenente, dirò anch'io che il Marchese è un uomo d'onore, ma è necessario altresì ch'io prevenga questa virtuosa damina, esser egli soggetto ai trasporti dell'ira, ed agli incomodi della gelosia. Se non è ella disposta a tollerarlo coi suoi difetti, torni pure a Milano, ponga in calma il suo spirito, non tema dell'insistenza del cavaliere. Prometto io per esso, che sarà posta dal canto suo in intierissima libertà.</p>
+               <p>CON. Potete voi compromettervi della volontà del Marchese?</p>
+               <p>MAR. Non ardirei di così parlare, s'io non ne fossi sicuro.</p>
+               <p>BEAT. Scusatemi, signor capitano. Ho qualche ragione di sospettare della vostra sincerità.</p>
+               <p>BAR. Eh via, signora Contessa, fidatevi dell'onestà di un uffiziale d'onore. Ei vi assicura, che il marchese Leonardo non è per voi.</p>
+               <p>MAR. Signore, di un'altra cosa assicuro la signora Contessa: che il Marchese non ardirà per questo di rimproverar lei, né suo padre; ma farà con voi a suo tempo quei risentimenti, che son dovuti alle vostre male intenzioni.</p>
+               <p>BAR. Spero che il marchese Leonardo sarà più ragionevole che voi non siete.</p>
+               <p>BEAT. Tronchinsi omai questi importuni ragionamenti. Signor padre, andiamo, se vi contentate, andiamo tosto a Torino.</p>
+               <p>MAR. Risparmiate l'incomodo. Io non vi consiglio di andarvi.</p>
+               <p>BEAT. E per qual ragione, signore?</p>
+               <p>MAR. Perché il marchese Leonardo non vi piacerà.</p>
+               <p>BEAT. Voi non potete di ciò assicurarvi.</p>
+               <p>MAR. Ne sono certissimo.</p>
+               <p>BEAT. E con qual fondamento?</p>
+               <p>MAR. Con quello delle vostre parole.</p>
+               <p>BEAT. Può essere che nel trattarlo lo trovi più amabile di quello che voi me lo dipingete.</p>
+               <p>TEN. Assicuratevi, che ne resterete contenta. (<hi rend="italic">alla Contessa</hi>)</p>
+               <p>MAR. Non è possibile.</p>
+               <p>CON. Signore, voi fate sospettare di aver concepito qualche disegno sopra la mia figliuola, e che cerchiate distorla dal primo impegno.</p>
+               <p>BAR. Non sarebbe fuor di proposito, che vi fosse sotto qualche impostura.</p>
+               <p>MAR. Mi maraviglio di voi. Sono un uomo d'onore, e per convincervi quanti siete, ecco mi levo la maschera. Io sono il marchese Leonardo.</p>
+               <p>BEAT. (Oh cieli! Qual sorpresa è mai questa?)</p>
+               <p>BAR. (Ah, temo che sian perdute le mie speranze).</p>
+               <p>CON. Signore, che mai vi ha obbligato a celarvi, a fingere, ed a sorprenderci in sì strano modo?</p>
+               <p>MAR. Il desiderio di vedere la sposa mi ha fatto anticipare il viaggio mio per Milano, e il caso ci ha fatti essere insieme ad un'Osteria della Posta. La sincerità della contessina Beatrice mi ha palesato l'animo suo, la mia candidezza mi ha obbligato ad informarla del mio carattere. Conosco ch'ella non è persuasa del mio sistema, che insopportabili le riuscirebbero i miei difetti, e che agli occhi suoi oggetto poco caro è la mia persona. Tradirei me stesso, se usar tentassi una violenza al di lei bel cuore. Ella è amabile, ella è virtuosa e gentile, ma il cielo non l'ha destinata per me.</p>
+               <p>BEAT. Ah signore, permettetemi ch'io vi dica, che non mi dispiace l'aspetto vostro, e ch'io sono incantata della vostra virtù. Come? Evvi al mondo un animo sì generoso, che per l'amore della verità non teme di screditar se medesimo in faccia di persona ch'egli ama? Voi possedete un sì bel cuore, una sì perfetta sincerità, e temerete ch'io non vi stimi, ch'io non vi rispetti, ch'io non vi adori? Siate pur collerico, con sì saggi principii non potrete esserlo che con ragione. Siate pur geloso, non lo sarete mai senza fondamento. Siate invaghito della società, degli studi, saranno sempre lodevoli le vostre applicazioni, le vostre amicizie. Toccherà a me ad evitare i motivi dei vostri sospetti, delle vostre inquietudini, ed a far sì che fra i piaceri vostri non abbia l'ultimo luogo una sposa tenera e rispettata. Compatite le mie apprensioni, scusate la soverchia delicatezza del modo mio di pensare. Assicuratevi che mi siete caro, che vi amerò sempre, e che il cielo mi ha destinata per voi.</p>
+               <p>MAR. Ah, se tutto è vero quel che voi dite, io sono il più felice di questa terra.</p>
+               <p>CON. Amico, voi avete avuto campo di conoscere il carattere di mia figliuola. Ella non è capace di mentire, e di tradir se medesima per un capriccio.</p>
+               <p>TEN. Beato il mondo, se di tai donne sincere se ne trovasse non dirò in gran copia, ma almeno il quattro o il cinque per cento.</p>
+               <p>CON. Andiamo, signor Marchese, se vi contentate, andiamo tutti a Milano. Colà, secondo il nostro primo concerto, si concluderanno le nozze.</p>
+               <p>MAR. Andiamo pure, se così piace alla mia adorabile Contessina.</p>
+               <p>BEAT. Guidatemi pure dove vi aggrada. Son col mio caro padre, son col mio caro sposo, non posso essere più contenta.</p>
+               <p>TEN. Sì, andiamo, signori: ma con loro buona licenza, diamo prima una buona mangiata, e facciamo onore al prezioso vino di Monferrato.</p>
+               <p>BAR. Confesso che io non merito il piacere di essere della partita, ma vi prego di credermi vostro amico, e assai pentito d'avervi dato qualche motivo di dispiacere Assicuratevi, signor Marchese...</p>
+               <p>MAR. Non più, signore; accetto per vere le vostre giustificazioni, e per disingannar la mia sposa ch'io sia soverchiamente collerico, o pazzamente geloso, vi supplico di restar a pranzo con noi, e di favorirci nel viaggio. Oh viaggio per me felice! Oh fortunata Osteria della Posta! Fortunatissima sempre più, s'ella fia degna della grazia e del compatimento di chi ci ascolta.</p>
+               <p rend="center bold italic">Fine della Commedia</p>
+            </div>
+            <div type="div2" rend="P14">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: L'osteria della posta</p>
+               <p>AUTORE: Goldoni, Carlo</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: Ortolani, Giuseppe</p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: </p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/online/opere/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: Tutte le opere di Carlo Goldoni / a cura di Giuseppe Ortolani. - Milano : A. Mondadori. - v. ; 18 cm. -  (I classici Mondadori).</p>
+               <p>Vol. 8 : 2. ed. - Milano : A. Mondadori, 1955. - 1363 p. ; 18 cm.</p>
+               <p>CODICE ISBN FONTE: informazione non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 11 giugno 2008</p>
+               <p>2a EDIZIONE ELETTRONICA DEL: 10 giugno 2013</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>REVISIONE:</p>
+               <p>Vittorio Bertolini, vittoriobertolini@inwind.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center bold italic">
+                  <ptr target="http://www.liberliber.it/online/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

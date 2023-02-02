@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled Document</title>
+            <author>Luigi Antonelli</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:02.19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-14T18:21:55.445381577</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Luigi Antonelli</author>
+         <div type="div1">
+            <head>Chiaro di luna</head>
+            <p>LUIGI ANTONELLI</p>
+            <p>Chiaro di luna</p>
+            <p rend="center">Atto unico</p>
+            <p rend="start">Mai rappresentata.<lb/>Edita. Pescara, M. Fracchia &amp; C., 1914.</p>
+            <div type="div2" rend="P12">
+               <head>Personaggi</head>
+               <p rend="center">Ugo</p>
+               <p rend="center">Silvia (sua moglie)</p>
+               <p rend="center">Francesco (domestico)</p>
+               <p>L'azione si svolge in un castello solitario, nel tempo nostro.</p>
+               <p>Salone del castello. A sinistra una porta che comunica con le stanze dell'appartamento di <hi rend="smallcaps">Silvia</hi>. In fondo è la comune che dà in una veranda, ai piedi di una selva. A destra è aperta una grande finestra da cui entra la luna più chiara dell'alba: ed è questa la sola luce che illumina la scena. Una lucerna antica, a olio, di tre becchi, è posta sopra un caminetto, spenta. È circa la mezzanotte. Nessuno è in scena all'alzarsi della tela. Dopo un poco entra <hi rend="smallcaps">Ugo</hi>.</p>
+            </div>
+            <div type="div2">
+               <head>Scena prima</head>
+               <p>
+                  <hi rend="smallcaps">Ugo</hi> dalla comune. Volge lo sguardo intorno con circospezione. Sentendo rumore di passi, va a rincantucciarsi in un angolo.</p>
+            </div>
+            <div type="div2">
+               <head>Scena seconda</head>
+               <p>
+                  <hi rend="smallcaps">Francesco</hi> dalla camera di <hi rend="smallcaps">Silvia</hi> si avvia verso l'uscita, nascondendo qualche cosa nella tasca dei calzoni. <hi rend="smallcaps">Ugo</hi> fa due passi verso di lui, piantandoglisi di fronte.</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="end">allibito</p>
+               <p rend="justify">Padrone!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">imponendogli con un segno di tacere e parlandogli a bassa voce</p>
+               <p rend="justify">Non una parola!</p>
+               <p>
+                  <hi rend="smallcaps">Francesco</hi> pallidissimo, rimane muto dinanzi al suo padrone, pronto a seguirne gli ordini.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Tu hai una lettera in tasca.</p>
+               <p>
+                  <hi rend="smallcaps">Francesco</hi> china il capo – una pausa.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Dammela.</p>
+               <p>
+                  <hi rend="smallcaps">Francesco</hi> un po' esitante, ma rassegnato, cava di tasca la lettera e la dà al padrone.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">eccitatissimo, ma dominandosi dinanzi agli occhi del servo, apre la lettera e legge. Poi, fissando il servitore bene in faccia</p>
+               <p rend="justify">Voi non conoscete una parola d'inglese, non è vero?</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">No, signore.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Ascoltatemi bene. Voi siete un furfante, e certamente vi farò saltare le cervella se non obbedirete a quanto vi ordinerò.</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Sono qui per obbedire.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">scandendo bene le parole</p>
+               <p rend="justify">Consegnerete questa lettera alla persona a cui è stata diretta, come se nulla fosse avvenuto tra voi e me, capite? Come se non ci fossimo incontrati. Se quella persona si meraviglierà di trovarla senza busta, direte che la signora avendo fretta di farla recapitare, ve l'ha consegnata così...</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Benissimo.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Quel signore... a cui è diretta la lettera vi sta aspettando in qualche posto... immagino. Dove, precisamente?</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Nella selva, all'ingresso della Lupa...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Benissimo. Badate che tra pochi minuti voi sentirete, forse, un colpo d'arma da fuoco venire dalla selva. Se la signora vi manderà a vedere, voi cercherete di rassicurarla con un pretesto. Qualsiasi altro ordine che vi venga dato dalla signora non dovrà da voi essere eseguito; fingerete, bensì di eseguirlo.</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Sissignore.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Questi sono gli accordi tra me e voi, trasgredendo i quali...</p>
+               <p rend="end">Lo guarda minaccioso</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Tutto sarà fatto come Ella ha ordinato.</p>
+               <p rend="end">Si avvia per uscire</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">trattenendolo</p>
+               <p rend="justify">Un momento.</p>
+               <p>Ed esce precedendo il servo, che si fa da una banda, inchinandosi.</p>
+            </div>
+            <div type="div2">
+               <head>Scena terza</head>
+               <p rend="justify">La scena rimane vuota per qualche istante. Poi entra Silvia in veste da camera, elegantissima, e si ferma a metà della scena. Poi guarda l'orologio, va a sedersi al pianoforte e comincia qualche accordo. Ma all'improvviso si alza, va a guardare alla porta di fondo: indi apre la finestra, si sporge e torna indietro. Rimane così nel mezzo della scena, perplessa. Infine sembra decidersi e si dirige risolutamente verso il caminetto, accende la lucerna, la tiene sospesa per un minuto dinanzi alla finestra come per un segnale. Poi va a sedersi su di una poltrona e aspetta. Si ode in questo momento un colpo di arma da fuoco venire dalla foresta. Ella dà un balzo. Chiama con voce soffocata.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Francesco!</p>
+               <p>Poi cerca il bottone del campanello elettrico e lo spinge due volte</p>
+            </div>
+            <div type="div2">
+               <head>Scena quarta</head>
+               <p>
+                  <hi rend="smallcaps">Francesco</hi> viene dal fondo.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Francesco, avete portato quel biglietto?</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Sì.</p>
+               <p rend="justify">Indi rispondendo ad una interrogazione muta di <hi rend="smallcaps">Silvia</hi>
+               </p>
+               <p rend="justify">Ha detto che andava bene.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">preoccupata</p>
+               <p rend="justify">Francesco, avete udito un colpo di arma da fuoco?</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Sì, signora. Qualche cacciatore che fa la posta alla lepre al chiaro di luna.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">È una cosa molto seccante, che voi potreste evitare. Non è permesso tirare così vicino all'abitato.</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Cercherò domani di sapere chi è stato.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Bravo Francesco. Ora andate pure a dormire. Non ho bisogno d'altro.</p>
+               <p rend="center smallcaps">FRANCESCO</p>
+               <p rend="justify">Buona notte, signora.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Buona notte.</p>
+               <p>
+                  <hi rend="smallcaps">Francesco</hi> esce.</p>
+            </div>
+            <div type="div2">
+               <head>Scena quinta</head>
+               <p>
+                  <hi rend="smallcaps">Silvia</hi> va alla finestra, l'apre di nuovo e rimane così per qualche istante in piedi a guardare la notte. <hi rend="smallcaps">Ugo</hi> entra dalla comune.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">allibita</p>
+               <p rend="justify">Tu... Ugo!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">le va incontro</p>
+               <p rend="justify">Io, sì...</p>
+               <p>
+                  <hi rend="smallcaps">Silvia</hi> rimane come inchiodata al suo posto.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">allegramente, inchinandosi</p>
+               <p rend="justify">Proprio io: il marito!... Vedo, o parmi, d'altra parte, che questo mio ritorno inaspettato, anziché farti piacere...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Tu vuoi scherzare, Ugo! Sono semplicemente sorpresa, ed è naturale!... Sei partito stamane!...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Già... Per un viaggio di almeno quindici giorni... Ah! Ah!... Un marito fa sempre così quando è geloso... Non è il mio caso: rassicurati... Questo si legge nei libri, quando accade...</p>
+               <p>
+                  <hi rend="smallcaps">Silvia</hi> ride forte, nervosamente, mettendosi a sedere.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">...Quando accade...</p>
+               <p rend="justify">Fa per appressarsi alla finestra come se volesse chiuderla</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">prontamente</p>
+               <p rend="justify">Chiudo io. Siedi. Sarai stanco.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">dopo una pausa e dopo che <hi rend="smallcaps">Silvia</hi> si è messa a sedere</p>
+               <p rend="justify">...Quando accade che il marito arriva troppo presto...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">E non sei stanco? Non hai voglia di riposarti?</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">No, veramente... Tutt'altro che stanco!... Questa passeggiata dalla stazione sin qui... una marcia veramente un po' forzata... mi ha messo di buon umore... Mi ha fatto ricordare i bei tempi in cui attraversavo la selva per venire sotto le tue finestre... Ti ricordi? Allora eravamo fidanzati e ci volevamo bene... Almeno così ci pareva... E non mi piaceva che ci fosse la luna!</p>
+               <p rend="end">Una pausa</p>
+               <p rend="justify">Temevo di trovarti già coricata e questo pensiero m'infastidiva... Tu non avresti saputo del mio arrivo che domani mattina... Invece ho poi visto da lontano il lume nella tua stanza e ho avuto un balzo al cuore. Giuro! Giuro che ho accellerato il passo per arrivare più presto... Eh! Lo so... Queste mie parole ti stupiscono! Ma che cosa vuoi! Mi pareva che la notte... il chiaro di luna... l'odore della selva... tutte queste cose pure e serene e grandi eliminassero d'un tratto le piccole miserie che hanno diviso le nostre anime... Così... un sogno! Ti pare strano? Già... Ti pare strano che un uomo come me, che ti ha tradita parecchie volte, che ti ha umiliata anche col non farti neppure un mistero dei suoi tradimenti... che si è reso tante volte indegno del tuo amore e del tuo perdono... ti pare strano che ora parli così? Ma che cosa vuoi? Ho agito di sorpresa in questa mia corsa, stasera, e ho colto in flagrante la mia coscienza che all'improvviso si risentiva sentimentale... Ah! ah! ci voleva tutta la scenografia del nostro castello in una notte incantata come questa... Che hai?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Nulla...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Ti annoio, forse... E allora buona notte... Ma no che non sei annoiata... Tu non ti annoi mai... Tu sei una creatura che o gode o soffre... e devi certo soffrire in questo momento, perché non ti piace che io parli... perché non ti sono più amico... e perché non ti piace essere sorpresa... sia pure in piena innocenza!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">No. Ti dirò che, forse, non mi piace discorrere...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Ah! una virtù rara, il silenzio. Ma tacere non vuol dire essere rassegnata... Quando una donna non rimprovera nulla a un uomo colpevole, è perché, forse, si è consolata. Se non si è consolata, come nel caso tuo, il silenzio è veramente una virtù rara...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">ride nervosamente, si alza, lo fissa in una maniera strana</p>
+               <p rend="justify">Che cosa sai tu?</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Come, che cosa so?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Che cosa sai tu se io sia o non sia una donna capace di fare o non fare una cosa? Da quanto tempo non si discorre insieme un po' più a lungo di quanto non occorra per dirci «buon giorno» o «buona sera?». Dunque? Che cosa puoi sapere tu di quello che è passato e passa nella mia anima? Di quello che io sia divenuta? Di quello che io possa divenire? Ecco un uomo che pretenderebbe di conoscere sua moglie dopo averla lasciata quattro anni sola.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Che cosa vuoi dire con questo?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Voglio dire che io non ho nulla da nascondere: ma se la mia sincerità è una buona cosa, bisognerebbe meritarsela... Tu non hai fatto nulla per meritare qualche cosa... Anzi, mi hai messo davanti agli occhi dei cattivi esempi... Tu sai quali esempi... Ecco perché ti dico: che cosa sai tu di me? Ci voleva una notte di luna e una passeggiata per la selva perché tu ti ricordassi di avere a casa una moglie con cui si poteva anche discorrere per un quarto d'ora di cose più o meno... profonde...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Io mi son sempre ricordato di avere una moglie a casa: e per quanto mi rendessi talvolta immeritevole di lei, mi piaceva immaginarmela buona e fedele... Se c'è una onestà anche per quelli che peccano, questa era la mia... È una forza? È un egoismo? È una viltà? Certo è un riposo. Ogni anima torbida ha un suo riposo in cui si sente in pace... Tu sei sempre stata la mia pace e il mio orgoglio, anche quando non eri più il mio amore...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">con amarezza</p>
+               <p rend="justify">Già, io sono quella che si lascia in casa, ma che si ritrova sempre, quando si vuole, quando il capriccio suggerisce di ricercarla...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">E se un giorno il capriccio divenisse un bisogno, una prova di ravvedimento? Se un giorno, a furia di smarrirsi lontano dalla bontà, quest'uomo tornasse alla vera fonte, dopo di essersi sbagliato tante volte?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">con uno sguardo ed un gesto gelido</p>
+               <p rend="justify">Troppo tardi potrebbe essere quel giorno!</p>
+               <p>Sono in piedi tutti e due.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">fissandola</p>
+               <p rend="justify">Troppo tardi?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">enigmatica</p>
+               <p rend="justify">Che cosa sai tu di me?</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">fissandola lungamente</p>
+               <p rend="justify">So che hai un amante.</p>
+               <p>
+                  <hi rend="smallcaps">Silvia</hi> scoppia in una sonora e nervosa risata.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">con terribile calma</p>
+               <p rend="justify">Ridi pure. So il tuo pallore dietro quel riso.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <list type="ordered">
+                  <head>
+                     <p>c. s.</p> 
+                     <p>Mi fai proprio ridere.</p>
+                  </head>
+               </list>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">E so chi è questo tuo amante, di quale infamia io sono coperto per causa tua...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">gelida</p>
+               <p rend="justify">Ti sfido a dirmi chi è.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">c. s.</p>
+               <p rend="justify">Giacomo Riva.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Calunnie.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Non mentire o io non sono più padrone di me. È già un miracolo che io possa dominarmi così.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Ma se non è vero!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Taci! Non negarlo! Ancora una volta ti dico di non mentire!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">È una menzogna! È una menzogna!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">appressandosi a lei con collera repressa, quasi sfiorandole il viso col suo fiato</p>
+               <p rend="justify">No, che non è una menzogna!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">retrocedendo di un passo, spaventata, ma pure dominando la sua ansia</p>
+               <p rend="justify">Ti sfido a fornirmi la prova di quanto asserisci...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">c. s.</p>
+               <p rend="justify">La prova... la prova... io l'ho la prova!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">impallidendo</p>
+               <p rend="justify">L'hai?... E quale?</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Io l'ho, capisci? È tale che tu non oserai neanche pronunciare una parola di difesa... Nemmeno una!... Io ho tale prova che tu fra un istante sarai qui soffocata da un'angoscia di morte...</p>
+               <p>Una pausa. <hi rend="smallcaps">Silvia</hi> è tenuta visibilmente da un'angoscia mortale. Infine ella si decide a conoscere la verità ad ogni costo.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Qual'è questa prova? Io ti sfido a darmela.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Tu mi sfidi! Ebbene, vorresti miglior prova di questa? Io ho ammazzato dianzi, con un colpo di fucile, il tuo amante, all'ingresso della Lupa.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">con un grido straziante</p>
+               <p rend="justify">Assassino!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Ecco! Ed ora nega, se puoi.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">stringendosi la faccia con le mani</p>
+               <p rend="justify">Assassino... assassino... Ho udito il colpo...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Ah sì? L'hai udito?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">dopo una pausa, fissandolo con uno sguardo in cui si leggono tutte le disperazioni</p>
+               <p rend="justify">Ebbene, sì, assassino, era il mio amante! Era! Era!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Anch'io n'ero così certo che, vedi bene, l'ho ucciso.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">singhiozzando, eppure agitata dall'ira</p>
+               <p rend="justify">Assassino... sei stato tu che mi hai spinta, disperata, fra le sue braccia!... Pure quell'uomo non sarebbe mai entrato in questa casa, se la tua condotta infame non mi avesse dispensata da ogni ritegno. E se anch'io sono stata colpevole, che m'importa? L'hai ucciso? Vada da lui. Ora che egli non potrà più entrare in questa casa, io ne uscirò per sempre: lasciami passare.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">piantandosi dinanzi alla porta</p>
+               <p rend="justify">Tu non uscirai di qui.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">fremendo</p>
+               <p rend="justify">Guarda, che io non ti riconosco alcun diritto, in questo momento, all'infuori di quello di uccidermi. Il diritto di discutere, no... Lasciami passare o io griderò: farò accorrere i servi. Lasciami, ché io sono disperata, e non toccarmi... assassino! ... assassino!... assassino!...</p>
+               <p rend="justify">Una pausa, durante la quale si ode il respiro affannoso di quelle due anime disperate e nemiche</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">con dolore profondo</p>
+               <p rend="justify">Come lo amavi! Questo io ho voluto sapere. Io ho voluto conoscere di che specie fosse il tuo amore. Perciò ti ho detto che l'ho ucciso...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">con uno scatto improvviso ed un guizzo di speranza nello sguardo</p>
+               <p rend="justify">Ah!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">con grande amarezza</p>
+               <p rend="justify">Sì: è vivo il tuo amante! Quel colpo è stato tirato per una finzione!...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">cerca di prendergli una mano</p>
+               <p rend="justify">Giura!</p>
+               <p>
+                  <hi rend="smallcaps">Ugo</hi> allontanandola con un gesto brusco e quasi con orrore.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">con tutto il viso irradiato di gioia</p>
+               <p rend="justify">Giura! Giura!</p>
+               <p rend="justify">Va alla finestra, poi torna verso <hi rend="smallcaps">Ugo</hi>, si porta rapidamente una mano alla fronte, assumendo un atteggiamento quasi insinuante</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">fissandola</p>
+               <p rend="justify">La mia gioia è bene ch'egli sia vivo! Ma darà ragione a me di quello che ha fatto.</p>
+               <p rend="justify">Va ad aprire la finestra, <hi rend="smallcaps">Silvia</hi> è alle sue spalle, anelante</p>
+               <p rend="justify">Lo vedi che è proprio vivo!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">sobbalzando</p>
+               <p rend="justify">Ah!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">sarcastico</p>
+               <p rend="justify">Peccato! Se io fossi stato più prudente avremmo avuto il piacere di vederlo capitare qua dentro, per puro caso! Ah! Ah! Poverino! La sua ansietà in questo momento deve essere enorme. Egli deve avere vedute le nostre due ombre agitarsi qua dentro. Immaginerà forse qualche brutto scherzo. In ogni caso, ecco per lui un'avventura romantica andata a male!... Un castello, un vero castello, una selva, una signora che si annoia... E la luna sopra tutto ciò! Una luna inverosimile e coreografica...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">ormai decisa a tutto</p>
+               <p rend="justify">Non l'uccidere, sai?</p>
+               <p>
+                  <hi rend="smallcaps">Ugo</hi> la guarda come trasognato, colpito dall'ardire e dall'atteggiamento di lei: atteggiamento di lotta e quasi di sfida.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Non l'uccidere! Bada che io difendo quell'uomo! Bada che non lo colpirai senza colpirmi. Bada che qui, tra poco, saranno a te di fronte due nemici!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">con dolorosa ironia, dominandosi appena</p>
+               <p rend="justify">Nemico... lui? Via, non esagerare! Egli non è che un ladro! Profitta della mia assenza dal castello per venirmi a rubare non importa che cosa, con la complicità vostra? Quel ladro lo ammazzo. Non ho voluto farlo, dianzi, all'ingresso della Lupa, perché la caccia alla posta... mi ripugna... Preferisco scovarla, la selvaggina, e farmela venire di fronte. Per un ladro è già troppo onore!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">con ira repressa e con infinita disperazione</p>
+               <p rend="justify">Oh, infame, infame! Lo uccide! E tutta la mia vita è spezzata... Tutto, tutto mi hai tolto, tu! Mi hai tolto la libertà di ragazza per torturarmi, per umiliarmi, per farmi disperare... Ho sopportato quattro anni questa tortura... Poi mi sono ribellata... ho creduto di avere anch'io diritto alla vita... E ho dovuto ammiserire questa mia rivolta, che non ha nulla di basso, con la paura, con la finzione... Ah!... ma sarei contenta, vedi, che questo accadesse... se una bella anima non fosse messa, ora, per colpa mia, a repentaglio di morte... Ma poiché sono stata io che ho voluto quell'uomo... lascialo vivere, lui... la sua esistenza è preziosa per tanta gente... Di me che cosa potresti fare, dopo averlo soppresso? Sarei per te meno che un automa e tu mi faresti orrore...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">con infinita tristezza</p>
+               <p rend="justify">Come lo ami!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">sorpresa, ma diffidente</p>
+               <p rend="justify">Forse che vuoi farmi credere che soffri?</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">con uno scatto d'ira</p>
+               <p rend="justify">Perché... perché lo ami così... Che cosa ha fatto quell'uomo per meritare questo...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">sempre diffidente, appressandosi a lui</p>
+               <p rend="justify">Rispondi: vuoi farmi credere che soffri? Non mentire! Qui si sta a un passo dalla morte. Abbi anche tu il coraggio di essere franco. So che non soffri.</p>
+               <p rend="end">Quasi implorando</p>
+               <p rend="justify">Non rendermi ancor più l'anima perplessa... Sei ferito nel tuo orgoglio e vuoi vendicarti, ed è giusto...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">con un grido disperato</p>
+               <p rend="justify">No! No! Soffro! Soffro! Un abisso hai scavato in me, perdendoti... In quell'abisso ho ritrovata ancora un'anima, forse ancora a me stesso ignota... Ah, che pure io avevo la mia segreta gioia! Quando tornavo a casa, colpevole, e ti ritrovavo pura, ti ritrovavo innocente... Ah, che torbida rivolta contro di me e che felicità di chiudere gli occhi e di saperti immacolata accanto alla mia inquietudine fosca... Non è vendetta, ora, no!... Ti avrei uccisa... o lo avrei ucciso... Ma sono stato vile...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Perché?</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Non l'ho ucciso perché avevo paura che tu ne soffrissi troppo... Ti amavo... Avevo paura del tuo dolore...</p>
+               <p rend="end">Singhiozzando</p>
+               <p rend="justify">Sì, avevo paura che tu ne morissi!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">sbalordita</p>
+               <p rend="justify">Taci!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">E che morissi senza sapere... che io, io... ti amo... e che sono tanto infelice... Vedi, io sento in me quella infelicità a cui non si sopravvive...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Taci! Taci!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Che miseria... non è vero? Che grande miseria!...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Ti scongiuro... non mentire... Non posso crederti.</p>
+               <p rend="end">Quasi rabbiosamente</p>
+               <p rend="justify">Non voglio! Ho tanto terrore...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Di che?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Ho tanto terrore di crederti...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Oh! Silvia... Forse che mi hai visto qualche altra volta piangere dinanzi a te?</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">con disperazione</p>
+               <p rend="justify">Oh! T'avessi visto almeno piangere una sola lacrima! Sarei stata salva... Sarebbe bastata anche una parola...</p>
+               <p>
+                  <hi rend="smallcaps">Ugo</hi> singhiozza.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Dimmi perché per lungo tempo mi hai abbandonata. Dimmi perché hai voluto umiliare la mia inutile devozione... Dimmi perché hai tanto riso... Oh sì! Se io non ti avessi visto sogghignare così ferocemente, che cosa sarebbe importato a me di vivere anche non riamata ma fedele al tuo fianco? Oh, mi sarei contentata di una elemosina se tu che me l'offrivi avessi avuto un gesto di umanità! Eppure io ero bella, io ero giovine, io ero amante! E ora piangi? Piangi?</p>
+               <p rend="justify">Sempre più gridando, con disperazione</p>
+               <p rend="justify">Piangi?</p>
+               <p>Una pausa. Si ode il singhiozzo represso di lui e il respiro affannoso di <hi rend="smallcaps">Silvia</hi>.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">avvicinandosi a lui sempre più</p>
+               <p rend="justify">Questo tuo dolore mi soffoca... Perché, perché hai inabissata dapprima la mia esistenza e ora vieni ad affacciarti sull'orlo dell'abisso per mostrarmi la tua faccia angosciata? Ah! È ben meglio che tu mi uccida ora...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">No, ché tu vuoi vivere per lui...</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Ascolta, Ugo. Io amo quell'uomo...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Ah!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">...Ma tu, col tuo dolore, in questo momento, è come se avessi messo a giacere il tuo cadavere tra noi due... Guarda: tra me e quella porta!...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">la guarda con gli occhi sbarrati, colpito dalle parole di lei. Sembra all'improvviso risolversi e corre verso la finestra. Poi torna rapidamente vicino a  <hi rend="smallcaps">Silvia</hi>
+               </p>
+               <p rend="justify">Egli m'aspetta laggiù... Vado!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">avviticchiandosi a lui</p>
+               <p rend="justify">No!</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">accarezzandole i capelli</p>
+               <p rend="justify">Lasciami andare. Sei bella, Silvia! Per tanto tempo non ho osato dirtelo più... Ora, vedi, ho questo coraggio. Potrei essere felice, ma c'è qualcuno, al cancello, che è arrivato prima di me. Non si passa più.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">quasi senza fiato</p>
+               <p rend="justify">Ugo! Ugo!...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="justify">Succede sempre così. Ma chi sbarra la porta non deve essere lui. Lasciami andare.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">c. s.</p>
+               <p rend="justify">No, non voglio che tu esponga la tua vita... È armato. Ti ucciderebbe.</p>
+               <p>
+                  <hi rend="smallcaps">Ugo</hi> stringendosela improvvisamente al petto, la bacia a lungo sulla bocca. <hi rend="smallcaps">Silvia</hi> si sente mancare. Le braccia le cadono inerti ai fianchi. Ella piega i ginocchi quasi stesse per svenire. <hi rend="smallcaps">Ugo</hi> l'abbandona così, ed esce in fretta.</p>
+            </div>
+            <div type="div2">
+               <head>Scena sesta</head>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">con uno sforzo si alza, rimane diritta un momento nel mezzo della scena. Poi corre alla finestra e chiama</p>
+               <p rend="justify">Ugo!</p>
+               <p rend="justify">Ella è anelante. Spinge lo sguardo laggiù, tenuta da una ansietà, febbrile, da una disperazione inumana</p>
+               <p rend="justify">Eccoli... Per pietà.... Ah! No! No! No'.</p>
+               <p>
+                  <hi rend="smallcaps">Silvia</hi> getta un urlo di orrore e si copre gli occhi come per sfuggire una visione angosciosa. Qualche cosa d'irreparabile è accaduto, al di fuori, ed ella dà nella scena muta l'impressione di quell'orrore. Poi si aggira come folle entro la stanza. Ed ecco si ode un passo pesante dietro la porta. Qualcuno sta per entrare. Una lunga pausa d'angoscia, durante la quale il passo risuona più lugubre e più tragico. Ella rimane in ascolto, aggricciata, col collo teso e l'anima anelante.</p>
+            </div>
+            <div type="div2">
+               <head>Scena ultima</head>
+               <p>
+                  <hi rend="smallcaps">Ugo</hi> entra barcollando, pallidissimo, tenendosi una mano sul petto.</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="end">disperatamente</p>
+               <p rend="justify">Ugo! Ti sei lasciato ferire... anima mia... ho visto tutto... Ho visto tutto!...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">sorridendo</p>
+               <p rend="justify">Non sarai più sua... Ho voluto portarti quassù il mio corpo per impedirgli di entrare... Chiudi quella porta a chiave.</p>
+               <p>
+                  <hi rend="smallcaps">Silvia</hi> lo guarda trasognata.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">col viso stravolto</p>
+               <p rend="justify">Chiudi!</p>
+               <p>
+                  <hi rend="smallcaps">Silvia</hi> va a girare la chiave.</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">c. s.</p>
+               <p rend="justify">Giura che non lo vedrai più... Giura!</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">Sì... sì... Giuro! Oh, lo puoi credere...</p>
+               <p rend="center smallcaps">UGO</p>
+               <p rend="end">sorridendo</p>
+               <p rend="justify">Sì... sì...</p>
+               <p rend="justify">Accenna ancora di sì col capo mostrando di essere persuaso che l'altro non entrerà più. Poi cade morto tra l'uscio e la donna</p>
+               <p rend="center smallcaps">SILVIA</p>
+               <p rend="justify">singhiozzando disperatamente, inginocchiata presso il corpo di lui</p>
+               <p rend="justify">Ugo! Ugo! Ugo!</p>
+               <p rend="center bold">Sipario</p>
+            </div>
+            <div type="div2" rend="P11">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: Chiaro di luna</p>
+               <p>AUTORE: Antonelli, Luigi</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: Paesani, Luciano</p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: </p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: Teatro / Luigi Antonelli ; a cura e con un saggio di Luciano Paesani ; prefazione di Franca Angelini. - [Atri] : Amici del libro abruzzese, stampa 2001. - 2 v. - CVII, 511 p. ; 24 cm. - 637 p. ; 24 cm.</p>
+               <p>CODICE ISBN FONTE: non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 9 aprile 2013</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center bold">
+                  <ptr target="http://www.liberliber.it/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

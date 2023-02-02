@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'avaro</title>
+            <author>Carlo Goldoni</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-10-29T17:22:43.311570760</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <div type="div1" rend="P25">
+            <head>L'avaro</head>
+            <author>Carlo Goldoni</author>
+            <subtitle>COMMEDIA</subtitle>
+            <p rend="center">Rappresentata in Bologna da una nobilissima compagnia di Cavalieri e Dame nel 1756.</p>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc6559_2136720637"/>L'AUTORE A CHI LEGGE<ptr type="bookmark-end" target="#id___RefHeading___Toc6559_2136720637"/>
+               </head>
+               <p>Una Commedia di un atto solo sembrerà forse a taluno poca cosa per l'integrità del Tomo e cosa facile per un autore. Io, con buona grazia di chi ciò crede, non accordo nè l'una, nè l'altra delle sue conghietture. Rispetto all'integrità, quando una Commedia d'un atto solo ha tutte le parti che si richiedono in un simile componimento, è tanto Commedia intiera, quanto lo è <hi rend="italic">Calisto e Melibea</hi>, che è composta in quindici atti. I Francesi hanno moltissimo in uso le <hi rend="italic">petites pièces</hi>, che vuol dire in italiano le picciole Commedie; picciole per la mole, non già per l'argomento, per l'intreccio e lo scioglimento. Sono utili tali Commedie per le conversazioni e per li Teatri, allora quando si rappresentino delle Tragedie, le quali per ordinario sono brevi e melanconiche, e la Commedia di un atto allunga il divertimento, e rallegra il popolo contristato. Questa fu da me scritta per comando di S. E. il Sig. Marchese Francesco Albergati Senator di Bologna, ad uso di Cavalieri e Dame di quella Città, ed ebbe la fortuna di essere recitata perfettamente, e di piacere non dirò per se stessa, ma per il merito degli Attori, e mi lusingo che recitata da bravi Comici, dopo di una Tragedia, non farebbe cattivo effetto in qualunque Teatro; anzi io credo necessarissimo, che al Teatro Italiano non manchi anche questa specie di divertimento, di cui abbonda il Francese, e che possa il pubblico compiacersene, siccome ne abbiamo veduto l'anno scorso in Venezia un favorevole esempio, avendo il dottissimo Conte Gasparo Gozzi tradotta dal Francese, e data al pubblico con fortuna, una simile rappresentazione.</p>
+               <p>Se poi alcuno cosa facile la credesse, e di minore studio di una Commedia di tre o di cinque atti, s'ingannerebbe moltissimo. Il ritrovato dell'argomento è lo stesso, i caratteri servono egualmente alla brevità e alla lunghezza, l'intreccio, la peripezia, la catastrofe sono parti integrali e indispensabili tanto della Commedia più breve, quanto della più lunga. Ella è bensì cosa malagevole e difficoltosa consumare l'intiera azione in sì corto tempo, e vincolare la fantasia in così limitati confini. In una regolare Commedia, divisa in atti, abbiamo la libertà di estenderci a ventiquattr'ore di tempo. La divisione degli atti è comodissima per l'Autore, figurando fra un atto e l'altro delle cose che non si vedono, ma vengono poi artificiosamente accennate. Per lo contrario, nella Commedia di un atto solo, l'azione che si rappresenta dee consumarsi in iscena in quel ristretto tempo in cui un fatto vero potrebbe ragionevolmente accadere. Se ciò è facile a meditarsi e ad eseguirsi, lo lascio giudicare a chi intende.</p>
+               <p rend="justify">Se alcuno si lagnerà di questa breve Commedia, sarà perchè, bramoso di leggere più lungamente, gl'increscerà di aver troppo presto finito il divertimento, ma se penserà poi alla fatica ch'essa mi costa, ed all'onesto fine per cui l'ho stampata, spero mi sarà grato, o per lo meno indulgente. Non creda però ch'io voglia abusarmi della sua compiacenza. Tre o quattro di queste brevi Commedie in una lunga serie di Tomi, mi sembrano compatibili anche da' più avidi di leggere e di divertirsi; e ve ne sono, e ve ne saranno di così lunghe che pesandole tutte insieme, credo vi sarà per tutti il giusto peso e la giusta misura.</p>
+            </div>
+            <div type="div2" rend="P26">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc6561_2136720637"/>PERSONAGGI<ptr type="bookmark-end" target="#id___RefHeading___Toc6561_2136720637"/>
+               </head>
+               <p>DON AMBROGIO, vecchio avaro.</p>
+               <p>DONNA EUGENIA, vedova, nuora di Don Ambrogio.</p>
+               <p>IL CONTE FILIBERTO dell'Isola.</p>
+               <p>IL CAVALIERO COSTANZO degli Alberi.</p>
+               <p>DON FERDINANDO, giovane Mantovano.</p>
+               <p>CECCHINO, servitore.</p>
+               <p>Un <hi rend="smallcaps">Procuratore,</hi>  che non parla.</p>
+               <p rend="center">La Scena si rappresenta in Pavia, in una galleria in casa di don Ambrogio.</p>
+            </div>
+            <div type="div2">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16492_2136720637"/>ATTO SOLO<ptr type="bookmark-end" target="#id___RefHeading___Toc16492_2136720637"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16494_2136720637"/>SCENA PRIMA<ptr type="bookmark-end" target="#id___RefHeading___Toc16494_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Ambrogio</hi>
+                     <hi rend="italic">  solo.</hi>
+                  </p>
+                  <p rend="justify">Oh quanto vale al mondo un poco di buona regola! Ecco qui, in un anno, dopo la morte di mio figliuolo, ho avanzato due mila scudi. Sa il cielo, quanto mi è dispiaciuto il perdere l'unico figlio ch'io aveva al mondo, ma s'ei viveva un paio d'anni ancora, l'entrate non bastavano, e si sarebbono intaccati i capitali. È grande l'amor di padre, ma il danaro è pure la bella cosa! Spendo ancora più del dovere, per cagione della nuora ch'io tengo in casa. Vorrei liberarmene, ma quando penso che ho da restituire la dote, mi vengono le vertigini. Sono fra l'incudine ed il martello. Se sta meco, mi mangia le ossa; se se ne va, mi porta via il cuore. Se trovar si potesse... Ecco qui quest'altro tàccolo, che mi tocca soffrire in casa. Un altro regalo di mio figliuolo; ma ora dovrebbe andarsene.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16496_2136720637"/>SCENA II<ptr type="bookmark-end" target="#id___RefHeading___Toc16496_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Fernando</hi>
+                     <hi rend="italic">  e detto.</hi>
+                  </p>
+                  <p rend="justify">FER. Buon giorno, signor Don Ambrogio.</p>
+                  <p rend="justify">AMB. Per me non vi è più nè il buon giorno, nè la buona notte.</p>
+                  <p rend="justify">FER. Compatisco l'amor di padre. Voi perdeste nel povero Don Fabrizio il miglior cavaliere del mondo.</p>
+                  <p rend="justify">AMB. Don Fabrizio era un cavaliere che avrebbe dato fondo alle miniere dell'Indie. Dacchè si è maritato, ha speso in due anni quello ch'io non avrei speso in dieci. Son rovinato, signor mio caro, e per rimettermi un poco, mi converrà vivere da qui in avanti con del risparmio, e misurare il pane col passetto.</p>
+                  <p rend="justify">FER. Perdonatemi. Non mi so persuadere che la vostra casa sia in questo stato.</p>
+                  <p rend="justify">AMB. I fatti miei voi non li sapete.</p>
+                  <p rend="justify">FER. Mi disse pure vostro figliuolo...</p>
+                  <p rend="justify">AMB. Mio figliuolo era un pazzo, pieno di vanità, di grandezze. La moglie lo dominava, e gli amici gli mangiavano il cuore.</p>
+                  <p rend="justify">FER. Signore, se voi lo dite per me, in un anno che ho l'onore di essere in casa vostra, a solo motivo di addottorarmi in questa università, credo che mio padre abbia bastantemente supplito.</p>
+                  <p rend="justify">AMB. Io non parlo per voi. Mio figliuolo vi voleva bene, e vi ho tenuto in casa per amore di lui; ma ora che avete presa la laurea dottorale, perchè state qui a perdere il vostro tempo?</p>
+                  <p rend="justify">FER. Oggi aspetto lettere di mio padre; e spero che quanto prima potrò levarvi l'incomodo.</p>
+                  <p rend="justify">AMB. Stupisco che non abbiate desiderio di andare alla vostra patria a farvi dire il signor dottore. Vostra madre non vedrà l'ora di abbracciare il suo figliuolo dottore.</p>
+                  <p rend="justify">FER. Signore, la mia casa non si fonda su questo titolo. Credo vi sarà noto essere la mia famiglia...</p>
+                  <p rend="justify">AMB. Lo so che siete nobile al par d'ogni altro; ma ehi! la nobiltà senza i quattrini non è il vestito senza la fodera, ma la fodera senza il vestito.</p>
+                  <p rend="justify">FER. Non credo essere dei più sprovveduti.</p>
+                  <p rend="justify">AMB. Oh, bene, dunque, andate a godere della vostra nobiltà, delle vostre ricchezze. Voi non istate bene nella casa di un pover'uomo.</p>
+                  <p rend="justify">FER. Signor Don Ambrogio, voi mi fareste ridere.</p>
+                  <p rend="justify">AMB. Se sapeste le mie miserie, vi verrebbe da piangere. Non ho tanto che mi basti per vivere, e quel capo sventato della mia illustrissima signora nuora vuole la conversazione, la carrozza, gli staffieri, la cioccolata, il caffè... Oh povero me! sono disperato.</p>
+                  <p rend="justify">FER. Non è necessario che la tenghiate in casa con voi.</p>
+                  <p rend="justify">AMB. Non ha nè padre, nè madre, nè parenti prossimi. Volete voi ch'io la lasci sola? In quell'età una vedova sola? Oh! non mi fate dire.</p>
+                  <p rend="justify">FER. Procurate ch'ella si rimariti.</p>
+                  <p rend="justify">AMB. Se capitasse una buona occasione.</p>
+                  <p rend="justify">FER. La cosa non mi par difficile. Donna Eugenia ha del merito, e poi ha una ricca dote...</p>
+                  <p rend="justify">AMB. Che dote? che andate voi dicendo di ricca dote? Ha portato in casa pochissimo, e intorno di lei abbiamo speso un tesoro. Ecco qui la nota delle spese che si son fatte per l'illustrissima signora sposa; eccole qui; le tengo sempre di giorno in tasca, e la notte sotto il guanciale. Tutte le disgrazie che mi succedono, mi pajono meno pesanti di queste polizze. Maledetti pizzi! maledettissime stoffe! oh moda, moda, che tu sia maledetta! Ci gioco io, che se ora si rimarita, queste corbellerie, in conto di restituzione, non me le valutano la metà.</p>
+                  <p rend="justify">FER. Dite nemmeno il terzo.</p>
+                  <p rend="justify">AMB. Obbligato al signor dottore. (<hi rend="italic">mostra di soler </hi>
+                     <hi rend="italic">partire, poi torna indietro</hi>)<hi rend="italic"> </hi>Mi scordava di dirvi una cosa.</p>
+                  <p rend="justify">FER. Mi comandi.</p>
+                  <p rend="justify">AMB. Così, per mia regola, avrei piacer di sapere quando avete stabilito di andarvene.</p>
+                  <p rend="justify">FER. Torno a ripetere che oggi aspetto le lettere di mio padre.</p>
+                  <p rend="justify">AMB. E se non vengono?</p>
+                  <p rend="justify">FER. Se non vengono... Mi sarà forza di trattenermi.</p>
+                  <p rend="justify">AMB. Fate a modo mio, figliuolo: fategli una sorpresa; andate a Mantova, e comparitegli all'improvviso. Oh, con quanta allegrezza abbracceranno il signor dottore!</p>
+                  <p rend="justify">FER. Da qui a Mantova ci sono parecchie miglia.</p>
+                  <p rend="justify">AMB. Non avete denari?</p>
+                  <p rend="justify">FER. Sono un poco scarso, per dire il vero.</p>
+                  <p rend="justify">AMB. V'insegnerò io, come si fa. Si va al Ticino, si prende imbarco, e con pochi paoli vi conducono fino all'imboccatura del Mincio.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16498_2136720637"/>SCENA III<ptr type="bookmark-end" target="#id___RefHeading___Toc16498_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Fernando </hi>
+                     <hi rend="italic">solo.</hi>
+                  </p>
+                  <p rend="justify">Ecco a che conduce gli uomini l'avarizia. Don Ambrogio nobile e ricco, reputa sè medesimo per il più vile, il più miserabile. E si può dire ch'egli sia tale, giacchè la nobiltà si fa risplendere colle azioni, e le ricchezze non vagliono, se non si fa di esse buon uso. Doveva andarmene di questa casa tosto che cessò di vivere l'amico mio Don Fabrizio, ma appunto la di lui morte è la cagione per cui mi arresto. Ah sì, il rispetto ch'io ebbi per donna Eugenia, vivente il di lei marito, si è cambiato in amore da che ella è vedova; e alimentandosi la mia speranza... Ma quale speranza posso aver io di rimanere contento, se ovunque mi volgo, trovo degli ostacoli all'amor mio? Ella non sa ch'io l'ami, e, sapendolo, può dispregiarmi. Ho due rivali possenti, che la circondano. Mio padre non vorrà per ora ch'io mi mariti; sarebbe per me la migliore risoluzione il partire. Sì, partirò; ma non voglio avermi un giorno a rimproverare d'aver tradito me stesso per una soverchia viltà. Sappia ella ch'io l'amo, e quando l'amor mio non gradisca... Eccola a questa volta. Vorrei pur dirle... ma non ho coraggio di farlo. Prenderò tempo... mediterò le parole... Oh cuor pusillanimo! ho rossore di me medesimo. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16500_2136720637"/>SCENA IV<ptr type="bookmark-end" target="#id___RefHeading___Toc16500_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eugenia</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Cecchino</hi>
+                  </p>
+                  <p rend="justify">EUG. E fino a quando dovrò menar questa vita? Chi può soffrire le indiscretezze di Don Ambrogio? Le passioni d'animo hanno per sua cagione condotto a morte il povero mio marito, ed ora codesto vecchio vorrebbe farmi diventar tisica per la rabbia, per la disperazione. Sì, voglio rimaritarmi. Ma non basta che io lo voglia, conviene attendere l'occasione, e se non son certa di migliorare il mio stato, non vo' arrischiarmi di ricadere dalla padella alle brace.</p>
+                  <p rend="justify">CEC. Signora, il signor Conte dell'Isola brama di riverirla.</p>
+                  <p rend="justify">EUG. È padrone. (<hi rend="italic">Cecchino parte</hi>)<hi rend="italic"> </hi>Questi non sarebbe per me un cattivo partito. È un cavaliere di merito, ma la di lui serietà mi riesce qualche volta stucchevole; al contrario del Cavaliere, che ha dello spirito un poco troppo vivace. E pure ad uno di questi due vorrei ristringere la mia scelta. So che mi amano entrambi, e so che una impegnata rivalità... Ma ecco il Conte.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16502_2136720637"/>SCENA V<ptr type="bookmark-end" target="#id___RefHeading___Toc16502_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="italic">Il </hi>
+                     <hi rend="bold">Conte dell'Isola </hi>
+                     <hi rend="italic">e detta.</hi>
+                  </p>
+                  <p rend="justify">CON. Servitore umilissimo di donna Eugenia.</p>
+                  <p rend="justify">EUG. Serva, Conte. Favorite di accomodarvi</p>
+                  <p rend="justify">CON. Per obbedirvi. (<hi rend="italic">siedono</hi>)</p>
+                  <p rend="justify">EUG. Siete appunto venuto in tempo ch'io aveva bisogno di compagnia.</p>
+                  <p rend="justify">CON. Mi chiamerei fortunato, s'io potessi contribuire a qualche vostra soddisfazione.</p>
+                  <p rend="justify">EUG. Le vostre espressioni sono effetti della vostra bontà.</p>
+                  <p rend="justify">CON. Non mai al merito vostro adeguate.</p>
+                  <p rend="justify">EUG. Sempre gentile il Conte dell'Isola.</p>
+                  <p rend="justify">CON. Vorrei esserlo, per aver l'onor di piacervi.</p>
+                  <p rend="justify">EUG. La vostra conversazione mi è sempre cara.</p>
+                  <p rend="justify">CON. Lo voglio credere, perchè lo dite. Ma per il vostro spirito la mia conversazione è assai poca.</p>
+                  <p rend="justify">EUG. Voi mi mortificate senza ragione.</p>
+                  <p rend="justify">CON. Prendetela per una sciocchezza. Io non so divertirvi diversamente.</p>
+                  <p rend="justify">EUG. Fate torto a voi stesso. Buon per voi che favellate con chi vi conosce.</p>
+                  <p rend="justify">CON. No, donna Eugenia, io sono un uomo sincero e non ho altro di buono, oltre la conoscenza di me medesimo. A fronte del Cavaliere, so che io ci perdo, ma non importa: non confido soltanto nel vostro spirito, ma nel vostro cuore; e mi lusingo che in mezzo ai disavvantaggi del mio costume, conoscerete il fondo della mia schiettezza.</p>
+                  <p rend="justify">EUG. Non è scarso merito la sincerità.</p>
+                  <p rend="justify">CON. Ma è poco fortunata per altro.</p>
+                  <p rend="justify">EUG. Potete voi dolervi di me?</p>
+                  <p rend="justify">CON. Non sarei sì ardito di dirlo.</p>
+                  <p rend="justify">EUG. Ancorchè nol diciate, si conosce che siete poco contento.</p>
+                  <p rend="justify">CON. Sarà un effetto di quella sincerità che lodaste.</p>
+                  <p rend="justify">EUG. Dunque la stessa sincerità non me ne dee tacere i motivi.</p>
+                  <p rend="justify">CON. Voi m'invitate a nozze, qualora mi provocate a parlare.</p>
+                  <p rend="justify">EUG. L'eccitamento vien dal mio cuore.</p>
+                  <p rend="justify">CON. E al vostro cuore rispondo che sarei felicissimo se non mi tormentasse un rivale.</p>
+                  <p rend="justify">EUG. Questa è la prima volta che lo diceste.</p>
+                  <p rend="justify">CON. L'ho detto a tempo, signora?</p>
+                  <p rend="justify">EUG. Potrebbe darsi.</p>
+                  <p rend="justify">CON. Le cose possibili sono infinite. Fra queste si confondono le mie speranze ed i miei timori. Quel che ora vi chiedo, è qualche cosa di certo.</p>
+                  <p rend="justify">EUG. Esaminatelo bene, e confessate che quello che mi chiedete, non è sì poco.</p>
+                  <p rend="justify">CON. Se mal non mi appongo, parmi di aver domandato pochissimo. Sarei temerario, se vi chiedessi l'intero possedimento della grazia vostra: chiedovi solo, se siete a tempo ancor di disporne.</p>
+                  <p rend="justify">EUG. Ma se questo è un segreto, che con gelosia custodisco, non sarà eccedente la vostra interrogazione?</p>
+                  <p rend="justify">CON. Voi avete il dono di farvi intendere senza parlare. Capisco essere il vostro cuore occupato.</p>
+                  <p rend="justify">EUG. E se ciò fosse, capireste con eguale facilità qual sia l'oggetto che l'occupi?</p>
+                  <p rend="justify">CON. No, signora, codesto è il segreto.</p>
+                  <p rend="justify">EUG. Dunque non potete voi giudicare di essere escluso.</p>
+                  <p rend="justify">CON. Ma nè tampoco assicurarmi di essere il favorito.</p>
+                  <p rend="justify">EUG. Gli animi discreti si contentano, se hanno una ragione di sperare,</p>
+                  <p rend="justify">CON. Sì, quando una ragion più forte non li faccia temere.</p>
+                  <p rend="justify">EUG. Qual è il gran fondamento di questo vostro timore?</p>
+                  <p rend="justify">CON. Il mio demerito.</p>
+                  <p rend="justify">EUG. No, Conte, pensate male.</p>
+                  <p rend="justify">CON. Aggiungete: lo spirito audace del mio rivale.</p>
+                  <p rend="justify">EUG. Una novella ragione, che più mi offende.</p>
+                  <p rend="justify">CON. Vi supplico di compatirmi.</p>
+                  <p rend="justify">EUG. Vi compatisco.</p>
+                  <p rend="justify">CON. È il cuore acceso che mi tramanda alle labbra...</p>
+                  <p rend="justify">EUG. Conte, basta così.</p>
+                  <p rend="justify">CON. (Che dura pena è il moderare i trasporti!) (<hi rend="italic">da sè</hi>)</p>
+                  <p rend="justify">EUG. (Non vo' precipitar le risoluzioni.) (<hi rend="italic">da sè</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16504_2136720637"/>SCENA VI<ptr type="bookmark-end" target="#id___RefHeading___Toc16504_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Cecchino </hi>
+                     <hi rend="italic">e detti, poi il </hi>
+                     <hi rend="bold">Cavaliere degli Alberi</hi>
+                  </p>
+                  <p rend="justify">CEC. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Questa è un'imbasciata che non piacerà al signor Conte.) Signora, è qui il signor Cavaliere per riverirla.</p>
+                  <p rend="justify">EUG. Venga pure. Una sedia. (<hi rend="italic">Cecchino va a prendere la sedia</hi>)</p>
+                  <p rend="justify">CON. (<hi rend="italic">s'alza</hi>) Signora, vi levo l'incomodo. </p>
+                  <p rend="justify">EUG. No, Conte, non fate che la vostra apprensione si manifesti.</p>
+                  <p rend="justify">CON. Il mio rispetto...</p>
+                  <p rend="justify">EUG. Sedete.</p>
+                  <p rend="justify">CON. (<hi rend="italic">sedendo con agitazione</hi>) (Sono in cimento).</p>
+                  <p rend="justify">CEC. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(L'ho detto io. Due galli in un pollaio non istan bene.) (<hi rend="italic">parte</hi>)</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (Spiacemi vederli uniti, ma sarebbe peggio s'ei si partisse.)</p>
+                  <p rend="justify">CAV. M'inchino a questa dama. (<hi rend="italic">le bacia la mano</hi>)</p>
+                  <p rend="justify">CON. (<hi rend="italic">vedendole baciar la mano, freme alquanto</hi>)</p>
+                  <p rend="justify">EUG. Serva, cavalierino. Sedete.</p>
+                  <p rend="justify">CAV. Conte, vi riverisco.</p>
+                  <p rend="justify">CON. (<hi rend="italic">al Cavaliere</hi>)<hi rend="italic"> </hi>Servitore. Con licenza del Cavaliere. (<hi rend="italic">piano ad Eugenia, accostandosi all'orecchio</hi>) (Signora, io non ho ardito di baciarvi la mano.)</p>
+                  <p rend="justify">EUG. (<hi rend="italic">piano al Conte</hi>) (Chi vi ha impedito di farlo?)</p>
+                  <p rend="justify">CON. (<hi rend="italic">da sè</hi>) (Pazienza; merito peggio.)</p>
+                  <p rend="justify">EUG. (<hi rend="italic">al Cavaliere</hi>) Compatite.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">allegro</hi>) Servitevi, se avete degli interessi.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">al Cavaliere</hi>) Niente, niente, era un non so che; si era scordato di dirmi una cosa.</p>
+                  <p rend="justify">CAV. Appunto; anch'io ho una cosa da comunicarvi. Con licenza, Conte. (<hi rend="italic">piano a donna Eugenia</hi>) (Lo vogliamo far disperare.)</p>
+                  <p rend="justify">CON. (<hi rend="italic">da sè</hi>) (Se resisto, è un prodigio.)</p>
+                  <p rend="justify">EUG. Orsù, che si parli che tutti sentano. Che fate voi Cavaliere?</p>
+                  <p rend="justify">CAV. Sto benissimo, quand'abbia l'onore della grazia vostra.</p>
+                  <p rend="justify">EUG. La grazia mia è troppo scarsa.</p>
+                  <p rend="justify">CAV. Anzi è sufficientissima quando anche fosse divisa in due.</p>
+                  <p rend="justify">EUG. Siete voi di quelli che si contentano della metà?</p>
+                  <p rend="justify">CAV. Sì certo, quando non si possa avere di più.</p>
+                  <p rend="justify">CON. Donna Eugenia non sa dividere il cuore.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">con serietà</hi>) Nè voi, nè io lo sappiamo.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">al Cavaliere</hi>) Mi tenete voi nel numero delle lusinghiere?</p>
+                  <p rend="justify">CAV. (<hi rend="italic">allegro</hi>) Guardimi il cielo. So che siete la più saggia dama del mondo; ma io tengo per fermo, che non sia limitata la grazia delle belle donne, e che salvo l'onesto vivere, possano a più di uno distribuire i favori, a chi più, a chi meno, con una distribuzione economica la quale poscia produca diversi effetti secondo la disposizione dell'animo di chi ne riceve la sua porzione, ond'è che ad uno la metà non basta, e si contenta un altro di meno.</p>
+                  <p rend="justify">CON. Questo non è pensare da uomo.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">con serietà al Conte</hi>) Non ho parlato con voi.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">al Cavaliere</hi>) Sarebbe vano adunque, che una donna desse a voi solo tutto il possesso del di lei cuore.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">allegro</hi>) Non sarei sì pazzo di ricusarlo, e ne terrei quel conto che merita un simil dono; ma la difficoltà di aver tutto, mi fa contentare del poco.</p>
+                  <p rend="justify">EUG. Questa difficoltà non mi par ragionevole.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">allegro</hi>) La fondo sull'esperienza. Mi sono lusingato assai volte di possedere il trono della bellezza. Ma le monarchie in amore non durano, e mi contento di essere repubblichista.</p>
+                  <p rend="justify">CON. Il cuore di donna Eugenia non si misura cogli altri.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">con serietà al Conte</hi>) La conosco al pari di voi.</p>
+                  <p rend="justify">CON. Se meglio la conosceste, non parlereste così.</p>
+                  <p rend="justify">CAV. Sì, la conosco. (<hi rend="italic">con serietà, poi si cambia voltandosi a Eugenia</hi>)<hi rend="italic"> </hi>Non vorrei, donna Eugenia, che interpretando voi pure i miei sentimenti in sinistro modo, come si compiace di fare il conte, mi privaste di quella porzione della grazia vostra, che mi lusingo di possedere. Però permettetemi ch'io mi spieghi. Separiamo prima di tutto dalla grazia, di cui le donne sogliono essere liberali a molti, quell'amore che si conviene ad un solo. Il marito non deve essere in concorrenza cogli altri; il futuro sposo di una fanciulla ha da pretendere di esser solo; quel della vedova parimenti; ma quella grazia distributiva di cui favello, sta in una parte del cuore non occupata da tali affetti. Mi sovviene ora un esempio. Il padre ama teneramente il figliuolo, e ama nel tempo medesimo gli amici suoi; l'uno e l'altro di questi amori hanno la loro sede nel cuore, ma situata in diverse parti, o se vogliamo che in una parte sola tutto l'amor risieda, diciamo adunque che, se non istà sul luogo, starà la differenza nel modo. Sia pur la donna saggia, onorata, al marito fedele, all'amante sincera. D'intorno a quest'amore costante s'aggirano alcuni piccioli affetti di gratitudine, di stima, di compiacenza onesta, che grazie, che favori si chiamano, che possono in più parti distribuirsi, che di una picciola parte possono contentare un uomo discreto; che per metà concessi, possono rendere un cavaliere superbo, e che pretesi tutti da un solo, si rende ardito, mostrando egli o di non conoscerne il prezzo, o di volerli confondere con quegli ardori che sono ad un oggetto più nobile destinati. Signora, eccovi il modo mio di pensare. Conte, se vi dà l'animo, rispondete.</p>
+                  <p rend="justify">EUG. Via, conte, ora è tempo di farvi onore.</p>
+                  <p rend="justify">CON. Signora, io son nemico delle dicerie. Ammiro lo spirito del Cavaliere, ma non sono persuaso della distinzione sua metafisica. Fra le cose inutili o false una ne ha egli detto di buona, ed a quest'unica gli rispondo. Donna Eugenia è una dama vedova, e prima di disporre di quella grazia di cui vuol supporre le donne liberali a più d'uno, è in grado di concepir quell'amore che conviene ad un solo.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">seriamente al Conte</hi>)<hi rend="italic"> </hi>Ella può farlo liberamente, e il fortunato posseditore della sua mano sarà sicuro della più virtuosa dama del mondo. (<hi rend="italic">allegro</hi>) Signora, parmi vedere il conte a parte degli arcani del vostro cuore. Io non farò che lodare le vostre risoluzioni; ma non credo di meritarmi di essere escluso da una simile confidenza.</p>
+                  <p rend="justify">EUG. Il conte non sa di certo niente più di quello che voi sapete.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">al Conte</hi>) È vano dunque che voi facciate l'astrologo per ributtare i miei sentimenti.</p>
+                  <p rend="justify">CON. Pensate voi, che una vedova, giovane, ricca e nobile, che non può esser contenta del trattamento che in questa casa riceve, passar non voglia alle seconde nozze?</p>
+                  <p rend="justify">CAV. (<hi rend="italic">come sopra</hi>) Ella è padrona di sè medesima. Signora, io non ardisco d'indovinare, ma confesso che bramerei di saperlo.</p>
+                  <p rend="justify">EUG. A due cavalieri ch'io stimo, non vo' celare la verità. La mia situazione mi sollecita a rimaritarmi.</p>
+                  <p rend="justify">CON. (<hi rend="italic">al Cavaliere</hi>) Vedete ora, se l'astrologia è mal fondata.</p>
+                  <p rend="justify">CAV. Via dunque, voi che alzate l'oroscopo de' cuori umani, vi dà l'animo d'indovinare chi sarà il fortunato?</p>
+                  <p rend="justify">CON. A ciò non voglio avanzarmi. Son però certo ch'ella non vorrà concedere il cuore a chi si contenta della metà.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">alzandosi da sedere</hi>)<hi rend="italic"> </hi>Alto, alto, signore; siamo in un'altra tesi, e mi dichiaro diversamente. So ch'io non merito sì gran fortuna, ma quando ella volesse meco profondere le sue grazie sino al punto di dichiararmi suo sposo, più della gioventù, e della ricchezza, e della nobiltà che di lei vantaste, farei capitale della virtù, sarei geloso della sua fede, senza esserlo de' sguardi suoi, e separando le convenienze di una moglie saggia da quelle di una dama di spirito, sarei un marito felice, senza essere un cavaliere indiscreto.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (Con uno sposo di tal carattere non potrei essere che contenta.)</p>
+                  <p rend="justify">CON. Cavaliere, altro è l'immaginare in distanza, altro è il ritrovarsi nel caso. Capisco che voi cercate la via più facile per accreditarvi nel cuore di chi vi ascolta; ma la facilità che le proponete, non può far breccia nell'animo di donna Eugenia, amante assai più di un amor virtuoso, che della moderna galanteria. Se le espressioni vostre sono sincere, voi non l'amate, e se l'amate, ella non può fidarsi della libertà che le promettete.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (Il dubbio non è fuor di ragione.)</p>
+                  <p rend="justify">CAV. Io non son qui venuto per sollecitare il cuore di Donna Eugenia. S'ella è per voi prevenuta, non ha che a dirmelo: so il mio dovere.</p>
+                  <p rend="justify">EUG. No, Cavaliere, torno a ripetere, sono in libertà di disporre di me medesima.</p>
+                  <p rend="justify">CAV. Disponete adunque.</p>
+                  <p rend="justify">CON. Ella è a tempo di farlo.</p>
+                  <p rend="justify">CAV. Il tempo passa. I giorni della gioventù si piangono inutilmente perduti.</p>
+                  <p rend="justify">CON. La virtù è sempre bella.</p>
+                  <p rend="justify">CAV. Ma nella gioventù è più brillante.</p>
+                  <p rend="justify">CON. Una moglie non ha bisogno di tanto brio.</p>
+                  <p rend="justify">CAV. Ne ha di bisogno una dama.</p>
+                  <p rend="justify">CON. Una dama dev'esser saggia.</p>
+                  <p rend="justify">CAV. Ma non per questo intrattabile.</p>
+                  <p rend="justify">CON. Dee dipendere dalla volontà del marito.</p>
+                  <p rend="justify">CAV. La liberi il cielo dalla indiscretezza che voi vantate.</p>
+                  <p rend="justify">CON. Non la sagrifichi amore a chi non conosce il pregio della virtù.</p>
+                  <p rend="justify">CAV. Se vi avanzate meco a tal segno...</p>
+                  <p rend="justify">EUG. Cavalieri, se veniste per favorirmi, non vi riscaldate per mia cagione. Venero ciascheduno di voi, trovo in entrambi della ragione e del merito, ma non ho ancora di me disposto, nè ardisco dire che ad uno di voi mi crediate inclinata. Sono di me padrona, egli è vero; ma esige la convenienza che, nell'escire di questa casa, consigli, prima d'ogni altro, il padre del mio defunto marito. Se le di lui stravaganze non mi proporranno un partito indegno di me, preferirò ad ogni altra passione il dovere che ad un suocero mi assoggetta, e se l'uno o l'altro di voi mi verrà proposto, sarò egualmente contenta.</p>
+                  <p rend="justify">CON. Ah, donna Eugenia, ciò non basta per consolarmi.</p>
+                  <p rend="justify">CAV. Ed io ne son contentissimo, e in questo punto da voi mi parto per avanzar le mie suppliche a Don Ambrogio; e ve lo dico in faccia del Conte, perch'ei lo sappia, e sia sicuro da tutto questo, che saprò correre la mia lancia, senza che mi spaventi il merito di un tal rivale. Signora, all'onore di riverirvi. (<hi rend="italic">le bacia la mano, e parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16506_2136720637"/>SCENA VII<ptr type="bookmark-end" target="#id___RefHeading___Toc16506_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eugenia </hi>
+                     <hi rend="italic">e il </hi>
+                     <hi rend="bold">Conte</hi>
+                  </p>
+                  <p rend="justify">CON. (<hi rend="italic">da sè</hi>) (S'ella divien mia sposa, tu non le bacierai più la mano.)</p>
+                  <p rend="justify">EUG. Conte, sarete voi meno sollecito del Cavaliere?</p>
+                  <p rend="justify">CON. Vada pur egli altrove a rintracciar Don Ambrogio; io l'attenderò qui, se mel concedete.</p>
+                  <p rend="justify">EUG. Siete padron di restare. Ma dovete permettere, che per un mio picciolo affare passi nella mia camera.</p>
+                  <p rend="justify">CON. Lo vedo; voi state meco mal volentieri.</p>
+                  <p rend="justify">EUG. No, v'ingannate. Ritornerò fra poco. Addio, Conte. (<hi rend="italic">in atto di partire</hi>)</p>
+                  <p rend="justify">CON. Son vostro servo.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè, fermandosi</hi>) (Non curasi di baciarmi la mano!)</p>
+                  <p rend="justify">CON. Avete qualche cosa da dirmi?</p>
+                  <p rend="justify">EUG. Avete voi qualche cosa da domandarmi?</p>
+                  <p rend="justify">CON. Non altro, se non che abbiate compassione di me.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">gli offre la mano</hi>) Povero Conte! tenete.</p>
+                  <p rend="justify">CON. No, donna Eugenia, non è questo quel ch'io desidero. La mano che ora mi offrite, è ancor bagnata dalle labbra del Cavaliere. Son delicato in questo.</p>
+                  <p rend="justify">EUG. Non mi dispiace la vostra delicatezza. Alcuno la chiamerebbe un difetto, ma i difetti che provengono dall'amore sono compatibili in un cuor sincero. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16508_2136720637"/>SCENA VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc16508_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="italic">Il </hi>
+                     <hi rend="bold">Conte</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Don Ambrogio</hi>
+                  </p>
+                  <p rend="justify">CON. Queste picciole grazie, che son dall'uso concesse ai rispettosi serventi, non servono a chi si lusinga di divenire lo sposo. Impari ella per tempo il modo mio di pensare, e uniformandosi al mio sistema... Ecco qui Don Ambrogio. Il Cavaliere non dovrebbe averlo veduto, e se la sorte mi fa essere il primo, posso maggiormente sperare.</p>
+                  <p rend="justify">AMB. Oh signor Conte, aspettate me forse?</p>
+                  <p rend="justify">CON. Per l'appunto, signore.</p>
+                  <p rend="justify">AMB. Che cosa avete da comandarmi?</p>
+                  <p rend="justify">CON. L'affare che a voi mi guida è di tale importanza, che mi sollecita estremamente.</p>
+                  <p rend="justify">AMB. Se mai a sorte (nol dico per offendervi), se mai voleste domandarmi danaro in prestito, vi prevengo che non ne ho.</p>
+                  <p rend="justify">CON. Grazie al cielo, non sono in grado d'incomodare gli amici per così bassa cagione.</p>
+                  <p rend="justify">AMB. Vi torno a dir: compatitemi. Al giorno d'oggi le spese che si fanno, riducono i più facoltosi in istato d'aver bisogno, e non è più vergogna il domandare. Io non ne ho, ma se si trattasse di far piacere ad un galantuomo ho qualche amico da cui con un'onesta ricognizione potrei compromettermi di qualche centinajo di scudi.</p>
+                  <p rend="justify">CON. Ma io non ne ho di bisogno.</p>
+                  <p rend="justify">AMB. Mi consolo, che non ne abbiate bisogno; se mai o per voi, o per altri, venisse il caso, sapete dove avete a ricorrere. Io non ho un soldo, ma si ritroverà all'occorrenza.</p>
+                  <p rend="justify">CON. Signore, voi avete una nuora.</p>
+                  <p rend="justify">AMB. Così non l'avessi.</p>
+                  <p rend="justify">CON. Perchè dite questo?</p>
+                  <p rend="justify">AMB. Vi par poca spesa per un pover'uomo una donna in casa?</p>
+                  <p rend="justify">CON. Quanto più vi riesce di aggravio, tanto meglio penserete a rimaritarla.</p>
+                  <p rend="justify">AMB. Venisse oggi l'occasione di farlo.</p>
+                  <p rend="justify">CON. L'occasione non può essere più sollecita. Io la bramo in isposa, e vi supplico dell'assenso vostro.</p>
+                  <p rend="justify">AMB. S'ella si contenta, siate pur certo che io ne sarò contentissimo.</p>
+                  <p rend="justify">CON. Spero di lei non compromettermi in vano.</p>
+                  <p rend="justify">AMB. Dunque l'affare è fatto. Parlerò a donna Eugenia e se questa sera volete darle la mano, io non ho niente in contrario.</p>
+                  <p rend="justify">CON. Quando ella il consenta, noi stenderemo il contratto.</p>
+                  <p rend="justify">AMB. Che bisogno c'è di contratto? Perchè volete spendere del danaro superfluamente? Quello che volete dare al notaio, non è meglio che ce lo mangiamo qui fra di noi?</p>
+                  <p rend="justify">CON. Ma della scritta non se ne può fare a meno. Se non altro per ragion della dote.</p>
+                  <p rend="justify">AMB. Della dote? Oltre la sposa, pretendete ancora la dote?</p>
+                  <p rend="justify">CON. Donna Eugenia, nel maritarsi con vostro figlio, non ha portato in casa la dote?</p>
+                  <p rend="justify">AMB. Quel poco che ha portato, si è consumato, ed io non ho niente più nè del suo, nè del mio.</p>
+                  <p rend="justify">CON. Sedicimila scudi si sono consumati in due anni?</p>
+                  <p rend="justify">AMB. Si è consumato altro che sedicimila scudi! Principiate a vedere le liste delle spese che si son fatte. (<hi rend="italic">tira fuori le carte</hi>)</p>
+                  <p rend="justify">CON. Non voglio esaminare quello che abbiate speso per lei; ma so bene che ad una vedova senza figliuoli si conviene la restituzion della dote.</p>
+                  <p rend="justify">AMB. Voi siete venuto per assassinarmi.</p>
+                  <p rend="justify">CON. Son venuto per l'amore di donna Eugenia.</p>
+                  <p rend="justify">AMB. Se amaste la donna, non ricerchereste la roba.</p>
+                  <p rend="justify">CON. Non la cerco per me, ma per lei, nè posso, colla speranza di essere suo marito, tradir le ragioni che a lei competono.</p>
+                  <p rend="justify">AMB. Senza che venghiate a fare il procuratore per donna Eugenia, so anch'io da me medesimo quello che può pretendere e quello che a me si spetta. La dote c'è e non c'è, la voglio dare, e non la voglio dare; ma se ci sarà, e se dovrò darla, la darò in modo che sia sicura, e che non abbia un giorno la povera donna a restar miserabile.</p>
+                  <p rend="justify">CON. La casa mia non ha fondi bastanti per assicurarla?</p>
+                  <p rend="justify">AMB. Vi parlo chiaro, come l'intendo. Se cercaste di maritarvi per l'amore della persona, non cerchereste con tanta ansietà la sua dote.</p>
+                  <p rend="justify">CON. Io ne ho parlato per accidente.</p>
+                  <p rend="justify">AMB. Ed io vi rispondo sostanzialmente: donna Eugenia è stata moglie di mio figliuolo; le sono in luogo di padre; e quando abbia volontà di rimaritarsi, ci penso io.</p>
+                  <p rend="justify">CON. E s'ella presentemente avesse un tal desiderio?</p>
+                  <p rend="justify">AMB. Me lo faccia sapere.</p>
+                  <p rend="justify">CON. Fate conto ch'io ve lo dica per essa.</p>
+                  <p rend="justify">AMB. Fate voi il conto di essere donna Eugenia, e sentite la mia risposta: il conte dell'Isola non è per voi.</p>
+                  <p rend="justify">CON. E perchè, signore?</p>
+                  <p rend="justify">AMB. Perchè è un avaro.</p>
+                  <p rend="justify">CON. Lasciamo gli scherzi, che io ne sono nemico. Don Ambrogio, spiegatevi seriamente.</p>
+                  <p rend="justify">AMB. Sì, parliamo sul sodo. Conte, mia nuora non fa per voi.</p>
+                  <p rend="justify">CON. La cagione vorrei sapere.</p>
+                  <p rend="justify">AMB. Ho qualche impegno, compatitemi, non siete il primo che me la domandi.</p>
+                  <p rend="justify">CON. Mi ha prevenuto forse il Cavaliere degli Alberi?</p>
+                  <p rend="justify">AMB. Potrebbe darsi. (<hi rend="italic">da sè</hi>) (Non l'ho nemmeno veduto.)</p>
+                  <p rend="justify">CON. Quando vi ha egli parlato?</p>
+                  <p rend="justify">AMB. Quando io l'ho sentito.</p>
+                  <p rend="justify">CON. Non è codesto il modo di rispondere a un cavaliere.</p>
+                  <p rend="justify">AMB. Servitore umilissimo.</p>
+                  <p rend="justify">CON. Voi trattate villanamente.</p>
+                  <p rend="justify">AMB. Padrone mio riverito.</p>
+                  <p rend="justify">CON. Conosco le mire indegne del vostro animo. Voi negate di dar la nuora a chi vi chiede la dote, ma ciò non vi verrà fatto. Donna Eugenia sarà illuminata, e dovrete a forza restituire ciò che tentate di barbaramente usurpare. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16510_2136720637"/>SCENA IX<ptr type="bookmark-end" target="#id___RefHeading___Toc16510_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Ambrogio</hi>
+                     <hi rend="italic">, poi il </hi>
+                     <hi rend="bold">Cavaliere</hi>
+                  </p>
+                  <p rend="justify">AMB. La riverisco divotamente. Restituire? Me ne rido. Ho il mio procuratore, che è fatto apposta per tirar innanzi. Egli s'impegna di mantenere la lite in piedi, se occorre, dieci anni almeno, e in dieci anni posso morir io, e può morire la nuora. Per altro non ho piacere che si sparga per il paese, che io procuro che non si mariti per non restituire la dote. Da qui avanti mi regolerò un po' meglio, troverò degli altri pretesti, e cercherò di sottrarmi con pulizia, con destrezza.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">ilare sempre</hi>) Servitore del mio carissimo Don Ambrogio.</p>
+                  <p rend="justify">AMB. Padrone mio, signor Cavaliere garbato.</p>
+                  <p rend="justify">CAV. Venite sempre più giovane. Mi consolo, quando vi vedo.</p>
+                  <p rend="justify">AMB. Oh, quanto anch'io mi rallegro in vedervi! gioventù benedetta!</p>
+                  <p rend="justify">CAV. Perchè non venite a favorirmi, a bevere la cioccolata da me?</p>
+                  <p rend="justify">AMB. Vi voglio venire.</p>
+                  <p rend="justify">CAV. E a pranzo ancora.</p>
+                  <p rend="justify">AMB. E a pranzo ancora.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">da sè</hi>) (Lo conosco, conviene allettarlo.)</p>
+                  <p rend="justify">AMB. (<hi rend="italic">da sè</hi>) (So quel che vuole. Non mi corbella.)</p>
+                  <p rend="justify">CAV. Oh, quanto mi è rincresciuta la morte di vostro figlio!</p>
+                  <p rend="justify">AMB. Obbligato; non parliamo di melanconie.</p>
+                  <p rend="justify">CAV. Parliamo di cose allegre. Quando vi rimaritate?</p>
+                  <p rend="justify">AMB. Non sono fuori del caso.</p>
+                  <p rend="justify">CAV. Animo, da bravo: ho un'occasione per voi la più bella del mondo. Eh! ci sono de' quattrini non pochi.</p>
+                  <p rend="justify">AMB. Oh, io poi, se mi maritassi, la vorrei senza dote.</p>
+                  <p rend="justify">CAV. Bravissimo: sono anch'io della stessa opinione. Se mi marito, non voglio niente. Le mogli che portano del danaro, pretendono comandare. No, no; soddisfare il genio, e non altro; una donna che piaccia, e non si cerchi di più.</p>
+                  <p rend="justify">AMB. (<hi rend="italic">da sè</hi>) (Se dicesse da vero? ma non me ne fido.)</p>
+                  <p rend="justify">CAV. Quel che volete fare, fatelo presto. Liberatevi dall'impiccio di vostra nuora, e conducetevi a casa un pezzo di giovinotta, che vi rimetta il figliuolo che avete perduto, e che vi faccia essere contento nella vecchiaia.</p>
+                  <p rend="justify">AMB. Oh, se lo voglio fare! Lasciate che mi liberi della nuora.</p>
+                  <p rend="justify">CAV. Perchè non fate che si mariti?</p>
+                  <p rend="justify">AMB. Se capitasse un'occasione a proposito.</p>
+                  <p rend="justify">CAV. Per esempio, chi credereste voi che le convenisse?</p>
+                  <p rend="justify">AMB. Io so com'è fatta quella povera donna; ha il più bel cuore di questo mondo. Ella avrebbe bisogno di uno, che se ne innamorasse, e che veramente le volesse bene di cuore. Al giorno d'oggi non si trovano i partiti che di due sorte: o discoli, o interessati; e tutti principiano dalla dote; è una miseria per una giovine che ha qualche merito, sentirsi chiedere per la dote.</p>
+                  <p rend="justify">CAV. Questo è quello ch'io vi diceva poc'anzi. Se mi marito, non voglio dote.</p>
+                  <p rend="justify">AMB. Voi siete un cavaliere veramente cavaliere, che sa la vera cavalleria. Ditemi un poco: lo conoscete voi il merito di mia nuora?</p>
+                  <p rend="justify">CAV. Se lo conosco? lo sa il mio cuore, se lo conosco.</p>
+                  <p rend="justify">AMB. E che sì, che siete venuto per domandarmela?</p>
+                  <p rend="justify">CAV. Gran Don Ambrogio! gran Don Ambrogio! volpe vecchia! Come diamine l'avete voi penetrato?</p>
+                  <p rend="justify">AMB. Mi pareva che le carezze che mi avete fatte, tendessero a qualche fine.</p>
+                  <p rend="justify">CAV. Oh, qui poi v'ingannate. Vi ho sempre voluto bene, e ve ne vorrò; e voglio vedervi con una sposa al fianco, bella, giovine, e senza dote.</p>
+                  <p rend="justify">AMB. Su questo particolare si parlerà. Se avrò da maritarmi, la prenderò senza dote. Farò che il vostro esempio mi sia di regola in questo.</p>
+                  <p rend="justify">CAV. Lo sapete: io non sono interessato.</p>
+                  <p rend="justify">AMB. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Batte sodo finora.) Volete che io ne parli a donna Eugenia?</p>
+                  <p rend="justify">CAV. Lo potrete fare con comodo; bastami per ora che voi mi diciate, se dal canto vostro sarete di ciò contento.</p>
+                  <p rend="justify">AMB. Contentissimo. Sarei un pazzo, sarei nemico di donna Eugenia, se mi opponessi alla sua fortuna. Un Cavalier che l'ama, e che per segno d'amore non domanda un soldo di dote! cospetto di bacco! a questa sì nobile condizione vi darei una mia figliuola.</p>
+                  <p rend="justify">CAV. Viva il signor Don Ambrogio!</p>
+                  <p rend="justify">AMB. Viva il signor Cavaliere degli Alberi!</p>
+                  <p rend="justify">CAV. Siete lo specchio de' galantuomini.</p>
+                  <p rend="justify">AMB. Siete la vera immagine del cavaliere.</p>
+                  <p rend="justify">CAV. Caro, carissimo. (<hi rend="italic">gli dà un bacio</hi>)</p>
+                  <p rend="justify">AMB. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Che tu sia benedetto!)</p>
+                  <p rend="justify">CAV. Donna Eugenia quanto ha dato di dote a vostro figliuolo?</p>
+                  <p rend="justify">AMB. (<hi rend="italic">Rimane un poco confuso</hi>) Non mi parlate di melanconie. Il poveretto è morto, e non ho piacer che se ne discorra.</p>
+                  <p rend="justify">CAV. Non parliamo di lui, parliamo di Donna Eugenia.</p>
+                  <p rend="justify">AMB. Sì, di lei parliamo quanto volete.</p>
+                  <p rend="justify">CAV. Donna Eugenia quanto vi ha dato di dote?</p>
+                  <p rend="justify">AMB. A me?</p>
+                  <p rend="justify">CAV. Alla vostra casa.</p>
+                  <p rend="justify">AMB. A voi che importa saperlo? Non la volete già senza dote?</p>
+                  <p rend="justify">CAV. Sì, ci s'intende. Domando così, per curiosità.</p>
+                  <p rend="justify">AMB. In un cavaliere di garbo, come voi siete, sta male la curiosità. Se donna Eugenia lo sa che mi facciate tale domanda, crederà che il vostro amore sia interessato, ed io, se me lo posso immaginare soltanto, vi dico un no, come ho detto al Conte dell'Isola.</p>
+                  <p rend="justify">CAV. Vi ha parlato il Conte?</p>
+                  <p rend="justify">AMB. Sì, mi ha parlato quell'avarone. Appena appena mi disse non so che della vedova, subito mi ricercò della dote.</p>
+                  <p rend="justify">CAV. Io poi la metto nell'ultimo luogo.</p>
+                  <p rend="justify">AMB. Nell'ultimo luogo? Tardi o presto dunque ci volete pensare.</p>
+                  <p rend="justify">CAV. Questi sono discorsi inutili. Mi preme la sposa, ve la domando per quell'autorità che sopra di essa vi concede la parentela e non avete a dirmi di no.</p>
+                  <p rend="justify">AMB. Ho detto di sì, mi pare; e torno a dirvi di sì un'altra volta; e se non vi sono altre difficoltà che questa, contate pure sopra il mio pienissimo consentimento.</p>
+                  <p rend="justify">CAV. Voi mi consolate, voi mi mettete in giubilo: caro il mio Don Ambrogio, permettetemi, in segno di vero amore… (<hi rend="italic">gli dà un bacio</hi>)</p>
+                  <p rend="justify">AMB. Volete che facciamo fra voi e me (prima di parlare con donna Eugenia), volete che facciamo quattro righe di scritturetta?</p>
+                  <p rend="justify">CAV. Per la dote forse?</p>
+                  <p rend="justify">AMB. Sì, sul proposito della dote. Poniamo in carta l'eroismo del vostro amore.</p>
+                  <p rend="justify">CAV. Subito. In qual maniera?</p>
+                  <p rend="justify">AMB. Una picciola protesta, che v'intendete di volere la sposa senza pretension della dote.</p>
+                  <p rend="justify">CAV. Se ne offenderà donna Eugenia.</p>
+                  <p rend="justify">AMB. Lasciate accomodare a me la faccenda.</p>
+                  <p rend="justify">CAV. Ella può pretenderla senza di me.</p>
+                  <p rend="justify">AMB. Andiamo dal mio procuratore: troverà egli un mezzo termine per ridurre la cosa legale.</p>
+                  <p rend="justify">CAV. Si parlerà poi di questo. Andiamo subito da donna Eugenia.</p>
+                  <p rend="justify">AMB. No, un passo alla volta.</p>
+                  <p rend="justify">CAV. Un passo alla volta. Prima quel della sposa.</p>
+                  <p rend="justify">AMB. Prima quello della rinunzia.</p>
+                  <p rend="justify">CAV. Bravo, Don Ambrogio; voi siete il più spiritoso talento di tutto il mondo.</p>
+                  <p rend="justify">AMB. Cavaliere garbato, andiamo; ci spicciamo in meno di un'ora.</p>
+                  <p rend="justify">CAV. Oh, mi sovviene ora di un picciolo impegno. Sono aspettato in Piazza. Sarò da voi quanto prima.</p>
+                  <p rend="justify">AMB. Verrò con voi, se volete.</p>
+                  <p rend="justify">CAV. Non vi vo' dar quest'incomodo. Ci rivedremo.</p>
+                  <p rend="justify">AMB. Sono sempre ai vostri comandi.</p>
+                  <p rend="justify">CAV. Addio, il mio amatissimo Don Ambrogio. (<hi rend="italic">lo abbraccia</hi>)</p>
+                  <p rend="justify">AMB. Sì, con tutto il cuore. (<hi rend="italic">lo abbraccia</hi>)</p>
+                  <p rend="justify">CAV. (<hi rend="italic">da sè</hi>) (La sa lunga il vecchio, ma non ha da fare con ciechi.)</p>
+                  <p rend="justify">AMB. (<hi rend="italic">da sè</hi>) (Eh! Ci vedo del torbido, ma sono all'erta.)</p>
+                  <p rend="justify">CAV. (<hi rend="italic">da sè</hi>) (Avviserò donna Eugenia.)</p>
+                  <p rend="justify">AMB. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Che cosa fa che non parte?) Signore, avete qualche cos'altro da dirmi?</p>
+                  <p rend="justify">CAV. Sì, una cosa sola; e vi lascio subito. Sentite in confidenza, che nessuno ci ascolti. (<hi rend="italic">all'orecchio</hi>)<hi rend="italic"> </hi>Siete un volpone di prima riga. Servitore divoto. (<hi rend="italic">con un poco di caricatura</hi>)</p>
+                  <p rend="justify">AMB. (<hi rend="italic">facendo lo stesso</hi>) Padrone mio riverito.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">come sopra</hi>) La riverisco divotamente. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16512_2136720637"/>SCENA X<ptr type="bookmark-end" target="#id___RefHeading___Toc16512_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Ambrogio</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Don Fernando</hi>
+                  </p>
+                  <p rend="justify">AMB. Vada pure, ch'io l'ho nel cuore. A me volpe? Per quel ch'io vedo, fra lui e me siamo da galeotto a marinaro. Che ti venga la rabbia: come ha preso la volta lunga per attrapparmi! Pareva, a principio, ch'ei fosse l'uomo più generoso del mondo, e si è scoperto alla fine un avaro peggio degli altri. Io non son tale; l'avaro non è quegli che cerca di mantenersi quel che possiede, ma colui che vorrebbe avere quel che non ha.</p>
+                  <p rend="justify">FER. Signor Don Ambrogio...</p>
+                  <p rend="justify">AMB. È venuta la posta?</p>
+                  <p rend="justify">FER. Sì, signore. Ho avuto lettera da mio padre...</p>
+                  <p rend="justify">AMB. E quattrini?</p>
+                  <p rend="justify">FER. E quattrini ancora.</p>
+                  <p rend="justify">AMB. Dunque principio fin da ora ad augurarvi il buon viaggio.</p>
+                  <p rend="justify">FER. Ed io a ringraziarvi...</p>
+                  <p rend="justify">AMB. Non vi è bisogno di cerimonie. Tenete un bacio e andate, che il cielo vi benedica.</p>
+                  <p rend="justify">FER. Ah! mi converrà poi partire.</p>
+                  <p rend="justify">AMB. Che avete, che sospirate?</p>
+                  <p rend="justify">FER. Sono addolorato all'estremo. Mi si stacca il cuore dal petto; non posso trattenere le lagrime.</p>
+                  <p rend="justify">AMB. Ehi, ragazzo, siete voi innamorato?</p>
+                  <p rend="justify">FER. Compatitemi per carità.</p>
+                  <p rend="justify">AMB. Tanto peggio. Via di qua subito.</p>
+                  <p rend="justify">FER. Voi mi vedrete cadere sulle soglie della vostra casa.</p>
+                  <p rend="justify">AMB. Corpo di bacco baccone. Sareste voi innamorato di mia nuora?</p>
+                  <p rend="justify">FER. (<hi rend="italic">si volta da un'altra parte sospirando</hi>)</p>
+                  <p rend="justify">AMB. Via di qua subito.</p>
+                  <p rend="justify">FER. Finalmente non credo di farvi veruna ingiuria. Sono anch'io cavaliere nel mio paese. Son figlio solo, e vuol mio padre ch'io mi mariti.</p>
+                  <p rend="justify">AMB. Aspirereste a sposarla dunque?</p>
+                  <p rend="justify">FER. Sarei felice, ma non lo merito.</p>
+                  <p rend="justify">AMB. Ditemi un poco. Parliamo sul sodo. Siete voi innamorato di lei, o della sua dote?</p>
+                  <p rend="justify">FER. Che dote? che mi parlate di dote: rinunzierei per averla a tutti i beni di questo mondo.</p>
+                  <p rend="justify">AMB. Lo sa ella, che le volete bene?</p>
+                  <p rend="justify">FER. Non ho avuto coraggio di dirlo.</p>
+                  <p rend="justify">AMB. Caro il mio Don Fernando, vi amo, come se foste un mio figlio. Mi spiace nell'anima vedervi andar sconsolato. Venite qui, discorriamola.</p>
+                  <p rend="justify">FER. Voi mi rallegrate a tal segno...</p>
+                  <p rend="justify">AMB. Spicciamoci in poche parole. La volete voi per isposa?</p>
+                  <p rend="justify">FER. Volesse il cielo! Sarei il più contento giovine di questo mondo.</p>
+                  <p rend="justify">AMB. Ma che dirà vostro padre?</p>
+                  <p rend="justify">FER. Egli mi ama teneramente. Son certo che non ricuserà di accordarmi una sì giusta soddisfazione.</p>
+                  <p rend="justify">AMB. Quanti anni avete?</p>
+                  <p rend="justify">FER. Vent'anni in circa.</p>
+                  <p rend="justify">AMB. Non siete pupillo, la legge vi mette in grado di contrattare. Avreste difficoltà di fare a me una rinunzia della sua dote?</p>
+                  <p rend="justify">FER. Sono prontissimo.</p>
+                  <p rend="justify">AMB. Ed obbligarvi verso di lei, s'ella un giorno la pretendesse?</p>
+                  <p rend="justify">FER. Sì, volentieri; con qualunque titolo: di donazione <hi rend="italic">propter nuptias</hi>, di sopraddote, di contraddote, come vi aggrada.</p>
+                  <p rend="justify">AMB. Subito, immantinente. Vado a trovar il procuratore, che è notaio ancora. Voi intanto presentatevi a donna Eugenia; ditele qualche cosa.</p>
+                  <p rend="justify">FER. Non avrò coraggio, signore.</p>
+                  <p rend="justify">AMB. Un giovine di vent'anni non saprà dir due parole ad una donna? Fatevi animo, se volete che si concluda. Principiate voi a disporla colle buone grazie. Verrò io in aiuto.</p>
+                  <p rend="justify">FER. So ch'ella è pretesa da qualcun altro.</p>
+                  <p rend="justify">AMB. Non temete nessuno. I due che la pretendono son due spilorci. Voi siete il più generoso e il più meritevole. Ha da esser vostra, se casca il mondo. Via, non perdete tempo.</p>
+                  <p rend="justify">FER. Vado subito. Sento l'usato timore; ma voi mi fate coraggio. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16514_2136720637"/>SCENA XI<ptr type="bookmark-end" target="#id___RefHeading___Toc16514_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Ambrogio</hi>
+                     <hi rend="italic">, poi </hi>
+                     <hi rend="bold">Donna Eugenia</hi>
+                  </p>
+                  <p rend="justify">AMB. Finalmente l'ho poi trovato il galantuomo. Oh, non me lo lascio scappare. Quando è fatta, è fatta. Suo padre ci dovrà stare per forza... Oh, ecco donna Eugenia. Egli la cerca per di là, ed ella vien per di qua.</p>
+                  <p rend="justify">EUG. Signor suocero, vi riverisco.</p>
+                  <p rend="justify">AMB. Servo, signora sposa.</p>
+                  <p rend="justify">EUG. Io sposa?</p>
+                  <p rend="justify">AMB. Sì, consolatevi; spero che ne sarete contenta.</p>
+                  <p rend="justify">EUG. E chi pensate voi che debba essere il mio sposo?</p>
+                  <p rend="justify">AMB. Una persona che conoscete, che trattate, e che mi lusingo non vi dispiaccia.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (O il Conte o il Cavaliere, m'immagino.)<hi rend="italic"> </hi>Ma ditemi via chiaramente...</p>
+                  <p rend="justify">AMB. Or ora lo mando qui a parlarvi da lui medesimo. Voglio lasciarvi in un poco di curiosità. Vo' farvi astrologare un pochino. È un galantuomo; ve lo assicuro. Prendetelo ad occhi chiusi.</p>
+                  <p rend="justify">EUG. Via, ditemi almeno…</p>
+                  <p rend="justify">AMB. Signora no; or ora lo vedrete. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16516_2136720637"/>SCENA XII<ptr type="bookmark-end" target="#id___RefHeading___Toc16516_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Donna Eugenia</hi>
+                     <hi rend="italic">, poi il </hi>
+                     <hi rend="bold">Conte</hi>
+                  </p>
+                  <p rend="justify">EUG. Uno dei due senz'altro. Per verità, mi appiglierei più volentieri al partito del Cavaliere. Ma sono in parola di dipendere dalla scelta di Don Ambrogio. Ecco il Conte: senz'altro è questi che mandami Don Ambrogio, questi è lo sposo che mi destina.</p>
+                  <p rend="justify">CON. Perdonate, se sono ad incomodarvi.</p>
+                  <p rend="justify">EUG. Conte, ho motivo di consolarmi con me medesima.</p>
+                  <p rend="justify">CON. Di che, signora?</p>
+                  <p rend="justify">EUG. Don Ambrogio mi ha detto...</p>
+                  <p rend="justify">CON. Don Ambrogio è un villano, e del trattamento indegno che fece alla mia persona, e che medita di voler fare alla vostra, farò che, a suo malgrado, ne renda conto.</p>
+                  <p rend="justify">EUG. Non accorda egli le nostre nozze?</p>
+                  <p rend="justify">CON. All'incontrario: l'avidità di possedere la vostra dote, fa ch'ei procuri di attraversarvi ogni partito, e giunse a perdere a me il rispetto.</p>
+                  <p rend="justify">EUG. Resto maravigliata; mi ha pure egli detto... (<hi rend="italic">da sè</hi>) (Veggo il Cavaliere che viene. Sicuramente sarà codesto il prescelto).</p>
+                  <p rend="justify">CON. Che vi ha egli detto, signora?</p>
+                  <p rend="justify">EUG. Conte, voi sapete la mia indifferenza...</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16518_2136720637"/>SCENA XIII<ptr type="bookmark-end" target="#id___RefHeading___Toc16518_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="italic">Il </hi>
+                     <hi rend="bold">Cavaliere</hi>
+                     <hi rend="italic">  e detti.</hi>
+                  </p>
+                  <p rend="justify">CAV. Vengo innanzi senza imbasciata, sull'esempio del Conte. M'inchino alla dama. Amico, vi riverisco. (<hi rend="italic">lo risalutano</hi>)</p>
+                  <p rend="justify">EUG. Avete qualche novità, Cavaliere?</p>
+                  <p rend="justify">CAV. Sì, certo; novità importantissime. Sono impaziente che le sappiate voi pure.</p>
+                  <p rend="justify">EUG. Spiacemi che alla presenza del Conte...</p>
+                  <p rend="justify">CON. Partirò, mia signora...</p>
+                  <p rend="justify">CAV. Restate pure. Ho piacere che si sappia da tutto il mondo.</p>
+                  <p rend="justify">EUG. Voi siete dunque da Don Ambrogio...</p>
+                  <p rend="justify">CAV. Sì, sonoramente burlato. Mi ha dato delle buone speranze di essere favorito, ma pretendeva da me una rinunzia ingiustissima della vostra dote. Non è che io non preferisca la vostra mano a tutto l'oro del mondo; ma non mi è lecito arbitrare di quel ch'è vostro. Vedete dunque a che tendono le sue mire vili, indegnissime, e risolvete disporre di voi medesima.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (Ma chi può essere la persona da lui prescelta, che io conosco e ch'io tratto?)</p>
+                  <p rend="justify">CON. Ormai la vostra dipendenza dal suocero diviene ingiusta, e la sua indiscretezza vi esime da ogni onesto riguardo.</p>
+                  <p rend="justify">CAV. Siete in faccia del mondo bastantemente giustificata.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (Sempre si rende maggiore la mia curiosità.)</p>
+                  <p rend="justify">CON. Il Cavaliere aspetta le vostre risoluzioni.</p>
+                  <p rend="justify">CAV. Le aspetta il Conte non meno. Siamo in due che vi bramiamo; voi dovete decidere. E in questo caso non ha luogo il ripiego della division per metà.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16520_2136720637"/>SCENA XIV<ptr type="bookmark-end" target="#id___RefHeading___Toc16520_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Cecchino </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p rend="justify">CEC. (<hi rend="italic">ad Eugenia</hi>) Il signor Don Fernando brama di riverirla.</p>
+                  <p rend="justify">EUG. Se non ha cosa di gran premura, digli che a pranzo noi ci vedremo.</p>
+                  <p rend="justify">CEC. Ha avuto lettere di casa sua. Credo che debba andarsene.</p>
+                  <p rend="justify">EUG. Così subito? Venga pure. Sentiamo. (<hi rend="italic">Cecchino </hi>
+                     <hi rend="italic">parte</hi>)</p>
+                  <p rend="justify">CON. Cavaliere, la decisione che si aspetta da Donna Eugenia, non solo esclude la division per metà,ma ogni speranza di quelle picciole grazie che a voi rassembrano indifferenti.</p>
+                  <p rend="justify">CAV. Ogni uno pensi a suo modo. In quanto a me, non farò mai un'ingiustizia alla virtù della sposa col dubitare di lei. S'ella sarà servita, tanto più sarò io contento d'aver per compagna una dama di merito; e riderò di coloro che pazzamente si lusingassero di usurparmi una scintilla di quell'ardore, che per me solo sarà nel di lei cuor custodito.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (Che nobili sentimenti!)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16522_2136720637"/>SCENA XV<ptr type="bookmark-end" target="#id___RefHeading___Toc16522_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Fernando </hi>
+                     <hi rend="italic">e detti.</hi>
+                  </p>
+                  <p rend="justify">FER. (<hi rend="italic">standosi lontano</hi>) È permesso?</p>
+                  <p rend="justify">EUG. Avanzatevi, Don Fernando.</p>
+                  <p rend="justify">FER. (<hi rend="italic">da sè</hi>) (Ah! questi due mi tormentano.)</p>
+                  <p rend="justify">EUG. È egli vero, che voi partite?</p>
+                  <p rend="justify">FER. (<hi rend="italic">come sopra</hi>) Signora...</p>
+                  <p rend="justify">EUG. Fatevi innanzi, che timidezza è la vostra?</p>
+                  <p rend="justify">FER. Tornerò, signora... Ho qualche cosa da dirvi.</p>
+                  <p rend="justify">EUG. Potete parlare liberamente. Questi cavalieri li conoscete. Avete soggezione di loro?</p>
+                  <p rend="justify">FER. La cosa ch'io deggio dirvi... (<hi rend="italic">da sè</hi>) (Non è possibile che io lo dica.)</p>
+                  <p rend="justify">CAV. (<hi rend="italic">ritirandosi un poco per dar luogo a Don Fernando</hi>) Parlatele pure come vi aggrada. Io non ascolterò quel che dite.</p>
+                  <p rend="justify">CON. (<hi rend="italic">ritirandosi un poco</hi>) Servitevi; so il mio dovere.</p>
+                  <p rend="justify">EUG. Dite quel che vi occorre. (<hi rend="italic">a Don Fernando</hi>)</p>
+                  <p rend="justify">FER. Compatitemi, se una violenta necessità... (Non so da dove principiare a spiegarmi. Don Ambrogio mi ha imbarazzato.)</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Fosse mai Don Fernando?) Ditemi, avete voi veduto mio suocero?</p>
+                  <p rend="justify">FER. Signora... Egli è appunto che a voi mi manda.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>)<hi rend="italic"> </hi>(Sarebbe bellissima la novità.) Che cosa vi ha egli detto di dirmi?</p>
+                  <p rend="justify">FER. Vuole che io vi sveli... che se finora ho taciuto... (<hi rend="italic">da sè</hi>) (Mi mancano le parole.)</p>
+                  <p rend="justify">EUG. (<hi rend="italic">da sè</hi>) (È così senz'altro. Mio suocero sempre più impazzisce! Un giovane soggetto al padre, nel mezzo degli studj suoi, sarebbe un precipitarlo).</p>
+                  <p rend="justify">FER. (<hi rend="italic">da sè</hi>) (Pare che mi abbia inteso. E mi lusingo dagli occhi suoi che non mi disprezzi.)</p>
+                  <p rend="justify">CAV. Questi segreti non sono ancor terminati?</p>
+                  <p rend="justify">FER. (<hi rend="italic">al Cavaliere</hi>) Non ancora, signore.</p>
+                  <p rend="justify">EUG. Venite, Cavalieri, venite. Don Fernando non ha che un complimento da farmi. Suo padre lo richiama in Mantova, ed egli ch'è un figliuolo saggio e prudente, conosce i doveri suoi, vuol partir subito, ed è venuto per congedarsi. So che in Pavia ha un amoretto che lo trattiene, e inclinerebbe ad unirsi colla persona che egli ama; però riflette da sè medesimo, che nell'età in cui si trova, dee pensare a terminar i suoi studj, e non a perdersi col matrimonio. Vede egli benissimo, che il padre suo ne sarebbe scontento, ed un figlio unico non dee rendere così trista mercede al genitore che l'ama. Ha risolto dunque di partire. Io lo stimolo a farlo, e voi lodatelo per così onesta risoluzione.</p>
+                  <p rend="justify">FER. (<hi rend="italic">da sè</hi>) (Senza ch'io parli, ho avuto la mia risposta.)</p>
+                  <p rend="justify">CAV. Bravissimo, Don Fernando, mi consolo di vedervi in una età ancor tenera così prudente.</p>
+                  <p rend="justify">FER. (<hi rend="italic">al Cavaliere</hi>) Obbligatissimo alle grazie vostre.</p>
+                  <p rend="justify">CON. Fuggite, Don Fernando, fuggite subito. Voi non sapete a che conduca l'amore.</p>
+                  <p rend="justify">FER. (<hi rend="italic">al Conte</hi>) Grazie del buon consiglio.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">a Fernando</hi>) Fatelo di buon animo, e consolatevi. Tanto più ch'io posso assicurarvi, che la donna che voi amate vi stima, ma non vi ama.</p>
+                  <p rend="justify">FER. Questa che voi mi date, è una bella consolazione. Pazienza... Compatitemi...</p>
+                  <p rend="justify">CAV. (<hi rend="italic">ad Eugenia</hi>) Pare che sia innamorato di voi.</p>
+                  <p rend="justify">CON. Non sarebbe fuor di proposito.</p>
+                  <p rend="justify">EUG. Non è possibile. Egli era troppo amico di mio marito.</p>
+                  <p rend="justify">CAV. Anzi per questo; può credere un effetto di buona amicizia il consolar la vedova dell'amico.</p>
+                  <p rend="justify">FER. (<hi rend="italic">adirato</hi>) Mi maraviglio di voi.</p>
+                  <p rend="justify">CAV. Non andate in collera.</p>
+                  <p rend="justify">FER. Servo di lor signori. (<hi rend="italic">vuol partire</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc16524_2136720637"/>SCENA ULTIMA<ptr type="bookmark-end" target="#id___RefHeading___Toc16524_2136720637"/>
+                  </head>
+                  <p rend="center">
+                     <hi rend="bold">Don Ambrogio</hi>
+                     <hi rend="italic">, un Procuratore e detti.</hi>
+                  </p>
+                  <p rend="justify">AMB. (<hi rend="italic">incontrandolo</hi>) Dove si va, Don Fernando?</p>
+                  <p rend="justify">FER. A Mantova.</p>
+                  <p rend="justify">AMB. Senza la sposa?</p>
+                  <p rend="justify">EUG. (<hi rend="italic">a Don Ambrogio</hi>) Lodereste voi che si maritasse?</p>
+                  <p rend="justify">AMB. Sì certo; ed è quegli che per vostro bene vi conviene accettare in isposo.</p>
+                  <p rend="justify">FER. Non mi vuole, signore.</p>
+                  <p rend="justify">AMB. Non vi vuole? Nuora mia, voi non lo conoscete. Altro merito ha egli, che non hanno questi due signori garbati. Lascio da parte la nobiltà e la ricchezza, chè non vo' svegliare puntigli; ma egli vi ama da vero, ed una prova grande dell'amor suo, a differenza degli altri, è che egli domanda voi, e non ha ancora parlato di dote.</p>
+                  <p rend="justify">EUG. Ora conosco il merito, che in lui vi pare merito trascendente. Io della roba mia son padrona, e quel rispetto che ho usato finora al padre del mio defunto consorte, non lo merita la vostra ingiustizia, non lo speri più la vostra avarizia.</p>
+                  <p rend="justify">AMB. (<hi rend="italic">al Procuratore</hi>) Signor Dottore, la scritta che doveva farsi non si fa più; ma ponete in ordine quel che occorre per difendere le povere mie sostanze. Donna Eugenia, dopo aver consumata la dote in nastri e cuffie, vuole spogliarmi di quel poco che mi è restato.</p>
+                  <p rend="justify">EUG. (<hi rend="italic">a Don Ambrogio</hi>) Mi maraviglio di voi, signore.</p>
+                  <p rend="justify">AMB. Ed io di voi.</p>
+                  <p rend="justify">CAV. Zitto, signori miei. Lasciatemi dir due parole, e vediamo se mi dà l'animo di accomodar la faccenda con soddisfazione di tutti.</p>
+                  <p rend="justify">AMB. (<hi rend="italic">verso Don Fernando</hi>) Questo povero giovane mi fa compassione.</p>
+                  <p rend="justify">FER. Per me non c'è caso. Ha detto che non mi vuole.</p>
+                  <p rend="justify">CON. Si farà una lite per donna Eugenia, ed io m'impegno di sostenerla.</p>
+                  <p rend="justify">CAV. No, senza liti. Ascoltatemi. Il povero Don Ambrogio, che ha tanto speso, non è dovere che si rovini colla restituzion di una dote. Questa dama non ha da restare nè vedova, nè indotata, e nè tampoco impegnar si deve una lite lunga, tediosa e pericolosa. Facciamo così: ch'ella si sposi con un galantuomo, che oggi non abbia bisogno della sua dote; che questa dote rimanga nelle mani di Don Ambrogio fino ch'ei vive; che corra a peso di Don Ambrogio il frutto dotale al quattro per cento; ma questo frutto ancora resti nelle di lui mani, durante la di lui vita. Alla sua morte la dote e il frutto, e il frutto de' frutti, passi alla dama, o agli eredi suoi, e per non impicciare in conti difficili l'eredità di Don Ambrogio, in una parola, goda egli tutto fin a che vive, e dopo la di lui morte, non avendo egli nè figliuoli, nè nipoti, instituisca donna Eugenia erede sua universale. (<hi rend="italic">a Don Ambrogio</hi>) Siete di ciò contento?</p>
+                  <p rend="justify">AMB. Non mi toccate niente, son contentissimo.</p>
+                  <p rend="justify">CAV. Voi, donna Eugenia, che dite?</p>
+                  <p rend="justify">EUG. Mi riporto ad un cavaliere avveduto, come voi siete.</p>
+                  <p rend="justify">CAV. Quando troviate oneste le mie proposizioni, eccovi in me il galantuomo, pronto a sposarvi senza bisogno per ora della vostra dote.</p>
+                  <p rend="justify">CON. Una simile esibizione la posso fare ancor io. La sicurezza d'aver la dote un giorno aumentata per benefizio de' figliuoli, vale lo stesso che conseguirla, nè il ritrovato del Cavaliere ha nulla di sì stravagante, ch'io non potessi quanto lui immaginarlo.</p>
+                  <p rend="justify">CAV. (<hi rend="italic">al Conte</hi>) Il Colombo trovò l'America. Molti dopo di lui dissero ch'era facile il ritrovarla; col paragone dell'uovo in piedi, svergognò egli i suoi emuli, ed io dico a voi, che il merito della scoperta per ora è mio.</p>
+                  <p rend="justify">AMB. Accomodatevi fra di voi, salvo sempre la roba mia, fin ch'io vivo.</p>
+                  <p rend="justify">CON. Donna Eugenia è in libertà di decidere.</p>
+                  <p rend="justify">EUG. Conte, finora fui indifferente. Ma farei un'ingiustizia al Cavaliere, se mi valessi de' suoi consigli, per rendere altrui contento. Egli ha trovato il filo per trarmi dal labirinto. Sua deve essere la conquista.</p>
+                  <p rend="justify">CAV. Oh saggia, oh compitissima dama!</p>
+                  <p rend="justify">CON. Sia vero o falso il pretesto, non deggio oppormi alle vostre risoluzioni, e siccome, se io vi avessi sposata, non avrei sofferto l'amicizia del Cavaliere, così, sposandovi a lui, non mi vedrete mai più.</p>
+                  <p rend="justify">CAV. Io non sono melanconico, come voi siete. Alla conversazion di mia moglie tutti gli uomini onesti potran venire: protestandomi che di lei mi fido, e che il vostro merito non mi fa paura.</p>
+                  <p rend="justify">AMB. Andiamo, signor Dottore, a far un'altra scrittura, chiara e forte, sicchè, fin ch'io viva, non possa temer di niente. Voi, signor Don Fernando, andate a Mantova, e seguitate a studiare. Signor Cavaliere, fatto il contratto, darete la mano a mia nuora, e voi, signor Conte, se perdeste una tal fortuna, vi sta bene, perchè siete un Avaro.</p>
+                  <p rend="center smallcaps">Fine della Commedia</p>
+               </div>
+            </div>
+            <div type="div2" rend="P27">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ref target="https://www.e-text.it/">www.e-text.it</ref>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: L'avaro</p>
+               <p>AUTORE: Goldoni, Carlo</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: </p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: 9788828102335</p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ref target="https://www.liberliber.it/online/opere/libri/licenze">www.liberliber.it/online/opere/libri/licenze</ref>
+               </p>
+               <p>COPERTINA: [elaborazione da] "Manuel de Roda y Arrieta" di Pompeo Batoni (1708–1787). - Real Academia de Bellas Artes de San Fernando, Madrid, Spagna - https://commons.wikimedia.org/wiki/File:Pompeo_Batoni_-_Retrato_de_D._Manuel_de_Roda_-_Google_Art_Project.jpg. - Pubblico Dominio.</p>
+               <p>TRATTO DA: 3.: Gli amori di Zelinda e Lindoro ; La gelosia di Lindoro ; L'avaro ; Il bugiardo ; La vedova scaltra ; Pamela nubile / [di Carlo Goldoni]. - 4. ed. stereotipa. - Milano : Sonzogno, 1887. - 337 p. ; 18 cm.. - (Biblioteca classica economica ; 44). Fa parte di Commedie scelte / di Carlo Goldoni.</p>
+               <p>CODICE ISBN FONTE: n. d.</p>
+               <p>
+                  <anchor type="bookmark-start" xml:id="id___DdeLink__16541_2136720637"/>1a EDIZIONE ELETTRONICA DEL: 15 marzo 2001<ptr type="bookmark-end" target="#id___DdeLink__16541_2136720637"/>
+               </p>
+               <p>2a EDIZIONE ELETTRONICA DEL: 2 novembre 2020</p>
+               <p>INDICE DI AFFIDABILITÀ: 1</p>
+               <p>0: affidabilità bassa</p>
+               <p>1: affidabilità standard</p>
+               <p>2: affidabilità buona</p>
+               <p>3: affidabilità ottima</p>
+               <p>SOGGETTO:</p>
+               <p>PER015000 ARTI RAPPRESENTATIVE / Commedia</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>REVISIONE:</p>
+               <p>Marina De Stasio, marina.destasio@fastwebnet.it</p>
+               <p>Ugo Santamaria</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it(ODT)</p>
+               <p>Marco Totolo (ODT)</p>
+               <p>Mariano Piscopo, mariano.piscopo@gmail.com (ePub)</p>
+               <p>Marco Totolo (revisione ePub)</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Maria Mataluno, m.mataluno@mclink.it</p>
+               <p>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc349_1637598191"/>Liber Liber<ptr type="bookmark-end" target="#id___RefHeading___Toc349_1637598191"/>
+               </p>
+               <p>Se questo libro ti è piaciuto, aiutaci a realizzarne altri. Fai una donazione: <ref target="https://www.liberliber.it/online/aiuta/">www.liberliber.it/online/aiuta</ref>.</p>
+               <p>Scopri sul sito Internet di Liber Liber ciò che stiamo realizzando: migliaia di ebook gratuiti in edizione integrale, audiolibri, brani musicali con licenza libera, video e tanto altro: <ref target="https://www.liberliber.it/">www.liberliber.it</ref>.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

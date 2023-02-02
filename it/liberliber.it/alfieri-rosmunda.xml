@@ -1,0 +1,3321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled Document</title>
+            <author>Vittorio Alfieri</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:02.19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-25T22:21:03.327754622</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Vittorio Alfieri</author>
+         <div type="div1">
+            <head>Rosmunda</head>
+            <div type="div2">
+               <head>Personaggi</head>
+               <p rend="smallcaps">Rosmunda.</p>
+               <p rend="smallcaps">Almachilde.</p>
+               <p rend="smallcaps">Ildovaldo.</p>
+               <p rend="smallcaps">Romilda.</p>
+               <p>Soldati.</p>
+               <p>Seguaci d'Ildovaldo.</p>
+               <p rend="center">
+                  <hi rend="italic">Scena, la Reggia in Pavia</hi>.</p>
+            </div>
+            <div type="div2">
+               <head>Atto primo</head>
+               <div type="div3">
+                  <head>SCENA PRIMA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Romilda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella1">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Perfida, al ciel porgi pur voti; innalza,</p> 
+                           <p>innalza pur tue vane grida al cielo;</p> 
+                           <p>giá non fia ch'ei t'ascolti. Arde frattanto</p> 
+                           <p>presso al Ticino la feral battaglia;</p> 
+                           <p>quinci n'odo il fragor: né in dubbia speme</p> 
+                           <p>mi ondeggia il core: del novel mio sposo</p> 
+                           <p>l'alta virtú guerriera appien certezza</p> 
+                           <p>del vincer dammi.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Se Almachilde in campo</p> 
+                           <p>val, quanto ei valse in questa reggia, allora</p> 
+                           <p>che a tradimento trucidovvi il mio</p> 
+                           <p>padre Alboino, ei vincerá: ma Clefi,</p> 
+                           <p>che contro lui combatte, ora non giace</p> 
+                           <p>nel sonno immerso, a ria consorte in braccio,</p> 
+                           <p>come Alboín marito tuo giacea</p> 
+                           <p>in quell'orrida notte. Il fior dei prodi</p> 
+                           <p>Clefi ha raccolto a se dintorno: a un tempo</p> 
+                           <p>ei la gran causa della fe tradita,</p> 
+                           <p>dell'oltraggiato ciel, del volgo oppresso,</p> 
+                           <p>e delle infrante Longobarde leggi</p> 
+                           <p>sostien coll'armi; e vincitor lo spero.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Del Longobardo popolo la feccia </p> 
+                           <p>segue or di Clefi le ribelli insegne;</p> 
+                           <p>uom di sangue non vil fra' suoi non conta:</p> 
+                           <p>degno egli è ben, che tu per lui parteggi.</p> 
+                           <p>E tu, di re sei figlia? Oh, in ver felice</p> 
+                           <p>il mio destin, che madre a te non femmi!</p> 
+                           <p>Nata di re, tu vile esser puoi tanto,</p> 
+                           <p>che veder vogli la regal possanza</p> 
+                           <p>col trono a terra?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Anzi che iniquo il prema</p> 
+                           <p>contaminato usurpatore, a terra</p> 
+                           <p>veder vo' il trono. E tu, consorte e figlia</p> 
+                           <p>fosti di re? tu, che di sposa osasti</p> 
+                           <p>a un traditor tuo suddito dar mano?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>A ogni uom, che far le mie vendette ardisse,</p> 
+                           <p>dovuto premio era mia mano. A infauste</p> 
+                           <p>nozze col crudo padre tuo mi trasse</p> 
+                           <p>necessitá feroce. Orfana, vinta,</p> 
+                           <p>m'ebbe Alboín, tinto del sangue ancora</p> 
+                           <p>dell'infelice mio padre Comundo:</p> 
+                           <p>l'empio Alboín, disperditor de' miei,</p> 
+                           <p>depredator del mio paterno regno,</p> 
+                           <p>di mie sventure insultatore. Al fine</p> 
+                           <p>dal duro fatal giogo di tanti anni</p> 
+                           <p>io respiro. Il rancor, che in me represso</p> 
+                           <p>sí a lungo stette, or fia che scoppi: or voglio</p> 
+                           <p>te d'Alboín figlia abborrita, (ond'io</p> 
+                           <p>madre non son per mia somma ventura)</p> 
+                           <p>te vo' sgombrar dagli occhi miei per sempre.</p> 
+                           <p>Sposa ti mando ad Alarico.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Io sposa?..</p> 
+                           <p>Io, d'Alarico?..</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Sí. Poca vendetta</p> 
+                           <p>a te par questa; e poca io pur l'estimo,</p> 
+                           <p>al mal che femmi il padre tuo; ma tormi</p> 
+                           <p>dal cospetto mi giova ogni empio avanzo</p> 
+                           <p>del sangue d'Alboino. In cambio darti </p> 
+                           <p>de' pattuiti ajuti, che a me presta</p> 
+                           <p>contro Clefi Alarico, io la regale</p> 
+                           <p>fede mia n'impegnai. Godi: alto sposo</p> 
+                           <p>avrai, qual merti: e benché vasto regno,</p> 
+                           <p>a par di quelli che usurpò tuo padre,</p> 
+                           <p>gli Eruli a lui non dieno, ei lo pareggia</p> 
+                           <p>in efferata crudeltade al certo.</p> 
+                           <p>Felice te, quanto Alboín mi fea,</p> 
+                           <p>Alarico fará.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Non sperar mai</p> 
+                           <p>che a tali nozze io vada. Ove tu vinca,</p> 
+                           <p>e aver di me piena vendetta brami;</p> 
+                           <p>fra queste mura stesse, ove del padre</p> 
+                           <p>l'ombra si aggira invendicata, dove</p> 
+                           <p>vil traditor, che lui svenò, sen giace</p> 
+                           <p>a lato a te, nel talamo suo stesso;</p> 
+                           <p>quí dei la figlia uccider tu; quí lunghi</p> 
+                           <p>martirj orrendi, e infami strazj darle.</p> 
+                           <p>Ma, tu dispor della mia destra?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Aggiunti</p> 
+                           <p>i furor tutti di crudel madrigna</p> 
+                           <p>ai furori di barbaro marito,</p> 
+                           <p>in Alarico troverai. Di morte</p> 
+                           <p>punisco io quei che in un pavento e abborro:</p> 
+                           <p>te, cui non temo, io vo' punir di vita.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Pari in ferocia a te chi fia? non io.</p> 
+                           <p>Pianto non è, non d'innocenza grido,</p> 
+                           <p>che al cor ti scenda, il so: né schermo resta</p> 
+                           <p>a me, che il pianto... Oh ciel! - Ma no: ben posso,</p> 
+                           <p>e so morir, purch'io non vada... Forse</p> 
+                           <p>meglio mi fora, le tue nobili arti,</p> 
+                           <p>e il tuo pugnale ad Alarico in dote</p> 
+                           <p>recando, fargli le mie chieste nozze</p> 
+                           <p>caro costare: ma, son io Rosmunda?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Io 'l sono; e assai men pregio. Al mondo è noto,</p> 
+                           <p>ch'a incrudelir prima non fui.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Se crudo</p> 
+                           <p>fu il mio padre con te, dritto di guerra</p> 
+                           <p>tale il fea; ma tu poi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Di guerra dritto?</p> 
+                           <p>Nella piú cruda inospita contrada</p> 
+                           <p>dritto fu mai, ch'empio furore, e scherno</p> 
+                           <p>le insepolte de' morti ossa insultasse? -</p> 
+                           <p>Nol vegg'io sempre, a quella orribil cena</p> 
+                           <p>(banchetto a me di morte) ebro d'orgoglio,</p> 
+                           <p>d'ira, e di sangue, a mensa infame assiso,</p> 
+                           <p>ir motteggiando? e di vivande e vino</p> 
+                           <p>carco, nol veggio (ahi fera orrida vista!)</p> 
+                           <p>bere a sorsi lentissimi nel teschio</p> 
+                           <p>dell'ucciso mio padre? indi inviarmi</p> 
+                           <p>d'abborrita bevanda ridondante</p> 
+                           <p>l'orrida tazza? E negli orecchi sempre</p> 
+                           <p>quel sanguinoso derisor suo invito</p> 
+                           <p>a me non suona? Empio ei dicea: «Col padre</p> 
+                           <p>bevi, Rosmunda». - E tu, di un simil mostro</p> 
+                           <p>nata, innanzi mi stai? - Se, lui trafitto,</p> 
+                           <p>te fatto avessi dai piú vili schiavi</p> 
+                           <p>contaminare, indi svenar; se avessi</p> 
+                           <p>arso, e disperso il cener vostro al vento;</p> 
+                           <p>vendetta io mai pari all'oltraggio avrei?</p> 
+                           <p>Va; né piú m'irritare. Augurio fausto</p> 
+                           <p>emmi il vederti mal tuo grado andarne</p> 
+                           <p>a fere nozze: e omai tu il nieghi invano;</p> 
+                           <p>a forza andrai. Nel sangue tuo si lordi</p> 
+                           <p>altra man che la mia. Ma, vanne intanto;</p> 
+                           <p>te quí non voglio, or che Almachilde aspetto</p> 
+                           <p>vincitore dal campo. Esci; e t'appresta</p> 
+                           <p>al tuo partire al nuovo dí: l'impongo.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA SECONDA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella2">  
+                     <row>
+                        <cell/> 
+                        <cell>
+                           <p>Quant'io abborro costei, neppure io stessa</p> 
+                           <p>il so. Cagioni, assai ve n'ha; ma troppo</p> 
+                           <p>alla mia pace importa il non chiarirne</p> 
+                           <p>la piú vera, e maggiore. Il cor mi sbrana</p> 
+                           <p>un dubbio orrendo... Ma traveggo io forse...</p> 
+                           <p>Ah! no; dubbio non è; fatal certezza</p> 
+                           <p>ben è: lei non rimira il mio consorte</p> 
+                           <p>con quell'occhio di sdegno, onde si sguarda</p> 
+                           <p>dall'uccisor la figlia dell'ucciso.</p> 
+                           <p>Tal volta a lei senza adirarsi ei parla;</p> 
+                           <p>e d'essa pur senza adirarsi ei parla.</p> 
+                           <p>Della costei, giá non dirò beltade,</p> 
+                           <p>ma fallace dolcezza lusinghiera,</p> 
+                           <p>forse ch'ei preso all'amo?... Ah! non si appuri</p> 
+                           <p>tal vero mai. Lungi Romilda, lungi</p> 
+                           <p>di quí per sempre... A un tal pensier mi bolle</p> 
+                           <p>entro ogni vena il sangue. O d'Alboíno</p> 
+                           <p>figlia esecrata giá, degg'io scoprirti</p> 
+                           <p>anco rivale mia? - Tacciasi... Viene</p> 
+                           <p>Almachilde... Vediam, s'io pur m'inganno.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA TERZA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Soldati</hi>.</p>
+                  <table rend="frame" xml:id="Tabella3">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Giá le festose grida, e l'ondeggianti</p> 
+                           <p>bandiere al vento, e il militar contegno,</p> 
+                           <p>tutto mel dice; il vincitor tu sei.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Salvo, e securo, e vincitor mi vedi;</p> 
+                           <p>ma, non per mia virtú. Vittoria, e vita,</p> 
+                           <p>e libertade, e regno, oggi a me tutto</p> 
+                           <p>dona il solo Ildovaldo. Ei m'era scudo; </p> 
+                           <p>ei difensor magnanimo: tai prove</p> 
+                           <p>fea di valore egli per me, che il merto</p> 
+                           <p>mai pareggiar col guiderdon non posso.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>S'io ben mi appongo al vero, il tuo bollente</p> 
+                           <p>sublime cor spinto ti avea lá dove</p> 
+                           <p>il periglio piú ardeva. Ah! di Rosmunda</p> 
+                           <p>non rimembravi allor le angosce, i pianti,</p> 
+                           <p>il palpitare. Del valor tuo troppo</p> 
+                           <p>quant'io temessi, il sai: pur mi affidava</p> 
+                           <p>il prometter, che festi anzi la pugna,</p> 
+                           <p>di non ti esporre incautamente indarno.</p> 
+                           <p>Io ten pregai; tu mel giuravi: ah! dimmi;</p> 
+                           <p>che sarei senza te? nulla m'è il trono,</p> 
+                           <p>nulla il viver, se teco io nol divido.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Te rimembrava, e l'amor tuo: ma capo</p> 
+                           <p>dei Longobardi degno, e degno sposo</p> 
+                           <p>dovea mostrarmi di Rosmunda a un tempo,</p> 
+                           <p>ferocemente andando a morte incontro.</p> 
+                           <p>Come ammendar, se non col brando, in campo,</p> 
+                           <p>quel fatal colpo, che di man mi uscia?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>E che? d'avermi vendicata ardisci</p> 
+                           <p>pentirti?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ah! sí. Non la vendetta, il modo</p> 
+                           <p>duolmi, ond'io l'ebbi, e mi dorrá pur sempre.</p> 
+                           <p>Per torre a me tal macchia, erami forza</p> 
+                           <p>tutto versar, quant'io n'avessi, il sangue. -</p> 
+                           <p>Ad alta voce io traditor mi udiva</p> 
+                           <p>nomar da Clefi, e da' suoi prodi; al centro</p> 
+                           <p>del colpevol mio core rimbombava</p> 
+                           <p>il meritato, ma insoffribil nome.</p> 
+                           <p>Nol niego; allor, tranne il mio onor perduto,</p> 
+                           <p>d'ogni altra cosa immemore, mi scaglio</p> 
+                           <p>ove si addensan piú le spade, e l'ire:</p> 
+                           <p>cieco di rabbia disperatamente</p> 
+                           <p>roto a cerchio il mio brando; ampia lor prova</p> 
+                           <p>col ferro io do, che traditor vie meno </p> 
+                           <p>son, che guerriero. - Alto giá giá mi sorge</p> 
+                           <p>di trucidati e di mal vivi intorno</p> 
+                           <p>un monte; quando il buon destrier trafitto</p> 
+                           <p>mi cade; io balzo in piè; ma il piè mal fermo</p> 
+                           <p>sul suol di sangue lubrico mi sdrucciola,</p> 
+                           <p>sí ch'io ricado. - Giá l'oste si ammassa,</p> 
+                           <p>e addosso a me precipitosa piomba.</p> 
+                           <p>Di sua virtú gli ultimi sforzi indarno</p> 
+                           <p>iva facendo il mio stanco languente</p> 
+                           <p>brando: quand'ecco, in men che non balena,</p> 
+                           <p>con non molti de' suoi, s'apre Ildovaldo</p> 
+                           <p>fra schiere, ed aste, e grida, e spade, ed urti,</p> 
+                           <p>infino a me la via. Diradan tosto;</p> 
+                           <p>a destra a manca in volta piegan; rotti</p> 
+                           <p>volan dispersi i rei nemici in fuga.</p> 
+                           <p>Ripreso ardire, i miei gl'incalzan forte;</p> 
+                           <p>ampia messe han lor brandi; onde l'incerta</p> 
+                           <p>campal giornata in sanguinoso orrendo</p> 
+                           <p>total macello in un momento è volta.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Respiro al fine: al fin sei salvo: inciampo</p> 
+                           <p>niun altro io mai temeva al vincer tuo</p> 
+                           <p>che il valore tuo troppo. Era Ildovaldo</p> 
+                           <p>giá fra i maggior di questo regno; or fia</p> 
+                           <p>soltanto a te secondo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Esser gli deggio</p> 
+                           <p>tanto piú grato, quanto a me piú farlo</p> 
+                           <p>volean sospetto anzi la pugna alcuni</p> 
+                           <p>invidi vili. Ei d'Alarico i tardi,</p> 
+                           <p>e forse infidi ajuti, assai ben disse</p> 
+                           <p>non doversi aspettar: piú val suo brando,</p> 
+                           <p>che mille ajuti: egli è il mio prode; ei solo</p> 
+                           <p>la guerra a un tempo, e la giornata ha vinto.</p> 
+                           <p>Fama, ancor che diversa, orrevol suona,</p> 
+                           <p>or che in sue man lo stesso Clefi è preso;</p> 
+                           <p>or che il piagasse a morte; ed è chi 'l dice</p> 
+                           <p>anco ucciso. Seguir de' fuggitivi </p> 
+                           <p>l'orme non volli; uso a veder la fronte</p> 
+                           <p>de' nemici son io: ma d'Ildovaldo</p> 
+                           <p>l'alto coraggio avrá compiuta appieno</p> 
+                           <p>la lor sconfitta. In lui mi affido; ei svelta</p> 
+                           <p>fin da radice ha in questo di tal guerra.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Duolmi, che lente d'Alarico l'armi</p> 
+                           <p>non ebber parte alla vittoria: intera</p> 
+                           <p>mia fe pur sono io di serbargli astretta:</p> 
+                           <p>a noi giovare altra fiata ei puote;</p> 
+                           <p>e, quel ch'è peggio, ei ci può nuocer sempre.</p> 
+                           <p>Dargli vuolsi Romilda: a lei ne fea</p> 
+                           <p>io giá l'annunzio. - Il crederesti? ell'osa</p> 
+                           <p>niegar sua mano ad Alarico.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Oh! tanto</p> 
+                           <p>sperar io?... Tanto ella sperare ardisce?..</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Sí. - Ma indarno ella il niega: al sol novello</p> 
+                           <p>le intimai la partita. Il trono pria</p> 
+                           <p>io perder vo', che mai tradir mia fede.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Ma pur,... pietá della infelice figlia...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Pietá?... di lei?... figlia di chi? - Che ascolto?...</p> 
+                           <p>Dell'uccisor del padre mio la figlia</p> 
+                           <p>altro esser mai, fuorché infelice, debbe?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>A me non par, che la vittoria lieta</p> 
+                           <p>da intorbidarsi or sia con víolenti</p> 
+                           <p>comandi. Ella è, Romilda, unico sangue</p> 
+                           <p>del Longobardo re: mal fermi ancora</p> 
+                           <p>sul trono stiamo: in cor ciascun quí serba</p> 
+                           <p>memoria ancor delle virtú guerriere,</p> 
+                           <p>della possanza rapida crescente</p> 
+                           <p>d'Alboín suo legittimo signore.</p> 
+                           <p>Dietro ai vittoríosi alti suoi passi,</p> 
+                           <p>d'Italia, quanto il Po ne irriga, e quanto</p> 
+                           <p>l'Appennin, l'Alpe, e d'Adria il mar ne serra,</p> 
+                           <p>tutto han predato, e posto in ceppi, od arso.</p> 
+                           <p>Gran carco a noi, grand'odio, e rei perigli</p> 
+                           <p>l'uccisíon di sí gran re ne lascia. </p> 
+                           <p>Stanca or la plebe d'assoluto sire,</p> 
+                           <p>vessillo alzar di libertade ardiva:</p> 
+                           <p>lieve a reprimer era: a pro' guerrieri</p> 
+                           <p>piace un sol capo. Ma del lor gran duce</p> 
+                           <p>se la figlia oltraggiar veggon le squadre,</p> 
+                           <p>chi di lor ne risponde? E noi senz'esse,</p> 
+                           <p>dimmi, che siamo?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Nuovo, in ver, del tutto</p> 
+                           <p>oggi a me giunge, che in affar di regno,</p> 
+                           <p>da quel ch'io sento altro tu senta. Io lascio</p> 
+                           <p>l'armi a te; ma di pace entro la reggia</p> 
+                           <p>l'arti adoprar, chi mel torria? - Deh, vieni</p> 
+                           <p>d'alcun riposo a ristorarti intanto.</p> 
+                           <p>Contro le aperte armi nemiche scudo</p> 
+                           <p>a me tu sei: ma ogni men nobil cura,</p> 
+                           <p>che a guerrier disconviensi, a me s'aspetta.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto secondo</head>
+               <div type="div3">
+                  <head>SCENA PRIMA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Ildovaldo</hi>.</p>
+                  <table rend="frame" xml:id="Tabella4">  
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Vieni, Ildovaldo, abbracciami; sostegno</p> 
+                           <p>di mia gloria primiero. All'opre tue,</p> 
+                           <p>vinto il confesso, guiderdon non havvi,</p> 
+                           <p>che lor pareggi: ma, se pure io valgo...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Signor, se presso alla regal bandiera</p> 
+                           <p>oggi pugnai contro il vessillo infido</p> 
+                           <p>di Clefi, or merto a me non fia: da' primi</p> 
+                           <p>verdi anni miei, cresciuto ebbermi gli avi</p> 
+                           <p>in tal pensier, ch'ella doveami sempre</p> 
+                           <p>sacra parer la causa di chi regna,</p> 
+                           <p>qual ch'ella fosse.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Il tuo parlar modesto</p> 
+                           <p>ben d'alto cor fa fede: il so; prod'uomo,</p> 
+                           <p>presto a piú far, poco il giá fatto estima.</p> 
+                           <p>Ma, a piú far che ti resta? appien dispersi,</p> 
+                           <p>o spenti hai tu que' miei nemici vili,</p> 
+                           <p>cui paura impennò rapide tanto</p> 
+                           <p>l'ali al fuggire. Io fuor di lena affatto,</p> 
+                           <p>in tua man li lasciai: sapea ch'ei fora,</p> 
+                           <p>dove adopravi il tuo, vano il mio brando.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>A me fortuna arrider volle. In ceppi</p> 
+                           <p>Clefi vien tratto in tuo poter; ferito,</p> 
+                           <p>ma non di mortal colpo: al cader suo, </p> 
+                           <p>se ardea pur anco di valor favilla</p> 
+                           <p>in cor de' suoi, tosto si spense; e cadde</p> 
+                           <p>ogni orgoglio col duce.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>A prova poni,</p> 
+                           <p>Ildovaldo, il mio core. Havvi nel mondo</p> 
+                           <p>cosa, ove intenda il desir tuo? Deh! parla;</p> 
+                           <p>nulla t'ardisco offrir; ma puoi (chi 'l puote</p> 
+                           <p>altri che tu?) dirmi qual sia mercede,</p> 
+                           <p>che offenda men la tua virtú.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Vestirmi</p> 
+                           <p>di sviscerato amico tuo sembianza,</p> 
+                           <p>prence, non vo', poich'io tal non ti sono.</p> 
+                           <p>Men te, che il trono, oggi a salvare impresi;</p> 
+                           <p>trono, la cui salvezza oggi pendea</p> 
+                           <p>dal viver tuo. Potrebbe il regio dritto</p> 
+                           <p>spettare un giorno forse a tal, cui poco</p> 
+                           <p>parriami dar, dando mia vita: io quindi</p> 
+                           <p>aspro ne fui propugnatore. Il vedi,</p> 
+                           <p>che a te servir, non fu il pensier mio primo.</p> 
+                           <p>Nulla mi dei tu dunque; e dall'incarco</p> 
+                           <p>di gratitudin grave io giá t'ho sciolto.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ti ammiro piú, quant'io piú t'odo. Vinto</p> 
+                           <p>pur non m'avrai nella sublime gara.</p> 
+                           <p>Me tu non ami, ed altri a me giá il disse;</p> 
+                           <p>pur di affidarti della pugna parte,</p> 
+                           <p>e la maggior, non dubitava. Or biasmo</p> 
+                           <p>giá non ti do, perché a pugnar ti mosse</p> 
+                           <p>la vilipesa maestá del soglio,</p> 
+                           <p>piú che il periglio mio. So, che non debbe</p> 
+                           <p>illustre molto a pro' guerrier qual sei</p> 
+                           <p>parere il mezzo, onde sul trono io seggo:</p> 
+                           <p>primo il condanno io stesso: ma, qual fera</p> 
+                           <p>necessitá mi vi spingesse orrenda,</p> 
+                           <p>tu, generoso mio nimico, il sai.</p> 
+                           <p>Suddito altrui me pur, me pur tuo pari</p> 
+                           <p>vedesti un dí; né allora, (oso accertarlo) </p> 
+                           <p>vile ti parvi io mai. Macchiata poscia</p> 
+                           <p>ho la mia fama: or sappi; in core io stesso</p> 
+                           <p>piú infame assai ch'altri mi tien, m'estimo.</p> 
+                           <p>Ma non assonno io giá sul sanguinoso</p> 
+                           <p>trono; ed in parte la terribil taccia</p> 
+                           <p>di traditor (mai non si perde intera)</p> 
+                           <p>togliermi spero.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Io ti credea dal nome</p> 
+                           <p>di re piú assai corrotto il cor: ma sano,</p> 
+                           <p>pure non l'hai. Sentir rimorsi, e starsi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>E starmi omai vogl'io? Giá giá...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ma, questo</p> 
+                           <p>trono, tu il sai...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>So che ad altrui s'aspetta;</p> 
+                           <p>che mio non è...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Dunque...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Deh! m'odi. Io posso</p> 
+                           <p>me far del trono oggi assai meno indegno.</p> 
+                           <p>Odimi; e poscia, se tu il puoi, mi niega</p> 
+                           <p>di secondarmi... Ma, il desir mio cieco</p> 
+                           <p>dove or mi tragge? A' tuoi servigi io dianzi</p> 
+                           <p>guiderdon non trovava, ed or giá ardisco</p> 
+                           <p>chiederne a te de' nuovi?</p>
+                        </cell>
+                     </row>  
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ah! sí: favella.</p> 
+                           <p>Mercede ampia mi dai, se tal mi tieni</p> 
+                           <p>da non cercarne alle magnanim'opre.</p> 
+                           <p>Che poss'io far? Favella.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ad altro patto</p> 
+                           <p>non sperar ch'io tel dica, ove tu pria,</p> 
+                           <p>se cosa è al mondo che bear ti possa,</p> 
+                           <p>chiesta non l'abbi a me. Se vuoi gran parte</p> 
+                           <p>del regno; (intero il merti) o s'altro pure</p> 
+                           <p>desio piú dolce, e ambizioso meno,</p> 
+                           <p>ti punge il cor, nol mi celare: anch'io</p> 
+                           <p>so che ogni ben posto non è nel trono:</p> 
+                           <p>so, ch'altro v'ha, che mi faria piú lieto; </p> 
+                           <p>so, che assai manca all'esser mio felice.</p> 
+                           <p>Desio sta in me, che di mia vita è base</p> 
+                           <p>sola; e piú ferve in me, quanto piú trova</p> 
+                           <p>ostacoli. - Deh! dunque apriti meco,</p> 
+                           <p>perch'io ti giovi un poco, or che puoi tanto,</p> 
+                           <p>gli altrui dritti servendo, in un giovarmi.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Favellerò, poiché tu il vuoi. - Non bramo</p> 
+                           <p>impero, no; mal tu il daresti; e doni</p> 
+                           <p>son questi ognor di pentimento e sangue.</p> 
+                           <p>Ma, poi che aprirmi il tuo piú interno core</p> 
+                           <p>ti appresti, il mio dischiuderti non niego.</p> 
+                           <p>Ciò ch'io sol bramo, or nulla a te torrebbe,</p> 
+                           <p>e vita fora a me.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Nomalo; è tuo.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>... Amante io vivo, è giá gran tempo: opporsi</p> 
+                           <p>sol può Rosmunda all'amor mio; tu puoi</p> 
+                           <p>solo da ciò distorla.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Ed è tua fiamma?...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Romilda ell'è...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Che sento!... Ami Romilda?</cell>
+                     </row>  
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Sí... Ma stupor donde in te tanto?...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ignoto</p> 
+                           <p>m'era appieno il tuo amore.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Or ch'io tel dico,</p> 
+                           <p>perché turbarti? Incerto...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Io?... Deh! perdona...</p> 
+                           <p>stupor non è... - Romilda! E da gran tempo</p> 
+                           <p>tu l'ami?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>E che? forse il mio amor ti spiace?</p> 
+                           <p>Sconviensi forse a me? S'ella è di stirpe</p> 
+                           <p>regia, vil non son io. Figlia è Rosmunda</p> 
+                           <p>di re pur ella, e non sdegnò di sposa</p> 
+                           <p>dar mano a te mio uguale.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>E qual fia troppo</p> 
+                           <p>alta cosa per te?... Ma, il sai;... Rosmunda</p> 
+                           <p>di Romilda dispone;... ed io...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Tu forse</p> 
+                           <p>nulla ottener puoi da Rosmunda? e tanto</p> 
+                           <p>ella da te, pur tanto, ottenne. - Or basti.</p> 
+                           <p>Io giá son pago appieno: ogni mio merto</p> 
+                           <p>mi hai giá guiderdonato regalmente,</p> 
+                           <p>promettendo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Deh! no; nol creder;... voglio...</p> 
+                           <p>ma di'... - Romilda!... E riamato sei?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Romilda... Eccola.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA SECONDA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Romilda</hi>, <hi rend="smallcaps">Ildovaldo</hi>.</p>
+                  <table rend="frame" xml:id="Tabella5">  
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Oh ciel! con lui chi veggo? -</p> 
+                           <p>Oh miei delusi voti! alla non tua</p> 
+                           <p>regal corona anco l'alloro intessi?</p> 
+                           <p>Palma oggi ottiene il tradimento? - E l'abbia. -</p> 
+                           <p>Ma tu, guerrier di generosi spirti,</p> 
+                           <p>Ildovaldo, perché l'alta tua possa</p> 
+                           <p>spendi a pro di costui? virtú cotanta</p> 
+                           <p>dovea mai farsi a tanta infamia scudo?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Dunque, o ver me non mai placabil donna,</p> 
+                           <p>non v'ha forza di tempo, o d'opre modo,</p> 
+                           <p>che un cotal poco rammollisca, o acqueti</p> 
+                           <p>l'ira tua giusta? A te Ildovaldo il dica,</p> 
+                           <p>com'io nel campo ricercai la morte,</p> 
+                           <p>ei che a morte mi tolse. - Ah! mal ti prese</p> 
+                           <p>pietá di me: morire io lá dovea,</p> 
+                           <p>poiché qui offende il vincer mio. - Ma il cielo,</p> 
+                           <p>che del mio cor sa l'innocenza, (ah, pura</p> 
+                           <p>fosse cosí mia destra!) il ciel fors'oggi</p> 
+                           <p>non diemmi invan lustro, e vittoria, ov'io</p> 
+                           <p>morte cercai.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Non mi accusar, Romilda,</p> 
+                           <p>d'aver pugnato. A vendicar tuo padre </p> 
+                           <p>Clefi coll'armi non veniva in campo;</p> 
+                           <p>distruggitor del trono ad alta voce</p> 
+                           <p>ei s'appellava; io combattea pel trono.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>O in libertade questa oppressa gente</p> 
+                           <p>Clefi ridur, com'ei dicea, volesse,</p> 
+                           <p>o per se regno; ad ottener suo intento</p> 
+                           <p>mezzi adoprava assai men vili ognora,</p> 
+                           <p>di chi l'ottenne pria. Da prode, in campo,</p> 
+                           <p>alla luce del sole, ei l'armi impugna:</p> 
+                           <p>e, s'era pur destin, che sul paterno</p> 
+                           <p>vuoto mio soglio usurpator salisse,</p> 
+                           <p>dovea toccare al piú valente almeno.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Codardo me v'ha chi nomare ardisca?</p> 
+                           <p>Ad assalire il trono altri mostrossi</p> 
+                           <p>piú forte mai, ch'oggi a difenderl'io?</p> 
+                           <p>Mai non perdoni tu? l'error, ch'io feci</p> 
+                           <p>mio mal grado, (il san tutti) io solo il posso</p> 
+                           <p>forse emendare; io, sí. Dolce mi fia</p> 
+                           <p>renderti ben per male: ho col mio sangue</p> 
+                           <p>difeso intanto il vuoto soglio; è tuo</p> 
+                           <p>il soglio, il so; mai non l'oblio, tel giuro.</p> 
+                           <p>Per quanto è in me, giá lo terresti. Il preme</p> 
+                           <p>Rosmunda, ed è...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Contaminato soglio,</p> 
+                           <p>di tradimenti premio, altri sel tenga;</p> 
+                           <p>Rosmunda il prema, ella con te n'è degna. -</p> 
+                           <p>Ma, se pur finto il tuo pentir non fosse;</p> 
+                           <p>se a generosi detti opre accordarsi</p> 
+                           <p>potesser poi d'alma giá rea; mi ottieni,</p> 
+                           <p>non regno, no, dalla crudel madrigna;</p> 
+                           <p>sol di me stessa ottieni a me l'impero.</p> 
+                           <p>Libera vita io chieggo; o morte io chieggo.</p> 
+                           <p>Quasi appien giá nel mio svenato padre</p> 
+                           <p>non avess'ella sfogata sua rabbia,</p> 
+                           <p>l'empia Rosmunda, or per piú strazio darmi,</p> 
+                           <p>in vita vuolmi, e ad Alarico sposa.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Che ascolto?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Odi, Ildovaldo? ah! per te il vedi,</p> 
+                           <p>s'io con ragion teco era in dubbio...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Sposa</p> 
+                           <p>del barbaro Alarico?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Ah! no...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Promessa</p> 
+                           <p>ad Alarico; ed in mercede io 'l sono</p> 
+                           <p>dei non prestati ajuti: hanne sua fede</p> 
+                           <p>impegnata colei, che il regno e il padre</p> 
+                           <p>mi ha tolto: e a patto nullo omai sua fede</p> 
+                           <p>tradir (chi 'l crederia?) non vuol Rosmunda.</p> 
+                           <p>Deggio al novello sole irne a tai nozze:</p> 
+                           <p>ma il nuovo sol me non rischiara ancora. -</p> 
+                           <p>Deh! se men d'essa iniquo esser tu puoi;</p> 
+                           <p>s'egli è pur mio destin, ricorrer oggi</p> 
+                           <p>all'uccisor del padre mio; deh! tenta</p> 
+                           <p>di opporti almen...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ch'io tenti? io ben ti giuro,</p> 
+                           <p>che non v'andrai.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Per questo brando io 'l giuro.</p> 
+                           <p>Mi udrá Rosmunda...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Ecco; ella vien nell'ira.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA TERZA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Romilda</hi>, <hi rend="smallcaps">Ildovaldo</hi>.</p>
+                  <table rend="frame" xml:id="Tabella6">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Quí, con costei, tu stai? tu pur, tu presti</p> 
+                           <p>a' detti suoi sedizíosi orecchio? -</p> 
+                           <p>Giorno è di gioja questo: a che, miei prodi,</p> 
+                           <p>giova lo starsi infra gli eterni lai</p> 
+                           <p>di questa figlia del dolor?... Donzella,</p> 
+                           <p>sospiri tu? perché? pronto a' miei cenni</p> 
+                           <p>giá sta Ragauso con regal corteggio,</p> 
+                           <p>per guidarti ove trono altro piú illustre </p> 
+                           <p>ti aspetta, e lieta marital ventura.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Ma, d'Alarico...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>E che? non degno forse</p> 
+                           <p>fia di sua man tal re?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Sí crudo...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Crudo,</p> 
+                           <p>quanto Alboín? Costei di un sangue nasce,</p> 
+                           <p>cui mai novella crudeltá non giunge,</p> 
+                           <p>qual ch'ella sia.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Tai nozze...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>A tutti infauste...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Spiaccionti?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Niega ella il consenso...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>E il nieghi:</p> 
+                           <p>io v'acconsento.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell>
+                           <hi rend="smallcaps">Romil</hi>.</cell> 
+                        <cell>
+                           <p>Ch'ei di te sia meno</p> 
+                           <p>spietato, duolti?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>E a te pietoso il credi?</p> 
+                           <p>pietoso a te? ch'osi tu dir? Non sente</p> 
+                           <p>di te pietá: mal ti lusinghi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Io, quanta</p> 
+                           <p>sentir sen può, tutta la sento; e il dico;</p> 
+                           <p>e il mostrerò, se mi vi sforzi. Un tale</p> 
+                           <p>strazio chi può d'una regal donzella</p> 
+                           <p>mirar, chi 'l può, senza pietá sentirne?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Pietade ogni uom, tranne Almachilde, n'abbia.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Se ancor memoria dei recenti allori,</p> 
+                           <p>ch'oggi a te miete il brando mio, tu serbi,</p> 
+                           <p>il mio consiglio udrai. Danno tornarti</p> 
+                           <p>può, se Romilda oltraggi.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>E assai gran danno.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Saggia sei, se nol fai...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Saggia è Romilda;</p> 
+                           <p>e a mia voglia fará. Tu, i tuoi consigli</p> 
+                           <p>serba ad altrui. Giá i tuoi servigj vanti?</p> 
+                           <p>Che festi? il dover tuo. - Ma tu, consorte, </p> 
+                           <p>da me dissenti? e dirmel osi? e deggio</p> 
+                           <p>ora innanzi a costei discuter teco</p> 
+                           <p>l'alte ragion di stato? Andiam; deh!, vieni:</p> 
+                           <p>lasciale or breve a ravvedersi il tempo:</p> 
+                           <p>miglior consiglio il suo timor daralle.</p> 
+                           <p>Lasciala omai. - Romilda, udisti? o all'alba</p> 
+                           <p>muovi buon grado il piede; e orrevol scorta</p> 
+                           <p>al fianco avrai, cui fia Ragauso duce;</p> 
+                           <p>o l'andar nieghi, e strascinarti ei debbe.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA QUARTA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Ildovaldo</hi>, <hi rend="smallcaps">Romilda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella7">  
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Strascinarla?... Che sento! Ah! pria svenarmi...</p> 
+                           <p>Romilda, oh ciel! che a perder t'abbia?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ah! niuna</p> 
+                           <p>speme, dal dí che mi fu morto il padre,</p> 
+                           <p>e ch'io mi vidi a tal madrigna in mano,</p> 
+                           <p>niun'altra speme entro il mio petto accolsi,</p> 
+                           <p>se non di morte.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Ma, finch'io respiro...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Credi, null'altro a me rimane. Io sono</p> 
+                           <p>presta a morir, piú che nol pensi: in core</p> 
+                           <p>di vederti una volta ancor bramava;</p> 
+                           <p>darti d'amor l'estremo addio...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Deh! taci.</p> 
+                           <p>Amata m'ami, e di morir mi parli,</p> 
+                           <p>finch'io l'aure respiro, e il brando cingo?</p> 
+                           <p>Colma ho ben l'alma di dolor; ma nulla</p> 
+                           <p>ancor dispero.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>E donde mai salvezza</p> 
+                           <p>può a me venirne?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>E non son io da tanto,</p> 
+                           <p>che di man di costor trarti?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Sí, il puoi: </p> 
+                           <p>ma che fia poscia? Essi hanno regno; e quindi</p> 
+                           <p>stromenti assai d'iniquitá: feroce,</p> 
+                           <p>ma accorta è l'ira di Rosmunda a un tempo.</p> 
+                           <p>Deluder puossi?... E se in sua man ricaggio?...</p> 
+                           <p>Non lusingarti omai: mia fe non posso,</p> 
+                           <p>se non morendo, a te serbare: il tuo</p> 
+                           <p>brando, il valor, la vita tua riserba</p> 
+                           <p>a ferir colpi, onde si acquetin l'ombre,</p> 
+                           <p>del mio padre,... e la mia. Vivi; ti lascio</p> 
+                           <p>a vendicare un re tradito, un padre,</p> 
+                           <p>e la tua fida amante.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Oh ciel! che ascolto?</p> 
+                           <p>Il cor mi squarci. Ah!... se tu mai mi lasci...</p> 
+                           <p>certo, a vendetta, ed a null'altro io resto.</p> 
+                           <p>Ma pure io spero, che vedrai compiuta</p> 
+                           <p>cogli occhi tuoi, tu stessa, la vendetta</p> 
+                           <p>del mio re, del tuo padre. È ver, non vanto</p> 
+                           <p>regal possanza; ma il terror può molto</p> 
+                           <p>quí del mio nome: in cor del prode io regno,</p> 
+                           <p>e il vil non curo. Io militai giá sotto</p> 
+                           <p>le insegne d'Alboín; molti ho de' miei</p> 
+                           <p>nel campo in armi; e i Longobardi tutti</p> 
+                           <p>in battaglia m'han visto. Ogni uom sospira</p> 
+                           <p>d'Alboín la memoria; e tu pur sempre</p> 
+                           <p>ne sei l'unica figlia. - E s'anco nulla</p> 
+                           <p>di ciò pur fosse; infra costor, che a farti</p> 
+                           <p>si apprestan forza, havvene un sol, mel noma,</p> 
+                           <p>ch'arda in suo cor di cosí nobil fiamma,</p> 
+                           <p>che a me il pareggi? Quanto il può madrigna,</p> 
+                           <p>ti abborra pur Rosmunda, assai piú t'amo,</p> 
+                           <p>io che solo a un tuo cenno a morte corro;</p> 
+                           <p>a riceverla, o darla.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Oh senza pari</p> 
+                           <p>raro amator!... Ma, ancor che immenso, è poco</p> 
+                           <p>il tuo amore a combatter l'efferato</p> 
+                           <p>odio di lei.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Non creder ch'io m'acciechi:</p> 
+                           <p>di ragion salde io m'avvaloro. Aggiungi</p> 
+                           <p>ch'anca Almachilde all'empie nozze opporsi,</p> 
+                           <p>come l'udisti, ardisce.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>E in lui che speri?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Dove costretto di abbassarmi all'arte</p> 
+                           <p>foss'io pur, per salvarti, in lui non poco</p> 
+                           <p>spero. Ben veggo, che la ria consorte</p> 
+                           <p>giá rincresciuta gli è. Capace ancora</p> 
+                           <p>ei mi par di rimorsi; il timor solo</p> 
+                           <p>ch'egli ha di lei, dubbio ondeggiante il rende.</p> 
+                           <p>Quant'egli or mal vieta a Rosmunda in detti,</p> 
+                           <p>ben posso io far, ch'ei meglio in opre il vieti.</p> 
+                           <p>L'ardir suo mezzo con l'ardir mio intero</p> 
+                           <p>ben rinfrancar poss'io.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Tu mal conosci</p> 
+                           <p>Rosmunda. Inciampo alle sue voglie stimi</p> 
+                           <p>ch'esser possa la forza? Ad Almachilde</p> 
+                           <p>io porsi preghi (e duolmene) perch'egli</p> 
+                           <p>per me pregasse. Ahi stolta! Un uom, che vende</p> 
+                           <p>la sua fama e se stesso a iniqua moglie:</p> 
+                           <p>che all'obbedir suo cieco al par che infame</p> 
+                           <p>tutto debbe quant'è, né ad altro il debbe,</p> 
+                           <p>mi ajuterá contr'essa?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Anzi che annotti,</p> 
+                           <p>o sian preghi, o minacce, o colpi sieno,</p> 
+                           <p>faccia il destin ciò che piú vuol; purch'io</p> 
+                           <p>te non perda: ma assai del dí ne avanza.</p> 
+                           <p>Se in altri io debba, o in me fidar soltanto,</p> 
+                           <p>tosto il saprò. Qui riedo a te, fra breve:</p> 
+                           <p>se a noi rimedio allor riman sol morte,</p> 
+                           <p>morte sará. L'estremo addio, che darmi</p> 
+                           <p>or vuoi, ricevo allor; ma dato appena</p> 
+                           <p>a me lo avrai, ch'ebro d'amore, e d'ira,</p> 
+                           <p>e di vendetta, atro sentier di sangue</p> 
+                           <p>aprirmi io giuro... Almen molt'altre morti </p> 
+                           <p>cosí dovranno a morte trarmi. Or fia</p> 
+                           <p>che di nostra rovina altri mai goda?</p> 
+                           <p>Fra il trono e te, Rosmunda sola io veggo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>E Almachilde?...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Almachilde? oggi il mio brando</p> 
+                           <p>vivo il serbò: dov'ei sia ingrato, il mio</p> 
+                           <p>brando il può spegner oggi. A me fien norma</p> 
+                           <p>il tempo, e il caso. - Intanto, il tornar pronto,</p> 
+                           <p>l'eterna fede mia, l'alta vendetta</p> 
+                           <p>del tuo trafitto genitor, ti giuro.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Toglier dal cor non io ti vo' la speme;</p> 
+                           <p>ma in me speme una sola io pur riserbo,</p> 
+                           <p>di rivederti: e mi vivrò di quella.</p> 
+                           <p>Ch'io viva omai, se tua non sono, invano</p> 
+                           <p>lo spereresti. E d'esser tua, qual posso</p> 
+                           <p>lusinga farmi?... Al ritornar, ten prego,</p> 
+                           <p>non esser tardo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Il tuo dolor profondo</p> 
+                           <p>tremar mi fa. Di viver no, ti chieggo</p> 
+                           <p>sol d'indugiar finché il morir sia d'uopo.</p> 
+                           <p>Giuralo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Il giuro.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ed io tel credo, e il tutto</p> 
+                           <p>volo a disporre, e tosto a te quí riedo.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto terzo</head>
+               <div type="div3">
+                  <head>SCENA PRIMA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Romilda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella8">  
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>...Deh! perdona, s'io forse inopportuno</p> 
+                           <p>chiederti osai breve udienza in questo</p> 
+                           <p>tuo limitar: ma troppo a me rileva</p> 
+                           <p>l'appalesarti quanto in cor diverso</p> 
+                           <p>io son per te dalla tua ria madrigna.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>E il crederò? Deh, se tu ver dicessi!...</p> 
+                           <p>Ma che? son io sí misera, ch'io deggia</p> 
+                           <p>tener da te cosa del mondo?... Oh dura</p> 
+                           <p>mia sorte! il son, pur troppo. - A me di nozze</p> 
+                           <p>fa che mai piú non si favelli: io forse</p> 
+                           <p>a te dovrò la pace mia.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ben altro</p> 
+                           <p>a far per te presto son io, ben altro...</p> 
+                           <p>Tu d'Alarico preda, a cui due spose</p> 
+                           <p>visto abbiam trucidar, l'una di ferro,</p> 
+                           <p>di velen l'altra? Oh ciel! tu, che dovresti</p> 
+                           <p>d'ogni virtú, d'ogni gentil costume</p> 
+                           <p>essere il premio? e che col sol tuo aspetto</p> 
+                           <p>puoi far felice ogni uomo? - Ah! no; non fia</p> 
+                           <p>ciò mai, finch'io respiro. Io 'l vieterei,</p> 
+                           <p>s'anco pur tu il volessi; indi argomenta</p> 
+                           <p>s'io il vo' soffrir, quando inaudita forza</p> 
+                           <p>trar vi ti de'. Preghi e ragion, da prima, </p> 
+                           <p>minacce usar quindi Rosmunda udrammi;</p> 
+                           <p>e fatti poscia. Ove dal rio proposto</p> 
+                           <p>ella non pieghi, io la torrò. Piú ardente</p> 
+                           <p>di me non hai, no, difensore: o trarre</p> 
+                           <p>tu in questa reggia i giorni, o perder debbo</p> 
+                           <p>io col regno la vita.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Or donde tanto</p> 
+                           <p>generoso ver me?..</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Piú fera pena</p> 
+                           <p>non ebbi io mai, che l'odio tuo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ma, posso</p> 
+                           <p>cessare io mai d'odiarti? in suon di sdegno</p> 
+                           <p>l'inulto padre?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Oh ciel! non io l'uccisi:</p> 
+                           <p>il trucidò Rosmunda.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>A tutti è noto,</p> 
+                           <p>ch'eri sforzato al tradimento orrendo</p> 
+                           <p>dalle minacce sue: ma pur la scelta</p> 
+                           <p>fra il tuo morire, o al tuo signor dar morte,</p> 
+                           <p>ella ti dava. È ver, dell'empia fraude</p> 
+                           <p>ignaro tu, contaminato avevi</p> 
+                           <p>giá il talamo del re; ma col tuo sangue,</p> 
+                           <p>col sangue in un della impudica donna,</p> 
+                           <p>tu lavarlo dovevi; ammenda ell'era</p> 
+                           <p>al tuo delitto sola: e ammenda osasti</p> 
+                           <p>pur farne tu con vie maggior delitto?</p> 
+                           <p>Morte, che altrui tu davi, a te spettava:</p> 
+                           <p>pur giaci ancora nel tradito letto;</p> 
+                           <p>suddito tu, del signor tuo la sposa,</p> 
+                           <p>e l'usurpato sanguinoso soglio</p> 
+                           <p>tieni tuttora; e di gran cor ti vanti?</p> 
+                           <p>e umano parli? e vuoi ch'io 'l creda? e ardisci</p> 
+                           <p>sperar, ch'io men ti abborra? - Atre, funeste,</p> 
+                           <p>tai rimembranze dalla eterna notte</p> 
+                           <p>del silenzio non traggansi: tacerne,</p> 
+                           <p>ov'io non t'oda, posso. - Oggi sottrammi </p> 
+                           <p>da quest'ultimo eccidio, e a me tu forse</p> 
+                           <p>liberator parrai. Ma, se a te penso,</p> 
+                           <p>ch'altro mi sei, che l'uccisor del padre?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>E i rimorsi, e il pentire, e il pianger, nulla</p> 
+                           <p>fia che mi vaglia?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ma di ciò qual prendi</p> 
+                           <p>pensiero omai? nuocer fors'io ti posso?</p> 
+                           <p>L'odio mio, che t'importa? inerme figlia</p> 
+                           <p>di spento re, che giova lusingarla?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>D'uomo è il fallir; ma dal malvagio il buono</p> 
+                           <p>scerne il dolor del fallo. In me qual sia</p> 
+                           <p>dolor, nol sai; deh, se il sapessi! - Io piango</p> 
+                           <p>dal dí, che fatto abitator di queste</p> 
+                           <p>mura lugúbri sono, ove ti veggio</p> 
+                           <p>sempre immersa nel pianto; eppure a un tempo</p> 
+                           <p>dolce nell'ira, e nel dolor modesta,</p> 
+                           <p>e nel soffrir magnanima... Qual havvi</p> 
+                           <p>sí duro cor, che di pietá non senta</p> 
+                           <p>moti per te?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>La tua pietà? m'è duro</p> 
+                           <p>troppo il soffrirla... Ahi lassa me!... Spregiarla</p> 
+                           <p>pur non poss'io del tutto.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Or, pria che nulla</p> 
+                           <p>io di te merti, dimmi: è sol cagione</p> 
+                           <p>del non andarne ad Alarico, il nome</p> 
+                           <p>ch'egli ha di crudo?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>E d'Alboín la figlia,</p> 
+                           <p>nell'accettar l'ajuto tuo, se stessa</p> 
+                           <p>non tradisce abbastanza? anco del core</p> 
+                           <p>vuol ch'ella schiuda i sensi a te?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>V'ha dunque</p> 
+                           <p>ragion, che parti da tacermi? Il modo</p> 
+                           <p>forse cosí dappien servirti...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>E s'altra</p> 
+                           <p>pur ve n'avesse?... Ma, tu sei... - Che parli? -</p> 
+                           <p>Quí, crebbi, e quí, presso al mio padre, tomba </p> 
+                           <p>aver mi giova: ecco ragione. Omai</p> 
+                           <p>pensier mio solo egli è il morir; ma stimo</p> 
+                           <p>quí men cruda la morte: indi vi chieggo</p> 
+                           <p>questo, a voi lieve, a me importante dono.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Morte? Ah Romilda! io tel ridico, avrai</p> 
+                           <p>quí lieta stanza; e piú ti dico: io spero,</p> 
+                           <p>che vi godrai d'ogni tuo sacro dritto.</p> 
+                           <p>Se il padre no, render ti posso il seggio;</p> 
+                           <p>e il debbo, e il voglio; e a non fallaci prove,</p> 
+                           <p>qual sia il mio cor farò vederti;... e quanto</p> 
+                           <p>profondamente... entro vi porti impressa...</p> 
+                           <p>la imagin tua...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Che ascolto? Oimè! che sguardi?...</p> 
+                           <p>Che dirmi intendi?</p>
+                        </cell>
+                     </row>  
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>...Ciò, che omai non posso</p> 
+                           <p>tacerti;... ciò, che tu scolpito leggi</p> 
+                           <p>sul mio volto tremante... Ardo, è gran tempo,...</p> 
+                           <p>d'amor... per te.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Misera me! che sento?</p> 
+                           <p>che dirmi ardisci? O rio destin, serbata</p> 
+                           <p>a un tale oltraggio m'hai?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Se l'amor mio</p> 
+                           <p>reputi oltraggio, io ben punirmi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ahi vile!</p> 
+                           <p>E di virtú la passion tua iniqua</p> 
+                           <p>tu colorire ardivi?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Oh ciel!... M'ascolta...</p> 
+                           <p>Iniquo amor,... ma non iniqui effetti</p> 
+                           <p>vedrai... Per te, tutto farò; ma nulla</p> 
+                           <p>chieggio da te.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Taci. Tu, lordo ancora</p> 
+                           <p>del sangue del mio padre, amor nomarmi?</p> 
+                           <p>Amor, tu a me? - Sei di Rosmunda sposo;</p> 
+                           <p>e di null'altra degno.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ah! qual non merto</p> 
+                           <p>nome esecrando!... Eppur, ch'io t'ami è forza, </p> 
+                           <p>irresistibil forza. Io, no, non sorgo</p> 
+                           <p>da' piedi tuoi, se pria...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Scostati, taci,</p> 
+                           <p>esci... Ma, vien chi spegnerá tal fiamma.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Chi veggo?</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA SECONDA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Romilda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella9">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Me, perfido, vedi. - Infami,</p> 
+                           <p>vili ambo voi del pari: aver certezza</p> 
+                           <p>de' tradimenti vostri, a me fia il peggio;</p> 
+                           <p>ma sola il danno io non n'avrò. Le vostre</p> 
+                           <p>inique trame a romper vengo. - Ingrato,</p> 
+                           <p>tal mi rendi mercede? - E tu, con finta</p> 
+                           <p>virtude...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>A lui tutti riserba i nomi,</p> 
+                           <p>che a lui si aspettan solo: ei solo è il vile;</p> 
+                           <p>ei traditore, ei menzognero infido,</p> 
+                           <p>ei ti mantien fede qual merti; quella,</p> 
+                           <p>che a malvagio attener malvagio debbe.</p> 
+                           <p>Non son io l'empia; egli ad udir suoi detti</p> 
+                           <p>empio mi trasse or con inganno...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Io voglio,</p> 
+                           <p>poiché tu il sai, tutto accertarti io stesso.</p> 
+                           <p>Amo, adoro Romilda; e non è fiamma,</p> 
+                           <p>ond'io deggia arrossirne. In te ricerca,</p> 
+                           <p>e trova in te, la rea cagion, per cui</p> 
+                           <p>non hai, qual tel pretendi, l'amor mio.</p> 
+                           <p>Io, non nato a' delitti, amar potea</p> 
+                           <p>chi mi vi trasse, io mai? Distanza corre,</p> 
+                           <p>fra Rosmunda e Romilda, immensa; e il senti.</p> 
+                           <p>Amo Romilda, e i traditori abborro.</p> 
+                           <p>Ove possa tua fera ira superba</p> 
+                           <p>trarmi, giá il so; nota a me sei, pur troppo! </p> 
+                           <p>Deh, potess'io cosí, come ho trafitto</p> 
+                           <p>il padre a lei, morir pur io! potessi</p> 
+                           <p>placar, spirando, di Romilda il giusto</p> 
+                           <p>sdegno! Deh mai non ti foss'io marito!</p> 
+                           <p>Ch'io regicida, e traditor non fora;</p> 
+                           <p>e all'amor mio Romilda il cor sí chiuso</p> 
+                           <p>or non avrebbe.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Io? ti odierei pur anco</p> 
+                           <p>non uccisor del padre mio, non cinto</p> 
+                           <p>della mal tolta sua corona, e a cruda</p> 
+                           <p>madrigna non marito. Altro, ben altro</p> 
+                           <p>merto vuolsi, che il tuo, ben altro core,</p> 
+                           <p>a farmi udir d'amor: quanto esecrando</p> 
+                           <p>a me ti rende il trucidato padre,</p> 
+                           <p>tanto, e piú, ti fa vile agli occhi miei,</p> 
+                           <p>qual ch'ella sia, la tua tradita moglie.</p> 
+                           <p>Tu per lei primo hai tra gl'infami il seggio;</p> 
+                           <p>per lei famoso; a lei di nodo eterno</p> 
+                           <p>stringer ti dee quel sangue che versasti,</p> 
+                           <p>e il comune misfatto. Io mai non soffro,</p> 
+                           <p>né in mio pro, tradimenti; non ch'io soffra</p> 
+                           <p>il traditore. Altro piú nobil foco,</p> 
+                           <p>ond'io nel volto non arrossi, ho in petto.</p> 
+                           <p>Presta a morir, non a cessar, no mai,</p> 
+                           <p>son io d'amare...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Ami?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Ildovaldo.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ah! questo,</p> 
+                           <p>è questo il colpo, che davver mi uccide.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Vero parli, o menzogna? ami Ildovaldo?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>D'amore io l'amo, quale a voi non cape,</p> 
+                           <p>non che in core, in pensiero: alcun rimorso</p> 
+                           <p>noi non flagella di comun delitto;</p> 
+                           <p>schiette nostr'alme, in meglio amarsi han gara</p> 
+                           <p>fra lor, non altra. A lui miei tristi giorni,</p> 
+                           <p>questi, ch'io mal sopravvissuti ho forse </p> 
+                           <p>all'ucciso mio padre, a lui li serbo:</p> 
+                           <p>a me sua vita, e l'alta fama, e il brando,</p> 
+                           <p>l'invincibil suo brando, egli a me serba.</p> 
+                           <p>Ma, dove pur sia il nostro viver vano;</p> 
+                           <p>dove ogni scampo, ogni vendetta tolta</p> 
+                           <p>ne venga; allor meno infelici sempre</p> 
+                           <p>sarem di voi. Morte n'è scampo; e invitta</p> 
+                           <p>l'avrem, che al vil mai non soggiace il prode;</p> 
+                           <p>lieta l'avrem, poiché fra noi divisa,</p> 
+                           <p>di pentimenti, e di rampogne scevra,</p> 
+                           <p>e di rimorsi, e di timore; in somma</p> 
+                           <p>morte avrem noi piú mille volte dolce,</p> 
+                           <p>che la tremante orribil vita vostra.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Basta. Esci. Va. - Saprai tua sorte in breve.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA TERZA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Almachilde</hi>.</p>
+                  <table rend="frame" xml:id="Tabella10">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Perfido, infame, disleal, spergiuro...</p> 
+                           <p>Libero al dir m'è al fin concesso il campo.</p> 
+                           <p>Altra ami tu?... Ma, ben provvide il cielo;</p> 
+                           <p>e, qual tu il merti, riamato sei.</p> 
+                           <p>Oh ineffabile gioja! E chi potrebbe,</p> 
+                           <p>chi soffrir mai tuo amor? chi, se non io? -</p> 
+                           <p>Quasi or cara s'è fatta a me Romilda,</p> 
+                           <p>da ch'io l'udii parlarti. Oh! che non posso</p> 
+                           <p>quant'ella t'odia odiarti? A me, cui tanto</p> 
+                           <p>tu dei, tal premio rendi? a me, che il guardo</p> 
+                           <p>infino a te, vile, abbassai dal trono?</p> 
+                           <p>Or parla,... di';... ma che dirai, che vaglia</p> 
+                           <p>a scolparti?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>A scolparmi? ai falli scusa</p> 
+                           <p>si cerca, e mal si trova. Amar virtude,</p> 
+                           <p>quanta il ciel mai ne acchiuse in cor di donna,</p> 
+                           <p>gloria m'è, gloria; e non delitto.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Accoppi</p> 
+                           <p>al tradimento anco gli oltraggi?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Oltraggio</p> 
+                           <p>chiami ogni laude, che a virtú si rende;</p> 
+                           <p>giá il so: ma che perciò? dove ella regna,</p> 
+                           <p>men pregiarla degg'io? M'odia Romilda,</p> 
+                           <p>l'udii pur troppo; e il cor trafitto ha d'altro</p> 
+                           <p>strale... Dolor, ch'ogni dolore avanza,</p> 
+                           <p>ne sento in me. Conosco al vento sparsi</p> 
+                           <p>i sospir miei; vana ogni speme io veggo:</p> 
+                           <p>pur, non amarla, ah! nol poss'io. - Dolerti</p> 
+                           <p>tu di mia fe non puoi; tu, che pur sai,</p> 
+                           <p>come, dove, perché, te l'abbia io data.</p> 
+                           <p>Tu il sai, che a dare, od a ricever morte</p> 
+                           <p>lá m'astringevi: a me la incerta mano</p> 
+                           <p>armavi tu del parricida acciaro;</p> 
+                           <p>sovvienti? e lá, fra il tradimento, e i pianti,</p> 
+                           <p>e le tenebre, e il sangue, amor giuravi,</p> 
+                           <p>chiedendo amor: ma, di vendetta all'are</p> 
+                           <p>lascia giurarsi amore? Io lá fui reo,</p> 
+                           <p>nol niegherò; ma tu, potevi, o donna,</p> 
+                           <p>di vero amor figlia estimar la fede</p> 
+                           <p>chiesta, e donata, in cosí orribil punto?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Sí; m'ingannai: scerner dovea, che in petto</p> 
+                           <p>di un traditor mai solo un tradimento</p> 
+                           <p>non entra. Del tuo timido coraggio</p> 
+                           <p>dovea valermi a mia vendetta; e poscia</p> 
+                           <p>l'ombra placar del tuo signor tradito,</p> 
+                           <p>l'uccisore immolandole. Quest'era</p> 
+                           <p>dovuto premio a te; non la mia destra,</p> 
+                           <p>non il talamo mio, non il mio trono;...</p> 
+                           <p>non il mio core.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Oh pentimento illustre!</p> 
+                           <p>Ben sei Rosmunda. - Or, ciò che allor non festi,</p> 
+                           <p>far nol puoi tutto? Altro Almachilde trova;</p> 
+                           <p>(e non ven manca) egli al primier tuo sposo </p> 
+                           <p>pareggi me: quel marital tuo ferro,</p> 
+                           <p>su cui del primo tuo consorte il sangue</p> 
+                           <p>stassi, nel sangue ei del secondo il terga.</p> 
+                           <p>Non del tradirti, che non fia delitto,</p> 
+                           <p>ma del servirti, che a me fu gran fallo,</p> 
+                           <p>io tal ben merto, e tal ne aspetto io pena.</p> 
+                           <p>Ma, fin che il ciel chiaro non fa qual primo</p> 
+                           <p>deggia di noi punir l'un l'altro, io il giuro</p> 
+                           <p>pel trucidato mio signor, tu forza</p> 
+                           <p>non userai contro Romilda. - Intanto,</p> 
+                           <p>infra Ildovaldo e me, vedrassi a prova</p> 
+                           <p>qual sia di lei piú degno, e qual piú avvampi</p> 
+                           <p>d'ardente amor; qual piú in voler sia forte;</p> 
+                           <p>qual, per averla, piú intraprender osi.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA QUARTA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella11">  
+                     <row>
+                        <cell/> 
+                        <cell>
+                           <p>E che imprender puoi tu? - Sí fello ardire</p> 
+                           <p>fu visto mai? - Ma, e che non può costui,</p> 
+                           <p>or ch'io stessa affidargli osai pur l'armi?...</p> 
+                           <p>Me dunque tu, qual io mi son, conosci?</p> 
+                           <p>Non quanta io sono. - Ed io t'amai?... Non t'amo,</p> 
+                           <p>e il vedrai tu. - Furore, odio, gelosa</p> 
+                           <p>rabbia, superbo sdegno, o misti affetti,</p> 
+                           <p>fuor tutti, fuor del petto mio: tu sola</p> 
+                           <p>riedi, o vendetta; riedi: e me riempi</p> 
+                           <p>tutta di tutto il Nume tuo; s'io sempre</p> 
+                           <p>per prima, e sola deitá mia t'ebbi. -</p> 
+                           <p>Ma, l'ire, e il tempo in vani accenti io spendo?</p> 
+                           <p>Preoccuparlo vuolsi; ogni empio mezzo</p> 
+                           <p>torgli; e primiera... Oh! chi vegg'io?</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA QUINTA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Ildovaldo</hi>.</p>
+                  <table rend="frame" xml:id="Tabella12">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Quí il cielo,</p> 
+                           <p>quí mi ti manda il ciel; vieni, Ildovaldo,</p> 
+                           <p>vendicator de' torti miei: ministro</p> 
+                           <p>di tua letizia eterna a un tempo farti</p> 
+                           <p>spero, e di mie vendette. Ami, ed amato</p> 
+                           <p>sei da Romilda, il tutto so, né il danno;</p> 
+                           <p>anzi ne sento inesprimibil gioja.</p> 
+                           <p>Ma tu non sai, che il perfido Almachilde,</p> 
+                           <p>colui, per chi tanto sudor spargesti,</p> 
+                           <p>per cui perigli oggi affrontasti e morte;</p> 
+                           <p>quello stessa Almachilde, a me spergiuro,</p> 
+                           <p>ingrato a te, Romilda egli ama.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ahi vile!</p> 
+                           <p>Ei di mia man morrá.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Né d'amor lieve</p> 
+                           <p>l'ama egli, no; ch'ogni dover piú sacro</p> 
+                           <p>per lei tradisce: a ogni empio eccesso è presto;</p> 
+                           <p>sen vanta; e il credo. È ver, che assai lo abborre</p> 
+                           <p>Romilda; è ver, che gli giurò poc'anzi</p> 
+                           <p>odio eterno; ed amor giurava a un tempo,</p> 
+                           <p>al mio cospetto, a te; per te (dicea)</p> 
+                           <p>poco il morir le pare... Ma, in udirla</p> 
+                           <p>si sgomenta Almachilde? Anzi, all'indegna</p> 
+                           <p>sua passíon fa d'ogni ostacol sprone. -</p> 
+                           <p>Chi 'l riterrá, se tu nol fai? Te spero</p> 
+                           <p>inciampo forte a sue malnate voglie:</p> 
+                           <p>per te lo dei; tel comando io. - Si taccia</p> 
+                           <p>d'ogni altro sposo di Romilda: è tua,</p> 
+                           <p>non di Alarico omai; tua la vogl'io.</p> 
+                           <p>Ceda all'odio novello in me l'antico;</p> 
+                           <p>teco sia lieta, prendila; e per sempre</p> 
+                           <p>dagli occhi miei la invola.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>È mia Romilda?</p> 
+                           <p>Oh gioja! or donde io non trarrolla?... È mia?... -</p> 
+                           <p>Ma, le vendette mie chi compie intanto?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Va, raduna i tuoi fidi; armali ratto;</p> 
+                           <p>minaccia, inganna, sforza: ad ogni costo</p> 
+                           <p>di man dell'empio pria tranne tua donna;</p> 
+                           <p>vendetta poi, lasciala a me. Pria vegga</p> 
+                           <p>a se ritorre il rio fellon sua preda:</p> 
+                           <p>la vegga ei prima al suo rivale in braccio;</p> 
+                           <p>e se n'irríti, e sen disperi, e indarno...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Ma che? giá forse in man di lui Romilda?...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Antiveduto ei sta; né ardito meno,</p> 
+                           <p>né amante meno egli è di te...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Minore</p> 
+                           <p>in tutto ei m'è.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Tu prevenirlo dunque,</p> 
+                           <p>deluderlo dei tu. Lascio a tua scelta</p> 
+                           <p>i mezzi tutti: a dubbio evento esporre</p> 
+                           <p>l'amor tuo non vorrai.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Fraude usar duolmi;</p> 
+                           <p>che in fraude sol può vincermi Almachilde.</p> 
+                           <p>Veglia intanto sovr'esso; al campo io volo,</p> 
+                           <p>la mia forza raduno, e in brevi istanti</p> 
+                           <p>riedo a Romilda...</p>
+                        </cell>
+                     </row>  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Affrettati, ed a tutto</p> 
+                           <p>pensa, e provvedi; arma l'ingegno, e il braccio:</p> 
+                           <p>vero amator sei tu. Va, vola, riedi.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA SESTA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella13">  
+                     <row>
+                        <cell/> 
+                        <cell>
+                           <p>Frattanto io quí m'adoprerò...  - Ma, lieta</p> 
+                           <p>far del suo amor vogl'io costei, che abborro?</p> 
+                           <p>Lieta? - Nol sei tu ancora: - io vivo ancora.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto quarto</head>
+               <div type="div3">
+                  <head>SCENA PRIMA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Romilda</hi>, <hi rend="smallcaps">Ildovaldo</hi>.</p>
+                  <table rend="frame" xml:id="Tabella14">  
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Vista ho Rosmunda. Or creder posso?... Oh cielo!...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Tutto è disposto omai: tu giá sei salva,</p> 
+                           <p>sol che tu meco all'apparir dell'ombre</p> 
+                           <p>venir ne vogli. Della orribil reggia</p> 
+                           <p>usciti appena, troverem di prodi</p> 
+                           <p>scorta eletta; il di piú fia lieve poscia.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Oh mio fido sostegno! Or, chi l'avria</p> 
+                           <p>creduto mai? donde attendeva io morte</p> 
+                           <p>per minor danno, or da Rosmunda stessa</p> 
+                           <p>vita avrommi, e letizia? Entro il mio petto</p> 
+                           <p>tal speme accor degg'io? Poc'anzi in fondo</p> 
+                           <p>d'ogni miseria noi, solo un istante</p> 
+                           <p>or di fortuna ci rimbalza al colmo?...</p> 
+                           <p>io teco unita? io libera, secura?...</p> 
+                           <p>e fia vero!</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Acquistarti era ben certo,</p> 
+                           <p>benché in tutt'altra guisa: ma pur questa</p> 
+                           <p>minor periglio acchiude. In ciò Rosmunda</p> 
+                           <p>meno a noi serve, che a se stessa; è forza</p> 
+                           <p>ch'ella il faccia. Mi duol doverti trarre</p> 
+                           <p>per or dal regno tuo; ma in securtade</p> 
+                           <p>pur ch'io ti vegga, in altro aspetto un giorno</p> 
+                           <p>poi ricondurti entro il tuo regno io spero.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Tutto è mio regno, ovunque teco io sia.</p> 
+                           <p>Gioja ne ho tanta, ch'io creder nol posso...</p> 
+                           <p>ma sí gran dolce pur si agguaglia appena</p> 
+                           <p>all'amaro, che nuovo in cor mi sorge.</p> 
+                           <p>M'ama Almachilde infame: io non mertai</p> 
+                           <p>l'empio suo amore; inaspettato giunse</p> 
+                           <p>all'innocente orecchio mio: ma giunto</p> 
+                           <p>evvi pure; né in lui...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Conoscer meglio</p> 
+                           <p>io quel fellon dovea: ma, de' miei doni</p> 
+                           <p>far giuro ammenda; e la vittoria, il regno,</p> 
+                           <p>la vita a lui col sangue mio serbata,</p> 
+                           <p>far sí ch'ei sconti. Ma sfuggirlo io deggio</p> 
+                           <p>per ora, e il vo', fin che non sii tu in salvo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ah! tu non sai, qual mortal colpo al core</p> 
+                           <p>m'era l'udir suoi scellerati detti!</p> 
+                           <p>Quanto di te men degna esser m'è avviso,</p> 
+                           <p>da ch'io pur piacqui a cotal vile! Oh quanto</p> 
+                           <p>io l'abborrisco! - È la cagion primiera</p> 
+                           <p>d'ogni mio mal Rosmunda; ella d'oltraggi</p> 
+                           <p>mi ha carca, e oppressa, ed avvilita sempre;</p> 
+                           <p>io sento in cor tristo un presagio, ch'ella</p> 
+                           <p>stromento a me non fia mai di salvezza;</p> 
+                           <p>so l'odio immenso, ch'or fan doppio in lei</p> 
+                           <p>la ferocia natía, l'atro delitto,</p> 
+                           <p>l'aspe novel di gelosia: ma tutti,</p> 
+                           <p>quai che sien pur, del suo furor gli effetti</p> 
+                           <p>per minor male io scelgo, che l'amarmi</p> 
+                           <p>di quel suo vile, e osarmel dire...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Il folle</p> 
+                           <p>ardir ben ei ne pagherá: ti acqueta;</p> 
+                           <p>non fu tua colpa udirlo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>A lui men dura</p> 
+                           <p>mai non dovea mostrarmi; ecco il mio fallo;</p> 
+                           <p>non soffrir mai che a' mali miei pietoso</p> 
+                           <p>mostrarsi ardisse; né del pianger mio </p> 
+                           <p>farlo mai spettator; gioja che ognora</p> 
+                           <p>a Rosmunda negai. Spesso l'iniquo</p> 
+                           <p>gli occhi pregni di lagrime mi vide,</p> 
+                           <p>e il cor di doglia; indi il suo ardir ne nacque;...</p> 
+                           <p>di ciò son rea; di ciò dorrommi io sempre...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Lieta di ciò ben io farotti, lascia;</p> 
+                           <p>dorrassen'egli a lagrime di sangue.</p> 
+                           <p>Presso chi mai non t'incolpò, Romilda,</p> 
+                           <p>troppa è discolpa un sol tuo sguardo, in cui</p> 
+                           <p>candida l'alma, e puro ardente il core</p> 
+                           <p>traluce. - Or basti. All'annottar, quí presta</p> 
+                           <p>a seguirmi sarai; d'ogni altra cosa</p> 
+                           <p>non prender cura. D'Almachilde intanto</p> 
+                           <p>sfuggi la vista; ogni sospetto torgli</p> 
+                           <p>meglio è cosí. Sfuggi del par Rosmunda,</p> 
+                           <p>ch'ella potria...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>T'intendo; anzi che nasca</p> 
+                           <p>rimorso in lei d'opra pietosa.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Addio.</p> 
+                           <p>Piú lungo star, nuocer ne può.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Mi lasci?...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Brev'ora; e mai non sarem piú disgiunti.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA SECONDA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Romilda</hi>, <hi rend="smallcaps">Ildovaldo</hi>, <hi rend="smallcaps">Soldati</hi>.</p>
+                  <table rend="frame" xml:id="Tabella15">  
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>T'arresta.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Oh ciel!</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Chi mi ti mena innante?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Cinto d'armati!...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ove i tuoi passi volgi?</p> 
+                           <p>T'arresta. Assai dirti degg'io. Non vengo</p> 
+                           <p>ad usarti forza, ancor ch'io 'l possa, a oppormi</p> 
+                           <p>vengo alla forza tua. Tu di soppiatto</p> 
+                           <p>in armi aduni i tuoi piú fidi in campo: </p> 
+                           <p>dimmi; perché? Forse in un giorno istesso</p> 
+                           <p>scudo al tuo prence e traditor vuoi farti?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ch'io ti fui scudo, il taci; altra non feci</p> 
+                           <p>macchia al mio onor; nol rimembrar: se nulla</p> 
+                           <p>lavarla può, certo il puoi tu, col darmi</p> 
+                           <p>la mercé, che mi dai.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Perfido, ardisci</p> 
+                           <p>venirne in armi al mio cospetto, e fingi</p> 
+                           <p>pur moderata voglia?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Io, no, non fingo.</p> 
+                           <p>Poiché co' detti invan, forza è coll'opre</p> 
+                           <p>ch'io ti provi il mio amore.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Iniquo...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ed osi</p> 
+                           <p>ancora?..</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ove il vogliate, udir farovvi</p> 
+                           <p>accenti non di re: ma, se il negaste,</p> 
+                           <p>mi udreste, a forza. Alla fatal mia fiamma</p> 
+                           <p>piú non è tempo or di por modo: invano</p> 
+                           <p>io 'l volli; invan voi lo sperate. Ascosi</p> 
+                           <p>mezzi adoprar per acquistarti, io sdegno;</p> 
+                           <p>ma, ch'altri t'abbia per ascosi mezzi,</p> 
+                           <p>nol soffrirò giammai. Tu di rapirla</p> 
+                           <p>tenti; di te degno non parmi; imprendi</p> 
+                           <p>strada miglior; presto son io, tel giuro,</p> 
+                           <p>a non mi far di mia possanza schermo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>E se non fai del mal rapito scettro</p> 
+                           <p>al mio furor tu schermo, or di che il fai?</p> 
+                           <p>Di nobil cor qual menzognera pompa</p> 
+                           <p>osi tu far, quí d'ogni intorno cinto</p> 
+                           <p>di satelliti infami?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Al fianco io tengo</p> 
+                           <p>costoro, è ver, se tu mio egual per ora</p> 
+                           <p>farti non vuoi. - Di re corteggio è questo;</p> 
+                           <p>ma questo è brando di guerrier; sol meco</p> 
+                           <p>resta il brando; costor spariscon tutti </p> 
+                           <p>a un mio cenno, se l'osi. Or via: la prova</p> 
+                           <p>te n'offro; il piú valente abbia Romilda.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Muori tu dunque or di mia mano...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>I brandi!...</p> 
+                           <p>Che fate?... Oh ciel!... Cessa, Ildovaldo; or merta</p> 
+                           <p>di venir teco al paragon costui?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ben parli. A che voll'io, caldo di sdegno,</p> 
+                           <p>abbassar me?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Non che il suo brando, il guardo</p> 
+                           <p>puoi sostener, tu d'Ildovaldo? e s'anco</p> 
+                           <p>sorte iniqua pur desse a te la palma,</p> 
+                           <p>creder puoi tu, ch'io sarei tua? Non sai,</p> 
+                           <p>ch'io piú assai di me stessa amo Ildovaldo,</p> 
+                           <p>e che ti abborro piú ancor che non l'amo?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Averla or debbe il piú valente in arme,</p> 
+                           <p>o in tradimenti? Parla.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>E che? mentr'io</p> 
+                           <p>mio egual ti fo; mentre a combatter teco</p> 
+                           <p>quanto per me tor ti potrei, son presto;</p> 
+                           <p>risponder osi ingiuriosi detti</p> 
+                           <p>a generoso invito? - A me tu pari</p> 
+                           <p>esser non vuoi? dunque nol sei: dunque oggi,</p> 
+                           <p>come il maggior suole il minore, io debbo</p> 
+                           <p>tua baldanza punir. Da pria per dritta,</p> 
+                           <p>per ogni strada io poscia al fin prefisso</p> 
+                           <p>venir, se a ciò mi sforzi, in cor m'ho fitto:</p> 
+                           <p>a niun patto Romilda a te non cedo.</p> 
+                           <p>Io primiero l'amai: l'oltraggio fatto</p> 
+                           <p>con la mia destra a lei, può sol mia destra</p> 
+                           <p>anco emendarlo: io vendicarla; d'ogni</p> 
+                           <p>suo prisco dritto, d'ogni ben perduto</p> 
+                           <p>io ristorarla, io 'l posso; e tu nol puoi,</p> 
+                           <p>né il può persona.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>È ver; tu aggiunger puoi,</p> 
+                           <p>a perfidia perfidia, e il puoi tu solo.</p> 
+                           <p>Va, traditor: non fossi altro che ingrato </p> 
+                           <p>alla tua donna tu, troppo anco fora</p> 
+                           <p>per farti a me esecrabile. Non curo</p> 
+                           <p>morte: che parlo? ad Alarico andarne</p> 
+                           <p>vittima certa io vorrei pria; quí schiava</p> 
+                           <p>al rio livor della crudel madrigna</p> 
+                           <p>in preda sempre anzi starei, che averti</p> 
+                           <p>né difensor mio pure.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ed io vo' dirti,</p> 
+                           <p>che a me non festi oltraggio mai piú atroce,</p> 
+                           <p>che in voler farmi eguale a te. Non m'hai</p> 
+                           <p>giá offeso tu con questo amor tuo stolto.</p> 
+                           <p>Sei tu rival ch'io tema, ove l'amore</p> 
+                           <p>d'una Rosmunda non contendi? Ed una,</p> 
+                           <p>non piú, ve n'ha, ben tua. - Né piú mi offende</p> 
+                           <p>in te tua fella ingratitudin: vero</p> 
+                           <p>re ti conosco a ciò. - Per qual piú vile</p> 
+                           <p>man tu vorrai, fammi su palco infame</p> 
+                           <p>scemo del capo rimaner; ma cessa</p> 
+                           <p>di chiamarmi a tenzone; in ciò soltanto</p> 
+                           <p>mi offendi. Ho forse io di notturno sangue</p> 
+                           <p>macchiato il brando mio, sí che al tuo brando</p> 
+                           <p>or misurarlo io possa?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>È troppo: e basti.</p> 
+                           <p>Pugnar non vuoi, che della lingua? avermi</p> 
+                           <p>rival non vuoi? Re ti sarò. - Soldati,</p> 
+                           <p>si disarmi, s'arresti.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Ah! no...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Vil ferro,</p> 
+                           <p>che un tiranno salvasti, a terra vanne.</p> 
+                           <p>Inerme io fommi; altri non mai...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Fra lacci</p> 
+                           <p>il duce vostro? Ahi vili!... Or tu m'ascolta;</p> 
+                           <p>sospendi... Io forse... Oh stato orribil!... M'odi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Che fai? chi preghi? - Io t'amo; al par tu m'ami:</p> 
+                           <p>ch'havvi a temer da noi?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Su via, si tragga </p> 
+                           <p>dal mio cospetto.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Vadasi. Il tuo aspetto</p> 
+                           <p>fia la sola mia pena. - Ov'io non deggia</p> 
+                           <p>piú vederti, o Romilda, in un l'estremo</p> 
+                           <p>addio ti lascio, e il saldo giuramento</p> 
+                           <p>d'eterno amore, oltre la morte...</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA TERZA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Romilda</hi>, <hi rend="smallcaps">Almachilde</hi>.</p>
+                  <table rend="frame" xml:id="Tabella16">  
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ah! spenta</p> 
+                           <p>cadrotti al fianco... Il vo' seguire... Infame,</p> 
+                           <p>tu mel contendi? Ad ogni costo...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ah! soffri,</p> 
+                           <p>ch'io, sol per poco, or ti rattenga.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Oh rabbia!</p> 
+                           <p>Oh dolor!... Lascia, al fianco suo...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Mi ascolta.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Troppo giá t'ascoltai... L'amante...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Or vedi,</p> 
+                           <p>seguir nol puoi;... ma, non temere: io il serbo</p> 
+                           <p>a libertade, a vita; e a te fors'anco,</p> 
+                           <p>mal mio grado, lo serbo. In carcer crudo</p> 
+                           <p>tratto ei non fia: da me niun danno, il giuro,</p> 
+                           <p>ei patirá. Ben io il rimembro; in vita</p> 
+                           <p>per lui son oggi: or passeggera forza</p> 
+                           <p>gli vien fatta. - Ma,... oh ciel!... lasciar rapirmi,</p> 
+                           <p>sol ben ch'io m'abbia al mondo, la tua vista!...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ancor d'amore?... Ah! che non ho quí un ferro,</p> 
+                           <p>onde sottrarmi a' detti tuoi?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Deh! scusa;</p> 
+                           <p>piú non dirò. Spero, ampiamente, in breve,</p> 
+                           <p>del picciol danno ristorar tuo amante;</p> 
+                           <p>(ahi nome!) e spero in un seco disciormi</p> 
+                           <p>di quanto mai gli deggia.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Uman t'infingi?</p> 
+                           <p>Tanto esecrabil piú. Che dar? che sciorre?</p> 
+                           <p>rendi a noi libertá: mai non ti para</p> 
+                           <p>innanzi a noi, mai piú; sol dono è questo,</p> 
+                           <p>che far tu possa a me.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Cederti altrui,</p> 
+                           <p>nol posso io no: ma possederti forse</p> 
+                           <p>mal tuo grado vogl'io?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ben credo: e fatto</p> 
+                           <p>verriati ciò, finché un pugnal mi avanza?</p> 
+                           <p>Ingannarmi, o indugiarmi, invan tu speri.</p> 
+                           <p>Col mio amante indivisa...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Io ti vo' donna</p> 
+                           <p>di te, di lui, di me: fraude non celo</p> 
+                           <p>nel petto. A me per or sol non si vieti</p> 
+                           <p>d'adoprarmi per te. S'io giá ti tolsi</p> 
+                           <p>il padre, e render nol ti può né pianto,</p> 
+                           <p>né pentimento; io ti vo' render oggi</p> 
+                           <p>quant'altro a te si toglie. Eterna macchia</p> 
+                           <p>è Rosmunda al mio nome: al sol vederla,</p> 
+                           <p>entro il mio cor la non sanabil piaga</p> 
+                           <p>de' funesti rimorsi, ognor piú atroce,</p> 
+                           <p>piú insopportabil fassi: e il letto, e il trono,</p> 
+                           <p>e l'amor di quell'empia ognor mi rende</p> 
+                           <p>(fin ch'io il divido) agli occhi altrui piú reo,</p> 
+                           <p>piú vile a' miei. Tempo omai giunto...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Tempo</p> 
+                           <p>di che?... Favella. - O di Rosmunda degno,</p> 
+                           <p>di lei peggior, la sveneresti forse,</p> 
+                           <p>a un mio cenno, tu stesso? - Or, sappi, iniquo,</p> 
+                           <p>che per quant'io l'abborra, aver vo' pria</p> 
+                           <p>di te vendetta, che di lei. La strage</p> 
+                           <p>del mio misero padre, è ver ch'ell'era</p> 
+                           <p>di Rosmunda pensier; ma, il vil che ardiva</p> 
+                           <p>eseguirla, chi fu? - Va; ben m'avveggio,</p> 
+                           <p>al tuo parlar, che a spingerti a' misfatti </p> 
+                           <p>non è mestier gran forza.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Un ne commisi;</p> 
+                           <p>ma ben piú d'una in mente opra da forte</p> 
+                           <p>volgo; e fia prima lo strapparmi or questa</p> 
+                           <p>non mia corona dal mio capo, e darla</p> 
+                           <p>a te, che a te si aspetta; a qual sia costo</p> 
+                           <p>io difensor d'ogni tuo dritto farmi;</p> 
+                           <p>di chi t'opprime (e sia chi vuol) l'orgoglio</p> 
+                           <p>prostrar sotto i tuoi piè: quand'io secura</p> 
+                           <p>vedrotti in trono poscia, allor de' tuoi</p> 
+                           <p>sudditi farmi il piú colpevol io,</p> 
+                           <p>e il piú sommesso, e umile; udir mia piena</p> 
+                           <p>sentenza allor dal labro tuo; vederti</p> 
+                           <p>(ahi vista!) al fianco, in trono, a me sovrano</p> 
+                           <p>fatto Ildovaldo: e trar, finché a te piaccia,</p> 
+                           <p>obbrobriosi i giorni miei nel limo,</p> 
+                           <p>favola a tutti: e fra miseria tanta,</p> 
+                           <p>niuna serbare altra dolcezza al mondo,</p> 
+                           <p>che il pur vederti: - il non mai mio misfatto</p> 
+                           <p>avrò cosí, per quanto in me il potea,</p> 
+                           <p>espíato; e...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Non piú; taci. Non voglio</p> 
+                           <p>trono da te: rendi a me pria l'amante,</p> 
+                           <p>che piú lo apprezzo, ed è piú mio. Se il nieghi,</p> 
+                           <p>me di mia man cader vedrai.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>- Sarammi</p> 
+                           <p>dunque, del viver tuo, pegno il tuo amante.</p> 
+                           <p>Di lui farò strazio tremendo, io 'l giuro,</p> 
+                           <p>se tu in te stessa incrudelisci. Bada...</p> 
+                           <p>giá troppo abborro il mio rival:... giá troppa</p> 
+                           <p>smaniosa rabbia ho in petto: a furor tanto</p> 
+                           <p>non accrescer furore... - Altro non chieggo,</p> 
+                           <p>che oprare in somma a favor tuo; te lieta</p> 
+                           <p>far di sua sorte, e del mio eterno danno...</p> 
+                           <p>E qual vogl'io mercé? l'odio tuo fero</p> 
+                           <p>scemarmi alquanto, e la mia infamia in parte... </p> 
+                           <p>E sí 'l farò, vogli, o nol vogli. - Il tutto</p> 
+                           <p>volo a disporre: ah! piegheran te forse,</p> 
+                           <p>piú che i miei detti, or l'opre mie. Ti lascio</p> 
+                           <p>tempo intanto ai pensieri... Empio me puoi</p> 
+                           <p>tu sola far, se a dirmi empio ti ostini.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA QUARTA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Romilda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella17">  
+                     <row>
+                        <cell/> 
+                        <cell>
+                           <p>Misera me!... Che mai minaccia? Ah! dove</p> 
+                           <p>l'odio, e l'ira mi spinge? Ei fra' suoi lacci</p> 
+                           <p>tien l'amor mio: salvarlo ad ogni costo</p> 
+                           <p>voglio... Ahi misera me! finger mi è forza</p> 
+                           <p>con questo infame... Oh cielo! e, s'ei m'inganna?...</p> 
+                           <p>Agghiaccio,... tremo... In potestá di offeso</p> 
+                           <p>rivale,... un ferro, per morir da forte,</p> 
+                           <p>Ildovaldo, non hai; né dar tel posso...</p> 
+                           <p>Che degg'io farmi? A chi ricorrer io?...</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA QUINTA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Romilda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella18">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Dov'è, dov'è, quel traditore? - Ah! teco</p> 
+                           <p>quí dianzi egli era... Ove fuggia l'iniquo?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Or sappi...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Il tutto so. Freme Ildovaldo</p> 
+                           <p>in ceppi rei. Dove, dov'è costui,</p> 
+                           <p>che regal possa entro mia reggia usurpa?</p> 
+                           <p>Perfida, ei teco era finora...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ah! m'odi.</p> 
+                           <p>Ah! il tutto non sai: l'empie sue mire</p> 
+                           <p>non ti son note: a me sconviensi il nome</p> 
+                           <p>di perfida... Ma pur, se ciò ti giova,</p> 
+                           <p>perfida tiemmi; e fa qual vuoi piú crudo </p> 
+                           <p>scempio di me: sol di sue mani or traggi</p> 
+                           <p>senza indugio Ildovaldo; indi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>S'io 'l traggo?</p> 
+                           <p>Tosto il vedrai.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Deh! se pur tanto imprendi,</p> 
+                           <p>il ciel propizio abbi al tuo regno; muta</p> 
+                           <p>l'ombra del padre ucciso a te le notti</p> 
+                           <p>piú non perturbi; il traditor novello,</p> 
+                           <p>che al fianco t'hai, vittima caggia ei solo</p> 
+                           <p>dell'empio furor suo. Ma, se alta troppo</p> 
+                           <p>impresa or fosse i lacci rei disdorre</p> 
+                           <p>del mio fido amator, deh! fa, che un ferro</p> 
+                           <p>nel suo carcere ottenga, onde sottrarsi</p> 
+                           <p>d'un vil rivale alla malnata rabbia.</p> 
+                           <p>Deh! fa, che a un tempo anzi il morire ei sappia,</p> 
+                           <p>che a forza niuna io non soggiacqui; e ch'io,</p> 
+                           <p>degna di lui, secura in me, trafitta</p> 
+                           <p>non d'altra man che della mia, quí caddi;</p> 
+                           <p>e quí, chiamandolo a nome, spirai.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Tanto ami tu?... sei riamata tanto?..</p> 
+                           <p>Oh rabbia!... ed io? - Sí, va; l'amante sciolto</p> 
+                           <p>rivedrai tosto;... va;... dal mio cospetto</p> 
+                           <p>fuggi ognor poi: giá vendicata appieno</p> 
+                           <p>tu sei di me; misera io resto, e farti</p> 
+                           <p>deggio felice... E il deggio?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ancor che sola</p> 
+                           <p>ti muova or l'ira a favor mio, men grata</p> 
+                           <p>non io ne son perciò: né il rio periglio,</p> 
+                           <p>cui stai tu presso, io vo' tacerti. Il vile,</p> 
+                           <p>empio, ingrato Almachilde, ebro d'amore</p> 
+                           <p>lo scettro a te, la libertá vuol torre,</p> 
+                           <p>la vita forse: e in dono infame egli osa</p> 
+                           <p>offrirti a me...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Tu scellerato il fai;</p> 
+                           <p>perfida, tu...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Me dunque uccidi; e salva, </p> 
+                           <p>senza indugiar, solo Ildovaldo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>E tanto</p> 
+                           <p>per te s'imprende?.. Oh! chi sei tu? qual merto</p> 
+                           <p>sí grande in te? - Tu menti. - Oh rabbia!... e fia,</p> 
+                           <p>ch'orrido arcano, a me svelar tu il deggi?...</p> 
+                           <p>Ch'io salva sia, per te? - Se arride il cielo</p> 
+                           <p>ai voti tuoi, vanne da me sí lungi,</p> 
+                           <p>ch'io piú non oda di te mai: felice</p> 
+                           <p>fa ch'io mai non ti vegga... Esci.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Ma...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Udisti?</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>SCENA SESTA</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella19">  
+                     <row>
+                        <cell/> 
+                        <cell>
+                           <p>Oh rabbia! Oh morte!... E forza è pur, ch'io voli</p> 
+                           <p>a scior dai ceppi il suo amatore, io stessa?</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto quinto</head>
+               <div type="div3">
+                  <head>Scena prima</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Soldati</hi>.</p>
+                  <table rend="frame" xml:id="Tabella20">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Al campo vai?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Ma torneronne...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Ed io</p> 
+                           <p>te quí dal campo vincitore aspetto:</p> 
+                           <p>quí tua preda ti serbo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Or non è tempo,</p> 
+                           <p>ch'io a te risponda. Ad Ildovaldo pria</p> 
+                           <p>mostrarmi voglio.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Va, corri, combatti:</p> 
+                           <p>le sue catene io stessa infransi. - Or dianzi</p> 
+                           <p>con lui venirne a singolar tenzone</p> 
+                           <p>volevi tu: ma, s'ei di ceppi carche</p> 
+                           <p>avea le man, come pugnava? - Sciolto</p> 
+                           <p>ei giá ti attende; a trionfarne corri.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>L'arti tue vili, e il ribellato campo,</p> 
+                           <p>e il mio rival, tutto egualmente io sprezzo.</p> 
+                           <p>Al fin pur dato una fíata mi hai</p> 
+                           <p>cagion palese, onde a buon dritto io possa</p> 
+                           <p>nemico esserti aperto: or da' tuoi lacci</p> 
+                           <p>sciolto appieno m'hai tu.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Va, vinci, riedi;</p> 
+                           <p>e poi minaccia.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Io vincerò; mi affida</p> 
+                           <p>il ciel: s'io caggio, a te punir chi resta?</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Scena seconda</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella21">  
+                     <row>
+                        <cell/> 
+                        <cell>
+                           <p>Va, va: piú assai l'ira, e il valor mi affida</p> 
+                           <p>d'Ildovaldo guerriero. - Empio, a svenarti,</p> 
+                           <p>duolmi che man troppo onorata io scelsi. -</p> 
+                           <p>Ma che? compiuta è la vendetta forse?...</p> 
+                           <p>Dubbie ognora son l'armi: ancor che ai prodi</p> 
+                           <p>caro Ildovaldo sia, malvagj manca,</p> 
+                           <p>che avversi a lui, per lor private mire</p> 
+                           <p>terran dal re?... Molti ha dintorno in armi</p> 
+                           <p>l'iniquo; e forza, e ardire in lui si accresce</p> 
+                           <p>dall'infame suo amore... Oh ciel! se mai</p> 
+                           <p>gli arridesse fortuna, ai rei pur sempre</p> 
+                           <p>propizia?... Ah! non s'indugj... Or nuocer troppo</p> 
+                           <p>mi potria la fidanza. - Olá; si tragga</p> 
+                           <p>tosto Romilda a me. - Né sol d'un passo</p> 
+                           <p>fia ch'ella omai da me si scosti. Oh pegno</p> 
+                           <p>raro di pace! oh di discordia in vero</p> 
+                           <p>strana cagion, costei! Regal mercede</p> 
+                           <p>al vincitor costei? - S'ella è mercede</p> 
+                           <p>regal, quí venga; il darla, a me si aspetta.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Scena terza</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Romilda</hi>.</p>
+                  <table rend="frame" xml:id="Tabella22">  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Inoltra, inoltra il piede, alta donzella;</p> 
+                           <p>vieni; al mio fianco ti starai secura,</p> 
+                           <p>fin che per te nel campo si combatte.</p> 
+                           <p>Vieni, t'accosta... Tremi?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Oh ciel!... Che fia?</p> 
+                           <p>D'orride grida la cittade intorno</p> 
+                           <p>risuonar s'ode, e ver la reggia trarre...</p> 
+                           <p>Ma, oimè! di qual novella ira ti veggo </p> 
+                           <p>tutta avvampante nel turbato aspetto?...</p> 
+                           <p>Nulla sperar di lieto omai mi lice...</p> 
+                           <p>Sol, che sciolto Ildovaldo... Ah! pur ch'ei viva!...</p> 
+                           <p>Deh! prego, trammi or di tal dubbio.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Trarti</p> 
+                           <p>di dubbio, or mentre in feral dubbio io vivo?</p> 
+                           <p>Cosí pur tutta viver tu potessi</p> 
+                           <p>misera, afflitta, orribil la tua vita,</p> 
+                           <p>come a me fai tragger quest'ore! All'armi</p> 
+                           <p>per te si corre: impareggiabil merto!</p> 
+                           <p>Novella Elena tu! rivi di sangue</p> 
+                           <p>scorrer oggi farai: per te spergiuri</p> 
+                           <p>fansi i mariti; per te prodi i vili,</p> 
+                           <p>e superbi i dimessi. - O tu, de' forti</p> 
+                           <p>donna, quí vieni; a me dappresso or siedi</p> 
+                           <p>regina tu; vieni; or si pugna in campo</p> 
+                           <p>per darti regno,... o morte.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>E che? derisa</p> 
+                           <p>anco mi vuoi? di farmi oltraggi tanti</p> 
+                           <p>sazia non sei?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Che parli? Io quí derisa,</p> 
+                           <p>io sola il son: del mio furor, del giusto</p> 
+                           <p>odio, ch'io nutro incontro a te, dell'alta</p> 
+                           <p>rabbia gelosa mia, tu il dolce frutto</p> 
+                           <p>presso a coglierne stai: te appien felice</p> 
+                           <p>io stessa fo; te fra le braccia io pongo</p> 
+                           <p>di lungamente sospirato amante. -</p> 
+                           <p>Vedi or quanto sien lieve inutil sfogo,</p> 
+                           <p>in tal tempesta del mio core, i detti.</p> 
+                           <p>Me, me deridi, che tu n'hai ben donde. -</p> 
+                           <p>Rotti ho giá i ceppi d'Ildovaldo: armata</p> 
+                           <p>giá gli ho del brando la invincibil destra:</p> 
+                           <p>or compie ei giá le mie vendette; e a un tempo...</p> 
+                           <p>le tue, pur troppo!</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Or, deh, quel braccio invitto</p> 
+                           <p>trionfi almeno! Del primier tuo fallo </p> 
+                           <p>cosí la macchia cancellar soltanto</p> 
+                           <p>potevi omai. Di speme or sí che un raggio</p> 
+                           <p>a me balena, or che Ildovaldo sciolto</p> 
+                           <p>sta in armi in campo. Ah! men turbata vita</p> 
+                           <p>t'accordi il cielo...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>A orribil vita io resto,</p> 
+                           <p>qual sia l'evento. Del dolor mio godi;</p> 
+                           <p>giá mi allegrai del tuo: godi, finch'io</p> 
+                           <p>non tel vieto... Ma forse... Al ciel quai voti</p> 
+                           <p>porgo?.. Nol so... So, che finor son tutti</p> 
+                           <p>di sangue i voti miei; né sangue io veggo,</p> 
+                           <p>che ad appagarmi basti... Altri fia lieto,</p> 
+                           <p>dov'io misera sono? - Or or vedrassi...</p> 
+                           <p>Ma, chi s'appressa?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Un lieve stuolo in armi...</p> 
+                           <p>Ildovaldo gli è duce. Oh gioja...</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Scena quarta</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Romilda</hi>, <hi rend="smallcaps">Ildovaldo</hi>, <hi rend="smallcaps">Rosmunda</hi>, SEGUACI D'<hi rend="smallcaps">Ildovaldo</hi>.</p>
+                  <table rend="frame" xml:id="Tabella23">  
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ah! vieni;</p> 
+                           <p>di'; vincesti? son tua?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Ciò ch'io t'imposi,</p> 
+                           <p>compiuto hai tu? quel traditore hai spento?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Io? non è cosa ei dal mio brando. Invano</p> 
+                           <p>pugna in campo Almachilde: altri miei fidi</p> 
+                           <p>han di vincerlo incarco; e a ciò fien troppi.</p> 
+                           <p>Non a guerriera spada, a infame scure</p> 
+                           <p>è dovuto il suo capo. - A te, Romilda,</p> 
+                           <p>io sol pensai; sacro a te prima ho il brando.</p> 
+                           <p>Vieni; di queste abbominate soglie</p> 
+                           <p>ch'io pria ti tragga. Aprir sapremti strada</p> 
+                           <p>miei forti, ed io. Vien meco, or sei ben mia.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>T'arresta: ancor ben tua non è: t'arresta:</p> 
+                           <p>dartela debbo, io, di mia man. - Romilda, </p> 
+                           <p>ben mia tu sei, mentr'io ti afferro; e quinci</p> 
+                           <p>non muoverai tu passo. - E tu, codardo,</p> 
+                           <p>quand'io ti sciolgo da' tuoi lacci, e darti</p> 
+                           <p>io pur prometto quanto al mondo brami,</p> 
+                           <p>tu, vil, servire al mio furor tu nieghi?</p> 
+                           <p>Non che svenare il tuo rival, lo sfuggi?</p> 
+                           <p>Quí per mercé non meritata vieni,</p> 
+                           <p>lui vivo, tu?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Deh! di sue mani or trammi</p> 
+                           <p>tosto, Ildovaldo.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Andiam. Cessa, o Rosmunda;</p> 
+                           <p>lasciala; è vano: al suo partire inciampo</p> 
+                           <p>tu bastante non sei: lasciala. Assai</p> 
+                           <p>ha nemici Almachilde; altri lordarsi</p> 
+                           <p>non niegherá nel vil suo sangue, e tosto.</p> 
+                           <p>Non ti smarrir, Rosmunda.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>E che? tu pensi</p> 
+                           <p>schernirmi? tu?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Lasciami...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Cessa, o ch'io...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Io lasciarti? no, mai. - Ma giá risorte</p> 
+                           <p>odo le grida,... e piú feroci, e presso;...</p> 
+                           <p>oh gioja! oh, fosse il tuo sperar deluso!</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Ahi lassa me!...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Chi viene in armi?</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Oh gioja!</p> 
+                           <p>ecco Almachilde; e vincitor lo scorgo:</p> 
+                           <p>e puniratti, spero.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Scena quinta</head>
+                  <p rend="center">
+                     <hi rend="smallcaps">Almachilde</hi>, <hi rend="smallcaps">Ildovaldo</hi>, <hi rend="smallcaps">Rosmunda</hi>, <hi rend="smallcaps">Romilda</hi>,</p>
+                  <p rend="center">
+                     <hi rend="smallcaps">Soldati</hi>, <hi rend="smallcaps">e seguaci d</hi>'<hi rend="smallcaps">Ildovaldo</hi>.</p>
+                  <table rend="frame" xml:id="Tabella24">  
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>In traccia vieni</p> 
+                           <p>di me tu forse? eccomi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>A freno i brandi, </p> 
+                           <p>miei prodi, a freno: assai giá strage femmo.</p> 
+                           <p>Dal piú ferir si resti.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Ancor ti avanza</p> 
+                           <p>da uccider me: ma pria...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Svenalo.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>M'odi,</p> 
+                           <p>forte Ildovaldo, pria; Romilda, m'odi. -</p> 
+                           <p>Voi, soldati, arretratevi; l'impongo.</p> 
+                           <p>A un tempo quí, quant'io cercava, incontro. -</p> 
+                           <p>Ildovaldo, tu il vedi, invan difesa</p> 
+                           <p>or contra me faresti: a ognun de' tuoi</p> 
+                           <p>oppor de' miei poss'io ben cento. Hai salva</p> 
+                           <p>oggi tu a me la vita; oggi la vita</p> 
+                           <p>io dono a te: nulla piú omai ti deggio. -</p> 
+                           <p>Del tuo destin, Romilda, arbitra voglio</p> 
+                           <p>te stessa; e di noi donna, e di costei.</p> 
+                           <p>S'io ingannarti pensassi, omai tu il vedi.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Donna di me costei? di me? Nel petto</p> 
+                           <p>io questo stil giá giá le immergo...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Ah! ferma...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>T'arresta, deh!...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Nullo appressarsi ardisca,</p> 
+                           <p>o il ferro io vibro.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>E vibralo: morrommi</p> 
+                           <p>cosí almen d'Ildovaldo...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Or, qual di noi</p> 
+                           <p>è donna quí?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Tu il sei... Deh!... cessa...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Oh rabbia!...</p> 
+                           <p>Romilda... Oh cielo! e non ti posso io trarre?...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Re sol di nome tu, depon quel brando. -</cell>
+                     </row> 
+                     <row>
+                        <cell>
+                           <hi rend="smallcaps">Almac</hi>.</cell> 
+                        <cell>Eccomi inerme...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Or tuoi soldati tutti</p> 
+                           <p>fuor della reggia manda.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Ite, sgombrate,</p> 
+                           <p>affrettatevi, tutti...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>E tu, che nieghi</p> 
+                           <p>con un delitto d'acquistar l'amata,</p> 
+                           <p>freddo amator, tosto il tuo stuol disperdi.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Ecco, spariro...</cell>
+                     </row>  
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Or ben cosí. - Ragauso</p> 
+                           <p>tosto or quí rieda, e le mie guardie in armi...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Venga, deh! tosto...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Ecco Ragauso. - Io sono,</p> 
+                           <p>io son quí dunque ancor regina?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Il sei</p> 
+                           <p>tu sola. Deh!...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Di qual di noi vuoi pria</p> 
+                           <p>vendetta prendi... Ma Romilda... oh cielo!...</p> 
+                           <p>Vuoi tu ch'io pera? ecco al mio petto il ferro</p> 
+                           <p>rivolgo io giá...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Del sangue vostro omai</p> 
+                           <p>l'ira mia non s'appaga. Allor dovevi</p> 
+                           <p>ferir tu, quando a te l'imposi: e noto</p> 
+                           <p>t'era qual sangue io ti chiedessi. In tempo</p> 
+                           <p>mi pento ancor, d'aver vendetta tanta</p> 
+                           <p>fidata in te, codardo; - e in te, spergiuro,</p> 
+                           <p>d'aver creduto io mai. - Ma, intera tengo</p> 
+                           <p>fra mie man la vendetta: or sí, che intera</p> 
+                           <p>nomarla ardisco. - O tu, che in te raguni</p> 
+                           <p>gli odj miei tutti, or chi sbramarli a un tratto</p> 
+                           <p>meglio di te può tutti? Al furor mio</p> 
+                           <p>tu basti, quasi. Ahi stolta! e darti io stessa</p> 
+                           <p>volli all'amante riamato? a vita</p> 
+                           <p>te riserbar, che dai morti a me mille?</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Deh! per pietá!...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Trema.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>Ildovaldo!...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>
+                           <p>Morte</p> 
+                           <p>spiran suoi sguardi!... A me quel ferro...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>A lei</p> 
+                           <p>pria il ferro, in lei. Muori.</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Ah!... Tu pur morrai<note xml:id="ftn1" place="foot" n="1"> In atto di avventarsi col brando su Rosmunda</note>.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>Guardie, entrambi si accerchino.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Romil.</cell> 
+                        <cell>
+                           <p>Ildovaldo...</p> 
+                           <p>moro... almen... tua...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>Seguirti...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Vendicarti...</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Ildov.</cell> 
+                        <cell>
+                           <p>Sopravviver non posso<note xml:id="ftn2" place="foot" n="2"> Si uccide</note>. O tu, che resti,...</p> 
+                           <p>fanne vendetta...</p>
+                        </cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Almac.</cell> 
+                        <cell>Io vendicarla giuro.</cell>
+                     </row> 
+                     <row>
+                        <cell rend="smallcaps">Rosm.</cell> 
+                        <cell>
+                           <p>Ho il ferro ancor; trema: or principia appena</p> 
+                           <p>la vendetta, che compiere in te giuro.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <div type="div2" rend="P44">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: Rosmunda</p>
+               <p>AUTORE: Alfieri, Vittorio</p>
+               <p>TRADUTTORE:</p>
+               <p>CURATORE:</p>
+               <p rend="justify">NOTE: Il testo è presente in formato immagine sul sito The Internet Archive (http://www.archive.org/). Realizzato in collaborazione con il Project Gutenberg (http://www.gutenberg.org/) tramite Distributed Proofreader (http://www.pgdp.net/).</p>
+               <p rend="justify">CODICE ISBN E-BOOK: non disponibile</p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: Tragedie - Vittorio Alfieri - volume 2 - collana Scrittori d'Italia nr 196 - Bari : G. Laterza, 1946 - 402 p. ; 22 cm.</p>
+               <p>CODICE ISBN FONTE: non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 17 settembre 2013</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Distributed Proofreader, http://www.pgdp.net/</p>
+               <p>REVISIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center">
+                  <ptr target="http://www.liberliber.it/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

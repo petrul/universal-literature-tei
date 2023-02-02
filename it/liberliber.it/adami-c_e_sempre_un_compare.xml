@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>E-book campione Liber Liber</title>
+            <author>Giuseppe Adami</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-20T14:22:56.848586851</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Giuseppe Adami</author>
+         <p rend="color(#ff6633)bold">C'è sempre un compare</p>
+         <p rend="center bold">GIUSEPPE ADAMI</p>
+         <div type="div1">
+            <head>C'è sempre un compare</head>
+            <subtitle>COMMEDIA IN UN ATTO</subtitle>
+            <p>CHE COS'È L'AMORE? LA DOMANDA È ETERNA, E TUTTE LE RISPOSTE SONO LECITE. «L'AMORE È UN GIOCO DI PRESTIGIO», QUESTA È LA RISPOSTA CHE GIUSEPPE ADAMI SEMBRA MALIZIOSAMENTE ADOMBRARE NELLA SUA GAIA E GARBATA COMMEDIOLA. NATURALMENTE ANCHE LUI HA RAGIONE, COME TUTTI GLI ALTRI.</p>
+            <p rend="center bold">PERSONAGGI</p>
+            <p rend="center smallcaps">Marina – Delfi – Maurizio</p>
+            <p rend="italic">Una spiaggia ancora semi-deserta. Marina, snella e bronzea nel costumino da bagno, è stesa sulla sabbia con sonnolento abbandono. Appare e passi rapidi Maurizio. La vede, la chiama, le si avvicina.</p>
+            <p>Maurizio</p>
+            <p>Marina?... Marinaa?... ..Marinaaa?...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">senza voce</p>
+            <p>Che vuoi, seccatore?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Stai male?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Stavo benissimo. Ho sonno. Volevo dormire. Sei capitato tu e m'hai rotto il sonno e la pace.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Lo so.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>E allora perchè non te ne vai?</p>
+            <p>Maurizio</p>
+            <p>Perchè ho bisogno di parlarti.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>È inutile. Quel che vorresti dirmi lo conosco. Me lo dici tutti i giorni: mi ami e vuoi sposarmi. Fai poca fatica. Io ne faccio di più ascoltandoti. Lasciami riposare.</p>
+            <p rend="italic">E si gira dall'altra parte.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">che le si è seduto vicino sulla sabbia</p>
+            <p>Sei crudele, Marina... Crudele e presuntuosa. Presuntuosa e caparbia... Ma io sono tenace. Tenace e volitivo... E non mi muovo se prima non mi dai un bacio.</p>
+            <p>Marina</p>
+            <p rend="italic">senza scomporsi</p>
+            <p>Perché dovrei dare un bacio proprio a te?</p>
+            <p>Maurizio</p>
+            <p>Perchè ne ho una voglia matta.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Se dovessi baciare tutti quelli che ne hanno una voglia matta!</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Non tutti. Me solo. Perchè io ti amo.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Tutti, a sentir loro, mi amano.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Gli altri lo dicono.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>E tu no?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Io lo dico perché lo sento.</p>
+            <p>Marina</p>
+            <p>Lo senti, ma lo dici. Invece, vedi, quando si ama veramente bisogna non dirlo mai e lasciar dormire chi è stato a ballare fino alle cinque. S'è alzato alle otto, e adesso non ne può più.</p>
+            <p>Maurizio</p>
+            <p rend="italic">con uno scatto</p>
+            <p>Lo so, sai, lo so che è Delfi che ti piace!</p>
+            <p>Marina</p>
+            <p rend="italic">vivamente, sollevandosi</p>
+            <p>Delfi?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ah! Vedi che ti svegli?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Eh, sì! Dallo sbalordimento.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Hai poco da sbalordirti... Se ne sono accorti tutti.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Davvero?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Sì, cara!</p>
+            <p>Marina</p>
+            <p>Be, questa è grossa! Delfi? Ma se non lo vedo mai!</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Appunto: ti piace perchè ti sfugge...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Mi sfugge?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Mentre io, il mio difetto è che siamo cresciuti insieme... I miei trastulli, i miei giochi erano i tuoi... Miei soltanto i tuoi scapaccioni... Sempre prepotente sei stata... Prepotente e manesca.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>E sai perchè?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Perchè volevi aver sempre ragione.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>No. Perchè non volevo sottostare al capriccio e alla volontà di un maschio. Più tardi, crescendo, ho cambiato opinione...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>È Delfi che te l'ha fatta cambiare?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Se ti fa piacere... se gli altri lo dicono... sì... è lui...</p>
+            <p>Maurizio</p>
+            <p>Ah, confessi!</p>
+            <p>Marina</p>
+            <p>Ma io sono l'unica che non ci credo. E se vuoi che restiamo buoni amici non nominarmelo più.</p>
+            <p>Maurizio</p>
+            <p>Non occorre nominartelo: è qui.</p>
+            <p>Marina</p>
+            <p>Dove?...</p>
+            <p rend="italic">E si guarda intorno.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Qui... là... nel tuo cuore.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Lasciacelo stare, e cambiamo discorso, che, tanto, non capisci niente nè tu nè gli altri.</p>
+            <p rend="italic">E con diverso tono</p>
+            <p>Sei stato a teatro iersera?</p>
+            <p>Maurizio</p>
+            <p>Non ero vicino a te?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>T'è piaciuto il prestigiatore?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>È strabiliante, no?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Quanto pagherei a sapere i suoi giochi!</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Per fartene che?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Per far sprofondare chi voglio.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Alludi a me?... Vorresti sprofondarmi?...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Oppure, sai, anche quell'altro esperimento mi piacerebbe.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Quale?</p>
+            <p>Marina</p>
+            <p>Metterti nella cassa e segarti a mezzo.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Farei come le lucertole: con una parte o con l'altra tornerei scodinzolando a te.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Ti schiaccerei sotto i piedi.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">con impeto</p>
+            <p>Marina! Marina!... Ma perché non mi vuoi?... Sono giovine, ricco, elegante, ho al mio attivo due campionati di tennis, domani vincerò il terzo...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Non mi basta.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Che vuoi di più?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">sollevandosi a metà</p>
+            <p>Senti, Maurizio, amico della mia infanzia, e vittima dei miei scapaccioni: tu mi vorresti sposare, vero?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>E come!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Bene. Io non ti dico di no...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">afferrandole le mani</p>
+            <p>Ah, Marina!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Non interrompermi. Io non ti dico di no...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Mi basta!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Lasciami finire.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Non fiato. Mi basta... Mi basta e non fiato... Puoi dirmi qualunque cosa, adesso, che non ti ascolto più.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>E invece devi ascoltarmi. Io sono una ragazza fatta a mio modo...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Come sei fatta bene!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Ma appunto perchè sono fatta bene non posso tollerare un tormento implacabile come il tuo. Non posso ammettere la fretta...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ma io so aspettare!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Ecco, bravo: aspetta, Maurizio. Non si sa mai... Può giocar tali scherzi il futuro!... Magari, domani, in mancanza di meglio, non dico che tu sia proprio da buttar via... Ma oggi, no... Oggi è un'altra faccenda... che tu non puoi sapere... Che nessuno sa... Ma se m'assilli, mi circuisci, m'insegui, mi pedini, diventi la mia ombra e la mia afflizione, è come se mi togliessi il respiro... Lasciami respirare, Maurizio, e parliamo d'altro</p>
+            <p>Maurizio</p>
+            <p rend="italic">gioiosamente</p>
+            <p>Sì, sì... parliamo d'altro!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Parliamo del prestigiatore.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ti interessa tanto?</p>
+            <p>Marina</p>
+            <p>Tutto quello che è trucco m'interessa.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Perchè?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Così!... Mi diverte... Fare una cosa e farne credere un'altra, mi diverte.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Per lasciare il pubblico con tanto di naso!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>È questo il bello!</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>È tutta questione di imparare il segreto.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Eh, già!</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Se no bisognerebbe essere il diavolo...</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">che è sopraggiunto non visto e non sentito</p>
+            <p>Il diavolo in persona.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">voltandosi</p>
+            <p>Lei?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">seccato</p>
+            <p>E di dove è sbucato?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Dall'inferno, naturalmente.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Per salvarmi o dannarmi?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Per salvarla, si capisce.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Da che?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Dalla corte di Maurizio.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Non ce n'è bisogno.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Tanto meglio.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Si figuri che si parlava del prestigiatore...</p>
+            <p>Delfi</p>
+            <p>Interessantissimo.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>C'è Marina che pagherebbe a conoscerne i trucchi per far restar tutti con un palmo di naso.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Niente di più semplice.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Lo crede?</p>
+            <p>Delfi</p>
+            <p>Io li conosco tutti.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Lo sappiamo! Lo sappiamo! È la sua specialità.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Non quelli che pensa lei... Quelli veri. Proprio quelli del prestigiatore.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>In che modo?</p>
+            <p>Maurizio</p>
+            <p>Ma non capisci che scherza?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>No, no. Non scherzo affatto.</p>
+            <p>Marina</p>
+            <p>Li conosce?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Li conosco.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Anche quello della donna che vola?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Soprattutto quello.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>E come fa?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>È un trucco.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Fin qua ci arrivo anch'io... Volevo dire come fa, lei, a conoscerlo.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Sono amico del prestigiatore.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ma, scusi, vuole che un prestigiatore venga proprio a insegnare i suoi giochi a lei?</p>
+            <p>Delfi</p>
+            <p>Non me li ha insegnati: glieli ho rubati.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Rubati? Come?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>A Nizza, l'anno scorso. Era nel mio stesso albergo, camera a camera... Quando provava certi suoi esperimenti, lo spiavo dal buco della chiave. Non c'è un segreto che mi sia sfuggito.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ah, fantastico! Allora se lei volesse...</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>No, Maurizio. È questo l'errore. Conoscere il segreto non vuol sempre dire di saper fare il gioco. Il trucco non è che la parte fondamentale, la parte tecnica. Il resto è il difficile. Fare in modo che il trucco abbia la parvenza della realtà. Come nella vita, del resto.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Si capisce!</p>
+            <p>Delfi</p>
+            <p>Illudere e illudersi.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">indicando Maurizio</p>
+            <p>Lui si illude di essere interessante, per esempio.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>E ha perfettamente ragione.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Oh, bravo!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Lei lo trova interessante?</p>
+            <p>Delfi</p>
+            <p>Io no. Ma ha ragione di illudersi.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>E si illude, anche, di sposarmi.</p>
+            <p>Delfi</p>
+            <p>E qui ha torto... Cioè no: se lo sposasse avrebbe torto lei.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Lo credo!</p>
+            <p>Delfi</p>
+            <p>Ma lui, per conto suo, può continuare a illudersi.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Continuerà per un pezzo!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Non importa egli, però, vive con questa illusione che nessuno gli può togliere.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">Vivamente</p>
+            <p>Ah, nessuno, perdio!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>L'ha sentito?</p>
+            <p>Marina</p>
+            <p>Bestemmia!</p>
+            <p>Delfi</p>
+            <p>Bestemmia. Ma vive. Tutto, fondamentalmente, consiste in questo. L'importante si è di crearsi ciascuno la propria vita secondo la propria illusione. Ma nessuno saprà mai come va a finire.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Io sì che lo so.</p>
+            <p>Delfi</p>
+            <p>No, Maurizio. Non può saperlo. Ed è bene che non lo sappia.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Perché?</p>
+            <p>Delfi</p>
+            <p>Perchè, altrimenti, sino da questo momento non potrebbe più vivere.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>E chi glielo dice?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Io.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>È un po' poco.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Non essere ironico, Maurizio, e segui il suo ragionamento, che voglio vedere dove va a finire.</p>
+            <p>Delfi</p>
+            <p>Ad affermare, semplicemente, che l'illusione è più necessaria dell'aria che si respira, e che noi tutti di questa illusione dobbiamo nutrirci, abolendo per quanto possibile noi stessi, dal momento che nessuno ha mai l'esatta coscienza delle proprie possibilità.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Io, delle mie, l'ho perfetta.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>E questo è un altro scherzo della sua illusione.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ma faccia il piacere!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Lei, scusi, lei sa chi è?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Io sì.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>E chi è? Sentiamo.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Maurizio.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Non è vero. Lei si chiama Maurizio. Ma chi sia Maurizio, lei non lo sa.</p>
+            <p>Marina</p>
+            <p>Io sì che io so chi è Maurizio!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Chi è?</p>
+            <p>Maurizio</p>
+            <p rend="italic">subito</p>
+            <p>Ti proibisco di dirlo!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">a Delfi</p>
+            <p>E so anche chi è lei.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Chi sono?</p>
+            <p>Marina</p>
+            <p>Un chiacchierone che vuol prendersi bellamente gioco di Maurizio e di me insieme.</p>
+            <p>Delfi</p>
+            <p>Io?!... Ma le pare?...</p>
+            <p>Marina</p>
+            <p>Sì, mi pare. E non faccia il trasognato, che stamattina non attacca. E non mi venga a raccontare che ha carpito i misteri del giocoliere dal buco della serratura, che io non ci credo. E si risparmi pure le sue buffe teorie psico-illusionistiche, che gliele faccio crollare in un batter d'occhio. Perchè se lei crede di atteggiarsi a diavolo con me, badi che io mi chiamo Marina, e fra Marina e il diavolo, messi a tu per tu, eh... non so proprio chi la vincerebbe.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">reciso</p>
+            <p>È una sfida?</p>
+            <p>Marina</p>
+            <p>Può darsi.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>L'accetto!</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Non capisco perchè vi dobbiate sfidare, proprio mentre aspettavo che Delfi mi spiegasse i trucchi del giocoliere.</p>
+            <p>Marina</p>
+            <p>Ma che vuoi che ne sappia, Delfi!</p>
+            <p>Delfi</p>
+            <p>Mi metta alla prova.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Lasci stare la prova... Mi dica piuttosto, se lo sa, com'è quel giochetto degli anelli l'uno dentro l'altro... Lo sa?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>È una sciocchezza.</p>
+            <p rend="italic">E spiega</p>
+            <p>Gli anelli sono costruiti in modo che s'aprono e chiudono battendo l'esterno dell'uno contro l'esterno dell'altro: tac!... è dentro... tac!... è fuori...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Eh, no! Io li ho avuti in mano, quando è sceso tra il pubblico. Li ho esaminati bene; sono ermetici.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Già! Quelli che dà al pubblico, sì. Ma mentre scende, con prontezza di mano, li cambia.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Che sveltezza, però!</p>
+            <p>Delfi</p>
+            <p>Tutto il segreto è lì!</p>
+            <p>Maurizio</p>
+            <p>Bè, questa degli anelli è relativamente facile. Ma per certi altri, la sveltezza non basta.</p>
+            <p>Delfi</p>
+            <p>Per esempio?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Quando fa sparire la donna?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Già.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Sarebbe capace, lei, di far sparire una donna?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>È la mia specialità.</p>
+            <p>Marina</p>
+            <p>Davvero?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Lo saprebbe fare?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Certo. E molte volte m'è riuscito benissimo.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">sbalordito</p>
+            <p>Ma no!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">impassibile</p>
+            <p>Ma sì!</p>
+            <p rend="italic">E guarda Marina</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Provi a farlo.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Eh, no! Qui non è possibile.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">sorridendo ironico</p>
+            <p>Volevo ben dire!</p>
+            <p>Delfi</p>
+            <p>Ci vuole una certa preparazione.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Già, già...</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Ci vuole un palcoscenico...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ecco, ecco...</p>
+            <p>Delfi</p>
+            <p>Ci vuole un pubblico...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Vedo, vedo...</p>
+            <p>Delfi</p>
+            <p>E soprattutto ci vuole la complice: la donna.</p>
+            <p rend="italic">E guarda ancora Marina</p>
+            <p>Marina</p>
+            <p>Oh, adesso ci siamo!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">continuando</p>
+            <p>La donna sensibile... La donna palpabile e impalpabile nello stesso tempo... Afferrabile e inafferrabile, che ora c'è e da un momento all'atro non c'è più...</p>
+            <p>Maurizio</p>
+            <p>La donna, insomma.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>E se questa donna, precedentemente istruita, si presta a far fare bella figura al prestigiatore, il prestigiatore ha vinto, se no...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Neanche il prestigiatore l'acchiappa più.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Precisamente.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>No, Delfi, non basta.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Non basta?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Se dietro le quinte non c'e un compare, la donna non sparisce.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Chi gliel'ha detto?</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Il prestigiatore.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Lei scherza... E se avessi sottomano il soggetto, le farei veder subito che il compare non è affatto necessario. Come fluido, basta l'intesa del prestigiatore con la donna.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Crede?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Vuole che proviamo?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Anche senza palcoscenico?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Può bastar quel capanno.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>E la donna?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Lei... se si prestasse.</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Io sì. Basta che non ci sia pericolo.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>L'unico pericolo è mio: che il gioco non riesca... Che il soggetto non mi si abbandoni anima e corpo...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Cercherò di farle fare bella figura.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>È quello che spero.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>E io... che faccio?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Il pubblico.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Vuol che mi sieda?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Se crede.</p>
+            <p>Maurizio</p>
+            <p>Dove?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Si metta là... sulla sedia a sdraio.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">stendendosi</p>
+            <p>Ci sto da papa.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Stia attento che si comincia.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Non perdo sillaba. Non batto ciglio.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">avvicinandosi a Marina, a bassa voce</p>
+            <p>Mi raccomando a lei...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Lasci fare.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">con l'intonazione e i gesti del giocoliere</p>
+            <p>Ecco, signore e signori, che noi andremo a travagliare senza inganno e senza malizia, pregando l'inclito pubblico di constatare che l'esperimento che ora passiamo ad eseguire non è da confondere con i soliti volgari esperimenti che lor signori hanno sempre applaudito sulle fiere dei villaggi, ma bensì venne creato in tutte le principali Corti d'Europa e delle lontane Americhe alla presenza dei loro potenti e relativi Sovrani.</p>
+            <p>Maurizio</p>
+            <p>Bravo!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>La fanciulla, o signori, che noi abbiamo l'onore di far sparire è, come potete constatare voi stessi a occhio nudo, di una perfezione di forme assoluta. Ma a che servirebbe, domando io a lor signori, la forma se entro la medesima non alitasse la più delicata e sensibile anima femminile che io mi conosca?</p>
+            <p>Marina</p>
+            <p>Che ne sa, lei?</p>
+            <p>Delfi</p>
+            <p>Avete sentito, o signori, quale schiva e squisita modestia? È dunque possibile che noi dobbiamo cancellare dal nostro sguardo e lasciar disperdere nell'aria una creatura che nella vita è bellezza, grazia, sorriso? È possibile che noi, demoniacamente pervasi da un impeto di satanica distruzione, si debba cancellare così, con un tratto di penna e un colpo di mano, tale visione di sovrumano splendore?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ne ha per un pezzo?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Chi mai osa, o signori, di protestare laggiù tra la folla anonima e innumerevole?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Ma la faccia sparire, se ne è capace, e non parliamone più!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Ebbene, sì. Noi lo faremo! </p>
+            <p rend="italic">avvicinandosi a Marina, a bassa voce</p>
+            <p>Stia attenta e mi segua...</p>
+            <p rend="italic">forte</p>
+            <p>Noi lo faremo...</p>
+            <p rend="italic">a voce bassa</p>
+            <p>Quando è nel capanno...</p>
+            <p rend="italic">forte</p>
+            <p>A malincuore, con lo strazio nell'anima, noi lo faremo...</p>
+            <p rend="italic">a voce bassa</p>
+            <p>dietro la seconda tenda...</p>
+            <p rend="italic">forte</p>
+            <p>E voi potrete constatare il nostro diabolico potere...</p>
+            <p rend="italic">a voce bassa</p>
+            <p>e rimanga ferma e nascosta...</p>
+            <p rend="italic">forte</p>
+            <p>la irresistibile potenza del nostro sortilegio.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">spazientito</p>
+            <p>Ma non le parli sottovoce e si spicci che voglio vedere.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Vedrà.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Vedremo.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Quel capanno, o Signori, sarà l'abisso misterioso che inghiottirà nel nulla una fra le creature più eleganti e squisite che onorino la nostra spiaggia... Esaminatelo quel capanno, esaminatelo pure...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Non occorre: lo conosco.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Non doppi fondi, non uscite segrete... Quattro assi e una porta. Nient'altro. Ecco: noi vi collochiamo questa nobile fanciulla e passiamo a chiudere questa volgarissima porta...</p>
+            <p rend="italic">a voce bassa</p>
+            <p>Sarà la prova che lei mi ama...</p>
+            <p rend="italic">forte</p>
+            <p>questa volgarissima porta, così.</p>
+            <p rend="italic">E chiude. Un silenzio. Si avvicina a Maurizio</p>
+            <p>Lei ha l'orologio?</p>
+            <p>Maurizio</p>
+            <p>Vuol farmi sparire anche quello?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>No. Lo guardi. E misuri i minuti sui battiti del suo cuore.</p>
+            <p rend="italic">Mettendogli la mano sul cuore</p>
+            <p>Tic-tac, tic-tac, sente?</p>
+            <p>Maurizio</p>
+            <p>Sento.</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>La nostra divina fanciulla dilegua, si volatilizza, si dissolve... e lei la perde per sempre.</p>
+            <p>Maurizio</p>
+            <p>Sparita?</p>
+            <p>Delfi</p>
+            <p>Lo spero. Apra quella porta.</p>
+            <p>Maurizio</p>
+            <p>No, no... l'apra lei.</p>
+            <p>Delfi</p>
+            <p>E sia come il signore desidera.</p>
+            <p rend="italic">Risale. Apre. Il capanno è vuoto</p>
+            <p>Ecco. Come ben potete constatare, o signori, la fanciulla non c'è più. Il nostro infallibile fluido l'ha sottratta al vostro sguardo...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">scanzonato</p>
+            <p>Sollevi la seconda tenda!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">vivamente</p>
+            <p>Ah, no!</p>
+            <p>Maurizio</p>
+            <p>Come no? Il vero prestigiatore la solleva.</p>
+            <p>Delfi</p>
+            <p>E allora, la sollevi lei.</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Certamente.</p>
+            <p rend="italic">Si precipita, solleva la tenda, rimane sbalordito!</p>
+            <p>Nessuno?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">sbalordito e turbato a sua volta</p>
+            <p>Nessuno!...</p>
+            <p rend="italic">A sè</p>
+            <p>E dove si sarà cacciata?</p>
+            <p>Maurizio</p>
+            <p>Lei lo sa benissimo!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Ne so quanto lei!</p>
+            <p>Maurizio</p>
+            <p>Mi crede proprio uno stupido?</p>
+            <p>Delfi</p>
+            <p>E ne ho colpa io se è sparita? </p>
+            <p>Maurizio</p>
+            <p>Me la faccia tornare!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">giocando tutto per tutto, sicuro che Marina lo aiuterà</p>
+            <p>Tentiamo. Richiudiamo la porta.</p>
+            <p rend="italic">Eseguisce</p>
+            <p>Guardi l'orologio...</p>
+            <p>Maurizio</p>
+            <p>Tic-tac... tic-tac...</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Basta così... Ora apra lei.</p>
+            <p>Maurizio</p>
+            <p rend="italic">corre, apre, entra</p>
+            <p>Nessuno!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Possibile?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">frugando nel capanno, sotto l'accappatoio, le vesti appese, il tavolo</p>
+            <p>Non c'è!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Come non c'è? E dove vuole che sia andata?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Non c'è, le dico... Guardi anche lei!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">frugando nel capanno</p>
+            <p>Non ci capisco più niente...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Sparita! Da che parte?</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>E chi lo sa?</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p rend="italic">fuori di sè</p>
+            <p>Eravate d'accordo per burlarvi di me! Ma se crede, con questo di portarmela via, si sbaglia!</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p rend="italic">chiamando a voce alta</p>
+            <p>Signorina Marina?... Signorina Marina?...</p>
+            <p>Maurizio</p>
+            <p rend="italic">chiamando a sua volta</p>
+            <p>Marinaaa?... Non fare la sciocca... Se sei viva, batti un colpo...</p>
+            <p rend="center smallcaps">Delfi</p>
+            <p>Marina?...</p>
+            <p>Maurizio</p>
+            <p>Marina?...</p>
+            <p>Delfi</p>
+            <p>Ah, eccola la!...</p>
+            <p>Maurizio</p>
+            <p>Dove?... Dove?...</p>
+            <p>Delfi</p>
+            <p rend="italic">indicando un gruppo di bagnanti, lontano</p>
+            <p>Guardi... laggiù.... fra quel gruppo...</p>
+            <p>Maurizio</p>
+            <p>Macchè, non è lei!...</p>
+            <p>Delfi</p>
+            <p>Sì, è lei... è lei... la riconosco... lei che ride... lei che ci ha giocato tutti e due...</p>
+            <p rend="italic">E si avvia a passi rapidissimi, seguìto da Maurizio, chiamando:</p>
+            <p>Delfi</p>
+            <p>Marina?...</p>
+            <p rend="center smallcaps">Maurizio</p>
+            <p>Marina?...</p>
+            <p>Delfi</p>
+            <p>Bella figura che mi fa fare!</p>
+            <p>Maurizio</p>
+            <p>Ma la paghi, sai!</p>
+            <p rend="italic">Escono. Le loro voci si perdono</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">sporgendo cautamente la testa dal capanno vicino</p>
+            <p>Ah, che liberazione!...</p>
+            <p rend="italic">Apre del tutto la porta, e appare seguita da un giovine elegante</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Sei stato grande, Roberto!</p>
+            <p rend="center smallcaps">Roberto</p>
+            <p>Ho fatto quel che ho potuto... Fin che quel presuntuoso parlava ho voluto mettere in pratica la tua tesi, togliendo le viti all'asse del mio capanno per aprirti una via d'uscita fra le mie braccia!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">con grazia sorridente</p>
+            <p>C'è sempre un compare, tra le quinte!</p>
+            <p rend="center smallcaps">Roberto</p>
+            <p>Ma io non ti faccio sparire, Marina... Io no... Ti tengo così... stretta a me...</p>
+            <p rend="center smallcaps">Marina</p>
+            <p rend="italic">con abbandono</p>
+            <p>E per tutta la vita!</p>
+            <p>Roberto</p>
+            <p>Eccoli che tornano!... Rientra!</p>
+            <p rend="center smallcaps">Marina</p>
+            <p>Se ci scoprono?...</p>
+            <p>Roberto</p>
+            <p>Non è più possibile.</p>
+            <p>Marina</p>
+            <p>Perchè?</p>
+            <p>Roberto</p>
+            <p>Per loro sei sparita per sempre!</p>
+            <p rend="italic">Rientrano. Chiudono. Silenzio.</p>
+            <div type="div2" rend="P16">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: <hi rend="bold">C'è sempre un compare</hi>
+               </p>
+               <p>AUTORE: Adami, Giuseppe</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: </p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: n. d.</p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/online/opere/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: C'è sempre un compare / Adami Giuseppe. -  La lettura : Rivista mensile del Corriere della Sera (1931:A. 31, set., 1)</p>
+               <p>CODICE ISBN FONTE: n. d.</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 12 settembre 2017</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità standard</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>SOGGETTO:</p>
+               <p>PER015000 ARTI RAPPRESENTATIVE / Commedia</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Paolo Oliva, paulinduliva@yahoo.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/online/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

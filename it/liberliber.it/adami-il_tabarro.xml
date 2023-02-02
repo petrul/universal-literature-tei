@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>E-book campione Liber Liber</title>
+            <author>Giuseppe Adami</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-20T14:21:19.123902575</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Giuseppe Adami</author>
+         <p rend="color(#ff6633)bold">Il tabarro</p>
+         <p rend="center bold">GIUSEPPE ADAMI</p>
+         <div type="div1">
+            <head>Il tabarro</head>
+            <subtitle>(From "La Houppelande," by DIDIER GOLD)</subtitle>
+            <subtitle>PERSONAGGI</subtitle>
+            <p>MICHELE, padrone del barcone 50 anni</p>
+            <p>LUIGI, scaricatore 20 anni</p>
+            <p>IL "TINCA," scaricatore 35 anni</p>
+            <p>IL "TALPA," scaricatore 55 anni</p>
+            <p>GIORGETTA, moglie di Michele 25 anni</p>
+            <p>LA FRUGOLA, moglie del Talpa 50 anni</p>
+            <p rend="center">Scaricatori – Un venditore di canzonette – Midinettes.<lb/>Un suonatore d'organetto.<lb/>Due amanti</p>
+            <p rend="italic">Un angolo della Senna, dove è ancorato il barcone di Michele.</p>
+            <p rend="italic">La barca occupa quasi tutto il primo piano della scena ed è congiunta al molo con una passerella.</p>
+            <p rend="italic">La Senna si va perdendo lontana. Nel fondo il profilo della vecchia Parigi e principalmente la mole maestosa di Notre-Dame staccano sul cielo di un rosso meraviglioso.</p>
+            <p rend="italic">Sempre nel fondo, a destra, sono i caseggiati che fiancheggiano il lungo-Senna e in primo piano alti platani lussureggianti.</p>
+            <p rend="italic">Il barcone ha tutto il carattere delle consuete imbarcazioni da trasporti che navigano la Senna. Il timone campeggia in alto della cabina. E la cabina è tutta linda e ben dipinta con le sue finestrette verdi, il fumaiolo e il tetto piano, mod'altana, sul quale sono alcuni vasi di geranii. Su una corda sono distesi i panni ad asciugare. Sulla porta della cabina, la gabbia dei canarini.</p>
+            <p rend="italic">È il tramonto.</p>
+            <subtitle>IL TABARRO</subtitle>
+            <p rend="italic">Quando si apre il velario, Michele – il padrone del barcone – è seduto presso il timone, gli occhi fissi a contemplare il tramonto. La pipa gli pende dalle labbra, spenta.</p>
+            <p rend="italic">Dalla stiva al molo vanno e vengono gli scaricatori trasportando faticosamente i sacchi, e cantando questa loro canzone:</p>
+            <p rend="start">Oh! Issa! Oh!<lb/>Un giro ancor!<lb/>Se lavoriam senza ardore,<lb/>si resterà ad ormeggiare,<lb/>e Margot<lb/>con altri ne andrà.</p>
+            <p rend="italic">(Sulla Senna, di tratto in tratto, la sirena d'un rimorchiatore lancia il suo grido lugubre. Qualche cornetta d'automobile lontano.)</p>
+            <p rend="start">Oh! Issa! Oh!<lb/>Un giro ancor!<lb/>Non ti stancar, battelliere,<lb/>dopo potrai riposare,<lb/>e Margot<lb/>felice sarà!</p>
+            <p rend="start">Oh! Issa! Oh!<lb/>Un giro ancor!<lb/>Ora la stiva e vuotata,<lb/>chiusa è la lunga giornata,<lb/>e Margot<lb/>l'amor ti darà!....</p>
+            <p>(Giorgetta esce dalla cabina senza avvedersi di Michele. Accudisce alle sue faccende; ritira alcuni panni stesi ad asciugare; cava una secchia d'acqua dal fiume e innaffia i suoi fiori: ripulisce la gabbia dei canarini.</p>
+            <p>Finalmente si accorge che il suo uomo è laggiù, e facendo schermo con la mano agli occhi, tanto è vivo il riflesso del sole che tramonta, lo chiama:)</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">O Michele?.... Michele?.... Non sei stanco<lb/>d'abbacinarti al sole che tramonta?<lb/>Ti sembra un gran spettacolo?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Sicuro!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Lo vedo bene: dalla tua pipa<lb/>il fumo bianco non sbuffa più!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="end">(accennando agli scaricatori):</p>
+            <p rend="start">Han finito laggiù?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Vuoi che discenda?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">No. Resta, Andrò io stesso.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Han lavorato tanto!....<lb/>Come avevan promesso,<lb/>La stiva sarà sgombra, e per domani<lb/>si potrà caricare.<lb/>Bisognerebbe, ora, compensare<lb/>questa loro fatica; un buon bicchiere.</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Ma certo. Pensi a tutto, cuore d'oro!<lb/>Puoi portare da bere.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Sono alla fine: prenderanno forza.</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Il mio vinello smorza<lb/>la sete, e li ristora.<lb/>E a me, non hai pensato?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">A te? Che cosa?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="end">(cingendola con un braccio):</p>
+            <p rend="start">Al vino ho rinunciato,<lb/>ma, se la pipa è spenta,<lb/>non è spento il mio ardore....<lb/>Un tuo bacio, o mio amore....</p>
+            <p rend="italic">(La bacia; essa si scansa voltando il viso. Michele un po' contrariato s'avvia, verso la stiva e discende.)</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(passando dallo scalo al battello):</p>
+            <p rend="start">Si soffoca, padrona!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Lo pensavo.<lb/>Ma ho io quel che ci vuole.<lb/>Sentirete che vino!</p>
+            <p rend="italic">(Si avvia verso la cabina, dopo aver lanciata un'occhiata espressiva a Luigi.)</p>
+            <p rend="center smallcaps">Il Tinca</p>
+            <p rend="end">(salendo dalla stiva):</p>
+            <p rend="start">Sacchi dannati!....<lb/>Mondo birbone!....<lb/>Spicciati, Talpa!<lb/>Si va a mangiare!</p>
+            <p rend="center smallcaps">Il Talpa:</p>
+            <p rend="start">Non aver fretta! non mi seccare!<lb/>Ah! questo sacco spacca il groppone!</p>
+            <p rend="italic">(Scotendo la testa e tergendosi il sudore col rovescio della mano.)</p>
+            <p rend="start">Dio! che caldo! O Luigi,<lb/>ancora una passata.</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="italic">(indicando Giorgetta che reca la brocca del vino e i bicchieri):</p>
+            <p rend="start">Eccola la passata! Ragazzi, si beve!<lb/>Qui, tutti insieme,<lb/>lesti!</p>
+            <p rend="italic">(Tutti accorrono alla chiamata, facendosi intorno a Giorgetta che distribuisce bicchieri e versa mescendo.)</p>
+            <p rend="start">Ecco! Pronti!<lb/>Nel vino troverem<lb/>l'energia per finir!</p>
+            <p rend="end">(e beve.)</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(ridendo):</p>
+            <p rend="start">Come parla difficile! Ma certo:<lb/>vino alla compagnia!<lb/>Qua, Talpa!<lb/>Al Tinca! A voi! Prendete!</p>
+            <p rend="center smallcaps">Il Talpa:</p>
+            <p rend="start">Alla salute vostra il vino si beva!<lb/>S'alzi il bicchiere<lb/>lieti!<lb/>Tanta felicità<lb/>per la gioia che dà!</p>
+            <p rend="end">(e s'asciuga la bocca con il dorso dalla mano.)</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Se ne volete ancora!....</p>
+            <p rend="center smallcaps">Il Talpa:</p>
+            <p rend="start">Non si rifiuta mai!</p>
+            <p rend="end">(e porge ancora il bicchiere.)</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(agli altri):</p>
+            <p rend="start">Avanti coi bicchieri!</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="italic">(indicando un suonatore di organetto che passa sulla panchina):</p>
+            <p rend="start">Guarda là l'organetto!<lb/>È arrivato in buon punto.</p>
+            <p rend="center smallcaps">Il Tinca</p>
+            <p rend="end">(alzando il bicchiere):</p>
+            <p rend="start">In questo vino affogo i tristi pensieri.<lb/>Bevo al padrone!<lb/>Viva!</p>
+            <p rend="end">(Beve. Giorgetta torna a mescere.)</p>
+            <p rend="start">Grazie! Grazie!<lb/>L'unico mio piacer<lb/>sta qui in fondo al bicchier!</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(al suonatore):</p>
+            <p rend="start">Ei, là! Professore! Attacca!</p>
+            <p rend="end">(agli amici.)</p>
+            <p rend="start">Sentirete che artista!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Io capisco una musica sola:<lb/>quella che fa ballare.</p>
+            <p rend="center smallcaps">Il Tinca</p>
+            <p rend="end">(offrendosi):</p>
+            <p rend="start">Ma sicuro!<lb/>Ai suoi ordini sempre, e gamba buona!</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(ridendo):</p>
+            <p rend="start">To'! Vi prendo in parola.</p>
+            <p rend="center smallcaps">Il Tinca</p>
+            <p rend="end">(lusingatissimo):</p>
+            <p rend="start">Ballo con la padrona!</p>
+            <p rend="italic">(Si ride. Ma si ride anche di più perchè il Tinca non riesce a prendere il passo e a mettersi d'accordo con Giorgetta.)</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">La musica e la danza van d'accordo.</p>
+            <p rend="end">(al Tinca):</p>
+            <p rend="start">Sembra che tu pulisca il pavimento!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Ahi! mi hai pestato un piede!</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(allontanando il Tinca con una spinta e sostituendolo):</p>
+            <p rend="start">Va! Lascia! Son qua io!</p>
+            <p rend="italic">(E serra Giorgetta fra le braccia. Essa s'abbandona languidamente. La danza continua mentre dalla stiva appare Michele.)</p>
+            <p>Il Talpa</p>
+            <p>(con rapida mossa):</p>
+            <p>Ragazzi, c'è il padrone!</p>
+            <p rend="italic">(Luigi e Giorgetta si staccano. Luigi getta qualche moneta al suonatore, poi assieme agli altri s'avvia verso la stiva, mentre Michele procede verso Giorgetta.)</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="italic">(dopo essersi ricomposta e ravviati i capelli, s'avvicina a Michele, con stentata naturalezza):</p>
+            <p rend="start">Dunque, che cosa credi? Partiremo<lb/>la settimana prossima?</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(vagamente):</p>
+            <p rend="start">Vedremo.</p>
+            <p rend="end">(da lontano il sibilo d'una sirena.)</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Il Talpa e il Tinca restano?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p>Resterà anche Luigi.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Ieri non lo pensavi.</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Ed oggi, penso.</p>
+            <p rend="center smallcaps">Un Venditore Di Canzonette</p>
+            <p rend="end">(lontano):</p>
+            <p rend="start">Chi la vuole l'ultima canzonetta?...<lb/>Chi la vuole?....</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(avvicinandosi):</p>
+            <p rend="start">Perchè?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Perchè non voglio<lb/>ch'egli crepi di fame.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Quello s'arrangia sempre.</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Lo so: s'arrangia, è vero. Ed è per questo<lb/>che non conclude nulla.</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(seccata):</p>
+            <p rend="start">Con te non si sa mai<lb/>chi fa male o fa bene!</p>
+            <p>Michele</p>
+            <p>(semplicemente):</p>
+            <p rend="start">Chi lavora si tiene.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Già discende la sera....<lb/>Oh che rosso tramonto di settembre!<lb/>Che brivido d'autunno!</p>
+            <p rend="center smallcaps">Il Venditore</p>
+            <p rend="end">(più vicino):</p>
+            <p rend="start">Con musica e parole, chi la vuole?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Non sembra un grosso arancio questo sole <lb/>che muore nella Senna?</p>
+            <p rend="end">(indicando al di là della Senna.)</p>
+            <p rend="start">Guarda laggiù la Frugola! La vedi?<lb/>Cerca di suo marito. Non lo lascia!....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">È giusto. Beve troppo!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Non lo sai ch'è gelosa?</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(non risponde.)</p>
+            <p rend="italic">(Nel frattempo il cantastorie è apparso sulla strada, al di là della Senna, seguito da un gruppo di midinettes che escono da una casa di mode e che si fermano ad ascoltarlo.)</p>
+            <p rend="center smallcaps">Il Venditore Di Canzonette:</p>
+            <p rend="start">Chi vuole la canzone?</p>
+            <p rend="center smallcaps">Le Midinettes:</p>
+            <p rend="start">Bene! bene! sì! sì!</p>
+            <p rend="center smallcaps">Il Venditore</p>
+            <p rend="start">"Primavera, primavera,<lb/>non cercare più i due amanti<lb/>là fra l'ombre della sera.<lb/>Chi ha vissuto per amore<lb/>per amore si morì....<lb/>È la storia di Mimi...."</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(che ha sempre scrutato Michele):</p>
+            <p rend="start">O mio uomo, non sei di buon umore!<lb/>Perchè? Che hai?.... Che guardi?. . . . E perchè taci?....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">T'ho mai fatto scenate?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Lo so bene:</p>
+            <p rend="start">tu non mi batti!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Forse lo vorresti?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Ai silenzi talvolta, sì, preferirei<lb/>lividi di percosse!</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(senza rispondere risale il barcone.)</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(seguendolo con insistenza.)</p>
+            <p rend="start">Dimmi almeno che hai!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Ma nulla! Nulla!</p>
+            <p rend="center smallcaps">Il Venditore:</p>
+            <p rend="start">"Chi aspettando sa che muore<lb/>conta ad ore le giornate<lb/>con i battiti del cuore.<lb/>Ma l'amante non tornò,<lb/>e i suoi battiti finì<lb/>anche il cuore di Mimi!"</p>
+            <p rend="italic">(Il cantore si allontana. Le ragazze, leggendo le parole sui foglietti comperati, sciamano ripetendo la strofa. Le loro voci si perdono.)</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Quando siamo a Parigi<lb/>io mi sento felice.</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Si capisce.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Perchè?</p>
+            <p rend="italic">(La Frugola è apparsa sul molo; attraversa la passerella e sale sul barcone. È una figura cenciosa e caratteristica. Ha sulle spalle una vecchia sacca gonfia di ogni sorta di roba raccattata.)</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Eterni innamorati, buona sera.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">O buonasera, Frugola!</p>
+            <p rend="italic">(Michele, dopo di avere salutato con un gesto la Frugola, entra nella cabina.)</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">II mio uomo<lb/>ha finito il lavoro? Stamattina<lb/>non ne poteva più dal mal di reni.<lb/>Faceva proprio pena.<lb/>Ma l'ho curato io: una buona frizione<lb/>e il mio rum l'ha bevuto la sua schiena!</p>
+            <p rend="italic">(ride rumorosamente, poi getta a terra la sacca e vi fruga dentro con voluttà cavandone vari oggetti.)</p>
+            <p rend="start">Giorgetta, guarda: pettine fiammante!<lb/>Se lo vuoi, te lo dono.<lb/>È quanto di più buono<lb/>ho raccolto in giornata.</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(prendendo il pettine):</p>
+            <p rend="start">Hanno ragione di chiamarti Frugola:<lb/>tu rovisti ogni angolo ed hai la sacca piena.</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Qui dentro è un po' di tutto!</p>
+            <p rend="end">(mostrando di mano in mano le cose che nomina.)</p>
+            <p rend="start">Se tu sapessi – gli oggetti strani<lb/>che in questa sacca – sono racchiusi!....<lb/>Ciuffi di piume – velluti e trine,<lb/>stracci, barattoli – vecchie scarpine.<lb/>Vi son confusi – strane reliquie,<lb/>i documenti – di mille amori.<lb/>Gioie e tormenti – quivi raccolgo<lb/>senza distinguere – fra il ricco e il volgo!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">E in quel cartoccio?</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Qui c'è una cena!</p>
+            <p rend="end">(e ridendo dello stupore di Giorgetta, spiega):</p>
+            <p rend="start">Cuore di manzo per <hi rend="italic">Caporale</hi>,<lb/>il mio Soriano<lb/>dal pelo fulvo,<lb/>da l'occhio strano,<lb/>che non ha uguale!</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(ridendo):</p>
+            <p rend="start">Gode di privilegi il tuo soriano!</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Li merita! Vedessi!<lb/>È il piu bel gatto e il mio più bel romanzo<lb/>Quando il mio Talpa è fuori,<lb/>il Soriano mi tiene compagnia.<lb/>Insieme noi filiamo i nostri amori<lb/>senza puntigli e senza gelosia.<lb/>Vuoi saperla la sua filosofia?<lb/>Ron ron: meglio padrone<lb/>in una catapecchia<lb/>che servo in un palazzo.<lb/>Ron ron: meglio cibarsi<lb/>con due fette di cuore<lb/>che logorare il proprio nell'amore!</p>
+            <p rend="end">(Il Talpa appare dalla stiva, seguito da Luigi.)</p>
+            <p rend="center smallcaps">Il Talpa:</p>
+            <p rend="start">To'! guarda la mia vecchia! Che narravi?</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Parlavo con Giorgetta del soriano.</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(uscendo dalla cabina, si avvicina a Luigi):</p>
+            <p rend="start">O Luigi, domani<lb/>si carica del ferro.<lb/>Vieni a darci una mano?</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Verrò, padrone.</p>
+            <p rend="center smallcaps">Il Tinca</p>
+            <p rend="italic">(venendo dalla stiva seguito dagli altri scaricatori che se ne vanno pel molo dopo di avere salutato Michele):</p>
+            <p rend="start">Buona notte a tutti.</p>
+            <p rend="center smallcaps">Il Talpa:</p>
+            <p rend="start">Hai tanta fretta?</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Corri già a ubbriacarti?<lb/>Ah! se fossi tua moglie!</p>
+            <p rend="center smallcaps">Il Tinca:</p>
+            <p rend="start">Che fareste?</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Ti pesterei finche non la smettessi<lb/>di passare le notti all'osteria.<lb/>Non ti vergogni?</p>
+            <p rend="center smallcaps">Il Tinca:</p>
+            <p rend="start">No. Fa bene il vino!<lb/>S'affogano i pensieri di rivolta:<lb/>chè se bevo non penso,<lb/>e se penso non rido!</p>
+            <p rend="end">(Michele discende nella stiva.)</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="start">Hai ben ragione; meglio non pensare,<lb/>piegare il capo ed incurvar la schiena.<lb/>Per noi la vita non ha più valore<lb/>ed ogni gioia si converte in pena.<lb/>I sacchi in groppa e giù la testa a terra.<lb/>Se guardi in alto, bada alla frustata.</p>
+            <p rend="end">(con amarezza):</p>
+            <p rend="start">Il pane lo guadagni col sudore,<lb/>e l'ora dell'amore va rubata....<lb/>Va rubata fra spasimi e paure<lb/>che offuscano l'ebbrezza più divina.<lb/>Tutto è conteso, tutto ci è rapito....<lb/>la giornata e già buia alla mattina.<lb/>Hai ben ragione: meglio non pensare.</p>
+            <p rend="center smallcaps">Il Tinca:</p>
+            <p rend="start">Segui il mio esempio: bevi.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Basta!</p>
+            <p rend="center smallcaps">Il Tinca:</p>
+            <p rend="start">Non parlo più!<lb/>A domani, ragazzi, e state bene!</p>
+            <p rend="end">(s'incammina e scompare su per il molo.)</p>
+            <p rend="center smallcaps">Il Talpa</p>
+            <p rend="end">(alla Frugola):</p>
+            <p rend="start">Ce ne andiamo anche noi? Son stanco morto.</p>
+            <p rend="center smallcaps">La Frugola</p>
+            <p rend="end">(stancamente):</p>
+            <p rend="start">Ah! quando mai potremo<lb/>comprarci una bicocca?<lb/>Là ci riposeremo.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">È la tua fissazione la campagna!</p>
+            <p rend="center smallcaps">La Frugola</p>
+            <p rend="end">(cantilenando):</p>
+            <p rend="start">Ho sognato una casetta<lb/>con un piccolo orticello.<lb/>Quattro muri, stretta stretta,<lb/>e due pini per ombrello.<lb/>Il mio vecchio steso al sole,<lb/>ai miei piedi <hi rend="italic">Caporale</hi>,<lb/>e aspettar così la morte<lb/>ch'è il rimedio d'ogni male!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="end">(vivamente):</p>
+            <p rend="start">È ben altro il mio sogno!<lb/>Son nata nel sobborgo e solo l'aria<lb/>di Parigi m'esalta e mi nutrisce!<lb/>Oh! se Michele, un giorno, abbandonasse<lb/>questa logora vita vagabonda!<lb/>Non si vive là dentro, fra il letto ed il fornello!<lb/>Tu avessi visto la mia stanza, un tempo!</p>
+            <p rend="center smallcaps">La Frugola:</p>
+            <p rend="start">Dove abitavi?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Non lo sai?</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(avanzando d'improvviso):</p>
+            <p rend="start">Belleville!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Luigi lo conosce!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Anch'io ci sono nato!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Come me, l'ha nel sangue!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Non ci si può staccare!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Bisogna aver provato!</p>
+            <p rend="end">(con crescente entusiasmo)</p>
+            <p rend="start">Belleville è il nostro suolo e il nostro mondo!<lb/>Noi non possiamo vivere sull'acqua!<lb/>Bisogna calpestare il marciapiede!....<lb/>La c'è una casa, là ci sono amici,<lb/>festosi incontri, piene confidenze....</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Ci si conosce tutti! S'è tutti una famiglia!</p>
+            <p>Giorgetta</p>
+            <p>(continuando):</p>
+            <p rend="start">Al mattino, il lavoro che ci aspetta.<lb/>Alla sera i ritorni in comitiva....<lb/>Botteghe che s'accendono<lb/>di luci e di lusinghe....<lb/>vetture che s'incrociano,<lb/>domeniche chiassose,<lb/>piccole gite in due<lb/>al Bosco di Boulogne!<lb/>Balli all'aperto<lb/>e intimità amorose!?....<lb/>È difficile dire cosa sia<lb/>quest'ansia, questa strana nostalgia....</p>
+            <p rend="center smallcaps">Luigi <hi rend="italic">e</hi> Giorgetta</p>
+            <p rend="end">(con esaltazione):</p>
+            <p rend="start">Ma chi lascia il sobborgo vuol tornare,<lb/>e chi ritorna non si può staccare.<lb/>C'è là in fondo Parigi che ci grida<lb/>con mille voci il fascino immortale!....</p>
+            <p rend="italic">(I due amanti restano per un attimo assorti, la mano nella mano, come se lo stesso pensiero e la stessa anima li trascinasse. Poi, riprendono instantaneamente la coscienza che gli altri li guardano, e si staccano.)</p>
+            <p rend="center smallcaps">La Frugola</p>
+            <p rend="end">(dopo un breve silenzio):</p>
+            <p rend="start">Adesso ti capisco: qui la vita e diversa....</p>
+            <p>Il Talpa</p>
+            <p rend="end">(che s'è poco interessato dello sfogo di Giorgetta):</p>
+            <p rend="start">Se s'andasse a mangiare?....</p>
+            <p rend="end">(a Luigi):</p>
+            <p rend="start">Che ne dici?</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Io resto: ho da parlare col padrone.</p>
+            <p rend="center smallcaps">Il Talpa:</p>
+            <p rend="start">Quand'è così, a domani.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Miei vecchi, buona notte!</p>
+            <p rend="italic">(Il Talpa e la Frugola s'incamminano canterellando: "Ho sognata una casetta".... Le loro voci si perdono.)</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(sommessa, ma con ardore):</p>
+            <p rend="start">O Luigi! Luigi!</p>
+            <p rend="italic">(e come Luigi fa l'atto di avvicinarsi, essa con un gesto lo ferma.)</p>
+            <p rend="start">Bada a te! Può salir fra un momento!<lb/>Resta pur là, lontano!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Perchè dunque inasprisci il tormento?<lb/>Perchè mi chiami invano?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Vibro tutta se penso a iersera,<lb/>all'ardor dei tuoi baci!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">In quei baci tu sai cosa c'era....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Sì, mio amore Ma taci!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Quale folle paura ti prende?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Se ci scopre, è la morte!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Preferisco morire, alla sorte<lb/>che ti tiene legata!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Ah! se fossimo soli, lontani....</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">E sempre uniti!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">E sempre innamorati!<lb/>Dimmi che non mi manchi!....</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Mai!</p>
+            <p rend="end">(e fa l'atto di correre a lei.)</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(bruscamente):</p>
+            <p rend="justify">Sta attento!</p>
+            <p rend="end">(Infatti Michele risale dalla stiva.)</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(a Luigi):</p>
+            <p rend="start">Come? Non sei andato?....</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Padrone, v'ho aspettato,<lb/>perchè volevo dirvi<lb/>quattro sole parole:<lb/>intanto ringraziarvi<lb/>per avermi tenuto....<lb/>Poi volevo pregarvi,<lb/>se lo potete fare,<lb/>di portarmi a Rouen<lb/>e là farmi sbarcare....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">A Rouen? Ma sei matto?<lb/>Là non c'è che miseria:<lb/>ti troveresti peggio.</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Sta bene. Allora resto.</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(senza rispondere s'avvia verso la cabina.)</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(a Michele):</p>
+            <p rend="start">E adesso dove vai?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">A preparare i lumi.</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Buona notte, padrone....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Buona notte.</p>
+            <p rend="end">(entra nella cabina.)</p>
+            <p rend="italic">(Luigi è quasi presso la passerella. Giorgetta lo raggiunge rapidamente – Il dialogo che segue è rapido, concitato, sommesso, ma pieno di intensità amorosa.)</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Dimmi: perche gli hai chiesto<lb/>di sbarcarti a Rouen?</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Perchè non posso<lb/>dividerti con lui!....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Hai ragione: è un tormento....<lb/>Anch'io ne sono presa, anch'io la sento<lb/>ben più forte di te questa catena!....<lb/>È un'angoscia, è una pena,<lb/>ma quando tu mi prendi,<lb/>è più grande il compenso!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Par di rubare insieme qualche cosa alla vita!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">La voluttà e più intensa!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">È la gioia rapita<lb/>fra spasimi e paure....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">In una stretta ansiosa</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Fra grida soffocate....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">E parole sommesse</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">E baci senza fine!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Giuramenti, promesse....</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">D'essere soli noi....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Noi, soli, via, lontani!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Noi tutti soli, lontani dal mondo!....</p>
+            <p rend="end">(poi sussultando come se avesse sentito dei passi)</p>
+            <p rend="start">È lui?....</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(rassicurandolo):</p>
+            <p rend="start">No.... non ancora....</p>
+            <p rend="end">(con ardore):</p>
+            <p rend="start">Dimmi che tornerai<lb/>più tardi....</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Sì.... fra un'ora....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Ascolta: come ieri<lb/>lascerò la passerella....<lb/>Sono io che la tolgo....<lb/>Hai le scarpe di corda?</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(alzando il piede):</p>
+            <p rend="start">Sì....<lb/>Fai lo stesso segnale?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Sì.... il fiammifero acceso!....<lb/>Come tremava sul mio braccio teso<lb/>la piccola fiammella!<lb/>Mi pareva d'accendere una stella,<lb/>fiamma del nostro amore,<lb/>Stella senza tramonto!....</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Io voglio la tua bocca,<lb/>voglio le tue carezze!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Dunque anche tu lo senti<lb/>il folle desiderio!....</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(con grande intensità):</p>
+            <p rend="start">Folle di gelosia!<lb/>Vorrei tenerti stretta<lb/>come una cosa mia!<lb/>Vorrei non più soffrire<lb/>che un altro ti toccasse,<lb/>e per sottrarre a tutti<lb/>il corpo tuo divino,<lb/>te lo giuro, non tremo<lb/>a vibrare il coltello<lb/>e con gocce di sangue<lb/>fabbricarti un gioiello!</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="italic">(con improvviso scatto lo spinge via. Poi, sola risalendo lentamente e passandosi una mano sulla fronte):</p>
+            <p rend="start">Come è difficile esser felici!....</p>
+            <p rend="italic">(Ora l'oscurità è completa. Michele, recando i fanali accesi, viene dalla cabina.)</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Perche non vai a letto?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">E tu?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">No.... Non ancora....</p>
+            <p rend="end">(Un silenzio. – Michele ha collocato i fanali sul barcone.)</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Penso che hai fatto bene a trattenerlo.</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Chi mai?</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(semplicemente):</p>
+            <p rend="start">Luigi.</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Forse ho fatto male.<lb/>Basteranno due uomini: non c'è molto lavoro.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Il Tinca lo potresti licenziare....<lb/>beve sempre....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">S'ubriaca<lb/>per calmare i suoi dolori....<lb/>Ha per moglie una bagascia....<lb/>Beve per non ucciderla....</p>
+            <p rend="end">(Giorgetta non risponde. Ma appare turbata e nervosa.)</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Che hai?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Son tutte queste storie....<lb/>A me non interessano....</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="italic">(improvvisamente avvicinandosi a lei con angoscia e con commozione):</p>
+            <p rend="start">Perchè non m'ami piu?.... Perchè non m'ami?....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Ti sbagli.... T'amo.... Tu sei buono, onesto....</p>
+            <p rend="end">(poi, per troncare):</p>
+            <p rend="start">Ora andiamo a dormire....</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(fissandola):</p>
+            <p rend="start">Tu non dormi!....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Lo sai perchè non dormo....<lb/>E poi.... là dentro soffoco.... Non posso!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Ora le notti sono tanto fresche<lb/>E l'anno scorso là in quel nero guscio<lb/>eravamo pur tre.... c'era il lettuccio<lb/>del nostro bimbo....</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(sconvolta):</p>
+            <p rend="start">Il nostro bimbo!.... Taci!....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="end">(insistendo, commosso):</p>
+            <p rend="start">Tu sporgevi la mano, e lo cullavi<lb/>dolcemente,<lb/>lentamente!....<lb/>e poi sul braccio mio t'addormentavi....</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(c. s.):</p>
+            <p rend="start">Ti supplico, Michele: non dir niente....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="end">(c. s.):</p>
+            <p rend="start">Erano sere come queste....<lb/>Se spirava la brezza,<lb/>vi raccoglievo insieme nel tabarro,<lb/>come in una carezza....<lb/>Sento sulle mie spalle<lb/>le vostre teste bionde....<lb/>Sento le vostre bocche<lb/>vicino alla mia bocca....<lb/>Ero tanto felice!....<lb/>Ora che non c'è più,<lb/>i miei capelli grigi<lb/>mi sembrano un insulto<lb/>alla tua gioventù!</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">No.... calmati, Michele.... Sono stanca....<lb/>Non reggo.... Vieni....</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(aspro):</p>
+            <p rend="start">Ma non puoi dormire!<lb/>Sai pure che non devi addormentarti!</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(atterrita):</p>
+            <p rend="start">Perche mi dici questo?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Non so bene....<lb/>Ma so che è molto tempo che non dormi!</p>
+            <p rend="italic">(Poi ancora dominandosi e cercando di attirare Giorgetta fra le sue braccia):</p>
+            <p rend="start">Resta vicino a me!.... Non ti ricordi<lb/>altre notti, altri cieli ed altre lune?....<lb/>Perchè chiudi il tuo cuore?<lb/>Rammentati le ore<lb/>che volavano via su questa barca<lb/>trascinate dall'onda!....</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Meglio non ricordare....<lb/>Oggi è malinconia....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Ritorna come allora....<lb/>ritorna ancora mia!<lb/>quando anche tu m'amavi<lb/>ardentemente,<lb/>e mi cercavi,<lb/>e mi baciavi,<lb/>ed i primi chiarori del mattino<lb/>risvegliavan due corpi ancora stretti<lb/>nell'amplesso divino!<lb/>Resta vicino a me! La notte e bella!....</p>
+            <p>Giorgetta:</p>
+            <p>Che vuoi! S'invecchia! Non son più la stessa.<lb/>Tu pure sei cambiato.... Diffidi.... Ma che credi?</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Non so nemmeno io!</p>
+            <p>Giorgetta</p>
+            <p rend="end">(per tagliar corto):</p>
+            <p rend="start">Buona notte, Michele.... Ho tanto sonno....</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(con un sospiro):</p>
+            <p rend="start">E allor va pure.... Ti raggiungo....</p>
+            <p>Giorgetta:</p>
+            <p rend="start">Buona notte!</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="italic">(cerca di baciarla, ma Giorgetta si schermisce e s'avvia. Michele, guardandola allontanarsi, mormora cupamente):</p>
+            <p rend="start">Sgualdrina!</p>
+            <p rend="end">(Sulla strada due ombre d'amanti passano):</p>
+            <p rend="start">— Bocca di rosa fresca....<lb/>— E baci di rugiada....<lb/>— O labbra profumate....<lb/>— O profumata sera....<lb/>— C'è la luna che illumina la strada....<lb/>— La luna che ci spia....<lb/>— A domani, mio amore....<lb/>— Domani, amante mia!....</p>
+            <p rend="end">(Da una caserma suona il silenzio.)</p>
+            <p rend="italic">(Michele ha preso il suo tabarro, se n'è avvolte le spalle, e, appoggiato al timone del barcone, contempla fissamente la Senna che scorre silenziosamente.)</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p>Scorri, fiume eterno! Scorri!<lb/>Come il tuo mistero è fondo!<lb/>Ah! l'ansia che mi strugge non ha fine!<lb/>Passa, fiume eterno; passa!<lb/>E me pure travolgi!<lb/>Quante son le rovine<lb/>che calmò la tua onda?<lb/>Tu della miseria<lb/>hai segnata la fine!....</p>
+            <p>E sempre calmo passi, e non ti ferma<lb/>dolore nè paura nè tormento<lb/>nè volgere di anni!<lb/>Continui la tua corsa,<lb/>continui il tuo lamento!....</p>
+            <p>Sono i lamenti, forse, dei tuoi morti?<lb/>Di migliaia di morti che portasti<lb/>l'un dopo l'altro verso il gran destino<lb/>sulle tue braccia lugubri ma forti?</p>
+            <p>Sono i dolori che tu soffocasti<lb/>chiudendo l'urlo estremo in un gorgoglio?<lb/>Acqua misteriosa e cupa,<lb/>passa sul mio triste cuore!<lb/>Lava via la pena e il mio dolore,<lb/>fa pur tua la mia sorte!....<lb/>E se non puoi la pace,<lb/>allor dammi la morte!</p>
+            <p rend="italic">(S'accascia sfibrato. Macchinalmente leva di tasca la pipa e l'accende. Alla luce del fiammifero Luigi cautamente attraversa la passerella e balza sul barcone. Michele vede l'ombra, sussulta, si mette in agguato, riconosce Luigi e di colpo si precipita afferrandolo per la gola.)</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">T'ho colto!</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(dibattendosi):</p>
+            <p rend="start">Sangue di Dio! Son preso!</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(con voce roca e sommessa):</p>
+            <p rend="start">Non gridare!<lb/>Che venivi a cercare?<lb/>Volevi la tua amante?</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Non è vero!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Mentisci! Confessa! La tua amante!</p>
+            <p rend="center smallcaps">Luigi</p>
+            <p rend="end">(tentando di levare il coltello):</p>
+            <p rend="start">Ah! perdio!</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(serrandogli il braccio):</p>
+            <p rend="start">Giù il coltello!<lb/>Non mi sfuggi, canaglia!<lb/>Anima di forzato!.... Verme!<lb/>Volevi andar giù, a Rouen, non è vero?<lb/>Morto ci andrai! Nel fiume!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Assassino! Assassino!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Confessami che l'ami!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Lasciami!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">No! Confessa!<lb/>Infame! Infame!.... Infami!<lb/>Se confessi, ti lascio!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Sì....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Ripeti!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">Sì. L'amo!</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Ripeti!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="start">L'amo!</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(stringendolo furiosamente):</p>
+            <p rend="start">Ancora!</p>
+            <p rend="center smallcaps">Luigi:</p>
+            <p rend="end">(rantolando):</p>
+            <p rend="start">L'amo.... Ah!</p>
+            <p rend="end">(e resta aggrappato a Michele in una contorsione di morte.)</p>
+            <p rend="italic">(Dall'interno della cabina la voce di Giorgetta chiama: "Michele?..." Un silenzio. Michele sente, e rapidissimo siede e ravvolge il tabarro sopra il cadavere aggrappato a lui.)</p>
+            <p rend="italic">(Giorgetta appare sulla porta, indagando con lo sguardo smarrito.)</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(a mezza voce):</p>
+            <p rend="start">Ho paura, Michele....</p>
+            <p rend="italic">(poi, vedendo il marito seduto e calmo, rassicurata, soggiunge):</p>
+            <p rend="start">No.... Ho avuto paura....</p>
+            <p rend="italic">(S'avvicina lentamente a Michele, sempre guardando intorno con ansia.)</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(calmissimo):</p>
+            <p rend="start">Avevo ben ragione: non dovevi dormire....</p>
+            <p rend="center smallcaps">Giorgetta</p>
+            <p rend="end">(con sottomissione):</p>
+            <p rend="start">Son presa dal rimorso<lb/>d'averti dato pena....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Non è nulla.... i tuoi nervi.</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Ecco.... è questo.... hai ragione....<lb/>Dimmi che mi perdoni....</p>
+            <p rend="end">(insinuante):</p>
+            <p rend="start">Non mi vuoi più vicina?....</p>
+            <p rend="center smallcaps">Michele:</p>
+            <p rend="start">Dove?.... Nel mio tabarro?</p>
+            <p rend="center smallcaps">Giorgetta:</p>
+            <p rend="start">Sì.... vicina.... vicina....</p>
+            <p rend="end">(con voce tremante):</p>
+            <p rend="start">Sì.... mi dicevi un tempo:<lb/>"Tutti quanti portiamo<lb/>un tabarro che asconde<lb/>qualche volta una gioia,<lb/>qualche volta un dolore"</p>
+            <p rend="center smallcaps">Michele</p>
+            <p rend="end">(selvaggiamente):</p>
+            <p rend="start">Ma talvolta un delitto!<lb/>Vieni nel mio tabarro!.... Vieni!.... Vieni!....</p>
+            <p rend="italic">(Si erge terribile, apre il tabarro; il cadavere di Luigi rotola ai piedi di Giorgetta che lancia un grido terribile e indietreggia con orrore. Ma Michele le è sopra, l'afferra, e la trascina, e la piega violentemente contro il volto dell'amante morto.)</p>
+            <p rend="center">(VELARIO)</p>
+            <div type="div2" rend="P17">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: <hi rend="bold">Il tabarro</hi>
+               </p>
+               <p>AUTORE: Adami, Giuseppe</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: </p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: n. d.</p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/online/opere/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: Il tabarro : da "La Houppelande" di Didier Gold / libretto di Giuseppe Adami. - Milano etc. : G. Ricordi &amp; C., c1918. - 35 p. ; 20 cm.</p>
+               <p>CODICE ISBN FONTE: n. d.</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 5 luglio 2017</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità standard</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>SOGGETTO:</p>
+               <p>ADAMI PER011030 ARTI RAPPRESENTATIVE / Teatro / Drammaturgia</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center">
+                  <ptr target="http://www.liberliber.it/online/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

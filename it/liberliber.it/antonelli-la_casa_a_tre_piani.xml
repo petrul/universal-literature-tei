@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La casa a tre piani</title>
+            <author>Luigi Antonelli</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:02.19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-12-28T17:00:41.794608573</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                                   
+      <body>
+         <author>Luigi Antonelli</author>
+         <head>La casa a tre piani</head>
+         <p rend="center">LUIGI ANTONELLI</p>
+         <p rend="center">La casa a tre piani</p>
+         <p rend="center">Commedia in tre atti</p>
+         <p rend="center">I diavoli nella foresta</p>
+         <p rend="center">Favola in un atto</p>
+         <p rend="center smallcaps">Società Editrice «Sapientia»</p>
+         <p rend="center smallcaps">Piazza Mignanelli, 3</p>
+         <p rend="center">— ROMA —</p>
+         <div type="div1" rend="P64">
+            <head>
+               <hi rend="bold">La casa a tre piani</hi>
+            </head>
+            <subtitle>(Commedia in tre atti)</subtitle>
+            <p>
+               <hi rend="italic">Questa commedia fu rappresentata per la prima volta in Italia al teatro </hi>Olimpia<hi rend="italic">  di Milano la sera del 16 settembre 1924 dalla Compagnia diretta da Emma Gramatica.</hi>
+            </p>
+            <div type="div2">
+               <head>Personaggi</head>
+               <p>LA FANCIULLA DEL TERZO PIANO         Emma Gramatica</p>
+               <p>IL DOTTORE         Camillo Pilotto</p>
+               <p>LA MOGLIE DEL DOTTORE         T. Malatesta</p>
+               <p>LA NONNA         A. Raspantini</p>
+               <p>L'AVVOCATO         C. Simoneschi</p>
+               <p>LA COCOTTINA         N. M. Bonora</p>
+               <p>IL VIVEUR         C. Lombardi</p>
+               <p>IL CINICO         A. Donnini</p>
+               <p rend="start">L'UOMO CHE AVREBBE GIÀ DOVUTO MORIRE         A. Pettinelli</p>
+               <p>IL MANIACO         E. Polloni</p>
+               <p>L'UOMO SQUALLIDO         G. Sorelli</p>
+               <p>L'USURAIO         C. Romano</p>
+               <p>IL PADRE DEL DOTTORE         V. Greti</p>
+               <p>LO STUDENTE         C. Bettarini</p>
+               <p>LA STUDENTESSA         P. Bianchi</p>
+               <p>LA BEGHINA         M. Pelagatti</p>
+               <p>LA SIGNORINA PER BENE         G. Vieri</p>
+               <p>LA MADRE DELLA SIGNORINA PERBENE         M. Tei</p>
+               <p>LA MADRE DELLA COCOTTINA         B. Fortuna</p>
+               <p>LA MADRE DELLA PRIMA BAMBINA         D. Romano</p>
+               <p>LA MADRE DELLA SECONDA BAMBINA         N. Vespignani</p>
+               <p>PRIMA BAMBINA         I. Martini</p>
+               <p>SECONDA BAMBINA         G. Vespignani</p>
+               <p>LA CAMERIERA DEL SECONDO PIANO         B. Martini</p>
+            </div>
+            <div type="div2">
+               <head>Atto primo</head>
+               <p rend="italic">Una vasta camera da pranzo, nel primo piano della casa. Tavola imbandita. Si è alla fine del pranzo. Chi fuma, chi prende il caffè. Sono tutti a sedere. Degli inquilini della casa manca la sola Fanciulla del terzo piano.</p>
+               <p>
+                  <hi rend="italic">La</hi> Nonna <hi rend="italic">ha il posto d'onore, essendo la più anziana. Ella ha quasi l'età della casa di cui si celebra il centenario. È sorda e muta, ma ha gli occhi espressivi, vivacissimi con i quali ha l'aria di sopperire alla sua duplice infermità. Cammina a stento reggendosi col bastone. Ma ora ella è pacificamente seduta, e prova un visibile piacere a essere servita dal</hi> Dottore <hi rend="italic">che è alla sua destra e dal </hi>Padre del Dottore <hi rend="italic">che è alla sua sinistra.</hi>
+               </p>
+               <p rend="italic">Una porta a dritta, un'altra a manca. La comune è in mezzo.</p>
+               <p rend="italic">Da una finestra, che è aperta sulla parete sinistra, si respira l'aria di una serata estiva.</p>
+               <p>
+                  <hi rend="italic">La</hi> Cameriera, <hi rend="italic">durante l'atto, va e viene recando bottiglie, porgendo i vassoi delle frutta, silenziosamente; e solo sta ferma nei momenti in cui l'attenzione della scena è più sensibile.</hi>
+               </p>
+               <div type="div3" rend="P67">
+                  <head>SCENA PRIMA</head>
+                  <p rend="italic">(tutti insieme parlano tra il tintinnio dei bicchieri e l'acciottolio delle stoviglie)</p>
+                  <p>LA PRIMA BAMBINA e LA SECONDA BAMBINA</p>
+                  <p rend="italic">(sono in piedi presso le rispettive mamme, e sbocconcellano qualche frutto)</p>
+                  <p>l'avvocato</p>
+                  <p rend="italic">(si alza. Silenzio generale)</p>
+                  <p>Signori!</p>
+                  <p>PARECCHIE VOCI</p>
+                  <p>Silenzio!</p>
+                  <p>l'avvocato</p>
+                  <p>Signori! È con una certa trepidazione che io prendo la parola!...</p>
+                  <p rend="italic">(la <hi rend="smallcaps">prima bambina</hi> si mette a piangere. La <hi rend="smallcaps">madre</hi> la prende in braccio. Tutti fanno segno di zittire)</p>
+                  <p rend="justify">...La nostra riunione di questa sera è insolita. Ci troviamo uniti insieme, gli inquilini dei tre piani di questa casa, e non festeggiamo nè un onomastico, nè un'onorificenza, nè un battesimo. Noi festeggiamo, o signori, la casa! Questa generosa e comoda casa che ci ospita, di cui oggi ricorre il centenario. Cento anni fa, il mio beneamato e compianto pro-zio gettò la prima pietra dell'edificio e volle fermarne la data facendola scolpire sull'architrave del portone. Dopo averla fatta costruire, i nostri padri se la divisero, e parecchie famiglie — le nostre — l'abitarono fino ad oggi. Non sto a rifarvi la storia della casa perchè dovrei fare la vostra storia di famiglia, che tutti conoscete a memoria... Mi basterà ricordare che essa, in cento anni, non ha mutato gran che della sua faccia, e nemmeno della sua struttura interna. Di questo le siamo grati perchè vuol dire che nacque solida e massiccia ed è piaciuta a tutti i suoi figli che vi ospitarono la loro malinconia e la loro allegrezza. Così la casa, non mai restaurata, conservò i segni esteriori di chi la cercò di giorno e di notte, di chi vide aprire gli occhi gialli delle sue finestre nell'oscurità, di chi desiderò il riposo nel proprio letto, di chi sospirò il viso della sua donna affacciata al balcone, di chi contemplò il letto del proprio bambino. Tutti noi abbiamo amata e amiamo la sua intimità, le cicatrici del tempo, le macchie dell'umido, le ferite della folgore che la colpì, il tremito delle sue persiane, le tappezzerie delle sue pareti, e tutti i pallidi volti qua e là impressi negli specchi che non dimenticano. Questo arsenale della nostra storia delle nostre età e delle nostre passioni noi lo festeggiamo questa sera, e io vi invito ad alzare alla prosperità della casa i vostri bicchieri!</p>
+                  <p rend="center">(<hi rend="italic">applausi</hi>)</p>
+                  <p>Ma non dimentichiamo che qui con noi è una creatura che ha quasi l'età della casa: questa nostra vecchia amica del terzo piano... quella che noi chiamiamo la «nonna»!</p>
+                  <p>PARECCHIE VOCI</p>
+                  <p>Evviva la nonna!</p>
+                  <p>l'avvocato</p>
+                  <p>...quella che nacque quando la casa era ancòra nella sua infanzia... questa vecchietta che non sente, non parla ma ha gli occhi ingranditi dallo stupore della sua longevità... Essa è quasi la coetanea della casa, ma quanto più vecchia e debole e trepida! Noi festeggiamo un po' anche lei, questa vecchia diffidente che si guarda intorno gelosa di chi nasce come se le portassero via il suo tempo. Ma tant'è! Ella vive imbalsamata dalla sua tenacia di esistere, e noi la salutiamo come la superstite del nostro passato, come l'anima caparbia di tutto l'edificio. Io vi invito a levare anche in suo onore il vostro bicchiere!</p>
+                  <p rend="italic">(applausi festosi, strette di mano dai vicini di tavola)</p>
+                  <p rend="italic">(A un tempo):</p>
+                  <p>LO STUDENTE</p>
+                  <p>Non vi aspettate che risponda!</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Ti guarda male!</p>
+                  <p>LA MADRE DELLA SECONDA BAMBINA</p>
+                  <p>Crede che tu l'abbia insolentita!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>No, no!... Ti ha salutata, nonna, ti ha salutata!</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(con uno sforzo si leva e porta in alto il bicchiere. Grida di evviva, risa, feste)</p>
+                  <p>IL CINICO</p>
+                  <p>Sta attento che è capacissima di risponderti! Col suo viso a becco di testuggine, con la sua faccia di falsa serpe, è cattiva come la paralisi.</p>
+                  <p>PRIMA BAMBINA</p>
+                  <p>Mamma, uccidila!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>(amorosamente)</p>
+                  <p>Taci, sciocchina!</p>
+                  <p>LA BEGHINA</p>
+                  <p rend="italic">(al suo vicino di tavola, che è il Cinico)</p>
+                  <p>Io non l'ho mai vista entrare in chiesa!</p>
+                  <p>IL CINICO</p>
+                  <p>Perchè sa che voi ci entrate troppo!</p>
+                  <p>LA BEGHINA</p>
+                  <p>Tacete voi, eretico!</p>
+                  <p>IL CINICO</p>
+                  <p>Scusate! La casa del Signore l'avete scambiata per la vostra abitazione! Anch'io ho detto tante volte, trovandomi a passare: ci sarà la padrona di casa. E non ci ho messo piede per non darvi noia!</p>
+                  <p>LA BEGHINA</p>
+                  <p>Eretico! Eretico!</p>
+                  <p>l'uomo squallido</p>
+                  <p rend="italic">(si alza. È squallido. Parla come se sollevasse a stento le parole)</p>
+                  <p>Io dico una cosa...</p>
+                  <p>l'usuraio</p>
+                  <p>È straordinario!</p>
+                  <p>l'uomo squallido</p>
+                  <p>Perchè?</p>
+                  <p>l'usuraio</p>
+                  <p>Tu non la dici: la sotterri.</p>
+                  <p>L'UOMO SQUALLIDO</p>
+                  <p>Preferisco sotterrare io le mie parole piuttosto che fare come te che sotterri il tuo rimorso di succhiare il sangue al prossimo...</p>
+                  <p rend="italic">(Voci di protesta):</p>
+                  <p>Andiamo! via!</p>
+                  <p>IL CINICO</p>
+                  <p>Questo si chiama parlar chiaro e ornato. Dialogo tra un uomo squallido e un usuraio.</p>
+                  <p rend="italic">(risa)</p>
+                  <p>l'uomo SQualLIDO</p>
+                  <p>Io dico una cosa: perchè si permette alla signorina, che noi con innegabile villania chiamiamo la Spiritata, di rimanersene al terzo piano ed essere l'unica a non partecipare alla nostra festa?</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Guarda un po'! L'idea ha una certa leggiadrìa primaverile!</p>
+                  <p>l'usuraio</p>
+                  <p>...Che mal si accorda con la spelonca da cui è stata soffiata!</p>
+                  <p>Il CINICO</p>
+                  <p>Allora, formuliamo chiaramente una domanda e rivolgiamola a tutti i presenti: perchè la Spiritata non partecipò alla nostra festa?</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>È venuta a mancare la nota del mistero!</p>
+                  <p>LA STUDENTESSA </p>
+                  <p>O della follìa...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Sia pure della follìa. Ma noi non conosciamo la sua follìa. Quel che dice è poi così pazzo? Io trovo quella creatura leggiadra. Intanto è difficile indurla ad aprir bocca. Questo in una donna è così raro, andiamo, via! Ma, quando parla, è piena di poesia! Avanti, voi, che siete la nonna! Perchè mai vostra nipote non è scesa qui da noi? Sì, aspettate che risponda... Trovo più pratico inviare una deputazione a cercarla e a esprimerle il nostro malumore!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Vado io a parlarle. Io le ho sempre ispirata una certa confidenza.</p>
+                  <p>IL VIVEUR</p>
+                  <p>Con l'obbligo di condurla qui ad ogni costo!</p>
+                  <p>TUTTI</p>
+                  <p>Sì! sì!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Un momento. Voi sapete bene che è una ribelle. Con la violenza è inutile cercare di indurla a qualche cosa. Due ore fa sono andata a pregarla di venire giù. Ma ella era occupatissima a piantare degli spilloni in un grosso girasole.</p>
+                  <p>LA BEGHINA</p>
+                  <p>Gesù! Qualche stregoneria!</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Ma che stregonerie! Chiedetene notizia a mio figlio che l'ha curata... Di' un po', figlio? Mi pare che tu stia curando molto le bottiglie...</p>
+                  <p>LA MOGLIE DEL DOTTORE</p>
+                  <p>Papà, è ubriaco!</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(si alza un po' con gli occhi imbambolati, ma con la voce spedita)</p>
+                  <p>Io ubriaco?</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Allora vado?</p>
+                  <p>PARECCHIE VOCI</p>
+                  <p>Sì! Sì!</p>
+                  <p>l'avvocato</p>
+                  <p>Se non siete ubriaco diteci in fretta se credete alle profezie della Spiritata, e spiegateci quali serietà scientifiche abbiano le profezie in genere...</p>
+                  <p>IL MANIACO</p>
+                  <p rend="italic">(agitando il braccio e ammiccando con gli occhi)</p>
+                  <p>Per carità! Una lezione?</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(rimanendo seduto, dopo una pausa)</p>
+                  <p>Voi mi chiedete se abbiano, o no, importanza. Ma non è certo scientificamente, o per lo meno con le risorse della nostra scienza sperimentale e positiva, che si spiegano certi fatti che, da Cassandra in poi, hanno continuato a stupire il mondo. Io ragiono così: dico che il nostro corpo troppo massiccio, costruito con troppo meccanismo di visceri e di sangue, non sia adatto a certe divinazioni astratte. Però esistono tipi privilegiati, o morbosi, in cui la vita spirituale, per anomalia o deficienza, è predominante. Sono quasi anime, perchè il corpo, pure essendo vivo, è come distaccato e assente. E sono le creature della nostra congiunzione, se si può dire, col mondo imperscrutabile, ossia con quello che non cade sotto il controllo dei nostri sensi... Appartengono insomma all'incertezza del nostro spirito, a qualche cosa di insondabile che esorbita dal controllo meccanico della nostra vita materiale. La nostra Spiritata fa parte di queste creature, in un certo senso privilegiate ed eccezionali. Io spiego certi fenomeni così. Ma tutto questo è illimitato e incontrollabile... naturalmente...</p>
+                  <p rend="italic">(beve)</p>
+                  <p>LA MOGLIE DEL DOTTORE</p>
+                  <p>Non bere! Non bere!</p>
+                  <p>IL CINICO</p>
+                  <p>Ora dimmi se, per esempio, tu, ubbriacandoti... sei più spirito o più materia...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(con un sorriso ambiguo)</p>
+                  <p>Sono quasi ubriaco!</p>
+                  <p rend="italic">(si ride)</p>
+                  <p>LA MOGLIE DEL DOTTORE</p>
+                  <p>Lo vedi?</p>
+                  <p rend="italic">(scostando una bottiglia)</p>
+                  <p>Basta... basta...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(accarezzandola, sorridendo)</p>
+                  <p>Sono di già quasi ubriaco...</p>
+                  <p rend="italic">(si ride)</p>
+                  <p>L'AVVOCATO</p>
+                  <p rend="italic">(con una certa gravità):</p>
+                  <p>Voi avete curata quella ragazza...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(perplesso, guardando la moglie)</p>
+                  <p>Sì, l'anno scorso...</p>
+                  <p>LA MOGLIE DEL DOTTORE</p>
+                  <p>Quando stavi per sposar me...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(improvvisamente serio)</p>
+                  <p>È vero. È un tipo interessantissimo di isterica epilettoide...</p>
+                  <p>LO STUDENTE</p>
+                  <p rend="italic">(alla <hi rend="smallcaps">cocottina</hi>)</p>
+                  <p>Appunto. È nello stato di subcoscienza... È vero, dottore?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Eh?</p>
+                  <p>LO STUDENTE</p>
+                  <p>La visione telepatica degli avvenimenti è un fenomeno di subcoscienza?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Certo! Certo!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p rend="italic">(rientrando rumorosamente)</p>
+                  <p>Dunque...</p>
+                  <p>PARECCHIE VOCI</p>
+                  <p>Ebbene?</p>
+                  <p>LA STUDENTESSA</p>
+                  <p rend="italic">(tra il silenzio e l'attesa)</p>
+                  <p>Non vuole venire giù! Dice che siete tutti ubriachi!</p>
+                  <p rend="italic">(alza le spalle e fa qualche passo)</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(ridono)</p>
+                  <p>LO STUDENTE, IL VIVEUR, IL CINICO</p>
+                  <p rend="italic">(si alzano)</p>
+                  <p>Andiamo su noi...</p>
+                  <p>LO STUDENTE</p>
+                  <p>Andiamo in commissione!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Oh! Non otterrete nulla!</p>
+                  <p>Il DOTTORE</p>
+                  <p rend="italic">(alzandosi lentamente, tra l'attenzione di tutti)</p>
+                  <p>Ebbene... fate una cosa... Volete che ella scenda giù?</p>
+                  <p>TUTTI</p>
+                  <p>Sì! Sì!...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(tra il silenzio generale, pronunzia queste parole un po' turbato)</p>
+                  <p>Pregatela a nome mio... Ditele che il dottore la prega di venire giù. Il dottore... personalmente...</p>
+                  <p>PARECCHIE VOCI</p>
+                  <p rend="italic">(commentando discretamente)</p>
+                  <p>Sì! Sì!</p>
+                  <p>LO STUDENTE, IL VIVEUR, IL CINICO</p>
+                  <p rend="italic">(si avviano)</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Oh Dio! Fatela venire ma non le chiedete profezie!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Perchè?</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Auff! È così seccante sapere quello che avverrà domani! La mia gioia è di svegliarmi la mattina...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Tardi...</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Sì, tardi, ma senza sapere...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Con chi si era coricata...</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Senza sapere quello che avverrà di me! È così bello l'imprevisto! I profeti uccidono la fantasia!</p>
+                  <p>L'UOMO SQUALLIDO</p>
+                  <p>Dottore! Diteci se Cassandra, infine, fu una grande indovina perchè non fu creduta mai da nessuno, oppure perchè quel che diceva, pur non essendo creduto, era la verità...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Questo è troppo difficile! Non vi capisco. Siamo alla fine di tavola... Sono mezzo naufragato!...</p>
+                  <p rend="italic">(Tramestio di passi dal di fuori)</p>
+                  <p>ALCUNE VOCI</p>
+                  <p>Eccoli! Eccoli!</p>
+                  <p rend="italic">(Tutti si agitano. Qualcuno si alza e resta in attesa)</p>
+                  <p>LA BEGHINA</p>
+                  <p>Ecco la Spiritata!</p>
+                  <p rend="italic">(si fa il segno della croce)</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA SECONDA</head>
+                  <p>LO STUDENTE, IL VIVEUR, IL CINICO</p>
+                  <p rend="italic">(raggianti)</p>
+                  <p>Eccola qui!</p>
+                  <p rend="italic">(vanno al loro posto dopo aver attratta sul limitare la <hi rend="smallcaps">spiritata</hi> riluttante</p>
+                  <p>IL CINICO</p>
+                  <p rend="italic">(al <hi rend="smallcaps">dottore</hi>)</p>
+                  <p>È venuta per voi!</p>
+                  <p rend="italic">(Silenzio)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(perplesso)</p>
+                  <p>Oh! Brava! Vi ringrazio... Noi tutti vi aspettavamo... Venite un po' avanti...</p>
+                  <p>lA SPIRITATA</p>
+                  <p rend="italic">(fa qualche passo guardando fissamente il <hi rend="smallcaps">dottore</hi>)</p>
+                  <p>IL DOTTORE</p>
+                  <p>La vostra nonna, vedete, ci ha tenuto compagnia...</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(sempre tacendo, dopo aver ancora guardato fisso il dottore, volge intorno gli occhi attoniti)</p>
+                  <p>IL DOTTORE</p>
+                  <p>Questi signori... desideravano salutarvi... È qui vostra nonna... Perchè non avete voluto tenerci compagnia? Sappiamo perfettamente che non amate nessuno, nè di questa casa nè di fuori... Ma la casa che festeggiamo voi l'amate. Tutti sappiamo come vi sia cara la vostra terrazza!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>L'ha trasformata in un giardino!</p>
+                  <p>LO STUDENTE</p>
+                  <p>Anche dianzi era lassù!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Zitti! Lasciatela parlare!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(tra spaventata e ostile, guardandosi intorno)</p>
+                  <p>Che volete da me?</p>
+                  <p>PARECCHIE VOCI</p>
+                  <p>Vogliamo la profezia!</p>
+                  <p>ALTRE VOCI</p>
+                  <p>La profezia!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Se fate così la irritate senza ottenere nulla!</p>
+                  <p>LO STUDENTE</p>
+                  <p>Lasciate che le rivolga la parola soltanto il dottore!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(dolce, semplice)</p>
+                  <p>La profezia... Ma io non posso... Io mi sento troppo debole... Voi sapete che altre due volte sono stata male...</p>
+                  <p>ALCUNE VOCI</p>
+                  <p>È vero! È vero!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Questa volta non vi faremo stancare! Il dottore stesso vi guiderà!</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p>Vedete la vostra nonna che vi guarda? Pare che voglia chiedervi qualche cosa anche lei!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>È contenta... Non vede che è contenta?</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p rend="italic">(grave)</p>
+                  <p>Tutta la casa è contenta. La nonna ha quasi l'età della casa. Abbiamo festeggiata anche lei.</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non è vero! Non immischiale la nonna nelle colpe degli uomini! La casa è pura soltanto lassù... dove la terrazza respira il suo cielo! E il cielo benedice la casa quando quelli che la abitano possano guardarlo con limpidi occhi! Non bisogna tenermi prigioniera... Se una creatura soffre, la casa è in peccato...</p>
+                  <p>LA BEGHINA</p>
+                  <p>Gesù! Lasciatela andare!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Signorina, avete torto a dubitare di noi... Noi vi vogliamo bene! Vi usiamo questa piccola violenza perchè abbiamo voglia di salutarvi... E se vi chiediamo la profezia, è perchè nei momenti in cui siete ispirata tutto è bello e fresco in voi e intorno a voi... Sembrate una cosa già staccata dal mondo! E se anche non ci amate, potete essere indulgente...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Io indulgente! Bisogna essere forti per essere indulgenti! E io sono una povera creatura...</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Siete povera, eppure dovete sacrificare qualche cosa... </p>
+                  <p>LA SPIRITATA</p>
+                  <p>Per chi?</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Per noi... per la vostra nonna.</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Essa non sente più! Non parla più, per le troppe cose che ha udito e ha dette… per tutti i mali che sono arrivati fino a lei a imbavagliarla! Perciò vi dico: non cercate di immischiarla nei delitti degli uomini!</p>
+                  <p>LA MADRE DELLA PRIMA RAMBINA</p>
+                  <p>Andiamo! Contentateci!</p>
+                  <p>LA BEGHINA</p>
+                  <p>Ma lasciatela andare!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>È per vederla quand'è ispirata. Non l'avete mai vista?</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(insieme)</p>
+                  <p>Sì! Sì! La profezia!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non posso, capite? E chi, del resto, comanda sul mio corpo e lo imprigiona?</p>
+                  <p rend="italic">(un silenzio)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(si alza)</p>
+                  <p>Io.</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(sussultando)</p>
+                  <p>Voi?</p>
+                  <p rend="italic">(il suo viso si illumiva stranamente)</p>
+                  <p>Voi?</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(con durezza)</p>
+                  <p>Io, sì.</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(stupita, all'improvviso, con una allegrezza quasi inconsapevole)</p>
+                  <p>Ah! Ah! Il dottore. Era la vostra voce che non riconoscevo mentre mi facevano male i vostri duri occhi... Che volete sapere da me?</p>
+                  <p rend="italic">(essa è, ora, leggera, sorridente e mutevole)</p>
+                  <p>IL DOTTORE</p>
+                  <p>Qualche cosa che riguarda noi e la nostra casa...</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(facendo qualche passo)</p>
+                  <p>Ah! Ah! Voi me lo comandate?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ve ne prego!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(grave, quasi ostile)</p>
+                  <p>No. Bisogna comandarmi.</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(fissandola, in piedi)</p>
+                  <p>Bene, ve lo comando!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(bambina)</p>
+                  <p>Ah! Ecco. Voi me lo comandate e già mi pare di distaccarmi con gioia da qualche cosa... da tutte le cose che premono contro di me, e io so di possedere un cuore troppo piccolo! Anche i girasoli della mia terrazza sono da liberare, perchè tutte le cellette si stringono intorno al cuore che non può reggere a lungo... e sono gonfie da scoppiare. Io col mio spillone volevo liberarlo: ma non si può. Bisogna che maturino!</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(dopo una pausa)</p>
+                  <p>Sì, ma ora è necessario che voi scendiate dalla vostra terrazza fino al secondo piano della casa.</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Fino al secondo piano? Io scendo, sì; ed è come se all'improvviso dalla piena luce mi spingessero all'ingresso di una grotta...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Che vedete?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Alcuni segni gialli. Ma ora non vedo più. Sento che si lagnano. È la casa che patisce...</p>
+                  <p rend="italic">(con terrore)</p>
+                  <p>E si lamenta anche, pur conservando il suo volto impassibile. Se trema per la paura o per la contentezza non si sa: se trema di gioia è perchè un bambino nasce e la casa non trova nulla di abbastanza soffice per accoglierlo... Solo vi posso dire che tutto torna a battere, a battere... È come un polso! La casa ha il suo polso implacabile. E quel che si rannicchia negli angoli è sempre il tradimento che cova, e non bastano i balconi aperti per tirarlo fuori…</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(piano, facendo dei segni al <hi rend="smallcaps">dottore</hi>)</p>
+                  <p>Di noi! Di noi!... Che dica di noi!...</p>
+                  <p rend="italic">(altri fanno segni consimili e aggiungono: «sì, sì!»)</p>
+                  <p>IL DOTTORE</p>
+                  <p>State attenta a quel che vi dico. Ora bisogna scendere ancòra. Bisogna arrivare al primo piano dove noi siamo raccolti in questo momento.</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(dopo una pausa)</p>
+                  <p>Eccomi. Siete il mio padrone.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Che vedete?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(dopo una pausa, in fretta)</p>
+                  <p>Vedo che di noi che siamo qui raccolti qualcuno è in pena.</p>
+                  <p>ALCUNE VOCI</p>
+                  <p rend="italic">(come soffi)</p>
+                  <p>Che vuol dire?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Qualcuno è in pena e non sa perchè. Ma forse la sua pena è una allegrezza.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Dite più chiaramente!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Forse è una allegrezza! Se una celletta nera si stacca, è una allegrezza! Vuol dire che si libera, e può andare dove vuole: anche può essere portata dall'aria.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Si libera da che cosa?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Si libera dal suo peso. E non teme più gli agguati. E non può essere inseguita.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma diteci dunque questa cosa per quel che si riferisce a noi!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non posso.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Dovete!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non posso. Non riesco a staccarmi!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Chi è che vi trattiene?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(con un brivido)</p>
+                  <p>La paura degli altri! La paura di chi mi tiene gli occhi addosso! Sento il cuore della casa battere a precipizio dentro di me!...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(incalzando)</p>
+                  <p>Cercate di sfuggire! Cercate di raggiungere il vostro pianerottolo!... Voi sapete che là siete salva...</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(come soffrendo)</p>
+                  <p>Sì, sì... Ma bisogna fare una corsa!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Cercate! Cercate!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Sì, sì... Ma chi mi spinge?</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(senza muoversi)</p>
+                  <p>Io stesso: vedete!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(sorridendo)</p>
+                  <p>Sì, ma voi stesso tremate... Come fate ad avere la forza di spingermi se tremate così? Eppure, sì, mi spingete... Oh! Eccomi giunta! Eccomi leggera!... Adesso vedo tutto!</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(con voce soffocata)</p>
+                  <p>Che cosa?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Vedo qualcuno che è rincorso non si sa da chi... E tutti fuggono su e giù per le scale... Che fuga! Che baraonda! Tutti! Tutti... E chi si nasconde negli angoli... e chi si chiude negli armadi.. e chi si arrampica sul tetto!...</p>
+                  <p rend="italic">(lunga risata quasi sinistra che agghiaccia i presenti)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(dopo una pausa)</p>
+                  <p>Ebbene?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(improvvisamente calma, si sforza come a guardare dinanzi a sè)</p>
+                  <p>È preso.</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(a sua volta suggestionato)</p>
+                  <p>Chi?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non vedo la sua faccia!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma qual'è il suo destino?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(quasi sillabando le parole)</p>
+                  <p>Se ne va!... Lascia la casa per sempre... Entro otto giorni avverrà questo!</p>
+                  <p rend="italic">(ride ancòra con dei sussulti che la scuotono dolorosamente)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(si precipita per sorreggerla, e la fa sedere. Tutti si avvicinano a lei esterrefatti. Il <hi rend="smallcaps">dottore</hi> le tiene il polso e le bagna le tempie con un po' d'acqua, mormorando)</p>
+                  <p>Non è niente... è meglio uscire tutti... è meglio uscire tutti…</p>
+                  <p rend="italic">(alla tavola è rimasta seduta soltanto la <hi rend="smallcaps">nonna</hi>)</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA<lb/>E LA MADRE DELLA SECONDA BAMBINA</p>
+                  <p rend="italic">(a un tempo sollevano in braccio, spaventate, le loro piccine)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(apre gli occhi riafferrando a poco a poco la coscienza)</p>
+                  <p>Ho sete.</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(le porge un bicchier d'acqua)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(beve, poi guarda stranamente e sorride al <hi rend="smallcaps">dottore</hi>)</p>
+                  <p>Grazie.</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p rend="italic">(non riuscendo a nascondere la sua ansia)</p>
+                  <p>Chi era? Avete detto di aver visto uno della casa rincorso da un'ombra. Non avete visto chi era?</p>
+                  <p>IL MANIACO, l'uomo SQUALLIDO,<lb/>l'avvocato</p>
+                  <p rend="italic">(insieme):</p>
+                  <p>— Sì....</p>
+                  <p>— Chi era?</p>
+                  <p>LA BEGHINA</p>
+                  <p>Gesùmmaria!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(tirando il dottore per la giacca mentre ha la figlia in braccio)</p>
+                  <p>Che dica almeno se era una persona grande o un bambino...</p>
+                  <p>LA MADRE DELLA SECONDA BAMBINA</p>
+                  <p rend="italic">(concitata)</p>
+                  <p>Sarà vero che non vedeva la faccia?</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Portiamo via le nostre creature!</p>
+                  <p>LA MADRE DELLA SECONDA BAMBINA</p>
+                  <p>Sì! Sì!</p>
+                  <p rend="italic">(tutte e due se ne vanno in fretta)</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ecco. Non è più niente...</p>
+                  <p>— Cercate di riconoscerlo!</p>
+                  <p rend="italic">(Gli altri chiedono col gesto la stessa cosa cercando di avvicinarsi alla spiritata)</p>
+                  <p>IL CINICO</p>
+                  <p>Andiamo, via! Non è il caso di tormentarla ancòra di più!</p>
+                  <p>LO STUDENTE</p>
+                  <p>Lo vedete: non sa niente.</p>
+                  <p>l'usuraio</p>
+                  <p>Ma sì! Lasciatela andare!</p>
+                  <p>IL CINICO</p>
+                  <p>L'avete voluto per forza! I suoi nervi sono scossi. Sappiamo intanto che uno di noi in questa casa è di troppo. Io spero che non tocchi a me, e che tocchi, per esempio...</p>
+                  <p rend="italic">(al primo che gli è davanti, che è il <hi rend="smallcaps">maniaco</hi>)</p>
+                  <p>...a lei!</p>
+                  <p>IL MANIACO</p>
+                  <p rend="italic">(spaventato)</p>
+                  <p>A me?</p>
+                  <p rend="italic">(Tutti ridono con un certo sforzo)</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(che è tornata indietro senza la figlia, si precipita come una forsennata e chiede con voce sorda di rancore e di paura alla <hi rend="smallcaps">spiritata</hi>)</p>
+                  <p>È forse la mia bambina? Di': È forse la mia bambina?</p>
+                  <p rend="italic">(alcuni l'afferrano e la trattengono)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(che seguita a tenere il polso della <hi rend="smallcaps">spiritata</hi>)</p>
+                  <p>Via! Via!</p>
+                  <p rend="italic">(<hi rend="smallcaps">La madre della prima bambina</hi> è trascinata verso il fondo).</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>Vorrei sapere perchè vi agitate tanto! Finalmente, se Dio vuole, tocca a me! Non avete capito che la profezia riguarda me solo?</p>
+                  <p>IL CINICO</p>
+                  <p>Ma finiscila ! È da mille anni che dici di morire! Non ti crediamo più!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>No. Prego. Lo dico da un anno, da che quella canaglia di dottore mi ha spacciato. Mi ha dato sei mesi. Ne son passati dodici. Finirò col farlo processare.</p>
+                  <p>IL MANIACO</p>
+                  <p>Lo vuoi processare perchè non sei ancòra morto? Ma questo non capita mai a un dottore!</p>
+                  <p>l'uomo che avrebbe dovuto MORIRE</p>
+                  <p>Sicuro. Io ho dato fondo alle mie sostanze perchè ho creduto alla sua parola!</p>
+                  <p>l'avaro</p>
+                  <p>E adesso?</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>Adesso la sostanza non c'è più, e io ci sono. Chi mi manterrà da qui in avanti? Ma io spero di essere il designato da quella brava ragazza là. Se no, vi giuro che faccio causa al mio medico!</p>
+                  <p>IL CINICO</p>
+                  <p>Sarai condannato alle spese.</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Bravo! Là ti voglio. Bisogna che mi metta a far debiti. Ma anche per quelli è necessario una certa pratica! Vedrai tu, mio caro...</p>
+                  <p rend="italic">(batte una mano sulla spalla dell'<hi rend="smallcaps">avaro</hi>)</p>
+                  <p rend="justify">quando ti chiederò il primo migliaio di lire in prestito!</p>
+                  <p>L'AVARO</p>
+                  <p rend="italic">(sobbalzando)</p>
+                  <p>A me?</p>
+                  <p rend="italic">(tutti si sforzano a ridere).</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Ah! Lo vedi? e dunque rallègrati se — come spero — tra otto giorni.</p>
+                  <p>LA MADRE DELLA SECONDA BAMBINA</p>
+                  <p rend="italic">(tenendo per mano la figlia, chiede al <hi rend="smallcaps">dottore</hi>):</p>
+                  <p>Dottore, si lamenta di un dolore alla spalla...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(spazientito)</p>
+                  <p>Ma andiamo! Basta! Usciamo tutti!</p>
+                  <p>l'usuraio</p>
+                  <p>Sì, sì! Fuori c'è più aria!</p>
+                  <p rend="italic">(tutti si avviano lentamente, sogguardando la <hi rend="smallcaps">spiritata</hi>).</p>
+                  <p>IL cinico</p>
+                  <p>Non si può negare che come festeggiamento di una casa il buon umore non abbia regnato sino alla fine...</p>
+                  <p rend="italic">(tutti rimangono impassibili)</p>
+                  <p>E nessuno ride!... Accidenti!... Propongo di uscire uno per volta: se no abbiamo proprio l'aria di un funerale...</p>
+                  <p rend="italic">(Tutti, indignati, lo fanno tacere. Rimangono in scena la <hi rend="smallcaps">spiritata</hi>, il <hi rend="smallcaps">dottore</hi>, la <hi rend="smallcaps">nonna</hi> e la <hi rend="smallcaps">moglie del dottore</hi>)</p>
+                  <p>La MOGLIE DeL DOTTORE</p>
+                  <p rend="italic">(piano al <hi rend="smallcaps">dottore</hi>)</p>
+                  <p>Vieni sùbito su... Ho paura...</p>
+                  <p rend="italic">(via anche lei).</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(dopo una pausa, mettendo una mano sulla spalla della <hi rend="smallcaps">spiritata</hi>, che sentendosi toccare ha un sussulto)</p>
+                  <p>Ora siete calma? Sì? Accompagnerete su la nonna? volete che vi aiuti io?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(fissandolo, si alza lentamente)</p>
+                  <p>No...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(sconcertato, arrendevole)</p>
+                  <p>Bene... bene...</p>
+                  <p rend="italic">(per andare)</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Dottore! Andate via?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Sì.</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Dottore! Io ricordo sempre la gentilezza che avete usata l'anno scorso verso di me per tutto il tempo che mi avete curata.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Sono molto contento che serbiate di me un buon ricordo, signorina.</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(fissandolo stranamente, con dolcezza)</p>
+                  <p>Ora lasciatemi. Accompagnerò io la nonna.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Fate come credete. Non volete che vi aiuti?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Faccio sempre da me. Grazie. Grazie.</p>
+                  <p>IL DOTTORE</p>
+                  <p>A rivederci...</p>
+                  <p rend="italic">(se ne va).</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA TERZA</head>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(dopo averlo visto andar via, si volge alla <hi rend="smallcaps">nonna</hi> che durante il trambusto avevano aiutata a sedersi su di una sedia situata più avanti della scena, dov'era rimasta immobile).</p>
+                  <p>Ah sì? Che direste voi di una signorina che ha cent'anni e che se ne sta con gli uomini a banchettare fino a tarda ora? Io dico che è un vero scandalo!</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(la guarda terrorizzata)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(con improvvisa pena)</p>
+                  <p>Nonna! Tu mi guardi con tanta paura... Che ti hanno detto? Ti hanno detto che tu forse devi morire! E hai paura, nonna! Hai paura! Ti hanno detto: tocca a te che hai cent'anni... Non è vero? Oh! Non credere, sai! Non credere! Quando ti dicono queste cose tu devi rispondere... con gli occhi, perchè non puoi rispondere con la voce... tu devi rispondere che essi non capiscono niente e non possono saper nulla... assolutamente nulla... e che li sfidi a sapere qualche cosa! Del resto... la Morte si è scordata di te... Non sa neanche dove sei... E perciò nel suo giro che fa non ti viene a trovare... perchè tu, a furia di esistere, hai perduto tutto il tuo peso, come una bambola decrepita... Essi non sanno — i cattivi — che ti vogliono far morire — che tu sei più forte di me. Sì, nonna!... Tu sei legata alla vita con tutto il tuo terrore, mentre io appena con le ali! Io mi distacco e tu resisti! E la Morte non ti prende in braccio perchè sei troppo leggera e non si accorgerebbe del tuo peso... Perciò quella che ti prende in braccio non è la Morte, ma sono io! Io che sono viva! La tua piccola che è forse meno viva di te ma che ha la forza che occorre per portarti lassù dove tutto è bello... dove la casa respira tutto il suo cielo! Giacchè tutti gli uomini portano in braccio la loro piccola pena, o grande: ma quel che conta è di portarsela in alto! Andiamo, via... Oplà!....</p>
+                  <p rend="italic">(la prende in braccio)</p>
+                  <p>E tieni il tuo bastone ben saldo, neh? Per dare le botte a quelli che incontri per le scale e ti dicono le cose cattive... Loro sì possono morire... Loro sì, perchè hanno tanto rancore contro gli uomini, e possono fare del male: ma la mia piccola nonna no... la mia piccola nonna... la mia piccola nonna...</p>
+                  <p rend="italic">(se ne va portandosela in braccio e cullandola lentamente come una bambina)</p>
+                  <p rend="center">(SIPARIO)</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto secondo</head>
+               <p>
+                  <hi rend="italic">Una sala del secondo piano della casa in un appartamento occupato dal </hi>
+                  <hi rend="smallcaps">Dottore</hi>
+                  <hi rend="italic">. Questa sala ha il suo ingresso (la comune a destra) e comunica a sinistra con una stanza adibita alle operazioni chirurgiche. Ma per accedere a questa seconda stanza si può passare da un'altra porta che si suppone di dentro e che comunica con l'ampio corridoio che ha una porta in fondo e dà sulle scale. Questa porta è visibile dalla scena perchè la sala ha una vetrata che costituisce la parete di fondo. Dal corridoio stesso si passa nella sala per la porta di destra.</hi>
+               </p>
+               <div type="div3" rend="P67">
+                  <head>SCENA PRIMA</head>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(che ha finito di ascoltare il cuore del <hi rend="smallcaps">viveur</hi>)</p>
+                  <p>Io trovo che anche il cuore è normale.</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(soddisfatto, ma con aria indifferente)</p>
+                  <p>Oh! Sai... Mi era venuto un dubbio... così... Ho sentito tre, quattro fitte... Che cosa sono queste fitte? Mentre accendevo la sigaretta. Questo non mi ha impedito di seguitare a fumare... Veramente ti ho disturbato perchè avevo voglia di salutarti...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(lo guarda)</p>
+                  <p>Sai Quanti ammalati abbiamo in casa?</p>
+                  <p>IL VIVEUR</p>
+                  <p>Quanti?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Tutti.</p>
+                  <p>IL VIVEUR</p>
+                  <p>Credevo di più.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Tutti, chi più chi meno, si sentono qualche cosa...</p>
+                  <p>IL VIVEUR</p>
+                  <p>Io no, ve'!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Tu hai le fitte. Infine la profezia della Spiritata ha mutato questa casa in un ospedale.</p>
+                  <p>IL VIVEUR</p>
+                  <p>Come si fa a credere a queste sciocchezze! Io — sai? — non ci pensavo neppure. Se ci avessi pensato non sarei venuto da te, per non farti credere...</p>
+                  <p>Il DOTTORE</p>
+                  <p>Hai torto. Vedi: un uomo di spirito come te non deve aver paura di aver paura. La profezia in sè stessa per me si spiega scientificamente e può avere un fondamento serio; ma per gli altri, che ragionano col loro pregiudizio, sta di fatto che quella creatura ha predetto due avvenimenti in questa casa che si sono perfettamente avverati.</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(obbiettando con una certa preoccupazione)</p>
+                  <p>Delle pure coincidenze.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Sia pure: ma, allora, delle strane coincidenze.</p>
+                  <p>IL VIVEUR</p>
+                  <p>Addio. Me ne vado.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Addio.</p>
+                  <p rend="italic">(accompagnandolo)</p>
+                  <p>Guarda: non dovresti fumare.</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(fermandosi di botto, getta la sigaretta)</p>
+                  <p>Ecco.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Diamine! Quella sigaretta potevi fumarla anche tutta... È l'abuso che io condanno.</p>
+                  <p>IL VIVEUR</p>
+                  <p>Ah no! No! Voglio darli retta! Voglio darti retta!</p>
+                  <p>IL DoTTORE</p>
+                  <p>Sono parecchi anni che te lo vado ripetendo inutilmente.</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(per andare)</p>
+                  <p>Voglio darti retta. Ciao. Grazie.</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA SECONDA</head>
+                  <p>IL CINICO</p>
+                  <p rend="italic">(entrando dalla destra)</p>
+                  <p>È permesso? Ah scusate!</p>
+                  <p rend="italic">(al dottore):</p>
+                  <p>Sei occupato? Fate, fate pure... Io mi metto a guardare questi quadri...</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(scambia un gesto di intelligenza col <hi rend="smallcaps">dottore</hi> e segue con l'occhio quel che fa il <hi rend="smallcaps">cinico</hi>)</p>
+                  <p>IL CINICO</p>
+                  <p rend="italic">(è andato a guardarsi la lingua davanti allo specchio)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(al <hi rend="smallcaps">cinico</hi>)</p>
+                  <p>Hai bisogno di me?</p>
+                  <p>IL CINICO</p>
+                  <p>Sì, volevo dirti una cosa... ma dopo! Dopo!... c'è tempo...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma hai bisogno dell'amico o del dottore?</p>
+                  <p>IL CINICO</p>
+                  <p>Oh! Dell'amico! Che cosa vuoi che me ne faccia del dottore?</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(scambia col dottore il gesto di prima)</p>
+                  <p>IL DOTTORE</p>
+                  <p>Bene, bene.</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(guardando fuori)</p>
+                  <p>C'è la Signorina Lolò.</p>
+                  <p>IL CINICO</p>
+                  <p>Ah ah!... Dobbiamo andarcene?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma no! State pure! Caso mai passeremo nello studio di là... e poi mi aiuterete a sbrigarmela più presto. Dille che entri.</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(si siede)</p>
+                  <p>IL CINICO</p>
+                  <p rend="italic">(si guarda ancòra la lingua nello specchio)</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA TERZA</head>
+                  <p>LA COCOTTINA</p>
+                  <p>Buon giorno! Dottore! Dottore! Mi pare di sentirmi tanto male!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Oh! Finalmente!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Come finalmente! Scusate, mi seggo.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Finalmente c'è nella casa qualcuno che viene da me confessando di sentirsi male. Tutti gli ammalati di questi giorni pare che capitino qua dentro per caso... E mi parlano d'altro... Poi incidentalmente, mi confidano i loro acciacchi...</p>
+                  <p>IL CINICO</p>
+                  <p rend="italic">(continua a guardarsi la lingua nello specchio)</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Io invece — ve lo giuro, Dottore! — ho una maledetta paura di morire!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Vi credo, vi credo. Siete la più sincera di tutti.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Non sono forse la... meno per bene? Farei qualunque cosa purchè mi assicurassero che non sono io quella che deve andarsene. Farei qualunque cosa.</p>
+                  <p>IL CINICO</p>
+                  <p>Anche la Signorina per bene?</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(irata)</p>
+                  <p>Lei taccia! Sicuro. Farei anche quella. Ma se poi non dovessi essere io quella segnata dal destino? La mia reputazione sarebbe compromessa! Perchè... far la cocotte per passione è male... ma far la donna onesta per paura è peggio!</p>
+                  <p>IL VIVEUR</p>
+                  <p>Che sani insegnamenti ci vengono da questa signorina in un'ora così tragica!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Dottore, mi assicuri che non morirò!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Come faccio a saperlo? Mi dica almeno dove si sente male.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>In nessun posto.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Oh, allora!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Vorrei almeno sapere se Dio esiste.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Perchè? Ne avete urgenza? Chiedetelo a quel signore là.</p>
+                  <p rend="italic">(accennando al <hi rend="smallcaps">cinico</hi>)</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Ma che cosa ha Lei da guardarsi la lingua nello specchio?</p>
+                  <p>IL CINICO</p>
+                  <p>Ho paura che me l'abbiano cambiata...</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Addio Dottore. Non mi ha detto nulla. Non mi ha confortato affatto. Io morirò.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Cara Signorina, faccia come crede...</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(minacciandola per burla)</p>
+                  <p>Farete la donna onesta?</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(arrabbiata)</p>
+                  <p>No!</p>
+                  <p>IL VIVEUR</p>
+                  <p>A costo di morire?</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(enfatica)</p>
+                  <p>A costo di morire!</p>
+                  <p rend="italic">(se ne va col braccio teso in aria)</p>
+                  <p>IL VIVEUR</p>
+                  <p>Che temperamento! Ciao. Me ne vado anch'io.</p>
+                  <p rend="italic">(via)</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA QUARTA</head>
+                  <p>IL DOTTORE</p>
+                  <p>E ora vuoi dirmi in che cosa posso esserti utile?</p>
+                  <p>IL CINICO</p>
+                  <p>Un consiglio.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Son qua.</p>
+                  <p>IL CINICO</p>
+                  <p>Tempo fa mi parlasti di capitali tuoi e della tua signora impiegati nelle «mediterranee»... Dicevi che era un buon impiego e lo consigliasti anche a me. Oggi me ne sono ricordato.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Sono tuttavia della stessa opinione. Tanto è vero...</p>
+                  <p>IL CINICO</p>
+                  <p>Basta! Basta! Grazie.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Non vuoi altro?</p>
+                  <p>IL CINICO</p>
+                  <p>Grazie. Buon giorno.</p>
+                  <p rend="italic">(sulla porta, volgendosi)</p>
+                  <p>A proposito... Non ho continuato più quelle tali iniezioni.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Male.</p>
+                  <p>IL CINICO</p>
+                  <p rend="italic">(torna indietro)</p>
+                  <p>E da qualche giorno in qua... un odioso sapore metallico nella bocca... E guarda qua…</p>
+                  <p rend="italic">(tira fuori la lingua)</p>
+                  <p>IL DOTTORE</p>
+                  <p>Aspetta che ti osservi...</p>
+                  <p rend="italic">(prende una lente)</p>
+                  <p>Passiamo di là nello studio.</p>
+                  <p rend="italic">(accenna a sinistra)</p>
+                  <p rend="italic">(In questo momento si sente echeggiare un grido della <hi rend="smallcaps">cocottina</hi>, e sùbito molte voci di gente che si avvicina alla porta di destra dopo che si è vista affannata entrare dall'ingresso che è al di là della vetrata)</p>
+                  <p>IL DOTTORE E IL CINICO</p>
+                  <p>Che c'è?</p>
+                  <p rend="italic">(entrambi si guardano preoccupatissimi)</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA QUINTA</head>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(seguìta dallo <hi rend="smallcaps">studente</hi>, dalla <hi rend="smallcaps">madre della prima bambina</hi>, dalla <hi rend="smallcaps">signorina per bene</hi> e dall'<hi rend="smallcaps">uomo squallido</hi>)</p>
+                  <p>Dottore! Dottore! Una disgrazia!</p>
+                  <p>IL DOTTORE E IL CINICO</p>
+                  <p>Che cosa?</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Là! Là!</p>
+                  <p rend="italic">(accenna verso il fondo, mentre quasi sviene sulla sedia. Appaiono oltre la vetrata gli altri inquilini della casa che discorrono animatamente gesticolando)</p>
+                  <p>LO STUDENTE</p>
+                  <p>L'avvocato! L'avvocato usciva dal portone e attraversava la strada quando è stato investito da una automobile!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Il povero corpo fatto a brani!</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(hanno un brivido)</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Uno strazio!</p>
+                  <p>LO STUDENTE</p>
+                  <p>Ora lo trasportano su che non dà segni di vita.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Sfido! Se è fatto a brani!...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Calma! Calma! Per carità, calma...</p>
+                  <p>TUTTI</p>
+                  <p>Eccolo! Eccolo!</p>
+                  <p rend="italic">(Si vedono oltre la vetrata gli altri inquilini esterrefatti precedere quattro uomini che trasportano l'<hi rend="smallcaps">avvocato</hi> verso l'altro ingresso a sinistra dello studio)</p>
+                  <p>IL DOTTORE</p>
+                  <p>Restate tutti qui! Aspettate!</p>
+                  <p rend="italic">(entra a sinistra nello studio)</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA SESTA</head>
+                  <p>TUTTI</p>
+                  <p rend="italic">(a bassa voce)</p>
+                  <p>Sì... sì.</p>
+                  <p rend="italic">(Si inginocchiano mentre oltre la vetrata si vedono i quattro uomini trasportare l'avvocato di cui non si distingue la figura. Gli altri inquilini che lo seguivano rimangono per un momento fuori della vetrata a ragionare concitatamente. Poi passano anche loro piano piano nella sala entrando dalla porta di destra. Quelli che già erano nella stanza si sono alzati e cominciano anch'essi a commentare, prima a bassa voce, poi più forte)</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(con debole voce)</p>
+                  <p>Ebbene?</p>
+                  <p rend="italic">(I nuovi arrivati le rispondono tentennando il capo)</p>
+                  <p>l'uomo squallido</p>
+                  <p rend="italic">(animandosi)</p>
+                  <p>Ma come è andata?</p>
+                  <p rend="italic">(qualcuno si avvicina alla porta di sinistra che dà nello studio. Da quella porta viene la <hi rend="smallcaps">cameriera</hi> che si pianta sul limitare, dopo aver chiuso)</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Nessuno può entrare. Abbiano pazienza. Il dottore non vuole nessuno.</p>
+                  <p rend="italic">(via a destra)</p>
+                  <p>LA BEGHINA</p>
+                  <p rend="italic">(facendosi il segno della croce)</p>
+                  <p>Gesù mio!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(animatissima)</p>
+                  <p>Pensare che poteva capitare alla mia bambina! Voleva scendere lei a prendermi qualche cosa dal droghiere e io ho detto: no. Il Signore mi ha illuminata!</p>
+                  <p rend="italic">(Insieme a bassa voce:)</p>
+                  <p>LO STUDENTE</p>
+                  <p>Tutte cose che si pensano dopo!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Io ho visto tutto dalla finestra!</p>
+                  <p>l'usuraio</p>
+                  <p>Era una automobile? Chi ha vista la automobile?</p>
+                  <p>la madre della cocottina</p>
+                  <p rend="italic">(a sua figlia)</p>
+                  <p>Sù! Sù!</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Eppure non si è visto sangue: nè in terra nè sul ferito! Il disgraziato avrà battuto l'occipite e sarà rimasto sul colpo. Ora sentiremo mio figlio.</p>
+                  <p rend="italic">(Insieme a bassa voce:)</p>
+                  <p>LA SIGNORINA PER BENE</p>
+                  <p>Dio che disgrazia!</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p rend="italic">(a sua figlia)</p>
+                  <p>Pensa che quando ho sentito le grida credevo che fossi tu!</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(al <hi rend="smallcaps">cinico</hi>)</p>
+                  <p>E noi si chiacchierava qui...</p>
+                  <p>IL CINICO</p>
+                  <p>...tranquillamente.</p>
+                  <p>IL MANIACO</p>
+                  <p>Io neanche l'ho visto!</p>
+                  <p>LA BEGHINA</p>
+                  <p>Gesummaria!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Quella Spiritata è veramente assistita dal cielo! Abbiamo avuto il torto di crederla una pazza: mentre invece è una santa creatura! Una veggente!</p>
+                  <p>L'UOMO SQUALLIDO</p>
+                  <p>Io, per ogni buon fine, tutta la notte ho seguitato a fare le corna.</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(ridono con discrezione)</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p rend="italic">(che si è piantato davanti alla porta di sinistra)</p>
+                  <p>Signori miei, parlate piano! Di là c'è un morto!</p>
+                  <p rend="italic">(Tutti lo guardano compunti)</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p rend="italic">(prorompendo dopo una lunga pausa)</p>
+                  <p>Povero avvocato! Così buono!</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Così per bene!</p>
+                  <p>LA BEGHINA</p>
+                  <p>E timorato di Dio!</p>
+                  <p>l'usuraio</p>
+                  <p>E la moglie?</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Dov'è la moglie?</p>
+                  <p>LO STUDENTE</p>
+                  <p>Abbiamo dimenticato la moglie.</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p>È fuori di casa! Bisogna stare attenti, quando torna, poverina...</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(alla figlia)</p>
+                  <p>Va giù, cara... E quando la vedi spuntare all'angolo della strada, corri su ad avvisarci.</p>
+                  <p rend="italic">(agli altri)</p>
+                  <p rend="justify">Non vi pare?</p>
+                  <p>PARECCHIE VOCI</p>
+                  <p>Sì, sì.</p>
+                  <p>PRIMA BAMBINA</p>
+                  <p rend="italic">(via di corsa)</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(accende una sigaretta, in disparte)</p>
+                  <p>IL CINICO</p>
+                  <p>Ma come? Fumi? Non te lo aveva proibito il medico?</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(fa un gesto di noncuranza)</p>
+                  <p>IL CINICO</p>
+                  <p>Hai ragione. Ormai la minaccia è scongiurata.</p>
+                  <p>IL VIVEUR</p>
+                  <p rend="italic">(ride. Tutti e due ridono piano)</p>
+                  <p>E la tua lingua?</p>
+                  <p>IL CINICO</p>
+                  <p rend="italic">(a sua volta ride)</p>
+                  <p>Bene, bene...</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Dio! Chi avrà il coraggio di dirlo a quella povera signora!</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(all'<hi rend="smallcaps">uomo che avrebbe già</hi> etc.)</p>
+                  <p>E così? Voi! Eravate tanto sicuro di esser voi!</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p rend="italic">(allargando le braccia)</p>
+                  <p>Ma! Sono senza fortuna!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Eravate l'unica mia speranza. Ho pensato a voi tutta la notte!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Ma davvero?</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Ho pensato che siete un vero furfante. Annunziate a tutti la vostra fine e siete sempre qui. Non già che mi dispiaccia... anzi! Perchè siete simpatico. Ma trovo inutile spacciarsi per moribondi quando si ha della salute!</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>Ma signorina! Sapete bene che la colpa è del dottore che mi ha dato sei mesi di tempo... Che colpa è la mia? Al termine giusto io avevo mangiato ogni cosa, ma vivevo ancòra, e mi son trovato con una cambiale la cui scadenza avrebbe dovuto coincidere con la mia morte. L'ho fatta protestare, ma il dottore se ne infischia. Dice: «Siete ancòra vivo? Ringraziale Iddio!»</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p>L'altra volta — ricordate? — la profezia si avverò dopo il quarto giorno. Il figlio del portinaio che era prigioniero in Russia...</p>
+                  <p>LO STUDENTE</p>
+                  <p>Scusate. Un momento... Io ero lontano. Come fu? Questo prigioniero si riteneva morto?</p>
+                  <p>l'usuraio</p>
+                  <p>Da quattro anni. E sua moglie stava per passare in seconde nozze, quando la Spiritata disse alla donna: «Sospendete i vostri sponsali! L'uomo che avete già dimenticato e che è ancòra vostro marito si farà vivo entro le ventiquattr'ore».</p>
+                  <p>LA BEGHINA</p>
+                  <p>Infatti arrivò il giorno dopo un telegramma del Ministero della Guerra.</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>È miracoloso! E per la bambina del droghiere avvenne lo stesso, con una precisione matematica!</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p rend="italic">(prorompendo)</p>
+                  <p>Povero avvocato!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Pensare che egli non sapeva affatto che toccasse a lui. Stamane mi incontrò per le scale e mi disse ridendo: «Eh! Signora, siamo ancòra qui!»</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Non bisogna mai ridere di queste cose. Forse egli è stato punito per aver scherzato.</p>
+                  <p>IL MANIACO</p>
+                  <p>Francamente, ne avevo riso anch'io!</p>
+                  <p>l'usuraio</p>
+                  <p>Anch'io.</p>
+                  <p>LA SIGNORINA PER BENE</p>
+                  <p>Anch'io.</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Ma! Non si può dire.</p>
+                  <p>l'uomo squallido</p>
+                  <p>Ma perchè indugiano tanto là dentro?</p>
+                  <p>l'usuraio</p>
+                  <p>Eh! Le formalità per stabilire il decesso e le eventuali responsabilità dello chauffeur. Non è mica una cosa molto semplice.</p>
+                  <p>L'UOMO SQUALLIDO</p>
+                  <p>Ah! Le formalità!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Chi può vivere ormai tranquillo in questa casa? Pensare che ogni cosa si sa prima che succeda.</p>
+                  <p>LA BEGHINA</p>
+                  <p>Invece dobbiamo rallegrarci!</p>
+                  <p>LO STUDENTE</p>
+                  <p>Io non mi raccapezzo. E voi, signori?</p>
+                  <p rend="italic">(guarda il <hi rend="italic">
+                        <hi rend="smallcaps">viveur</hi>
+                     </hi>)</p>
+                  <p>IL VIVEUR</p>
+                  <p>Io? Fumo la sigaretta.</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Io ho tenuto ieri la bambina a letto. Ma, Dio sia lodato, era uno dei soliti raffreddori.</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p>Vedete! Avete tanta paura!</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>E pensare che abbiamo una inquilina che ha quasi cento anni!</p>
+                  <p>ALCUNE VOCI</p>
+                  <p>Giusto!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Io e lei eravamo i più quotati... e non siamo riusciti neanche a piazzarci...</p>
+                  <p rend="italic">(si ride con discrezione)</p>
+                  <p rend="italic">(Insieme a bassa voce):</p>
+                  <p>LA BEGHINA</p>
+                  <p>Tacete! Vergognatevi!</p>
+                  <p>lo studente</p>
+                  <p>Ma! Mors tua vita mea!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Mio fratello lo ha sempre detto che passerà i cento anni.</p>
+                  <p>IL MANIACO</p>
+                  <p>Pazienza: non è venuto il suo turno!</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p>Prego, prego! Signori! Prego! Un po' di silenzio!</p>
+                  <p rend="italic">(Breve silenzio. Poi il <hi rend="smallcaps">padre del dottore</hi> esce un momento a destra. Appena uscito si riprende il mormorio)</p>
+                  <p rend="italic">(Insieme a bassa voce):</p>
+                  <p>IL VIVEUR</p>
+                  <p>È strano come tardi tanto.</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Dicono che stenda un verbale...</p>
+                  <p>LO STUDENTE</p>
+                  <p>È l'attestato che deve lasciare il medico.</p>
+                  <p>IL CINICO</p>
+                  <p>Il foglio di via.</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p>Gesù! Gesù! Che pena!</p>
+                  <p>L'USURAIO</p>
+                  <p>Ancòra un po' di pazienza.</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p rend="italic">(che è rientrato ed è andato a mettersi di nuovo contro la porta dello studio)</p>
+                  <p>Signori! Signori! Ancòra una volta! Di là c'è un dottore che sta medicando!</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(quasi senza pronunziare la parola che deve passare come un soffio)</p>
+                  <p>Medicando!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Allora è ferito?</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p rend="italic">(stringendosi nelle spalle)</p>
+                  <p>Ma!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Allora non è morto?</p>
+                  <p>LA BEGHINA</p>
+                  <p>Ha detto «medicando»!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Vedete, dunque! La profezia non si è avverata ancòra!</p>
+                  <p>ALCUNE VOCI</p>
+                  <p>Allora?</p>
+                  <p>ALTRE VOCI</p>
+                  <p>Allora?</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Allora... tanto meglio, mi pare!</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(debolmente)</p>
+                  <p>Sì, sì!...</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(all'<hi rend="smallcaps">uomo che, ecc</hi>.)</p>
+                  <p>Che è quanto dire che siamo ancòra in ballo. E io che mi ero consolata!</p>
+                  <p>ALCUNE VOCI</p>
+                  <p rend="italic">(protestando)</p>
+                  <p>Oh!</p>
+                  <p>LA SIGNORINA PER BENE</p>
+                  <p>Che spudorata!</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(guardando la <hi rend="smallcaps">signorina per bene</hi>)</p>
+                  <p>Perchè io ho il coraggio di dire quel che penso, e voi no.</p>
+                  <p>LA STUDENTESSA</p>
+                  <p>Ma quando si potrà sapere qualche cosa di preciso?</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p>Bisogna aspettare il dottore.</p>
+                  <p>IL PADRE DEL DOTTORE</p>
+                  <p rend="italic">(che ha spiato dietro l'uscio)</p>
+                  <p>Signori, silenzio. Il dottore sta per venire qui. Io apro la porta. Fate in modo che le vostre voci non arrivino di là. Rispettate questo silenzio che può essere di morte!</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(con ansia compunta)</p>
+                  <p>Oh!...</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(al vicino)</p>
+                  <p>Hai inteso? Ha detto «morte!»</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p rend="italic">(correggendo)</p>
+                  <p>No. Ha detto: «che può essere» di morte!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(a bassa voce vivamente)</p>
+                  <p>Ma allora non si sa ancòra la verità!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Si capisce che non si sapeva niente di sicuro...</p>
+                  <p>LA BEGHINA</p>
+                  <p>Dio, che tormento!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Ecco! Apre.</p>
+                  <p rend="italic">(susurro. Poi silenzio altissimo)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(che ha sùbito rinchiuso la porta dietro di sè)</p>
+                  <p>Signori, una buona notizia!</p>
+                  <p>TUTTI</p>
+                  <p rend="italic">(discretamente)</p>
+                  <p>Ah!</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(un po' sconcertato dalla freddezza con cui sono state accolte le sue prime parole)</p>
+                  <p>L'Avvocato aveva battuto la testa ed era svenuto... Niente di grave. Egli non presenta lesioni preoccupanti. Sono lieto di darvi questa notizia che vi consolerà tutti. Discretamente potete passare di là, ma senza chiasso. L'infermiere sùbito accompagnerà l'avvocato al suo appartamento.</p>
+                  <p rend="italic">(mormorii)</p>
+                  <p>V'ho detto «discretamente». Ecco. Se volete entrare... ma non tutti in una volta...</p>
+                  <p rend="italic">(tutti entrano. Si sente un bisbiglio di là che cessa quando il <hi rend="smallcaps">dottore</hi> rinchiude la porta)</p>
+                  <p>Oh!</p>
+                  <p rend="italic">(sospira sollevato, poi entra anche lui un momento nello studio. In questo momento si scorge dal fondo venire la <hi rend="smallcaps">spiritata </hi>che dopo un istante di perplessità fa il giro della vetrata e si ferma dietro la porta.)</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA SETTIMA</head>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(picchia alla porta di destra. Una pausa. S'ode ancòra picchiare più forte. Poichè nessuno risponde, ella risolutamente entra. Si guarda intorno soddisfatta, poi si siede tranquillamente sopra una poltrona situata sul davanti della scena e aspetta)</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(entra dalla sinistra senza accorgersi della <hi rend="smallcaps">spiritata</hi>)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(non si volge nè si alza)</p>
+                  <p>Dottore, sono qua io.</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(ha un gesto di stupore)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(dopo una pausa)</p>
+                  <p>Sono io che vi faccio una visita.</p>
+                  <p rend="italic">(sorridendo senza voltarsi):</p>
+                  <p>Non domando di essere picchiata qui,</p>
+                  <p rend="italic">(indica il petto)</p>
+                  <p>...nè ascoltata. Niente. A voi, che siete dottore, faccio una visita io che non sono più malata!</p>
+                  <p rend="italic">(dopo una pausa)</p>
+                  <p>È la prima volta, dottore, che io vado a trovare qualcuno senza che la mia visita abbia uno scopo spiacevole come quello di farsi curare...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Avete lasciata la vostra terrazza...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>La terrazza, le rondini, i girasoli, e la nonna sospesa con la sua ansia sopra la città... Sapete che la mia nonna ha paura di morire?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma è la malattia di tutta la casa. Ed è un po' colpa vostra!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Io non so nulla.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma quel che sapete lo dite con tale semplicità e fermezza da costituire l'unica verità incontrastabile. Dianzi ha corso il rischio di rimanere vittima di una disgrazia l'avvocato. Lo sapete?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Io no.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Non avete incontrato molta gente per le scale?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Ah! Era per questo?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ebbene, a un certo momento tutta la casa sembrava placata. Ma per poco. Perchè l'avvocato non è morto.</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Dottore, io non posso venire a conoscenza di queste cose perchè vivo in aria. Lassù, la casa ha un respiro che non le permette di ingerirsi in certe faccende... Sicchè io non so nulla. O meglio so le cose di cui mi piace occuparmi. Anche la mia pena so, e mi piace, nel senso che la tengo per me e la soffro. Io non sono una creatura felice. Perchè, se lo fossi, credo che avrei le ali: e gli occhi della nonna non basterebbero a imprigionarmi. E poi... per essere felice bisognerebbe, credo, vedere tante cose che passano, senza soffrire. Invece io soffro di tutto, dottore...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(fissandola)</p>
+                  <p>Dunque voi non siete felice....</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Già. Ma non si tratta di questo. Dottore, io credo di essere innamorata...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ah sì? Voi, innamorata?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Sì.</p>
+                  <p>IL DOTTORE</p>
+                  <p>E di chi?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Di voi!</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(sbalordito)</p>
+                  <p>Siete innamorata di me?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Sì, dottore.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ne siete certa?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(senza mai voltarsi, dopo aver pensato)</p>
+                  <p>Ho capito che sono innamorata di voi. Che parola grossa! Mai io so che a voi che siete il mio medico bisogna confessare ogni cosa...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma... Siete innamorata di me.. come?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Io ve lo domando, signore.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Signorina, voi con la vostra semplicità mi parlate in una maniera — come dire? — sconcertante...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non mi chiamate signorina. Nessuno mi chiama così. Del resto sono vecchia. Ma appunto il mio tormento è di avere quest'anima più piccola di me che mi corre sempre avanti e che io non riesco mai a raggiungere. E tanto è l'affanno — vedete? — che devo fermarmi a ogni momento. Anche ora che vi parlo sono una povera cosa buttata su questa poltrona. Ma quella che mi precede è viva, è tanto viva che guai se fosse qui! Forse è perchè mi manca il suo aiuto che io ho sempre tante cose da capire...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma... scusate... Voi dite che siete innamorata di me rimanendo seduta in poltrona...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Dove mi devo mettere?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Sapete che io sono ammogliato?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Che vuol dire? Io non vi chiedo nulla. Vostra moglie non può essere gelosa di me...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Dunque sapete che si può essere gelose?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(seguendo il suo pensiero)</p>
+                  <p>Tanto è vero che, se fosse qui, lo direi anche a lei!</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(spaventato)</p>
+                  <p>Ma guardatevene bene!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Perchè?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Intanto, lasciate che vi guardi! E alzatevi in piedi!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(si alza e si volge verso il dottore)</p>
+                  <p>Ecco.</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(dopo averla guardata da capo a piedi)</p>
+                  <p>Come è questo amore?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Dottore, voi con la vostra volontà e con la vostra forza avete ghermita l'anima mia, l'altra sera! Siete stato il mio padrone! L'ombra che fuggiva dinanzi a me e che si rincantucciava per tutta la casa l'ho raggiunta! Io ho visto il suo volto! Oh dottore! Per merito vostro questo è avvenuto! Per merito vostro si è fatta una grande luce dentro di me! Io oggi vedo ancòra quel volto, e anche ora che vi parlo esso è al mio fianco, e io non tremo! Io gli sorrido! Dunque se io devo a voi, che siete il mio padrone, questo miracolo, è perchè sono già perdutamente vostra!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Mi parlate in un certo modo...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Vi parlo come si conviene al mio amore! Mi son messo per voi questo vestito...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma voi mi conoscete poco...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Oh! Io vi ho conosciuto in quella corsa pazza dell'anima mia a traverso il mistero! Mi conduceste per mano, e da quel momento non vi ho abbandonato più...</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(come guardandola con altri occhi)</p>
+                  <p>Siete una creatura strana... </p>
+                  <p>LA SPIRITATA</p>
+                  <p>Perchè?</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(fissandola)</p>
+                  <p>Che volete da me?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Nulla. Bisogna dunque volere qualche cosa?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma una donna che ama — come anche un uomo — aspira a qualche cosa. Aspira, per lo meno, alla felicità. La felicità è un desiderio che si snoda, che tende, a sua volta, alla massima espansione...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Io infatti aspiro a trarvi con me dove c'è più spazio, dove la luce è infinita...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma voi siete anche una creatura di carne ed ossa...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Oh! Lo credo, dottore!...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ah dunque! Vivete! Avete dei nervi! Del sangue! Del desiderio! E tutto quello che spira da voi è come un soffio che viene dall'alto! Siete una creatura infelice, sola, ma privilegiata...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Io non lo so, dottore.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Tutto è fresco e incorrotto in voi!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Io non lo so. Dottore, io conservo ancòra quasi intera la fialetta di quella vostra terribile medicina...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Male! Avreste dovuto gettarla dalla finestra!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Oh! Gettare del veleno dalla finestra! Io sono abituata a gettare la mia voglia infinita d'immergermi nell'azzurro...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ora mi pare di guardarvi con altri occhi.</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Come sono contenta! Vuol dire che è come una luce nuova che illumina l'anima vostra!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Una luce che dà alla vostra figura, che era fino a un momento fa come assente dalla vita, una fiamma che la trasforma! Lasciate che io vi prenda le mani... Esse non sono mai state prigioniere di nessuno!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>E non hanno neppure mai imprigionato nulla! Tutte le cose mi piaceva vedermele fuggire davanti a me!</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(appassionandosi)</p>
+                  <p>Io insegnerò a queste mani a imprigionare la gioia!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>E poi?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Poi insegnerò a te la cosa più bella che rende una donna misteriosa e crudele...</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Che cosa?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Io ti insegnerò a custodire il tuo segreto. Non puoi capire, ora, che mirabile cosa sia. A poco a poco non ti sentirai più dispersa, come adesso, tra le nuvole... Ti sentirai tua, ti apparterrai, ti custodirai come un premio da offrire all'uomo che ami. Io ti insegnerò a gioire e a soffrire del tuo segreto. Io ti insegnerò a mentire. E tu sarai finalmente una donna che vivrà della sua passione, e questa passione sarà per la tua carne una specie di odio. E quando dalla tua terrazza sarai scesa giù nella vita, attraversando questi tre piani dove gli uomini pagano tutti i giorni alla esistenza il tributo della loro miseria, della loro aspirazione e del loro terrore, allora sì che da un'anima come te, che si beò di azzurro, può venir fuori una meravigliosa creatura viva, che avrà i piedi sulla terra e le braccia... al collo dell'amante...</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(comicamente semplice)</p>
+                  <p>Adesso che devo fare, dottore? Vi devo abbracciare? No. Non debbo. Non lo vorrò mai.</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(ride. Poi, attirandola a sè)</p>
+                  <p>Non hai mai baciato un uomo?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>No.</p>
+                  <p>IL DOTTORE</p>
+                  <p>Nè sul viso nè sulla bocca?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>No!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Oh sì! Se sapessi come questo mi piace!... Senti, piccina, io ti verrò a trovare.</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Quando?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Sempre!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Oh! Non farete in tempo!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Perchè?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Verranno a prendermi prima che voi arriviate!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Che vuol dire?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>È un piccolo segreto...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma no! Io ti verrò a trovare lassù! E tu sarai mia! Capisci?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(con candore e semplicità)</p>
+                  <p>Non sono già vostra?</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma via! Sta attenta e intendimi come mi deve intendere una donna!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(tremante dopo averlo guardato in silenzio)</p>
+                  <p>Ma non è questo... non è questo...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Cara... cara... cara…</p>
+                  <p rend="italic">(l'attira a sè con violenza)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(si svincola bruscamente con una specie di glaciale orrore)</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ebbene? Che hai? Che avete? Via... Rispondete!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non so. Mi pare di aver paura della vostra faccia e dei vostri occhi. No... Non è questo che io volevo da voi! Non è questo. Perdonate. Mi sono sbagliata. Vuol dire che pagherò... Io volevo da voi una piccola gioia da custodire con me su in alto...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Che vuol dire?</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Vuol dire una cosa terribile, forse. Vuol dire che io, che sono sempre stata la più misera delle creature, credevo di potermi permettere questo grande lusso di salutare per un giorno il mio amore e dirgli addio senza tremare, così... come senza tremare mi sono accompagnata a Colei che cammina oggi al mio fianco... Mi sono sbagliata... Capisco che questo lusso non bisognava cercarlo in mezzo agli uomini, perchè gli uomini uccidono sempre le cose belle... e rimane bello solo quello che nasce da noi ed è il premio del nostro patire...</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma non pensate a cose assurde!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Lasciatemi andare!</p>
+                  <p>IL DOTTORE</p>
+                  <p>No, no che non vi lascio!</p>
+                  <p rend="italic">(l'abbraccia con violenza)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(gelidamente, con orrore)</p>
+                  <p>No.</p>
+                  <p>IL DOTTORE</p>
+                  <p rend="italic">(irritato)</p>
+                  <p>Ma che avete mai! Mi avete detto di amarmi e mi guardate come se io vi ispirassi della ripugnanza!</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(annientata, ostile)</p>
+                  <p>Il mio amore aveva la faccia del sole. Non siete voi!</p>
+                  <p>IL DOTTORE</p>
+                  <p>Ma io rinunzio a capirvi!</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Non potete capirmi! Sono scesa in mezzo agli uomini e non vi è posto per me! Ma io dovevo andarmene senza chiedere nulla agli uomini; nemmeno il ricordo di un sorriso... Pagherò, pagherò questo errore...</p>
+                  <p rend="italic">(se ne va, lentamente, umilmente, come una cosa già distaccata dal mondo)</p>
+                  <p rend="center">(SIPARIO)</p>
+               </div>
+            </div>
+            <div type="div2">
+               <head>Atto terzo</head>
+               <p rend="italic">Una sala da pranzo, che comunica, per mezzo della comune, che è nel fondo, col pianerottolo che dà sulle scale.</p>
+               <p rend="italic">La parete di fondo è, a due terzi a sinistra, troncata perchè si prolunga ad angolo per far parte della terrazza aperta sul fondo del cielo.</p>
+               <p rend="italic">Questa terrazza viene così ad occupare un terzo della scena, formando un solo vano con la stanza: la quale ha una vôlta a muro mentre la terrazza l'ha a vetri. Anche la parete destra della terrazza, che comunica col pianerottolo, ha una invetriata, in modo che si possano vedere, sporgendosi da quella, le persone che salgono le scale.</p>
+               <p>
+                  <hi rend="italic">Siamo nel terzo piano occupato dalla </hi>
+                  <hi rend="smallcaps">Spiritat</hi>
+                  <hi rend="smallcaps">a</hi>
+                  <hi rend="italic">  e dalla «nonna».</hi>
+               </p>
+               <p rend="italic">Contro la parete di fondo (a destra della comune) è collocata una credenza. Sul davanti, presso la credenza, è una tavola da pranzo.</p>
+               <p rend="italic">Nell'angolo preciso formato dalla parete di fondo che va verso la terrazza è situata un'ampia poltrona a bracciuoli su cui è seduta la «nonna». Ella ha in mano il bastone a cui talvolta si appoggia con la destra, il corpo immobile, lo sguardo vigile. In tale atteggiamento di vecchio idolo rimarrà durante il terzo atto. Tutta la stanza ha un aspetto straordinariamente gaio, sia per la luce che vi penetra dalla terrazza, sia per i fiori sparsi da per tutto e per le piante che dai vasi si alzano per le pareti, formando quasi, con la terrazza, un pensile giardino.</p>
+               <div type="div3" rend="P67">
+                  <head>SCENA PRIMA</head>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(dalla comune, seguìta dall'<hi rend="smallcaps">uomo che avrebbe già ecc</hi>.)</p>
+                  <p>È permesso?... Non c'è nessuno...</p>
+                  <p rend="italic">(all'<hi rend="smallcaps">uomo che ecc</hi>.)</p>
+                  <p>Non c'è nessuno...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Possibile? Ci sarà almeno la vecchia!... Infatti, eccola là!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Ah! </p>
+                  <p rend="italic">(alla vecchia)</p>
+                  <p>Come va?</p>
+                  <p rend="italic">(all'<hi rend="smallcaps">uomo che avrebbe già ecc</hi>.)</p>
+                  <p>Non vi pare che abbia la stessa faccia degli altri giorni?</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>Altrochè! Mi rincresce per voi, ma sta benone! E vi dico sinceramente: mi rincresce per voi!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>State zitto! Tra voi e lei ho fatto un bell'affare! Accidenti, avete tutti una salute d'inferno!</p>
+                  <p rend="italic">(alla vecchia)</p>
+                  <p>Sono contenta di trovarvi in buona salute!</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>Ipocrita!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Avete ragione. Con lei che è sorda ci si potrebbe permettere il lusso di dire sinceramente quello che abbiamo dentro. Anche a voi, poco fa, quando ho detto: «Come va? Ah! Come sono contenta di vedervi!» avrei dovuto dire: «O Dio! Non siete ancòra crepato? Se sapeste che preoccupazione mi dà il vedervi ancòra al mondo»!...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Ah sì?</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Almeno con quella sorda lì, vedete si può adoperare impunemente l'altra voce:</p>
+                  <p rend="italic">(sorridendole; col gesto inchinevole di chi fa un complimento)</p>
+                  <p>«Ma, egregia signora, credevo che aveste il buon senso di liberare dall'incubo tutta la casa!... Ma che diamine! Siete proprio senza discrezione!» Ecco. Vedete: io avrei bisogno di una sorda come quella lì che stesse a mia disposizione giorno e notte, per adoperare ogni tanto l'altra voce che mi fa un groppo qui...</p>
+                  <p rend="italic">(indica il petto e ride)</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p rend="italic">(con aria tragica)</p>
+                  <p>Sì, ma voi ignorate una cosa terribile!</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(spaventata)</p>
+                  <p>Che?</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p rend="italic">(c. s.)</p>
+                  <p>Che non e vero che quella donna è sorda!</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(getta un piccolo grido e si attacca al collo di lui)</p>
+                  <p>l'uomo che avrebbe DOVUTO MORIRE</p>
+                  <p rend="italic">(sempre tragico)</p>
+                  <p>E adesso ha udito tutto!</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(ripetendo il grido)</p>
+                  <p>No! Non mi fate impaurire!... Se fosse vero!</p>
+                  <p>l'uomo che avrebbe DOVUTO MORIRE</p>
+                  <p>Non vi spaventate. L'unica cosa certa in questa casa è che quella vecchia è sorda come la caparbietà, sorda come un muro di cinta quando c'è la nebbia, sorda come una cassa da morto quando è sottoterra: e sono le tre cose veramente sorde di questo mondo. Ma per quel che riguarda i vostri voti di spedirla al Creatore... ho i miei dubbi... E pensare che io... avrei voluto aiutarvi in qualche modo...</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Voi siete falso, bugiardo! — è l'altra voce che parla. — Mi son perfino data a voi perchè mi avevate giurato che io sarei stata l'ultimo vostro peccato. E invece eccomi qui! Non rimangono che poche ore — tre ore — e siete salito con me al terzo piano con la speranza — ne son certa — di trovar la vecchia in cattive condizioni...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Piccina mia, se io potessi in qualche modo aiutarvi...</p>
+                  <p>LA COCOTTINA</p>
+                  <p>A chiacchiere!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Avanti, ditemi che cosa posso fare!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Lasciamo andare... Non è un discorso da cristiano il mio... Ma, infine, se aveste avuto veramente l'intenzione... quel che tardava a compiere il destino... potevate affrettarlo voi...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p rend="italic">(sbalordito)</p>
+                  <p>Uccidermi?</p>
+                  <p rend="italic">(si batte la fronte con comica violenza)</p>
+                  <p>Ah! Stupido!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Che c'è?</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>Non ci avevo pensato.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Eppure, è elementare.</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>È elementare, è semplice, eppure, vedete: niente!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Come niente? Non lo volete fare?</p>
+                  <p>l'uomo che AVREBBE DOVUTO MORIRE</p>
+                  <p>Io no.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Vedete? Avevo o non avevo ragione?</p>
+                  <p>l'uomo CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>Prima devo vincere la causa.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Che causa?</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>La causa che voglio intentare al mio medico...</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(toccandogli una spalla)</p>
+                  <p>È con questa barzelletta, caro mio, che voi ci sotterrate qui tutti quanti siamo nella casa: uomini, donne, vecchi, bambini e centenarii...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Ma mi dite chi vi ha resa così feroce?</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(quasi gridando)</p>
+                  <p>La paura, caro! La paura! Se non avessi paura di morire io, vorrei che tutti campassero mille anni!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Andiamo, via! Credete veramente alla serietà della profezia della Spiritata?</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Devo essere sincera?</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Voi siete sempre sincera: per spavalderia, più che per lealtà, ma lo siete.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Bene: io vi dico che quando mi metto a ragionare, non credo. Ma quand'è che io mi metto a ragionare...</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Siete deliziosa. Vi propongo un affare.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Dite.</p>
+                  <p>l'uomo che avrebbe DOVUTO MORIRE</p>
+                  <p>Uccidetemi voi.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>E lo chiamate un affare?</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Sì, perchè se muoio l'incanto è rotto.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Prima di tutto voi non morite neanche ad ammazzarvi... E poi non ho nessuna intenzione di andare in galera.</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p>No! Un genere di morte speciale. Noi ci diamo alle gozzoviglie. Bagordi giorno e notte. Oppio. Champagne. Dopo pochissimi giorni io sono spacciato.</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(seria)</p>
+                  <p>No, caro! Troppo tardi.</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Perchè?</p>
+                  <p>la COCOTTINA</p>
+                  <p>L'idea sarebbe buona, ma manca il tempo. Dovevate dirmelo otto giorni prima. Adesso che volete fare? Restano tre ore! Son poche.</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Ah! Perchè... dopo scaduto il termine... fra tre ore…</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Io mi metto a ballare, io mi metto a saltare, io me ne infischio di voi. E anche della profezia!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Quand'è così, licenziamoci dalla vecchia. Sapete che in casa non c'è più nessuno? Per la paura... sono tutti usciti a passeggio... Per la paura la casa è deserta!</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Hanno fatto benissimo. Ora esco a passeggio anch'io...</p>
+                  <p rend="italic">(in ascolto)</p>
+                  <p>Però qualcuno in casa è rimasto. Udite? Salgono le scale... Anche loro vengono a informarsi della salute della nonna... come noi... come noi!... E proveranno lo stesso nostro dispiacere!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p rend="italic">(prendendo a braccetto la <hi rend="smallcaps">cocottina</hi>)</p>
+                  <p>Be'. Licenziamoci dalla centenaria.</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(con un inchino)</p>
+                  <p>Arrivederci. Dio vi conservi... i vostri lunghi giorni... Che Dio benedica.... la vostra caparbietà...</p>
+                  <p>L'UOMO CHE AVREBBE DOVUTO MORIRE</p>
+                  <p rend="italic">(ha seguito la donna nella mimica e nelle parole. Entrambi se ne vanno sotto braccio quasi saltando, ma sull'uscio si incontrano con la <hi rend="smallcaps">madre della signorina per bene</hi>, la <hi rend="smallcaps">studentessa</hi>, la <hi rend="smallcaps">madre della prima bambina</hi> e l'<hi rend="smallcaps">uomo squallido</hi>. Allora tornano indietro di qualche passo, e rimangono in attesa).</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA SECONDA</head>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(affannata, come tutti gli altri)</p>
+                  <p>È permesso? Come sta? Come sta?</p>
+                  <p rend="italic">(si agita sul limitare)</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p rend="italic">(anch'essa sul limitare)</p>
+                  <p>È vero che si è sentita male?</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Chi?</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE, LA MADRE DELLA PRIMA BAMBINA, LA SIGNORINA PER BENE, l'uomo SQUALLIDO</p>
+                  <p rend="italic">(a bassa voce)</p>
+                  <p>La nonna...</p>
+                  <p>l'uomo che AVREBBE DOVUTO MORIRE</p>
+                  <p rend="italic">(ghignando)</p>
+                  <p>Eccola là.</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE, LA MADRE DELLA PRIMA BAMBINA, LA SIGNORINA PER BENE, l'uomo SQUALLIDO</p>
+                  <p>Oh!...</p>
+                  <p rend="italic">(allungano il collo verso la vecchia, sempre rimanendo sul limitare, cercando di mostrarsi soddisfatti)</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p>Ma si può sapere chi aveva sparsa la notizia?</p>
+                  <p>l'uomo squallido</p>
+                  <p rend="italic">(un po' a distanza)</p>
+                  <p>Qualcuno che voleva farmi morire di sincope obbligandomi a salire le scale con tanta fretta!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p rend="italic">(piano alla <hi rend="smallcaps">cocottina</hi>)</p>
+                  <p>La sincope gli verrà pel dispiacere di averle salite inutilmente. È strano. Incominciano a non credere più alle profezie: ma la paura rimane tale e quale.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Sapete chi è quella che ci crede più di tutti?</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Chi?</p>
+                  <p>LA COCOTTINA</p>
+                  <p>La vecchia!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Ah sì?</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Hanno avuto la crudeltà, durante il pranzo, di metterla al corrente con i gesti. Glie l'hanno anche spiegata sopra un pezzo di carta!</p>
+                  <p>l'uomo che avrebbe dovuto morire</p>
+                  <p>Che bruti!</p>
+                  <p>LA MADRE DELLA PRIMA BAMBINA</p>
+                  <p rend="italic">(guardando verso la porta di destra esclama in fretta)</p>
+                  <p>La signorina! La signorina!</p>
+                  <p rend="italic">(immediatamente tutti si alzano. Silenzio).</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA TERZA</head>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(si ferma interdetta, sul limitare)</p>
+                  <p>Che c'è?</p>
+                  <p>LA MADRE DELLA SIGNORINA PER BENE</p>
+                  <p>Eravamo venute per vedere come stava la nonna. Ci avevano detto...</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(volge lo sguardo intorno fissandoli uno per uno con commiserazione)</p>
+                  <p>La nonna sta bene.</p>
+                  <p rend="italic">(pausa, nessuno si muove)</p>
+                  <p>LA COCOTTINA</p>
+                  <p rend="italic">(con untuosa cortesia)</p>
+                  <p>Uscite anche voi?</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(seccamente)</p>
+                  <p>Io no.</p>
+                  <p>LA COCOTTINA</p>
+                  <p>Anche addosso un così bel vestito!...</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(seccamente)</p>
+                  <p>Aspetto qualcuno.</p>
+                  <p>TUTTI</p>
+                  <p>Ah!</p>
+                  <p rend="italic">(silenzio imbarazzante)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(senza muoversi dal suo posto)</p>
+                  <p>Addio a tutti.</p>
+                  <p rend="italic">(in silenzio tutti se ne vanno. La <hi rend="smallcaps">spiritata</hi>, ferma nel mezzo della scena, aspetta che se ne siano andati. Poi in fretta chiude la porta e si volge con la faccia verso il pubblico. È assai pallida. Si passa una mano sul viso quasi per scacciarne l'impressione di disgusto. Ma ecco: il viso le s'illumina improvvisamente mentre ella si dirige in fretta verso la nonna).</p>
+               </div>
+               <div type="div3">
+                  <head>SCENA ULTIMA</head>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(scherzosa, con le mani ai fianchi)</p>
+                  <p>Ah sì? È così che si approfitta della mia assenza per ricevere tutta quella gente? Per cinque minuti che son rimasta di là?... Eh? Si fanno queste cose?</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(si agita fissando la veste che attrae la sua curiosità)</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(facendo qualche passo indietro)</p>
+                  <p>Eh? Che cosa vuoi sapere?</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(si alza in piedi e appoggiandosi al bastone sta per fare un passo)</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Niente affatto! Se la signora non rimane al suo posto non facciamo vedere niente... Dunque, sùbito a sedere!... Così... Adesso va bene. Che cosa crede di vedere di nuovo, di straordinario? Niente! La mia piccola veste!</p>
+                  <p rend="italic">(va ad aprire la credenza. La prima parte della scena che segue va detta da lei mentre è occupata ad apparecchiare la tavola)</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(guarda sempre la veste con un senso misto di curiosità e di piacere)</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Sì, sì, guardala... Ti sembra di non averla mai vista?</p>
+                  <p rend="italic">(osservando la vecchia)</p>
+                  <p>Ma adesso io so che cosa si va mulinando in quella testa!...</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(la guarda fissamente come se volesse chiedere a sua nipote perchè ha indossata quella veste).</p>
+                  <p>LA SPIRITATA</p>
+                  <p rend="italic">(si pianta un momento dinanzi a lei. E siccome la <hi rend="smallcaps">nonna</hi> rimane trasecolata lei ride)</p>
+                  <p>E perchè no? Tutte le donne indossano le loro vesti, ne cambiano anche parecchie al giorno e io, poverina, non ne posso mettere una nuova? Sentiamo! È tale la curiosità che incominci a soffrire... No, no, poverina... Ecco qua..,</p>
+                  <p rend="italic">(le fa capire coi gesti)</p>
+                  <p>«Aspetto un'amica»…</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(guarda con ansietà la <hi rend="smallcaps">spiritata</hi>)</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Oh!... Il mistero è spiegato...</p>
+                  <p rend="italic">(torna ad apparecchiare)</p>
+                  <p>Lo so, lo so che quando viene qualcuno tu sei tutta contenta... Lo so, lo so che con me ti annoi...</p>
+                  <p rend="italic">(dà uno sguardo alla terrazza)</p>
+                  <p>E dire che a ricevere festosamente la mia amica non c'è che questo sconfinato tramonto! Il solo che abbia fatto le cose con grandiosità! E tu non avrai un po' di freddo?</p>
+                  <p rend="italic">(le tocca le mani)</p>
+                  <p>No... Guarda!</p>
+                  <p rend="italic">(accennando al cielo che appare oltre la terrazza)</p>
+                  <p>Guarda come incomincia ad esser tutto rosa e viola... Sì, sì... è veramente una ricca galanteria da offrire a un ospite che si ama e che si rispetta! Nonna, io ti voglio bene...</p>
+                  <p rend="italic">(poi, sùbito, senza guardarla)</p>
+                  <p>Ti voglio bene! Oh! Non è necessario essere riamati... Si vuol bene a una cosa quando è già bella in noi... Il resto non conta niente... Nonna, io ti terrò un discorso allegro... Tu sei avvezza ormai da tanti anni ai miei discorsi!... Anche se non li puoi udire, ti tengono compagnia... e io sento egualmente la dolcezza di parlarti... Cara nonna, io lo so perchè mi guardi! Tu pensi all'amica che io aspetto e cerchi d'indovinare chi possa essere, e non ti raccapezzi... Ma se ti rivelo chi è, i tuoi occhi non potranno avere la sorpresa di dire, più tardi: «oh! ci volevate voi per far indossare alla mia nipote un vestito nuovo!». Oh!... intanto, prima che me ne dimentichi... Aspettami, neh? Guai se non ti ritrovo lì, guai se scendi a precipizio le scale!</p>
+                  <p rend="italic">(Ride nervosamente mentre la nonna sèguita a fissarla negli occhi con angoscia)</p>
+                  <p>Cara nonna, lo so che non sei famosa per le gambe! Aspettami dunque buona... buona... buona…</p>
+                  <p rend="italic">(va in terrazza)</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(approfitta della breve assenza per uscire dalla sua immobilità. Poi volge lo sguardo di qua, di là, inquieta, nervosa e diffidente. Ma appena rientra la <hi rend="smallcaps">spiritata</hi>, torna alla immobilità di prima).</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Oh! Ecco qua...</p>
+                  <p rend="italic">(mette un gran mazzo di fiori nel portavaso che è sopra la tavola e poi si siede affranta)</p>
+                  <p>Dio, come sono stanca!</p>
+                  <p rend="italic">(rimane con gli occhi sbarrati davanti a sè, e poi guarda la nonna. Sùbito la sua faccia si illumina)</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(fa dei cenni con la mano indicando la tavola, con gli occhi che quasi sorridono)</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Sentiamo... sentiamo... La nonna dice qualche cosa... La tavola? Questa tavola?</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(accenna con gli occhi di sì)</p>
+                  <p>LA SPIRITATA</p>
+                  <p>No... Non deve essere questo... E allora?</p>
+                  <p rend="italic">(la guarda cercando di indovinare)</p>
+                  <p>Ah! Perchè non faccio rimanere a cena la mia amica? Sì?</p>
+                  <p rend="italic">(coi gesti si fa capire)</p>
+                  <p rend="justify">«la mia amica a cena con me?»</p>
+                  <p rend="italic">(La nonna accenna di sì, soddisfatta).</p>
+                  <p>LA SPIRITATA</p>
+                  <p>Ah! Civetta di una nonna! Ah sì? Tu vuoi che rimanga con me? E che cosa le daremo da cena? Questo latte qua? E quel tramonto là?</p>
+                  <p rend="italic">(risolvendosi in fretta)</p>
+                  <p>Oh! Io per me non ho nessuna difficoltà a contentarti... Ecco qua il coperto per l'amica... Il posto c'è! Tutto sta a vedere se essa accetti!... Oh! se non ha fretta... Tante volte, quando non aveva fretta, s'è seduta là, e poi se ne è andata... Beh! Sei contenta adesso? Oh! Brava! Il tuo latte è ancora bollente, e siccome alla mia nonnina piace freddo, può aspettare quanto vuole!... Dunque!... Le violette le ho posate vicino a te...</p>
+                  <p rend="italic">(va a prendere un vasetto pieno di viole, sulla terrazza)</p>
+                  <p>...E tu ostinata, sempre con le spalle voltate al cielo, non vedi mai niente. Ma il cielo è generoso lo stesso!</p>
+                  <p rend="italic">(dispone le violette sulla tavola, ma a un tratto si mette a seguire con gli occhi qualche cosa che si aggira sui fiori della terrazza)</p>
+                  <p>Ed è così — capisci? — per la tua ostinazione a non occuparti delle cose che succedono nell'aria — che non ti accorgi dei saccheggi che si compiono a due passi da te!... Da dove è entrato poi quel signore, non lo so...</p>
+                  <p rend="italic">(avvicinandosi)</p>
+                  <p>Scusi: non sarà lei il proprietario delle mie bocche di leone? Guarda, nonna: una capatina e poi via! Soddisfatto come un signore che esce da un banchetto! Addio! Buona passeggiata per il cielo!</p>
+                  <p rend="italic">(rimane estatica a guardare davanti a sè. Poi, come svegliandosi, un po' senza fiato, portandosi una mano al cuore)</p>
+                  <p>Oh! Nonna! Nonna! Sai perchè discorro tanto? Per ingannare la mia ansietà per questa visita che aspetto!</p>
+                  <p rend="italic">(in ascolto)</p>
+                  <p>Un momento, che pare che mi chiamino... Sì. C'è!</p>
+                  <p rend="italic">(con una luce strana sul viso)</p>
+                  <p>Oh! Puntuale, come una regina!</p>
+                  <p rend="italic">(si sporge dalla terrazza verso i<hi rend="italic">l </hi>fondo)</p>
+                  <p>Quassù! Quassù!...</p>
+                  <p rend="italic">(accorre presso la nonna, si guarda in giro per la stanza)</p>
+                  <p>Oh Dio! Non manca niente? Non capisco più niente... Ora la vedrò salire dal pianerottolo...</p>
+                  <p rend="italic">(va sulla terrazza, dalla parte delle scale, si sporge un poco e dice:)</p>
+                  <p>Quassù! Sì!</p>
+                  <p rend="italic">(ride)</p>
+                  <p>Buona sera!</p>
+                  <p rend="italic">(alla nonna, con improvvisa animazione)</p>
+                  <p>Viene, sai? È già al primo pianerottolo! Oh! Sempre così leggera... Col suo passo sicuro... Sempre così è stata!</p>
+                  <p rend="italic">(fa qualche passo nella stanza, poi torna verso la vecchia)</p>
+                  <p>Nonna! Nonna! Sai? Non farmi una scena di gelosia... Ti avverto prima!...</p>
+                  <p rend="italic">(le bacia le mani e subito torna in ascolto)</p>
+                  <p>La senti... la senti che è già al secondo pianerottolo?!...</p>
+                  <p rend="italic">(s'irrigidisce ferma in piedi)</p>
+                  <p>E vedi: è tale l'ansietà che mi vien male... Ecco... Ecco il suo passo... Il suo leggero, il suo formidabile passo!...</p>
+                  <p rend="italic">(un po' barcollando si lascia cadere sulla poltrona come se non reggesse alla propria ansietà)</p>
+                  <p>E io sono seduta... qui... e ti aspetto!</p>
+                  <p rend="italic">(Improvvisamente si aprono i due battenti della porta, e si rinchiudono. Qualcuno invisibile, è entrato, ed ha fermato l'uscio, dopo aver fatto intravedere il pianerottolo buio. La <hi rend="smallcaps">spiritata</hi> ha appoggiato la nuca sulla spalliera della poltrona e non si muove più)</p>
+                  <p>LA NONNA</p>
+                  <p rend="italic">(che era rimasta con gli occhi sbarrati dallo stupore, con uno sforzo si alza, si avvicina alla <hi rend="smallcaps">spiritata</hi>, la osserva, le tocca il viso, le mani, poi ancòra il viso. Sente che è fredda. La faccia le s'illumina d'una terribile pace sinistra che somiglia alla gioia. Poi stampellando attraversa la scena piuttosto in fretta ed esce dalla porta di destra. Si sente nei piani inferiori il rumore degli inquilini che rientrano: uno strascicare di passi, un parlottare confuso, porte che si chiudono, risa represse, campanelli che squillano lontano. È la casa che riprende a poco a poco il suo ritmo: l'umanità placata che indugia per le scale si affaccia alle finestre, aspetta al limitare degli usci; voci chiare di bimbi, richiami trepidi di mamme, e, all'improvviso, un silenzio altissimo.</p>
+                  <p rend="center">(sipario)</p>
+                  <p rend="center">FINE DELLA COMMEDIA</p>
+               </div>
+            </div>
+         </div>
+         <div type="div1" rend="P65">
+            <head>I diavoli nella foresta</head>
+            <subtitle>(Favola in un atto)</subtitle>
+            <div type="div2">
+               <head>Personaggi</head>
+               <p rend="center">DORA</p>
+               <p rend="center">50 DIAVOLI</p>
+               <p rend="center">VOCI DI LEGNAIUOLI</p>
+               <p>L'azione ha luogo nel centro di una foresta sopra una montagna.</p>
+               <p rend="italic">La scena è una specie di landa nel folto di una foresta millenaria.</p>
+               <p rend="italic">Gli alberi giganteschi hanno l'incubo di una minacciosa umanità gesticolante.</p>
+               <p rend="italic">Grosse nuvole si addensano nel cielo ancora arrossato dal tramonto.</p>
+               <p rend="italic">Un canto di donna echeggia lontano, e rapidamente si avvicina.</p>
+               <p rend="italic">È la voce di Dora.</p>
+               <p rend="italic">Dora raccoglie legna nel bosco e appare infatti col suo fascio sul fondo della scena.</p>
+               <p rend="italic">Dora è una bellissima fanciulla di diciott'anni. Sarebbe forse la più bella di tutte le donne se un enorme malaugurato bitorzolo non deturpasse la sua guancia sinistra.</p>
+               <p rend="italic">Quel bitorzolo è lo spasimo di Dora; e s'ella non ha smesso di ridere e di scherzare è perchè nessuna cosa al mondo indurrebbe Dora a rinunziare a due cose al mondo; al canto e alla danza.</p>
+               <p rend="italic">Ella dunque seguita a cantare finchè lo scoppio di una folgore non le fa improvvisamente abbandonare il fascio di legna e fuggire pazza di terrore verso il davanti della scena in cerca di un rifugio ch'ella conosce benissimo.</p>
+               <p rend="italic">È nel cavo di un vecchio albero, di cui è rimasta in piedi l'enorme carcassa, ch'ella si nasconde trepidante.</p>
+               <p rend="italic">Si è appena rifugiata là dentro quando scoppia l'uragano.</p>
+               <p>
+                  <hi rend="italic">Allora, poichè è ormai al sicuro e vuol ingannare il tempo, si rimette a cantare.</hi>
+               </p>
+               <p rend="italic">La notte scende rapidamente. La tempesta accenna anch'essa d'un tratto a cessare quando si ode il brusio quasi animalesco di molte voci rauche e laceranti.</p>
+               <p>DORA</p>
+               <p rend="italic">(stupita)</p>
+               <p>Dio mio! Chi sarà mai?</p>
+               <p>UNA VOCE</p>
+               <p rend="italic">(seguìta da una specie di coro che la imita)</p>
+               <p>Uh! uh! uh! uh!</p>
+               <p rend="italic">(Un'altra voce pare che esca dal ventre di una rana gigantesca. Suoni e voci chiocce miste a risate terribili si avvicinano sempre più)</p>
+               <p>DORA</p>
+               <p>È possibile? Io credevo di esser sola nella montagna! Essa è dunque abitata? E da chi?</p>
+               <p rend="italic">Una folla di giganti si delinea nel fondo, e ciascuno brandisce una torcia di resina le cui fiamme guizzano fantasticamente.</p>
+               <p rend="italic">(preoccupata)</p>
+               <p>Non è gente del mio borgo...</p>
+               <p rend="italic">Rimane a guardare con gli occhi sbarrati. Ma poi, presa dal terrore, si ritira nella sua nicchia battendo i denti.</p>
+               <p>Madonna mia, sono i demonii!</p>
+               <p rend="italic">E battendo i denti mormora:</p>
+               <p>Mi mangiano! Mi mangiano!</p>
+               <p rend="italic">I demoni (sono essi, infatti) si fermano bofonchiando allegramente. Ciascuno ha piantato per terra la propria torcia con la punta di ferro che la regge, segnando un circolo perfetto.</p>
+               <p rend="italic">Sono cinquanta demonii, e cinquanta torce vengono infisse in modo da formare un grande cerchio di fuoco dentro cui tutti si mettono a sedere.</p>
+               <p>DORA</p>
+               <p rend="italic">(più morta che viva, dando un'occhiata in giro)</p>
+               <p>Che orribili facce!</p>
+               <p rend="italic">Infatti ve ne sono di tutte le specie, e l'una più spaventosa dell'altra. Qualche demonio è nero e vestito di rosso. Qualche altro è rosso e vestito di verde. C'è chi ha soltanto un enorme occhio nel mezzo della fronte. C'è chi non possiede la bocca. C'è chi non possiede il naso.</p>
+               <p rend="italic">Tutti però sono allegrissimi e dopo aver tirato fuori le fiaschette di vino e le coppe dalle loro casacche, si mettono a bere.</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">(che ha la testa simile a quella di un ippopotamo)</p>
+               <p>A chi tocca a cantare?</p>
+               <p>2° DEMONIO</p>
+               <p rend="italic">(che ha due nasi, e la bocca dietro la nuca)</p>
+               <p>A me!</p>
+               <p>3° DEMONIO</p>
+               <p rend="italic">(che ha un occhio solo e si regge con una mano la coda cresciutagli soverchiamente)</p>
+               <p>Tocca a me!</p>
+               <p>1° DEMONIO</p>
+               <p>Taci, Mulàh! Non puoi cantare! Tu grugnisci come un vecchio porco!</p>
+               <p rend="italic">Tutti si mettono a ghignare grassamente. Il 3° demonio appare alquanto mortificato.</p>
+               <p rend="italic">Nessuno però smette di bere.</p>
+               <p rend="italic">Qualcuno è già ebro. Quelli che hanno un occhio solo sembrano irraggiare un fuoco livido da un rovente globo di rame.</p>
+               <p>4° DEMONIO</p>
+               <p>Tocca a Kabèt! Ai candido Kabèt!</p>
+               <p>TUTTI I DEMONI</p>
+               <p>Kabèt! Kabèt! Kabèt!</p>
+               <p>5° DEMONIO</p>
+               <p rend="italic">(che ha nome Kabèt e che è bianco di pelle, con un naso che finisce in una specie di codino arricciato, ed è vestito di verde)</p>
+               <p>Se volete canterò. Ma mi sembra di essere un poco ubriaco...</p>
+               <p>TUTTI</p>
+               <p>Uuuuh!... Uh!... Uh!..</p>
+               <p>DORA</p>
+               <p>Comincio a divertirmi. In fondo, mi sembrano buoni diavoli!...</p>
+               <p>6° DEMONIO</p>
+               <p>Canta, canta la canzone del «Sole arroventato»!</p>
+               <p>TUTTI</p>
+               <p>Sì! sì!</p>
+               <p>5° DEMONIO</p>
+               <p rend="italic">(si alza sbilenco. Prende una posa ispirata. Poi canta):</p>
+               <p rend="start">Il sole ieri — s'era scaldato<lb/>più dell'usato:</p>
+               <p rend="start">e gocciolava — tutto da un lato,<lb/>molto sudato...</p>
+               <p>TUTTI</p>
+               <p rend="italic">(in coro)</p>
+               <p>Plèa! Plèa! Zum!</p>
+               <p>5° DEMONIO</p>
+               <p rend="start">Perciò si volle — troppo affrettare<lb/>a entrare in mare!</p>
+               <p rend="start">L'acqua stridendo — prese a fumare<lb/>e a gorgogliare...</p>
+               <p>TUTTI</p>
+               <p rend="italic">(in coro)</p>
+               <p>Plèa! Plèa! Zum!</p>
+               <p>5° DEMONIO</p>
+               <p rend="start">Mille balene — le derelitte! —<lb/>furono fritte</p>
+               <p rend="start">dopo di avere — soffiato afflitte<lb/>come marmitte.</p>
+               <p>TUTTI</p>
+               <p rend="italic">(in coro)</p>
+               <p>Plèa! Plèa! Zum!</p>
+               <p rend="italic">Mormorio generale di approvazione.</p>
+               <p rend="italic">Il 5° demonio fa una piroetta mostrando le corna con le dita della mano e ghignando lievemente. È la maniera usata dai diavoli per ringraziare il pubblico.</p>
+               <p rend="italic">Allora il coro prorompe in una grossa risata che sveglia tutti gli echi della foresta.</p>
+               <p rend="italic">Poi ciascun demonio trae dalla casacca uno strumento formato da una boccia di pelle di tamburo sostenuta da un manico di legno. Battendo sulla pelle con un martelletto i diavoli traggono un suono profondo e rapido come un singhiozzo.</p>
+               <p rend="italic">Sùbito un demonio grasso si spinge nel mezzo del cerchio ardente e si mette a danzare.</p>
+               <p rend="italic">I diavoli accompagnano con una cantilena a bassa voce il ritmo della danza.</p>
+               <p>DORA</p>
+               <p rend="italic">che ha seguito attentamente questa scena col volto estatico, si torce le mani perchè è presa da una pazza voglia di ballare.</p>
+               <p rend="italic">A un tratto, non potendo reggere più, sospinta da una specie di vertigine, ella abbandona gridando il suo rifugio: quando giunge in prossimità dei demoni, batte le mani, fa una piroetta e si piega in un grazioso inchino dinanzi alla diavoleria esterrefatta.</p>
+               <p rend="italic">Con uno scatto, i cinquanta demonii sorgono in piedi tra le esclamazioni più terribili: ma Dora correndo sulle punte dei piedi è già entrata in mezzo al cerchio di fuoco e ha cominciato a danzare.</p>
+               <p rend="italic">I demonii lentamente si mettono a sedere, con le gambe incrociate. Essi a poco a poco subiscono il fascino della danza e macchinalmente riprendono a battere i martelletti sugli strumenti mentre guardano estatici la donna.</p>
+               <p rend="italic">Quando la danza è finita Dora stramazza affranta dal terrore nel mezzo del cerchio: ma i demonii l'acclamano con urli terribili esprimendo così tutta la loro soddisfazione.</p>
+               <p rend="italic">Ora ogni demonio ha ripreso in mano la sua torcia, e tutti vogliono avvicinarsi a lei.</p>
+               <p>6° DEMONIO</p>
+               <p rend="italic">(galante)</p>
+               <p>Donna! Non aver paura di noi!</p>
+               <p>7° DEMONIO</p>
+               <p>Non ti faremo alcun male.</p>
+               <p>8° DEMONIO</p>
+               <p rend="italic">(con importanza)</p>
+               <p>Siamo dei gentiluomini!</p>
+               <p>9° DEMONIO</p>
+               <p>Vorrei smarrire la mia coda tra le braccia di un prete, piuttosto che torcere un capello a te.</p>
+               <p>DORA</p>
+               <p rend="italic">(tremebonda, ma non troppo)</p>
+               <p>Proteggetemi. Son sola!</p>
+               <p>10° DEMONIO</p>
+               <p rend="italic">(stupito)</p>
+               <p>Gli uomini ti han lasciata venir sola in una montagna come questa?</p>
+               <p>DORA</p>
+               <p rend="italic">(un po' rinfrancata)</p>
+               <p>Signor Demonio, le gravi difficoltà della vita inducono gli uomini a trascurare la galanteria.</p>
+               <p rend="italic">(Mugolio di stupore fra tutti i demoni)</p>
+               <p>1° DEMONIO</p>
+               <p>È incredibile! Da che è diminuita l'importanza dei peccati mortali gli uomini hanno peggiorato. Prendi nota, Kabèt, di questo fatto: prendi nota nel tuo taccuino.</p>
+               <p rend="italic">(alla Donna)</p>
+               <p>Che ne dite voi di un centinaio di barili di zolfo con cui potremmo incendiare tutto il borgo per dargli una lezione?</p>
+               <p>DORA</p>
+               <p>Per carità! E la mia casa? E i miei fratelli?</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">(a Kabèt)</p>
+               <p>Allora niente! Cancella!</p>
+               <p>DORA</p>
+               <p>Ora vi prego di lasciarmi andar via...</p>
+               <p>1° DEMONIO</p>
+               <p>Un momento!</p>
+               <p rend="italic">(Si volge ai compagni con cui forma gruppo. Tutti si consultano sul da fare)</p>
+               <p>DORA</p>
+               <p>Ebbene?</p>
+               <p rend="center smallcaps">1° DEMONIO</p>
+               <p rend="italic">(tornando presso la donna, seguìto dai compagni con cui s'è consigliato)</p>
+               <p>Noi vogliamo che tu torni qui almeno un'altra volta a danzare.</p>
+               <p>DORA</p>
+               <p>Ve lo prometto! Tornerò con vero piacere!</p>
+               <p>2° DEMONIO</p>
+               <p>Non basta!</p>
+               <p>DORA</p>
+               <p>Ve lo giuro!</p>
+               <p>3° DEMONIO</p>
+               <p>Ci scuserai, ma non possiamo prestar fede al giuramento di una donna.</p>
+               <p>DORA</p>
+               <p>Dio! Come in questo rassomigliate agli uomini!</p>
+               <p>4° DEMONIO</p>
+               <p>Potrebbe anche darsi che tu, pur avendo tutta la buona volontà di mantenere la promessa...</p>
+               <p>DORA</p>
+               <p>Capisco, capisco... Il diavolo, se è lecito servirsi di un vecchio proverbio, potrebbe metterci la coda...</p>
+               <p>5° DEMONIO</p>
+               <p>Con tua licenza, ecco una frase stupida inventata da qualcuno che probabilmente non l'avrà mai posseduta.</p>
+               <p>DORA</p>
+               <p>Allora come volete che io faccia a rassicurarvi?</p>
+               <p>1° DEMONIO</p>
+               <p>Ecco. Abbiamo deciso che tu debba lasciarci un pegno.</p>
+               <p>DORA</p>
+               <p>Un pegno?</p>
+               <p>1° DEMONIO</p>
+               <p>Sì! Noi te lo prendiamo senza farti sentire il più piccolo dolore. Senza che neanche te ne accorga! Per esempio ti prendiamo un'orecchia. Qual'è la cosa a cui tieni di più?</p>
+               <p>DORA</p>
+               <p rend="italic">(riflette un istante. Il suo viso s'illumina mentre guarda di sottecchi i diavoli. Immediatamente ella ha già ideato il suo piano)</p>
+               <p>Non mi parlate della cosa che io amo di più. Quella non la lascerei a nessun costo... Però io posso, se credete, lasciarvi un occhio, o il naso, o le trecce...</p>
+               <p>7° DEMONIO</p>
+               <p rend="italic">(ammiccando ai compagni, con furberia)</p>
+               <p>Ebbene, sì... Noi ti prenderemo certamente un occhio, o il naso, o l'orecchia... o quella parte del corpo che più t'aggrada. Ma dimmi per piacere, soltanto per appagare la mia curiosità, qual'è la cosa a cui tieni di più...</p>
+               <p>DORA</p>
+               <p rend="italic">(tra sè)</p>
+               <p>Tu credi di farmela, ragazzo mio!...</p>
+               <p rend="italic">(compunta)</p>
+               <p>Ebbene... Andiamo, via! Voi lo avete indovinato... Esso è tutta la mia fortuna, questo mio bitorzolo!</p>
+               <p>I DEMONI</p>
+               <p rend="italic">(ammiccando)</p>
+               <p>Ah!</p>
+               <p>DORA</p>
+               <p rend="italic">(sempre con aria candida)</p>
+               <p>È mercè sua che io sono ritenuta nel mio paese una creatura privilegiata.</p>
+               <p rend="italic">(piangendo)</p>
+               <p>Non vi verrà in mente di portarmelo via!</p>
+               <p rend="italic">Tutti i demonii rimangono muti e si consultano con lo sguardo.</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">(fingendo un'aria d'indifferenza)</p>
+               <p>Ti è dunque molto caro? Bene, bene...</p>
+               <p>DORA</p>
+               <p rend="italic">(fingendo a sua volta di essere rassicurata dal tono noncurante del 1° demonio, parla con slancio)</p>
+               <p>Non c'è ricchezza che non mi venga da questo qua! La stessa gioia che ho per il ballo mi viene da questa cara protuberanza! Se la smarrissi farei mille miglia a piedi sui rovi per rintracciarla! Se qualcuno me la rubasse... Oh! Come io sono sciocca! Chi potrebbe portarmela via senza portar via anche tutta me stessa?</p>
+               <p rend="italic">I demonii di nuovo si scambiano un'occhiata e questa volta ghignano un poco.</p>
+               <p>DORA</p>
+               <p rend="italic">(con molta leggerezza e volubilità)</p>
+               <p>Ebbene, prendetevi un occhio! Mi è molto caro, sapete? Specialmente quello sinistro che è leggermente più azzurro dell'altro... Ma che importa? Purchè me ne rimanga uno per vedere la strada!... Oppure prendetevi un'orecchia... Preferite un'orecchia? Ci sentirò un po' meno, ma giacchè me la restituirete, non è vero?, un giorno, quando tornerò….. Guardate com'è carina la mia orecchia! Io l'amo molto! Essa mi aiuta a conoscere i segreti delle piante, mi aiuta a partecipare alla gioia degli uccelli quando cantano, e anche — perchè nasconderlo? — mi serve ad ascoltare quel che le donne hanno forse di più caro al mondo: ossia le menzogne degli uomini... Ebbene, un'orecchia ve la lascio volentieri! Oppure vi lascio le mie bionde trecce... Volete le mie trecce? Oh! Rimarrebbe nelle vostre mani la parte più viva della mia persona! Quando esse si snodano, sembrano contenere un peso enorme, tanta è la fretta con cui arrivano fino ai piedi... E questo fanno per gelosia del mio corpo che vogliono sùbito fasciare in un guscio d'oro... Ebbene, anche le trecce io sono disposta a lasciarvi in pegno, se preferite le trecce.</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">(dopo aver riflettuto)</p>
+               <p>Donna! Tu hai le orecchie che ami, i capelli che adori e gli occhi che prediligi, di cui uno più azzurro aggiunge fascino al tuo volto e rende più ambigua la tua bellezza: ma noi vogliamo essere sicuri del fatto nostro e avere da te un pegno che ti obblighi assolutamente a tornare in questa foresta!</p>
+               <p>DORA</p>
+               <p rend="italic">(fingendo di voler stornare il pericolo di quelle parole)</p>
+               <p>Allora prendetevi i miei denti! Tutti i miei denti! Voi li vedete splendere al lume delle vostre fiaccole e perciò sapete già come sono puri e candidi e come la mia bocca s'illumini quando ride.... E io ho un giovane che sopra tutto ama la mia bocca. Dovrei rinunziare al suo amore se rinunziassi ai miei denti!</p>
+               <p>5° DEMONIO</p>
+               <p rend="italic">(ai compagni)</p>
+               <p>Poichè ha danzato così bene e fu molto gentile con noi mi pare che potremmo accontentarla prendendoci uno dei pegni ch'ella ci offre.</p>
+               <p>DORA</p>
+               <p rend="italic">(tra sè)</p>
+               <p>Oh dio! Che cosa viene in mente a questo bestione!</p>
+               <p rend="italic">(indi simulando la massima allegrezza si mette a saltare)</p>
+               <p>Sì! sì! sì! sì! Ascoltate quel che dice lui!</p>
+               <p rend="italic">(batte la mani e si mette a girare su se stessa)</p>
+               <p>Sì! sì! sì! sì!</p>
+               <p>3° DEMONIO</p>
+               <p rend="italic">(a bassa voce)</p>
+               <p>Taci, Kabèt! Non vedi com'ella è allegra? Troppo allegra perchè sia sincera! È capacissima di non tornare più e lasciarci tutti i suoi denti!</p>
+               <p>4° DEMONIO</p>
+               <p rend="italic">(a bassa voce, approvando)</p>
+               <p>Esistono dentiere bellissime presso gli specialisti del genere. E in quanto agli occhi, se ne fabbricano di quelli che danno l'illusione completa. Quando sono proprio perfetti si può riuscire a vedere meglio che con quelli naturali! E se ci lascia un'orecchia ella può facilmente coi capelli nascondere il difetto.</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">(al 5°)</p>
+               <p>È vero. Mulàh ha ragione. Non vedi com'ella è contenta di darci uno qualunque dei pegni che ci offre? L'allegria di una donna è un po' opera dell'inferno e sarebbe ridicolo che noi ci lasciassimo invischiare dagli inganni della nostra bottega!</p>
+               <p rend="italic">(Indi volgendosi a Dora che ha seguìto con la coda dell'occhio il conciliabolo dei demonii)</p>
+               <p>Donna! A tutti i pegni che ci offri noi preferiamo quello che non vorresti darci e che ci piace di più! Sappiamo perfettamente che il tuo bitorzolo è il ricettacolo di tutta la tua ricchezza... Lascia che io lo guardi più da vicino...</p>
+               <p>DORA</p>
+               <p rend="italic">(a piccoli passi avvicinandosi a lui con circospezione)</p>
+               <p>Ecco!...</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">Con rapido gesto porta via il bitorzolo che deturpava la rosea guancia di Dora.</p>
+               <p rend="italic">Poi si mette allegramente a sghignazzare.</p>
+               <p rend="italic">Gli altri demonii lo imitano.</p>
+               <p>DORA</p>
+               <p rend="italic">(Getta un altissimo grido, si porta rapidamente le mani al viso e si piega in due per meglio nascondere la faccia che deve essere raggiante)</p>
+               <p>1° 2° e 3° Demonio</p>
+               <p rend="italic">(si avvicinano a lei per consolarla)</p>
+               <p>1° DEMONIO</p>
+               <p>Suvvia! Quando tornerai qui, riavrai tutto!</p>
+               <p>2° DEMONIO</p>
+               <p>È soltanto per averti un'altra volta che noi ti priviamo del tuo tesoro!</p>
+               <p>3° DEMONIO</p>
+               <p>Più presto torni e più presto lo riavrai!</p>
+               <p>DORA</p>
+               <p rend="italic">(tra sè)</p>
+               <p>Aspetterete un pezzo!</p>
+               <p rend="italic">Si ode il vocio confuso di gente che si avvicina.</p>
+               <p>LA VOCE DEI LEGNAIUOLI</p>
+               <p>Dora! Dora!</p>
+               <p>DORA</p>
+               <p rend="italic">(in ascolto)</p>
+               <p>Udite? Mi cercano! Sono quelli del mio borgo che mi cercano!</p>
+               <p rend="italic">(Tra sè, ansiosa)</p>
+               <p>Dio! Che cosa pagherei per avere uno specchio!</p>
+               <p>1° DEMONIO</p>
+               <p>Ora dobbiamo lasciarti. A rivederci presto. Noi veniamo qui tutte le notti!</p>
+               <p>DORA</p>
+               <p>Sì! A rivederci presto! Però...</p>
+               <p rend="italic">(si mostra un po' imbronciata)</p>
+               <p>5° DEMONIO</p>
+               <p>Non essere in collera, via!</p>
+               <p>DORA</p>
+               <p rend="italic">(alza le spalle fingendo di essere indispettita)</p>
+               <p>1° DEMONIO</p>
+               <p>Donna... Dimmi la verità...</p>
+               <p>DORA</p>
+               <p>Che cosa?</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">(con aria furbesca)</p>
+               <p>Non volevi darci il bitorzolo...</p>
+               <p>DORA</p>
+               <p rend="italic">(sorridendo, più furba di tutti)</p>
+               <p>Eh! No davvero...</p>
+               <p>1° DEMONIO</p>
+               <p rend="italic">(c. s.)</p>
+               <p>Che è quanto dire che tentavi di corbellarci tutti quanti...</p>
+               <p>TUTTI I DEMONI</p>
+               <p rend="italic">(sghignazzano grassamente)</p>
+               <p>DORA</p>
+               <p rend="italic">(sospirando)</p>
+               <p>Eh! Che volete che dica! Ormai è fatta... Tanto peggio per me!... Non posso mettermi a lottare coi diavoli! E poi... e poi... voi siete in tanti! Quanti siete?</p>
+               <p>1° DEMONIO</p>
+               <p>Cinquanta!</p>
+               <p>DORA</p>
+               <p>Cinquanta! Pensate: cinquanta! E si dice che una donna può anche riuscire a ingannare il diavolo... Sì, ma un diavolo solo! O per lo meno un diavolo per volta...</p>
+               <p rend="italic">(Tutti ridono facendo grandi cenni).</p>
+               <p>DORA</p>
+               <p>Com'era dunque possibile che io ne ingannassi cinquanta nello stesso tempo?</p>
+               <p rend="italic">Tutti i diavoli ridono disordinatamente facendo sgambetti e smorfie terribili. Poi s'allontanano in fretta volando con le loro torce.</p>
+               <p>DORA</p>
+               <p rend="italic">(rimane un istante a guardarli. Indi prorompe in una sonora risata mentre si stringe, fuori di sè per la gioia, la faccia con le mani.</p>
+               <p rend="italic">E via di corsa verso le voci dei legnaiuoli che ancòra chiamano: Dora! Dora! Dora!)</p>
+               <p rend="center">(SIPARIO)</p>
+            </div>
+            <div type="div2" rend="P66">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: <hi rend="color(#000000)">La casa a tre piani</hi>
+               </p>
+               <p>AUTORE: Antonelli, Luigi</p>
+               <p>TRADUTTORE:</p>
+               <p>CURATORE:</p>
+               <p>NOTE:</p>
+               <p>CODICE ISBN E-BOOK:</p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: <hi rend="color(#000000)">La casa a tre piani : commedia in tre atti ; I diavoli nella foresta : favola in un atto / Luigi Antonelli</hi>
+                  <hi rend="bold">
+                     <hi rend="color(#000000)"> </hi>
+                  </hi>
+                  <hi rend="color(#000000)">- Roma : Sapientia, 1927. </hi>– <hi rend="color(#000000)">177 p. ; 19 cm.</hi>
+               </p>
+               <p>CODICE ISBN FONTE: non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 24 aprile 2013</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center">
+                  <ptr target="http://www.liberliber.it/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Il burbero benefico</title>
+            <author>Carlo Goldoni</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-14T10:43:51.189194081</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                          
+      <body>
+         <author>Carlo Goldoni</author>
+         <div type="div1">
+            <head>Il burbero benefico</head>
+            <div type="div2" rend="P32">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10311_847524291"/>
+                  <hi rend="bold">Personaggi</hi>
+                  <ptr type="bookmark-end" target="#id___RefHeading___Toc10311_847524291"/>
+               </head>
+               <p rend="justify smallcaps">Geronte</p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Dalancour</hi>, <hi rend="italic">nipote di</hi> 
+                  <hi rend="smallcaps">Geronte</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Dorval</hi>, <hi rend="italic">amico di </hi>
+                  <hi rend="smallcaps">Geronte</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Valerio</hi>, <hi rend="italic">amante di</hi> 
+                  <hi rend="smallcaps">Angelica</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Piccardo</hi>, <hi rend="italic">lacchè di</hi> 
+                  <hi rend="smallcaps">Geronte</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Un</hi> 
+                  <hi rend="smallcaps">Lacchè</hi> 
+                  <hi rend="italic">d</hi>i <hi rend="smallcaps">Dalancour</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Madama</hi> 
+                  <hi rend="smallcaps">Dalancour</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Angelica</hi>, <hi rend="italic">sorella del signor</hi> 
+                  <hi rend="smallcaps">Dalancour</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="smallcaps">Martuccia</hi>, <hi rend="italic">donna di governo del signor</hi> 
+                  <hi rend="smallcaps">Geronte</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">La scena stabile si rappresenta in Parigi, in una sala in casa dei signori Geronte e Dalancour. Essa ha tre porte, l'una delle quali introduce nell'appartamento del signor Geronte, l'altra dirimpetto, in quello del signor Dalancour, e la terza in fondo, serve di porta comune. Vi saranno delle sedie, dei sofà, ed un tavolino con uno scacchiere</hi>.</p>
+            </div>
+            <div type="div2" rend="P33">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10313_847524291"/>Atto primo<ptr type="bookmark-end" target="#id___RefHeading___Toc10313_847524291"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10315_847524291"/>Scena I<ptr type="bookmark-end" target="#id___RefHeading___Toc10315_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Martuccia, Angelica, </hi>e<hi rend="bold">  Valerio.</hi>
+                  </p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Valerio, lasciatemi, ve ne prego. Io temo per me, temo per voi. Ah, se noi fossimo sorpresi!</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Mia cara Angelica!...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Partite, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        (<hi rend="italic">a Martuccia</hi>) Di grazia, un momento. S'io potessi assicurarmi...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Di che?</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Del suo amore, della sua costanza...</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Ah, Valerio, potreste voi dubitarne?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Andate, andate, o signore. Ella v'ama anche troppo.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Questa è la felicità della mia vita.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Presto, partite. Se il mio padronesopraggiunge...</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        (<hi rend="italic">a Martuccia</hi>) Egli non esce giammai sì per tempo.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        È vero. Ma in questa sala, ben lo sapete, egli passeggia, egli si diverte. Ecco là i suoi scacchi. Egli vi giuoca spessissimo. Oh, non conoscete voi il signor Geronte?</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Perdonatemi. Egli è lo zio d'Angelica. Lo so, mio padre era suo amico, ma io non ho giammai parlato con lui.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Egli è un uomo, signore, di un carattere stravagante. È di buonissimo fondo, ma assai burbero, e fantastico al sommo.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Sì; egli m'ha detto d'amarmi, e lo credo. Pure quando mi parla, mi fa tremare.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        (<hi rend="italic">ad Angelica</hi>) Ma che avete voi a temere? Voi non avete nè padre, nè madre. Il disporre di voi tocca a vostro fratello. Egli è mio amico. Io gli parlerò.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Eh! sì, sì, fidatevi del signor Dalancour.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        (<hi rend="italic">a Martuccia</hi>) Che? potrebbe egli negarmela?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Per mia fè, io credo di sì.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Come?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Uditemi; vi spiego tutto in quattro parole.Mio nipote, il nuovo giovine di studio del procuratore del vostro signor fratello, (<hi rend="italic">ad Angelica</hi>) mi ha informato di ciò che sto per dirvi. Siccome sono solamente quindici giorni dacchè egli è presso di lui, me l'ha detto questa mattina, ma me lo ha confidato sotto la più gran segretezza. Per pietà, non mi palesate.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Non temete di nulla.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Voi mi conoscete.</p>
+                  <p rend="justify">
+                     <hi rend="smallcaps">Martuccia:</hi>        (<hi rend="italic">parlando con Valerio sotto voce e guardando sempre le portiere</hi>) Il signor Dalancour è un uomo rovinato, precipitato. Egli ha mangiato tutte le sue facoltà e fors'anche la dote di sua sorella. Angelica è un peso troppo eccedente le di lui forze, e per liberarsene vorrebbe chiuderla in un ritiro.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Oh Dio! che mi dite?</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Come! ed è possibile? Io lo conosco da lungo tempo. Dalancour mi parve sempre un giovane saggio, onesto; talvolta impetuoso e collerico, ma...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Impetuoso! Oh impetuosissimo, quasi al pari di suo zio! Ma egli è ben lontano dall'avere i medesimi sentimenti.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Egli era stimato, accarezzato da chicchessia. Suo padre era di lui contentissimo.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Eh! signore, dacchè è maritato, non è più quello di prima.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Sarebbe mai stata madama Dalancour?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Sì, ella appunto, a ciò che dicono, è il motivo di questo bel cangiamento. Il signor Geronte non si è disgustato con suo nipote, che per la sciocca compiacenza ch'egli ha per sua moglie; e... non so nulla; ma scommetterei che il progetto del ritiro fu immaginato da lei.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        (<hi rend="italic">a Martuccia</hi>) Che intendo? Mia cognata che credevo sì ragionevole, che mi dimostrava tanta amicizia! Io non l'avrei mai pensato.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Ella ha il più dolce carattere.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Questa dolcezza fu quella appunto che ha sedotto suo marito.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Io la conosco, e non posso crederlo.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        M'immagino che voi scherziate. Evvi una donna più ricercata di lei nelle sue acconciature? Esce nuova moda, ch'ella tosto non prenda? Vi sono balli o spettacoli cui non intervenga la prima?</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Ma suo marito è sempre al suo fianco.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Sì, mio fratello non l'abbandona mai.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Ebbene, sono pazzi ambedue, ed ambedue si rovinano insieme.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Pare impossibile!</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Animo, animo, signore. Eccovi istrutto di ciò che volevate sapere. Partite subito. Non esponete madamigella al pericolo di perdere la buona grazia di suo zio. Egli è quel solo che possa farle del bene.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:</hi>        Calmatevi, mia cara Angelica. L'interesse non formerà mai un ostacolo...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Sento dello strepito: partite subito. (<hi rend="italic">Valerio parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10317_847524291"/>Scena II<ptr type="bookmark-end" target="#id___RefHeading___Toc10317_847524291"/>
+                  </head>
+                  <p rend="bold">Martuccia,  ed  Angelica.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Angelica</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Sventurata ch'io sono!</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Quello è certamente vostro zio! Non ve l'aveva io detto?</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Angelica</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Vado.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        No, anzi restate, ed apritegli il vostro cuore.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Angelica</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Io lo temo come il fuoco.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Via, via, coraggio. Egli è talvolta un poco caldo ma non è poi di cattivo cuore.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Angelica</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Voi siete la sua donna di governo. Avete credito presso di lui. Parlategli in mio favore.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        No; è necessario che gli parliate voi stessa. Al più, io potrei prevenirlo, e disporlo ad udirvi.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Angelica</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Sì, sì. Ditegli qualche cosa. Io gli parlerò dipoi. (<hi rend="italic">vuole andarsene</hi>)</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Restate.</p>
+                  <p rend="justify">
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Angelica</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        No, no, quando sarà tempo chiamatemi; io non sarà molto lontana. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10319_847524291"/>Scena III<ptr type="bookmark-end" target="#id___RefHeading___Toc10319_847524291"/>
+                  </head>
+                  <p rend="bold">Martuccia sola.</p>
+                  <p rend="justify">Quanto è dolce, quanto è amabile! Io l'ho veduta nascere; l'amo, la compiango, e vorrei vederla fortunata. Eccolo. (<hi rend="italic">vedendo Geronte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10321_847524291"/>Scena IV<ptr type="bookmark-end" target="#id___RefHeading___Toc10321_847524291"/>
+                  </head>
+                  <p rend="bold">Geronte, e detta.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">parlando, con Martuccia</hi>) Piccardo!</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Signore...</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Chiamatemi Piccardo.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Sì, signore... Ma si potrebbe dirvi una parola?</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">forte e con calore</hi>) Piccardo, Piccardo!</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">forte ed in collera</hi>) Piccardo, Piccardo?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10323_847524291"/>Scena V<ptr type="bookmark-end" target="#id___RefHeading___Toc10323_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Piccardo</hi>, e detti.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Piccardo</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">a Martuccia</hi>) Eccomi, eccomi.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">a Piccardo con rabbia</hi>) Il vostro padrone...</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Piccardo</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">a Geronte</hi>) Signore!</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Va a casa di Dorval mio amico: digli ch'io attendo per giuocare una partita a scacchi.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Piccardo</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Sì, signore, ma...</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Che c'è?</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Piccardo</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Ho una commissione.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Di far che?</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Piccardo</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Il vostro signor nipote...</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">riscaldato</hi>) Va a casa di Dorval.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Piccardo</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Egli vorrebbe parlarvi.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Vattene, briccone.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Piccardo</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (Che uomo!) (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10325_847524291"/>Scena VI<ptr type="bookmark-end" target="#id___RefHeading___Toc10325_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi>, e <hi rend="bold">Martuccia</hi>.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">avvicinandosi al tavolino</hi>) Pazzo, miserabile! No, non voglio vederlo, non voglio che venga ad alterare la mia tranquillità.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">da sè</hi>)(Eccolo subito arrabbiato. Non ci mancava che questo.)</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        (<hi rend="italic">a sedere, esamina il giuoco</hi>) Che colpo mai fu quello di ieri! Qual fatalità! Come diamine ho potuto aver scaccomatto con un giuoco disposto sì bene! Vediamo un poco. Questo caso mi fece stare svegliato tutta la notte.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Signore, si potrebbe parlarvi?</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        No.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        No? Eppure avrei a dirvi qualche cosa di premura.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Geronte</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Suvvia, che hai a dirmi? Spicciati.</p>
+                  <p>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Martuccia</hi>
+                     </hi>
+                     <hi rend="smallcaps">:</hi>        Vostra nipote vorrebbe parlarvi.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Ora non ho tempo.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Oh bella! Ciò che voi fate è dunque cosa di grande importanza?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Sì, importantissima. Mi diverto poco; ma quando mi diverto, non voglio che mi si venga a rompere il capo. M'intendi?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Questa povera figlia...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Che l'è accaduto?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        La vogliono chiudere in un ritiro.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        In un ritiro!... Chiudere mia nipote in un ritiro?... Dispor di mia nipote senza mio consenso, senza che io la sappia?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Voi sapete i disordini di vostro nipote.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Io non entro punto nei disordini di mio nipote, nelle pazzie di sua moglie. Egli ha il suo. Se lo mangi, si rovini, tanto peggio per lui; ma per mia nipote... Io sono il capo di famiglia, io sono il padrone, io devo darle stato.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Tanto meglio per lei. Mi consolo tutta vedendovi riscaldare per gl'interessi di questa cara ragazza.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Dov'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        È qui vicina, signore. Attende il momento...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Che venga.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì; ella lo desidera ardentemente, ma...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Ma che?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        È timida.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Che vuol dire?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Se voi le parlate...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        È ben necessario ch'io le parli.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì; ma questo tuono di voce...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Il mio tuono di voce non fa male ad alcuno. Che ella venga, e che s'affidi al mio cuore, non alla mia voce.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        È vero, signore; io vi conosco; so che siete buono, umano, caritatevole; ma, ve ne prego, non la intimorite, questa povera ragazza. Parlatele con un poco di dolcezza.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Sì; le parlerò con dolcezza.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Me lo promettete?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Te lo prometto.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Non ve lo scordate.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        (<hi rend="italic">comincia a dar in impazienze</hi>) No.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Sopra tutto non impazientitevi.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        (<hi rend="italic">vivamente</hi>) Ti dico di no.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:</hi>        Io tremo per Angelica. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10327_847524291"/>Scena VII<ptr type="bookmark-end" target="#id___RefHeading___Toc10327_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> solo.</p>
+                  <p rend="justify">Ella ha ragione. Mi lascio talvolta trasportare dal mio focoso temperamento. La mia nipote merita di esser trattata con dolcezza.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10329_847524291"/>Scena VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc10329_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Angelica</hi>, e detto.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        (<hi rend="italic">rimane a qualche distanza</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Accostatevi.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        (<hi rend="italic">con timore, facendo un sol passo</hi>) Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        (<hi rend="italic">un po' riscaldato</hi>) Come volete ch'io v'intenda, mentre siete tre miglia lontana da me?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        (<hi rend="italic">s'avanza tremando</hi>) Signore... scusate...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Che avete a dirmi?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Martuccia non v'ha ella detto qualche cosa?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        (<hi rend="italic">comincia con tranquillità, e si riscalda a poco a poco</hi>) Sì; mi parlò di voi, mi parlò di vostro fratello, di questo insensato, di questo stravagante, che si lasciò guidar per il naso da una femmina imprudente, che si è rovinato, che si è perduto, e che inoltre mi perde il rispetto.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        (<hi rend="italic">vuole andarsene</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        (<hi rend="italic">vivamente</hi>) Dove andate?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>        Signore, voi siete in collera...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:</hi>        Ebbene che ve n'importa? Se vado in collera contro uno sciocco, io, non ci vado contro di voi. Accostatevi, parlate, e non abbiate paura del mio sdegno.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Mio caro zio, non saprò mai parlarvi se prima non vi veggo tranquillo.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">ad Angelica, facendosi forza</hi>) Che martirio! Eccomi tranquillo. Parlate.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore... Martuccia vi avrà detto...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Io non bado a ciò che m'ha detto Martuccia. Io voglio intendere da voi medesima.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">con timore</hi>) Mio fratello...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">contraffacendola</hi>) Vostro fratello...</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Vorrebbe chiudermi in un ritiro.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Ebbene, inclinate voi al ritiro?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Ma signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">con caldo</hi>) Suvvia, parlate.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>A me non tocca a decidere.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">ancora più riscaldato</hi>) Io non dico che voi decidiate, ma voglio sapere la vostra inclinazione.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore, voi mi fate tremare.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">da sè facendosi forza</hi>) (Crepo di rabbia.) Avvicinatevi. V'intendo. Dunque il ritiro non vi va a genio.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>No signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Qual'è lo stato cui più inclinereste?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Non temete di nulla. Sono tranquillo. Parlatemi liberamente.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Ah! non ho coraggio!...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Venite qui. Vorreste maritarvi?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì, o no?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Se voi voleste...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">vivamente</hi>) Sì o no?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Ma sì...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì? Volete maritarvi, perdere la libertà, la tranquillità? Ebbene:        tanto peggio per voi. Sì, vi mariterò.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">da sè</hi>) (Eppure è amabile con tutta la sua collera.)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Avete voi qualche inclinazione?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">da sè</hi>) (Ah! se avessi coraggio di parlargli di Valerio!)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Come? Avreste di già qualche amante?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">da sè</hi>) (Questo non è il momento. Glie ne farò parlare dalla sua donna di governo.)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">sempre con calore</hi>) Suvvia, finiamola! La casa ove siete, la persona con cui vivete, v'avrebbero per avventura somministrata l'occasione d'attaccarvi ad alcuno? Io voglio sapere la verità. Sì, vi farò del bene, ma con patto che lo meritiate. M'intendete?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">tremando</hi>) Sì signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">con lo stesso tono</hi>) Parlatemi schiettamente, francamente. Avete forse qualche genietto?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">esitando e tremando</hi>) Ma... non signore. Non ne ho alcuno.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Tanto meglio. Io penserò a trovarvi un marito.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">a Geronte</hi>) Oh, Dio... non vorrei... Signore!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che c'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Voi conoscete la mia timidità.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì, sì, la vostra timidità... Io le conosco le femmine; voi siete al presente una colomba, ma quando sarete maritata, diverrete un dragone.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Deh! mio zio, giacchè siete così buono...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Anche troppo.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Permettete che vi dica...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">avvicinandosi al tavolino</hi>) Ma Dorval non viene ancora!</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Uditemi, mio caro zio.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">attento al suo tavolino</hi>) Lasciatemi.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Una parola sola.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">assai vivamente</hi>) Basta così.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">da sè</hi>) (O cielo! eccomi più infelice che mai! Ah! la mia cara Martuccia non mi abbandonerà.) (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10331_847524291"/>Scena IX<ptr type="bookmark-end" target="#id___RefHeading___Toc10331_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> solo.</p>
+                  <p rend="justify">Questa è una buona ragazza. Io le fo del bene molto volentieri. Se avesse anche avuta qualche inclinazione, mi sarei sforzato, di compiacerla, ma non ne ha alcuna... Vedrò io. Cercherò io... Ma, che diavolo fa questo Dorval che non vien mai? Io muoio di voglia di tentare un'altra volta questa maledetta combinazione che mi fece perdere la partita. Certamente io doveva guadagnare. Avrebbe abbisognato che avessi perduta la testa. Vediamo un poco. Ecco la disposizione dei miei scacchi. Ecco quella di Dorval. Io avanzo il re alla casa della sua torre. Dorval pone il suo matto alla seconda casa del suo re. Io... scacco... sì, e prendo la pedina. Dorval... egli ha preso il mio matto... Dorval? Sì, egli ha preso il mio matto, ed io... Doppio scacco col cavaliere. Per bacco! Dorval ha perduto la sua dama. Egli giuoca il suo re, io prendo la sua dama. Questo sciagurato col suo re ha preso il mio cavaliere. Ma tanto peggio per lui; eccolo nelle mie reti; eccolo vinto con il suo re. Ecco la mia dama; sì, eccola. Scacco matto, questa è chiara. Scacco matto, questa è guadagnata... Ah! se Dorval venisse, glie la farei vedere. Piccardo? (<hi rend="italic">chiama</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10333_847524291"/>Scena X<ptr type="bookmark-end" target="#id___RefHeading___Toc10333_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> e <hi rend="bold">Dalancour</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">a parte ed estremamente confuso</hi>) Mio zio è solo. Se volesse ascoltarmi...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Accomoderò il giuoco come era prima. (<hi rend="italic">senza vedere Dalancour, chiama più forte</hi>) Piccardo?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">senza volgersi, credendo di parlare a Piccardo</hi>) Ebbene, hai tu trovato Dorval?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10335_847524291"/>Scena XI<ptr type="bookmark-end" target="#id___RefHeading___Toc10335_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dorval</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">entra per la porta di mezzo, a Geronte</hi>) Eccomi, amico.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con risoluzione</hi>) Mio zio!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">volgendosi vede Dalancour; s'alza bruscamente, getta a terra la sedia, parte senza parlare, ed esce per la porta di </hi>
+                     <hi rend="italic">mezzo</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10337_847524291"/>Scena XII<ptr type="bookmark-end" target="#id___RefHeading___Toc10337_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi> e <hi rend="bold">Dorval</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">sorridendo</hi>) Che vuol dir questa scena?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>È una cosa terribile!... Tutto ciò perchè mi ha veduto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">sempre d'un tuono</hi>) Geronte è mio amico; conosco benissimo il suo naturale.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Mi rincresce per voi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sono veramente arrivato in un cattivo momento.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Scusate la sua impetuosità.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">sorridendo</hi>) Oh! lo sgriderò, lo sgriderò.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ah! mio caro amico!... Voi siete il solo che possa giovarmi presso di lui.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Io lo bramerei di tutto cuore, ma...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Convengo che se si bada alle apparenze, mio zio ha ragione di rimproverarmi; ma se egli potesse leggermi nel fondo del cuore, mi renderebbe tutta la sua tenerezza, e sono sicuro che non se ne pentirebbe.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì, mi è nota l'indole vostra. Io credo che tutto da voi si potrebbe sperare; ma madama vostra moglie...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vivamente</hi>) Mia moglie, signore? Ah! voi non la conoscete. Tutto il mondo s'inganna sopra di lei, e mio zio, il primo di tutti. Fa d'uopo ch'io le renda giustizia, e che vi scopra la verità. Ella non sa alcuna delle disgrazie da cui sono oppresso. Ella m'ha creduto più ricco che io non fossi; le ho sempre tenuto occulto il mio stato. Io l'amo; noi ci siamo maritati assai giovani: non le ho mai lasciato tempo di chieder nulla, di nulla bramare. Cercai sempre di prevenirla in tutto ciò, che potea esserle di piacere. In questa maniera mi sono rovinato.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Contentare una donna, prevenire i suoi desideri! Ci vuol altro!</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Sono sicuro che s'ella avesse saputo il mio stato, sarebbe stata la prima a proibirmi le spese che ho fatte per lei.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Frattanto non ve le ha proibite.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>No, perchè non dubitava punto...</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">ridendo</hi>) Mio povero amico...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">afflitto</hi>) Che c'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">sempre ridendo</hi>) Io vi compiango.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con ardore</hi>) Vi prendereste voi giuoco di me?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">sempre sorridendo</hi>) Oibò! Ma... voi amate vostra moglie prodigiosamente.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Sì, l'amo, l'ho amata sempre e l'amerò fin che avrò vita. La conosco, conosco tutto il suo merito, e non soffrirò che le si diano de' torti che non ha.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">seriamente</hi>) Colle buone, amico, colle buone! vi riscaldate un po' troppo per la vostra famiglia.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">sempre vivamente</hi>) Io vi chiedo mille scuse. Sarei alla disperazione di avervi recato dispiacere; ma quando si tratta di mia moglie...</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Via, via. Non ne parliamo più.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ma vorrei che ne foste convinto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">freddamente</hi>) Sì, lo sono.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vivamente</hi>) No, non lo siete.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">con un po' di caldo</hi>) Scusatemi, vi dico...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ebbene, vi credo. Ne sono contentissimo. Ah! mio caro amico, parlate a mio zio in mio favore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Gliene parlerò.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Quanto vi sarò obbligato!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma converrà bene l'addurgli ancora qualche ragione. Come avete fatto a rovinarvi in sì poco tempo? Sono quattr'anni solo dacchè è morto vostro padre. V'ha lasciata una facoltà considerabile, e dicesi che voi l'abbiate tutta consumata.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Se sapeste tutte le disgrazie, che mi sono accadute! Ho veduto che i miei affari erano in disordine, ho voluto rimediarvi, ed il rimedio fu peggiore ancora del male. Io ho ascoltati nuovi progetti, ho intrapresi nuovi affari, ho ipotecati i miei beni, ed ho perduto il tutto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>E questo è il male. Nuovi progetti! Se ne sono rovinati degli altri.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ed io singolarmente senza speranza.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Avete fatto malissimo, mio caro amico, tanto più che avete una sorella.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Sì, e sarebbe oramai tempo che pensassi a darle stato.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ogni giorno essa diventa più bella. Madama Dalancour riceve in sua casa molte persone, e la gioventù, mio caro amico, qualche volta... Dovreste capirmi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Questo è appunto il motivo, per cui, frattanto che io trovo qualche espediente, ho pensato di metterla in un ritiro.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Metterla in un ritiro; va benissimo:        ma ne avete parlato con vostro zio?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>No. Egli non vuole ascoltarmi; ma voi gli parlerete per me, gli parlerete per Angelica. Mio zio vi stima, vi ama, vi ascolta, si fida di voi, non vi negherà cosa alcuna.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Non ne so nulla.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vivamente</hi>) Oh! ne sono sicuro. Vi prego, cercate di vederlo, parlategliene subito.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Lo farei. Ma dov'è andato?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Cercherò di saperlo... Vediamo, alcuno si inoltra.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10339_847524291"/>Scena XIII<ptr type="bookmark-end" target="#id___RefHeading___Toc10339_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Piccardo</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>È partito mio zio?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>No signore. È disceso in giardino.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>In giardino! A quest'ora?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Per lui è tutt'uno; quando è un poco in collera passeggia, va a prender aria.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">a Dalancour</hi>) Vado a raggiungerlo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Signore, io conosco mio zio:        fa d'uopo lasciargli il tempo di calmarsi. Conviene aspettarlo qui.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma se partisse; se non tornasse più sopra?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">a Dorval</hi>) Perdonatemi, signore, egli non tarderà, molto a risalire. M'è noto il suo naturale:        gli basta mezzo quarto d'ora. Vi so ben dire che sarà inoltre contentissimo di vedervi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vivamente</hi>) Ebbene! mio caro amico, passate nel suo appartamento. Fatemi il piacere di attenderlo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Volentieri. Comprendo benissimo quanto la vostra situazione è crudele; è d'uopo il porvi rimedio. Sì, gli parlerò per voi, ma con patto...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vivamente</hi>) Io vi do la mia parola d'onore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Basta così. (<hi rend="italic">entra nell'appartamento di Geronte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10341_847524291"/>Scena XIV<ptr type="bookmark-end" target="#id___RefHeading___Toc10341_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi> e <hi rend="bold">Piccardo</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Tu non hai detto a mio zio ciò ch'io t'aveva ordinato.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Perdonatemi, signore, glie l'ho detto, ma egli mi ha scacciato, secondo il solito.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Mi dispiace. Avvertimi de’ buoni momenti, in cui poter parlargli. Un giorno ti saprò premiare a dovere.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Ve ne sono obbligato, signore, ma, grazie al cielo, non ho bisogno di nulla.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Sei dunque ricco?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Non sono ricco, ma ha un padrone che non mi lascia mancar nulla. Ho moglie, ho quattro figliuoli; dovrei essere l'uomo più imbarazzato del mondo, ma il mio padrone è sì buono che li mantengo senza difficoltà, ed in casa mia non si conosce la miseria. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10343_847524291"/>Scena XV<ptr type="bookmark-end" target="#id___RefHeading___Toc10343_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi> solo.</p>
+                  <p rend="justify">Ah! mio zio è un uomo dabbene!... Se Dorval ottenesse da lui qualche cosa? Se potessi sperare un soccorso adeguato al mio bisogno! Se potessi tener occulto a mia moglie! Ah!… perchè l'ho io ingannata? perchè mi sono ingannato io medesimo? Mio zio, non torna. Ogni momento per me è prezioso. Anderò frattanto dal mio procuratore. Oh, con quale pena ci vado!… È vero, ei mi lusinga, che malgrado la sentenza, troverà il mezzo di guadagnare del tempo; ma i cavilli sono odiosi; lo spirito pena, e ci va di mezzo l'onore. Sventurati quelli che hanno bisogno di raggiri vergognosi!</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10345_847524291"/>Scena XVI<ptr type="bookmark-end" target="#id___RefHeading___Toc10345_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi> e <hi rend="bold">Madama</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vedendo sua moglie</hi>) Ecco mia moglie.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ah! siete qui, marito mio? Vi cercava per tutto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Stava per partire.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ho incontrato adesso quel satiro... egli strillava, strillava come va.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Parlate voi di mio zio?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Sì. Ho veduto un raggio di sole, sono andata a passeggiare nel giardino, e ve l'ho incontrato. Egli batteva i piedi, parlava da solo, e ad alta voce... Ditemi una cosa: ha egli in casa qualche servitore ammogliato?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Sì.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Certamente conviene che sia così; egli parlava molto male del marito e della moglie… ma male, ve ne assicuro…</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">da sè</hi>) (Io m'immagino bene di chi parlasse.)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Egli è un uomo insopportabile.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Eppure converrebbe avere per lui qualche riguardo.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Può egli lagnarsi di me? Gli ho io mancato in nulla? Io rispetto la sua età, la sua qualità di zio. Se talvolta scherzo sopra di lui, il fo a quattr'occhi con voi, e voi me lo perdonate. Del resto, ho per esso tutti i riguardi possibili:        ma, ditemi sinceramente, ne ha egli per voi, ne ha per me? Egli ci tratta con un'asprezza grandissima, ci odia quanto più può; ma sopratutto il suo disprezzo per me è giunto agli eccessi. Fa d'uopo nondimeno l'accarezzarlo, il fargli la corte?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">imbarazzato</hi>) Ma... quando anche gli facessimo la corte... è nostro zio... Inoltre noi potremmo forse aver bisogno di lui.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Bisogno di lui! Noi? Come? Non abbiamo noi del nostro quanto basta per vivere con decoro? Voi non fate disordini. Io sono ragionevole... Per me non vi chiedo di più di ciò che avete fatto fin ora... Continuiamo con la medesima moderazione, e non avremo bisogno di nessuno.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con un'aria appassionata</hi>) Continuiamo con la medesima moderazione...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ma sì; io non ho vanità; io non vi domando nulla d'avvantaggio.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">da sè</hi>) (Sfortunato che io sono!)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ma voi mi sembrate inquieto, pensoso: avete qualche cosa?... voi non siete tranquillo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>V'ingannate. Non ho nulla.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Perdonatemi, io vi conosco: se avete qualche travaglio, perchè volete nascondermelo?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">sempre più imbarazzato</hi>) Quella che mi dà da pensare, è mia sorella. Eccovi spiegato il tutto.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Vostra sorella! Ma perchè mai? Ella è la miglior ragazza del mondo; io l'amo teneramente. Uditemi. Se voi voleste fidarvi di me, potreste sollevarvi da questo pensiero, e render lei nello stesso tempo felice.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Come?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Voi volete metterla in un ritiro; ed io so da buona fonte, che ella non sarebbe contenta.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">un poco inquieto</hi>) Alla sua età, deve dir forse, voglio, e non voglio?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>No; ella è saggia abbastanza per piegarsi ai voleri dei suoi parenti. Ma perchè non la maritate?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>È ancora troppo giovane.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Buono! Ero io più avanzata in età quando mi sono ammogliata con voi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vivamente</hi>) Ebbene, dovrò andare a cercarle un marito di porta in porta?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ascoltatemi, ascoltatemi, marito mio; non vi inquietate, vi, prego. Se mal non m'appongo, io, credo d'essermi accorta che Valerio l'ama, e ch'essa pure è innamorata di lui.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">a parte</hi>) (Cielo! quanto mi tocca soffrire!)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Voi lo conoscete:        v'avrebbe egli per Angelica un partito migliore di questo?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">sempre più imbrogliato</hi>) Vedremo... Ne parleremo...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Fatemi questo piacere, ve lo chiedo in grazia. Lasciate a me la cura di maneggiar quest'affare; avrei tutta l'ambizione di riuscirvi...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">in un sommo imbarazzo</hi>) Madama...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Che c'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Non si può.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>No? E perchè?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">sempre più imbarazzato</hi>) Mio zio v'acconsentirebbe?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ma, diamine! Voglio bene che non si manchi con lui ai nostri doveri, ma il fratello d'Angelica siete voi. La dote è fra le vostre mani; il più ed il meno dipende soltanto da voi. Permettete ch'io mi assicuri delle loro inclinazioni, e sopra l'articolo dell'interesse a un dipresso l'aggiusterò io.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vivamente</hi>) No. Se mi amate, guardatevene bene.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Sarebbe che voi non vorreste maritar vostra sorella?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Tutto al contrario.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Sarebbe che...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vuol partire</hi>) Mi conviene partire... Ne parleremo al mio ritorno.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Vi dispiace che ci voglia entrar io?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Niente affatto.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Uditemi: sarebbe forse per la dote?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Non so nulla. (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10347_847524291"/>Scena XVII<ptr type="bookmark-end" target="#id___RefHeading___Toc10347_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Madama</hi> sola.</p>
+                  <p rend="justify">Che vuol dire questa faccenda?.... Non intendo nulla... Possibile che mio marito?... No. Egli è troppo saggio per aver a rimproverarsi di nulla.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10349_847524291"/>Scena XVIII<ptr type="bookmark-end" target="#id___RefHeading___Toc10349_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Angelica</hi>, e detta.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">senza vedere Madama</hi>) Se potessi parlare con Martuccia...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Cognata.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">inquieta</hi>) Madama.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Dove andate, cognata?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">inquieta</hi>) Io me ne andavo, Madama...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ah, ah! Siete dunque adirata?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Lo devo essere.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Siete voi sdegnata con me?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Ma, Madama...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Uditemi, la mia ragazza; se v’inquieta il progetto del ritiro, non crediate ch'io v'abbia parte. La cosa è tutt’all'opposto. Vi amo, e farò anzi il possibile per rendervi fortunata.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">a parte piangendo</hi>) (Che doppiezza!)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Che avete? piangete?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">s'asciuga gli occhi</hi>) (A qual segno mi ha ingannata!)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Qual è il motivo del vostro dolore?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Oh Dio! I disordini di mio fratello.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">con sorpresa</hi>) I disordini di vostro fratello?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Sì, nessuno li sa meglio di voi.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Che dite? Spiegatevi, se v'aggrada.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>È inutile.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10351_847524291"/>Scena XIX<ptr type="bookmark-end" target="#id___RefHeading___Toc10351_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi>, <hi rend="bold">Piccardo</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">chiama</hi>) Piccardo?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">uscendo dall'appartamento di Geronte</hi>) Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">vivamente a Piccardo</hi>) Ebbene, dov'è Dorval?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Egli vi attende, signore, nella vostra camera.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Egli è nella mia camera, e tu non mi dici nulla?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Signore, non ho avuto tempo.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che fate voi qui? (<hi rend="italic">vedendo Angelica e Madama; parla ad Angelica, volgendosi tratto tratto verso Madama per essere inteso</hi>) Qui non voglio donne; non voglio alcuno della vostra famiglia... andate via.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Mio caro zio...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Vi dico che andiate via. </p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">parte mortificata</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10353_847524291"/>Scena XX<ptr type="bookmark-end" target="#id___RefHeading___Toc10353_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Madama</hi>, <hi rend="bold">Geronte</hi> e <hi rend="bold">Piccardo</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Signore, vi domando perdono.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">volgendosi verso la porta, per cui è uscita Angelica, ma di tempo in tempo, guardando Madama</hi>)Oh, questa sì, ch'è curiosa! Guardate l'impertinente! Vuol venire a darmi soggezione. Per discendere c'è un'altra scala. La chiuderò questa porta!</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Non v'adirate, o signore. Quanto a me v'assicuro...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">vorrebbe entrare nel suo appartamento, ma non vorrebbe passare dinanzi a madama</hi>
+                     <hi rend="smallcaps italic">:        </hi>
+                     <hi rend="italic">dice a Piccardo</hi>) Dimmi, Dorval è nella mia camera?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Sì, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">accorgendosi dell'imbarazzo di Geronte, da addietro</hi>)Passate, signore. Io non ve l'impedisco. </p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">a Madama passando, e salutandola</hi>) Padrona mia... La chiuderò questa porta. (<hi rend="italic">entra nel suo appartamento, Piccardo lo segue</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10355_847524291"/>Scena XXI<ptr type="bookmark-end" target="#id___RefHeading___Toc10355_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Madama</hi> sola.</p>
+                  <p rend="justify">Che strano carattere! Ma non è ciò quel che più m'inquieta. Ciò che più m'affligge si è il turbamento di mio marito, sono le parole d'Angelica. Io dubito; temo; vorrei conoscere la verità e tremo di penetrarla.</p>
+                  <p rend="center">
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10357_847524291"/>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Fine dell'atto Primo</hi>
+                     </hi>
+                     <ptr type="bookmark-end" target="#id___RefHeading___Toc10357_847524291"/>
+                  </p>
+               </div>
+            </div>
+            <div type="div2" rend="P33">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10359_847524291"/>Atto secondo<ptr type="bookmark-end" target="#id___RefHeading___Toc10359_847524291"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10361_847524291"/>SCENA I<ptr type="bookmark-end" target="#id___RefHeading___Toc10361_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> e <hi rend="bold">Dorval</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Andiamo a giocare, e non me ne parlate più.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma si tratta di un nipote...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">vivamente</hi>) Di uno sciocco, d'un vigliacco ch'è lo schiavo di sua moglie, e la vittima della sua vanità.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Meno collera, mio caro amico, meno collera.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Eh, voi con la vostra flemma mi fareste arrabbiare.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Io parlo per bene.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Prendete una sedia. (<hi rend="italic">siede</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">d'un tuono compassionevole, mentre accosta la sedia</hi>) Povero giovane!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Vediamo, questo punto di ieri.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">sempre di un tuono</hi>) Voi lo perderete.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Forse che no. Vediamo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Vi dico che lo perderete.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>No, ne sono sicuro.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Se voi non lo soccorrerete, lo perderete assolutamente.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Chi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Vostro nipote.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">con ardore</hi>) Eh, ch'io parlo del giuoco. Sedete.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Io giuocherò volentieri:        ma prima, ascoltatemi.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Mi parlerete tuttavia di Dalancour?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Potrebbe essere.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Non vi ascolto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Dunque voi l'odiate?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>No, signore. Io non odio nessuno.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma se non volete...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Finitela; giuocate. Giuochiamo, o ch'io me ne vo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Una parola sola, ed ho finito.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che pazienza!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Voi avete delle facoltà.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì, grazie al Cielo!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Più del vostro bisogno.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì; ne ho ancora per servire i miei amici.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>E non volete dar nulla a vostro nipote?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Neppure un quattrino.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>In conseguenza...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>In conseguenza?....</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Voi l'odiate.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>In conseguenza voi non sapete ciò che vi dite. Io odio, detesto la sua maniera di pensare, la sua cattiva condotta. Il dargli del danaro non servirebbe che a fomentare la sua vanità, la sua prodigalità, le sue follie. Ch'egli cangi sistema, io lo cangerò parimente con lui. Io voglio che il pentimento meriti il beneficio, e non che il beneficio impedisca il pentimento.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">dopo un momento di silenzio, sembra convinto, e dice con molta dolcezza</hi>) Giuochiamo, giuochiamo.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Giuochiamo..</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">giuocando</hi>) Io ne sono afflitto.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">giuocando</hi>) Scacco al re.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">giuocando</hi>) E quella povera ragazza!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Chi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Angelica.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">lascia il giuoco</hi>) Ah! per lei!... Questa è un'altra cosa... Parlatemi di lei.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ella dee ben soffrire frattanto.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Ci ho pensato, ci ho provveduto. La mariterò.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Bravissimo! Lo merita bene.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Non è una giovanetta di molta buona grazia?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">riflette un momento, indi chiama</hi>) Fortunato quello che l'avrà! Dorval?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Amico?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Udite.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Che C'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Voi siete mio amico.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ne dubitate?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Se la volete, io ve l'accordo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Chi?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì, mia nipote.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Come?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Come, come! siete sordo? Non m'intendete? (<hi rend="italic">vivamente</hi>) Io parlo chiara. Se la volete, ve l'accordo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ah! ah!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>E se la sposate, oltre la sua dote, le donerò cento mila lire del mio. Eh?... Che ne dite?...</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Mio caro amico, voi mi onorate.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>So chi siete. Sono sicuro di formare in questa guisa la felicità di mia nipote.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Suo fratello...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Suo fratello! Suo fratello non c'entra... A me tocca a disporre di lei; la legge, il testamento di mio fratello... Io ne sono il padrone. Orsù, sbrigatevi, decidete sul fatto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ciò che mi proponete, non è cosa da risolversi su due piedi. Voi siete troppo impetuoso.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Io non ci veggo alcuna difficoltà. Se l'amate, se la stimate, se ella vi conviene, è fatto tutto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Ma, ma!... Udiamo il vostro ma.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Vi par poco la sproporzione da sedici a quarantacinque anni?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Niente affatto. Voi siete ancora giovane, ed io conosco Angelica; non è una testa sventata.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ella potrebbe avere qualche altra inclinazione.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Non ne ha alcuna.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ne siete ben sicuro?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sicurissimo. Presto, concludiamo. Io vado a casa del mio notaro, gli fo stendere il contratto. Ella è vostra.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Adagio, mio amico, adagio.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">riscaldato</hi>) Ebbene? Come! volete ancora inquietarmi, tormentarmi, annoiarmi con la vostra lentezza, col vostro sangue freddo?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Dunque vorreste?...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì, darvi una figlia saggia, onesta, virtuosa, con cento mila scudi di dote, e cento mila lire di regalo alle sue nozze. Forse vi fo un affronto?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>No; anzi mi fate un onore, che non merito.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>con ardore</emph>) La vostra modestia in questo momento mi farebbe dare al diavolo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Non vi adirate. Volete ch'io l'accetti?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ebbene, io l'accetto...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">con gioia</hi>) Davvero?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma a condizione...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Di che?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Che Angelica v'acconsentirà.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Non avete altra difficoltà?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Questa sola.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Voi mi consolate, io m'impegno per lei.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Tanto meglio, se ciò è vero.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Verissimo, sicurissimo. Abbracciatemi, mio caro nipote.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Abbracciamoci pure, mio caro zio.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10363_847524291"/>SCENA II<ptr type="bookmark-end" target="#id___RefHeading___Toc10363_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi>, <hi rend="bold">Geronte</hi> e <hi rend="bold">Dorval</hi>, e poi <hi rend="bold">Piccardo</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">entra per la porta di mezzo, vede suo zio, lo ascolta in passando, va verso il suo appartamento, ma resta alla porta per ascoltarlo</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Questo è il giorno più felice della mia vita.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Caro amico, quanto siete adorabile!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Io men vo a casa del mio notaro. Dentr'oggi sarà fatto tutto. Piccardo? (<hi rend="italic">chiama</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">viene</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>La mia canna, il mio cappello.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">parte, e poi torna</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Frattanto me n'andrò a casa.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">dà al suo padrone la canna, il cappello, e parte</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>No, no; dovete aspettarmi qui. Torno subito. Pranzerete meco.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ho da scrivere. Fa d'uopo ch'io faccia venire il mio intendente, che è una lega lontano da Parigi.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Andate nella mia camera, scrivete; inviate la lettera per Piccardo. Sì, Piccardo andrà a portarla in persona. Piccardo è un giovane dabbene, savio, fedele. Talvolta lo sgrido, ma gli voglio bene.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Via, dacchè volete assolutamente così; scriverò nella vostra camera.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Anche questa è fatta.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì, siamo convenuti.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">prendendolo per la mano</hi>) In parola d'onore?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">dandogli la mano</hi>) In parola d'onore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Mio caro nipote! (<hi rend="italic">parte</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">all'ultima parola mostra gioia</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10365_847524291"/>SCENA III<ptr type="bookmark-end" target="#id___RefHeading___Toc10365_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi> e <hi rend="bold">Dorval</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">da sè</hi>) (In verità, tutto ciò che m'avvenne, mi pare un sogno. Io maritarmi, io che non ci aveva mai pensato!)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ahi mio caro amico, io non so come dichiararvi la mia gratitudine.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sopra di che?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Non ho io udito ciò che disse mio zio? Mi ama, mi compiange. Egli va adesso a casa del suo notaro. Vi ha data la sua parola d'onore. Vedo benissimo quanto avete fatto per me. Io sono l'uomo più venturato del mondo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Non vi lusingate tanto, mio caro amico. Fra le dolci cose, che v'immaginate, non ve n'ha pur una di vera.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ma come?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Io spero bene col tempo di potervi essere utile presso di lui, ed avrò quindi innanzi parimente un titolo d'avvantaggio per interessarmi a vostro favore, ma fino ad ora...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con ardore</hi>) Sopra di che vi died'egli dunque la sua parola d'onore?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Vel dico subito.... Egli mi fece l'onore di propormi vostra sorella in isposa.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con gioia</hi>) Mia sorella! L'accettate voi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì, se ne siete contento!</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Voi mi colmate di giubbilo; mi sorprendete. Per la dote vi è noto attualmente il mio stato.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sopra di ciò, ne parleremo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Mio caro fratello, lasciate ch'io vi abbracci con tutto il cuore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Mi lusingo che vostro zio in questa occasione...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ecco un legame, a cui dovrò la mia felicità. Io ne aveva il più grande bisogno. Sono stato a casa del mio procuratore, e non l'ho trovato.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10367_847524291"/>SCENA IV<ptr type="bookmark-end" target="#id___RefHeading___Toc10367_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Madama</hi> 
+                     <hi rend="bold">Dalancour</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">vedendo sua moglie</hi>) Ah! Madama...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">a Dalancour</hi>) Io vi attendeva con impazienza. Ho udita la vostra voce...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Eccovi, o mia moglie, il signor Dorval. Io vel presento in qualità di mio cognato, e come sposo di Angelica.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">con gioia</hi>) Sì?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Io sarò pienamente contento, Madama, se la mia felicità potrà meritare la vostra approvazione.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">a Dorval</hi>) Signore, io ne sono lietissima. Mi rallegro con voi di tutto cuore. (<hi rend="italic">a parte</hi>) (Che mi disse ella dunque del cattivo stato di mio marito?)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">a Dorval</hi>) Mia sorella lo sa?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Credo di no.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">da sè</hi>) (Dunque, quello che fece questo matrimonio non fu Dalancour?)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Volete voi ch'io la faccia venire?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>No. Converrebbe prevenirla. Potrebbe esservi ancora una difficoltà.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Quale?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Quella della sua approvazione.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Non temete di nulla. Io conosco Angelica, e poi il vostro stato... il vostro merito... Lasciate fare a me. Parlerò io a mia sorella.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>No, caro amico; di grazia, non guastiamo la cosa; lasciamo fare al signor Geronte.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Come volete.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">da sè) </hi>(Non intendo nulla.)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Io passo nell'appartamento di vostro zio, per scrivere; egli me l'ha permesso; anzi mi ha ordinato espressamente d'aspettarlo colà. Senza cerimonie. Noi ci rivedremo quanto prima. (<hi rend="italic">entra nell'appartamento di Geronte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10369_847524291"/>SCENA V<ptr type="bookmark-end" target="#id___RefHeading___Toc10369_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi> e <hi rend="bold">Madama</hi>, poi un <hi rend="bold">Lacchè</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Per quanto io veggo, non siete quello che marita vostra sorella.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">imbarazzato</hi>) La marita mio zio.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ve n'ha egli parlato vostro zio? Vi ha chiesto il vostro consenso?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">un po' riscaldato</hi>) Il mio consenso? Non avete veduto Dorval? Non me l'ha egli detto? Non si chiama ciò un chiedere il mio consenso?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">un po' vivamente</hi>) Sì, questa è una gentilezza per parte del signor Dorval; ma vostro zio non vi ha detto nulla?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">imbarazzato</hi>) Ciò vuol dire che...</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ciò vuol dire ch'egli non ci conta uno zero.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">riscaldato</hi>) Ma voi prendete tutto in cattiva parte:        Ella è una cosa terribile. Voi siete insopportabile.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">un po' afflitta</hi>) Io insopportabile! Voi mi trovate insopportabile! (<hi rend="italic">con molta tenerezza</hi>) Marito mio, questa è la prima volta che vi è uscita di bocca un'espressione simile. Fa d'uopo che abbiate dei gran dispiaceri per dimenticarvi a tal segno del vostro dovere.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con trasporto a Madama</hi>) (Ah! pur troppo dice il vero!) Mia cara moglie, vi chieggo perdono di tutto cuore. Ma voi conoscete mio zio:        volete che noi l'irritiamo d'avantaggio? Volete che io pregiudichi a mia sorella? Il partito è buono, non c'è nulla da dire. Mio zio lo ha scelto, tanto meglio; ecco un imbarazzo di meno per voi e per me.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Andiamo innanzi; mi piace che voi prendiate la cosa in buona parte; vi lodo e v'ammiro. Ma permettetemi di far un riflesso. Chi si prenderà il pensiero de' preparativi necessari per una giovane che si fa sposa? Se ne incaricherà vostro zio? Sarebbe ciò conveniente, sarebbe onesto?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Avete ragione. Ma ci resta ancora del tempo. Ne parleremo.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Uditemi. Voi lo sapete, io amo Angelica. Questa ingrata non meriterebbe ch'io mi prendessi verun pensiero di lei; ma finalmente è vostra sorella...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Come! voi chiamate mia sorella un'ingrata! Perchè?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Per ora non ne parliamo. Io le chiederò a quattro occhi una spiegazione, e poi...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>No; voglio saperlo.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Abbiate sofferenza, mio caro marito.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>No; vi dico che voglio saperlo.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Poichè volete così, fa d'uopo l'appagarvi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">da sè</hi>) (Cielo! tremo sempre.)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Vostra sorella...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Proseguite.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Io la credo troppo del partito di vostro zio.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Perchè?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ella ebbe a dire a me, a me stessa, che i vostri affari erano in disordine, e che...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>I miei affari in disordine?… Lo credete voi?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>No:        ma mi ha parlato in maniera da farmi credere ch'ella sospetta ch'io ne sia stata la cagione, o per lo meno che io vi abbia contribuito.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">ancora più riscaldato</hi>)Voi? Ella sospetta di voi? </p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Non vi adirate, mio buon marito. Io vedo bene ch'essa non ha il suo buon giudizio.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con passione</hi>) Mia cara moglie!</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Non vi affliggete. Per me, credetemi, non ci penso più. Tutto viene da lui. Vostro zio è la cagione di tutto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Eh! No. Mio zio non è di cattivo cuore!</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Non è egli di cattivo cuore! Cielo, che v'ha di peggio al mondo di lui? Anche poco fa non mi ha fatto vedere?... Ma gli perdono.</p>
+                  <p>
+                     <hi rend="smallcaps">Lacchè:        </hi>(<hi rend="italic">a Dalancour</hi>) Signore, fu recata per voi questa lettera.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Dammela. (<hi rend="italic">agitato prende la lettera</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Lacchè:        </hi>(<hi rend="italic">parte</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Vediamo. (<hi rend="italic">a parte e agitato</hi>) Questo è carattere del mio procuratore. (<hi rend="italic">apre la lettera</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Cosa vi scrive?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Lasciatemi per un momento. (<hi rend="italic">egli si ritira in disparte, legge piano, e mostra dispiacere</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">da sè</hi>) (Vi sarebbe forse qualche disgrazia?)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">dopo aver letto</hi>) (Io sono perduto.)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">a parte</hi>) (Il cuore mi palpita.)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(Mia povera moglie! che sarà di lei?... Come potrò dirglielo?... Ah! non ho coraggio.)</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">piangendo</hi>) Mio caro Dalancour, ditemi:        che c'è? Fidatevi di vostra moglie; non sono io la miglior amica che abbiate?</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Prendete. Leggete.... Questo è il mio stato. (<hi rend="italic">le dà la lettera, e parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10371_847524291"/>SCENA VI<ptr type="bookmark-end" target="#id___RefHeading___Toc10371_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Madama</hi> sola.</p>
+                  <p rend="justify">Io tremo. (<emph>legge</emph>) <emph>Signore, tutto è perduto. I creditori non hanno voluto sottoscrivere. La sentenza fu confermata. Vi s'intimerà quanto prima. State bene </emph>
+                     <emph>in guardia, perchè il vostro arresto è ordinato</emph>... Che lessi!... Che intesi!... Mio marito... indebitato... in pericolo di perdere la libertà!... Ma come mai è possibile!... Egli non giuoca. Egli non ha cattive pratiche. Egli non è amante d'un lusso eccedente... Per colpa sua... Sarebbe dunque per colpa mia?... Oh Dio! qual infausto raggio m'illumina! I rimproveri di Angelica, l'odio del signor Geronte, il disprezzo ch'egli dimostra di giorno in giorno contro di me... Mi si squarcia la benda dinanzi agli occhi. Io vedo il fallo di mio marito, vedo il mio. Il suo troppo amor l'ha sedotto, la mia inesperienza m'ha abbagliato. Dalancour è colpevole, ed io lo sono forse al par di lui... Ma qual rimedio a questa situazione crudele? Suo zio solo... sì... suo zio potrebbe rimediarvi... Ma Dalancour sarebbe egli in istato in questi momenti d'abbattimento e di dolore?... Ah! s'io ne fui la cagione... sebbene involontaria... perchè non andrò io medesima?... sì... quand'anche dovessi gettarmi a' suoi piedi... Ma... con quel carattere aspro, intrattabile, potrà io lusingarmi di piegarlo?... Andrò io ad espormi ai suoi sgarbi?... Ah! che importa? e che sono tutte le umiliazioni in confronto allo stato orribile di mio marito?... sì, vi corro; questa sola idea dee darmi coraggio. (<hi rend="italic">ella vuole andare nel</hi>
+                     <emph>l'appartamento di Geronte</emph>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10373_847524291"/>SCENA VII<ptr type="bookmark-end" target="#id___RefHeading___Toc10373_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Martuccia</hi>,<emph>e detta.</emph>
+                  </p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Madama, che fate voi qui? Il signor Dalancour s’abbandona alla disperazione.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Cielo!... Io volo in suo soccorso. (<emph>parte</emph>)</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Che sventura! Che disordine! Se è vero ch'ella ne sia la cagione, merita bene... Chi veggo?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10375_847524291"/>SCENA VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc10375_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Valerio</hi>,<emph>e detta.</emph>
+                  </p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Signore, che venite voi a far qui? Avete scelto un cattivo momento. Tutta la casa è immersa nel dispiacere.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Già ne dubitava. Ritorno in questo momento dal procuratore del signor Dalancour. Io gli ho offerta la mia borsa ed il mio credito.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Questo è un oprar virtuoso. Nulla è più generoso della vostra azione.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Il signor Geronte è in casa?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>No. Il servitore m'ha detto che l'aveva veduto col suo notaro.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Col suo notaro?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì. Egli ha sempre qualche affare. Volevate forse parlargli?</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Sì; voglio parlare con tutti. Io veggo con pena il disordine del signor Dalancour. Son solo; ho delle facoltà; ne posso disporre. Amo Angelica; vengo ad offrirgli di sposarla senza dote, e dividere seco il mio stato e la mia fortuna.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>La risoluzione è ben degna di voi. Nulla più di essa mostra la stima, l'amore, la generosità.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Credete voi ch'io potessi lusingarmi?...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì, tanto più che madamigella gode il favore di suo zio, e ch'egli vuole maritarla.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Vuol maritarla?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Ma se vuole maritarla, vorrà parimente esser egli solo padrone di proporle il partito.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>(<emph>dopo un momento di silenzio</emph>) Potrebbe darsi.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>È forse questa una consolazione per me?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Perchè no?... Venite, venite, madamigella. (<emph>ad Angelica, che s'inoltra spaventat</emph>
+                     <hi rend="italic">a</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10377_847524291"/>SCENA IX<ptr type="bookmark-end" target="#id___RefHeading___Toc10377_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Angelica</hi>, <emph>e detti</emph>
+                  </p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Io sono tutta spaventata.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>(<emph>ad Angelica</emph>) Che avete, madamigella?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Il mio povero fratello...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sta ancora così?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Un poco meglio. Egli è alquanto più tranquillo.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Udite, udite, madamigella. Questo signore mi ha detto cose consolanti per voi, e per vostro fratello.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Anche per lui?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Se sapeste il sacrificio che è disposto a fare!</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>(<emph>piano a Martuccia</emph>) (Non le dite nulla.) (<emph>volgendosi ad Angelica</emph>) Evvi forse alcun sacrificio ch'ella non meriti?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Ma converrà parlarne al signor Geronte.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Cara amica, se voi voleste prendervi questo incomodo!</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Volentieri. Che dovrò dirgli?... Vediamo... Consigliamo.. Ma sento qualcuno. (<emph>corre verso il appartamento di Geronte</emph>) È il signor Dorval. (<emph>a Valerio</emph>) Non vi fate vedere. Andiamo nella mia camera, e parleremo a nostro bell'agio.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>(<hi rend="italic">a</hi>
+                     <emph>d Angelica</emph>) Se vedete vostro fratello...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Eh andiamo, signore, andiamo. (<emph>lo spinge, e parte con lu</emph>i)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10379_847524291"/>SCENA X<ptr type="bookmark-end" target="#id___RefHeading___Toc10379_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Angelica</hi>, <emph>e </emph>
+                     <hi rend="bold">Dorval</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">da sè</hi>) (Che farò io qui col signor Dorval? Posso andarmene.)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>ad Angelica che sta per partire</emph>) Madamigella... madamigella?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Avete veduto il vostro signor zio? V'ha egli detto nulla?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>L'ho veduto questa mattina, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Prima che uscisse di casa?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Sì signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>È ritornato?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>No signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Bene! (Non sa ancora nulla.)</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore, vi chiedo scusa. Evvi qualche novità che mi riguardi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Vostro zio vi vuol bene.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con modestia</emph>) È tanto buono!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>seriamente</emph>) Egli pensa a voi.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:</hi>Questa è una fortuna per me.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Egli pensa a maritarvi.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>mostra modestia</emph>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Eh? Che ne dite?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>come sopra</emph>) Avreste voi piacere di maritarvi?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con modestia</emph>) Io dipendo da mio zio.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Volete che vi dica qualche cosa di più?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con un poco di curiosità</emph>) Come più vi piace, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>La scelta dello sposo è di già fatta.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>da sè</emph>) (Oh cielo!... Tremo tutta.)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>da sè</emph>) (Mi pare di vederla contenta.)</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>tremando</emph>) Signore, ardirò di chiedervi...</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Che, madamigella?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Lo conoscete voi quello che m'è destinato?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì, lo conosco, e lo conoscete voi pure.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con un poco di gioia</emph>) Io pure lo conosco?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Certamente:        voi lo conoscete.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore, avrò io il coraggio</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Parlate, madamigella.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Di chiedervi il nome di questo giovane?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Il nome di questo giovane?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Sì, se voi lo conoscete.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma... se egli non fosse tanto giovane?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>da sè, con agitazione</emph>) (Cielo!)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Voi siete tanto saggia... dipendete da vostro zio...</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>tremando</emph>) Credete voi, signore, che mio zio voglia sacrificarmi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Che intendete voi per questo sacrificarvi?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con passione</emph>) Ma... senza il consenso del mio cuore.. Mio zio è sì buono!... Chi potrebbe mai avergli dato questo consiglio? Chi avrà mai proposto questo partito?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>un poco punto</emph>) Ma... questo partito... Madamigella... E s'io fossi quello?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con gioia</emph>) Voi, signore?... Il ciel lo volesse!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:</hi>. (<emph>contento</emph>) Il ciel lo volesse?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Sì, io vi conosco. Voi siete ragionevole, siete sensibile, mi fido di voi. Se avete dato a mio zio questo consiglio, se gli avete proposto questo partito, spero che ritroverete ancora la maniera di farlo cangiar di parere.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(Eh! eh! Non c'è male.) (<emph>ad Angelica</emph>) Madamigella...</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>afflitta</emph>) Ah, signore!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Avreste voi il cuor prevenuto?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con passione</emph>) Signore!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>V'intendo.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Abbiate pietà di me!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(Io l'avea ben detto; l'avea ben preveduto! Buon per me, che non ne sono innamorato, ma incominciava a prendervi un po' di gusto.)</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Signore, non mi dite nulla?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma, Madamigella...</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Avreste voi forse qualche particolare premura per quello cui vorrebbero darmi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Un poco.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con passione e costanza</emph>) V'avverto che io l'odierò.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>da sè</emph>) (Povera ragazza! Mi piace la sua sincerità.)</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Deh! Siate compassionevole, siate generoso.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì, madamigella... sì, lo sarò... vel prometto. Io parlerò a vostro zio in vostro favore; e farò ogni possibile perchè siate soddisfatta.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con gioia</emph>) Oh! quanto mi siete caro!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Poverina!</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>con trasporto</emph>) Voi siete il mio benefattore, il mio protettore, il padre mio. (<hi rend="italic">lo prende </hi>
+                     <hi rend="italic">per la mano</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Mia cara ragazza!..</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10381_847524291"/>SCENA XI<ptr type="bookmark-end" target="#id___RefHeading___Toc10381_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi>, <emph>e detti.</emph>
+                  </p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>alla sua maniera con brio</emph>) Benissimo, benissimo. Coraggio. Bravi, figli miei, bravi. Sono di voi contentissimo.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>si ritira tutta mortificata)</emph>
+                  </p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>sorride</emph>).</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Come? la mia presenza vi fa paura? Io non condanno premure che sono legittime. Tu hai fatto bene, Dorval, a prevenirla. Suvvia, madamigella, abbracciate il vostro sposo.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>costernata</emph>) (Che intendo?)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>da sè</emph> 
+                     <emph>sorridendo</emph>) (Eccomi scoperto.)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>ad Angelica con ardore</emph>) Che scena è questa? Qual modestia fuori di proposito? Quando io non ci sono, t'accosti, e quando giungo t'allontani? vicinati! (<emph>a Dorval in </emph>
+                     <emph>collera</emph>) Suvvia, avvicinatevi anche voi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>ridendo</emph>) Colle buone, mio caro Geronte.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Ah! ridete? la sentite la vostra felicità? Io voglio ben che si rida, ma non voglio che mi si faccia andar in collera; m'intendete, signor bocca ridente? Venite qui, e ascoltatemi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma ascoltate pur voi.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>ad Angelica, e vuol prenderla per mano</emph>) Avvicinatevi.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>piangendo</emph>) Mio zio....</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Piangi! Mi fai la bambina! Io credo che tu ti prenda giuoco di me. (<emph>la prende per mano, e la sforza ad avanzarsi in mezzo alla scena, poi si volge a Dorval e gli dice con una specie di brio</emph>) La non può scapparmi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Almeno lasciatemi parlare.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>vivamente</emph>) Zitto!</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Mio caro zio...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>vivamente</emph>) Zitto! (<emph>egli muta tuono, e dice tranquillamente</emph>) Sono stato dal mio notaro: ho disposto il tutto. Egli ha stesa la minuta in mia presenza, la porterà qui quanto prima, e noi sottoscriveremo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma se voleste ascoltarmi...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Zitto. Per la dote, mio fratello ha avuto la debolezza di lasciarla fra le mani di suo figlio. Io non dubito che non ci sia per essere dal canto suo qualche ostacolo; ma ciò non m'imbarazza. Quelli che avranno affari con lui li avranno mal fatti; la dote non può perire, e in ogni caso io me ne fo mallevadore.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>a parte</emph>) (Non posso più.)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>imbarazzato</emph>) Tutto va benissimo; ma...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Ma che?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>guardando Angelica</emph>) Madamigella avrebbe a dirvi sopra di ciò qualche cosa.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>in fretta, e tremando</emph>) Io, signore?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Vorrei bene ch'ella trovasse qualche cosa a ridire sopra ciò ch'io fo, sopra ciò ch'io ordino, e sopra ciò ch'io voglio. Ciò ch'io voglio, ciò ch'io ordino e ciò ch'io fo:        lo fo, lo voglio, e l'ordino per suo bene. M'intendi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Parlerò dunque io medesimo.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che avete a dirmi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Che mi rincresce; ma che questo matrimonio non può effettuarsi.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Cospetto! (<emph>Angelica s'allontana tutta spaventata. Dorval parimente dà due passi addietro</emph>) Voi mi avete data la vostra parola d'onore. (<emph>a Dorval</emph>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì; ma con patto...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sarebbe forse quest'impertinente? (<emph>volgendosi verso Angelica</emph>) S'io potessi crederlo... se ne avessi qualche dubbio... (<hi rend="italic">la minaccia</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>seriamente</emph>) No, signore: avete torto.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>volgendosi verso Dorval</emph>) Siete voi dunque che mi mancate?</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<emph>coglie il momento e fugge</emph>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10383_847524291"/>SCENA XII<ptr type="bookmark-end" target="#id___RefHeading___Toc10383_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dorval</hi> 
+                     <emph>e</emph> 
+                     <hi rend="bold">Geronte</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>continua a parlare con Dorval</emph>) Che? abusate della mia amicizia e del mio affetto per la vostra persona?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<emph>alzando la voce</emph>) Ma udite le ragioni...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che ragioni, che ragioni? Non c'è ragioni, io sono un uomo d'onore; e se lo siete voi pure, animo, subito... (<emph>volgendosi chiama</emph>) Angelica?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(Che diavolo d'uomo! Egli mi farebbe violenza sul fatto.) (<emph>fugge via</emph>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10385_847524291"/>SCENA XIII<ptr type="bookmark-end" target="#id___RefHeading___Toc10385_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> 
+                     <emph>solo.</emph>
+                  </p>
+                  <p rend="justify">Dov'è andata?… Angelica!… Eh, là! C'è nessuno?… Piccardo?... Martuccia?... Pietro?... Cortese?... Ma la ritroverò. Voi siete quello con cui voglio... (<emph>si volge, non vede più Dorval, e resta immobile</emph>) Come! Egli mi pianta così? (<emph>chiama</emph>) Dorval!... Amico… Dorval!... Amico… Dorval!... Ah indegno!.. ingrato!.. Eh, là, c'è nessuno... Piccardo?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10387_847524291"/>SCENA XIV<ptr type="bookmark-end" target="#id___RefHeading___Toc10387_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Piccardo</hi>, <emph>e detto.</emph>
+                  </p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Briccone! non rispondi?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Perdonate, signore. Eccomi.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Disgraziato, ti ho chiamato dieci volte.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Mi rincresce, ma...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Dieci volte, disgraziato!…</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>da sè, in collera</emph>) (Egli è ben rabbioso qualche volta.)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Hai veduto Dorval?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>bruscamente</emph>) Sì, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Dov'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>È partito.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Come è partito?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>bruscamente</emph>) È partito come si parte.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>in collera grande lo minaccia, e lo fa dar addietro</emph>) Ah! ribaldo! Così si risponde al tuo padrone?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">rinculando con aria estremamente adirata</hi>) Signore, datemi la mia licenza...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>La tua licenza, sciagurato! (<emph>lo minaccia e lo fa rinculare; Piccardo, rinculando, cade fra la sedia ed il tavolino. Geronte corre in suo soccorso, e lo rialza</emph>)</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>s'appoggia al guanciale della sedia e mostra molto dolore</emph>) Ahi!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che c'è? che c'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Sono ferito, signore. M'avete storpiato.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Oh, mi dispiace!... Puoi tu camminare?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>sempre in collera</emph>) Credo di sì, signore. (<emph>si prova e cammina male</emph>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>bruscamente</emph>) Vattene.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>mortificato</emph>) Signore, voi mi scacciate.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>vivamente</emph>) No, va a casa di tua moglie, che ti medichi. (<emph>cava la borsa, e vuol dargli del danaro</emph>) Prendi, per farti curare.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>a parte, intenerito</emph>) (Qual padrone!)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>porgendogli del danaro</emph>) Prendi.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:</hi>(<emph>con modestia</emph>) Eh! no, signore.. io spero che non sarà nulla.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Prendi, ti dico.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>ricusandolo con civiltà</emph>) Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<emph>riscaldato</emph>) Come! tu rifiuti il mio danaro?... lo rifiuti per orgoglio, per dispetto, e per odio? Credi tu che io l'abbia fatto a bella posta?… prendi questo danaro, prendilo. Animo, non mi far arrabbiare.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>prendendo il danaro</emph>) Non v'adirate, signore. Vi ringrazio della vostra bontà.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Va subito.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>cammina male</emph>) Sì, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Va adagio.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Sì, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Aspetta, aspetta; prendi la mia canna.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Prendila, ti dico. Voglio così.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<emph>prende la canna e partendo dice</emph>) Che bontà (<hi rend="italic">parte</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10389_847524291"/>SCENA XV<ptr type="bookmark-end" target="#id___RefHeading___Toc10389_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> e <hi rend="bold">Martuccia</hi>.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Questa è la prima volta in vita mia, che... maledetto il mio caldo!... (<hi rend="italic">passeggiando a gran passi</hi>) È Dorval che m'ha fatto andare in collera.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Signore, volete pranzare?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Il diavolo che ti porti. (<emph>corre, e si chiude </emph>
+                     <emph>nel suo appartamento</emph>)</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Bella! Bellissima! egli è sulle furie. Oggi, per Angelica non c'è caso di nulla. Tanto fa che Valerio se ne vada.</p>
+                  <p rend="center">
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10391_847524291"/>
+                     <hi rend="bold">
+                        <hi rend="smallcaps">Fine dell'atto secondo</hi>
+                     </hi>
+                     <ptr type="bookmark-end" target="#id___RefHeading___Toc10391_847524291"/>
+                  </p>
+               </div>
+            </div>
+            <div type="div2" rend="P32">
+               <head>
+                  <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10393_847524291"/>Atto terzo<ptr type="bookmark-end" target="#id___RefHeading___Toc10393_847524291"/>
+               </head>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10395_847524291"/>Scena I<ptr type="bookmark-end" target="#id___RefHeading___Toc10395_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Piccardo</hi> entra per la porta di mezzo, <hi rend="bold">Martuccia</hi> per quella di Dalancour.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Come! siete già ritornato?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">con la canna del suo padrone</hi>) Sì; vado un po' zoppicando, ma non è nulla. La paura è stata più grande del male: ciò non meritava il danaro che mi dette il padrone per farmi curare.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Via, via: anche le disgrazie talvolta sono giovevoli.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>(<hi rend="italic">con aria contenta</hi>) Povero padrone! Per mia fe', questo tratto di bontà mi ha intenerito sino a cavarmi le lagrime dagli occhi. Se m'avesse ancora rotto una gamba, glie l'avrei perdonato.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Egli è d'un cuore... Peccato ch'abbia sì brutto difetto!</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>E qual è quell'uomo che sia senza difetti?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Andate, andate a trovarlo. Sapete voi ch'ei non ha ancor pranzato?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>E perchè?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Vi sono, figlio mio, delle cose!.. delle cose terribili in questa casa.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>So tutto; ho incontrato vostro nipote, e mi ha raccontato tutto. Questo è il motivo, per cui mi vedete di ritorno sì presto. Il padrone lo sa?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Credo di no.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Ah! quanto ne sarà travagliato!</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Certamente... E la povera Angelica?</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Ma Valerio?...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Valerio? Valerio è qui tuttavia. Egli non ha voluto partire. È ancora nell'appartamento del signor Dalancour; fa coraggio al fratello; guarda la sorella; consola Madama. L'uno piange; l'altra sospira; l'altra si dispera. Questa è una confusione, una vera confusione.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Non v'eravate voi impegnata di parlare al padrone?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì, gli avrei parlato; ma in questo momento è troppo in collera.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Vado a ritrovarlo; vado a riportargli la sua canna.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Andate; e se vedete la burrasca alquanto calmata, ditegli qualche cosa dello stato infelice di sua nipote.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Sì, gliene parlerò, e vi saprò dir qualche cosa. (<hi rend="italic">apre piano, entra nell'appartamento di Geronte, e chiude la porta</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10397_847524291"/>Scena II<ptr type="bookmark-end" target="#id___RefHeading___Toc10397_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Martuccia</hi> sola.</p>
+                  <p rend="justify">Sì, mio caro amico. Andate piano. Questo Piccardo è un giovane dabbene, docile, civile, servizievole. Egli è il solo che mi piaccia in questa casa. Io non fo sì facilmente amicizia con chicchessia.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10399_847524291"/>Scena III<ptr type="bookmark-end" target="#id___RefHeading___Toc10399_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dorval</hi>, e detta.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">parlando basso e sorridendo</hi>) Ebbene, Martuccia?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Umilissima serva, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Il signor Geronte è più in collera?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Non sarebbe cosa straordinaria se gli fosse passata. Voi. lo conoscete meglio d'ogni altro.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Egli si è bene sdegnato contro di me come va!</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Contro di voi, signore? Egli si è adirato contro di voi?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">ridendo e parlando sempre</hi>) Senza dubbio. Ma non è nulla. Io lo conosco. Scommetto che se vado a trovarlo, egli sarà il primo a gettarmisi al collo.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Niente di più facile; vi ama, vi stima, voi siete il suo unico amico... La è una cosa singolare:... Un uomo come lui tutta furia. E voi, sia detto con rispetto, siete l’uomo più flemmatico di questo mondo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Appunto per questa ragione la nostra amicizia si è conservata lungo tempo.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Andate, andate a trovarlo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>No, è troppo presto. Io vorrei prima vedere madamigella Angelica. Dov'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>(<hi rend="italic">con passione</hi>) Con suo fratello. Le sapete voi tutte le disgrazie di suo fratello?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">con un'aria penetrata</hi>) Ah, pur troppo! Tutto il mondo ne parla.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>E che si dice?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Non si dimanda. I buoni lo compiangono, i malvagi se ne prendono giuoco, gl'ingrati l'abbandonano.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Oh cielo!… E questa povera ragazza?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>È necessario che io le parli.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Potrei domandarvi di che si tratta? Io m'interesso tanto per lei, che spero di meritare questa compiacenza.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ho saputo che un certo Valerio...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Ah, ah! Valerio? (<hi rend="italic">ridendo</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Lo conoscete?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Molto, signore; questa faccenda è tutta opera mia.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Tanto meglio; mi seconderete?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Più che volentieri.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Conviene ch'io vada ad assicurarmi, se Angelica...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>E di poi, se Valerio...</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì, andrò parimente in traccia di lui.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>(<hi rend="italic">sorridendo</hi>) Andate, andate nell'appartamento di Dalancour. Voi farete due cose ad un colpo.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ma come?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Egli è colà.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Valerio?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:</hi>Ne ho ben piacere. Vado subito.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Aspettate, aspettate; volete che gli faccia far l'ambasciata?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">ridendo</hi>) Oh bella!... Farò far l'ambasciata a mio cognato?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Vostro cognato?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Come?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Non sai nulla?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Nulla.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Ebbene, lo saprai un'altra volta. (<hi rend="italic">entra da Dalancour</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10401_847524291"/>Scena IV<ptr type="bookmark-end" target="#id___RefHeading___Toc10401_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Martuccia</hi> sola.</p>
+                  <p rend="justify">Assolutamente impazzisce.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10403_847524291"/>Scena V<ptr type="bookmark-end" target="#id___RefHeading___Toc10403_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> e detta.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">parlando sempre rivolto verso la porta del suo appartamento</hi>) Fermati lì; farò portar la lettera da un altro. Fermati lì... Voglio così... (<hi rend="italic">si rivolge a Martuccia</hi>) Martuccia?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Va a cercar un servitore che porti subito questa lettera a Dorval. (<hi rend="italic">volgendosi verso la porta del suo appartamento</hi>) L'imbecille! va tuttavia zoppicando e vorrebbe partire. (<hi rend="italic">a Martuccia</hi>) Vanne.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Ma signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Spicciati.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Ma Dorval...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">vivamente</hi>) Sì, a casa di Dorval.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Egli è qui.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Chi?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Dorval.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Dov'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Qui.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Dorval è qui?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Sì signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Dov'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Nell'appartamento del signor Dalancour.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Nell'appartamento di Dalancour? (<hi rend="italic">in collera</hi>) Dorval nell'appartamento di Dalancour? Ora veggo come sta la faccenda… Comprendo tutto. (<hi rend="italic">a Martuccia</hi>) Va in traccia di Dorval, digli da parte mia... Ma no, non voglio che tu vada in quel maledetto appartamento. Se ci metti piede, ti licenzio sul fatto... Chiama un servitore di quello sciagurato... No che non venga nessuno... Vai tu... Sì, sì, ch'egli venga subito subito... Ebbene?…</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Vado o non vado?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Vanne. Non mi far impazientare d'avvantaggio. (<hi rend="italic">Martuccia entra da Dalancour</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10405_847524291"/>Scena VI<ptr type="bookmark-end" target="#id___RefHeading___Toc10405_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Geronte</hi> solo.</p>
+                  <p rend="justify">Sì, ella è così. Dorval ha penetrato in qual abisso terribile quel disgraziato è caduto. Sì, egli l'ha saputo prima di me; ed io, se non me l'avesse detto Piccardo, ne sarei ancora all'oscuro. È così... è così senz'altro. Dorval teme la parentela d'un uomo perduto; egli è colà:        forse l'esamina per assicurarsene maggiormente. Ma perchè non dirmelo? L'avrei persuaso, l'avrei convinto... Perchè non me n'ha parlato?... Dirà forse che la mia furia non glie n'ha dato il tempo?... No certamente. Bastava che avesse aspettato; che non fosse partito... la mia collera si sarebbe calmata ed egli avrebbe potuto parlarmi. Nipote indegno; traditore; perfido! Tu hai sacrificato i tuoi beni, il tuo onore; io t'amai, scellerato… Sì, t'amai anche troppo, ma ti cancellerò totalmente dal mio cuore, e dalla mia memoria... Vattene di qua, va a perire altrove... Ma dove andrà egli? Non me n'importa. non ci penso più... Sua sorella sola m'interessa, ella sola merita la mia tenerezza, i miei benefizi... Dorval è mio amico. Dorval la sposerà. Io le darò la dote, le donerò tutte le mie facoltà. Lascerò penare il reo, ma non abbandonerò mai l'innocente.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10407_847524291"/>Scena VII<ptr type="bookmark-end" target="#id___RefHeading___Toc10407_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Dalancour</hi>, e detto.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">atterrito si getta ai piedi di Geronte</hi>) Ah! mio zio! Uditemi per pietà...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che vuoi? Alzati. (<hi rend="italic">si volge, vede </hi>
+                     <hi rend="italic">Dalancour, dà un passo indietro</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">nella stessa positura</hi>) Mio caro zio! Voi vedete il più sventurato di tutti gli uomini. Per pietà, ascoltatemi. </p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Alzati, ti dico. (<hi rend="italic">un po' commosso, ma sempre in collera</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">in ginocchio</hi>) Voi che avete un cuore sì generoso, così sensibile, m'abbandonereste voi per una colpa che è solamente una colpa d'amore, e d'un amore onesto e virtuoso? Io, senza dubbio, ho il torto di non essermi approfittato dei vostri consigli, d'aver trascurato la tenerezza vostra paterna; ma, mio caro zio, in nome di quel sangue, cui debbo la vita, di quel sangue che voi tenete meco comune, lasciatevi commuovere, lasciatevi intenerire.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">a poco a poco s'intenerisce, e s'asciuga gli occhi, nascondendosi da Dalancour, e dice a parte</hi>) Come! tu hai ancora coraggio?...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Non è la perdita dello stato che m'affanni; un sentimento più degno mi sollecita. Egli è l'onore. Soffrireste voi l'infamia d'un vostro nipote? Io non vi chiedo nulla per noi. Che si salvi la mia reputazione, e vi do parola per mia moglie e per me, che l'indigenza non spaventerà punto i nostri cuori, quando, in seno alla miseria, avremo per conforto una probità senza macchia, il nostro amore scambievole, la vostra tenerezza, e la vostra stima.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sciagurato!... Meriteresti!... Ma io sono un uomo debole, questa specie di fanatismo del sangue mi parla in favor d'un ingrato! Alzati, traditore, io pagherò i tuoi debiti, e ti porrò forse in tal guisa in istato di farne degli altri.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">commosso</hi>) Ah! no, mio zio! vi prometto... Vedrete la mia condotta avvenire...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Qual condotta! sciagurato senza cervello? Quella di un marito infatuato, che si lascia guidare a capriccio da sua moglie, da una femmina vana, presuntuosa, civetta.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>No, vel giuro.. Mia moglie non ne ha colpa. Voi non la conoscete.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">ancora</hi> 
+                     <hi rend="italic">più vivamente</hi>) Tu la difendi, tu menti in mia presenza!... Guardati bene... Ci vorrebbe poco che a cagione di tua moglie, non ritrattassi la promessa che m'hai strappata di bocca. Sì, sì, la ritratterò... Tu non avrai nulla del mio. Tua moglie! Tua moglie!... Io non posso soffrirla, non voglio vederla.</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ah, mio zio! voi mi lacerate il cuore!</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10409_847524291"/>Scena VIII<ptr type="bookmark-end" target="#id___RefHeading___Toc10409_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Madama</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Deh! Signore, se mi credete la cagione dei disordini di vostro nipote, è giusto che ne porti io sola la pena. L'ignoranza in cui ho vissuto sin'ora non è, lo veggo, dinanzi a' vostri occhi, una scusa che basti. Giovane, senza esperienza, mi sono lasciata dirigere da un marito che amavo. Il mondo seppe allettarmi, i cattivi esempi mi hanno sedotta; io ero contenta, e mi credeva felice... ma sembro la rea, e questo basta... Purchè mio marito sia degno de' vostri benefizi, soscrivo al fatale vostro decreto. Mi staccherò dalle sue braccia. Vi chiedo una grazia soltanto:        moderate il vostro odio contro di me; scusate il mio sesso, la mia età; compatite un marito, che per troppo amore...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Eh! Madama! credereste voi forse di soverchiarmi?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Oh cielo! Dunque non v’è più speranza? Ah mio caro Dalancour, io t'ho dunque perduto. Io muoio. (<hi rend="italic">cade sopra un sofà.</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        (</hi>
+                     <hi rend="italic">corre in suo soccorso</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">inquieto, commosso, intenerito</hi>) Eh, là? c'è nessuno? Martuccia?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10411_847524291"/>Scena IX<ptr type="bookmark-end" target="#id___RefHeading___Toc10411_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Martuccia</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Eccomi, signore.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Guardate là... subito... andate... vedete... recatele qualche soccorso.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Madama, Madama, che c'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Prendete, prendete; eccovi l'acqua di Colonia. (<hi rend="italic">dando a Martuccia una boccetta</hi>) Come va? (<hi rend="italic">a Dalancour</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Ah, mio zio!...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">s'accosta a Madama, e le dice bruscamente</hi>) Come state?</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>(<hi rend="italic">alzandosi languidamente, e con una voce </hi>
+                     <hi rend="italic">fioca ed interrotta</hi>) Signore, voi avete troppa bontà ad interessarvi di me. Non abbiate riguardo alla mia debolezza; il cuore vuol fare i suoi moti. Ricupererò le mie forze, partirò, mi rassegnerò alla mia sciagura.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">s'intenerisce, ma non parla</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">afflitto</hi>) Ah! mio zio, soffrireste, che...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">vivamente a Dalancour</hi>) Taci tu! (<hi rend="italic">a Madama bruscamente</hi>) Restate in casa con vostro marito.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Ah, signore!</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>(<hi rend="italic">con trasporto</hi>) Ah! mio caro zio!</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">con serietà, ma senza collera, e prendendoli ambedue per mano</hi>) Uditemi. I miei risparmi non erano per me. Voi gli avreste un giorno, trovati. Ebbene, servitevene in questa occasione; la sorgente è esaurita; abbiate giudizio. Se non vi muove la gratitudine, l'onore almeno vi faccia star a dovere.</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>La vostra bontà...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>La vostra generosità...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Basta così.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Signore....</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Taci tu, ciarliera.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Signore, voi siete in disposizione di far del bene: non farete pur qualche cosa per madamigella Angelica?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>A proposito dov'è?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Ella non è lontana.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>V'è ancora il suo pretendente?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Il suo pretendente?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>È corrucciata forse per questo? È per questo che non vuol più vedermi? Sarebbe egli partito?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Signore... il suo pretendente c'è tuttavia.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Che vengano qui.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Angelica ed il suo pretendente?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">riscaldato</hi>) Sì, Angelica ed il suo pretendente.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Benissimo. Subito, signore, subito. (<hi rend="italic">avvicinandosi alla portiera</hi>) Venite, venite, figli miei; non abbiate timore.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10413_847524291"/>Scena X<ptr type="bookmark-end" target="#id___RefHeading___Toc10413_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Valerio</hi>, <hi rend="bold">Dorval</hi>, <hi rend="bold">Angelica</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">vedendo Valerio e Dorval</hi>) Che c'è?... Che vuole qui quell'altro?</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Signore, sono il pretendente, ed il testimonio.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">ad Angelica</hi>) Avvicinatevi.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">s'accosta tremando, e parla con Madama</hi>) Ah! Cognata, quanto vi debbo chieder perdono!</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>(<hi rend="italic">a Madama</hi>) Ed io pure, Madama.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">a Dorval</hi>) Venite qui, signor pretendente... Che c'è? siete ancora adirato? Non volete venire?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Parlate con me?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Sì con voi.</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Perdonatemi; io sono soltanto il testimonio.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Il testimonio!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Sì. Vi spiego l'arcano... Se m'aveste lasciato parlare..</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Arcano!... (<hi rend="italic">ad Angelica</hi>) Vi sono degli arcani?</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>(<hi rend="italic">serio e risoluto</hi>) Uditemi, amico. Voi conoscete Valerio; egli ha saputi i disastri di questa famiglia. È venuto ad offrire le sue facoltà al signor Dalancour, e la sua mano ad Angelica. Egli l'ama, è pronto a sposarla senza dote, e ad assicurarle una contraddote di dodici mila lire di rendita. M'è noto il vostro carattere, e so che a voi piacciono le belle azioni; l'ho perciò trattenuto, e mi sono incaricato di presentarvelo.</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Tu non avevi alcuna inclinazione, eh? mi hai ingannato. Ebbene, non voglio che tu lo prenda; questa è una soperchieria d'ambe le parti; io non la soffrirò giammai.</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>(<hi rend="italic">piangendo</hi>) Mio caro zio...</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>(<hi rend="italic">appassionato e supplichevole</hi>) Signore...</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Voi siete sì buono....</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Voi siete sì generoso...</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Mio caro padrone...</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Maledetto il mio naturale! Non posso durar in collera quanto ne ho voglia. Io mi schiaffeggerei volentieri (<hi rend="italic">tutti insieme ripetono le loro preghiere, e lo circondano, </hi>
+                     <hi rend="italic">e lo stordiscono</hi>) Tacete, lasciatemi... che il diavolo vi porti... Ch'egli la sposi.</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>(<hi rend="italic">forte</hi>) Che la sposi senza dote?</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Come senza dote?... Io mariterò mia nipote senza dote? Non sarà forse in istato dì formarle la dote? Conosco Valerio; l'azione generosa, che venne a proporci, merita una ricompensa. Sì, egli avrà la dote, e le cento mila lire che ho promesso ad Angelica.</p>
+                  <p>
+                     <hi rend="smallcaps">Valerio:        </hi>Quante grazie!</p>
+                  <p>
+                     <hi rend="smallcaps">Angelica:        </hi>Quanta bontà!</p>
+                  <p>
+                     <hi rend="smallcaps">Madama:        </hi>Qual cuore!</p>
+                  <p>
+                     <hi rend="smallcaps">Dalancour:        </hi>Qual esempio!</p>
+                  <p>
+                     <hi rend="smallcaps">Martuccia:        </hi>Viva il mio padrone!</p>
+                  <p>
+                     <hi rend="smallcaps">Dorval:        </hi>Viva il mio buon amico! (<hi rend="italic">tutti lo circondano, lo colmano di carezze, e ripetono le sue lodi</hi>)</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>(<hi rend="italic">cerca liberarsi da loro, e grida forte</hi>) Zitto, zitto, zitto… (<hi rend="italic">chiama</hi>) Piccardo?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10415_847524291"/>Scena ultima<ptr type="bookmark-end" target="#id___RefHeading___Toc10415_847524291"/>
+                  </head>
+                  <p rend="justify">
+                     <hi rend="bold">Piccardo</hi>, e detti.</p>
+                  <p>
+                     <hi rend="smallcaps">Piccardo:        </hi>Signore</p>
+                  <p>
+                     <hi rend="smallcaps">Geronte:        </hi>Si cenerà nel mio appartamento; sono invitati tutti. Dorval, noi frattanto giuocheremo agli scacchi.</p>
+                  <p rend="center bold smallcaps">
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc10417_847524291"/>Fine Della Commedia<ptr type="bookmark-end" target="#id___RefHeading___Toc10417_847524291"/>
+                  </p>
+               </div>
+               <div type="div3" rend="P30">
+                  <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+                  <p>E-text</p>
+                  <p>Web design, Editoria, Multimedia</p>
+                  <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+                  <p>
+                     <ref target="https://www.e-text.it/">www.e-text.it</ref>
+                  </p>
+                  <p>QUESTO E-BOOK:</p>
+                  <p>TITOLO: Il burbero benefico</p>
+                  <p>AUTORE: Goldoni, Carlo</p>
+                  <p>TRADUTTORE: </p>
+                  <p>CURATORE: Avancini, Avancinio</p>
+                  <p>NOTE: si ringrazia il Prof. Giuseppe Bonghi e la biblioteca dei Classici Italiani per averci concesso il diritto di pubblicazione.</p>
+                  <p>CODICE ISBN E-BOOK: 9788828102823</p>
+                  <p>DIRITTI D'AUTORE: no</p>
+                  <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ref target="https://www.liberliber.it/online/opere/libri/licenze">www.liberliber.it/online/opere/libri/licenze</ref>
+                  </p>
+                  <p>COPERTINA: [elaborazione da] "Self-Portrait, Yawning (1783)" di Joseph Ducreux (1735–1802). -         Getty Museum, Los Angeles, Stati Uniti. - https://commons.wikimedia.org/wiki/File:Joseph_Ducreux_(French)_-_Self-Portrait,_Yawning_-_Google_Art_Project.jpg . - Pubblico Dominio.</p>
+                  <p>TRATTO DA: Il burbero benefico : commedia in tre atti / Carlo Goldoni ; con prefazione e note di Avancinio Avancini. - Milano : Vallardi, stampa 1935. - 122 p. ; 17 cm.. - (Collana di cultura classica).</p>
+                  <p>CODICE ISBN FONTE: n. d.</p>
+                  <p>1a EDIZIONE ELETTRONICA DEL: 20 giugno 2002</p>
+                  <p>2a EDIZIONE ELETTRONICA DEL: 2 novembre 2021</p>
+                  <p>INDICE DI AFFIDABILITÀ: 2</p>
+                  <p>0: affidabilità bassa</p>
+                  <p>1: affidabilità standard</p>
+                  <p>2: affidabilità buona</p>
+                  <p>3: affidabilità ottima</p>
+                  <p>SOGGETTO:</p>
+                  <p>PER015000 ARTI RAPPRESENTATIVE / Commedia</p>
+                  <p>DIGITALIZZAZIONE:</p>
+                  <p>Giuseppe Bonghi, bonghi@whale.fausernet.novara.it</p>
+                  <p>REVISIONE:</p>
+                  <p>Claudio Paganelli, paganelli@mclink.it</p>
+                  <p>Ugo Santamaria</p>
+                  <p>IMPAGINAZIONE:</p>
+                  <p>Marco Totolo</p>
+                  <p>Mariano Piscopo, mariano.piscopo@gmail.com (ePub)</p>
+                  <p>Marco Totolo (revisione ePub)</p>
+                  <p>PUBBLICAZIONE:</p>
+                  <p>Davide de Caro</p>
+                  <p>Ugo Santamaria</p>
+                  <subtitle>
+                     <anchor type="bookmark-start" xml:id="id___RefHeading___Toc349_1637598191"/>Liber Liber<ptr type="bookmark-end" target="#id___RefHeading___Toc349_1637598191"/>
+                  </subtitle>
+                  <p>Se questo libro ti è piaciuto, aiutaci a realizzarne altri. Fai una donazione: <ref target="https://www.liberliber.it/online/aiuta/">www.liberliber.it/online/aiuta</ref>.</p>
+                  <p>Scopri sul sito Internet di Liber Liber ciò che stiamo realizzando: migliaia di ebook gratuiti in edizione integrale, audiolibri, brani musicali con licenza libera, video e tanto altro: <ref target="https://www.liberliber.it/">www.liberliber.it</ref>.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>E-book campione Liber Liber</title>
+            <author>Giuseppe Adami</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2022-11-20T14:33:01.174009079</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                           
+      <body>
+         <author>Giuseppe Adami</author>
+         <p rend="color(#ff6633)bold">Parigi!</p>
+         <p rend="center">GIUSEPPE ADAMI</p>
+         <div type="div1">
+            <head>Parigi !</head>
+            <p rend="center">COMMEDIA IN QUATTRO ATTI</p>
+            <p rend="end italic">a RENIER e DORETTA</p>
+            <div type="div2" rend="P34">
+               <head>Personaggi</head>
+               <p rend="smallcaps">Isa.        <hi rend="italic">Melato.</hi>
+               </p>
+               <p rend="smallcaps">Florise.        <hi rend="italic">Grassi.</hi>
+               </p>
+               <p rend="smallcaps">Zia Concetta.        <hi rend="italic">Sabbatini.</hi>
+               </p>
+               <p rend="smallcaps">La Gyp.        <hi rend="italic">Di Rocca.</hi>
+               </p>
+               <p rend="smallcaps">Rosa.        <hi rend="italic">Tolfini.</hi>
+               </p>
+               <p rend="smallcaps">Dinarzade.        <hi rend="italic">Altavilla, p. f.</hi>
+               </p>
+               <p rend="smallcaps">Mario Varandi.        <hi rend="italic">Marcacci.</hi>
+               </p>
+               <p rend="smallcaps">Lenard.        <hi rend="italic">Sabbatini.</hi>
+               </p>
+               <p rend="smallcaps">Claudio Regis.        <hi rend="italic">Righi</hi>
+               </p>
+               <p rend="smallcaps">Clementi.        <hi rend="italic">Delfini.</hi>
+               </p>
+               <p rend="smallcaps">Mauperin.        <hi rend="italic">Bianchi.</hi>
+               </p>
+               <p rend="smallcaps">Maurizio.        <hi rend="italic">Giardini C.</hi>
+               </p>
+               <p rend="smallcaps">Dorival.        <hi rend="italic">Palois.</hi>
+               </p>
+               <p rend="smallcaps">Dubois.        <hi rend="italic">Patrese.</hi>
+               </p>
+               <p rend="smallcaps">Renaud.        <hi rend="italic">Giardini V.</hi>
+               </p>
+               <p rend="smallcaps">Il Siriano.        <hi rend="italic">Catelani.</hi>
+               </p>
+               <p rend="smallcaps">Un Usciere.        <hi rend="italic">Argardi.</hi>
+               </p>
+               <p rend="smallcaps">Un Cameriere.        <hi rend="italic">Cavallari.</hi>
+               </p>
+               <p rend="smallcaps">Un Valletto.        <hi rend="italic">Braschi.</hi>
+               </p>
+               <p rend="italic">Questa commedia fu rappresentata la prima volta al teatro Olympia di Milano la sera del 29 aprile 1921, interpreti principali: Maria Melato, Ernesto Sabbatini, Augusto Marcacci.</p>
+            </div>
+            <div type="div2" rend="P34">
+               <head>Atto primo</head>
+               <p>Una stanza che s'apre con una grande finestra nel fondo su di un terrazzo tutto verde e tutto fiori.</p>
+               <p>Laggiù – quando la finestra s'aprirà – i tetti, i comignoli, i campanili della città provinciale, arrossati dal tramonto.</p>
+               <p>All'inizio dell'atto le imposte sono semiaperte, i vetri spalancati.</p>
+               <p>A sinistra è una porta in comunicazione col piccolo appartamento.</p>
+               <p>A destra la porta d'ingresso.</p>
+               <p>Pochi mobili vecchi, ma disposti con gustosa semplicità.</p>
+               <p>A sinistra, verso il centro della scena, è un tavolo sul quale sono sparsi alcuni giornali di moda.</p>
+               <p>Quando si schiude il velario, Isa sta provando un abitino da sera succinto e scollato, molto scollato, fra un disordine di vesti sparse e ammucchiate alla rinfusa sulle sedie e sul divano. Rosa, la sarta, le è d'attorno a puntar spilli, a segnare le modificazioni che via via Isa le verrà suggerendo mentre si esamina, con un piccolo specchio a mano, contro uno specchio grande che è appeso alla parete di sinistra. Zia Concetta s'aggira lentamente per la stanza, tutta chiusa in una sua preoccupazione che le impedisce persino il controllo dei suoi movimenti.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non ci si vede più!... Zia, per piacere, vuoi aprire?</p>
+               <p>Concetta si dirige al balcone e automaticamente invece di aprire le imposte chiude i vetri.</p>
+               <p>Ma no, cara! Perchè chiudi i vetri?</p>
+               <p>Concetta.</p>
+               <p>Ah! già!</p>
+               <p rend="end">E spalanca le imposte.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Oh! brava!</p>
+               <p rend="end">A bassa voce a Rosa.</p>
+               <p>Vede? Che cosa le dicevo? Ha persa completamente la testa, poverina!</p>
+               <p>Concetta riprende a girare mettendo mano qua e là.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>La scollatura?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Davanti mi par bene. Ma sulla schiena direi d'andare un pochino più giù.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Più giù?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Quest'anno, a Parigi, si scende una spanna sotto la cintura!</p>
+               <p rend="center smallcaps">Rosa</p>
+               <p rend="end">con pudore.</p>
+               <p>Dio di misericordia!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Zia?</p>
+               <p rend="end">Concetta si ferma.</p>
+               <p>Ecco: brava. Se tu smettessi di girare?</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Due dita?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Facciamo tre.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Con tre arriviamo in cintura.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E là ci fermiamo!</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Direi anch'io!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non crede, Rosa, che sarebbe meglio un pochino accorciare?</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Ancòra?!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Tre quattro centimetri. Non più.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Fino al polpaccio?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Un po' più su.... Ecco.... così....</p>
+               <p rend="end">E indica.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Ma vanno proprio così nude le donne a Parigi?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Guardi là gli ultimi figurini che m'ha portato Mario.... </p>
+               <p>Un colpo secco di un vaso che sfugge di mano a zia Concetta, la fa sobbalzare.</p>
+               <p>Diavolo! Zia! Che cosa fai?</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Stavo pulendo....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No. Stavi rompendo. S'è rotto?</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>No.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Se tu m'ascoltassi! Se ti sedessi un momento! Non per me, sai, che, dopo tutto, questa è casa tua, roba tua, e puoi rompere quello che vuoi.... Ma sarebbe più utile e meno disastroso che guardassi anche tu e mi dicessi la tua opinione.</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Già! Perchè la mia opinione è ascoltata!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>battendo il piedino e le sillabe con impazienza.</p>
+               <p>Zia! zia!...</p>
+               <p rend="center smallcaps">Rosa</p>
+               <p rend="end">per conciliare.</p>
+               <p>Eh! capisco! La signora Concetta trova, come me del resto, che la moda, oggi, è un pochino, direi quasi azzardata....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma la moda è la moda! Oggi corto, domani lungo; oggi largo, domani stretto.... Come risultato, poi, è la stessa cosa che gira, rigira, e torna a girare.... Mi segni la lunghezza cogli spilli....</p>
+               <p rend="end">Continuando.</p>
+               <p>Ha letto la pastorale del cardinal Rondàri?</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>No.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Per il futuro, l'inferno. Per il presente proibizione alle donne di entrare in chiesa.... spogliate così.... che è uno scandalo.</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Benissimo!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Niente affatto! Perchè non è uno scandalo: è la moda!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Bel sistema di ragionare!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! già! Siete voi soli che ragionate bene!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Noi abbiamo il cervello a posto, cara!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Bisognerebbe sapere che dimensioni ha il vostro cervello!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Certo inferiori a quelle della tua fantasia!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>La fantasia, tanto più vale quanto più spazia!</p>
+               <p>Concetta.</p>
+               <p>E quanto più spazia, tanto meno stringe!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Per stringere con la tua, questo pugno basta!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>È per questo che non avrò delusioni!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Le mie delusioni non ti riguardano e non ti danneggiano, stai pur sicura! Ma quelle che chiami le mie fantasie ti riguardano meno ancòra! Ragione per cui puoi risparmiarmi ammonimenti e consigli!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>E allora lasciami tacere, lasciami fare, lasciami rompere, lasciami girare!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E taci! E gira! E rompi! E va'!...</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Non ne posso più!</p>
+               <p>Ed esce rapida da sinistra, sbattendo l'uscio. Un breve silenzio.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Povera donna!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Povera donna, va bene! Ma anche lei, dopo tutto, dovrebbe farsi una ragione! Dovrebbe capire che questa partenza è necessaria.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Ah! signorina! Come la invidio!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E da quindici giorni, le giuro, Rosa, è diventata una vera tortura! parla a monosillabi, o se mette insieme quattro frasi, eccole, le ha sentite.</p>
+               <p rend="end">Forzandosi alla calma.</p>
+               <p>C'è altro da provare?</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>No, signorina.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>continuando, mentre si toglie il vestito.</p>
+               <p>E a lei, vede? tutti questi preparativi urtano. Un niente la irrita! Tutta la sua bontà s'è trasformata in asprezza!... Ma pensi che da quando ci siamo definitivamente decisi non mi saluta più Mario! </p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Dice davvero?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Come no? È lui che mi ha montata la fantasia! È lui che mi spinge a fare un colpo di testa! È lui che mi trascina alla perdizione! Ora s'immagini se quel ragazzo, col talento che ha, può restar qui a intisichire in provincia! se può rinunciare alla sua carriera per me! se io posso rinunciare a lui per far piacere a zia Concetta! No, Rosa, le assicuro: è pazzesco! è pazzesco!</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Non ha tentato di convincerla?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Diamine, se ho tentato! Sulla necessità che Mario affronti un ambiente più vasto, lei, anzi, è d'accordo!</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Ah! capisco: è perchè non si vogliono sposare.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma no! Anche questo l'ha capito! Pare impossibile, ma l'ha capito! E sa bene che se non oggi domani ci sposeremo. È quella benedetta Parigi che non le va giù!</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>O bella!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non si spiega perchè non si possa tentare a Roma, a Milano....</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Eh! no! Parigi è Parigi!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Come se a Milano Mario non avesse già saggiato il terreno!... Fino dall'anno scorso, appena licenziato dal Conservatorio, c'è stato! Voleva sottoporre il suo lavoro a qualche grande editore! Lo sa il risultato? Tanto, oramai, si può dire: dieci giorni, là, sulle spese, prima di farsi ricevere. E poi, quando bene l'han ricevuto, tutti i <hi rend="italic">ma</hi> e tutti i <hi rend="italic">se</hi>. Che di musicisti ne avevano fin sopra i capelli; che i giovani.... sì, i giovani sarebbe meglio che invecchiassero.... che son tutti fuori di strada; ma che se, però, avesse voluto lasciar la sua roba, in seguito.... ma molto in seguito.... S'immagini Mario, con quel temperamentino che ha!... Ha ripreso il suo pacco e li ha piantati! Ma se ne accorgeranno che cosa hanno perduto!... Camorra, camorra, Rosa! è inutile: per un ingegno italiano non c'è che l'estero!</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Adesso che mi dice così, credo anch'io!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E poi, pensa che noi si vada alla ventura? Eh! no! Eh! no! Abbiamo delle gran protezioni, laggiù! Gente influentissima! Anche giorni fa Mario ha ricevuto una lettera da Claudio Regis, quel banchiere nostro concittadino....</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Dicono che sia pieno di milioni!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E come! son vent'anni che vive a Parigi, ed era molto amico d'un povero fratello di Mario....</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Già. Quello che è morto. Me lo ricordo.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Regis si metterà a nostra completa disposizione....</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Si figuri!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Fino dall'anno scorso, quando è capitato qui per liquidare i suoi beni, sa che cosa ci diceva? "Via! via! Al largo figlioli! Per le grandi idee, mare grande! E giacchè avete la fortuna di amarvi, non sposatevi. Non sciupate la più bella cosa che esista al mondo: l'amore!"</p>
+               <p>Dei formidabili colpi battuti alla porta, e le voci festose che li accompagnano, sorprendono Isa così, mezzo svestita. Sono le voci alternate di Mario e Clementi.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Isa?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Signorina?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Apri!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Spalanchi!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Sbalordisci!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Si prepari a svenire!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Un momento! Sono nuda!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Momento magnifico!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Apri a me solo!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Egoista!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Apra, apra, Rosa.... Ma soltanto a Mario.... Dove è andato a finire il mio vestito?</p>
+               <p>Rosa.</p>
+               <p>Là.... guardi.... sulla sedia!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! eccolo!</p>
+               <p>E cerca in fretta di rivestirsi.</p>
+               <p rend="center smallcaps">Rosa</p>
+               <p>che ha tirato il chiavistello schiudendo appena l'uscio.</p>
+               <p>Passi lei solo, signor Mario....</p>
+               <p rend="end">A Clementi.</p>
+               <p>No.... lei aspetti un momentino, scusi....</p>
+               <p>Mario sguscia dentro. Rosa richiude.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Si può sapere che cosa vuol dire tutto questo chiasso?</p>
+               <p rend="end">E offre la bocca ad un bacio.</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">con comica gravità.</p>
+               <p>No. Baci per ora, ti ringrazio, niente. Devo parlarti.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Signorina, io me ne vado.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Signora Rosa, lei è intelligentissima.</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Ma le pare? Avevo già finito.</p>
+               <p>E lega l'involto delle vesti provate.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">a Rosa.</p>
+               <p>Siamo intese su tutto?</p>
+               <p rend="center smallcaps">Rosa.</p>
+               <p>Non dubiti, signorina. Buona sera.</p>
+               <p rend="end">Esce.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Adesso mi dirai. Che c'è?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Me lo domandi con questa calma? Ma c'è delle cose sbalorditive, inaudite, stupefacenti!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non gridare perchè con la zia, al solito, siamo in pieno temporale!</p>
+               <p>Mario.</p>
+               <p>Bene: io ti porto il sole!</p>
+               <p>Leva di tasca una busta, la depone sul tavolo, vi picchia su col palmo della mano.</p>
+               <p>Te la dò in mille a scoprire che roba è questa!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Denaro?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>No.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>M'hai detto che portavi il sole!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Oh! vile anima pratica!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non urlare!</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">in minore, ma con enfasi.</p>
+               <p>Vile anima pratica! Ma il sole è in un bacio....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Perchè l'hai rifiutato?</p>
+               <p>Mario</p>
+               <p rend="end">continuando.</p>
+               <p>....È in un sogno che si realizza! È in una decisione che si concreta! È in un orizzonte che si schiude al tuo sguardo ansioso!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E lì dentro hai l'orizzonte?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Forse!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Apri che lo veda!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Bisogna meritarselo! Bisogna acuire la mente! Bisogna scoprire!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mettimi sulla strada!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Stammi attenta: "Son carta eppure corrono...."</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! senti: se son carta e corrono, non può essere che denaro!</p>
+               <p>Mario.</p>
+               <p>Non interrompere l'indovinello: "Son carta eppure corrono" – "Fumano e non son turchi" – " Volano e non han l'ali" – Attenta bene: "Son di seconda classe senz'esser funerali...."</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con un grido.</p>
+               <p>Ah! I biglietti ferroviarii!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Che talento!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">festosamente, con ansia.</p>
+               <p>Dio! Mario! Lascia vedere? Per quando?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Domani.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No?!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Data, timbro, ora, tutto!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>È incredibile!</p>
+               <p>Mario.</p>
+               <p>Che cosa t'avevo detto? Quando meno te l'aspetti....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Così presto no.... ti giuro.... non me l'aspettavo....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Io, sì. Lo sentivo. Ero sicuro!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma non sai che devo ancòra preparar tutto?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ti regalo una notte intera: quanto basta per il bagaglio di una principessa!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma la sarta, fino a dopo domani, non può consegnarmi i vestiti.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Le faremo fare delle ore straordinarie! La faremo aiutare da tutte le colleghe della città, come le fate per Cenerentola! Le pagheremo doppio conto.... le fate lavoravano gratis – ma non importa! Non importa! Ho una felicità ricca e scialòna.</p>
+               <p>Un tocco discreto alla porta, e la voce di Clementi.</p>
+               <p>Clementi.</p>
+               <p>Sempre nuda, signorina?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No, Clementi. Scusi. Ora apro.</p>
+               <p>E corre alla porta. Clementi entra.</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>La sorte degli umili comincia: chi oltrepassa la soglia della gioia, dimentica l'infelice che soffre al di là dell'uscio! È fatale! è simbolico.</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">a Isa.</p>
+               <p>Pensa che se non c'era lui!</p>
+               <p>E battendo sulla spalla dell'amico.</p>
+               <p>Va', va'. Clementi! Tu scherzi, ma non credermi di quelli che dimenticano. Io saprò ripagarti!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>È quell'altro che bisognerà ripagare!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Chi?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Il pescecane!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ci siete riusciti?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Incredibile!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Ma trionfale!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>In che modo? Con quali garanzie?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>La mia!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Nooo?!...</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Grazie per il credito!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No, scusi.... Dicevo perchè....</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Non tenti di rimediare: la <hi rend="italic">gaffe</hi> è fatta!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Fino all'altro giorno non aveva risposto picche?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Ma oggi ha risposto danari.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Quell'esoso?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Le proibisco di parlarne male!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Era un mese che vi teneva sulla corda!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Ma oggi è caduto lui! E caduta in grande! Con la morte nel cuore, magari, ma col sorriso del benefattore sulle labbra!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">ancòra incredula.</p>
+               <p>Ne siete proprio sicuri?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>M'ascolti: all'orologio della cattedrale battevano le tre. Io abbandonavo il mio ufficio per correre alla "Filodrammatica" a provare l'<hi rend="italic">Oreste</hi>, per domenica.... Voi non ci sarete, peggio per voi. Quand'ecco, allo svolto del Caffè Centrale, chi mi vedo venire incontro!</p>
+               <p rend="end">Indicando Mario.</p>
+               <p>Pilade! Ma con una faccia, signorina mia, con una faccia sulla quale lessi a prima vista: andiamo a ritentare col commendatore.</p>
+               <p rend="start">"Fratel secondo a me tu sei,<lb/>dunque i tuoi prieghi unisci!"</p>
+               <p>Che avrebbe fatto, lei?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sarei corsa!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Io ho fatto di più. Ho detto: andiamo. O ti snocciola i soldi</p>
+               <p rend="start">"O dell'iniquo sangue<lb/>non serberà dentro sue vene stilla!"</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Benissimo!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Già! Ma se avessi fatto così sarei finito</p>
+               <p rend="start">"....in duro<lb/>carcere orrendo...."</p>
+               <p>Sa: le tragedie son le tragedie, ma noi si voleva il lieto fine.</p>
+               <p>Isa.</p>
+               <p>E come l'avete convinto?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Mario? Vuoi che le rifacciamo la scena? Tu sei il commendatore. Io entro. Sorvoliamo sull'anticamera: un'ora secca! Signorina Isa, stia attenta. E se l'attore la soddisfa, batta pure le mani: non me ne offendo. – Mario, tocca a te. Sono entrato: attacca!</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">rifacendo.</p>
+               <p>Che cosa vogliono, loro, ancòra?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Io, arretrando due passi: – Ancòra? Tu hai detto ancòra?</p>
+               <p rend="end">A Isa.</p>
+               <p>Lei sa che al pescecane, quando era in bolletta davo del tu e che continuo a concedergli questo onore....</p>
+               <p rend="end">Riprendendo.</p>
+               <p>Tu hai detto ancòra? Ma, di grazia, che cosa ci hai dato?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ti prego. Non insistere. Credi che sia piacevole per me, rifiutare? Se tu fossi nei miei panni....</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>No, eh? No! Fino a ieri ti ho pregato. Oggi protesto!...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mascalzone!</p>
+               <p rend="center smallcaps">Clementi</p>
+               <p rend="end">a Isa.</p>
+               <p>Bene! Queste interruzioni spontanee, coloriscono il nostro commento intimo.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Continui! continui!</p>
+               <p>Clementi.</p>
+               <p>Nei tuoi panni, io? Ma se fossi nei tuoi panni, dopo aver soffocato tanti scrupoli, non vorrei soffocare la cosa più alta, più mirabile, più indistruttibile: il genio!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Bravo Clementi!</p>
+               <p rend="center smallcaps">Clementi</p>
+               <p>continuando con crescente fervore.</p>
+               <p>Ti ho mai chiesto un soldo, io? Ho mai accettato nemmeno un bicchier d'acqua da te? Ho avuto o non ho avuto perfino la generosità di fingere di non vederti quando traversavi la piazza con qualche pezzo grosso e ti sarebbe seccato di salutarmi?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Io?</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Va là, va là che conosco le tue debolezze!...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">completando.</p>
+               <p>Impostore!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Commento intimo.</p>
+               <p rend="end">Altro tono, il tono di prima.</p>
+               <p>E se posso parlarti a testa alta, è appunto perchè nella schiera dei tuoi parassiti non mi hai incontrato mai!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Benissimo!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Ma oggi siamo a questa: il mio amico Varandi ha bisogno di un aiuto. Senza questo aiuto il suo avvenire è in pericolo. Ora tu che sai la gioia del guadagno facile, non puoi troncare le possibilità ad un grande artista! Il tuo gesto sarebbe troppo brutale! Hai beneficato per paura, per ambizione, per necessità. Che ti costa aggiungere un beneficio spontaneo, modesto, ignorato da tutti, che un giorno ti darà la soddisfazione di poter dire: "Sapete, quel Varandi, se non c'ero io!..." Che ti costa? Pochi biglietti da mille.... meno di questa mano.... più di questi occhi....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con emozione.</p>
+               <p>Magnifico!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>È stato il colpo di grazia, signorina! Ha riflettuto un momento.... Poi vediamo che si alza, fa due passi verso la cassaforte....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Due passi che pareva mi camminassero sul cuore.</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>E noi, fermi....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Immobili....</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Zitti....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Dio! Che emozione!</p>
+               <p>Clementi.</p>
+               <p>Ma che vittoria! Le sue parole ci hanno sùbito liberato dall'incubo. Parole memorabili. Parole giuste: "Mi sei piaciuto, Clementi! Sei stato brutale, ma tutto d'un pezzo! – A lei, maestro. Nessuna ricevuta.... anche perchè non saprei proprio che farmene.... Quando vorrà.... quando potrà.... Buona fortuna!..."</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>E non mi scappano più!</p>
+               <p>Tende in alto il portafoglio gonfio.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con entusiasmo.</p>
+               <p>Ah! sentite! Quell'uomo.... corro ad abbracciarlo!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p rend="start">...." me solo, me, donzella inerme,<lb/>giova abbracciar!"</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E come! Se lo merita!</p>
+               <p rend="end">Lo abbraccia.</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Adesso vi lascio. Arriverò almeno in tempo a giustificarmi di non essere andato alla prova!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Intesi: alle otto gran banchetto al <hi rend="italic">Gambero</hi>. Offro io!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>Ti vuoi rovinare prima della partenza?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Appuntamento al <hi rend="italic">Gambero</hi> stesso!</p>
+               <p rend="center smallcaps">Clementi.</p>
+               <p>
+                  <hi rend="italic">All right!</hi> Ivi sarò coi miei! – Corro in braccio all'Alfieri!</p>
+               <p>"Deh! pur ch'io giunga in tempo!"</p>
+               <p>Ed esce di corsa. Ma, d'un tratto, Isa sembra aver perduta la sua spensierata gaiezza. Un nuovo pensiero ha attraversato la sua mente. Una dolorosa preoccupazione la fa triste e silenziosa. E Mario che ha accompagnato Clementi sulla porta, ora che risale se ne avvede sùbito.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Isa? Che hai? Non sei contenta?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Tanto, Mario. Immensamente.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non si direbbe.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No, Mario.... pensavo....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Alla sarta?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>....Alla Zia.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ah!...</p>
+               <p rend="end">Un breve silenzio.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Come si fa a dirle....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ma, cara, non è una novità.... Un giorno o l'altro, lo sapeva benissimo, ci si doveva pur arrivare.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Lo so.... lo so.... Ma, prima, non ci si pensa. E adesso è una pena, una gran pena.... Ah! se potessi svegliarmi domani, già lontana! Tu mi capisci, vero? Tu che sei buono e hai sopportato i suoi nervi, i suoi dispetti.... L'hai fatto per me.... Un'altra delle tante cose che hai fatto per me....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non dire! Che m'importava degli altri quando ero sicuro della tua volontà? Mi spiego benissimo questa tua preoccupazione, nel momento decisivo. È una difficoltà dolorosa.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Lo ammetti anche tu!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ma appunto perchè è una difficoltà ed è dolorosa, bisogna affrontarla e vincerla sùbito. Vuoi che le parli io?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mario! Mario! Non osavo di chiedertelo!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Se questo può toglierti di pena, e sopra tutto se può servire ad una riconciliazione, non perdiamo tempo: chiamala!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Discuterai con calma, vero?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non aver paura. Chiamala sùbito.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">schiudendo la porta di sinistra.</p>
+               <p>Zia?</p>
+               <p rend="center smallcaps">La voce di Zia Concetta.</p>
+               <p>Che c'è?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ti prego. Puoi venire, un momento?</p>
+               <p>Breve silenzio. Zia Concetta appare sulla soglia.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Signora Concetta, buona sera....</p>
+               <p rend="end">Concetta tace.</p>
+               <p>Vorrei dirle due parole....</p>
+               <p rend="end">Concetta tace.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Si tratta della nostra partenza, zia....</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">rapido.</p>
+               <p>È decisa per domani.</p>
+               <p rend="center smallcaps">Concetta</p>
+               <p>colpitissima ha un lieve movimento. Ma sùbito ritrova nel suo chiuso rancore la forza dell'impassibilità. E dice:</p>
+               <p>A me lo racconta?</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">un poco imbarazzato.</p>
+               <p>A lei.... perchè si pensava che la cosa potesse anche interessarle....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sii buona, zia.... Non fare così con chi ti vuol bene!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>E chi è che mi vuol bene?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Noi, zia Concetta!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Ah! Lei? E allora le dirò che se mi fosse possibile di maledire, maledirei il momento in cui ho permesso ch'entrasse nella mia casa!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">dolcemente, supplichevole.</p>
+               <p>Zia! Zia!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Zitta!</p>
+               <p rend="end">A Mario, aspramente.</p>
+               <p>Le dirò che se riuscissi ad esprimere in parole tutto l'odio che ho accumulato qui....</p>
+               <p rend="end">E si tocca il cuore.</p>
+               <p>qui dentro, contro di lei, potrebbe avere appena un'idea di questo mio odio!</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">vivamente.</p>
+               <p>Ah! no! Non le permetto!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Ah! questa è bella! Lei non me lo permette? Benissimo! Ma io sì dovrei permettere, vero? Dovrei permettere tutto! Che questa figliola si rovini, che mi abbandoni, che segua come una donna perduta il suo amante! Questo io lo devo permettere? Ma che io la odii, che io la detesti, che io le auguri....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>quasi con un grido, chiudendole la bocca.</p>
+               <p>No, zia! Non voglio!</p>
+               <p rend="center smallcaps">Concetta</p>
+               <p rend="end">con fredda calma.</p>
+               <p>Perchè m'avete chiamato? Che bisogno aveva, lei, di parlarmi? Non era un mese che non ci si rivolgeva più la parola? Continuare a tacere si doveva. Era meglio!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Per lei, sì. Era meglio. Isa non è una donna perduta che segue il suo amante! È una creatura che, libera della sua volontà, s'è donata a me con una gioia così pura e così schietta che non può essere compresa da chi si chiude soltanto nel suo inutile rancore!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Ma non dica! Isa è semplicemente una sventurata che s'è lasciata abbagliare dalle sue illusioni e dalle sue promesse! Ed io non odio Isa. Odio lei che ne è il responsabile!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>E crede che io non la senta questa responsabilità? Essa è l'unica preoccupazione della mia partenza! Ma la mia forza sta appunto nel grave dovere che mi son imposto! Isa parte con me senza esser mia moglie, ma essendo ben più che mia moglie! Solo la vostra piccola anima paurosa può giudicare immorale quello che invece è di una elevatezza di sentire e di intendere la vita semplicemente enorme!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Più enorme di così!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Isa non è legata a me dalla condanna di un <hi rend="italic">sì</hi> catalogato dalla legge comune. È legata da un <hi rend="italic">sì</hi> che nessuno le ha strappato! Da una fede che io saprò ben ripagare! E lei può odiare, può imprecare, può maledire, può augurarmi tutto il male che vuole, che la mia sicurezza non crolla! Bisognerebbe prima che crollasse il mio ingegno! Ma che! Bisognerebbe prima che crollasse la vita!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>E perchè non va lei solo a raccogliere questi tesori che già le pare di avere in tasca? Ecco quello che deve fare un uomo di coscienza! E poi tornare. Ma tornare quando ha, quando ha veramente! E allora sì, allora soltanto offrire!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! no! zia! Lasciami questo orgoglio! La sola prova che io posso dare a Mario sta nel coraggio d'affrontare l'avvenire con lui! E se c'è da penare, penare! E se c'è da lottare, lottare. Ma insieme, e per vincere! Non siamo degli illusi, zia! Non siamo dei ragazzi esaltati! Non posso accettare che Mario ritorni per dirgli sì se vince, o no se perde! Non posso e non voglio! In noi parla una fede immensa, in te un piccolo egoismo che può farmi pietà, ma non mi ferma! No! No! Aria! Luce! Sole! Lasciami andare!</p>
+               <p rend="center smallcaps">Concetta</p>
+               <p rend="end">impassibile.</p>
+               <p>Non te lo posso impedire! Non te l'ho mai impedito!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Nessuno lo potrebbe! Nemmeno mia madre, se tornasse al mondo!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Non nominare tua madre! Essa ti parlerebbe con le mie stesse parole....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non è vero!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>E forse con lo schianto delle sue lagrime!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non è vero! Non è vero!...</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>O farebbe quello che io non posso fare: contro quella porta, si pianterebbe, con le braccia distese, per impedirti di passare!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con uno scoppio di pianto.</p>
+               <p>Ah! mamma! mamma! mamma!</p>
+               <p>E s'abbatte, il capo tra le mani. Un silenzio.</p>
+               <p rend="center smallcaps">Mario</p>
+               <p>con voce cupa e tremante, fissando Concetta che è rimasta immobile.</p>
+               <p>È contenta adesso?... Ha ottenuto quello che voleva? Brava!... Eppure speravo che con questo colloquio molte cose si chiarissero.... si addolcissero.... Mi illudevo persino che lei finisse col convincersi.... Ma non è nostra la colpa. È sua. Si persuada.</p>
+               <p>Movendo versa Isa e sfiorandole con la mano i capelli.</p>
+               <p>Non piangere!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">risollevandosi.</p>
+               <p>Hai ragione.... Ci porterebbe sfortuna.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ti aspetto giù?...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sì.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Vestiti.... vestiti subito.... È meglio far presto. Bada che se tardi, risalgo a prenderti!...</p>
+               <p>Ed esce. Isa s'avvia verso la porta di sinistra. Ma Concetta, con dolce, quasi supplichevole tono di voce, la ferma. Poco a poco la scena s'è venuta oscurando. La chiara sera primaverile entra piena di profumi nella piccola casa.</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Isa?...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ti prego. Basta. Ci siamo detti già tutto!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>No, Isa.... Quello che ho chiuso da tanto tempo dentro di me, non te l'ho detto ancòra.... non te l'ho detto mai.... Ho sempre sperato che tu arrivassi a capirlo....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non era attraverso ai tuoi silenzii, ai tuoi dispetti, al tuo rancore che dovevi parlarmi!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Del rancore con te, io?... Ah! Isa! Tanti anni fa, proprio in una sera di maggio come questa, rientravo qui affranta.... Avevo chiuso gli occhi a tua madre....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con un movimento d'angoscia.</p>
+               <p>Zia!...</p>
+               <p rend="center smallcaps">Concetta</p>
+               <p rend="end">continuando.</p>
+               <p>Avevo raccolto l'ultimo desiderio di una morente disperata.... Disperata di doverti lasciare, piccola creatura, senza nessuno, senza un aiuto. Ed io ho giurato, Isa.... Ho giurato che ti avrei tenuta con me, sempre.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">affranta.</p>
+               <p>Perchè straziarmi?</p>
+               <p rend="center smallcaps">Concetta</p>
+               <p rend="end">con dolorosa semplicità.</p>
+               <p>Per giustificarmi, Isa.... Per giustificarmi verso di te.... Perchè è l'ultima sera.... Perchè domani te ne vai per sempre.... Perchè tu sappia che ho fatto quanto ho potuto, fino in fondo!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No, zia. Non hai bisogno di giustificarti. Hai bisogno di assolvermi. Ma puoi credere che non ricordi? Puoi pensare che non sappia quanto ti devo?</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Niente mi devi. Ma mi togli tutto!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Nulla ti tolgo! Mi sei nel cuore, resterai nel mio cuore sempre!... È un'altra cosa, zia, che tu devi capire: è il mio futuro! E vorrei che tu sentissi proprio quello che sentirebbe una mamma.... Perchè è fatale, è il destino di tutte, è la ragione di vivere, è lo scopo stesso della vita! Non arriva sempre, nella vita, chi ci porta via? Ma niente del nostro passato è distrutto. Niente è cancellato! Tu sei stata la mamma, per me. Eri sola. E a poco a poco ti sei abituata a questa bimbetta che ti trotterellava intorno, che non sapeva staccarsi da te.... E la bimbetta è cresciuta. Ed è cresciuta la sua tenerezza. E più ti capiva, più ti amava.... Ricordi le nostre passeggiate giù, giù, verso i bastioni o lungo il fiume? Mi parlavi tanto di te, della tua giovinezza, che era stata infelice perchè ti avevano sacrificata ad un uomo che non amavi! Ed un giorno quest'uomo era sparito.... così.... senza dir niente.... Ah! se tu sapessi come nella mia mente che si andava formando, questo tuo dramma si ingigantiva! E che spasimo mi dava quella tua solitudine giovine, quella tua sterile vita! Un uomo che non si ama! Ah! zia! M'apparivi una martire!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>E lo fui, Isa! E solo quando sei entrata tu nella mia casa, ho sentito un po' di gioia....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma se tu lo avessi amato quell'uomo, se ti avesse amata, zia, non lo avresti seguito in capo al mondo? Non ti saresti ribellata a chiunque tentasse di vincolare la tua ansia? Non avresti affrontato con lui qualunque difficoltà e qualunque pericolo?... Ah! vedi.... Vedi che non rispondi.... Vedi che cominci a sentire la mia febbre?...</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Isa!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sì, zia.... Perchè è una febbre, sai, non una leggerezza.... Perchè è un dolore, zia, un dolore anche per me staccarmi da queste mura che han visto la mia anima schiudersi.... È la febbre di avere! È la febbre di vincere! Di vedere Mario conquistare il gran posto che merita.... E avverrà.... avverrà.... lo so.... lo sento.... non sarà lungo il sacrificio della lontananza.... ritorneremo insieme.... ci ritroveremo ancòra unite!</p>
+               <p rend="center smallcaps">Concetta</p>
+               <p rend="end">sconsolatamente.</p>
+               <p>Oh! io!...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>ripetendo con un sorriso commosso il tono di sconforto di zia Concetta.</p>
+               <p>Come "oh! Io?..." Che significa questa esclamazione sconsolata mentre ti confido tutte le mie speranze?... Ma credi che non abbia pensato a te?... Che non mi sia preoccupata di te? Ascolta.... ascolta.... sii buona.... siedi qui.... così.... così....</p>
+               <p>La fa sedere e si rannicchia a terra, infantilmente.</p>
+               <p>Tanto ho pensato, sai? tanto! non te n'ho mai parlato perchè – eh! sfido! – mi gelavi.... eri cattiva.... non meritavi le mie tenerezze.... Sì, capisco, soffrivi.... ma soffrivi perchè non sapevi quello che stavo preparandoti, e non te lo dicevo perchè mi toglievi il coraggio di dirtelo, perchè trattavi male Mario, e perchè in fondo – confessalo – non avevi fiducia in lui! Hai torto, zia! Hai torto! Tutti hanno fiducia in lui. Perfino Rinaldi.... sicuro: il commendatore.... e sai bene che non è uomo che si lasci facilmente prendere.... Vuoi sapere? È lui che gli ha dato i denari.... E li riprenderà. Li restituiremo.... quando ne avremo tanti.... sì, zia. Avremo tutto. Vedrai! E ti convincerai, allora, perchè Isa è partita, e se aveva ragione di partire!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Isa! Isa! Non fantasticare! La vita è dura.... la vita è difficile....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma no, cara. Ti sembra,... perchè vivi qui.... perchè qui tutto è piccolo, tutto misero, perchè qui le audacie atterriscono.... ma non è fantasia: è certezza! Te ne convincerai. Lo vedrai coi tuoi occhi.... Ah! sì! e presto! Appena sarà possibile! E verrai! Perchè ti voglio, ti voglio con me!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Isa!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Si! si! con me!</p>
+               <p rend="end">Con gioiosa commozione.</p>
+               <p>E una bella mattina mi sveglierà il gran telegramma! Zia Concetta che arriva! Zia Concetta a Parigi! E correremo alla stazione, ti soffocherò di baci, e capirai allora che metteva conto di soffrire un poco come noi questa sera soffriamo, e di lasciare questa casa per un'altra, dove finalmente si respira la vita!</p>
+               <p rend="center smallcaps">Concetta.</p>
+               <p>Come sei sicura! Come sei sicura!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No. Una cosa mi manca per essere certa.... per ritornare serena. E sento che ora non me la puoi negar più.</p>
+               <p rend="end">Con grande tenerezza.</p>
+               <p>Lascia che ti domandi perdono.... sono ancòra la tua piccola orfana.... benedicimi....benedicimi.... come farebbe la mamma!...</p>
+               <p>Concetta con uno scoppio di pianto si piega tutta su Isa che, serrandola fra le sue braccia con commozione dice:</p>
+               <p>No, no.... no.... non così.... non così.... Ti voglio tanto bene.</p>
+               <p>La porta lentamente si schiude. Entra Mario. Vede le due donne abbracciate. S'arresta. Ma Isa si risolleva e indicando con breve gesto zia Concetta, dice con dolce fermezza.</p>
+               <p>Mario.... questa sera non esco.</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">a voce bassa.</p>
+               <p>Capisco.</p>
+               <p rend="center smallcaps">Concetta</p>
+               <p rend="end">movendo un passo verso Mario.</p>
+               <p>Lei, piuttosto.... se crede.... rimanga con noi.... Rimanga.</p>
+               <p>Mario porta alle labbra la mano che Concetta gli tende, con grande commozione. Concetta reprime un singulto.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">cingendola colle sue braccia</p>
+               <p>No, cara.... non piangere....</p>
+               <p rend="center">TELA</p>
+            </div>
+            <div type="div2">
+               <head>Atto secondo</head>
+               <p>Il gabinetto direttoriale di Lenard.</p>
+               <p>Molto lusso ma raffinata sobrietà. Due porte laterali. Quella di sinistra dà nell'anticamera.</p>
+               <p>Un'ampia finestra. È mattina.</p>
+               <p>Lenard, sulla cinquantina, tipo caratteristico di scettico, ma autoritario e dominatore, siede presso l'ampia scrivania e sfoglia e scorre rapidamente un fascio di giornali. Un vecchio usciere schiude la porta di sinistra.</p>
+               <p rend="center smallcaps">L'Usciere.</p>
+               <p>La signora Gyp, il signor Dorival, il signor Dubois.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Fate entrare.</p>
+               <p>Entrano Dorival, d'età indefinibile, stanco e fatale. Dubois festoso e sorridente. La Gyp elegantissima e stilizzata.</p>
+               <p rend="center smallcaps">Dorival.</p>
+               <p>Buon giorno, Lenard!</p>
+               <p rend="center smallcaps">Dubois.</p>
+               <p>Lenard, buon giorno!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Mio illustre maestro! Caro poeta!</p>
+               <p rend="center smallcaps">La Gyp.</p>
+               <p>Non salutatemi. Sono triste!</p>
+               <p>E si abbandona a sedere, lontana, assente.</p>
+               <p>Dubois.</p>
+               <p>Caro Lenard, io scoppio di felicità! Mai prova generale ha, come quella di iersera, glorificato un genio!</p>
+               <p>Dorival.</p>
+               <p rend="end">fatale.</p>
+               <p>Il mio!</p>
+               <p>Dubois.</p>
+               <p>Stavo per dirlo!</p>
+               <p>Dorival.</p>
+               <p>Non era necessario. </p>
+               <p>Dubois.</p>
+               <p>Infatti: la critica stamane afferma che la vostra musica ha dato luci anche là dove il mio poema sarebbe apparso impenetrabile! M'inchino!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">a Dorival.</p>
+               <p>Siete soddisfatto della critica?</p>
+               <p>Dorival.</p>
+               <p>Io? Non la leggo.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>L'ha letta per voi la vostra protagonista. </p>
+               <p>Dorival.</p>
+               <p>Ah! Le avete parlato?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>È uscita or ora di qui, furibonda!</p>
+               <p>Dubois.</p>
+               <p>Che pretendeva?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Degli inni, evidentemente. Eppure voi sapete che ho fatto tutto il possibile perchè questo avvenisse.</p>
+               <p>Dorival.</p>
+               <p>Lo so. Voi non siete soltanto un grande direttore di teatro e un grande editore, mio grande Lenard! Sapete anche far emergere tutti quei valori che concorrono alla celebrazione di un avvenimento. E la mia <hi rend="italic">Princesse Badoure</hi> vi deve molto. Finalmente dimostriamo che coi nostri capolavori smantelleremo la invadente e rugiadosa musica italiana!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Speriamolo, mio illustre amico! Ma fino a che la musica italiana, detestata dalla critica e adorata dal pubblico, mi dà formidabili incassi, tutto il mio fervore nazionalista si spezza contro il mio interesse, che è internazionale!</p>
+               <p>Dorival.</p>
+               <p rend="end">vivamente.</p>
+               <p>L'interesse è una cosa secondaria per un artista! Bisogna aver la forza di sostenere senza transigere!</p>
+               <p>Dubois.</p>
+               <p>O di transigere per sostenere.</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">approvando.</p>
+               <p>Ecco. E per cominciare, se non foste venuti vi avrei mandato a chiamare. Vi dissi che Margueritte Barré è uscita di qui furibonda. Queste nostre prime donne, quanto più invecchiano tanto più pretendono. E la Barré, come anni, non potrebbe pretender di più!...</p>
+               <p>Dorival.</p>
+               <p>È insopportabile!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Lo so. Ma ha un seguito. E voi lo sapete. Se le manca talvolta la critica, è perchè la suscettibile Diva in qualche occasione l'ha vituperata. Ora io, per calmare le sue ire, ho promesso che avrei sùbito rimediato. Non le basta.</p>
+               <p>Dubois.</p>
+               <p>E che vuole ancòra?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Minaccia di abbandonare il teatro.</p>
+               <p>Dorival.</p>
+               <p>Ah! Impossibile! E le mie repliche? </p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non lo farà, o mio grande e disinteressato maestro! Non lo farà! Non abbiate paura. Novantenne la sentiremo ancòra tubare <hi rend="italic">Mi chiamano Mimì!</hi> Le nostre illustri, pur di non staccarsi dal pubblico, si farebbero portar sulla scena imbalsamate. Ma sarà opportuno che vi rechiate da lei stamane stessa, per fingere ed esagerare un doveroso atto di solidarietà.</p>
+               <p rend="center smallcaps">L'Usciere</p>
+               <p rend="end">entrando.</p>
+               <p>Il banchiere Claudio Régis!</p>
+               <p>Lenard.</p>
+               <p>Abbia la cortesia di attendere. Pochi minuti.</p>
+               <p rend="center smallcaps">L'Usciere.</p>
+               <p>Non è solo.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Tanto meglio, così non si annoierà!</p>
+               <p>Dorival.</p>
+               <p>Dobbiamo andar sùbito?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Preferirei.</p>
+               <p>Dorival.</p>
+               <p>A più tardi, caro Lenard.... Ah!... scusate....</p>
+               <p>E traendolo in disparte, a bassa voce.</p>
+               <p>Il <hi rend="italic">Gaulois</hi> ha un periodo che non mi piace.... È una insopportabile stonatura nel coro generale delle lodi....</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">sorridendo.</p>
+               <p>Voi non leggete la critica....</p>
+               <p>Dorival.</p>
+               <p>sorridendo a sua volta.</p>
+               <p>Già.... ma non vorrei....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Che gli altri la leggessero!... Ho capito. Provvederemo.</p>
+               <p>Accompagna alla porta Dorival e Dubois che escono, e risale quindi verso la Gyp che è rimasta completamente estranea al dialogo.</p>
+               <p>Mia piccola e silenziosa Gyp!</p>
+               <p rend="center smallcaps">La Gyp.</p>
+               <p>Vi detesto!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No! Voi no!</p>
+               <p rend="center smallcaps">La Gyp.</p>
+               <p>La mia danza, iersera, meritava un'esaltazione!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Già: quella della vostra nudità che era perfetta!</p>
+               <p rend="center smallcaps">La Gyp.</p>
+               <p>Quella della mia arte, che fu irraggiungibile!</p>
+               <p>Lenard.</p>
+               <p>Nessuno vi ha lesinata la lode!</p>
+               <p rend="center smallcaps">La Gyp.</p>
+               <p>Ma nessuno mi ha capito! Eppure iersera io fui l'anima invisibile che resse il poema, che l'ha accostato alla verità! La mia nudità sulla scena era puramente spirituale! Esponeva l'avvenire e il passato; ciò che nasce da noi, ciò che è morto in noi; tutti i destini e tutti i misteri che soltanto gli astri sanno intendere!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>E se vi intendono gli astri, perchè seccate me, misero mortale?</p>
+               <p rend="center smallcaps">La Gyp.</p>
+               <p>Non una parola m'è venuta da voi! Questa che mi viene è di scherno! È triste! Ecco quello che volevo dirvi. Non altro!</p>
+               <p rend="end">E stancamente si alza.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ah! il giorno in cui potrò ritirarmi in Turenna, a tu per tu con gli alberi!... Gli alberi! Ecco delle brave persone che non danzano, non cantano, non scrivono, non hanno bisogno di nessuno e danno tanta gioia!</p>
+               <p rend="center smallcaps">La Gyp.</p>
+               <p>Noi camminiamo sempre gravati dal peso dell'anima nostra che è incontentabile! In cospetto degli alberi, laggiù in Turenna, forse rimpiangerete la vostra piccola Gyp!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">tendendole la mano.</p>
+               <p>Là!... Venite a pranzo con me questa sera? Mi direte molte altre cose profonde.</p>
+               <p rend="center smallcaps">La Gyp</p>
+               <p rend="end">languida.</p>
+               <p>E dolcissime!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ecco: le preferisco!</p>
+               <p>Schiude la porta. La Gyp esce. All'usciere che si presenta, dice:</p>
+               <p>Il signor Régis!</p>
+               <p>Risale verso la scrivania. Entrano Claudio Régis e la sua amica Florise. Claudio è sulla quarantina, signorile, decorativo. Florise, bellissima, elegantissima: la vera espressione del pariginismo femminile.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Noi vi rubiamo del tempo prezioso, Lenard!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Avanti, avanti l'alta finanza!... Ah!... Non mi ero accorto che l'alta finanza precedeva la trionfante primavera.</p>
+               <p>Si inchina a baciare la mano a Florise.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Sono molto in collera con voi! Da due mesi vi aspettiamo inutilmente, preziosissimo uomo!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Avete ragione. Ma ho attraversato un periodo terribile di lavoro!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Dobbiamo perdonarvi per i risultati. Iersera ci avete offerto un indimenticabile spettacolo di mondanità e di bellezza! Tutta Parigi ne parla....</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E si acclama al capolavoro!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non credeteci. Checchè ne dica il suo trionfante autore, <hi rend="italic">La Princesse Badoure</hi> arriverà stancamente alla fine della stagione e poi non se ne parlerà più!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Davvero?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>In confidenza, sì. Musica decorativa, caro amico! Colore e un discreto virtuosismo. Emozione, assente. E non c'è che l'emozione, in musica, che arrivi, che rimanga. Ve lo garantisce uno scettico.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Allora siamo capitati male.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Perchè? Siete legato a questo lavoro da interessi speciali?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>O smemoratissimo amico! Ma dunque la vostra Florise alla quale avete fatto tante grandi promesse non vi ricorda niente, proprio niente, deplorando il vostro silenzio di due mesi?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Diamine! È vero! E sapete quando me ne son ricordato? Iersera.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Per dimenticarvene stamane!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Se sapeste in che bolgia vivo! La vostra piccola amica iersera era con voi! Devo farvi i miei complimenti: non l'avrei riconosciuta. Quando mi avete raccomandato quei due ragazzi, appunto due mesi fa, lei era una piccola cosa sperduta, quasi insignificante.... Mi sono rimasti impressi i suoi occhi.... Quelli sì. Due occhi attoniti, larghi come la meraviglia! Ho riconosciuto quegli occhi, iersera. Tutto il resto era trasformato. E certamente questa evoluzione si deve a voi, impareggiabile maestra!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Maestra fortunata.... perchè la piccina impara, sente, assorbe.... Questo ambiente la esalta....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>E naturalmeate desidera.... Ditemi.... desidera?...</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Desidera quello che desideriamo noi, caro Lenard, e che ci ha spinti qui stamane: sapere cioè se avete avuto la possibilità di dare uno sguardo al lavoro che il mio protetto fino da allora vi ha portato per il vostro prezioso giudizio.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Vi siete dunque assunta tutti e due una missione: voi di protettore, lei di riformatrice d'usi e costumi! Ah! Straordinarii! Non vi avevo mai considerato sotto questo aspetto!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Vi confesso che nemmeno io avevo mai pensato che nella vita si potesse fare del bene. Anzi l'avevo sempre evitato per paura.... della gratitudine! Ma ho per quel ragazzo veramente dell'affetto! Mi sono sempre interessato a lui anche da lontano. Più tardi ho insistito io stesso perchè venisse qui. Ecco la ragione per la quale mi sono rivolto alla vostra potente amicizia.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>È pericoloso, sapete, proteggere dei giovani musicisti! Vengono dai Conservatorii con la patente di genii, e naturalmente compongono sùbito un'opera. Niente di male, dato che il mondo è pieno di musica inutile, ma ve la fanno sentire, appena possono, soltanto per avere – dicono – il vostro giudizio. Dio vi salvi, se questo giudizio non è favorevole! Vi siete procurato un piccolo nemico che si atteggia a vostra vittima. E poichè è seccante seminare tante vittime nella propria coscienza, io, sistematicamente, mi rifiuto di ascoltarli.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Non vorrete fare un'eccezione per me?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Per voi?.... No.</p>
+               <p rend="center smallcaps">Florise</p>
+               <p rend="end">con grazia insinuante.</p>
+               <p>E per me? Per la protettrice della piccola italianina dagli occhi larghi come la meraviglia?</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p>fissandola, con enigmatico sorriso.</p>
+               <p>Forse! Mi invito a pranzo per una di queste sere, e ne riparleremo.</p>
+               <p rend="center smallcaps">Florise</p>
+               <p rend="end">con vivace protesta.</p>
+               <p>Ah! no, amico! non ci casco più! Sono due mesi che vi aspetto a pranzo "una di queste sere"! Stavolta la cosa deve essere risolta "una di queste mattine", anzi stamattina stessa!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">sorridendo.</p>
+               <p>Li avete in tasca?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Quasi. Li abbiamo depositati in anticamera.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Caro Claudio, la vostra amica Florise è portentosa!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E indiscreta, no?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No. Diciamo la verità, no! Essa ha pensato che per farmi trangugiare la pillola del musicista occorreva dorarla con la grazia della sua compagna, e me li ha portati tutti e due!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Sì capisco!... Ma voi digerirete la pillola perchè quei due occhi larghi non abbiano a velarsi di lagrime!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">allargando le braccia.</p>
+               <p>Farò del mio meglio!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Cosi, mi piacete!</p>
+               <p rend="end">Ed esce rapida da sinistra.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Vi ha preso nella rete, povero Lenard! E magari in una perfida mattinata!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Le mie mattinate sono tutte perfide. Ma in mezzo a questo enorme bluff di incontentabili genii, un po' di semplicità giovine mi ritempra!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Siete molto gentile! Ora sapete quanto mi sta a cuore la cosa.</p>
+               <p rend="center smallcaps">Florise</p>
+               <p>aprendo la porta e facendo passare Isa e Mario.</p>
+               <p>Lenard! Eccoli!... Ve li abbandono!...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">a Florise, a bassa voce.</p>
+               <p>Te ne vai?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Non c'è più bisogno di me.... per ora.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>A presto, Lenard.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Vi aspettiamo.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ho promesso.</p>
+               <p>Bacia la mano a Florise. Claudio e Florise escono.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Signor Lenard, noi....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Accomodatevi, prego!</p>
+               <p rend="end">A Isa.</p>
+               <p>Ricordavo adesso con Florise la prima nostra conoscenza. Eravate ancòra una piccola provincialina sperduta. Posso dirvelo perchè siete un'altra: una pariginetta che si sta formando. E tutto questo misto di passato che si trasforma in un futuro, vi dà uno <hi rend="italic">charme</hi> veramente particolare.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">sorridendo.</p>
+               <p>Non ne ho colpa!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Il vostro merito sta appunto nel non averne colpa.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Oh! non l'ho detto per crearmi un merito!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non importa. Ve lo decreto io. Se ne aveste colpa vorrebbe dire che cercate di essere quella che invece andate naturalmente diventando....</p>
+               <p rend="end">A Mario.</p>
+               <p>Quanto a voi, caro maestro, ho potuto appena vedere qua e là la vostra.... come si intitola?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p rend="italic">L'Isola del sogno.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ecco.... precisamente: la vostra <hi rend="italic">Isola del sogno.</hi>
+               </p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Se sapeste con quanta ansia....</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">sùbito.</p>
+               <p>Me l'immagino.... me l'immagino. Ma da una prima occhiata sommaria....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con trepidazione.</p>
+               <p>Che ve ne pare?...</p>
+               <p rend="end">Breve silenzio.</p>
+               <p>Lenard</p>
+               <p>fissando Isa.</p>
+               <p>C'è del buono.... c'è del buono.... </p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ah! se sapeste con quanto fervore ho lavorato!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E quanta speranza abbiamo fondato su questo lavoro! Per noi è tutto, signor Lenard. È tutto!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">a Mario.</p>
+               <p>Voi conoscete Renaud? Il nostro <hi rend="italic">regisseur?</hi>
+               </p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non ho questo onore, signor Lenard.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>È lui.... che...?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No. Sono io. Ma devo aver affidato a lui il manoscritto.... mi pare.... Non ne sono ben certo.... ma possiamo occuparcene sùbito.</p>
+               <p>Mario</p>
+               <p>alzandosi.</p>
+               <p>Se credete....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No. Restate, restate. Aspettatemi qui. Vado io.</p>
+               <p>Ed esce rapido da destra. Isa e Mario nell'improvvisa e inattesa solitudine si ritrovano sùbito, quasi con gioia infantile. La febbre della loro illusione galoppa.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mario!... Mario!... Senti: io sudo freddo!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ah! se ci vedessero qui quelli che dubitavano!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E che non volevano lasciarci partire!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Che cosa t'ho detto stamattina spalancando la finestra al sole?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Che cosa t'ho detto iersera quando ho scoperto un ragno sul tuo guanciale?</p>
+               <p>Mario.</p>
+               <p>Sole e ragno, fortuna!</p>
+               <p>Isa.</p>
+               <p>Ragno di sera, ricchezza!</p>
+               <p>Mario.</p>
+               <p>E un tuo bacio, l'amore!</p>
+               <p>Isa.</p>
+               <p>Sì! voglio! Così, sulla fronte!</p>
+               <p rend="end">Lo bacia.</p>
+               <p>E qui, nel sacrario! </p>
+               <p>Mario.</p>
+               <p>Nel tempio!</p>
+               <p>Isa.</p>
+               <p>Nel Panthéon!</p>
+               <p>Mario.</p>
+               <p>Con Parigi che ci spia dalla finestra!</p>
+               <p>Isa.</p>
+               <p>E col cuore che salta in gola!...</p>
+               <p rend="end">Sussultando.</p>
+               <p>Zitto!</p>
+               <p>Mario.</p>
+               <p>allarmato.</p>
+               <p>Che c'è?</p>
+               <p>Isa.</p>
+               <p>dopo aver teso l'orecchio, rassicurata.</p>
+               <p>No.... m'era sembrato....</p>
+               <p>Mario.</p>
+               <p>È il rumore che vien dalla strada....</p>
+               <p rend="end">Con comica enfasi.</p>
+               <p>La grande marèa che sale e travolge....</p>
+               <p>Isa.</p>
+               <p>Che arriva.... che arriva....</p>
+               <p>Mario.</p>
+               <p>E trascina anche noi....</p>
+               <p>Isa.</p>
+               <p>Nella vita più grande!</p>
+               <p>Mario.</p>
+               <p>Dove avremo tutto!</p>
+               <p>Isa.</p>
+               <p>Tutto quello che si invidiava agli altri....</p>
+               <p>Mario.</p>
+               <p>Ma che nessuno ci porterà via più!</p>
+               <p>Isa.</p>
+               <p>ricomponendosi perchè ha sentito rumore.</p>
+               <p>Taci!</p>
+               <p>Mario.</p>
+               <p>Ancòra?</p>
+               <p>Isa.</p>
+               <p>Sì.... questa volta non sbaglio....</p>
+               <p>Infatti la porta di sinistra si schiude lentamente ed entra Mauperin. È questi un ometto maturo, tutto tinto e ritinto, ma elegante d'un'eleganza tipica, un poco miope e furbesco.</p>
+               <p rend="center smallcaps">Mauperin</p>
+               <p>avanzando, ma senza distinguer bene, come chi viene dalla luce.</p>
+               <p>Sono io, vecchio Lenard....</p>
+               <p>Mario.</p>
+               <p>No, signor Mauperin.... Il signor Lenard non c'è.... ma tornerà sùbito.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>To' to'! Venendo dal sole non ci si vede affatto.... Il maestro Varandi, se non erro.</p>
+               <p>Mario.</p>
+               <p>Precisamente, signor Mauperin. Ci siamo conosciuti in casa Regis.... o Régis come voi lo chiamate.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Già già.... bene bene bene.... E la signora....</p>
+               <p>Mario.</p>
+               <p>Isa.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Ah! L'italianina.... già già.... È di buon augurio trovarvi qui. Siamo dunque sulla via d'una conclusione?</p>
+               <p>Isa.</p>
+               <p>Lo speriamo!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Pare che il signor Lenard voglia interessarsi al mio lavoro.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Ah! In buone mani! Bene bene bene.... Una potenza, quel vecchio Lenard!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">entrando da destra.</p>
+               <p>Oh! Mauperin!</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Stavo esaltando la vostra potenza....</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">a Mario.</p>
+               <p>Volete salire dal signor Renaud? La vostra musica è là. S'è trovata. Potete intanto parlare con lui, esporgli le vostre idee....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Sì, signor Lenard.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p rend="end">a Isa.</p>
+               <p>Se volete seguirlo....</p>
+               <p>Isa.</p>
+               <p>Grazie.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Un usciere vi accompagnerà. È già avvertito. Poi vi farò chiamare.</p>
+               <p>Schiude la porta di destra. Mario ed Isa escono. Lenard dopo aver seguita con lo sguardo l'uscita di Isa, mormora quasi fra sé.</p>
+               <p>Deliziosa!</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Be'.... a parte la musica di iersera.... che piombo, e che successo.... bene bene.... Che cosa mi raccontate di nuovo, vecchio Lenard?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Tutto di vecchio, vecchissimo Mauperin. Trovo piuttosto idiota la vostra ultima canzonetta: questo sì. La <hi rend="italic">Mattinata a Posillipo</hi> mi piaceva di più. Come avete intitolata questa?</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p rend="italic">Serenata a Posillipo.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Allora farò uno sforzo di fantasia e vi darò un titolo per la terza.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Fuori il titolo.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>
+                  <hi rend="italic">Mezzogiorno a Posillipo</hi> così la giornata è completa.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Perchè no? Volete che facciamo l'affare?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Facciamolo pure.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Ventimila franchi, e fra una settimana Montmartre s'arricchirà d'un nuovo capolavoro.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Troppo.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Troppo una settimana?</p>
+               <p>Lenard.</p>
+               <p>No. Troppo ventimila franchi. Per quindici ci sto.</p>
+               <p>Mauperin.</p>
+               <p>Proprietà per tutti i paesi?</p>
+               <p>Lenard.</p>
+               <p>Si capisce. Compreso Posillipo.</p>
+               <p>Mauperin.</p>
+               <p>Bene bene. Se è per farvi piacere accetto.</p>
+               <p>Lenard.</p>
+               <p>Mi avete preso in un buon momento. Ho lasciato adesso un musicista puro, e per reazione mi attacco a un volgare affarista. Ma saper cogliere il buon momento è una delle vostre furberie.</p>
+               <p>Mauperin.</p>
+               <p>Già già!... Senonchè, il musicista puro – se è quello al quale alludo io – vi sta offrendo un altro affare che vi interessa di più. Certo è che vi renderà meno.</p>
+               <p>Lenard.</p>
+               <p>Non vi capisco.</p>
+               <p>Mauperin.</p>
+               <p rend="end">sottolineando.</p>
+               <p>L'italianina vi piace.</p>
+               <p>Lenard.</p>
+               <p>Chi? Ah! sì. Molto.</p>
+               <p>Mauperin.</p>
+               <p>Per capirlo m'è bastato il vostro sguardo quando essa è uscita. Uno sguardo, diremo così, clinico: vostra specialità.</p>
+               <p>Lenard.</p>
+               <p>E poi dicono che siete miope!...</p>
+               <p>Mauperin.</p>
+               <p>E.... a che punto siamo?</p>
+               <p>Lenard.</p>
+               <p>Al punto di partenza.</p>
+               <p>Mauperin.</p>
+               <p>Bene bene.... quello d'arrivo non vi riuscirà difficile.</p>
+               <p>Lenard.</p>
+               <p>Perchè?</p>
+               <p>Mauperin.</p>
+               <p>Perchè siete sempre fortunato: l'italianina ha attaccato l'italianino, musicista puro che vuol fare carriera e depone nelle vostre mani il proprio destino. Voi prendete con una mano il suo destino, con l'altra la sua donnetta....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No.... stavolta siete veramente miope, caro Mauperin. Ma l'avventura come voi la vedete, avrebbe un sapore così comune e banale che un uomo come me non ne sarebbe nè tentato nè lusingato!</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Mi avete dato troppe prove del contrario.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Appunto per questo! Alla mia età, vecchio mio, bisogna orientarsi piuttosto verso la soluzione di un problema che verso il desiderio d'un possesso! La mia professione, il mondo nel quale – come dite voi – sono potente, mi ha portato a fiumane le donne! Non c'era da chiedere: c'era da scegliere. Oggi è, invece, il mistero d'uno smarrimento che mi tenta. L'inizio d'una perdizione....</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Bene bene bene.... Ma non vi capisco più.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Pensate: la piccola Isa io l'ho vista nascere. Nascere alla vita, intendiamoci. A questa vita. Florise me l'ha fatta conoscere.... come potrei dire?... allo stato primitivo: semplice, spaurita, innamorata. Attaccata al suo giovine amico col fervore che hanno soltanto queste creature ignare. Poi, d'improvviso, mi è apparsa sotto una luce nuova. Ho creduto di vedere in lei una sensibilità diversa, che è molto lontana, si capisce, dalla corruzione, ma che forse ne racchiude una nostalgia inconsapevole.</p>
+               <p rend="center smallcaps">Mauperin.</p>
+               <p>Ebbene?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ebbene, io sarei tentato di portare questa nostalgia ad una febbre, ad una necessità. Ma bisogna prima conoscere fino a che punto arrivi la sua ansia di vivere! vedere, anche, se mi sono ingannato. È un gioco, insomma: servirà a distrarmi!... Se mi sono ingannato abbandono la piccina alla sua sorte, che vicino ad un povero ragazzo spostato ed illuso sarà una sorte miserevole....</p>
+               <p>Mauperin.</p>
+               <p>E se è vero? </p>
+               <p>Lenard.</p>
+               <p>Ah! se è vero, caro Mauperin, le renderò il cammino più facile che mi sarà possibile!</p>
+               <p>Mauperin.</p>
+               <p>Lo seminerete di rose?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No. Ma di tutte le realtà che la sua immaginazione basa su un futuro che quasi certamente le verrà a mancare.</p>
+               <p>Mauperin.</p>
+               <p>Diventerete insomma la guida della sua corruzione!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Mi interessa, perchè non l'ho mai provato.</p>
+               <p>Mauperin.</p>
+               <p>Esagerate in modestia!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No. Non l'ho mai provato, perchè abbiamo sempre avute delle donne più corrotte di noi!</p>
+               <p rend="end">Entra da destra Renaud.</p>
+               <p>E dunque?</p>
+               <p rend="center smallcaps">Renaud.</p>
+               <p>Ho ascoltato qua e là.... musica non fatta male, ma mediocre....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Quello che mi aspettavo.</p>
+               <p rend="center smallcaps">Renaud.</p>
+               <p>Oh! illustre Mauperin!</p>
+               <p>Mauperin.</p>
+               <p>Mio celebre Renaud!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p>che è rimasto assorto in una sua indecisione.</p>
+               <p>Spesa?</p>
+               <p rend="center smallcaps">Renaud.</p>
+               <p>Relativa.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Risultato?</p>
+               <p rend="center smallcaps">Renaud.</p>
+               <p>Negativo, ma non credo catastrofico.</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">deciso.</p>
+               <p>Allora sarà bene che vi mettiate d'accordo con lui. Trattenetelo. E mandatemi giù la piccina.</p>
+               <p rend="end">Renaud esce.</p>
+               <p>Mauperin.</p>
+               <p>Mecenate impallidisce al vostro confronto!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">con una manata sulle spalle.</p>
+               <p>Buffone!</p>
+               <p>Mauperin.</p>
+               <p>Giacchè siete in vena di larghezze, perchè non mi prendereste anche la danza Andalusa?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ah! no, caro! quella ve la regalo!</p>
+               <p>Mauperin.</p>
+               <p>Bene bene bene. Mi farò arrivare anch'io dalla provincia una piccola donnina da corrompere, ora che conosco il vostro nuovo credo morale!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Mauperin, non scherziamo: quello che vi ho detto è detto ad un vecchio amico.</p>
+               <p>Mauperin.</p>
+               <p>Mi stupisce che ne possiate dubitare.</p>
+               <p>Isa entra da destra. Ma s'arresta titubante.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Venite, venite.</p>
+               <p>Mauperin.</p>
+               <p rend="end">ad Isa.</p>
+               <p>Sono felice di accomiatarmi da voi dopo aver appreso delle buone notizie che vi riguardano.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sì?!</p>
+               <p rend="end">E guarda Lenard.</p>
+               <p>Mauperin.</p>
+               <p rend="end">baciando la mano ad Isa.</p>
+               <p>Bene.... bene.... e bene....</p>
+               <p rend="end">Ed esce da sinistra.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Dobbiamo dunque occuparci un po' seriamente di questo ragazzo?</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>con gioiosa ansia, con commozione viva che quasi le fa mancare le parole.</p>
+               <p>Signor Lenard.... scusate.... ma è tale la mia agitazione.... è come se, d'improvviso.... Ah! scusatemi.... sono sciocca ad accogliere con tanta paurosa trepidazione le vostre parole....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Paurosa, perchè?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Perchè vorrei essere già sicura.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Come vedete, sto occupandomene. Ho lasciato adesso un volgare affarista, e per reazione m'attacco ad un musicista puro.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Allora benedico la visita del signor Mauperin!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Avete dunque capito che il volgare affarista era lui....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">per riprendersi.</p>
+               <p>Ho fatto male a capirlo?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Siete squisita!... No, non avete fatto male; il volgare affarista è proprio lui.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>M'ha detto però Mario che le sue canzoni hanno un certo valore.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Oh! Commerciale, moltissimo.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>È questo l'importante, no?...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Già. Ma pensate se è giusto che quella vecchia <hi rend="italic">gru</hi> che non sa di musica, e s'è specializzato nelle canzonette napoletane conoscendo Napoli come io conosco il Polo, guadagni qualcosa come duecentomila franchi all'anno!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Duecentomila franchi?!...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Vedete?... Ne siete sbalordita! Ora pensate: se il vostro Mario....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Dio, signor Lenard! Credo che impazzirei!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No. Dopo qualche anno trovereste che è poco.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mi credete cosi avida?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Amica mia: oggi la cifra vi sembra enorme perchè non la possedete. Ma possedendola vi verrebbe a creare infinite altre necessità alle quali non sapreste rinunciare.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Oh! saprei ben limitarle!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>A Parigi? No. Ma considerate quale enorme spostamento di vita e di consuetudini avete già in pochi mesi subite. La sorte ha voluto portarvi d'un tratto nella casa d'un ricco e d'una donnina elegante.... Ditemi la verità, confessatevi a me: quante volte non avete già pensato: "quando mai anch'io arriverò ad essere come lei?..."</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Volete davvero che vi confessi una cosa?...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Siamo qui per farci delle confessioni.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No.... forse mi trovereste puerile!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma è appunto la fantasia puerile che sogna l'irrealizzabile! E ciò che m'interessa in voi è la semplice infantilità del vostro sogno.</p>
+               <p>Isa</p>
+               <p>con improvviso turbamento.</p>
+               <p>Lo credete irrealizzabile?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Io?... Tutt'altro !... Che cosa mi stavate confessando?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Dianzi m'avete parlato di Florise.... </p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Dicevo Florise perchè le siete vicina. Ma potevo dire tutta l'inesauribile eleganza femminile che avete visto turbinare, per esempio, iersera, davanti ai vostri occhi.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sapete.... qualche volta io rimango sola in casa.... Florise ha molte ore del suo pomeriggio occupate, fuori.... E allora, che non sento più la presenza viva di qualcuno, mi trasformo in una nuova me stessa.... Non sorridete.... Io sono io, ma tutto quello che mi circonda è mio.... mio.... mio!... Capite?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Perfettamente!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mario non c'è.... ma verrà.... lo aspetto.... Mi abbandono in una poltrona fonda.... mi rannicchio quasi, perchè tutto quello che m'è intorno diventi più grande.... più vasto. Poi mi alzo.... cammino.... Su quei tappeti il mio passo non fa rumore, come quando si è nel sogno.... E tocco tutto, accarezzo tutto, frugo ogni angolo, riassetto i fiori, sposto i ninnoli.... come se volessi imprimere sulle cose il segno della mia mano padrona.... E poi spalanco gli armadii.... e un profumo m'investe, quasi m'ubbriaca.... e tuffo le mani tra quelle vesti, vi tuffo il viso.... le respiro.... sono mie!... Ma ecco.... Florise ritorna.... Sono ripresa dalla mia umiltà di ospite... Il sogno è finito! Ah! signor Lenard, fate che Mario possa vincere!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma certo! Bisogna uscire dal sogno, camminare sulla realtà viva....</p>
+               <p rend="end">Con un gesto verso la finestra.</p>
+               <p>Guardate. Parigi vi aspetta!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Credete?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>....Con tutta la sua anima prodiga....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! fosse vero!...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Vi schiude i viali mattutini del Bosco....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>quasi senza voce, con ansia crescente.</p>
+               <p>....Sì....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>....e gli ippodromi fioriti nei giorni di primavera....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sì.... sì....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>....i ritrovi che s'affollano all'ora del thè, le sue Case di moda che creano l'eleganza del mondo.... le sue sale notturne dove in un bagliore di luce feerica impazza la molteplice vita....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! Potessi! Potessi!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Potrete!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Siete dunque certo che Mario....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Sono certo che potrete anche senza di lui!...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con un sassulto.</p>
+               <p>Signor Lenard....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>....Nel caso che egli avesse a fallire.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No! no! Col vostro aiuto tutto diventerà possibile!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Col mio aiuto, precisamente! Non abbiate paura.... Parigi tenta.... offre.... ma dona!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>quasi a sè, senza voce, senza forza.</p>
+               <p>Senza di lui?...</p>
+               <p>E s'accascia, chiusa nella rivelazione terribile, con smarrimento infinito.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma no, mia piccola amica.... Perchè questo turbamento proprio quando cerco di darvi la coscienza del vostro valore?...</p>
+               <p rend="end">Renaud entra da destra.</p>
+               <p>Il maestro?</p>
+               <p rend="center smallcaps">Renaud.</p>
+               <p rend="justify">È qui.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Fate entrare.</p>
+               <p rend="end">Renaud esce. Entra Mario.</p>
+               <p>Allora, maestro, noi siamo intesi. Potrete passare uno di questi giorni per gli accordi definitivi.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Signor Lenard.... la gioia che voi mi date stamane è il coronamento di lunghi mesi di amarezza e di attesa.... Avete superato ogni mio desiderio.... mi siete venuto incontro con tanta generosa bontà, che io....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>che ha seguito, livida, le parole di Mario sulla espressione di Lenard, ora non sa più contenersi, e quasi frapponendosi fra i due, esclama:</p>
+               <p>Mario!...</p>
+               <p>Ma richiamata a sè dallo stupore del giovine, rimedia così.</p>
+               <p>Mario.... non abusiamo più oltre.... il signor Lenard è tanto occupato.</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">senza capire.</p>
+               <p>È vero, signor Lenard.... scusatemi....</p>
+               <p>Poi rivolgendosi a Isa, come per giustificarsi.</p>
+               <p>....Volevo soltanto ringraziarlo....</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">battendogli snlla spalla.</p>
+               <p>Non è necessario, ragazzo mio.... Non è necessario. A domani.... A domani.</p>
+               <p>Isa trascina Mario verso la porta, guardando con smarrimento Lenard che è rimasto immobile.</p>
+               <p rend="center">TELA</p>
+            </div>
+            <div type="div2">
+               <head>Atto terzo</head>
+               <p>Elegantissimo salotto in casa di Claudio Regis. </p>
+               <p>Il fondo si apre sul vasto salone, riccamente decorato e illuminato.</p>
+               <p>Nel salotto, invece, la luce è più sobria, data soltanto dalle lampade da tavolo in porcellana e abat-jour, e da due lampade a stelo.</p>
+               <p>L'ambiente è tutto artisticamente disposto a coins, con divani fondi, poltrone, piccoli tavoli bassi e grande profusione di tappeti.</p>
+               <p>Molti fiori. Un tavolo antico. Sul tavolo un telefono.</p>
+               <p>Quando l'atto si inizia, Maurizio, seduto presso il tavolo, segna a matita un foglio che un cameriere, in piedi, attende. Dal lato opposto, sprofondato in un divano, tra innumerevoli cuscini, è il Siriano, illuminato stranamente dal riflesso di una lampada a stelo. Egli veste un caratteristico costume orientale.</p>
+               <p rend="center smallcaps">Maurizio</p>
+               <p>alzandosi e riconsegnando il foglio.</p>
+               <p>Ecco. Non avete che a disporre gli invitati secondo la pianta che vi ho tracciata qui.</p>
+               <p rend="center smallcaps">Cameriere.</p>
+               <p>Per mezzanotte?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Per mezzanotte.</p>
+               <p>Il cameriere si dispone ad uscire. Maurizio richiamandolo.</p>
+               <p>L'orchestrina?</p>
+               <p rend="center smallcaps">Cameriere.</p>
+               <p>Nessuno ancóra, signor Maurizio.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Bisogna nasconderla dietro il velario di damasco rosso, lo sapete.... Ma, poi, verrò io. Per ora curate il resto.</p>
+               <p>Cameriere.</p>
+               <p>Benissimo.</p>
+               <p rend="end">Esce.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>M'accorgo che avete una grande autorità in questa casa!</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Perchè tutti sanno che un tempo io non ero condannato a servire, e che adesso considero il servizio come una missione d'eleganza. Ricordate Petronio?</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Non lo conoscevo.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Era una specie di cameriere di fiducia d'un re egiziano di cui mi sfugge il nome. Ma legato da così profonda amicizia al padrone, che un giorno, disgustato dalla volgarità di costui, piuttosto che servirlo ancòra s'è tagliato le vene.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Non era più semplice che cambiasse servizio?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Già.... Io avrei fatto così. Per quanto, come sapete, fra me e Claudio Règis ci sia una perfetta affinità di gusti, fino da quando "io facevo la vita".</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Che strana cosa! Voi eravate ricco, mentre io sono arrivato a Parigi, due anni fa, coi piedi fuori dalle scarpe.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>A me, due anni fa, ne restavano ancòra trentasei paia.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Ma un anno dopo il mio <hi rend="italic">Tearoom</hi> orientale, ne aveva fruttato trentasei paia anche a me!</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>La stessa epoca in cui vendevo le mie!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Che sian quelle che io ho comperato?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Fate vedere i piedi....</p>
+               <p>E come il Siriano allunga due piedi enormi.</p>
+               <p>No!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Quanti sono gli invitati stasera?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Ventiquattro. – Le vostre donne?</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Quante me ne avete comandate: dodici.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Una donna per ogni due invitati: basterà.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Con lo stesso numero ho fatto la settimana scorsa il servizio in casa della duchessa De La Roche. Si festeggiava il suo settantesimo compleanno, ed ha convitato per un pranzo orientale tutti i suoi ex amanti superstiti.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Molto parigino!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Uno spettacolo, vi dico: centosessanta coperti.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Senza contare i decessi, è un bel numero!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>E qui che cosa si festeggia, stasera?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Cose pure: si consacra un genio.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Un genio?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Sì. Un genio musicale che il mio padrone protegge. Mentre noi parliamo scendono foglie d'alloro sul suo capo. Ne ho piacere per il mio padrone. Claudio Règis era molto preoccupato per trovare una manifestazione di eleganza che fosse originale e di cui domani potesse trapelare la eco. Naturalmente sì è rivolto a me: caro Maurizio, voi che siete un snob, consigliatemi....</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>E siete ricorso al mio servizio.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Dal momento che soffia vento di orientalismo sollevato dai balletti russi, e che il gran mondo frequenta la vostra bottega, credo d'aver pensato bene.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Ne volete la prova?</p>
+               <p>Batte tre volte le mani. Dal fondo appare, in costume da mille e una notte, il bellissimo nudo di Dinarzade.</p>
+               <p>Mucico produro bagdad, Dinarzade?</p>
+               <p rend="center smallcaps">Dinarzade</p>
+               <p rend="end">annuendo.</p>
+               <p>Mucico!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Parenda chimira Tucacia?</p>
+               <p rend="center smallcaps">Dinarzade.</p>
+               <p>Chimira, buciara!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Pari banu?</p>
+               <p>Dinarzade</p>
+               <p>Pari banu: Maruti, Dinarzade, Sheherazade, Bairam, Zobeide....</p>
+               <p rend="center smallcaps">Il Siriano</p>
+               <p rend="end">accommiatandola.</p>
+               <p>Evallà!</p>
+               <p>Dinarzade</p>
+               <p rend="end">col saluto di rito.</p>
+               <p>Evallà, Effendi!</p>
+               <p rend="end">Esce.</p>
+               <p>Il Siriano</p>
+               <p>con aria soddisfatta, a Maurizio.</p>
+               <p>Ne siete convinto?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>È autentica? </p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>L'avrete capito. – Mi garantiva che mai cena, come quella di stanotte, sarà servita con più alto stile.</p>
+               <p rend="end">Suona il telefono.</p>
+               <p rend="center smallcaps">Maurizio</p>
+               <p rend="end">afferrando il ricevitore.</p>
+               <p>Allò.... Maurizio.</p>
+               <p>Rimane in ascolto. Ma dopo poche parole il suo viso muta espressione. Prima una grande meraviglia.</p>
+               <p>Oh!</p>
+               <p rend="end">Poi un affrettato assentimento.</p>
+               <p>Ma certo!... ma certo!</p>
+               <p rend="end">Poi una deferente rassicurazione.</p>
+               <p>No, no, non preoccupatevi.... siamo in tempo benissimo.</p>
+               <p>La comunicazione è finita. Maurizio appare turbato e deluso.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Novità?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Incredibili!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Sono indiscreto?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Eh! no! Un po' vi riguardano.</p>
+               <p rend="center smallcaps">Il Siriano</p>
+               <p rend="end">balzando finalmente in piedi.</p>
+               <p>Che?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Pare che sulla fronte del genio non discenda precisamente l'alloro!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Insuccesso?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Catastrofe!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Tutto sospeso?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Evidente. Règis, molto preoccupato, mi chiedeva consiglio....</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Ah!... era lui?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Sono del suo avviso: sospendere la serata!</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>È triste!</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>S'intende che voi sarete ugualmente pagato.</p>
+               <p rend="center smallcaps">Il Siriano.</p>
+               <p>Pagato ugualmente, ridivento mussulmano.</p>
+               <p rend="end">Accomiatandosi.</p>
+               <p>Evallà, Maurizio.</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Evallà, amico mio.... Evallà!</p>
+               <p rend="end">Il Siriano esce.</p>
+               <p rend="center smallcaps">Cameriere</p>
+               <p>dal fondo, interrogando Maurizio.</p>
+               <p>Ma è dunque vero?</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Esattissimo. Mandate a letto tutti.</p>
+               <p rend="center smallcaps">Cameriere</p>
+               <p>fa l'atto di andarsene, ma vedendo avanzarsi dal fondo Claudio e Florise, dice affrettatamente a Maurizio:</p>
+               <p>I signori....</p>
+               <p>Ed esce. Si avanzano Florise e Claudio. Hanno l'aspetto deluso e quasi irritato. Florise s'abbandona sul divano dove prima era seduto il Siriano.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Sono affranta!</p>
+               <p rend="center smallcaps">Maurizio.</p>
+               <p>Ho provveduto a tatto secondo le vostre istruzioni, signor Claudio.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Bene Potete andare.</p>
+               <p rend="end">Maurizio s'inchina. Esce.</p>
+               <p rend="center smallcaps">Florise</p>
+               <p rend="end">a Claudio.</p>
+               <p>Vedi che avevo ragione?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Purtroppo!...</p>
+               <p>Accende una sigaretta e passeggia per la stanza.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Lenard me ne aveva parlato, fino da molti giorni fa, durante le prove....</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Prevedeva?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Ma certo!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E allora, perchè ha voluto?...</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Ah! Questa è un'altra faccenda!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Isa?...</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Ci vuol poco a capirlo....</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>No.... non era questo che ti chiedevo.... Questo l'avevo capito anch'io.... e quello che è peggio, l'ha capito anche Mario.... Il suo nervosismo di questi ultimi giorni non era soltanto la preoccupazione della prova generale.... D'altronde l'assiduità di Lenard, e qui, e in teatro, e in ogni dove, era sfacciata, o bambinesca....</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Mah!... Anche gli uomini illustri, rotti alla vita, scettici per istinto, si lasciano spesso abbagliare non si sa da che cosa.... non si sa da chi!... Mistero!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E dov'è andata?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Chi?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Ma Isa!... Isa!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Amico mio, calmati.... non ne vorrai fare una malattia nervosa!... S'è fermata in camera sua, credo.... Povera figliola!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Oh! lei è a posto!... È di lui che mi preoccupo.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Dove l'hai lasciato?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E rimasto là, con Renaud.... con Lenard. Non so.... discutevano.... Ma oramai!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Scusa, Claudio.... Mi permetti di dirti schiettamente il mio pensiero, come sempre?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Se hai qualche cosa da rimproverarmi, no.... non è momento.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>No. Trovo soltanto che la tua sovreccitazione ti precipita in un pessimismo esagerato....</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Ah! scusa.... con questi risultati....</p>
+               <p>Florise.</p>
+               <p>Hai avuto troppo fretta di sospendere ogni cosa.... Si poteva discutere prima.... consigliarci con Lenard....</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Ma Lenard era perfettamente del mio avviso. Non voglio rendermi ridicolo.... più di quello ch'io mi sia.... Tutta Parigi sa ch'io mi ero abbandonato a proteggere il giovane genio italiano.... E s'è malignato, anche: lo so! È stato detto perfino che tu educavi la piccola alla tua scuola.... per offrirmela in olocausto al momento opportuno....</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>E un parigino d'adozione come tu sei si preoccupa di queste cose?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Non me ne occupavo e non me ne preoccupavo quando c'era la speranza che i risultati giustificassero la mia protezione.... Ma che domani si parli d'una festa data in casa mia, per celebrare un insuccesso, mi renderebbe del tutto ridicolo: o si darebbe valore al pettegolezzo d'alcova, o si direbbe che la mia cecità e la mia ostinazione di mecenate beota non hanno ancora voluto sottomettersi all' amara verità delle cose.</p>
+               <p rend="center smallcaps">Maurizio</p>
+               <p rend="end">dal fondo, annunciando.</p>
+               <p>Il signor Lenard.</p>
+               <p>Lenard entra. Gaio, elegante, soddisfatto.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E dunque?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Come? Non è già rincasato?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>No.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>E lei?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Ora vado io. S'è rinchiusa nella sua camera.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma no! Ma no! Ditele che sono qui. Ditele che l'aspetto.</p>
+               <p rend="end">Florise esce.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Io sono umiliato, caro Lenard.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non occorre che me lo diciate. Si vede dalla vostra faccia. Ma non è il caso! Che colpa ne avete voi?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>La colpa di aver insistito.... di avervi seccato con le mie pressioni, esagerate ed inutili!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma caro amico! Si vede proprio che voi fate dell'alta finanza! Se viveste un poco nel mio mondo, alle delusioni come quelle di stasera avreste fatta già l'abitudine. E non sareste così scorato e avvilito, ma sereno e quasi gaio come me! No, no! Voi non dovete essere nè seccato nè umiliato. E sopra tutto non dovete avere delle preoccupazioni a mio riguardo. Abbiamo cercato insieme di fare del bene, di aiutare un giovane.... domani questo sarà scritto.... e per conto nostro ne usciamo nel modo migliore.</p>
+               <p rend="center smallcaps">Claudio</p>
+               <p rend="end">rassicurato.</p>
+               <p>Non si riderà di me?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ah! È questo che vi preoccupa? No no! Il mecenate.... in questi casi ci fa sempre un'eccellente figura! Il banchiere Claudio Règis protegge le arti!... Stavolta ha protetto male.... un'altra volta proteggerà bene!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Ah! no! Mi basta, amico mio!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Tanto meglio! Un mecenate di meno? È una fortuna!</p>
+               <p>E come Isa si avanza lentamente dal fondo, Lenard si volge sùbito a lei.</p>
+               <p>Oh! amica mia!... Cos'è? Avete pianto?</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con voce debole.</p>
+               <p>No.... signor Lenard....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p rend="justify">Infatti.... non ne sarebbe proprio il caso.</p>
+               <p rend="end">A Claudio.</p>
+               <p>Volete avere la cortesia di dire alla signora che si tenga pronta? Ho un mio progetto che poi vi comunicherò.</p>
+               <p>Claudio lentamente si avvia, esce. Lenard a Isa che si è abbandonata a sedere.</p>
+               <p>Ricordate un nostro colloquio, una mattina, molto tempo fa, quando vi promisi che mi sasarei occupato del vostro amico?</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con enorme tristezza.</p>
+               <p>Ricordo esattamente.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Allora vi ho fatto balenare qualche mio dubbio sul risultato, se non erro....</p>
+               <p rend="end">Isa non risponde.</p>
+               <p>Ma ho letto una tale angoscia nei vostri occhi, che non mi sono più sentito il coraggio di dirvi nettamente la verità. Non ho voluto distruggere la vostra illusione affermandovi che io non mi potevo illudere.... Anche perchè mi potevate giustamente rispondere che il destino è nelle mani di Dio, piuttosto che nel fallace giudizio di un uomo.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Voi dunque sapevate....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ero certo. Ma se vi avessi espressa allora questa mia certezza, avreste pensato che fosse per disinteressarmene. E non avevo nessuna voglia di farmi odiare da voi: tutt'altro. Allora.... ho dato la mia protezione. Voi avete visto che tutto quello che era possibile ho fatto....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ve ne ringrazio.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No, amica mia.... non è precisamente ai vostri ringraziamenti che volevo arrivare.... Mi preoccupa il vostro pianto.... mi preoccupa la vostra tristezza.... mi preoccupa anche un poco.... devo dirvelo?... la fredda delusione di Florise e di Claudio....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Che hanno detto?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Si capisce: la generosità umana è fatta così.... Claudio era felice.... era orgoglioso, anzi, di questa sua spontanea ospitalità dalla quale credeva di trarre, in fondo, un certo utile per la sua ambizione.... Ora le cose andranno fatalmente cambiando....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con viva preoccupazione:</p>
+               <p>Non ci vogliono più?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>No! Non correte con la vostra mente agitata a delle supposizioni che farebbero molto torto ai miei amici.... Riferitevi a voi.... a voi stessa.... M'avete detto più volte che fondavate su questa prova tutto il vostro futuro....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">a fior di labbro.</p>
+               <p>È vero....</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p>chinandosi verso di lei, con molta intenzione.</p>
+               <p>Fallita la prova.... questa sera penso più che mai, seriamente, al vostro futuro.</p>
+               <p>Ma come sulla porta di fondo appare Mario, Lenard cambiando improvvisamente tono e movendogli incontro, dice:</p>
+               <p>Ah! siete tornato ora?</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">freddamente:</p>
+               <p>In questo momento, signor Lenard.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Vi siete dunque deciso a non fare sciocchezze?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Mi sono deciso a seguire il vostro consiglio.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>E avete fatto bene. Ritirare il lavoro era inopportuno e sarebbe sembrato un gesto sdegnoso che è ben lontano dalle nostre consuetudini. Stavo parlandone appunto con Isa, quando voi siete arrivato. E anche lei era perfettamente del mio avviso.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Allora ha mutato opinione, perchè a me poco fa aveva detto il contrario.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">che si è alzata.</p>
+               <p>Il signor Lenard mi ha convinta....</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">con lieve ironia:</p>
+               <p>E l'opinione di Claudio?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non ne abbiamo parlato.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non bisogna mai dare importanza ai consigli degli altri.... ma ascoltare la parola di un uomo pratico.... Nè abbattersi alle prime difficoltà.... Comunque avete dimostrato d'aver del talento....</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">fieramente:</p>
+               <p>Lo so!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Bene. Questa convinzione non vi lascerà lungamente inerte. Siete molto giovane e avete davanti a voi tutto un avvenire.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Per mia buona fortuna, sì!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">colpito dal tono di Mario.</p>
+               <p>E avete della fierezza, anche.... dell'orgoglio.... Possono essere delle grandi qualità.</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">secco.</p>
+               <p>Lo saranno!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ve lo auguro!</p>
+               <p>E s'allontana verso il fondo. Esce.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">a bassa voce, concitatamente.</p>
+               <p>Bada, Mario.... Non aggravare le cose.... Il tuo tono era aspro, quasi violento.... Forse non te ne sei accorto.... In fin dei conti tu devi a quell'uomo della gratitudine!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>A lui? No!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Per lo meno devi aver dei riguardi, nella casa dove siamo ospiti.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Perchè te ne preoccupi tanto?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mi par doveroso.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Oh! rassicurati. La riconoscenza per chi mi ha ospitato, aiutato, protetto, è immensa.... quindi superiore ai riguardi che invochi.... Claudio non mi ha chiesto dei compensi.... Allora.... la cosa è molto diversa.... Ma che tu... proprio tu, mi chieda la gratitudine per il signor Lenard.... via, mi pare, francamente, eccessivo!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! Questo tu pensi?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Questo, io credo!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No, Mario. Una sola cosa devi credere: che ho fatto quanto era in me per venirti in aiuto. Non scagliarti contro chi non ha colpa, senza, prima, giudicare! Bisogna conciliare il proprio spirito almeno con delle opportunità esteriori, specialmente quando è qui che sei accolto, ed è qui che domandi il tuo pane!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>A testa alta lo domando il mio pane! E senza il tuo intervento che è sospetto!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Puoi sospettare quanto vuoi! Non ho niente da rimproverarmi!</p>
+               <p>Ma sùbito, con altro tono, ricomponendosi.</p>
+               <p>Bada!</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p rend="end">avanzando dal fondo.</p>
+               <p>Amici miei.... Claudio ci ha messo in una ben curiosa situazione, stasera....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Perchè, signor Lenard?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma perchè ci vuole costringere al digiuno, ed io ho fame.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ammetterete che sarebbe stato assai inopportuno festeggiarmi!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma credo altrettanto inopportuno finire la serata così. Mauperin, Renaud, la Gyp e compagnia ci aspettano al Pigalle.... Florise e Claudio sono disposti ad accompagnarmi. Venite anche voi?</p>
+               <p>Isa fissa Mario, aspettando la sua risposta.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>No. Noi non si va.</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p>Perchè?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Perchè sono stanco.... Ho bisogno di riposare.... Io non sono un nottambulo.... Voi mi scusate, vero?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Perfettamente.</p>
+               <p>Esita un istante. Guarda Isa. Guarda Mario. Capisce. E allora, lentamente, s'avvia verso il fondo, sparisce. – Isa, presa da uno sconforto senza ribellione, s'è abbandonata a sedere. E considera Mario che è rimasto fermo, immobile, con doloroso stupore.</p>
+               <p rend="center smallcaps">Maurizio</p>
+               <p rend="end">apparendo sulla soglia del salone.</p>
+               <p>Qui, posso spegnere?</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">senza voltarsi.</p>
+               <p>Sì.</p>
+               <p>Il salone è, ora, nell'oscurità. Mario con tono aggressivo che andrà grado a grado crescendo.</p>
+               <p>Dì la verità: ti pesa d'essere rimasta a casa.... di non averli seguiti?</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con rassegnata malinconia.</p>
+               <p>Come puoi pensarlo?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>T'ho visto cosi indecisa di fronte al suo invito consolatore....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Aspettavo la decisione tua.</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>C'era poco da decidere! Non ci voleva che la sua cinica inopportunità per supporre che potessimo partecipare alla gaia brigata!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">quasi non osando.</p>
+               <p>Pensavo.... che forse....</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">subito.</p>
+               <p>Forse, che cosa?</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>scorata dalla domanda improvvisa.</p>
+               <p>Non so.... non so nemmeno io!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>E perchè hai questo tono accasciato?</p>
+               <p>Isa.</p>
+               <p>Sono così addolorata!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non sai dir altro?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Che ti posso dire?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Altro?...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">Senza voce.</p>
+               <p>No....</p>
+               <p rend="end">E scoppia in pianto.</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">dopo un breve silenzio.</p>
+               <p>Ah! no!... non le tue lagrime, vero?...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non pretendere....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ah! Si capisce! Che cosa posso pretendere io!.. Niente, diranno loro!... Più niente, penserai anche tu! la prova è fallita!... Ma io non piango, non mi perdo, non tremo! Lo vedi.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mario.... ti supplico.... Sono sfinita.... sono affranta.... I miei nervi non resistono più.... Capisco.... anche i tuoi saranno esasperati.... è giusto.... è troppo giusto. Ma perchè vuoi sfogarti su di me?...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Io non mi sfogo su nessuno! Mi ribello! Contro la sopraffazione, l'ingiustizia e l'intrigo!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No.... sii calmo.... È meglio che non parliamo stasera.... Non possiamo parlare.... Il colpo è stato così violento....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ma che credi?... Che l'insuccesso mi turbi?... Che la mia fede si sgretoli?... Ah! no!... So quello che valgo!... molto!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sì.... lo capisco.... Ma non essere così eccessivo, sempre!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Giudichi un eccesso la fede nel mio valore?</p>
+               <p>Isa.</p>
+               <p>Non è questo....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Che cosa, allora?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non parliamo, Mario.... Quando sarai più tranquillo.... domani.... discuteremo.... cercheremo insieme....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non farti umile e stanca per paura!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Paura di che?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Paura di dirmi!... Paura di tradirti!...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non ho niente da nasconderti!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Infatti: la tua delusione non me la nascondi certo!... Ma c'è dell'altro!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Che cosa vuoi che ci sia più?</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Che hanno detto di me?... Parla! Sii schietta! Come mi hanno dilaniato? Come mi hanno deriso?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Chi poteva dilaniarti e deriderti? Claudio e Florise erano addoloratissimi!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>E il tuo Lenard?... Dimmi! Il tuo Lenard? Il mio protettore disinteressato?...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">vivamente.</p>
+               <p>Mario!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ah! Cominci a scuoterti!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No, Mario.... no! Ti scongiuro! Basta! Non incrudelire!... Lo vedi.... te lo ripeto.... non ne posso più!... non ne posso più! Non vuoi le mie lagrime, non vuoi il mio dolore, non vuoi il mio smarrimento.... Ma pensa che sono mesi di tentativi inutili che stasera si concludono in una specie di terrore!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non eri atterrita, quando io sono entrato e parlavi con lui!... Che cosa tramavate?...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Sei ingiusto!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non credo!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non sai veder niente di quello che mi tortura!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>So quello che tortura me!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Nella mia anima non c'è che dolore!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>E nella mia non c'è che sospetto!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma se credi questo, tanto più, allora, cerca di essermi vicino!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Sei tu che ti allontani!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Io?!... Ma rifletti, Mario! Sono mesi che siamo qui per la grazia di un tuo amico signore, senza più un soldo e con dei debiti per sopra mercato! Tu non ci pensi! Ma mi ingiurii con dei sospetti, e mi tormenti, e mi umilii e mi esasperi....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>E allora abbi il coraggio di dirmi verso che cosa tendi, che cosa vuoi, che cosa cerchi!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Una sola cosa: la nostra sicurezza per domani!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non è vero! Non ti basta! Tu aspiri a di più! E so anche a che cosa tu aspiri! Tu aspiri di arrivare all'altezza di Florise, e delle altre gentil donne del genere! Ebbene: ti darò una grande gioia! Ne hai tutta l'apparenza! Vanne orgogliosa: puoi essere scambiata per una di loro!... Son bastati pochi mesi a distruggere la tua freschezza e la tua semplicità! T'hanno insegnato il vestito, il rossetto, il profumo! Non ti manca più che il mestiere! Verrà, se già non è venuto!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">vivamente.</p>
+               <p>Mario! Mario!</p>
+               <p rend="center smallcaps">Mario</p>
+               <p>afferrandola nervosamente, scotendola, sgualcendola.</p>
+               <p>Guarda che faccia hai! Sei tutta un artificio! Sei tutta una pittura! E questa veste, perchè non l'apri di più? Fuori, fuori la tua nudità! Fanne una più larga esposizione! Scopriti il seno! Scopriti le braccia! Così! così!... Per diventare più desiderata e più desiderabile!...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ah! basta! Lasciami! Lasciami!...</p>
+               <p>Ed è tale la ferma imperiosità delle sue parole che Mario, istintivamente arretra.</p>
+               <p>Ti ho supplicato di non parlare stasera perchè ho sentito subito, dalle tue prime parole, dove si andrebbe a finire! Pareva che ti fossi prefisso di trascinarmi, ad ogni costo, ad urlarti la mia verità!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non sarà che un bene!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non lo so. Ho fatto l'impossibile perchè si tacesse! Ho sopportato le tue provocazioni con dolcezza, con amarezza, con una forza che ti dovevo in una sera come questa! Sappilo: ho pianto prima che tu arrivassi! Mi sono chiusa là, nella nostra camera, soffocando con le mani sulla bocca il singulto della mia disperazione! Erano per te quelle lagrime! Per te, più che per me stessa! Pochi minuti dopo tu entravi qua dentro.... mi hai trovata là con Lenard.... Sei stato con lui di un'asprezza inutile ed inopportuna!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Dovevo forse abbracciarlo, il tuo Lenard!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Lasciami continuare. Sì: anche di lui ti dirò! Ti dirò tutto! Non credevo di dover arrivare a questo, proprio nell'ora in cui avrei voluto darti le mie parole di conforto!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non le voglio!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Tanto meglio! Ma taci! Non hai avuto per me nessun riguardo! Sei disceso alla brutalità e all'ingiuria! E allora la mia verità – anche se detta stasera – non è più crudele! Pareva stabilito da un destino maledetto che questa dovesse diventare la sera di tutte le delusioni! Delusione per delusione, dunque! Crolli pur tutto, ma si esca una volta per sempre da questa crisi che è il risultato di un reciproco errore!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>L'errore è di averti portata con me! Laggiù dovevo lasciarti! Non meritavi che quello!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>L'hai detto! Mi hai rubato la parola! Che cosa io meritassi, non so. Certo l'errore è di avermi portata con te! Sei entrato nella mia casa tranquilla, nella mia anima di piccola provinciale, dolcemente rassegnata alla sua quiete. M'hai portato il tuo amore! M'hai portato le tue speranze! A poco a poco hai aperta la mia fantasia ad un sogno favoloso! "Parigi!... Parigi!... Eccola, la vita – mi hai detto! – stringiti a me! corriamo! Essa ci aspetta!..." E siamo corsi! E son passata sul dolore di una povera vecchia che singhiozzava!... Ma che!... Chi poteva ascoltarla, allora! Chi può più ascoltarla, oramai!... Parigi!... Parigi!... E siamo scappati, con tutta la nostra frenesia di avere!... Qui, siamo venuti! In questa casa!... M'hai procurato l'ospitalità ricca! Il sogno favoloso continuava!... Me l'hai detto ora: Ho imparato il vestito, il rossetto, il profumo!... È vero! Sono stata avvolta da tutte le tentazioni! È vero! Ho desiderato tutto quello che mi circondava! È vero! È vero! I miei occhi giravano intorno sbalorditi ed avidi! È vero! È vero!... Quella mattina.... ricordi?... là, al suo studio, per la prima volta mi si è aperta l'anima alla certezza! Ci siamo abbandonati alla gioia incredibile d'aver ottenuto!... Non era vero! Stringevamo ancora l'ombra della nostra illusione! L'ho capito dopo.... subito dopo.... non era a te che egli offriva! Era a me!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Perchè non me l'hai detto allora?</p>
+               <p rend="end">Rabbiosamente.</p>
+               <p>Dovevi dirlo! Dovevi dirlo!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No! Dovevo tacere. Tacere e aspettare! Se ti avessi parlato, se ti avessi scoperta la sua trama, ti saresti ribellato, e avresti avuto ragione! Non volevo! Non volevo perchè avevo fede in te! Eri tu che dovevi darmi: bisognava aspettare! E ho aspettato! Soffocando la mia angoscia col fervore della mia speranza, torturandomi nel dubbio per dissiparlo con la mia fede, lasciando che egli mi circuisse, per non distruggere le tue possibilità! Ho visto avvicinarsi, con una trepidazione che io sola so, questa serata nella quale era in gioco tutto il nostro avvenire! Ho contati i giorni, ho contate le ore, ho sofferto minuto per minuto, senza che nessuno sapesse, tutta l'ansia della mia lotta silenziosa!... La vita, capisci? la vita avrei offerta volentieri per potergli gridare, stasera, avvinghiandomi a te: le vostre previsioni sono fallite! Mario ha trionfato!... Non è stato possibile! Non è stato possibile!...</p>
+               <p>Un silenzio. I due si guardano, come nemici. E come Mario non parla, Isa riprende:</p>
+               <p>Capisci.... capisci adesso il mio terrore?... Intorno a noi si è fatto il vuoto pauroso! Il terreno sul quale camminiamo è tutto una insidia! La delusione dei nostri protettori mi spaventa! Mi spaventa la tua rabbiosa sicurezza! Mi spaventa il domani che si affaccia terribile!... Ho paura di te! Ho paura di me stessa!... Ho paura!... Ho paura!... Ho paura!... ecco la mia verità!</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">con un urlo:</p>
+               <p>Ebbene: se per questa prima prova fallita ti spaventa il domani, non sei degna di me! Se hai paura delle insidie che s'aprono sul tuo cammino, non sei degna di me! Intorno a me, intorno a me soltanto s'è fatto il vuoto pauroso! Ma io non ho paura!... Sei degna di loro! Va'! Corri! Raggiungi chi ti darà la sicurezza! Me ne rido! Buttami pure in faccia la tua delusione! Me ne rido! Ti perdo!... Me ne rido! Me ne rido! Me ne rido!...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">tentando di aggrapparsi a lui:</p>
+               <p>Mario!... Mario!...</p>
+               <p>Mario</p>
+               <p>allontanandola con gesto risoluto:</p>
+               <p>Va via! va via! va via!...</p>
+               <p>Isa lentamente, sconsolatamente, risale verso l'ombra del salone. Mario fa qualche passo, vacilla, e cade a sedere, la testa fra le mani, singhiozzando.</p>
+               <p rend="center">TELA</p>
+            </div>
+            <div type="div2">
+               <head>Atto quarto</head>
+               <p>La piccola terrazza a "berceau" d'un restaurant di lusso.</p>
+               <p>I verdi rampicanti limitano la terrazza quasi a chiuderla. Ma nel fondo è Parigi tutta luminosa nella limpida sera di prima estate. A destra una grande porta a vetri in comunicazione con le sale interne. Ne viene una calda luce gialla.</p>
+               <p>A sinistra s'apre una gradinata che scende nel grande giardino. E di là giunge il brusìo della folla e il ritmo d'una danza andalusa suonata dall'orchestrina tzigana.</p>
+               <p>Nel centro è la tavola riccamente imbandita e decorata di fiori. Una larga lampada ad abat-jour colorato piove la luce sulla tovaglia. Siedono a tavola Isa e Florise, Lenard e Claudio. È fine pranzo. Si fuma. Si ascolta la musica.</p>
+               <p rend="center smallcaps">Florise</p>
+               <p>ne accenna a bassa voce il facile motivo, e chiede a Lenard:</p>
+               <p>Strauss?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Quale? Il grande o il piccolo?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Giudicando da che punto di vista?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Sapete che cosa dicono a Vienna?</p>
+               <p>Nel frattempo fa l'atto di versare da bere a Isa che con brusco movimento gli ferma il braccio.</p>
+               <p>Isa.</p>
+               <p>No. Basta! Vi prego.</p>
+               <p>Il vino si spande sulla tovaglia.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>M'avete fatto versare.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Porta fortuna.</p>
+               <p rend="center smallcaps">Florise</p>
+               <p>intingendo l'indice nel vino versato e bagnandosi la fronte e toccando poi la fronte di Isa.</p>
+               <p>Per me e per te!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E per noi, niente?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Voi uomini non dovete cercarla la fortuna, ma offrirla!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Dunque, a Vienna si dice: come Strauss preferisco Oscar; come Riccardo preferisco Wagner. Ma qui, amica mia, Strauss non c'entra! La musica che voluttuosamente vi davate l'aria di assaporare, è del semplice Mauperin. Tanto convenzionale da meritarsi la tomba prima di nascere; tanto fortunata da iniziare, con quasi certezza, da stasera il giro del mondo.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Ecco uno che ha versato il vino sulla sua tovaglia!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>E perchè proprio da stasera?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Perchè stasera Michette si è costituita al commissariato di Rue Racine.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p rend="justify">Michette? E chi sarebbe?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Evidentemente non avete ancòra letto i giornali della sera.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>No, infatti.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Riassumo. Volete? Michette: fille de Paris, ignota, oscura, confusa nella folla anonima. Solita istoria: passa un vecchio autorevole e danaroso: l'amore moderno, senza ali. La protegge. La ripulisce. La veste. La colloca in un "Luigi XV" con riproduzioni di Kirtchner nel gabinetto da bagno. Noia insopportabile.</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Di chi?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ma di Michette, poverina! Noia e conseguente aspirazione insinuata da un piccolo amante ballerino e cocainomane: il teatro. Nessun talento. Nessuna voce. Ma due gambe eccellenti. Resta il ballo. Scena col vecchio signore autorevole. Confessione.... Mauperin ha scritto quella danza che avete ora gustata per la prima volta. Nessuno la voleva, fino a ieri. Ma la vecchia volpe, s'imbatte nella piccola ignota debuttante e le dedica il pezzo andaluso. Michette la fa diventare la sua danza personale, senza che nessuno se ne dia per inteso. Stamane Michette è nel bagno. Essa ha, da un paio di mesi, alle sue dipendenze Gerard, servitore modernamente ribelle. Pu-tin-pao – il suo piccolo cane cinese – abbaia, geme. Michette infila un accappatoio e schiude con precauzione l'uscio. E vede.... E ascolta.... Orrore!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Che?...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Gerard ha afferrato il piccolo cane. Gli tiene aperta la bocca e – pardon – sputa nelle fauci forzatamente aperte della razza cinese rarità, due volte, sogghignando: questo è per quella mantenuta della tua padrona! questo per quel becco del tuo principale! Un colpo secco di rivoltella seguito da un grido: e questo è per te!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Michette?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Che ha sparato e ferito, vendicando il suo onore vituperato da un servo per bocca d'un cane!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Incredibile!</p>
+               <p>Isa si è alzata e lentamente ha raggiunto il limite della terrazza.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Leggete i giornali: l'Excelsior già pubblica il ritratto di Michette. L'ignota sale alla celebrità!... Ed eccoci alla morale della tragedia...! Non allontanatevi, Isa.... Siamo alla morale: potete ascoltare. Stasera la danzatrice è sulla bocca di tutti, e domani sarò costretto io stesso a chiamare Mauperin per offrirgli di acquistare quello che gli avevo rifiutato. Ancòra una volta il fenomeno parigino sprigiona da un fatto relativamente banale il suo simbolo: crea una personalità femminile che trascina nell'orbita della sua gloria quattro maschi: un mantenitore, un amante, un musicista ed un cane!</p>
+               <p>Isa</p>
+               <p>con un sorriso livido.</p>
+               <p>Non dimenticate che tutto questo si deve ad un colpo di rivoltella!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Trascurabile causa occasionale!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma se io ne piantassi uno nel vostro cervello credete che diventerei celebre e potrei trascinare nella mia gloria qualcuno?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Evidentemente! Ma quel "qualcuno" non sarei io. E per.... quell'altro si poteva tacitamente intenderci senza darmi il dispiacere di ledere il mio cervello!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Per nostra buona fortuna il signor qualcuno oramai naviga verso altri destini!</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Non ancòra!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">colpitissima.</p>
+               <p>Come?</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Non è partito?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>No. Non è partito.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con angosciosa preoccupazione.</p>
+               <p>Come lo sapete?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Non ve ne volevo parlare, Isa. M'è capitato in banca stasera, poco prima che uscissi.... Non allarmatevi. Era calmo, rassegnato. M'ha chiesto di voi.... Ma, così, come si domanderebbero notizie di un'estranea.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Che voleva?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Niente.... Era preoccupato.... Sciocchezze, vi dico.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>Preoccupato di che?</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Pensate: di sdebitarsi.... Gli ho dovuto promettere che avrei accettata la restituzione delle piccole somme che gli avevo prestate. Non gli è bastata la mia promessa. Ha voluto firmarmi un impegno. Domani partirà.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">a fior di labbro.</p>
+               <p>Che angoscia!...</p>
+               <p rend="center smallcaps">Florise</p>
+               <p rend="end">vivamente.</p>
+               <p>Ah! no, figliola mia! dovresti dire: che liberazione! Ma che vita era la tua? Urti, liti, preoccupazioni d'ogni genere. La libertà vincolata! Le inchieste su ogni passo! Un martirio! Un martirio! Ben venuto l'ultimo cozzo violento e la sua decisione improvvisa. Non parliamone più. Sentite?...</p>
+               <p>La musica ha ripreso, accompagnata da un refrain d'occasione cantato a coro.</p>
+               <p>Facciamoci portare i mantelli, e scendiamo....</p>
+               <p>Claudio va a dar l'ordine, dalla porta di destra.</p>
+               <p>Qui l'atmosfera comincia a diventare pesante.... Ma che cosa cantano laggiù?</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p>che è rimasto in piedi, durante queste ultime battute, appoggiato alla balaustrata seguendo il suo pensiero e il fumo del suo sigaro.</p>
+               <p>Lanciano la nuova canzonetta satirica sull'avvenimento del giorno:</p>
+               <p rend="start">....Michette, Michette a tué<lb/>un homme qui avait craché<lb/>dans la bouche d'un chien....</p>
+               <p>Un valletto ha portato i mantelli e i soprabiti.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>abbandonando il mantello su una sedia dice, a Florise.</p>
+               <p>Lasciami qui.... ancòra un momento.... te ne prego!</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Ma no cara! Se scendiamo per te!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Un istante.... ho bisogno di essere sola.... ho bisogno di respirare!...</p>
+               <p rend="center smallcaps">Florise.</p>
+               <p>Come vuoi!</p>
+               <p rend="center smallcaps">Il Valletto</p>
+               <p rend="end">a bassa voce a Claudio.</p>
+               <p>Signor Régis, ho avuto l'incarico di consegnarvi questo biglietto, quando i signori fossero per uscire.</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Da chi?</p>
+               <p rend="center smallcaps">Il Valletto.</p>
+               <p>Da un signore che è giù, nel salone.</p>
+               <p rend="center smallcaps">Claudio</p>
+               <p>apre il biglietto, lo scorre, dice al valletto che aspetta:</p>
+               <p>La risposta vi sarà comunicata più tardi.</p>
+               <p>Il valletto esce. Claudio a Lenard traendolo in disparte e mostrandogli il biglietto.</p>
+               <p>È Mario.... Mi scrive che vorrebbe vederla.... è giù.... aspetta risposta.... che si deve fare?... Dirlo a lei?...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non parlate. Me ne incarico io.</p>
+               <p rend="center smallcaps">Claudio</p>
+               <p rend="end">a Isa.</p>
+               <p>Volete rimanere?</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Un momento....</p>
+               <p rend="center smallcaps">Claudio.</p>
+               <p>Siamo qui sotto.... quando vorrete....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Grazie. Vi raggiungo.</p>
+               <p>Scendono tutti, meno Isa. La musica e il canto riprendono. Isa s'abbandona su una sedia, sfibrata, rovesciando la testa all'indietro, lo sguardo fisso, vuoto e senza lagrime. Lenard lentamente risale. Esita. Si ferma. Isa volge lo sguardo verso di lui, ma freddamente, senza sorpresa, e con una stranissima calma dice:</p>
+               <p>Voi? Vi aspettavo. Ora sì, versatemi da bere.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ah! Meno male! Cominciate a diventar ragionevole.</p>
+               <p rend="end">E le offre il calice colmo.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">beve d'un fiato.</p>
+               <p>Che avete da dirmi?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Niente....</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">con un sorriso stridulo.</p>
+               <p>E il colpo di rivoltella?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Un'ipotesi!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Giusto. Versatemi ancòra.</p>
+               <p rend="center smallcaps">Lenard</p>
+               <p>non senza rivelare una certa preoccupazione.</p>
+               <p>Ora no.... Ora direi che basterebbe.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Avete paura?</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non di quello che pensate.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>La piccola provinciale.... l'italianina, ricordate?... non può farvi paura, anche se vi mostra di aver appreso gli atteggiamenti della baccante! Versatemi da bere, Lenard. Bisogna stordirsi per trovare il coraggio di scendere sino in fondo!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Una piccola francese questo coraggio lo sa sempre trovare!... Con voi, lo capisco, la cosa è diversa.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Vi ringrazio di averlo capito....</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non siate ironica. Non giudicatemi peggiore ch'io non sia! Non mi ero mai illuso sul vostro amico, ma dubito di essermi molto illuso su voi. Questo vorrebbe dire che capisco più la musica che l'anima femminile.... Infatti i maligni dicono che con la musica faccio i denari e con le donne li spendo. Ma credevo che la nostra vita, questa espressione massima della vita vi avesse presa completamente. Invece dubito che, per amore, siate ancòra capace di patire la fame.</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non più, da quando voi siete passato fra me e lui!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Io?... Ma amica mia: fra voi e lui è passata la vita!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>No. È passato il vostro gioco, continuo, sottile, cominciato in quel mattino lontano laggiù al vostro studio, apertamente scoperto la sera del suo crollo, intensamente continuato quanto più s'aggravava la mia delusione!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>E se il vostro amico riusciva? Quello che chiamate il mio gioco sarebbe stato un gioco pessimo per me! Nè mi sarei doluto perchè vi avrei vista tranquilla e vi avrei lasciata tranquillamente procedere per la vostra via! Io non vi ho parlato un linguaggio di passione, perchè non lo conosco, non l'ho mai conosciuto. Non vi posso dire amatemi. Vi posso dire soltanto: volete tutto quello che fatalmente vi è stato impossibile d'ottenere? Sono qui. Lo meritate: per la vostra amarezza e per la vostra delusione. Sono pronto ad ogni ordine, ad ogni volontà, umilmente sottomesso ai vostri desiderii!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ecco un'altra insidia!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Quale?!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>L'insidia di una sottomissione che è falsa come la vostra generosità. Ieri eravate dominatore, stasera vi dichiarate umile. Non è più l'ora della finzione, Lenard! E la verità è questa che vi confesso con calma assoluta: la vostra mano mi serra la gola: non vi resta che stringere!</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Non dite così! Non lo merito! Io avrei tollerato tutto pur di farvi piacere! <hi rend="italic">Tutto!</hi> intendetemi bene!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma in nome di Dio, c'è chi al solo pericolo di questa generosità si è ribellato! E vi giuro che lui che credevo un vinto, mi appare in questo momento più forte di un vincitore.</p>
+               <p>Lenard.</p>
+               <p>Sono frasi!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Già! Per voi rimango la piccola provinciale perchè non ho ceduto! Per Florise un'ingenua perchè non so ancòra decidermi a cedere! M'avete reso facile il peccato e intollerabile l'amore! M'avete gridato: Su! coraggio! Qui nessuno ti domanda il documento della tua onestà! Se lo poni sotto gli occhi di chi ti sbarra il cammino, come un lascia passare, ti ridono in faccia! Se lo sventoli alla luce del sole ed urli: guardate, sono onesta ma crepo di fame, sentirai un coro di voci risponderti: Colpa tua! Guarda laggiù! La vedi tutta quella folla che passa, che ride, che gode, che spende? Nessuno ha il suo documento in tasca, e nemmeno a casa, e nemmeno nella coscienza! Il lusso copre tutto! Il piacere dà a tutti l'ebbrezza che domanda solo del lusso nuovo e del piacere più intenso! Guardati intorno! Non aver scrupoli! Prendi! Dove puoi! Come puoi! Con qualunque mezzo, lecito o non lecito, perchè la città immensa ha aboliti i confini della morale, e ciascuno se li traccia con la larghezza del suo desiderio!...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Esagerate il vostro tormento!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Voi ne aspettate la fine! Ci siamo. Giorno per giorno, ora per ora, eliminando le mie difficoltà, prevenendo i miei desiderii, appiattandovi nell'ombra, in agguato, mi avete fatto firmare dei patti a cui non si sfugge!... Pago! pago! pago! Sono vostra!...</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ah! Finalmente!... La tua bocca!... Così!</p>
+               <p>E la ghermisce e la stringe a sè, intensamente.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>con disperato smarrimento, con invincibile ripugnanza, quasi supplicando Lenard.</p>
+               <p>No.... No.... Non è possibile! Non è possibile!...</p>
+               <p>E si piega tutta su se stessa, singhiozzando, sfinita. Lenard che ha ripresa immediatamente la sua calma, va alla porta di destra, preme con un gesto evidente il bottone del campanello. Un silenzio. Il valletto appare sulla soglia.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Quel signore che vi aveva consegnato il biglietto?</p>
+               <p rend="center smallcaps">Il Valletto.</p>
+               <p>È nel salone.</p>
+               <p rend="center smallcaps">Lenard.</p>
+               <p>Ditegli che è aspettato.</p>
+               <p>Il valletto esce. Lenard a Isa che è rimasta immobile nel suo angoscioso stupore.</p>
+               <p>Provincialina!... Adesso non dubito più!... Per amore siete ancora capace di affrontare la fame!...</p>
+               <p>Esce rapido verso il giardino. Mario è apparso sulla porta. Non osa quasi avanzare.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>con voce spenta, implorante, tendendo verso di lui le braccia.</p>
+               <p>Mario!... Mario!...</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">lentamente, dolorosamente.</p>
+               <p>Son tre giorni che ti seguo.... che ti spio.... che cerco di avvicinarmi a te.... Non ne ho avuto il coraggio.... Stasera.... stasera non ho saputo resistere.... Ho voluto vederti, per l'ultima volta!...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Mario!... Aiutami.... aiutami tu.... Forse ancòra è possibile!...</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">sconsolatamente.</p>
+               <p>È troppo tardi!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non lasciarmi!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non potrei che trascinarti nel mio naufragio....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Che importa, se ci ritroviamo!</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Non potrei che trascinarti nella mia miseria....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Che importa, se ci ritroviamo!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>No, Isa!... Non ti rendi conto di quello che sono!... Ma io, sì.... In questi giorni le ore erano così lunghe.... e bisognava non pensare a te per non soffrire troppo!... Allora ho guardato in me stesso, fissamente.... disperatamente.... senza pietà!... Ora mi conosco.... so quello che valgo....</p>
+               <p>Allargando sconsolatamente le braccia.</p>
+               <p>Nulla!</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">a fior di labbro.</p>
+               <p>Mario....</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Nulla!... nulla!... La mia arte?... quella che mi doveva dare la gloria.... Che ci doveva dare la ricchezza!... Oh!... L'ho risentita tutta qui, dentro di me.... così squallida.... così inutile.... così mediocre che ne ho avuta vergogna!... Sono finito!... Sono finito!...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Non dirlo.... Non dirlo!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ma sì!... lo sai!... me l'hai urlato in quella sera terribile!... Me l'hai detto.... dopo.... per tanti giorni tristi, senza dirmelo!... Avevi ragione!... Naufragio!... Naufragio!... Ma che? Neppure questo!... È una parola troppo grandiosa per la mia povera istoria che si riduce allo scivolar via del nulla nel nulla!... Vedi dunque che non mi resta che andarmene.... sparire..., perchè più niente posso fare per te!...</p>
+               <p>E s'abbandona sfibrato. Dal giardino, lentissima, la musica riprende.</p>
+               <p rend="center smallcaps">Isa</p>
+               <p>avvicinandosi a lui con commossa fermezza.</p>
+               <p>Ma io sì.... io posso!...</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">sconsolatamente.</p>
+               <p>Che cosa?... Spianarmi la via con l'abilità dei tuoi fascini?... No. Preferisco logorarmi nella rinuncia, guadagnarmi la vita col lavoro più umile....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Volerti bene, posso.... ora, finalmente!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Tu ancora speri nel mio avvenire?!...</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>Ma non parlar più d'avvenire! Non abbiamo inseguito che quello.... Non abbiamo desiderato che la gioia che ci eravamo promessi!... No, no, Mario!... Fino a ieri ho amato quel piccolo sogno che era la tua gloria, ora amo te.... amo questa grande realtà che è il tuo dolore!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>È pietà la tua!</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>E sia pure !... Ma tu mi dai questa tua sofferenza che è sacra.... Mi dai questa tua ansia di non potermi dare.... Mi dai lo strazio della tua prima delusione perchè diventi degna di consolarlo! Oh! lasciami dire!... lasciami dire!... ne ho tanto bisogno!... Tu mi costringevi a guardar sempre lontano.... ai giorni che sarebbero venuti.... tu volevi abbagliarmi con la tua conquista.... con la tua ricchezza.... e hai fatto sì che io non guardassi che là, non vedessi che là.... Ci fu un momento in cui, mentre fissavo quelle lontananze radiose, non ti ho visto più.... e allora m'è sembrato che il mio cuore fosse vuoto!... Anch'io, anch'io, come te, ho inseguito il mio sogno.... era così facile per la mia fragilità di donna afferrare da sola quello che tu non mi potevi dare, e che pareva l'unica cosa importante per la mia felicità!... L'ho tentato.... ma ho visto che non c'era che malinconia!... Lascia.... lascia che ti guardi.... così.... Nei tuoi occhi di pianto.... nei tuoi occhi smarriti ritrovo la verità del nostro amore!... lascia che io possa farti del bene!... Ah! che sete, che sete di darti!... tutta la mia tenerezza.... il mio patimento.... le mie lagrime.... Allora sì.... allora sì ti amerò se vincerai!... Non perchè hai vinto, ma perchè avrai sofferto per vincere!... Fra questa febbre, in questa ebbrezza, per la prima volta ti vedo quale sei.... mi vedo quale sono!... Sono io, adesso, sono io che ti offro la mia ricchezza.... la mia povera ricchezza di compagna che vuol avere tutto in comune con te.... che vuol risalire con te verso le nostre origini, dove la vita è vera, perchè è fatta di poesia e di bontà!...</p>
+               <p rend="center smallcaps">Mario</p>
+               <p rend="end">in un impeto di commozione.</p>
+               <p>O mia creatura fragile.... mia creatura forte!...</p>
+               <p rend="center smallcaps">Isa</p>
+               <p rend="end">stringendosi a lui.</p>
+               <p>Con te.... con te.... mio figliuolo sperduto!...</p>
+               <p rend="center smallcaps">Mario.</p>
+               <p>Ah!... La tua voce mi par quasi materna....</p>
+               <p rend="center smallcaps">Isa.</p>
+               <p>È vero.... è vero.... ma in ogni donna che ama c'è sempre un po' di mamma.... quasi il presentimento della mamma che diventerà....</p>
+               <p>Mario piega il capo singhiozzando. Isa carezzandolo sui capelli, con infinita dolcezza, col pianto che trema nelle sue parole:</p>
+               <p>Vedrai!... vedrai!... Insieme.... rifaremo la vita!...</p>
+               <p rend="center">TELA</p>
+            </div>
+            <div type="div2" rend="P33">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: <hi rend="bold">Parigi!</hi>
+               </p>
+               <p>AUTORE: Adami, Giuseppe</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: </p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: n. d.</p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/online/opere/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: <hi rend="bold">Parigi! : commedia in quattro atti / Giuseppe Adami. - Milano : Treves, 1921. - 157 p. ; 19 cm.</hi>
+               </p>
+               <p>CODICE ISBN FONTE: n. d.</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 5 settembre 2017</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità standard</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>SOGGETTO:</p>
+               <p>PER015000 ARTI RAPPRESENTATIVE / Commedia</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>REVISIONE:</p>
+               <p>Paolo Oliva, paulinduliva@yahoo.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Paolo Alberti, paoloalberti@iol.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center">
+                  <ptr target="http://www.liberliber.it/online/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

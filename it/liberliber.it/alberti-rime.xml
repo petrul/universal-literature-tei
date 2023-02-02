@@ -1,0 +1,1958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>E-book campione Liber Liber</title>
+            <author>Alberti, Leon Battista </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2009-04-23T11:48:03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-02T19:41:16.049658131</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                         
+      <body>
+         <author>Alberti, Leon Battista</author>
+         <div type="div1">
+            <head>Rime</head>
+            <p rend="center">Leon Battista Alberti</p>
+            <p rend="center">RIME</p>
+            <div type="div2">
+               <head>1</head>
+               <lg>
+                  <l>Io vidi già seder nell'arme irato</l>
+                  <l>uomo furioso palido e tremare;</l>
+                  <l>e gli occhi vidi spesso lagrimare</l>
+                  <l>per troppo caldo che al core è nato.</l>
+               </lg>
+               <lg>
+                  <l>E vidi amante troppo adolorato</l>
+                  <l>poter né lagrimar né sospirare,</l>
+                  <l>né raro vidi chi né pur gustare</l>
+                  <l>puote alcun cibo ov'è troppo affamato.</l>
+               </lg>
+               <lg>
+                  <l>E vela vidi volar sopra l'onde,</l>
+                  <l>qual troppo vento la summerse e affisse;</l>
+                  <l>e veltra vidi, a cui par l'aura ceda,</l>
+               </lg>
+               <lg>
+                  <l>per troppo esser veloce perder preda.</l>
+                  <l>Così tal forza in noi natura immisse,</l>
+                  <l>a cui troppo voler mal corrisponde.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>2</head>
+               <lg>
+                  <l>Quel primo antico sai' ch'Amor dipinse</l>
+                  <l>nudo fanciullo coll'ale ventose,</l>
+                  <l>(non ebbe mani pur maravigliose?)</l>
+                  <l>e dolci agli occhi poi quel velo acinse,</l>
+               </lg>
+               <lg>
+                  <l>certo costui Amor troppo ben finse,</l>
+                  <l>ché vide amanti mai poter ascose</l>
+                  <l>tener suo voglie giovinili, e puose</l>
+                  <l>che lume in lui di ragion ma' vinse.</l>
+               </lg>
+               <lg>
+                  <l>Diedegli face, strali in mano ed arco,</l>
+                  <l>co' qual da lungi ed ascoso ferisce;</l>
+                  <l>tien dolce pena, al cor meror eterno,</l>
+               </lg>
+               <lg>
+                  <l>sforza chi 'l fugge, e chi 'l segue nutrisce</l>
+                  <l>di speme incerta, e mai lo soffra scarco</l>
+                  <l>d'infiniti sospetti e nuovo scherno.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>3</head>
+               <lg>
+                  <l>S'i' sto doglioso, ignun si maravigli,</l>
+                  <l>poiché sì vuol chi può quel che le piace.</l>
+                  <l>Non so quando aver debba omai più pace</l>
+                  <l>l'alma ismarrita infra tanti perigli.</l>
+               </lg>
+               <lg>
+                  <l>Misero me! A che convien s'appigli</l>
+                  <l>mia vana speme, debile e fallace?</l>
+                  <l>Né rincrescer mi può chi ciò mi face.</l>
+                  <l>Amor, che fai? Perché non mi consigli?</l>
+               </lg>
+               <lg>
+                  <l>Ben fora tempo ad avanzar tuo corso,</l>
+                  <l>che la stanca virtù ognor vien meno,</l>
+                  <l>né molto d'amendue già mi confido.</l>
+               </lg>
+               <lg>
+                  <l>Ma s'ancora a pietà s'allarga il freno,</l>
+                  <l>tengo ch'assai per tempo fia il soccorso.</l>
+                  <l>Se non, tosto udirai l'ultimo istrido.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>4</head>
+               <lg>
+                  <l>Burchiello sgangherato sanza remi,</l>
+                  <l>composto insieme di zane sfondate,</l>
+                  <l>non posson più le Muse far lellate,</l>
+                  <l>poiché per prora sì copioso gemi.</l>
+               </lg>
+               <lg>
+                  <l>Ingegno svelto da' pedali stremi,</l>
+                  <l>in cui le rime fioche e svarïate</l>
+                  <l>tengon memoria dell'alme beate,</l>
+                  <l>a cui parlando di lor palma scemi,</l>
+               </lg>
+               <lg>
+                  <l>dimmi, qual cielo germina o qual clima</l>
+                  <l>corpo che sia omai di vita privo,</l>
+                  <l>sentir si faccia di sua fauce strida?</l>
+               </lg>
+               <lg>
+                  <l>Io so un animal che non si stima,</l>
+                  <l>a cui grattargli il mento torna vivo</l>
+                  <l>quand'è pur morto, e pur feroce grida.</l>
+               </lg>
+               <lg>
+                  <l>Poi mi dirai ov'è l'aria sì cruda</l>
+               </lg>
+               <lg>
+                  <l>che per fatica pel ceffo si suda.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>5</head>
+               <lg>
+                  <l>Ridi, s'i piango, ridi, falsa! Bene</l>
+                  <l>ti pare esser beata,</l>
+                  <l>se adoperi tuo sdegno in darmi pene.</l>
+               </lg>
+               <lg>
+                  <l>Merita questo da te chi tu sai</l>
+                  <l>quanto e' sia a te sola suggetto?</l>
+                  <l>Ahi! troppa ingiusta, se pigli diletto</l>
+                  <l>tenere chi t'ama in cotanti lai.</l>
+               </lg>
+               <lg>
+                  <l>Ma un conforto prende il mio dolore,</l>
+                  <l>che rado in donna amata</l>
+                  <l>suol poter sdegno senza grande amore.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>6</head>
+               <lg>
+                  <l>Le chiome che io adorai nel santo LAURO</l>
+                  <l>MI NAscondi in bel velo,</l>
+                  <l>candida mia angioletta in veste bruna.</l>
+               </lg>
+               <lg>
+                  <l>Poi che le chiome mi coperse il velo,</l>
+                  <l>sempre fu l'aer bruna,</l>
+                  <l>e scolorito chi ancor ama il lauro.</l>
+               </lg>
+               <lg>
+                  <l>In veste alBA TI STAvi, non in bruna,</l>
+                  <l>quando adorai il lauro</l>
+                  <l>e scorsi el sol, che spiande or sotto il velo.</l>
+               </lg>
+               <lg>
+                  <l>Le chiome e LAURO MI NAsconde il velo,</l>
+                  <l>che stringe a dolorarmi in veste bruna.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>7</head>
+               <lg>
+                  <l>Nessun pianeta che possegga il cielo</l>
+                  <l>mai potrà quel che non potette morte.</l>
+                  <l>Stringonmi e' lacci, que' con che mia donna</l>
+                  <l>già priva fe' di libertà mia vita,</l>
+                  <l>quando qua giù ella lustrava al mondo</l>
+                  <l>non men cogli occhi ch'or si faccia il sole.</l>
+               </lg>
+               <lg>
+                  <l>Ardon le vive fiamme di quel sole</l>
+                  <l>che spesso mi facean sprezzare il cielo,</l>
+                  <l>poi che sì bella cosa vidi al mondo.</l>
+                  <l>Vive el bel viso ancora, quel che morte</l>
+                  <l>si crese aver privato d'ogni vita,</l>
+                  <l>sol per farmi suggetto ad altra donna.</l>
+               </lg>
+               <lg>
+                  <l>Quello angelico aspetto di mia donna</l>
+                  <l>facea ristar a vagheggiarla il sole,</l>
+                  <l>tanto gli piacque di vederlo in vita.</l>
+                  <l>Però cercò d'averla seco in cielo.</l>
+                  <l>Ebbela el ciel, ma non patì che morte</l>
+                  <l>di tal tesoro mai privasse il mondo.</l>
+               </lg>
+               <lg>
+                  <l>Onde s'i' cerco e' luoghi qui nel mondo</l>
+                  <l>dove io solea onorar mia donna,</l>
+                  <l>gli veggo ancor risprender, benché morte</l>
+                  <l>spegnesse que' begli occhi onde uscì el sole</l>
+                  <l>che scaldò prima me ch'ornasse il cielo</l>
+                  <l>e vuol nutrir persin ch'io lasci vita.</l>
+               </lg>
+               <lg>
+                  <l>Ancora il nome suo triunfa in vita,</l>
+                  <l>e non è sazio di lodarla el mondo.</l>
+                  <l>Son qui tra noi, non son seco nel cielo</l>
+                  <l>li sguardi bei con che potea mie donna</l>
+                  <l>far a gran sera rivenire il sole.</l>
+                  <l>Pur questo tòr non ci potette morte.</l>
+               </lg>
+               <lg>
+                  <l>Scritto ho nel cuor, persin che venne a morte,</l>
+                  <l>ogni sembiante ch'ella porse in vita,</l>
+                  <l>tal che mi avampa ove non lustra el sole,</l>
+                  <l>e sento e veggo di chi è privo il mondo:</l>
+                  <l>seguo chi fa fuggirmi ogni altra donna.</l>
+                  <l>Ma non è poco amar chi sta nel cielo.</l>
+               </lg>
+               <lg>
+                  <l>Veggo nel mondo chi è nascosto in cielo</l>
+                  <l>e meco in vita chi me tolse morte;</l>
+                  <l>e sotto il sol mi schifo ogni altra donna.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>8</label>
+                  <lb/>Mirzia</head>
+               <lg>
+                  <l>Udite e' nostri lacrimosi canti,</l>
+                  <l>di doglie pieni e de ira,</l>
+                  <l>poi che m'è forza a discoprir mie pianti.</l>
+               </lg>
+               <lg>
+                  <l>Piangi con meco, piangi, o mesta lira;</l>
+                  <l>segui la doglia che copiosa iscende</l>
+                  <l>col furor entro ch'al mio cor s'aggira.</l>
+               </lg>
+               <lg>
+                  <l>Come con l'aure la fiamma si stende</l>
+                  <l>fra gli stridosi cispugli e virgulti,</l>
+                  <l>così Amore in me sue faci incende.</l>
+               </lg>
+               <lg>
+                  <l>Occhi piangete, e voi che indarno occulti</l>
+                  <l>soffrite pene, o sospir miei, spandete</l>
+                  <l>questi mie versi piangiosi ed inculti.</l>
+               </lg>
+               <lg>
+                  <l>E voi pietosi, che provato avete</l>
+                  <l>che sian le doglie qual soffran gli amanti,</l>
+                  <l>con meco e' vostri danni e miei piangete.</l>
+               </lg>
+               <lg>
+                  <l>Piangiamo insieme e' lacrimosi canti,</l>
+                  <l>di poi che 'l ciel ne elegge</l>
+                  <l>a viver sempre in doglia ed in pianti.</l>
+               </lg>
+               <lg>
+                  <l>Convienci pur seguir tuo imperio e legge,</l>
+                  <l>spiatato Amore? Ah! quanto è felice</l>
+                  <l>chi in dolce libertà sua vita regge.</l>
+               </lg>
+               <lg>
+                  <l>Col cielo irato nacque ed infelice</l>
+                  <l>colui in chi Amor suo forza prova,</l>
+                  <l>se viver lieto amando mai non lice.</l>
+               </lg>
+               <lg>
+                  <l>Che dir, che isdegno né ragion mi mova</l>
+                  <l>a odïarti, ingrata Mirzia, in cui</l>
+                  <l>mie dolor o servir pietà mai trova?</l>
+               </lg>
+               <lg>
+                  <l>O più, più volte beato colui,</l>
+                  <l>che a fuggir o rinvenir errori,</l>
+                  <l>divien più saggio dal dolor d'altrui!</l>
+               </lg>
+               <lg>
+                  <l>Udite, giovinetti, i nostri ardori.</l>
+                  <l>Vedrete le miserie degli amanti:</l>
+                  <l>poi prendete arte, vita, opre migliori.</l>
+               </lg>
+               <lg>
+                  <l>Noi seguiamo e' lacrimosi canti,</l>
+                  <l>di doglie e d'ira carchi:</l>
+                  <l>seguiam cantando e' cominciati pianti.</l>
+               </lg>
+               <lg>
+                  <l>I' mi godea aver pensier mie scarchi</l>
+                  <l>da e' grievi imperi con che Amor ne fiacca,</l>
+                  <l>e gioco m'era tutti gli altrui incarchi.</l>
+               </lg>
+               <lg>
+                  <l>Gir come cerva assetata e stracca</l>
+                  <l>già vidi amante che languendo errava</l>
+                  <l>fra gli aspri lacci ch'ognor più l'atacca.</l>
+               </lg>
+               <lg>
+                  <l>Io fingea cagioni, i' l'arestava,</l>
+                  <l>i' mi godea di suo pene: io</l>
+                  <l>quel che in me soffro, in altrui beffava.</l>
+               </lg>
+               <lg>
+                  <l>Oimè! ch'or sono a mal mio grado pio,</l>
+                  <l>ed èmmi in noia ogni fronte austera,</l>
+                  <l>e chi meco non piange el dolor mio.</l>
+               </lg>
+               <lg>
+                  <l>Amor mi t'ha suggetto, o Mirzia altera,</l>
+                  <l>iniusta, crudel, ingrata. O stolto</l>
+                  <l>chi per donna servir merto mai spera!</l>
+               </lg>
+               <lg>
+                  <l>Che fia, Amor, di me, or che m'hai isvolto?</l>
+                  <l>Amore spïatato, trionfa, godi,</l>
+                  <l>s'or piango e' lacci ch'i' beffava isciolto.</l>
+               </lg>
+               <lg>
+                  <l>Potrò io che sgroppar mai questi nodi?</l>
+                  <l>Potrò io che fuggir mai chi mi sdegna?</l>
+                  <l>Ma vinci, Amor, che d'ingiuriar ti lodi;</l>
+               </lg>
+               <lg>
+                  <l>Vinci, feroce, vinci; mostra, insegna</l>
+                  <l>quanto abbian forza le tue fiamme e strali,</l>
+                  <l>poi che tuo furia in chi ama regna.</l>
+               </lg>
+               <lg>
+                  <l>Oh infelici, oh miseri mortali!</l>
+                  <l>Oh inferma ragion, o fragil vita,</l>
+                  <l>onde passar deggiam fra tanti mali!</l>
+               </lg>
+               <lg>
+                  <l>Se Marte spesso o Nettunno c'invita</l>
+                  <l>a seguitar la sua incerta fede,</l>
+                  <l>ov'è ragione e libertà ismarrita,</l>
+               </lg>
+               <lg>
+                  <l>e pur giova el soffrir ov'altri vede</l>
+                  <l>star certo premio, o fin di tanti affanni;</l>
+                  <l>ma Amor sa solo non aver merzede.</l>
+               </lg>
+               <lg>
+                  <l>Amor sa solo fabricar inganni,</l>
+                  <l>con mille ingegni allettar gli amanti,</l>
+                  <l>con mille iniurie rinovar lor danni.</l>
+               </lg>
+               <lg>
+                  <l>Seguiamo adunque e' lacrimosi canti,</l>
+                  <l>d'ira pieni e di doglia,</l>
+                  <l>seguiam cantando e' cominciati pianti.</l>
+               </lg>
+               <lg>
+                  <l>Stolto, non sapev'io che Amor ispoglia</l>
+                  <l>d'ogni viril difesa e intera pace</l>
+                  <l>chi non raffrena a lui seguir suo voglia.</l>
+               </lg>
+               <lg>
+                  <l>Aimè! questo sperar ch'ora mi sface,</l>
+                  <l>quel primo annumerar ogni tuo laude,</l>
+                  <l>state catene son troppo tenace.</l>
+               </lg>
+               <lg>
+                  <l>Que' vezzosi occhi onde Cupido applaude,</l>
+                  <l>onde suo' strali, face e reti intende,</l>
+                  <l>quel fronte tuo ove e' superbo gaude,</l>
+               </lg>
+               <lg>
+                  <l>qnella finta modestia che ostende</l>
+                  <l>essere ingegno in te talor piatoso,</l>
+                  <l>amar mi fe', ch'a pianger or m'incende.</l>
+               </lg>
+               <lg>
+                  <l>Chi si credesse mai che cuor sdegnoso,</l>
+                  <l>crucci o pensier sì ostinati e rei</l>
+                  <l>fusse in tal donna, o sì amor dannoso?</l>
+               </lg>
+               <lg>
+                  <l>Chi non sperasse merto da costei?</l>
+                  <l>Chi non rendesse premio al mio servire?</l>
+                  <l>Ah, bellezze insidiose agli occhi mei!</l>
+               </lg>
+               <lg>
+                  <l>Non ti move pietate el mio languire?</l>
+                  <l>Non ti penti straziar chi in te si fida?</l>
+                  <l>Non ve' tu che t'è biasmo il mio martire?</l>
+               </lg>
+               <lg>
+                  <l>Tu pur ti ridi di mie pianti e strida,</l>
+                  <l>e pur t'agrada pur seguir durezze,</l>
+                  <l>per più avampar l'ardor che in me s'annida.</l>
+               </lg>
+               <lg>
+                  <l>Non agroppar, non argentar tuo trezze,</l>
+                  <l>non purpura, auro, gemme, fronde o fiori,</l>
+                  <l>son laude o pregio alle tue bellezze,</l>
+               </lg>
+               <lg>
+                  <l>ma aver impero in chi te sola adori,</l>
+                  <l>saper usar la fede e diligenza</l>
+                  <l>di chi te sempre lodi e sempre onori</l>
+               </lg>
+               <lg>
+                  <l>t'è pregio, o Mirzia: e bella donna senza</l>
+                  <l>aver chi speri in sue bellezze amando,</l>
+                  <l>è indegna di biltade e riverenza.</l>
+               </lg>
+               <lg>
+                  <l>Mira le lacrime e i sospir ch'io spando;</l>
+                  <l>pensa alle fiamme, all'isciolto furore</l>
+                  <l>che ognor fra mie pensier corre ondeggiando.</l>
+               </lg>
+               <lg>
+                  <l>Ah dura, spïatata Mirzia, core</l>
+                  <l>di tigre, di giaccio! O inumana,</l>
+                  <l>s'a piatà non t'incende il nostro ardore!</l>
+               </lg>
+               <lg>
+                  <l>E tu, feroce Amor, così fà: sbrana</l>
+                  <l>mie nervi e forze; ardi, consuma meme;</l>
+                  <l>sazia qui in me tuo arte e man profana.</l>
+               </lg>
+               <lg>
+                  <l>Io posso in me provar fatiche estreme,</l>
+                  <l>ultimi casi, dolori e martiri,</l>
+                  <l>ove soffrendo mi mantenga speme.</l>
+               </lg>
+               <lg>
+                  <l>E vo' sperar, benché a ragion m'adiri,</l>
+                  <l>ché mai son sazii di sperar gli amanti,</l>
+                  <l>né Amor mai sazio di pianti e sospiri.</l>
+               </lg>
+               <lg>
+                  <l>Seguiamo ancora i lacrimosi canti,</l>
+                  <l>di doglie e d'ira incesi,</l>
+                  <l>seguiam cantando i dolorosi pianti.</l>
+               </lg>
+               <lg>
+                  <l>Saran costumi in te mai sì scortesi,</l>
+                  <l>che sempre isdegni chi in servir te una</l>
+                  <l>tiene e sue voglie e tutti i pensier tesi?</l>
+               </lg>
+               <lg>
+                  <l>Se 'l ciel in te ogni bellezze adduna,</l>
+                  <l>se donna soprastai d'ogni altra ornata,</l>
+                  <l>se a grandirti facil hai fortuna,</l>
+               </lg>
+               <lg>
+                  <l>quanto sera' tu, quanto più beata,</l>
+                  <l>se sapra' farti amar più che temere!</l>
+                  <l>Bellezza è men che cortesia lodata.</l>
+               </lg>
+               <lg>
+                  <l>Non sien ingrate mai né sian severe,</l>
+                  <l>àbbian pietà degli infelici amanti,</l>
+                  <l>chi spera laude di bellezze avere.</l>
+               </lg>
+               <lg>
+                  <l>Ricominciamo e' lacrimosi canti,</l>
+                  <l>pien di lamenti e stridi,</l>
+                  <l>seguiamo e' nostri dolorosi pianti.</l>
+               </lg>
+               <lg>
+                  <l>Ma, stolto, qual cagion vol ch'io mi sfidi</l>
+                  <l>d'Amore, di Mirzia, e di me stesso?</l>
+                  <l>Anzi, il mio servir vol ch'io mi fidi.</l>
+               </lg>
+               <lg>
+                  <l>Vidi salir servendo uom già dismesso,</l>
+                  <l>né mai fu bella di pietà mai priva;</l>
+                  <l>e un tardo amor gir lieto vidi, e spesso</l>
+               </lg>
+               <lg>
+                  <l>fronda appassata rivenir più viva,</l>
+                  <l>e un grieve tronco che lo isvelse il fiume,</l>
+                  <l>con l'onda che 'l rapì rigir a riva,</l>
+               </lg>
+               <lg>
+                  <l>e in vecchio augello giovinette piume;</l>
+                  <l>e fiamma ho vista sostener più venti,</l>
+                  <l>poi ravivarsi onde si spense el lume.</l>
+               </lg>
+               <lg>
+                  <l>Speriamo, adonque, fine a' mie tormenti.</l>
+                  <l>Serviam sperando, infelici amanti:</l>
+                  <l>miserie Amor soffrir c'insegna e stenti.</l>
+               </lg>
+               <lg>
+                  <l>Finiamo, adonque, omai e' nostri pianti,</l>
+                  <l>posiam la lira, il plettro, e' lamenti:</l>
+                  <l>diànci a più lieti e più soavi canti.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>9</label>
+                  <lb/>Agilitta</head>
+               <lg>
+                  <l>Agilitta, fanciulla molto ornata</l>
+                  <l>d'ogni costume e di gentile aspetto,</l>
+                  <l>da molti chiesta e da molti amata,</l>
+               </lg>
+               <lg>
+                  <l>solo uno amava, Archilago, e a dispetto</l>
+                  <l>avea in sé soffrir fiamme amorose,</l>
+                  <l>né so qual grave la premea sospetto.</l>
+               </lg>
+               <lg>
+                  <l>Dicea: “Felice ninfe che nascose</l>
+                  <l>fra lauri e mirti libere e solette</l>
+                  <l>vivete liete sempre e motteggiose.</l>
+               </lg>
+               <lg>
+                  <l>Costì non può Cupido e sue saette</l>
+                  <l>turbar vostro ozio. Beate, beate,</l>
+                  <l>se fra queste ombre Amor mai fiamma immette!</l>
+               </lg>
+               <lg>
+                  <l>Misere noi, sole sfortunate,</l>
+                  <l>che 'n mille modi Amor ci vince e prende!</l>
+                  <l>Convienci amar che ci sentiamo amate.</l>
+               </lg>
+               <lg>
+                  <l>Misere noi! E quanto male offende</l>
+                  <l>nostra quiete! Aimè, qual morte</l>
+                  <l>non sente el cor in cui amor s'incende!</l>
+               </lg>
+               <lg>
+                  <l>Sospetti e cure sono al petto accorte,</l>
+                  <l>triste memorie, ardente voglie e piene</l>
+                  <l>di troppi sdegni a ragravar sua sorte.</l>
+               </lg>
+               <lg>
+                  <l>Furtivo avampa quello ardor che tiene</l>
+                  <l>in noi perpetuo dolor e tristezza,</l>
+                  <l>onde palese pianger ne conviene.</l>
+               </lg>
+               <lg>
+                  <l>Nostri concetti in noi non han fermezza;</l>
+                  <l>nostre letizie brevi, rare e false;</l>
+                  <l>nostri diletti mai son senza asprezza.</l>
+               </lg>
+               <lg>
+                  <l>Troppo felice se mai alcun valse</l>
+                  <l>vincer sé stesso o ben reggersi amando!</l>
+                  <l>Costui su in cielo fra que' divi salse.</l>
+               </lg>
+               <lg>
+                  <l>Io meschina pur seguo aspreggiando</l>
+                  <l>me e chi m'ama, né so ch'io mi voglia:</l>
+                  <l>amo ed ho in odio, e me vivo onteggiando.</l>
+               </lg>
+               <lg>
+                  <l>I' resto mai di rinovar mie doglia:</l>
+                  <l>io dubïosa sempre stimo el peggio:</l>
+                  <l>io fuggo ciò che dal mio mal mi stoglia.</l>
+               </lg>
+               <lg>
+                  <l>Che furia è questa, se io stessa eleggio</l>
+                  <l>quel che né so né in me posso soffrire?</l>
+                  <l>Tutto conosco, e nel mio mal mi reggio.</l>
+               </lg>
+               <lg>
+                  <l>Aimè! aimè! E che giova garrire</l>
+                  <l>pur a me stessi, e pur qui tormentarmi?</l>
+                  <l>Breve rimedio può el mio mal finire:</l>
+               </lg>
+               <lg>
+                  <l>non dispettare a chi me ama, e darmi</l>
+                  <l>lieta e ioconda a quanto Amor m'accede,</l>
+                  <l>né fuggir cosa qual s'adatti aitarmi.</l>
+               </lg>
+               <lg>
+                  <l>Che poss'io altro che amore e fede?</l>
+                  <l>Stolta me, troppo stolta! E che poss'io</l>
+                  <l>cosa aspettar maggior qual mio duol chiede?</l>
+               </lg>
+               <lg>
+                  <l>Costui me pregia, e sono a lui suo idio:</l>
+                  <l>questo me serve troppo, e io, doh, il strazio.</l>
+                  <l>Mie colpa, adonque, piango l'error mio.</l>
+               </lg>
+               <lg>
+                  <l>Iniurio, e mai di vendicar mi sazio;</l>
+                  <l>duolmi se fugge mie stranezze e gare,</l>
+                  <l>ove a seguirmi do mai lieto spazio.</l>
+               </lg>
+               <lg>
+                  <l>Non vorrei sanza amor vita, ed amare</l>
+                  <l>quanto te amo, Archilago, mi duole:</l>
+                  <l>duolmi esser vinta e convenir certare.</l>
+               </lg>
+               <lg>
+                  <l>S'Archilago men ama or che non suole,</l>
+                  <l>e chi n'è altri ch'io cagion? Per tanto,</l>
+                  <l>stolta chi altri cerca ed ha ciò che vuole.</l>
+               </lg>
+               <lg>
+                  <l>S'i' fo che viva per me in doglie e pianto,</l>
+                  <l>che util me ne viene, o qual merto?</l>
+                  <l>Straziar chi me ama dà biasmoso vanto.</l>
+               </lg>
+               <lg>
+                  <l>Che dirai, Agilitta, adunque? Certo</l>
+                  <l>s'Archilogo ama me, i' son superba</l>
+                  <l>sdegnare quel ch'io bramo ed emmi offerto.</l>
+               </lg>
+               <lg>
+                  <l>Ma che non rest'io omai essere acerba,</l>
+                  <l>e sempre disputar contro a me stessi?</l>
+                  <l>Se m'ama, e' s'ami; se [mi] serve, e' si serva.</l>
+               </lg>
+               <lg>
+                  <l>E' piange, io piango anch'io. E s'io credessi</l>
+                  <l>durar più giorni in questi miei tormenti,</l>
+                  <l>non so qual morte io non mi eleggessi.</l>
+               </lg>
+               <lg>
+                  <l>Agilitta, che fai? Non ti ramenti</l>
+                  <l>quanto ogni cruccio tuo in te sola arda?</l>
+                  <l>Tu stessa al tuo dolor sempre acconsenti.</l>
+               </lg>
+               <lg>
+                  <l>E io mi n'abbia il danno, s'io fui tarda</l>
+                  <l>a ravedermi quale io sia suggetta</l>
+                  <l>a quanto ogni mio sforzo aresta e tarda.</l>
+               </lg>
+               <lg>
+                  <l>Sia quell'ora adunque maladetta</l>
+                  <l>ch'i' mai ti vidi, Archilago. Tu sei,</l>
+                  <l>tu, tu quel se' che la mia morte affretta.</l>
+               </lg>
+               <lg>
+                  <l>O sfortunata me! Misera oimei!</l>
+                  <l>A che son io, a che son io condutta,</l>
+                  <l>ch'i' nulla possa in me quanto vorrei?</l>
+               </lg>
+               <lg>
+                  <l>Vorrei d'amore amando essere isdutta;</l>
+                  <l>ma non so come in me ogni mia impresa</l>
+                  <l>sol poi dolermi e pentirmi vi frutta.</l>
+               </lg>
+               <lg>
+                  <l>S'io tengo a me me stessa d'ira incesa,</l>
+                  <l>non però posso, Archilago, odiarti;</l>
+                  <l>e duolmi ingiuriar chi non m'ha offesa.</l>
+               </lg>
+               <lg>
+                  <l>Ma come poss'io mai non molto amarti?</l>
+                  <l>Archilago, o tu sei un dio in terra;</l>
+                  <l>in te contende ogni laude ad ornarti.</l>
+               </lg>
+               <lg>
+                  <l>Anzi, ora è il tempo uscir di tanta guerra,</l>
+                  <l>e gioverammi adoperar mio sdegno,</l>
+                  <l>ora che cruccio Amor fra noi disserra.</l>
+               </lg>
+               <lg>
+                  <l>Ah quanto, stolta! aspettar duol m'ingegno,</l>
+                  <l>se io vinta arò poi a pentirmi</l>
+                  <l>di mie parole e di mie lieve ingegno.</l>
+               </lg>
+               <lg>
+                  <l>Un guardo, un riso dolce, un sol gradirmi</l>
+                  <l>che Archilago mi porga sì amoroso,</l>
+                  <l>può me d'ogni odio ad amar convertirmi.</l>
+               </lg>
+               <lg>
+                  <l>Io con mie ingiurie l'ho fatto sdegnoso,</l>
+                  <l>che già suo ingegno sempre fu quieto,</l>
+                  <l>facile, umano verso me e piatoso.</l>
+               </lg>
+               <lg>
+                  <l>E io che 'l provo troppo mansueto,</l>
+                  <l>sciocca mai resto, mai, d'ingiuriarlo;</l>
+                  <l>ogni sua grazia a me stessa vieto.</l>
+               </lg>
+               <lg>
+                  <l>Dovre' io sì, s'egli ama me, amarlo.</l>
+                  <l>Ma chi sa qui s'egli ama o e' mi fugge.</l>
+                  <l>Anzi, me trista, che non so odiarlo.</l>
+               </lg>
+               <lg>
+                  <l>Ma lascia pur, lasc'ir ch'amor lo strugge.</l>
+                  <l>Amor ti strugge, Archilogo; amore</l>
+                  <l>non men che me, ben veggo, ancor te strugge.</l>
+               </lg>
+               <lg>
+                  <l>E che a me s'egli arde? E 'l suo dolore</l>
+                  <l>liev'egli el mio? Sì, leva e m'è conforto</l>
+                  <l>s'altri con meco langue in questo ardore.</l>
+               </lg>
+               <lg>
+                  <l>Anzi me duol veder quant'io ho el torto</l>
+                  <l>con un mie sdegno tormentar lui e me.</l>
+                  <l>Così più fiamme al mio seno apporto.</l>
+               </lg>
+               <lg>
+                  <l>Poss'io far, hen, ch'io non mi sdegni? Che,</l>
+                  <l>contro d'Archilago? Sì, contro te, sì:</l>
+                  <l>e s'tu non ami me, debb'io amar te?</l>
+               </lg>
+               <lg>
+                  <l>Tutto vedo, tutto odo, ben ch'io stia qui</l>
+                  <l>sola, deserta. E che poss'io pensare</l>
+                  <l>di poi la notte ch'io te non vidi el dì?</l>
+               </lg>
+               <lg>
+                  <l>Ed anche i' ho chi me comincia a amare;</l>
+                  <l>sì, e più d'uno, e begli sì bene.</l>
+                  <l>Mai sì ch'io gli amo: e chi me 'l può vetare?</l>
+               </lg>
+               <lg>
+                  <l>Agilitta, Agilitta, e dove ène</l>
+                  <l>in te la fede e intera fermezza?</l>
+                  <l>Qual tu accusi in altri in te dov'ène?</l>
+               </lg>
+               <lg>
+                  <l>Tu dubiti di lui, ma egli ha certezza</l>
+                  <l>di te palese che tu se' incostante.</l>
+                  <l>Ed i' mi sia: io pur gli do tristezza.</l>
+               </lg>
+               <lg>
+                  <l>Né ancora sono le sue pene tante</l>
+                  <l>quante le mie, né quanto io gli augurio;</l>
+                  <l>e son le prece di chi ama sante.</l>
+               </lg>
+               <lg>
+                  <l>Ma stolta, non vegg'io quant'io iniurio</l>
+                  <l>chi m'ama e me. Resta, Agilitta, omai</l>
+                  <l>di più infuriar. Sì certo io infurio.</l>
+               </lg>
+               <lg>
+                  <l>Un solo me sospetto tiene in guai,</l>
+                  <l>ch'Archilogo mi pare a troppe grato.</l>
+                  <l>Ma venne amor sanza sospetto mai?</l>
+               </lg>
+               <lg>
+                  <l>Ma lui, ove se vede oltreggiato</l>
+                  <l>da me, e scorge ch'io mi profferisco</l>
+                  <l>a questo e a quello, vive adolorato.</l>
+               </lg>
+               <lg>
+                  <l>E io ingrata che di nuovo ordisco</l>
+                  <l>tutto il dì gare, poi troppo mi pento,</l>
+                  <l>e piango quanto a vendicarmi ardisco.</l>
+               </lg>
+               <lg>
+                  <l>Vivi, adunque, in pianto e lamento,</l>
+                  <l>infelice Agilitta,</l>
+                  <l>poi che tu cresci a te stessa tormento.</l>
+               </lg>
+               <lg>
+                  <l>Oimè, che sdegno ed amor mi gitta</l>
+                  <l>or su or giù fra mille onde d'errori,</l>
+                  <l>né scorgo ove sie mai mia voglia addritta.</l>
+               </lg>
+               <lg>
+                  <l>E tu, o Archilogo, de' miei dolori,</l>
+                  <l>ah, non ti vien pietate. I' pur t'amo,</l>
+                  <l>e per te sono in me questi mie' ardori.</l>
+               </lg>
+               <lg>
+                  <l>Noi imprudenti ambo e dui erramo,</l>
+                  <l>poi che da troppo amor sospetto nacque,</l>
+                  <l>che l'un troppo dell'altro ci sfidamo.</l>
+               </lg>
+               <lg>
+                  <l>Dovev'io stolta se in cosa mi spiacque</l>
+                  <l>Archilogo mio, subito avisarlo:</l>
+                  <l>che lui in pruova so sempre a me piacque.</l>
+               </lg>
+               <lg>
+                  <l>Né dovev'i', ben ch'egli errasse, aizzarlo</l>
+                  <l>con mie ingiurie e sdegno a vendicarsi,</l>
+                  <l>ma con dolcezza a molto amarmi attrarlo.</l>
+               </lg>
+               <lg>
+                  <l>Queste gare fra noi, questo adirarsi</l>
+                  <l>quanto e' ci nuoce, trista pur or sento,</l>
+                  <l>poi che indarno mie' sospiri ho sparsi.</l>
+               </lg>
+               <lg>
+                  <l>Finiamo, adunque, ogni cruccio e lamento,</l>
+                  <l>Agilitta, o' sol questo</l>
+                  <l>non declinarmi ad amar m'è tormento.</l>
+               </lg>
+               <lg>
+                  <l>Ama, Agilitta, e quanto ha sempre chiesto</l>
+                  <l>Archilogo, si sia</l>
+                  <l>fede e amor fra noi lieto e onesto,</l>
+               </lg>
+               <lg>
+                  <l>ché un dolce riso ogni tristezza oblia”.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>10</label>
+                  <lb/>Corimbus</head>
+               <p>BATTISTA.</p>
+               <lg>
+                  <l>Corimbo, giovinetto avernïese,</l>
+                  <l>bello, prudente, virtuoso e onesto,</l>
+                  <l>in cui eran d'amor le faci incese,</l>
+               </lg>
+               <lg>
+                  <l>di selva in selva giva solo, mesto,</l>
+                  <l>spegnendo con le lacrime la vampa,</l>
+                  <l>qual a se stessi lo rendeva infesto.</l>
+               </lg>
+               <lg>
+                  <l>Spesso, “Infelice”, diceva, “chi inciampa</l>
+                  <l>in questi lacci tuoi, crudel Cupido:</l>
+                  <l>felice sol chi da' tuoi strali campa.</l>
+               </lg>
+               <lg>
+                  <l>Che dir? ch'i' fuggo ov'io stessi mi guido,</l>
+                  <l>e duolmi troppo quel che più mi piace,</l>
+                  <l>e troppo temo ov'io troppo mi fido.</l>
+               </lg>
+               <lg>
+                  <l>Accendo co' sospiri in me le face,</l>
+                  <l>qual pure i' copro, e pur vorrei scoprire.</l>
+                  <l>Mio dolor entro prega, e di fuor tace”.</l>
+               </lg>
+               <p>CORIMBO.</p>
+               <lg>
+                  <l>Piango cantando: Oimè! debb'io morire?</l>
+                  <l>Misero me, misero me, i' moro,</l>
+                  <l>e io stessi mi acoro;</l>
+                  <l>i' fuggo ogni salute al mio languire!</l>
+               </lg>
+               <lg>
+                  <l>Misero chi si crede</l>
+                  <l>aminüir l'ardore,</l>
+                  <l>discoprendo la fede,</l>
+                  <l>ch'altrui li fa signore.</l>
+                  <l>Oimè! coperto amore</l>
+                  <l>con servire a sua posta e libertade;</l>
+                  <l>benché l'altrui pietade</l>
+                  <l>c'inviti a confidar nel ben servire.</l>
+               </lg>
+               <lg>
+                  <l>Aimè! ch'i' mi pensai</l>
+                  <l>rallentar mïa doglia,</l>
+                  <l>e parte mi fidai</l>
+                  <l>discoprir mïe voglia.</l>
+                  <l>Infelice chi spoglia</l>
+                  <l>l'arme che col soffrir molto l'aita!</l>
+                  <l>Meglio è finir sua vita,</l>
+                  <l>che dover senza merto altrui servire.</l>
+               </lg>
+               <lg>
+                  <l>Ripenso, duolmi, spasimo,</l>
+                  <l>e meco ne fo storia;</l>
+                  <l>lodo, spero, biasimo,</l>
+                  <l>e riduco a memoria</l>
+                  <l>che pure egli è vittoria</l>
+                  <l>poter perdendo adoperar sue armi.</l>
+                  <l>Io andai a legarmi,</l>
+                  <l>e né posso tacer né gliel so dire.</l>
+               </lg>
+               <lg>
+                  <l>Invidiosa fortuna,</l>
+                  <l>anzi i' fui stolto,</l>
+                  <l>non sapev'io che niuna,</l>
+                  <l>benché la serva molto,</l>
+                  <l>soffri mai sie sciolto</l>
+                  <l>da' lacci con che Amor ne inreta e tiene.</l>
+                  <l>Or pianger ne conviene,</l>
+                  <l>stolti che al fuoco entràn credendo uscire.</l>
+               </lg>
+               <lg>
+                  <l>A noi meschini amanti</l>
+                  <l>qual dura non si pieghi</l>
+                  <l>udendo nostri pianti,</l>
+                  <l>nostri sospiri e prieghi?</l>
+                  <l>Chi sarà che dinieghi</l>
+                  <l>che un fedele servir merti merzede?</l>
+                  <l>O Iddio, altrui pur vede</l>
+                  <l>che fede e onestà mi fa soffrire!</l>
+               </lg>
+               <p>BATTISTA.</p>
+               <lg>
+                  <l>Che fai, Corimbo? Stolto chi si crede</l>
+                  <l>pietà trovar più in altri che 'n se stessi!</l>
+                  <l>Prendi da Amore quanto ti concede.</l>
+               </lg>
+               <lg>
+                  <l>Stolto Corimbo, stolto se credessi</l>
+                  <l>con libertà poter viver suggetto.</l>
+                  <l>Potresti assai, se te stesso vincessi.</l>
+               </lg>
+               <lg>
+                  <l>Ma sempre suole amor chiuso nel petto</l>
+                  <l>più palesarsi quanto più l'ascondi.</l>
+                  <l>Non val contro li dii l'uman concetto.</l>
+               </lg>
+               <lg>
+                  <l>Che fai, Corimbo? Te stessi confondi.</l>
+                  <l>Ben scorge chi tu servi in un sospiro </l>
+                  <l>qua' sien de' pensier tuoi i più profondi.</l>
+               </lg>
+               <lg>
+                  <l>Se 'l ciel si porge a voi sdegnoso e diro,</l>
+                  <l>miseri amanti, vincete soffrendo.</l>
+                  <l>Matura il tempo ogni vostro disiro.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>11</label>
+                  <lb/>Tirsis</head>
+               <lg>
+                  <l>Tirsis e Floro giovinetti amanti,</l>
+                  <l>ricchi pastori, l'uno e l'altro bello,</l>
+                  <l>usi fra loro raccontar suoi canti,</l>
+               </lg>
+               <lg>
+                  <l>in fra quell'Alpe su cerca 'l Mugello</l>
+                  <l>givan cantando le lor tormiciole.</l>
+                  <l>Così dissero, gionti a un praticello:</l>
+               </lg>
+               <p>FLO.</p>
+               <lg>
+                  <l>O Tirsis, ben ti godi quinci al sole,</l>
+                  <l>tu ti trastrulli e strizzi con la Mea.</l>
+                  <l>Felice è chi amando non si duole.</l>
+               </lg>
+               <p>TIR.</p>
+               <lg>
+                  <l>Floro, non ha queste Alpi una più rea</l>
+                  <l>di lei. Sta qui doppo e vederai,</l>
+                  <l>la non mi digna più qual mi solea.</l>
+               </lg>
+               <p>FLO.</p>
+               <lg>
+                  <l>La Niera mia mi fugge, né fu mai</l>
+                  <l>più sventurato amante. Aimè! piangiamo</l>
+                  <l>E' mi giova saziarla di mie guai.</l>
+               </lg>
+               <p>TIR.</p>
+               <lg>
+                  <l>Floro, non far così, non far. Io amo,</l>
+                  <l>anche io amo, anzi ardo, i' moro,</l>
+                  <l>e pur sto lieto. Fa come io. Cantiamo.</l>
+               </lg>
+               <lg>
+                  <l>Mea mia dolce dai capei dell'oro,</l>
+                  <l>o saporita dal viso rosato,</l>
+                  <l>ch'ai quelli occhiazzi più bei che 'l mio toro</l>
+               </lg>
+               <lg>
+                  <l>né son sì liete in un fiorito prato</l>
+                  <l>le ape inzuccarate a uscir di schiera,</l>
+                  <l>quanto son io poi che m'hai guatato.</l>
+               </lg>
+               <p>FLO.</p>
+               <lg>
+                  <l>Or provi quel che è Amor, fanciulla altiera.</l>
+                  <l>Sì solevo sonar, cantar, ballare,</l>
+                  <l>e motteggiar ridendo volentiera.</l>
+               </lg>
+               <lg>
+                  <l>Come un giovenco mal uso ad arare</l>
+                  <l>superbo or si rimpreme, or fugge inanti,</l>
+                  <l>così la Niera. O che tormento è amare!</l>
+               </lg>
+               <p>TIR.</p>
+               <lg>
+                  <l>El bisogna per certo che tu canti,</l>
+                  <l>che prima staria el ciel senza le stelle</l>
+                  <l>che la donna non strazi gli suo amanti.</l>
+               </lg>
+               <lg>
+                  <l>Or su, diciàn delle fanciulle belle,</l>
+                  <l>qual sanno amare e d'ognun son lodate.</l>
+                  <l>Qui son duo can; lassa ir le pecorelle.</l>
+               </lg>
+               <p>FLO.</p>
+               <lg>
+                  <l>Non direi a te no. Diciàn. Cantate,</l>
+                  <l>silve, con nui, fiere ed umbre triste.</l>
+                  <l>Laude anzi fie più aver che Amor pietate.</l>
+               </lg>
+               <lg>
+                  <l>La Niera spesso mie lacrime ha viste.</l>
+                  <l>E quante volte sofferto hai ch'io mora,</l>
+                  <l>Niera crudele, con tue false viste!</l>
+               </lg>
+               <p>TIR.</p>
+               <lg>
+                  <l>Ninfe, cantate, e risonate ancora,</l>
+                  <l>aure, con nui, rivi, fronde, augelli.</l>
+                  <l>Audissi Amor chi lui cantando onora.</l>
+               </lg>
+               <lg>
+                  <l>La Mea con quei soi ditaggi belli</l>
+                  <l>di fiori scelti mi fa ghirlandette,</l>
+                  <l>poi me le asconde doppo gli arboscelli.</l>
+               </lg>
+               <p rend="start">FLO.</p>
+               <lg>
+                  <l>Se Amor è iusto e pio, com'el permette</l>
+                  <l>che chi servendo el prega ogni or più stenti?</l>
+                  <l>Son per me spinte sue face e saette.</l>
+               </lg>
+               <p rend="start">TIR.</p>
+               <lg>
+                  <l>Non senza pioggia e furiosi venti</l>
+                  <l>porge suo fior l'aliegra primavera,</l>
+                  <l>né Amor suo don senza pianti e tormenti.</l>
+               </lg>
+               <p rend="start">FLO.</p>
+               <lg>
+                  <l>Vidi io già unda ruinosa e fiera</l>
+                  <l>gir mormorando ed urteggiando sassi.</l>
+                  <l>Ancora è più superba la mia Niera.</l>
+               </lg>
+               <p>TIR.</p>
+               <lg>
+                  <l>Dura, ostinata è chi non amassi.</l>
+                  <l>Soglionsi cantar li augelletti amando;</l>
+                  <l>aman le fiere, gli orsi, lupi e tassi.</l>
+               </lg>
+               <p rend="start">FLO.</p>
+               <lg>
+                  <l>Duro, ostinato chi pur consumando</l>
+                  <l>siegue suo inzegno, pensier, passi e giorni,</l>
+                  <l>ogni or con meno speme disiando.</l>
+               </lg>
+               <p rend="start">TIR.</p>
+               <lg>
+                  <l>Và. Io aspetto che la Mea ritorni.</l>
+                  <l>Lieto io, lieta lei, quando mi vede.</l>
+                  <l>Amor ha in odio i tuo sguardi musorni.</l>
+               </lg>
+               <p rend="start">FLO.</p>
+               <lg>
+                  <l>Serà costei che sì tieco si siede,</l>
+                  <l>prima d'un occhio che d'un uom contenta?</l>
+                  <l>Tu corri e' lepri ed altri ai lazzi siede.</l>
+               </lg>
+               <p rend="start">TIR.</p>
+               <lg>
+                  <l>Arà il sole la sua luce spenta,</l>
+                  <l>quando la Niera ti cominci amare.</l>
+                  <l>Non è superb'a chi d'amor mai senta.</l>
+               </lg>
+               <p rend="start">FLO.</p>
+               <lg>
+                  <l>Seranno i pesci in cielo e stelle in mare,</l>
+                  <l>quando la Mea tua non ti deleggi,</l>
+                  <l>o dispiaccia alla Niera el mio cantare.</l>
+               </lg>
+               <p rend="start">TIR.</p>
+               <lg>
+                  <l>Chi ti amaria, te che sempre aspreggi?</l>
+                  <l>Schifano el gioco in aspro campo i buoi.</l>
+                  <l>Priegia Amor lieti e risi e motteggi.</l>
+               </lg>
+               <p rend="start">FLO.</p>
+               <lg>
+                  <l>Ove se', Niera? Ed or che più? Che vòi?</l>
+                  <l>Ma non iscusa te benché me incusi.</l>
+                  <l>La nostra asprezza vien dagli amor tuoi.</l>
+               </lg>
+               <lg>
+                  <l>O giovanetti in amar poco usi:</l>
+                  <l>Tu, Tirsis, che oggi vivi in gioco e festa,</l>
+                  <l>già lieti più di te qui vidi esclusi.</l>
+               </lg>
+               <p>TIR.</p>
+               <lg>
+                  <l>Né mai fu in donna fronte tanto mesta</l>
+                  <l>che di riso talor non si adornasse,</l>
+                  <l>né fu amata mai chi non amasse;</l>
+               </lg>
+               <lg>
+                  <l>ma tiensi troppo chi troppo è richiesta.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>12</head>
+               <lg>
+                  <l>Venite in danza, o gente amorosa,</l>
+                  <l>non tenete ascosa</l>
+                  <l>la dolce fiammetta</l>
+                  <l>che sì ben s'assetta</l>
+                  <l>in alma gentile.</l>
+                  <l>Né sia uom tanto vile</l>
+                  <l>che si gli accade amare</l>
+                  <l>stia a sognare</l>
+                  <l>e aspetti ben faremo,</l>
+                  <l>ché per venire allo stremo</l>
+                  <l>quale si stima o brama,</l>
+                  <l>convien che amor di dama</l>
+                  <l>acquisti per grande uso.</l>
+                  <l>Sai chi rimane escluso?</l>
+                  <l>el troppo savio e 'l troppo bello,</l>
+                  <l>il superbo, l'inerte e fello,</l>
+                  <l>e chi non sa soffrire.</l>
+                  <l>Però pigliate ardire,</l>
+                  <l>su, avanti, avanti,</l>
+                  <l>suoni, danze, canti</l>
+                  <l>e triunfi d'amore,</l>
+                  <l>e così tale onore,</l>
+                  <l>cenni, atti e risi,</l>
+                  <l>sguardi non molto fisi,</l>
+                  <l>ma con arte e lieti,</l>
+                  <l>parlar mozzi e quieti,</l>
+                  <l>o strani e intesi,</l>
+                  <l>gli occhi e gli orecchi tesi</l>
+                  <l>a usar mille pruove,</l>
+                  <l>palpeggiar dita e altrove</l>
+                  <l>coperto e bellamente.</l>
+                  <l>Così chi d'amor sente</l>
+                  <l>or usi leggiadria.</l>
+                  <l>E chi vorria</l>
+                  <l>d'amor esser privo</l>
+                  <l>in luogo sì giulivo</l>
+                  <l>e sì ornato?</l>
+                  <l>Quale snervato</l>
+                  <l>stesse a lellare</l>
+                  <l>e non disiasse amare</l>
+                  <l>a tutta briglia?</l>
+                  <l>Chi pur s'acciglia</l>
+                  <l>e d'ogni cosa ha spavento</l>
+                  <l>è come chi ha spento</l>
+                  <l>il lume a mezzo l'ombra.</l>
+                  <l>Chi pur s'ingombra</l>
+                  <l>di tanti io vorrei,</l>
+                  <l>io farei,</l>
+                  <l>ma pure,</l>
+                  <l>le sciagure,</l>
+                  <l>doh,</l>
+                  <l>io non so,</l>
+                  <l>è uno intronato,</l>
+                  <l>è uno trasognato,</l>
+                  <l>è uno pezzo di bue,</l>
+                  <l>e pàrli esser più di due</l>
+                  <l>ed è meno d'uno;</l>
+                  <l>non gli parlare a digiuno,</l>
+                  <l>che non ha mente.</l>
+                  <l>E chi d'amor non sente</l>
+                  <l>o nello amar è lento,</l>
+                  <l>è uno portento</l>
+                  <l>svelto fuor d'un tronco,</l>
+                  <l>ed è monco</l>
+                  <l>d'ogni destro ingegno,</l>
+                  <l>ed è sinestro legno</l>
+                  <l>a maneggiarlo,</l>
+                  <l>ed ha nel cuore un tarlo</l>
+                  <l>che 'l fa star austero</l>
+                  <l>e ch'ogni bel pensiero</l>
+                  <l>gli rode e sbarba</l>
+                  <l>tal che non gli garba</l>
+                  <l>gentilezza.</l>
+                  <l>Ma l'alma che s'avezza</l>
+                  <l>a seguir l'orme</l>
+                  <l>e le dolzi torme</l>
+                  <l>che amor guida,</l>
+                  <l>mai più si snida</l>
+                  <l>di tal cova,</l>
+                  <l>perché troppo li giova</l>
+                  <l>l'udire</l>
+                  <l>e 'l seguire</l>
+                  <l>amorose maniere,</l>
+                  <l>ed usar fra le schiere</l>
+                  <l>degli amanti,</l>
+                  <l>quali con risi e canti</l>
+                  <l>osservan fra loro</l>
+                  <l>un maraviglioso tesoro:</l>
+                  <l>non metalli cari né avolio</l>
+                  <l>non gemme né pitto spolio,</l>
+                  <l>né coniato auro,</l>
+                  <l>sai ched è? - un verde lauro</l>
+                  <l>a mezzo un fonte,</l>
+                  <l>dove sono sconte</l>
+                  <l>tutte l'offese ch'amor par ch'ammetta,</l>
+                  <l>ed ha in ogni vetta</l>
+                  <l>fronde vezzose e belle</l>
+                  <l>dove è il nome di quelle</l>
+                  <l>che han pietade,</l>
+                  <l>e che ornan suo biltade</l>
+                  <l>di cortesia.</l>
+                  <l>Ivi s'oblia</l>
+                  <l>ogni vil pensiere,</l>
+                  <l>ed è mestiere</l>
+                  <l>seguire voglie sublime,</l>
+                  <l>e non fare stime</l>
+                  <l>di quel che non dà laude.</l>
+                  <l>Ivi s'aplaude</l>
+                  <l>ed è onorato,</l>
+                  <l>non chi è fortunato</l>
+                  <l>e ricco erede,</l>
+                  <l>né chi possede</l>
+                  <l>accumulato avere,</l>
+                  <l>ma ben chi pò capere</l>
+                  <l>fra' pregiati ingegni</l>
+                  <l>e fra gli uomini degni</l>
+                  <l>d'esser amati,</l>
+                  <l>che non sono schifati,</l>
+                  <l>né han divieto</l>
+                  <l>dal santo ceto</l>
+                  <l>degl'immortali.</l>
+                  <l>Ivi si prendon ali</l>
+                  <l>a seguire ogni impresa,</l>
+                  <l>e hane suo voglia incesa</l>
+                  <l>a 'quistar lodo per merto.</l>
+                  <l>Hen, che un tal cuore erto</l>
+                  <l>superchia ogni gran cosa.</l>
+                  <l>Però, gente amorosa,</l>
+                  <l>pigliate ardire,</l>
+                  <l>su, seguire, seguire</l>
+                  <l>l'arte e l'officina</l>
+                  <l>con che amor affina</l>
+                  <l>ogni cor frale.</l>
+                  <l>Di grado in grado sale</l>
+                  <l>l'acquistar merzede,</l>
+                  <l>e non s'avede</l>
+                  <l>ch'ell'è giunta al sennone,</l>
+                  <l>dove è tenzone.</l>
+                  <l>E perché?</l>
+                  <l>Anzi, deh!</l>
+                  <l>Oh, lasciami stare!</l>
+                  <l>Ma non si vuole acquistare</l>
+                  <l>grado in donna altiera,</l>
+                  <l>o ch'è spiatata fiera</l>
+                  <l>a chi la trassina.</l>
+                  <l>Ella rompe e sfascina</l>
+                  <l>ogni amorosa impresa,</l>
+                  <l>e sta sempre tesa</l>
+                  <l>a vincer d'onte,</l>
+                  <l>colle sanne pronte,</l>
+                  <l>colle ciglia grottose,</l>
+                  <l>colle mani sdegnose.</l>
+                  <l>Uh! oh! ch'è questo?</l>
+                  <l>Lascialo star quel testo</l>
+                  <l>pien di bizzaria.</l>
+                  <l>Questa pur si dovria</l>
+                  <l>cacciarla a far lucignoli,</l>
+                  <l>e fra i diti mignoli</l>
+                  <l>mostrarli il dito grosso.</l>
+                  <l>L'una ha uno sopraosso</l>
+                  <l>in sul naso e gli occhi infiati;</l>
+                  <l>l'altra ha gli occhi schiacciati</l>
+                  <l>adentro un mezzo miglio;</l>
+                  <l>l'altra ti porge un piglio</l>
+                  <l>e par ch'ogni uom gli puta;</l>
+                  <l>quale è scrignuta,</l>
+                  <l>monca o sciancata,</l>
+                  <l>cispa e sdentata,</l>
+                  <l>o vizza e rognosa.</l>
+                  <l>Ho! ho! che dolce cosa</l>
+                  <l>por amor a tal gente,</l>
+                  <l>che tanto son contente</l>
+                  <l>quanto le strazian altrui.</l>
+                  <l>Visi di bui,</l>
+                  <l>capi bitorzuti,</l>
+                  <l>con vostri imbiuti,</l>
+                  <l>con vostre trampe e streghioni,</l>
+                  <l>con insaccar lomboni,</l>
+                  <l>col ceffin composto,</l>
+                  <l>collo andar iscosto,</l>
+                  <l>dite: chi ne vuole?</l>
+                  <l>e date altrui cazzuole</l>
+                  <l>coll'occhietto.</l>
+                  <l>Ma io me ne diletto,</l>
+                  <l>e compro il temporale</l>
+                  <l>per tanto quanto e' vale</l>
+                  <l>di merce a merce.</l>
+                  <l>Bufole chiazzate e lerce,</l>
+                  <l>trombe fesse e vane,</l>
+                  <l>gite a 'impastar pane</l>
+                  <l>per li spedali.</l>
+                  <l>E vo', dive immortali,</l>
+                  <l>che avete gentilezza,</l>
+                  <l>fuggite chi amor sprezza</l>
+                  <l>in bella etate,</l>
+                  <l>e voi stesse ornate</l>
+                  <l>d'un costume amoroso</l>
+                  <l>e d'un cuor piatoso</l>
+                  <l>che ogni bellezza avanza,</l>
+                  <l>e gite in danza</l>
+                  <l>come innamorata:</l>
+                  <l>chi vuol esser amata</l>
+                  <l>convien che ami.</l>
+                  <l>Vostri lacci e legami</l>
+                  <l>non sia pompa né superbia</l>
+                  <l>perch'ogni uom vi proverbia,</l>
+                  <l>ma sien risin vezzosi</l>
+                  <l>dove stieno nascosi</l>
+                  <l>dea Veste e Cupido;</l>
+                  <l>e gli occhi che son nido</l>
+                  <l>di spiritelli accesi,</l>
+                  <l>mai sian discortesi</l>
+                  <l>a chi v'adora.</l>
+                  <l>Quel che un bel viso onora</l>
+                  <l>non è il brasil né 'l velo,</l>
+                  <l>né iscolorire el pelo;</l>
+                  <l>anzi è amar chi v'ama</l>
+                  <l>e nell'amorosa trama</l>
+                  <l>un porger d'opra.</l>
+                  <l>E s'egli è chi vi scopra</l>
+                  <l>con cenni e con sospiri</l>
+                  <l>soffri per voi martiri</l>
+                  <l>e ardendo merzè preghi,</l>
+                  <l>ah non sie chi gli nieghi</l>
+                  <l>dargli talor conforto,</l>
+                  <l>perché faresti torto</l>
+                  <l>a vostra cosa.</l>
+                  <l>Chi in voi riposa</l>
+                  <l>ogni suo voglia e spene,</l>
+                  <l>merit' e' pene</l>
+                  <l>al ben servire?</l>
+                  <l>Aitatel', oimè, soffrire</l>
+                  <l>la pena amorosa.</l>
+                  <l>E soffre ogni cosa</l>
+                  <l>chi un bel viso mira,</l>
+                  <l>perché indi s'agira</l>
+                  <l>al cor non so che dolce</l>
+                  <l>che spesso lo soffolce</l>
+                  <l>a mezzo il cielo.</l>
+                  <l>Non teme caldo né gelo</l>
+                  <l>l'alma che si pasce</l>
+                  <l>di quello che nasce</l>
+                  <l>infra 'l pensare</l>
+                  <l>e 'l rassembrare</l>
+                  <l>le lodi d'un bel viso,</l>
+                  <l>che quanto el miri più fiso,</l>
+                  <l>tanto vie men ti sazi.</l>
+                  <l>Ivi son gemme e topazi</l>
+                  <l>che sprendon più che 'l sole.</l>
+                  <l>Rose, gigli, viole</l>
+                  <l>son belle in verde prato,</l>
+                  <l>ma un viso innamorato</l>
+                  <l>è via più bello.</l>
+                  <l>Io ho visto ausello</l>
+                  <l>fra' ramuscei fioriti</l>
+                  <l>con versi arditi</l>
+                  <l>lodare,</l>
+                  <l>magnificare</l>
+                  <l>ciascuna stella;</l>
+                  <l>ma leggiadra donna e bella</l>
+                  <l>merita più lode.</l>
+                  <l>Ed ho visto alle prode</l>
+                  <l>di curri triunfali</l>
+                  <l>titoli immortali</l>
+                  <l>e gloriosi;</l>
+                  <l>ma non son sì famosi</l>
+                  <l>quant'un bel viso merta.</l>
+                  <l>Ed ho visto inserta</l>
+                  <l>fra' sacrati ornamenti</l>
+                  <l>gemma ch'e' lumi ha spenti;</l>
+                  <l>ma un risin gentile</l>
+                  <l>con uno aere umile</l>
+                  <l>l'abatte,</l>
+                  <l>e stanno quatte, astratte,</l>
+                  <l>muse, ninfe e dei</l>
+                  <l>a vagheggiar colei</l>
+                  <l>che save amare.</l>
+                  <l>Deh non vi fate pregare</l>
+                  <l>adunque per vincer prova,</l>
+                  <l>di quel che poi vi giova</l>
+                  <l>s'altri vince.</l>
+                  <l>Sai chi è che pregio convince?</l>
+                  <l>Non chi mantien contesa,</l>
+                  <l>né chi tanto pesa</l>
+                  <l>ogni suo voglia</l>
+                  <l>che altri si stoglia</l>
+                  <l>dallo avezzato amore;</l>
+                  <l>ma ben v'è palma e onore</l>
+                  <l>a saziare,</l>
+                  <l>a superchiare</l>
+                  <l>di grazia altrui,</l>
+                  <l>anzi gire ambodui</l>
+                  <l>fra lo amoroso sciame</l>
+                  <l>ad un legame</l>
+                  <l>in un pari passo.</l>
+                  <l>Aimè lasso!</l>
+                  <l>che donna inamorata</l>
+                  <l>può esser beata,</l>
+                  <l>ma non me lo crede.</l>
+                  <l>Ben sai che la fede</l>
+                  <l>e l'essere sciolta</l>
+                  <l>non può essere svolta</l>
+                  <l>più che altri si voglia;</l>
+                  <l>el viver sanza doglia</l>
+                  <l>non ha pari,</l>
+                  <l>e son preciosi e cari</l>
+                  <l>i giorni lieti.</l>
+                  <l>Ma chi è che divieti</l>
+                  <l>alle donne amorose</l>
+                  <l>tor e dar ste cose</l>
+                  <l>a ogni sua posta?</l>
+                  <l>E forse che gli gosta</l>
+                  <l>il soggiogarsi a tanti,</l>
+                  <l>dargli allegrezza e pianti,</l>
+                  <l>altro ch'un volger d'occhi?</l>
+                  <l>Né par che mai si sbrocchi</l>
+                  <l>stral ch'è 'n cuor gentile;</l>
+                  <l>deh! né anche in cor vile</l>
+                  <l>indi si scarchi,</l>
+                  <l>e con sì vivi marchi</l>
+                  <l>al cuor s'impronta,</l>
+                  <l>che per sdegno né per onta</l>
+                  <l>mai si sforma.</l>
+                  <l>Però chi ha da far non dorma,</l>
+                  <l>e segua il suo viaggio,</l>
+                  <l>e chi non è saggio</l>
+                  <l>impari,</l>
+                  <l>e chi sta guari</l>
+                  <l>e del star si contenta,</l>
+                  <l>convien certo si penta</l>
+                  <l>tardi ma a suo costo.</l>
+                  <l>Però levate su tosto,</l>
+                  <l>donne innamorate,</l>
+                  <l>gite, onorate</l>
+                  <l>questa festa.</l>
+               </lg>
+               <lg>
+                  <l>S'egli è tra voi chi stia mesta</l>
+                  <l>perché il suo amante è altrove,</l>
+                  <l>dicami dove,</l>
+                  <l>e io lo manderò a chiamare.</l>
+                  <l>Io son disposto aitare,</l>
+                  <l>servire,</l>
+                  <l>gradire,</l>
+                  <l>magnificare qui e in ogni lato</l>
+                  <l>qualunque inamorato</l>
+                  <l>esser si voglia.</l>
+                  <l>Ma io temo che vi spoglia,</l>
+                  <l>come altre volte spesso,</l>
+                  <l>forse anche adesso</l>
+                  <l>d'un bel piacere,</l>
+                  <l>donne, il non sapere</l>
+                  <l>contentare voi stesse,</l>
+                  <l>e aver sommesse</l>
+                  <l>vostri pensieri e arte</l>
+                  <l>da ogni parte</l>
+                  <l>a trassinare,</l>
+                  <l>rivolgere e ripensare</l>
+                  <l>troppo ogni forse.</l>
+                  <l>Sapete quel che porse</l>
+                  <l>nella albana vittoria</l>
+                  <l>trionfo e gloria</l>
+                  <l>al già vinto Romano?</l>
+                  <l>Fu l'astuta mano</l>
+                  <l>del pronto Orazio,</l>
+                  <l>che in tempo al Curiazio</l>
+                  <l>persecutor si volse</l>
+                  <l>e insieme acolse</l>
+                  <l>voluntà, arme e stagione,</l>
+                  <l>e seppe collo sprone</l>
+                  <l>vendicarsi,</l>
+                  <l>e ornarsi</l>
+                  <l>nel triunfo lugubre</l>
+                  <l>di tre spoglie rubre</l>
+                  <l>in german sangue,</l>
+                  <l>onde Alba fu langue</l>
+                  <l>sotto leggi esterne,</l>
+                  <l>e a lui fur lode eterne,</l>
+                  <l>talché in ogni storia</l>
+                  <l>e in canuta memoria</l>
+                  <l>ancor son verde.</l>
+                  <l>Né può chi tempo perde</l>
+                  <l>o nol sa adoperare,</l>
+                  <l>mai più racquistare</l>
+                  <l>tesoro sì caro,</l>
+                  <l>perché gli è troppo avaro</l>
+                  <l>a' dolci spassi.</l>
+                  <l>E poi che 'l tempo en vassi,</l>
+                  <l>donne, e non torna mai,</l>
+                  <l>oimè! che doglie e guai,</l>
+                  <l>e quanto stracca,</l>
+                  <l>oimè! anzi fiacca</l>
+                  <l>el ricordarsi,</l>
+                  <l>l'incolparsi:</l>
+                  <l>i' dovea,</l>
+                  <l>i' potea,</l>
+                  <l>e gastigarsi dapoi,</l>
+                  <l>e gustar gli errori suoi,</l>
+                  <l>e darsi el torto,</l>
+                  <l>essere ardito e acorto</l>
+                  <l>ove non giova</l>
+                  <l>né forza né prova</l>
+                  <l>di saper, d'arte o d'inganno.</l>
+                  <l>Oimè, oimè, che affanno!</l>
+                  <l>oimè che doglia!</l>
+                  <l>Ove cresce voglia</l>
+                  <l>el sperar scema.</l>
+                  <l>Non abiate unque tema,</l>
+                  <l>donne, non vi sfidate.</l>
+                  <l>Che pur pensate,</l>
+                  <l>che vi tenete a bade,</l>
+                  <l>ora che 'l tempo accade</l>
+                  <l>a triunfar d'amore?</l>
+                  <l>A che tenere in cuore</l>
+                  <l>quel che vi strugge</l>
+                  <l>e che vi cuopre d'ugge</l>
+                  <l>e tolvi ardire,</l>
+                  <l>e potevi scoprire</l>
+                  <l>meco a fé sicura?</l>
+                  <l>Io so aver misura</l>
+                  <l>nel parlar,</l>
+                  <l>nell'andar</l>
+                  <l>e nello star muto,</l>
+                  <l>e insieme essere astuto,</l>
+                  <l>nescio e pronto;</l>
+                  <l>e voluntier m'affronto</l>
+                  <l>ove creda servire</l>
+                  <l>ciascuno, svilire</l>
+                  <l>ogni amor tardoso</l>
+                  <l>solo per far gioioso</l>
+                  <l>chi amor segue,</l>
+                  <l>e compor paci e tregue,</l>
+                  <l>aitar, guidar, coprire</l>
+                  <l>e scoprire</l>
+                  <l>sospiri e doglie</l>
+                  <l>e le dolci voglie</l>
+                  <l>di chi ama.</l>
+                  <l>E che? Onde surge fama</l>
+                  <l>più ardita</l>
+                  <l>e più nutrita</l>
+                  <l>di voci e lode,</l>
+                  <l>colle piume più sode</l>
+                  <l>e più cianciera,</l>
+                  <l>che della grata schiera</l>
+                  <l>de' cari</l>
+                  <l>e avari</l>
+                  <l>servigi e doni,</l>
+                  <l>che dovunche gli poni</l>
+                  <l>fruttan merti,</l>
+                  <l>né possono star coperti</l>
+                  <l>sotto l'ingrata mano</l>
+                  <l>che non perda un gran brano</l>
+                  <l>d'util grazie altronde?</l>
+                  <l>Anche, e donde</l>
+                  <l>si porge più grato</l>
+                  <l>e più accertato</l>
+                  <l>il bene servire,</l>
+                  <l>che quando e' fa uscire</l>
+                  <l>di sua opera e forza</l>
+                  <l>un piacer che caccia e amorza,</l>
+                  <l>isveglie e matura</l>
+                  <l>ogni acerba cura,</l>
+                  <l>ogni spavento,</l>
+                  <l>ogni pensier lento,</l>
+                  <l>ogni albagia?</l>
+                  <l>Anzi, vero, chi potria</l>
+                  <l>star che non servisse,</l>
+                  <l>non prefferisse</l>
+                  <l>soccorrer, satisfare</l>
+                  <l>alle voglie, allo spettare</l>
+                  <l>di chi amor sente,</l>
+                  <l>e cercasse far contente</l>
+                  <l>l'alme affannate</l>
+                  <l>ch'ogni ora mille fiate</l>
+                  <l>infra sospir son gite ratenute,</l>
+                  <l>sbigottite, sparute,</l>
+                  <l>smarrite, scambiate,</l>
+                  <l>riposate</l>
+                  <l>in altrui seno?</l>
+                  <l>E per Dio non è meno</l>
+                  <l>il piacer che contenta</l>
+                  <l>chi sua fiamma ralenta</l>
+                  <l>per lo servir d'altrui,</l>
+                  <l>che sia di colui</l>
+                  <l>che 'l dono suo ben assetta</l>
+                  <l>e più là non aspetta</l>
+                  <l>che insino che gli esca</l>
+                  <l>di sua mano e acresca</l>
+                  <l>util, grazia e piacere</l>
+                  <l>a chi lo sa volere</l>
+                  <l>cortese e presto.</l>
+                  <l>E non è meno foresto,</l>
+                  <l>meno incivile,</l>
+                  <l>men discortese e vile</l>
+                  <l>chi 'l don porger non vole,</l>
+                  <l>che chi 'l don pòrto non tole</l>
+                  <l>ov'è pregato.</l>
+                  <l>E di questo pur beato</l>
+                  <l>mi comandiate</l>
+                  <l>e adoperiate</l>
+                  <l>in ogni vostro volere:</l>
+                  <l>a me sarà piacere</l>
+                  <l>troppo il contentarvi,</l>
+                  <l>aiutarvi,</l>
+                  <l>andare, stare,</l>
+                  <l>portare e riportare</l>
+                  <l>parole, doni,</l>
+                  <l>che son gli sproni</l>
+                  <l>che l'alma impinge,</l>
+                  <l>insieme stringe</l>
+                  <l>all'amarsi</l>
+                  <l>col desto ricordarsi</l>
+                  <l>che pasce amore,</l>
+                  <l>e non gli par disonore</l>
+                  <l>essere suggetto.</l>
+                  <l>E non arò men diletto</l>
+                  <l>del servire, quanto del sapere,</l>
+                  <l>ridere, vedere,</l>
+                  <l>udire che atti e che maniera</l>
+                  <l>e quanto voluntiera</l>
+                  <l>ascoltasse,</l>
+                  <l>e di che adomandasse</l>
+                  <l>e costei di colui,</l>
+                  <l>e colei di costui,</l>
+                  <l>e prima e poi,</l>
+                  <l>e stesse in su' suoi,</l>
+                  <l>or sorridendo,</l>
+                  <l>or dolze premendo</l>
+                  <l>gli occhi e la voce,</l>
+                  <l>quale a chi pur cuoce</l>
+                  <l>ancora l'altrui foco,</l>
+                  <l>e come a poco a poco</l>
+                  <l>usciron da entro al core</l>
+                  <l>sospiri pien d'amore,</l>
+                  <l>queti queti e fucati,</l>
+                  <l>e come con gli occhi ornati</l>
+                  <l>d'un atto che scopriva</l>
+                  <l>quel che 'l cor pativa,</l>
+                  <l>s'atterroe,</l>
+                  <l>e ben mille fiate si scambioe</l>
+                  <l>il bel colore al viso,</l>
+                  <l>e mirando fiso</l>
+                  <l>si racolse pian piana</l>
+                  <l>e poi si volse strana,</l>
+                  <l>vaga e piatosa,</l>
+                  <l>e in modo vergognosa</l>
+                  <l>balenò fiamme ardente</l>
+                  <l>che furono accese e spente,</l>
+                  <l>abagliate</l>
+                  <l>e ralumate</l>
+                  <l>in un momento,</l>
+                  <l>con un tremolar di mento</l>
+                  <l>insieme e di labrucci,</l>
+                  <l>e con mille vezzosi crucci</l>
+                  <l>in fronte lieta,</l>
+                  <l>come or turba or queta</l>
+                  <l>le ciglia e 'l seno strinse</l>
+                  <l>con bella arte, e finse</l>
+                  <l>non sapere,</l>
+                  <l>non volere,</l>
+                  <l>non ricordarsi,</l>
+                  <l>e poi sdegnarsi</l>
+                  <l>con superchia onestade,</l>
+                  <l>fuggir e aver pietade,</l>
+                  <l>poi che si sente amare.</l>
+                  <l>E perché 'l saper pregare</l>
+                  <l>d'altrui l'accende,</l>
+                  <l>ove suo voglia pende</l>
+                  <l>in poco spazio</l>
+                  <l>e il soffrir suo che sazio</l>
+                  <l>di tarde speme</l>
+                  <l>e teme,</l>
+                  <l>e l'alma insieme carcata,</l>
+                  <l>impiuta, combattuta, atterrata</l>
+                  <l>infra sospiri accolti</l>
+                  <l>avesse e' pensier stolti</l>
+                  <l>non so dove.</l>
+                  <l>Mai sì, donne, questo mi move</l>
+                  <l>a profferire</l>
+                  <l>gradire, servire,</l>
+                  <l>lodare, atare,</l>
+                  <l>magnificare</l>
+                  <l>chi ama ardito,</l>
+                  <l>che già chi n'è servito</l>
+                  <l>ne gode,</l>
+                  <l>e acquistane lode</l>
+                  <l>chi con fè serve.</l>
+                  <l>E l'alma mia che ferve</l>
+                  <l>ogni ora più che non sole</l>
+                  <l>sotto un velato sole</l>
+                  <l>cor a me nascoso</l>
+                  <l>mai fa esser piatoso</l>
+                  <l>d'altrui pene.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>
+                  <label>13</label>
+                  <lb/>De amicitia</head>
+               <lg>
+                  <l>Dite, o mortali, che sì fulgente corona</l>
+                  <l>ponesti in mezzo, che pur mirando volete?</l>
+               </lg>
+               <lg>
+                  <l>Forse l'amicizia, qual col celeste Tonante</l>
+                  <l>tra li celicoli è con maiestate locata.</l>
+               </lg>
+               <lg>
+                  <l>Ma pur sollicita non raro scende l'Olimpo</l>
+                  <l>sol se sussidio darci, se comodo posse.</l>
+               </lg>
+               <lg>
+                  <l>Non vien nota mai, non vien composta temendo</l>
+                  <l>l'invida contra lei scelerata gente nimica.</l>
+               </lg>
+               <lg>
+                  <l>In tempo e luogo veggo che grato sarebbe</l>
+                  <l>a chi qui mira manifesto poterla vedere.</l>
+               </lg>
+               <lg>
+                  <l>S'oggi scendesse, qui dentro accolta vedreste</l>
+                  <l>sì la sua effigie e gesti, sì tutta la forma.</l>
+               </lg>
+               <lg>
+                  <l>Dunque voi che qui venerate su' alma corona,</l>
+                  <l>leggete i miei monimenti e presto saravvi</l>
+               </lg>
+               <lg>
+                  <l>l'inclita forma sua molto notissima, donde</l>
+                  <l>cauti amerete: poi così starete beati.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>14</head>
+               <lg>
+                  <l>Chi vol bella vittoria e star sicuro,</l>
+                  <l>e contra il morbo far un scudo forte,</l>
+                  <l>siegua di Amor la gloriosa corte,</l>
+                  <l>che confusion non teme o tempo oscuro.</l>
+               </lg>
+               <lg>
+                  <l>Amor dinanci al cuor è un marmo duro,</l>
+                  <l>contra cui non val veneno o morte.</l>
+                  <l>Amor da sé discazza ogni altra sorte:</l>
+                  <l>in l'alma dove e' sta fa l'aere puro.</l>
+               </lg>
+               <lg>
+                  <l>Amor è un foco dentro al gentil petto,</l>
+                  <l>che brusa e che consuma ogni altro umore;</l>
+                  <l>e morte fugge il suo real aspetto.</l>
+               </lg>
+               <lg>
+                  <l>Amor fa in uom mortai vivace il cuore,</l>
+                  <l>né può morir mentre ha per suo obietto</l>
+                  <l>Amor che sempre il pasce in vivo ardore.</l>
+               </lg>
+               <lg>
+                  <l>Però seguite Amore,</l>
+                  <l>o gentil spirti, e voi madonne oneste,</l>
+                  <l>ché Amor vi camparà da mortal peste.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>15</head>
+               <lg>
+                  <l>Per li pungenti spin, per gli aspri istecchi,</l>
+                  <l>per le turbe marin, per cruda guerra</l>
+                  <l>dove io mi varchi, un pensier mi sotterra</l>
+                  <l>e vuoi che innanzi tempo imbianchi e 'nvecchi.</l>
+               </lg>
+               <lg>
+                  <l>Tanto son fatti e' miei pensier parecchi,</l>
+                  <l>che sì e no nel capo mi s'aferra,</l>
+                  <l>quand' un si chiude e l'altro si riserra,</l>
+                  <l>onde di duol mestier sarà ch'io assecchi.</l>
+               </lg>
+               <lg>
+                  <l>Ma tu, padre sincer, che l'opre e 'l core</l>
+                  <l>cognosci di noi gente maladetta,</l>
+                  <l>che non provedi a tanto nostro errore?</l>
+               </lg>
+               <lg>
+                  <l>La tu' iustizia che tanto s'aspetta,</l>
+                  <l>ben dice Dante, ond'io prendo vigore:</l>
+                  <l>la spada di lassù non taglia in fretta.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>16</head>
+               <lg>
+                  <l>Io miro, Amor, la terra e i fiumi e l'onde,</l>
+                  <l>gli ucelli e i poggi, e' fior, le fronde e l'erbe,</l>
+                  <l>e' lauri, e' mirti, e i pin, gli abeti e i faggi,</l>
+                  <l>la nona ispera e l'altre u' son le stelle,</l>
+                  <l>l'infime sette che i pianeti alberga,</l>
+                  <l>e poi mi volgo alla leggiadra donna.</l>
+               </lg>
+               <lg>
+                  <l>Tutte son nulla fuor che questa donna,</l>
+                  <l>che eclissa el sole e fa intorbidar l'onde,</l>
+                  <l>e sol risplende el mondo ov'ella alberga,</l>
+                  <l>over dove col bel pie' priema l'erbe</l>
+                  <l>e fa sparir nel ciel tutte le stelle,</l>
+                  <l>sedendo a l'ombra de' ginepri e faggi.</l>
+               </lg>
+               <lg>
+                  <l>E io che seguo per selve e per faggi</l>
+                  <l>questa gentil, onesta e vaga donna,</l>
+                  <l>pria ch'io la giunga, salirà a le stelle</l>
+                  <l>mirando in giuso l'emisperio e l'onde,</l>
+                  <l>e 'l nostro mortal pondo e l'aride erbe,</l>
+                  <l>sorridendo del loco u' l'alma alberga.</l>
+               </lg>
+               <lg>
+                  <l>Quando varco là dove Amor alberga,</l>
+                  <l>che meglio mi sarebbe andar per faggi</l>
+                  <l>bevendo l'acqua e degustando l'erbe,</l>
+                  <l>parlando meco de la cara donna,</l>
+                  <l>mi mostra come a le cerulee onde</l>
+                  <l>si bagna questa al lume delle stelle.</l>
+               </lg>
+               <lg>
+                  <l>E quando penso alle lucenti stelle</l>
+                  <l>che fra le rose nel bel viso alberga,</l>
+                  <l>sospir esce del cor, de gli occhi onde</l>
+                  <l>da spegner foco e maculare e' faggi,</l>
+                  <l>né mi val contra questa altera donna</l>
+                  <l>consiglio alcuno, incanti, o sugo d'erbe.</l>
+               </lg>
+               <lg>
+                  <l>Ma 'nanzi che sien secche tutte l'erbe,</l>
+                  <l>e che le nube ascondan l'alte stelle,</l>
+                  <l>io proverò se 'n questa avara donna</l>
+                  <l>umiltate over pietate alberga,</l>
+                  <l>o s'ella sta come animal per faggi,</l>
+                  <l>cruda sprezzando el ciel, l'abisso e l'onde.</l>
+               </lg>
+               <lg>
+                  <l>Non han tanta virtù le stelle e l'onde,</l>
+                  <l>né l'erbe, e non son tanto duri e' faggi,</l>
+                  <l>quanto la donna che 'l mio core alberga.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>17</head>
+               <lg>
+                  <l>Quegli occhi ornati di mestizia e riso,</l>
+                  <l>quel fronte grave di costume e fede,</l>
+                  <l>quel ragionar prudente e pien d'amore,</l>
+                  <l>quella semplice astuzia in quel sospetto,</l>
+                  <l>quel servir ostinato, quello isdegno,</l>
+                  <l>que' vezzosi talora in pruova crucci,</l>
+               </lg>
+               <lg>
+                  <l>e quelle dolce pace doppo i crucci,</l>
+                  <l>e quelle lacrimette in fra quel viso,</l>
+                  <l>e subbito scordarsi ogni gran sdegno,</l>
+                  <l>e rannodar fra noi più intera fede</l>
+                  <l>scoprendo ed odiando ogni sospetto,</l>
+                  <l>poi darsi a gara a meditare amore,</l>
+               </lg>
+               <lg>
+                  <l>quei sguardi, quei suspiri, quello amore,</l>
+                  <l>quel presentarci or lieti, or pien di crucci,</l>
+                  <l>quel senza fine in noi vano sospetto,</l>
+                  <l>quei furtivi e cuperti cenni e riso,</l>
+                  <l>quel pregar tanto l'amorosa fede,</l>
+                  <l>quel arrossire e impalidir di sdegno,</l>
+               </lg>
+               <lg>
+                  <l>e quel pentirsi d'ogni stracco sdegno,</l>
+                  <l>arme furono e lacci con che amore</l>
+                  <l>mi prese e vinse servo a tanta fede.</l>
+                  <l>Piansi più anni i miei e gli altrui crucci,</l>
+                  <l>adorando quell'occhi e labbra e riso,</l>
+                  <l>onde, oimé, spesso in noi ardeo sospetto.</l>
+               </lg>
+               <lg>
+                  <l>Ma ove quivi in me grave sospetto,</l>
+                  <l>o pensier duro alcun premea mi' sdegno,</l>
+                  <l>un lieto salutare, un dolce riso</l>
+                  <l>finiva ogni tristezza, ed ora amore</l>
+                  <l>mille sospetti in me con sdegni e crucci</l>
+                  <l>in un momento aduna, e cresce fede.</l>
+               </lg>
+               <lg>
+                  <l>Quanto io più ardo, l'amorosa fede</l>
+                  <l>più sente, ma non cura ombre e suspetto,</l>
+                  <l>e son qui fiamme li passati crucci,</l>
+                  <l>l'eterno mio dolore e l'altrui sdegno,</l>
+                  <l>qual maggior fanno el mio tormento, e amore:</l>
+                  <l>aimè, poi quivi non prestarmi un riso.</l>
+               </lg>
+               <lg>
+                  <l>Lungi dagli occhi onde quel dolce riso</l>
+                  <l>in me nutriva fede in fra 'l suspetto</l>
+                  <l>piango mie sdegni e castigo i mie crucci.</l>
+               </lg>
+               <p rend="center">- FINE -</p>
+            </div>
+            <div type="div2" rend="P13">
+               <head>Questo e-book è stato realizzato anche grazie al sostegno di:</head>
+               <p>E-text</p>
+               <p>Web design, Editoria, Multimedia</p>
+               <p>(pubblica il tuo libro, o crea il tuo sito con E-text!)</p>
+               <p>
+                  <ptr target="http://www.e-text.it/"/>
+               </p>
+               <p>QUESTO E-BOOK:</p>
+               <p>TITOLO: Rime</p>
+               <p>AUTORE: Alberti, Leon Battista</p>
+               <p>TRADUTTORE: </p>
+               <p>CURATORE: <hi rend="bold">Grayson, Cecil</hi>
+               </p>
+               <p>NOTE: </p>
+               <p>CODICE ISBN E-BOOK: </p>
+               <p>DIRITTI D'AUTORE: no</p>
+               <p>LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: <ptr target="http://www.liberliber.it/online/opere/libri/licenze/"/>
+               </p>
+               <p>TRATTO DA: <hi rend="bold">Opere volgari / Leon Battista Alberti ; a cura di Cecil Grayson. - Bari : Gius. Laterza &amp; Figli. - v. ; 22 cm.</hi>
+               </p>
+               <p>
+                  <hi rend="bold">Vol. 2 : Rime e trattati morali / Leon Battista Alberti. - Bari : Gius. Laterza &amp; Figli, 1966. - 474 p. ; 22 cm. - (</hi>
+                  <hi rend="bold">Scrittori d'Italia </hi>
+                  <hi rend="bold">; 234).</hi>
+               </p>
+               <p>CODICE ISBN FONTE: informazione non disponibile</p>
+               <p>1a EDIZIONE ELETTRONICA DEL: 14 luglio 1998</p>
+               <p>2a EDIZIONE ELETTRONICA DEL: 9 febbraio 2014</p>
+               <p>INDICE DI AFFIDABILITA': 1</p>
+               <p> 0: affidabilità bassa</p>
+               <p> 1: affidabilità media</p>
+               <p> 2: affidabilità buona</p>
+               <p> 3: affidabilità ottima</p>
+               <p>DIGITALIZZAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>REVISIONE:</p>
+               <p>Claudio Paganelli, paganelli@mclink.it</p>
+               <p>IMPAGINAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>PUBBLICAZIONE:</p>
+               <p>Catia Righi, catia_righi@tin.it</p>
+               <p>Informazioni sul "progetto Manuzio"</p>
+               <p>Il "progetto Manuzio" è una iniziativa dell'associazione culturale Liber Liber. Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico. Ulteriori informazioni sono disponibili sul sito Internet:</p>
+               <p>
+                  <ptr target="http://www.liberliber.it/"/>
+               </p>
+               <p>Aiuta anche tu il "progetto Manuzio"</p>
+               <p>Se questo "libro elettronico" è stato di tuo gradimento, o se condividi le finalità del "progetto Manuzio", invia una donazione a Liber Liber. Il tuo sostegno ci aiuterà a far crescere ulteriormente la nostra biblioteca. Qui le istruzioni:</p>
+               <p rend="center">
+                  <ptr target="http://www.liberliber.it/online/aiuta/"/>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
