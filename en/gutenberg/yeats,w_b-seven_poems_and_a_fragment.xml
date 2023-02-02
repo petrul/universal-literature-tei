@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven Poems and a Fragment</title>
+            <author>Yeats, W. B. </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-08T08:07:53Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-11T17:56:46.494599304</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <author>Yeats, W. B.</author>
+         <head>Seven Poems and a Fragment</head>
+         <p rend="italic">2010-04-12</p>
+         <div type="div1">
+            <head>Seven Poems And A Fragment</head>
+            <subtitle>BY WILLIAM BUTLER YEATS.</subtitle>
+            <p rend="justify"> </p>
+            <p rend="center">
+               <figure>
+                  <binaryObject xml:id="d3e1845" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8l
+       JCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIo
+       Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAAR
+       CAFRAV4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+       AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+       FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+       h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+       5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+       AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+       NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+       hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+       5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0snHApKXqaMVwHQNBOM07nFN6fjSnPagB
+       RxR7UdBSd6AHZxR170d6Q+lACnpSUfzoFACjkUUYoHHUUwDPFGDjikZgqs7EIg5ZmOAB7msm
+       +8U6VZkDzvtLsCwW3G8fiw4FS5Jblxpzm7RVzWHWnYON2MKOp7VyUmt69qzFNMt1tYSeHUb5
+       CPZjwPypB4U1C+YnUtReVc8LLK0uP+Anj9az9pf4Vc6vqnLrUmo/i/wNqfxLo1vMYmv1aRTg
+       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
+       tNoooAB0pe5oopgHeiiigA70UUUAFIaKKAP/2Q==
+      </binaryObject>
+               </figure>
+            </p>
+            <p rend="center">THE CUALA PRESS<lb/>DUNDRUM<lb/>MCMXXII</p>
+            <div type="div2">
+               <head>TABLE OF CONTENTS/x/</head>
+               <p rend="justify"> </p>
+               <p rend="justify">PAGE</p>
+               <p rend="justify">All Souls’ Night</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page1">1</ref>
+               </p>
+               <p rend="justify">Suggested by a Picture of a Black Centaur</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page6">6</ref>
+               </p>
+               <p rend="justify">Thoughts upon the Present State of the World</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page7">7</ref>
+               </p>
+               <p rend="justify">The New Faces</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page14">14</ref>
+               </p>
+               <p rend="justify">A Prayer for My Son</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page14">14</ref>
+               </p>
+               <p rend="justify">Cuchulain the Girl and the Fool</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page16">16</ref>
+               </p>
+               <p rend="justify">The Wheel</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page18">18</ref>
+               </p>
+               <p rend="justify">A New End for ‘The King’s Threshold’</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page18">18</ref>
+               </p>
+               <p rend="justify">NOTES</p>
+               <p rend="justify">Note on ‘Thoughts Upon the Present State of the World’ Section Six</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page23">23</ref>
+               </p>
+               <p rend="justify">Note on The New End to ‘The King’s Threshold’</p>
+               <p rend="justify">
+                  <ref target="#538886287649856570_31959-h-0.htm.xhtml#page24">24</ref>
+               </p>
+               <p rend="justify"> </p>
+               <subtitle>SEVEN POEMS AND A FRAGMENT: BY WILLIAM BUTLER YEATS.</subtitle>
+            </div>
+            <div type="div2">
+               <head>All Souls’ Night</head>
+               <lg>
+                  <l>’Tis All Souls’ Night and the great Christ Church bell,</l>
+                  <l>And many a lesser bell, sound through the room,</l>
+                  <l>For it is now midnight;</l>
+                  <l>And two long glasses brimmed with muscatel</l>
+                  <l>Bubble upon the table. A ghost may come,</l>
+                  <l>For it is a ghost’s right,</l>
+                  <l>His element is so fine</l>
+                  <l>Being sharpened by his death,</l>
+                  <l>To drink from the wine-breath</l>
+                  <l>While our gross palates drink from the whole wine.</l>
+                  <l>I need some mind that, if the cannon sound</l>
+                  <l>From every quarter of the world, can stay</l>
+                  <l>Wound in mind’s pondering,</l>
+                  <l>As mummies in the mummy-cloth are wound;</l>
+                  <l>Because I have a marvellous thing to say,</l>
+                  <l>A certain marvellous thing</l>
+                  <l>None but the living mock,</l>
+                  <l>Though not for sober ear;</l>
+                  <l>It may be all that hear</l>
+                  <l>Should laugh and weep an hour upon the clock.</l>
+               </lg>
+               <lg>
+                  <l>H—’s the first I call. He loved strange thought</l>
+                  <l>And knew that sweet extremity of pride</l>
+                  <l>That’s called platonic love,</l>
+                  <l>And that to such a pitch of passion wrought</l>
+                  <l>Nothing could bring him, when his lady died,</l>
+                  <l>Anodyne for his love.</l>
+                  <l>Words were but wasted breath;</l>
+                  <l>One dear hope had he:</l>
+                  <l>The inclemency</l>
+                  <l>Of that or the next winter would be death.</l>
+                  <l>Two thoughts were so mixed up I could not tell</l>
+                  <l>Whether of her or God he thought the most,</l>
+                  <l>But think that his mind’s eye,</l>
+                  <l>When upward turned, on one sole image fell,</l>
+                  <l>And that a slight companionable ghost,</l>
+                  <l>Wild with divinity,</l>
+                  <l>Had so lit up the whole</l>
+                  <l>Immense miraculous house,</l>
+                  <l>The Bible promised us,</l>
+                  <l>It seemed a gold-fish swimming in a bowl.</l>
+                  <l/>
+                  <l>On Florence Emery I call the next,</l>
+                  <l>Who finding the first wrinkles on a face</l>
+                  <l>Admired and beautiful,</l>
+                  <l>And knowing that the future would be vexed</l>
+                  <l>With ’minished beauty, multiplied commonplace,</l>
+                  <l>Preferred to teach a school,</l>
+                  <l>Away from neighbour or friend</l>
+                  <l>Among dark skins, and there</l>
+                  <l>Permit foul years to wear</l>
+                  <l>Hidden from eyesight to the unnoticed end.</l>
+                  <l>Before that end much had she ravelled out</l>
+                  <l>From a discourse in figurative speech</l>
+                  <l>By some learned Indian</l>
+                  <l>On the soul’s journey. How it is whirled about,</l>
+                  <l>Wherever the orbit of the moon can reach,</l>
+                  <l>Until it plunged into the sun;</l>
+                  <l>And there free and yet fast,</l>
+                  <l>Being both Chance and Choice,</l>
+                  <l>Forget its broken toys</l>
+                  <l>And sink into its own delight at last.</l>
+                  <l/>
+                  <l>And I call up MacGregor from the grave,</l>
+                  <l>For in my first hard springtime we were friends,</l>
+                  <l>Although of late estranged.</l>
+                  <l>I thought him half a lunatic, half knave,</l>
+                  <l>And told him so, but friendship never ends;</l>
+                  <l>And what if mind seem changed,</l>
+                  <l>And it seem changed with the mind,</l>
+                  <l>When thoughts rise up unbid</l>
+                  <l>On generous things that he did</l>
+                  <l>And I grow half contented to be blind.</l>
+                  <l>He had much industry at setting out,</l>
+                  <l>Much boisterous courage, before loneliness</l>
+                  <l>Had driven him crazed;</l>
+                  <l>For meditations upon unknown thought</l>
+                  <l>Make human intercourse grow less and less;</l>
+                  <l>They are neither paid nor praised.</l>
+                  <l>But he’d object to the host,</l>
+                  <l>The glass because my glass;</l>
+                  <l>A ghost-lover he was</l>
+                  <l>And may have grown more arrogant being a ghost.</l>
+                  <l/>
+                  <l>But names are nothing. What matter who it be,</l>
+                  <l>So that his elements have grown so fine</l>
+                  <l>The fume of muscatel</l>
+                  <l>Can give his sharpened palate ecstasy</l>
+                  <l>No living man can drink from the whole wine.</l>
+                  <l>I have mummy truths to tell</l>
+                  <l>Whereat the living mock,</l>
+                  <l>Though not for sober ear,</l>
+                  <l>For maybe all that hear</l>
+                  <l>Should laugh and weep an hour upon the clock.</l>
+                  <l>Such thought—such thought have I that hold it tight</l>
+                  <l>Till meditation master all its parts,</l>
+                  <l>Nothing can stay my glance</l>
+                  <l>Until that glance run in the world’s despite</l>
+                  <l>To where the damned have howled away their hearts,</l>
+                  <l>And where the blessed dance;</l>
+                  <l>Such thought, that in it bound</l>
+                  <l>I need no other thing</l>
+                  <l>Wound in mind’s wandering,</l>
+                  <l>As mummies in the mummy-cloth are wound.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Suggested By A Picture Of A Black Centaur</head>
+               <lg>
+                  <l>Your hooves have stamped at the black margin of the wood,</l>
+                  <l>Even where the horrible green parrots call and swing.</l>
+                  <l>My works are all stamped down into the sultry mud.</l>
+                  <l>I knew that horse play, knew it for a murderous thing.</l>
+                  <l>What wholesome sun has ripened is wholesome food to eat</l>
+                  <l>And that alone, yet I being driven half insane</l>
+                  <l>Because of some green wing, gathered old mummy wheat</l>
+                  <l>In the mad abstract dark and ground it grain by grain</l>
+                  <l>And after baked it slowly in an oven; but now</l>
+                  <l>I bring full flavoured wine out of a barrel found</l>
+                  <l>Where seven Ephesian topers slept and never knew</l>
+                  <l>When Alexander’s empire past, they slept so sound.</l>
+                  <l>Stretch out your limbs and sleep a long Saturnian sleep;</l>
+                  <l>I have loved you better than my soul for all my words,</l>
+                  <l>And there is none so fit to keep a watch and keep</l>
+                  <l>Unwearied eyes upon those horrible green birds.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Thoughts Upon The Present State Of The World.</head>
+               <div type="div3">
+                  <div type="div4">
+                     <head>I</head>
+                     <lg>
+                        <l>Many ingenious lovely things are gone</l>
+                        <l>That seemed sheer miracle to the multitude;</l>
+                        <l>Above the murderous treachery of the moon</l>
+                        <l>Or all that wayward ebb and flow. There stood</l>
+                        <l>Amid the ornamental bronze and stone</l>
+                        <l>An ancient image made of olive wood;</l>
+                        <l>And gone are Phidias’ carven ivories</l>
+                        <l>And all his golden grasshoppers and bees.</l>
+                        <l>We too had many pretty toys when young;</l>
+                        <l>A law indifferent to blame or praise</l>
+                        <l>To bribe or threat; habits that made old wrong</l>
+                        <l>Melt down, as it were wax in the sun’s rays;</l>
+                        <l>Public opinion ripening for so long</l>
+                        <l>We thought it would outlive all future days.</l>
+                        <l>O what fine thought we had because we thought</l>
+                        <l>That the worst rogues and rascals had died out.</l>
+                     </lg>
+                     <lg>
+                        <l>All teeth were drawn, all ancient tricks unlearned,</l>
+                        <l>And a great army but a showy thing;</l>
+                        <l>What matter that no cannon had been turned</l>
+                        <l>Into a ploughshare; parliament and king</l>
+                        <l>Thought that unless a little powder burned</l>
+                        <l>The trumpeters might burst with trumpeting</l>
+                        <l>And yet it lack all glory; and perchance</l>
+                        <l>The guardsmen’s drowsy chargers would not prance.</l>
+                        <l>Now days are dragon-ridden, the nightmare</l>
+                        <l>Rides upon sleep: a drunken soldiery</l>
+                        <l>Can leave the mother, murdered at her door,</l>
+                        <l>To crawl in her own blood, and go scot-free;</l>
+                        <l>The night can sweat with terror as before</l>
+                        <l>We pieced our thoughts into philosophy,</l>
+                        <l>And planned to bring the world under a rule</l>
+                        <l>Who are but weasels fighting in a hole.</l>
+                        <l>He who can read the signs nor sink unmanned</l>
+                        <l>Into the half-deceit of some intoxicant</l>
+                        <l>From shallow wits, who knows no work can stand,</l>
+                        <l>Whether health, wealth or peace of mind were spent</l>
+                        <l>On master work of intellect or hand,</l>
+                        <l/>
+                        <l>No honour leave its mighty monument,</l>
+                        <l>Has but one comfort left: all triumph would</l>
+                        <l>But break upon his ghostly solitude.</l>
+                        <l>And other comfort were a bitter wound:</l>
+                        <l>To be in love and love what vanishes.</l>
+                        <l>Greeks were but lovers; all that country round</l>
+                        <l>None dared admit, if such a thought were his,</l>
+                        <l>Incendiary or bigot could be found</l>
+                        <l>To burn that stump on the Acropolis,</l>
+                        <l>Or break in bits the famous ivories</l>
+                        <l>Or traffic in the grasshoppers or bees?</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>II</head>
+                     <lg>
+                        <l>When Loie Fuller’s Chinese dancers enwound</l>
+                        <l>A shining web, a floating ribbon of cloth,</l>
+                        <l>It seemed that a dragon of air</l>
+                        <l>Had fallen among dancers, had whirled them round</l>
+                        <l>Or hurried them off on its own furious path;</l>
+                        <l>So the platonic year</l>
+                        <l>Whirls out new right and wrong</l>
+                        <l/>
+                        <l>Whirls in the old instead;</l>
+                        <l>All men are dancers and their tread</l>
+                        <l>Goes to the barbarous clangour of gong.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>III</head>
+                     <lg>
+                        <l>Some moralist or mythological poet</l>
+                        <l>Compares the solitary soul to a swan;</l>
+                        <l>I am content with that,</l>
+                        <l>Contented that a troubled mirror show it</l>
+                        <l>Before that brief gleam of its life be gone,</l>
+                        <l>An image of its state;</l>
+                        <l>The wings half spread for flight,</l>
+                        <l>The breast thrust out in pride</l>
+                        <l>Whether to play or to ride</l>
+                        <l>Those winds that clamour of approaching night.</l>
+                        <l>A man in his own secret meditation</l>
+                        <l>Is lost amid the labyrinth that he has made</l>
+                        <l>In art or politics;</l>
+                        <l>Some platonist affirms that in the station</l>
+                        <l>Where we should cast off body and trade</l>
+                        <l/>
+                        <l>The ancient habit sticks,</l>
+                        <l>And that if our works could</l>
+                        <l>But vanish with our breath</l>
+                        <l>That were a lucky death,</l>
+                        <l>For triumph can but mar our solitude.</l>
+                        <l>The swan has leaped into the desolate heaven:</l>
+                        <l>That image can bring wildness, bring a rage</l>
+                        <l>To end all things, to end</l>
+                        <l>What my laborious life imagined, even</l>
+                        <l>The half imagined, the half written page;</l>
+                        <l>O but we dreamed to mend</l>
+                        <l>Whatever mischief seemed</l>
+                        <l>To afflict mankind, but now</l>
+                        <l>That winds of winter blow</l>
+                        <l>Learn that we were crack-pated when we dreamed.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>IV</head>
+                     <lg>
+                        <l>We, who seven years ago</l>
+                        <l>Talked of honour and of truth,</l>
+                        <l>Shriek with pleasure if we show</l>
+                        <l>The weasel’s twist, the weasel’s tooth.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>V</head>
+                     <lg>
+                        <l>Come let us mock at the great</l>
+                        <l>That had such burdens on the mind</l>
+                        <l>And toiled so hard and late</l>
+                        <l>To leave some monument behind,</l>
+                        <l>Nor thought of the levelling wind.</l>
+                        <l>Come let us mock at the wise;</l>
+                        <l>With all those calendars whereon</l>
+                        <l>They fixed old aching eyes,</l>
+                        <l>They never saw how seasons run,</l>
+                        <l>And now but gape at the sun.</l>
+                        <l>Come let us mock at the good</l>
+                        <l>That fancied goodness might be gay,</l>
+                        <l>Grown tired of their solitude,</l>
+                        <l>Upon some brand-new happy day:</l>
+                        <l>Wind shrieked—and where are they?</l>
+                        <l>Mock mockers after that</l>
+                        <l>That would not lift a hand maybe</l>
+                        <l>To help good, wise or great</l>
+                        <l>To bar that foul storm out, for we</l>
+                        <l>Traffic in mockery.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>VI</head>
+                     <lg>
+                        <l>Violence upon the roads: violence of horses;</l>
+                        <l>Some few have handsome riders, are garlanded</l>
+                        <l>On delicate sensitive ear or tossing mane,</l>
+                        <l>But wearied running round and round in their courses</l>
+                        <l>All break and vanish, and evil gathers head:</l>
+                        <l>Herodias’ daughters have returned again</l>
+                        <l>A sudden blast of dusty wind and after</l>
+                        <l>Thunder of feet, tumult of images,</l>
+                        <l>Their purpose in the labyrinth of the wind;</l>
+                        <l>And should some crazy hand dare touch a daughter</l>
+                        <l>All turn with amorous cries, or angry cries,</l>
+                        <l>According to the wind, for all are blind.</l>
+                        <l>But now wind drops, dust settles; thereupon</l>
+                        <l>There lurches past, his great eyes without thought</l>
+                        <l>Under the shadow of stupid straw-pale locks,</l>
+                        <l>That insolent fiend Robert Artisson</l>
+                        <l>To whom the love-lorn Lady Kyteler brought</l>
+                        <l>Bronzed peacock feathers, red combs of her cocks.</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <div type="div2">
+               <head>The New Faces</head>
+               <lg>
+                  <l>If you, that have grown old were the first dead</l>
+                  <l>Neither Caltapa tree nor scented lime</l>
+                  <l>Should hear my living feet, nor would I tread</l>
+                  <l>Where we wrought that shall break the teeth of time.</l>
+                  <l>Let the new faces play what tricks they will</l>
+                  <l>In the old rooms; night can outbalance day,</l>
+                  <l>Our shadows rove the garden gravel still,</l>
+                  <l>The living seem more shadowy than they.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>A Prayer For My Son</head>
+               <table rend="frame" xml:id="Table10"> 
+                  <row>
+                     <cell>
+                        <p>Bid a strong ghost stand at the head<lb/>That my Michael may sleep sound,<lb/>Nor cry, nor turn in the bed<lb/>Till his morning meal come round;<lb/>And may departing twilight keep<lb/>All dread afar till morning’s back<lb/>That his mother may not lack<lb/>Her fill of sleep.</p> 
+                        <p>Bid the ghost have sword in hand:<lb/>There are malicious things, although<lb/>Few dream that they exist,<lb/>Who have planned his murder, for they know<lb/>Of some most haughty deed or thought<lb/>That waits upon his future days,<lb/>And would through hatred of the bays<lb/>Bring that to nought.<lb/>Though You can fashion everything<lb/>From nothing every day, and teach<lb/>The morning stars to sing,<lb/>You have lacked articulate speech<lb/>To tell Your simplest want, and known,<lb/>Wailing upon a woman’s knee,<lb/>All of that worst ignominy<lb/>Of flesh and bone;<lb/>And when through all the town there ran<lb/>The servants of Your enemy<lb/>A woman and a man,<lb/>Unless the Holy Writings lie,<lb/>Have borne You through the smooth and rough</p> 
+                        <p>And through the fertile and waste,<lb/>Protecting till the danger past<lb/>With human love.</p>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <div type="div2">
+               <head>Cuchulain The Girl And The Fool</head>
+               <lg>
+                  <l>THE GIRL.</l>
+                  <l>I am jealous of the looks men turn on you</l>
+                  <l>For all men love your worth; and I must rage</l>
+                  <l>At my own image in the looking-glass</l>
+                  <l>That’s so unlike myself that when you praise it</l>
+                  <l>It is as though you praise another, or even</l>
+                  <l>Mock me with praise of my mere opposite;</l>
+                  <l>And when I wake towards morn I dread myself</l>
+                  <l>For the heart cries that what deception wins</l>
+                  <l>My cruelty must keep; and so begone</l>
+                  <l>If you have seen that image and not my worth.</l>
+                  <l>CUCHULAIN.</l>
+                  <l>All men have praised my strength but not my worth.</l>
+                  <l>THE GIRL.</l>
+                  <l>If you are no more strength than I am beauty</l>
+                  <l>I will find out some cavern in the hills</l>
+                  <l>And live among the ancient holy men,</l>
+                  <l>For they at least have all men’s reverence</l>
+                  <l/>
+                  <l>And have no need of cruelty to keep</l>
+                  <l>What no deception won.</l>
+                  <l>CUCHULAIN.</l>
+                  <l>I have heard them say</l>
+                  <l>That men have reverence for their holiness</l>
+                  <l>And not their worth.</l>
+                  <l>THE GIRL.</l>
+                  <l>God loves us for our worth;</l>
+                  <l>But what care I that long for a man’s love.</l>
+                  <l>THE FOOL BY THE ROADSIDE.</l>
+                  <l>When my days that have</l>
+                  <l>From cradle run to grave</l>
+                  <l>From grave to cradle run instead;</l>
+                  <l>When thoughts that a fool</l>
+                  <l>Has wound upon a spool</l>
+                  <l>Are but loose thread, are but loose thread;</l>
+                  <l>When cradle and spool are past</l>
+                  <l>And I mere shade at last</l>
+                  <l>Coagulate of stuff</l>
+                  <l>Transparent like the wind,</l>
+                  <l>I think that I may find</l>
+                  <l>A faithful love, a faithful love.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>The Wheel</head>
+               <table rend="frame" xml:id="Table12"> 
+                  <row>
+                     <cell>
+                        <p rend="justify">Through winter-time we call on spring,</p> 
+                        <p rend="justify">And through the spring on summer call,</p> 
+                        <p rend="justify">And when abounding hedges sing</p> 
+                        <p rend="justify">Declare that winter’s best of all;</p> 
+                        <p rend="justify">And after that there’s nothing good</p> 
+                        <p rend="justify">Because the spring-time has not come—</p> 
+                        <p rend="justify">Nor know that what disturbs our blood</p> 
+                        <p rend="justify">Is but its longing for the tomb.</p>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <div type="div2">
+               <head>A New End For ‘The King’s Threshold’</head>
+               <table rend="frame" xml:id="Table13"> 
+                  <row>
+                     <cell>
+                        <p rend="justify">YOUNGEST PUPIL.</p> 
+                        <p rend="justify">Die Seanchan and proclaim the right of the poets.</p> 
+                        <p rend="justify">SEANCHAN.</p> 
+                        <p rend="justify">Come nearer me, that I may know how face</p> 
+                        <p rend="justify">Differs from face, and touch you with my hands.</p> 
+                        <p rend="justify">O more than kin, O more than children could be,</p> 
+                        <p rend="justify">For children are but born out of our blood</p> 
+                        <p rend="justify">And share our frailty. O my chicks, my chicks,</p> 
+                        <p rend="justify">That I have nourished underneath my wings</p> 
+                        <p rend="justify">And fed upon my soul. (He stands up and begins to walk</p>  
+                        <p rend="justify">down steps) I need no help.</p> 
+                        <p rend="justify">He needs no help that joy has lifted up</p> 
+                        <p rend="justify">Like some miraculous beast out of Ezekiel.</p> 
+                        <p rend="justify">The man that dies has the chief part in the story,</p> 
+                        <p rend="justify">And I will mock and mock and mock that image yonder</p> 
+                        <p rend="justify">That evil picture in the sky—no, no—</p> 
+                        <p rend="justify">I have all my strength again, I will outface it.</p> 
+                        <p rend="justify">O look upon the moon that’s standing there</p> 
+                        <p rend="justify">In the blue daylight—notice her complexion</p> 
+                        <p rend="justify">Because it is the white of leprosy</p> 
+                        <p rend="justify">And the contagion that afflicts mankind</p> 
+                        <p rend="justify">Falls from the moon. When I and these are dead</p> 
+                        <p rend="justify">We should be carried to some windy hill</p> 
+                        <p rend="justify">To lie there with uncovered face awhile</p> 
+                        <p rend="justify">That mankind and that leper there may know</p> 
+                        <p rend="justify">Dead faces laugh.</p> 
+                        <p rend="justify">(He falls and then half rises.)</p> 
+                        <p rend="justify">King, king, dead faces laugh.</p> 
+                        <p rend="justify">(He dies)</p> 
+                        <p rend="justify">OLDEST PUPIL.</p> 
+                        <p rend="justify">King, king, he is dead; some strange triumphant thought</p> 
+                        <p rend="justify">So filled his heart with joy that it has burst</p> 
+                        <p rend="justify">Being grown too mighty for our frailty,</p>  
+                        <p rend="justify">And we who gaze grow like him and abhor</p> 
+                        <p rend="justify">The moments that come between us and that death</p> 
+                        <p rend="justify">You promised us.</p> 
+                        <p rend="justify">KING.</p> 
+                        <p rend="justify">Take up his body.</p> 
+                        <p rend="justify">Go where you please and lay it where you please,</p> 
+                        <p rend="justify">So that I cannot see his face or any</p> 
+                        <p rend="justify">That cried him towards his death.</p> 
+                        <p rend="justify">YOUNGEST PUPIL.</p> 
+                        <p rend="justify">Dead faces laugh!</p> 
+                        <p rend="justify">The ancient right is gone, the new remains</p> 
+                        <p rend="justify">And that is death.</p> 
+                        <p rend="justify">(They go towards the king holding out their halters)</p> 
+                        <p rend="justify">We are impatient men,</p> 
+                        <p rend="justify">So gather up the halters in your hands.</p> 
+                        <p rend="justify">KING.</p> 
+                        <p rend="justify">Drive them away.</p> 
+                        <p rend="justify">(He goes into the palace. The soldiers block the way before</p> 
+                        <p rend="justify">the pupils.)</p> 
+                        <p rend="justify">SOLDIER.</p> 
+                        <p rend="justify">Here is no place for you,</p> 
+                        <p rend="justify">For he and his pretensions now are finished.</p> 
+                        <p rend="justify">Begone before the men at arms are bidden</p>  
+                        <p rend="justify">To hurl you from the door.</p> 
+                        <p rend="justify">OLDEST PUPIL.</p> 
+                        <p rend="justify">Take up his body</p> 
+                        <p rend="justify">And cry that driven from the populous door</p> 
+                        <p rend="justify">He seeks high waters and the mountain birds</p> 
+                        <p rend="justify">To claim a portion of their solitude.</p> 
+                        <p rend="justify">(They make a litter with cloak and staffs and lay Seanchan</p> 
+                        <p rend="justify">on it.)</p> 
+                        <p rend="justify">YOUNGEST PUPIL.</p> 
+                        <p rend="justify">And cry that when they took his ancient right</p> 
+                        <p rend="justify">They took all common sleep; therefore he claims</p> 
+                        <p rend="justify">The mountain for his mattress and his pillow.</p> 
+                        <p rend="justify">OLDEST PUPIL.</p> 
+                        <p rend="justify">And there he can sleep on, not noticing</p> 
+                        <p rend="justify">Although the world be changed from worse to worse,</p> 
+                        <p rend="justify">Amid the changeless clamour of the curlew.</p> 
+                        <p rend="justify">(They raise the litter on their shoulders and move a few steps)</p> 
+                        <p rend="justify">YOUNGEST PUPIL.</p> 
+                        <p rend="justify">(motioning to them to stop)</p> 
+                        <p rend="justify">Yet make triumphant music; sing aloud</p> 
+                        <p rend="justify">For coming times will bless what he has blessed</p> 
+                        <p rend="justify">And curse what he has cursed.</p>  
+                        <p rend="justify">OLDEST PUPIL.</p> 
+                        <p rend="justify">No, no, be still;</p> 
+                        <p rend="justify">Or pluck a solemn music from the strings.</p> 
+                        <p rend="justify">You wrong his greatness speaking so of triumph.</p> 
+                        <p rend="justify">YOUNGEST PUPIL.</p> 
+                        <p rend="justify">O silver trumpets, be you lifted up</p> 
+                        <p rend="justify">And cry to the great race that is to come.</p> 
+                        <p rend="justify">Long-throated swans upon the waves of time</p> 
+                        <p rend="justify">Sing loudly, for beyond the wall of the world</p> 
+                        <p rend="justify">That race may hear our music and awake.</p> 
+                        <p rend="justify">OLDEST PUPIL.</p> 
+                        <p rend="justify">(motioning the musicians to lower their trumpets)</p> 
+                        <p rend="justify">Not what it leaves behind it in the light</p> 
+                        <p rend="justify">But what it carries with it to the dark</p> 
+                        <p rend="justify">Exalts the soul; nor song nor trumpet-blast</p> 
+                        <p rend="justify">Can call up races from the worsening world</p> 
+                        <p rend="justify">To mend the wrong and mar the solitude</p> 
+                        <p rend="justify">Of the great shade we follow to the tomb.</p> 
+                        <p rend="justify">(Fedelm and the pupils go out carrying the litter. Some play</p> 
+                        <p rend="justify">a mournful music.)</p>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <div type="div2">
+               <head>Note On ‘Thoughts Upon The Present State Of The World’ Section Six.</head>
+               <p rend="justify">The country people see at times certain apparitions whom they name now ‘fallen angels’ now ‘ancient inhabitants of the country,’ and describe as riding at whiles ‘with flowers upon the heads of the horses.’ I have assumed in the sixth poem that these horsemen, now that the times worsen, give way to worse. My last symbol Robert Artisson was an evil spirit much run after in Kilkenny at the start of the fourteenth century. Are not those who travel in the whirling dust also in the Platonic Year?—W. B. Y.</p>
+            </div>
+            <div type="div2">
+               <head>Note On The New End To ‘The King’s Threshold’</head>
+               <p rend="justify">Upon the revival of this play at the Abbey Theatre a few weeks ago it was played with this new end. There were a few other changes. I had originally intended to end the play tragically and would have done so but for a friend who used to say ‘O do write comedy &amp; have a few happy moments in the Theatre.’ My unhappy moments were because a tragic effect is very fragile and a wrong intonation, or even a wrong light or costume will spoil it all. However the play remained always of the nature of tragedy and so subject to vicissitude.</p>
+               <p rend="justify">Here ends, ‘Seven Poems and a Fragment:’ by William Butler Yeats: with a decoration by T. Sturge Moore. Five hundred copies of this book have been printed and published by Elizabeth Corbet Yeats on paper made in Ireland, at the Cuala Press, Churchtown, Dundrum, in the County of Dublin, Ireland. Finished in the third week of April in the year nineteen hundred and twenty-two.</p>
+               <p rend="justify"> </p>
+               <p>*** END OF THIS PROJECT GUTENBERG EBOOK ***</p>
+               <p>Updated editions will replace the previous one—the old editions will be renamed.</p>
+               <p>Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</p>
+               <p>START: FULL LICENSE</p>
+            </div>
+            <div type="div2">
+               <head>The Full Project Gutenberg License</head>
+               <p>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</p>
+               <p>To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</p>
+               <p>Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</p>
+               <p>1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</p>
+               <p>1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</p>
+               <p>1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</p>
+               <p>1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</p>
+               <p>1.E. Unless you have removed all references to Project Gutenberg:</p>
+               <p>1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</p>
+               <p rend="justify">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</p>
+               <p>1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</p>
+               <p>1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</p>
+               <p>1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</p>
+               <p>1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.</p>
+               <p>1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</p>
+               <p>1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</p>
+               <p>1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</p>
+               <p>• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</p>
+               <p>• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</p>
+               <p>• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</p>
+               <p>• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</p>
+               <p>1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</p>
+               <p>1.F.</p>
+               <p>1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</p>
+               <p>1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</p>
+               <p>1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</p>
+               <p>1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</p>
+               <p>1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</p>
+               <p>1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</p>
+               <p>Section 2. Information about the Mission of Project Gutenberg™</p>
+               <p>Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</p>
+               <p>Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</p>
+               <p>Section 3. Information about the Project Gutenberg Literary Archive Foundation</p>
+               <p>The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</p>
+               <p>The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</p>
+               <p>Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</p>
+               <p>Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</p>
+               <p rend="justify">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit <ref target="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</ref>.</p>
+               <p>While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</p>
+               <p>International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</p>
+               <p>Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</p>
+               <p>Section 5. General Information About Project Gutenberg™ electronic works</p>
+               <p>Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</p>
+               <p>Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</p>
+               <p rend="justify">Most people start at our website which has the main PG search facility: <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>.</p>
+               <p>This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</p>
+               <subtitle>The Project Gutenberg eBook of Seven Poems and a Fragment, by W. B. Yeats</subtitle>
+               <p>This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <ref target="#538886287649856570_31959-h-1.htm.xhtml#project-gutenberg-license">Project Gutenberg License</ref>included with this ebook or online at <ptr target="https://www.gutenberg.org/license"/>. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</p>
+               <p>
+                  <hi rend="bold">Title</hi>: Seven Poems and a Fragment</p>
+               <p>
+                  <hi rend="bold">Author</hi>: W. B. Yeats</p>
+               <p>
+                  <hi rend="bold">Release Date</hi>: April 12, 2010 [EBook #31959]</p>
+               <p>
+                  <hi rend="bold">Language</hi>: English</p>
+               <p>
+                  <hi rend="bold">Credits</hi>: Produced by Marius Masi, Meredith Bach and the Online Distributed Proofreading Team at http://www.pgdp.net</p>
+               <p>*** START OF THIS PROJECT GUTENBERG EBOOK ***</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

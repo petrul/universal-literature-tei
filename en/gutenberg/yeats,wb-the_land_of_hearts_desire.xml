@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Land of Heart's Desire</title>
+            <author>Yeats, W. B. </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-08T08:10:07Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-19T02:36:21.394342548</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>The Land of Heart's Desire</head>
+         <author>Yeats, W. B.</author>
+         <p rend="italic">2004-02-01</p>
+         <p rend="justify">Produced by Marjorie Fulton</p>
+         <div type="div1" rend="P6">
+            <head>The Land Of Heart's Desire </head>
+            <subtitle>By W. B. Yeats</subtitle>
+            <p rend="center">1912</p>
+            <p rend="center">First Edition ………………………. 1894<lb/>Second Edition (in "Poems" by W. B. Yeats) 1895<lb/>Third Edition ,, ,, 1899<lb/>Fourth Edition ,, ,, 1901<lb/>Fifth Edition ,, ,, 1904<lb/>Sixth Edition ,, ,, 1908<lb/>Seventh Edition (revised) ……………. 1912<lb/>
+            </p>
+            <p rend="center">(All rights reserved.)</p>
+            <epigraph>                                    To<lb/>                               FLORENCE FARR<lb/>
+            </epigraph>
+            <subtitle>The Land Of Heart's Desire</subtitle>
+            <epigraph>            O Rose, thou art sick.<lb/>                     WILLIAM BLAKE<lb/>
+            </epigraph>
+            <p rend="center">MAURTEEN BRUIN BRIDGET BRUIN SHAWN BRUIN MARY BRUIN FATHER HART A FAERY CHILD</p>
+            <p rend="justify">The Scene is laid in the Barony of Kilmacowen, in the County of<lb/>Sligo, and at a remote time.<lb/>
+            </p>
+            <subtitle>THE LAND OF HEART'S DESIRE</subtitle>
+            <subtitle>SCENE.—A room with a hearth on the floor in the middle of a deep alcove to the Right. There are benches in the alcove and a table; and a crucifix on the wall. The alcove is full of a glow of light from the fire. There is an open door facing the audience to the Left, and to the left of this a bench. Through the door one can see the forest. It is night, but the moon or a late sunset glimmers through the trees and carries the eye far off into a vague, mysterious World.</subtitle>
+            <p rend="justify">MAURTEEN BRUIN, SHAWN BRUIN, and BRIDGET BRUIN sit in the alcove at the table or about the fire. They are dressed in the costume of some remote time, and near them sits an old priest, FATHER HART. He may be dressed as a friar. There is food and drink upon the table. MARY BRUIN stands by the door reading a book. If she looks up she can see through the door into the wood.</p>
+            <p rend="justify">BRIDGET. Because I bid her clean the pots for supper<lb/>She took that old book down out of the thatch;<lb/>She has been doubled over it ever since.<lb/>We should be deafened by her groans and moans<lb/>Had she to work as some do, Father Hart;<lb/>Get up at dawn like me and mend and scour;<lb/>Or ride abroad in the boisterous night like you,<lb/>The pyx and blessed bread under your arm.<lb/>
+            </p>
+            <p rend="justify">SHAWN. Mother, you are too cross.</p>
+            <p rend="justify">BRIDGET. You've married her,<lb/>And fear to vex her and so take her part.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN (to FATHER HART)<lb/>It is but right that youth should side with youth<lb/>She quarrels with my wife a bit at times,<lb/>And is too deep just now in the old book<lb/>But do not blame her greatly; she will grow<lb/>As quiet as a puff-ball in a tree<lb/>When but the moons of marriage dawn and die<lb/>For half a score of times.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. Their hearts are wild,<lb/>As be the hearts of birds, till children come.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. She would not mind the kettle, milk the cow,<lb/>Or even lay the knives and spread the cloth.<lb/>
+            </p>
+            <p rend="justify">SHAWN. Mother, if only—</p>
+            <p rend="justify">MAURTEEN. Shawn, this is half empty;<lb/>Go, bring up the best bottle that we have.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. I never saw her read a book before,<lb/>What can it be?<lb/>
+            </p>
+            <p rend="justify">MAURTEEN (to SHAWN)<lb/>What are you waiting for?<lb/>You must not shake it when you draw the cork<lb/>it's precious wine, so take your time about it.<lb/>
+            </p>
+            <p rend="justify">(SHAWN goes.)</p>
+            <p rend="justify">(To priest) There was a Spaniard wrecked at Ocris Head,<lb/>When I was young, and I have still some bottles.<lb/>He cannot bear to hear her blamed; the book<lb/>Has lain up in the thatch these fifty years;<lb/>My father told me my grandfather wrote it,<lb/>And killed a heifer for the binding of it—<lb/>But supper's spread, and we can talk and eat.<lb/>It was little good he got out of the book,<lb/>Because it filled his house with rambling fiddlers,<lb/>And rambling ballad-makers and the like.<lb/>The griddle-bread is there in front of you.<lb/>Colleen, what is the wonder in that book,<lb/>That you must leave the bread to cool? Had I<lb/>Or had my father read or written books<lb/>There was no stocking stuffed with yellow guineas<lb/>To come when I am dead to Shawn and you.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. You should not fill your head with foolish dreams.<lb/>What are you reading?<lb/>
+            </p>
+            <p rend="justify">MARY. How a Princess Edane,<lb/>A daughter of a King of Ireland, heard<lb/>A voice singing on a May Eve like this,<lb/>And followed half awake and half asleep,<lb/>Until she came into the Land of Faery,<lb/>Where nobody gets old and godly and grave,<lb/>Where nobody gets old and crafty and wise,<lb/>Where nobody gets old and bitter of tongue.<lb/>And she is still there, busied with a dance<lb/>Deep in the dewy shadow of a wood,<lb/>Or where stars walk upon a mountain-top.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Persuade the colleen to put down the book;<lb/>My grandfather would mutter just such things,<lb/>And he was no judge of a dog or a horse,<lb/>And any idle boy could blarney him;<lb/>just speak your mind.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. Put it away, my colleen;<lb/>God spreads the heavens above us like great wings<lb/>And gives a little round of deeds and days,<lb/>And then come the wrecked angels and set snares,<lb/>And bait them with light hopes and heavy dreams,<lb/>Until the heart is puffed with pride and goes<lb/>Half shuddering and half joyous from God's peace;<lb/>And it was some wrecked angel, blind with tears,<lb/>Who flattered Edane's heart with merry words.<lb/>My colleen, I have seen some other girls<lb/>Restless and ill at ease, but years went by<lb/>And they grew like their neighbours and were glad<lb/>In minding children, working at the churn,<lb/>And gossiping of weddings and of wakes;<lb/>For life moves out of a red flare of dreams<lb/>Into a common light of common hours,<lb/>Until old age bring the red flare again.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. That's true—but she's too young to know it's true.</p>
+            <p rend="justify">BRIDGET. She's old enough to know that it is wrong<lb/>To mope and idle.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. I've little blame for her;<lb/>She's dull when my big son is in the fields,<lb/>And that and maybe this good woman's tongue<lb/>Have driven her to hide among her dreams<lb/>Like children from the dark under the bed-clothes.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. She'd never do a turn if I were silent.</p>
+            <p rend="justify">MAURTEEN. And maybe it is natural upon May Eve<lb/>To dream of the good people. But tell me, girl,<lb/>If you've the branch of blessed quicken wood<lb/>That women hang upon the post of the door<lb/>That they may send good luck into the house?<lb/>Remember they may steal new-married brides<lb/>After the fall of twilight on May Eve,<lb/>Or what old women mutter at the fire<lb/>Is but a pack of lies.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. It may be truth<lb/>We do not know the limit of those powers<lb/>God has permitted to the evil spirits<lb/>For some mysterious end. You have done right.<lb/>
+            </p>
+            <p rend="justify">(to MARY);</p>
+            <p rend="justify">It's well to keep old innocent customs up.</p>
+            <p rend="justify">(MARY BRUIN has taken a bough of quicken wood from a seat and hung it on a nail in the doorpost. A girl child strangely dressed, perhaps in faery green, comes out of the wood and takes it away.)</p>
+            <p rend="justify">MARY. I had no sooner hung it on the nail<lb/>Before a child ran up out of the wind;<lb/>She has caught it in her hand and fondled it;<lb/>Her face is pale as water before dawn.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. Whose child can this be?</p>
+            <p rend="justify">MAURTEEN. No one's child at all.<lb/>She often dreams that some one has gone by,<lb/>When there was nothing but a puff of wind.<lb/>
+            </p>
+            <p rend="justify">MARY.<lb/>They have taken away the blessed quicken wood,<lb/>They will not bring good luck into the house;<lb/>Yet I am glad that I was courteous to them,<lb/>For are not they, likewise, children of God?<lb/>
+            </p>
+            <p rend="justify">FATHER HART. Colleen, they are the children of the fiend,<lb/>And they have power until the end of Time,<lb/>When God shall fight with them a great pitched battle<lb/>And hack them into pieces.<lb/>
+            </p>
+            <p rend="justify">MARY. He will smile,<lb/>Father, perhaps, and open His great door.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. Did but the lawless angels see that door<lb/>They would fall, slain by everlasting peace;<lb/>And when such angels knock upon our doors,<lb/>Who goes with them must drive through the same storm.<lb/>
+            </p>
+            <p rend="justify">(A thin old arm comes round the door-post and knocks and beckons. It is clearly seen in the silvery light. MARY BRUIN goes to door and stands in it for a moment. MAURTEEN BRUIN is busy filling FATHER HART's plate. BRIDGET BRUIN stirs the fire.)</p>
+            <p rend="justify">MARY (coming to table)<lb/>There's somebody out there that beckoned me<lb/>And raised her hand as though it held a cup,<lb/>And she was drinking from it, so it may be<lb/>That she is thirsty.<lb/>
+            </p>
+            <p rend="justify">(She takes milk from the table and carries it to the door.)</p>
+            <p rend="justify">FATHER HART. That will be the child<lb/>That you would have it was no child at all.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. And maybe, Father, what he said was true;<lb/>For there is not another night in the year<lb/>So wicked as to-night.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Nothing can harm us<lb/>While the good Father's underneath our roof.<lb/>
+            </p>
+            <p rend="justify">MARY. A little queer old woman dressed in green.</p>
+            <p rend="justify">BRIDGET. The good people beg for milk and fire<lb/>Upon May Eve—woe to the house that gives,<lb/>For they have power upon it for a year.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Hush, woman, hush!</p>
+            <p rend="justify">BRIDGET. She's given milk away.<lb/>I knew she would bring evil on the house.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Who was it?</p>
+            <p rend="justify">MARY. Both the tongue and face were strange.</p>
+            <p rend="justify">MAURTEEN. Some strangers came last week to Clover Hill;<lb/>She must be one of them.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. I am afraid.</p>
+            <p rend="justify">FATHER HART. The Cross will keep all evil from the house<lb/>While it hangs there.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Come, sit beside me, colleen,<lb/>And put away your dreams of discontent,<lb/>For I would have you light up my last days,<lb/>Like the good glow of the turf; and when I die<lb/>You'll be the wealthiest hereabout, for, colleen,<lb/>I have a stocking full of yellow guineas<lb/>Hidden away where nobody can find it.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. You are the fool of every pretty face,<lb/>And I must spare and pinch that my son's wife<lb/>May have all kinds of ribbons for her head.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Do not be cross; she is a right good girl!<lb/>The butter is by your elbow, Father Hart.<lb/>My colleen, have not Fate and Time and Change<lb/>Done well for me and for old Bridget there?<lb/>We have a hundred acres of good land,<lb/>And sit beside each other at the fire.<lb/>I have this reverend Father for my friend,<lb/>I look upon your face and my son's face—<lb/>We've put his plate by yours—and here he comes,<lb/>And brings with him the only thing we have lacked,<lb/>Abundance of good wine.<lb/>
+            </p>
+            <p rend="justify">(SHAWN comes in.)</p>
+            <p rend="justify">Stir Up the fire,<lb/>And put new turf upon it till it blaze;<lb/>To watch the turf-smoke coiling from the fire,<lb/>And feel content and wisdom in your heart,<lb/>This is the best of life; when we are young<lb/>We long to tread a way none trod before,<lb/>But find the excellent old way through love,<lb/>And through the care of children, to the hour<lb/>For bidding Fate and Time and Change goodbye.<lb/>
+            </p>
+            <p rend="justify">(MARY takes a sod of turf from the fire and goes out through the door. SHAWN follows her and meets her coming in.)</p>
+            <p rend="justify">SHAWN. What is it draws you to the chill o' the wood?<lb/>There is a light among the stems of the trees<lb/>That makes one shiver.<lb/>
+            </p>
+            <p rend="justify">MARY. A little queer old man<lb/>Made me a sign to show he wanted fire<lb/>To light his pipe.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. You've given milk and fire<lb/>Upon the unluckiest night of the year and brought,<lb/>For all you know, evil upon the house.<lb/>Before you married you were idle and fine<lb/>And went about with ribbons on your head;<lb/>And now—no, Father, I will speak my mind<lb/>She is not a fitting wife for any man—<lb/>
+            </p>
+            <p rend="justify">SHAWN. Be quiet, Mother!</p>
+            <p rend="justify">MAURTEEN. You are much too cross.</p>
+            <p rend="justify">MARY. What do I care if I have given this house,<lb/>Where I must hear all day a bitter tongue,<lb/>Into the power of faeries<lb/>
+            </p>
+            <p rend="justify">BRIDGET. You know well<lb/>How calling the good people by that name,<lb/>Or talking of them over much at all,<lb/>May bring all kinds of evil on the house.<lb/>
+            </p>
+            <p rend="justify">MARY. Come, faeries, take me out of this dull house!<lb/>Let me have all the freedom I have lost;<lb/>Work when I will and idle when I will!<lb/>Faeries, come take me out of this dull world,<lb/>For I would ride with you upon the wind,<lb/>Run on the top of the dishevelled tide,<lb/>And dance upon the mountains like a flame.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. You cannot know the meaning of your words.</p>
+            <p rend="justify">MARY. Father, I am right weary of four tongues:<lb/>A tongue that is too crafty and too wise,<lb/>A tongue that is too godly and too grave,<lb/>A tongue that is more bitter than the tide,<lb/>And a kind tongue too full of drowsy love,<lb/>Of drowsy love and my captivity.<lb/>
+            </p>
+            <p rend="justify">(SHAWN BRUIN leads her to a seat at the left of the door.)</p>
+            <p rend="justify">SHAWN. Do not blame me; I often lie awake<lb/>Thinking that all things trouble your bright head.<lb/>How beautiful it is—your broad pale forehead<lb/>Under a cloudy blossoming of hair!<lb/>Sit down beside me here—these are too old,<lb/>And have forgotten they were ever young.<lb/>
+            </p>
+            <p rend="justify">MARY. O, you are the great door-post of this house,<lb/>And I the branch of blessed quicken wood,<lb/>And if I could I'd hang upon the post,<lb/>Till I had brought good luck into the house.<lb/>
+            </p>
+            <p rend="justify">(She would put her arms about him, but looks shyly at the priest and lets her arms fall.)</p>
+            <p rend="justify">FATHER HART. My daughter, take his hand—by love alone<lb/>God binds us to Himself and to the hearth,<lb/>That shuts us from the waste beyond His peace<lb/>From maddening freedom and bewildering light.<lb/>
+            </p>
+            <p rend="justify">SHAWN. Would that the world were mine to give it you,<lb/>And not its quiet hearths alone, but even<lb/>All that bewilderment of light and freedom.<lb/>If you would have it.<lb/>
+            </p>
+            <p rend="justify">MARY. I would take the world<lb/>And break it into pieces in my hands<lb/>To see you smile watching it crumble away.<lb/>
+            </p>
+            <p rend="justify">SHAWN. Then I would mould a world of fire and dew<lb/>With no one bitter, grave or over wise,<lb/>
+            </p>
+            <p rend="justify">And nothing marred or old to do you wrong,<lb/>And crowd the enraptured quiet of the sky<lb/>With candles burning to your lonely face.<lb/>
+            </p>
+            <p rend="justify">MARY/ Your looks are all the candles that I need.</p>
+            <p rend="justify">SHAWN. Once a fly dancing in a beam of the sun,<lb/>Or the light wind blowing out of the dawn,<lb/>Could fill your heart with dreams none other knew,<lb/>But now the indissoluble sacrament<lb/>Has mixed your heart that was most proud and cold<lb/>With my warm heart for ever; the sun and moon<lb/>Must fade and heaven be rolled up like a scroll<lb/>But your white spirit still walk by my spirit.<lb/>
+            </p>
+            <p rend="justify">(A Voice singing in the wood.)</p>
+            <p rend="justify">MAURTEEN. There's some one singing. Why, it's but a child.<lb/>It sang, "The lonely of heart is withered away."<lb/>A strange song for a child, but she sings sweetly.<lb/>Listen, Listen!<lb/>
+            </p>
+            <p rend="justify">(Goes to door.)</p>
+            <p rend="justify">MARY. O, cling close to me,<lb/>Because I have said wicked things to-night.<lb/>
+            </p>
+            <p rend="justify">THE VOICE. The wind blows out of the gates of the day,<lb/>The wind blows over the lonely of heart,<lb/>And the lonely of heart is withered away.<lb/>While the faeries dance in a place apart,<lb/>Shaking their milk-white feet in a ring,<lb/>Tossing their milk-white arms in the air<lb/>For they hear the wind laugh and murmur and sing<lb/>Of a land where even the old are fair,<lb/>And even the wise are merry of tongue<lb/>But I heard a reed of Coolaney say,<lb/>When the wind has laughed and murmured and sung<lb/>The lonely of heart is withered away<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Being happy, I would have all others happy,<lb/>So I will bring her in out of the cold.<lb/>
+            </p>
+            <p rend="justify">(He brings in the faery child.)</p>
+            <p rend="justify">THE CHILD. I tire of winds and waters and pale lights.</p>
+            <p rend="justify">MAURTEEN. And that's no wonder, for when night has fallen<lb/>The wood's a cold and a bewildering place,<lb/>But you are welcome here.<lb/>
+            </p>
+            <p rend="justify"> THE CHILD. I am welcome here.<lb/>For when I tire of this warm little house<lb/>There is one here that must away, away.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. O, listen to her dreamy and strange talk.<lb/>Are you not cold?<lb/>THE CHILD. I will crouch down beside you,<lb/>For I have run a long, long way this night.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. You have a comely shape.</p>
+            <p rend="justify">MAURTEEN. Your hair is wet.</p>
+            <p rend="justify">BRIDGET. I'll warm your chilly feet.</p>
+            <p rend="justify">MAURTEEN. You have come indeed<lb/>A long, long way—for I have never seen<lb/>Your pretty face—and must be tired and hungry,<lb/>Here is some bread and wine.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. The wine is bitter.<lb/>Old mother, have you no sweet food for me?<lb/>
+            </p>
+            <p rend="justify">BRIDGET. I have some honey.</p>
+            <p rend="justify">(She goes into the next room.)</p>
+            <p rend="justify">MAURTEEN. You have coaxing ways,<lb/>The mother was quite cross before you came.<lb/>
+            </p>
+            <p rend="justify">(BRIDGET returns with the honey and fills<lb/>Porringer with milk.)<lb/>
+            </p>
+            <p rend="justify">BRIDGET. She is the child of gentle people; look<lb/>At her white hands and at her pretty dress.<lb/>I've brought you some new milk, but wait a while<lb/>And I will put it to the fire to warm,<lb/>For things well fitted for poor folk like us<lb/>Would never please a high-born child like you.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. From dawn, when you must blow the fire ablaze,<lb/>You work your fingers to the bone, old mother.<lb/>The young may lie in bed and dream and hope,<lb/>But you must work your fingers to the bone<lb/>Because your heart is old.<lb/>
+            </p>
+            <p rend="justify">BRIDGET. The young are idle.</p>
+            <p rend="justify">THE CHILD. Your memories have made you wise, old father;<lb/>The young must sigh through many a dream and hope,<lb/>But you are wise because your heart is old.<lb/>
+            </p>
+            <p rend="justify">(BRIDGET gives her more bread and honey.)</p>
+            <p rend="justify">MAURTEEN. O, who would think to find so young a girl<lb/>Loving old age and wisdom?<lb/>
+            </p>
+            <p rend="justify">THE CHILD. No more, mother.</p>
+            <p rend="justify">MAURTEEN. What a small bite! The milk is ready now.</p>
+            <p rend="justify">(Hands it to her.)</p>
+            <p rend="justify">What a small sip!</p>
+            <p rend="justify">THE CHILD. Put on my shoes, old mother.<lb/>Now I would like to dance now I have eaten,<lb/>The reeds are dancing by Coolaney lake,<lb/>And I would like to dance until the reeds<lb/>And the white waves have danced themselves asleep.<lb/>
+            </p>
+            <p rend="justify">(BRIDGET puts on the shoes, and the CHILD is about to dance, but suddenly sees the crucifix and shrieks and covers her eyes.)</p>
+            <p rend="justify">What is that ugly thing on the black cross?</p>
+            <p rend="justify">FATHER HART. You cannot know how naughty your words are!<lb/>That is our Blessed Lord.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. Hide it away,</p>
+            <p rend="justify">BRIDGET. I have begun to be afraid again.</p>
+            <p rend="justify">THE CHILD. Hide it away!</p>
+            <p rend="justify">MAURTEEN. That would be wickedness!</p>
+            <p rend="justify">BRIDGET. That would be sacrilege!</p>
+            <p rend="justify">THE CHILD. The tortured thing<lb/>Hide it away!<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Her parents are to blame.</p>
+            <p rend="justify">FATHER HART. That is the image of the Son of God.</p>
+            <p rend="justify">THE CHILD (caressing him) Hide it away, hide it away!</p>
+            <p rend="justify">MAURTEEN. No, no.</p>
+            <p rend="justify">FATHER HART. Because you are so young and like a bird,<lb/>That must take fright at every stir of the leaves,<lb/>I will go take it down.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. Hide it away!<lb/>And cover it out of sight and out of mind!<lb/>
+            </p>
+            <p rend="justify">(FATHER HART takes crucifix from wall and carries it towards inner room.)</p>
+            <p rend="justify">FATHER HART. Since you have come into this barony,<lb/>I will instruct you in our blessed faith<lb/>And being so keen witted you'll soon learn.<lb/>
+            </p>
+            <p rend="justify">(To the others.)</p>
+            <lg>
+               <l>We must be tender to all budding things,</l>
+               <l>Our Maker let no thought of Calvary</l>
+               <l>Trouble the morning stars in their first song.</l>
+            </lg>
+            <p rend="justify">(Puts crucifix in inner room.)</p>
+            <p rend="justify">THE CHILD. Here is level ground for dancing; I will dance.</p>
+            <p rend="justify">(Sings.)</p>
+            <p rend="justify">"The wind blows out of the gates of the day,<lb/>The wind blows over the lonely of heart,<lb/>And the lonely of heart is withered away."<lb/>
+            </p>
+            <p rend="justify">(She dances.)</p>
+            <p rend="justify">MARY (to SHAWN). just now when she came near I thought I heard<lb/>Other small steps beating upon the floor,<lb/>And a faint music blowing in the wind,<lb/>Invisible pipes giving her feet the tune.<lb/>
+            </p>
+            <p rend="justify">SHAWN. I heard no steps but hers.</p>
+            <p rend="justify">MARY. I hear them now,<lb/>The unholy powers are dancing in the house.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN. Come over here, and if you promise me<lb/>Not to talk wickedly of holy things<lb/>I will give you something.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. Bring it me, old father.</p>
+            <p rend="justify">MAURTEEN. Here are some ribbons that I bought in the town<lb/>For my son's wife—but she will let me give them<lb/>To tie up that wild hair the winds have tumbled.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. Come, tell me, do you love me?</p>
+            <p rend="justify">MAURTEEN. Yes, I love you.</p>
+            <p rend="justify">THE CHILD. Ah, but you love this fireside. Do you love me?</p>
+            <p rend="justify">FATHER HART. When the Almighty puts so great a share<lb/>Of His own ageless youth into a creature,<lb/>To look is but to love.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. But you love Him?</p>
+            <p rend="justify">BRIDGET. She is blaspheming.</p>
+            <p rend="justify">THE CHILD. And do you love me too</p>
+            <p rend="justify">MARY. I do not know.</p>
+            <p rend="justify">THE CHILD. You love that young man there,<lb/>Yet I could make you ride upon the winds,<lb/>Run on the top of the dishevelled tide,<lb/>And dance upon the mountains like a flame.<lb/>
+            </p>
+            <p rend="justify">MARY. Queen of Angels and kind saints defend us!<lb/>Some dreadful thing will happen. A while ago<lb/>She took away the blessed quicken wood.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. You fear because of her unmeasured prattle;<lb/>She knows no better. Child, how old are you?<lb/>
+            </p>
+            <p rend="justify">THE CHILD. When winter sleep is abroad my hair grows thin,<lb/>My feet unsteady. When the leaves awaken<lb/>My mother carries me in her golden arms;<lb/>I'll soon put on my womanhood and marry<lb/>The spirits of wood and water, but who can tell<lb/>When I was born for the first time? I think<lb/>I am much older than the eagle cock<lb/>That blinks and blinks on Ballygawley Hill,<lb/>And he is the oldest thing under the moon.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. O she is of the faery people.</p>
+            <p rend="justify">THE CHILD. One called,<lb/>I sent my messengers for milk and fire,<lb/>She called again and after that I came.<lb/>
+            </p>
+            <p rend="justify">(All except SHAWN and MARY BRUIN gather behind the priest for protection.)</p>
+            <p rend="justify">SHAWN (rising) Though you have made all these obedient,<lb/>You have not charmed my sight and won from me<lb/>A wish or gift to make you powerful;<lb/>I'll turn you from the house.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. No, I will face her.</p>
+            <p rend="justify">THE CHILD. Because you took away the crucifix<lb/>I am so mighty that there's none can pass,<lb/>Unless I will it, where my feet have danced<lb/>Or where I've whirled my finger-tops.<lb/>
+            </p>
+            <p rend="justify">(SHAWN tries to approach her and cannot.)</p>
+            <p rend="justify">MAURTEEN. Look, look!<lb/>There something stops him—look how he moves his hands<lb/>As though he rubbed them on a wall of glass!<lb/>
+            </p>
+            <p rend="justify">FATHER HART. I will confront this mighty spirit alone.<lb/>Be not afraid, the Father is with us,<lb/>The Holy Martyrs and the Innocents,<lb/>The adoring Magi in their coats of mail,<lb/>And He who died and rose on the third day<lb/>And all the nine angelic hierarchies.<lb/>
+            </p>
+            <p rend="justify">(The CHILD kneels upon the settle beside MARY and puts her arms about her.)</p>
+            <p rend="justify">Cry, daughter, to the Angels and the Saints.</p>
+            <p rend="justify">THE CHILD. You shall go with me, newly-married bride,</p>
+            <p rend="justify">And gaze upon a merrier multitude.<lb/>White-armed Nuala, Aengus of the Birds,<lb/>Feacra of the hurtling foam, and him<lb/>Who is the ruler of the Western Host,<lb/>Finvarra, and their Land of Heart's Desire,<lb/>Where beauty has no ebb, decay no flood,<lb/>But joy is wisdom, Time an endless song.<lb/>I kiss you and the world begins to fade.<lb/>
+            </p>
+            <p rend="justify">SHAWN. Awake out of that trance—and cover up<lb/>Your eyes and ears.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. She must both look and listen,<lb/>For only the soul's choice can save her now.<lb/>Come over to me, daughter; stand beside me;<lb/>Think of this house and of your duties in it.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. Stay and come with me, newly-married bride,<lb/>For if you hear him you grow like the rest;<lb/>Bear children, cook, and bend above the churn,<lb/>And wrangle over butter, fowl, and eggs,<lb/>Until at last, grown old and bitter of tongue,<lb/>You're crouching there and shivering at the grave.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. Daughter, I point you out the way to Heaven.</p>
+            <p rend="justify">THE CHILD. But I can lead you, newly-married bride,<lb/>Where nobody gets old and crafty and wise,<lb/>Where nobody gets old and godly and grave,<lb/>Where nobody gets old and bitter of tongue,<lb/>And where kind tongues bring no captivity;<lb/>For we are but obedient to the thoughts<lb/>That drift into the mind at a wink of the eye.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. . By the dear Name of the One crucified,<lb/>I bid you, Mary Bruin, come to me.<lb/>
+            </p>
+            <p rend="justify">THE CHILD. I keep you in the name of your own heart.</p>
+            <p rend="justify">FATHER HART. It is because I put away the crucifix<lb/>That I am nothing, and my power is nothing,<lb/>I'll bring it here again.<lb/>
+            </p>
+            <p rend="justify">MAURTEEN (clinging to him) No!</p>
+            <p rend="justify">BRIDGET. Do not leave us.</p>
+            <p rend="justify">FATHER HART. O, let me go before it is too late;<lb/>It is my sin alone that brought it all.<lb/>
+            </p>
+            <p rend="justify">(Singing outside.)</p>
+            <p rend="justify">THE CHILD. I hear them sing, "Come, newly-married bride,<lb/>Come, to the woods and waters and pale lights."<lb/>
+            </p>
+            <p rend="justify">MARY. I will go with you.</p>
+            <p rend="justify">FATHER HART. She is lost, alas!</p>
+            <p rend="justify">THE CHILD (standing by the door)<lb/>But clinging mortal hope must fall from you,<lb/>For we who ride the winds, run on the waves,<lb/>And dance upon the mountains are more light<lb/>Than dewdrops on the banner of the dawn.<lb/>
+            </p>
+            <p rend="justify">MARY. O, take me with you.</p>
+            <p rend="justify">SHAWN. Beloved, I will keep you.<lb/>I've more than words, I have these arms to hold you,<lb/>Nor all the faery host, do what they please,<lb/>Shall ever make me loosen you from these arms.<lb/>
+            </p>
+            <p rend="justify">MARY. Dear face! Dear voice!</p>
+            <p rend="justify">THE CHILD. Come, newly-married bride.</p>
+            <p rend="justify">MARY. I always loved her world—and yet—and yet—</p>
+            <p rend="justify">THE CHILD. White bird, white bird, come with me, little bird.</p>
+            <p rend="justify">MARY. She calls me!</p>
+            <p rend="justify">THE CHILD. Come with me, little bird.</p>
+            <p rend="justify">(Distant dancing figures appear in the wood.)</p>
+            <p rend="justify">MARY. I can hear songs and dancing.</p>
+            <p rend="justify">SHAWN. Stay with me.</p>
+            <p rend="justify">MARY. I think that I would stay—and yet—and yet—</p>
+            <p rend="justify">THE CHILD. Come, little bird, with crest of gold.'</p>
+            <p rend="justify">MARY (very soft,) And yet—</p>
+            <p rend="justify">THE CHILD. Come, little bird with silver feet!</p>
+            <p rend="justify">(MARY BRUIN dies, and the CHILD goes.)</p>
+            <p rend="justify">SHAWN. She is dead!</p>
+            <p rend="justify">BRIDGET. Come from that image; body and soul are gone<lb/>You have thrown your arms about a drift of leaves,<lb/>Or bole of an ash-tree changed into her image.<lb/>
+            </p>
+            <p rend="justify">FATHER HART. Thus do the spirits of evil snatch their prey,<lb/>Almost out of the very hand of God;<lb/>And day by day their power is more and more,<lb/>And men and women leave old paths, for pride<lb/>Comes knocking with thin knuckles on the heart.<lb/>
+            </p>
+            <p rend="justify">(Outside there are dancing figures, and it may be a white bird, and many voices singing.)</p>
+            <p rend="justify">"The wind blows out of the gates of the day,<lb/>The wind blows over the lonely of heart,<lb/>And the lonely of heart is withered away;<lb/>While the faeries dance in a place apart,<lb/>Shaking their milk-white feet in a ring,<lb/>Tossing their milk-white arms in the air;<lb/>For they hear the wind laugh and murmur and sing<lb/>Of a land where even the old are fair,<lb/>And even the wise are merry of tongue;<lb/>But I heard a reed of Coolaney say—<lb/>When the wind has laughed and murmured and sung,<lb/>The lonely of heart is withered away."'<lb/>
+            </p>
+            <div type="div2">
+               <head>Note</head>
+               <p rend="justify">This little play was produced at the Avenue Theatre in the spring of 1894, with the following cast:</p>
+               <lg>
+                  <l>    Maurteen Bruin, Mr. James Welch;</l>
+                  <l>    Shawn Bruin, Mr. A. E. W. Mason;</l>
+                  <l>    Father Hart, Mr. G. R. Foss;</l>
+                  <l>    Bridget Bruin, Miss Charlotte Morland;</l>
+                  <l>    Maire Bruin, Miss Winifred Fraser:</l>
+                  <l>    A Faery Child, Miss Dorothy Paget.</l>
+               </lg>
+               <p rend="justify">It ran for a little over six weeks. It was revived in America in 1901, when it was taken on tour by Mrs. Lemoyne. It has been played two or three times professionally since then in America and a great many times in England and America by amateurs. Till lately it was not part of the repertory of the Abbey Theatre, for I had grown to dislike it without knowing what I disliked in it. This winter, however, I have made many revisions and now it plays well enough to give me pleasure. It is printed in this book in the new form, which was acted for the first time on February 22, 1912, at the Abbey Theatre, Dublin. At the Abbey Theatre, where the platform of the stage comes out in front of the curtain, the curtain falls before the priest's last words. He remains outside the curtain and the words are spoken to the audience like an epilogue.</p>
+               <p rend="justify">W. B. YEATS.<lb/>ABBEY THEATRE, DUBLIN.<lb/>March, 1912.<lb/>
+               </p>
+               <p rend="justify">End of Project Gutenberg's The Land Of Heart's Desire, by William Butler Yeats</p>
+               <p>*** END OF THE PROJECT GUTENBERG EBOOK THE LAND OF HEART'S DESIRE ***</p>
+               <p>Updated editions will replace the previous one—the old editions will be renamed.</p>
+               <p>Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</p>
+               <p>START: FULL LICENSE</p>
+            </div>
+            <div type="div2" rend="P7">
+               <head>The Full Project Gutenberg License</head>
+               <subtitle>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</subtitle>
+               <p>To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</p>
+               <p>Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</p>
+               <p>1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</p>
+               <p>1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</p>
+               <p>1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</p>
+               <p>1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</p>
+               <p>1.E. Unless you have removed all references to Project Gutenberg:</p>
+               <p>1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</p>
+               <p rend="justify">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</p>
+               <p>1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</p>
+               <p>1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</p>
+               <p>1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</p>
+               <p>1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.</p>
+               <p>1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</p>
+               <p>1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</p>
+               <p>1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</p>
+               <p>• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</p>
+               <p>• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</p>
+               <p>• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</p>
+               <p>• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</p>
+               <p>1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</p>
+               <p>1.F.</p>
+               <p>1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</p>
+               <p>1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</p>
+               <p>1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</p>
+               <p>1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</p>
+               <p>1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</p>
+               <p>1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</p>
+               <p>Section 2. Information about the Mission of Project Gutenberg™</p>
+               <p>Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</p>
+               <p>Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</p>
+               <p>Section 3. Information about the Project Gutenberg Literary Archive Foundation</p>
+               <p>The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</p>
+               <p>The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</p>
+               <p>Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</p>
+               <p>Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</p>
+               <p rend="justify">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit <ref target="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</ref>.</p>
+               <p>While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</p>
+               <p>International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</p>
+               <p>Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</p>
+               <p>Section 5. General Information About Project Gutenberg™ electronic works</p>
+               <p>Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</p>
+               <p>Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</p>
+               <p rend="justify">Most people start at our website which has the main PG search facility: <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>.</p>
+               <p>This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</p>
+               <subtitle>The Project Gutenberg eBook of The Land of Heart's Desire, by W. B. Yeats</subtitle>
+               <p>This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</p>
+               <p>
+                  <hi rend="bold">Title</hi>: The Land of Heart's Desire</p>
+               <p>
+                  <hi rend="bold">Author</hi>: W. B. Yeats</p>
+               <p>
+                  <hi rend="bold">Release Date</hi>: February 1, 2004 [EBook #5168]</p>
+               <p>
+                  <hi rend="bold">Language</hi>: English</p>
+               <p>*** START OF THE PROJECT GUTENBERG EBOOK THE LAND OF HEART'S DESIRE ***</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

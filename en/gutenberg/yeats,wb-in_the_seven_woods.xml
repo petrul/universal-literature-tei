@@ -1,0 +1,3441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In The Seven Woods: Being Poems Chiefly of the Irish Heroic Age</title>
+            <author>Yeats, W. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-08T08:07:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-10T17:01:38.778795301</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>In The Seven Woods: Being Poems Chiefly of the Irish Heroic Age</head>
+         <author>Yeats, W. B.</author>
+         <p rend="center">2009-12-11</p>
+         <div type="div1">
+            <head>In The Seven Woods</head>
+            <p rend="justify"> </p>
+            <p rend="center">BY THE SAME WRITER<lb/>
+               <figure>
+                  <binaryObject xml:id="d3e1887" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsICAoIBwsKCQoNDAsNERwSEQ8PESIZGhQcKSQr
+       KigkJyctMkA3LTA9MCcnOEw5PUNFSElIKzZPVU5GVEBHSEX/2wBDAQwNDREPESESEiFFLicu
+       RUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUX/wAAR
+       CAAvADIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+       AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+       FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+       h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+       5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+       AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+       NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+       hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+       5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1yuVn8bWg8VxeH7K1nvLrcBO8eNkA7kk9
+       cA5P5deK3tTuZLPTLq5ghaeWGF5EiXOZGCkhRj1IxXzVpniXVNI1WbUrK5KXU4YSOw379xyc
+       7s5555oA+oaK8R0T4xapbXEUesxQ3dtu/eSImyUAnqMfKcDtgZ9a9U1fxTpejaVFqNxPvgnA
+       MAiG5psjI2DvwaALmq6paaNp8l/qM3lWsON77S2MkAcAE9SKmsr231G0jurOZZoJBlJEOQRX
+       m+q6zr3j3SbnSLHwxcWtvcOn+mXcuxVVZAc4KjJ+XkKSRz1ruPDGip4e8PWemxtvMKfO/wDe
+       cnLEe2Sce2KANiiiigBCAwIYAg8EHvXhHiv4W6loxu77TzDcadGXl279rwxjJ53cHA44JJ9K
+       94r5y+IHiKbXPE94PPka0t5DFBEylQoXgnb6k5OTz06dAAcuHYRlQflJBPHcf/rrq9P8fX2n
+       2cI+zxzXVnb/AGewuZCW+yqSd5CnILEbVzxgKBjBIPIVoaZpN7rN01vp1ubidUaQopGdo64z
+       1+nWgDvfDXxd1OC8SHXvLu7aRwGnChHhBIy2FGGAGTjGfevaVdZEDqwKEZDA8EV8n3FvNazv
+       BcxPDNGcPHIpVlPoQelejeFvDnibxbp9nZ6pdXVt4dt+Ah+QyrwQAMZYdMM2QOcdMUAe20VB
+       DAlvDHDGGCRqEUbm4AGBRQByep+OovD3ieew12B7axdUa0u0Qsrjb8+7GTw3HA+vY14d4ju7
+       e+8R6ndWj74J7qWRGOfmUsSDyARnPSvpTVtGsNbsja6nax3EJ5AcYKn1BHIPuK4TU/gxpNwd
+       2m3tzZsX5VwJUAx0A4PXHJJoA8ae5klhhhfZ5cOduEUHk5OSBk/jnFenfCXwlcDUTr19DJFF
+       GmLQOuPMLDlx7BTjpg7uDxWtpXwY021mEmpX816FZWWNEESkDqG5YkHjoRXpYUKAAAAOAB2o
+       AXA9KKKKACiiigD/2Q==
+      </binaryObject>
+               </figure>
+               <lb/>The Secret Rose<lb/>The Celtic Twilight<lb/>Poems<lb/>The Wind among the Reeds<lb/>The Shadowy Waters<lb/>Ideas of Good and Evil</p>
+            <lg>
+               <l> </l>
+            </lg>
+            <subtitle>IN THE SEVEN WOODS</subtitle>
+            <lg>
+               <l>Being Poems Chiefly of the</l>
+               <l>Irish Heroic Age</l>
+            </lg>
+            <lg>
+               <l> </l>
+            </lg>
+            <lg>
+               <l>BY</l>
+               <l>W. B. YEATS</l>
+               <l> </l>
+               <l>
+                  <figure>
+                     <binaryObject xml:id="d3e1931" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQY
+       GBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYa
+       KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAAR
+       CAAdAGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+       AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+       FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+       h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+       5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+       AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+       NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+       hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+       5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6kmlSGJ5ZWCxopZmPQAck15j4N+N3hXxd
+       r9po2lx6ql7du6wie22q4VWZmDBiMAKffkcV6nXkvxc0ddTnmi8PRuni+w04alpcyouITDMP
+       lTI6vvZSM7SMZHAoA2fE/wAUNN8Oa/Lo99o/iKW72qbX7Np7SrfEjLLCR94qOucfjXdW0wmt
+       4pQjoJFDbZBtZcjOCOx9q8o+BniLWPH/AIe0/wARa7d6dPNbTzwtBBamJ7eTAUZbec5U5xtH
+       3x6VCfEXirxN8SvEGg6Tqmn2dhp0n2KW1NqzyCJ4dxuTIGBVgxVVXgHnrgmgD1LStZ07Vmul
+       0u9t7s2snkz+RIHEb91JHcelaVfOngbxP4y074ceFpbG20lIbDVB4eubXYf9JzIIUl3D7hVz
+       zjO4knIzivRfhrq3iibxV4t0HxReaffDSZIGguba2MLSLMrOAw3EAKAFAxnjknrQB39xPFbQ
+       Sz3EixwxIXd2OAqgZJJ9AK870P4zeD9VudUga6ubBtOg+0u1/AYfNiyMPGDywOVwMAncMCvS
+       HAKMCu4EYIPf2r5t0e3m8QftK+IpfEei22mXVv4faW3W623SxMDEqzHBAOAzcAjHTOeaAPR/
+       BXxm8M+Mteg0fQ4dVe/kLl45LTYIUTq7nOAucDuckDAr06vFdSvtT/4aO8JxTXVvJA+mXilY
+       Ld4z5eM5YsSCCyrgjj5epqjaeMvGl7qel+ILTU7JvD2p+IP7EOmmzw0ESzMvnLIWyWYIc54G
+       7gccAHuczFInKIXYAkIuMsfQZ4ri/hx8RLLx1PqsVhperWJ0yXyLg3saKFlyQYwVdssMZP1F
+       cl4WHjfVPiN4r0u48VeVpuiahb3EYNgjG4SaMuYfvZVFGMdTk5zxivOvDF14k0u18QaVofiL
+       w7Fqn/CYzeZBcXAtbjUCJEDj74KR8Zwu5iMqD2YA+q6Kq2nnC0g+2iFrrYvmmPhN+Pm255xn
+       OM0UAWTnBxwa8Ybwv8V/+EkbxAmueFmv4o/sEVs1rKIJbYtuLuR8yyZC/KDjjqO/tFFAHBaV
+       4Gl0T4hy67od0tppV/E7alpy5EctzxtmRegJ5zz79Sap+HPBGvaF8SNe1uDXbaXRdZkNxcWr
+       WgEyyBSsah/7oB6+3TkmvSaKAPFIPhf4sttOuNCtfE2nR6OdQGrwXhsmN0tyJRLsZQ4TZvAO
+       c57YrsfAPhjW9L1bXNb8TahZT6pq626SRWETJBGIVZQQWJYlgcnoB0HrXdUUAFfOum+G/FN7
+       8U9b8aeE722vNJeObTJpfEUmzcEkxIsQiGRGjxDBYKeD1619FVw+rfC/wjrH2oXmmS+XcuZZ
+       4obyeCKV25ZmjjdVJJ5JxzQBm+Ddb8O674wmum8TaPqviNLZraOGwcbLeLducR5JLksAS2ei
+       rgDnOPoHwj1PStVtLeXxXc3Xhay1JdWt7F7WMT/aAxbDSgfd3Ek4Aznt1rtfD3w78I+Hrm1u
+       tF8PadZ3cBYxXCQjzV3Ag/OfmPBI5PeutoA4XTPBmoaZ8SdV8S2/iKc6fqixm6017dDueNCi
+       Yk6qoB6AZJAyTXL3nwde+8JeKdIutaQz6vrZ1m3vFtR5lo5dTx8wy2ARnjG417FRQBS0qy+w
+       6ZaWf2i5uPs8SxedcSF5ZNoxudu7HqT60VdooA//2Q==
+      </binaryObject>
+                  </figure>
+               </l>
+               <l>THE MACMILLAN COMPANY</l>
+               <l>LONDON: MACMILLAN &amp; CO., Ltd.</l>
+               <l>1903</l>
+               <l>All rights reserved</l>
+               <l> </l>
+               <l>Copyright, 1903,</l>
+               <l>By THE MACMILLAN COMPANY.</l>
+               <l>Set up, electrotyped, and published August, 1903.</l>
+               <l> </l>
+            </lg>
+            <lg>
+               <l>
+                  <figure>
+                     <binaryObject xml:id="d3e1960" encoding="base64" mimeType="image/jpg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+       EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+       Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+       CAAUAGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+       AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+       FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+       h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+       5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+       AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+       NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+       hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+       5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3r9oD4keIvhl4ci1/SfBQ8QafHk307agt
+       uLXMkccYC7WZy7SAAKOMHNVvCnxR1fxV470+z8OaVoOqeFb+zN5HqsOsZmhVFh86OSIRkLKr
+       XEf7ssOOc9hr/Ha18S6l4MgsPC/h59avG1OyumQXcUAjW3uorg5MhGdwiKjGeSDWD4S+Gep+
+       H9S1yTRZEsNC13Tbu4XR55AfsGo3Ih8xd6hg0f7vjacL82AwIwAdb/wtD4bm3mnXx34ceKB1
+       SZk1GJvKJcRjdg/KCxAyePwrNb4yeBIfEl5pt1r+m21lBYw3kWoyXkYgug80kJWI5+fY8eGI
+       zgnHavMX+Dfi26+E2s6BcaH4cttUHhmz0K3EVzuS9ktpS/2hm8sbMg8ZGd2c7RzXSfFXwH4v
+       1XX7DXvD3hrw/ceb4YutElsri/MIspbkqTKMRFZETBBHBbccAUAekf8ACe+Cg2rk+K9GX+xT
+       jUw14g+y9B+8yflGSBnueOoIqa38beDbjQzrkHi3QpNKE4tzejUIvI80gER+Zu27uRxnPNeL
+       3Hwo8aXvhjUM6N4etdTjXQraG1e7LQ3SaY7Oz7xHkLLlVVWUEBeccVf1r4deIxB4e1NPCOj6
+       lHbeJb3Wr7QRcR7RHcRNGI1LqI3dS+85wMjjPWgDr/FHxl8I+GfFmmaVrbyQaVqts01jr0bp
+       NYyMj7ZEZkJKbSUyxG35uSMV2c+qz3nhUaz4Zt4NUluLZbiwjkmMEc+5QUy5UlVIIOdpOO1e
+       SyfDTxNp2i+DLbTLDR7g6doV9oeoxfamj8qO78r54wyMriPYSVbBYV61ommSad4QsdGkWC7k
+       tbCO1cMSI5SsYUgnBIU49DwelAHjVv8AG/xjNp1/Bb+B9NvtZ0271SK5SLVxDAY9PlhWdlMi
+       hjlZht9xkjFegeHfi14C1qTSbRfENnZ6pqlnaXcGm3MgS423MYkiXHQttPO0nGRnqM+WfBvS
+       PEFnoHivwvY+D9KS6fxHrENzG2omJNPhmWII0O6IvNGwJ2nCAhOcHArrtH+GfiHRPE9nLaya
+       TeWUPgOPw0105aCU3ERJWTy1RgEbI4DfLjvgZAOll+MXwwj0mbVm8b6ObGG+Fg86z7lWcgkL
+       x2IViG+6QCc4qHUvjR8MdN0bTdWv/FlraWuqW8tzYmWORXnijbazKu3dyRhePm/hzXkPhL4H
+       eKdH+GuhadB4f0u08SWGqmW7vI9cdPtVuYGiky4hbZvQiNVVSVB3bg2a0Nf+EHj+60rQ0s2s
+       n1C20FtPvJ21qSEBluTNZKpELM4tjhjnZ5mAD0xQB9FW08VxbxTrnbIgddy7TgjPIPI+hopN
+       PinisLeK4n86aOJVkkxjewAy34nmigCzRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//Z
+      </binaryObject>
+                  </figure>
+               </l>
+            </lg>
+            <lg>
+               <l>J. S. Cushing &amp; Co.—Berwick &amp; Smith Co.</l>
+               <l>Norwood, Mass. U.S.A.</l>
+            </lg>
+            <lg>
+               <l> </l>
+            </lg>
+            <subtitle>In The Seven Woods</subtitle>
+            <p rend="justify"> </p>
+            <lg/>
+            <subtitle>IN THE SEVEN WOODS:</subtitle>
+            <subtitle>BEING<lb/>POEMS CHIEFLY OF THE<lb/>IRISH HEROIC AGE.</subtitle>
+            <p rend="justify"> </p>
+            <div type="div2">
+               <head>In The Seven Woods</head>
+               <lg>
+                  <l>I have heard the pigeons of the Seven Woods</l>
+                  <l>Make their faint thunder, and the garden bees</l>
+                  <l>Hum in the lime tree flowers; and put away</l>
+                  <l>The unavailing outcries and the old bitterness</l>
+                  <l>That empty the heart. I have forgot awhile</l>
+                  <l>Tara uprooted, and new commonness</l>
+                  <l>Upon the throne and crying about the streets</l>
+                  <l>And hanging its paper flowers from post to post,</l>
+                  <l>Because it is alone of all things happy.</l>
+                  <l>I am contented for I know that Quiet</l>
+                  <l>Wanders laughing and eating her wild heart</l>
+                  <l>Among pigeons and bees, while that Great Archer,</l>
+                  <l>Who but awaits His hour to shoot, still hangs</l>
+                  <l>A cloudy quiver over Parc-na-Lee.</l>
+               </lg>
+               <trailer>August, 1902.</trailer>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>The Old Age Of Queen Maeve</head>
+               <lg>
+                  <l>Maeve the great queen was pacing to and fro,</l>
+                  <l>Between the walls covered with beaten bronze,</l>
+                  <l>In her high house at Cruachan; the long hearth,</l>
+                  <l>Flickering with ash and hazel, but half showed</l>
+                  <l>Where the tired horse-boys lay upon the rushes,</l>
+                  <l>Or on the benches underneath the walls,</l>
+                  <l>In comfortable sleep; all living slept</l>
+                  <l>But that great queen, who more than half the night</l>
+                  <l>Had paced from door to fire and fire to door.</l>
+                  <l>Though now in her old age, in her young age</l>
+                  <l>She had been beautiful in that old way</l>
+                  <l>That’s all but gone; for the proud heart is gone</l>
+                  <l>And the fool heart of the counting-house fears all</l>
+                  <l>But soft beauty and indolent desire.</l>
+                  <l>She could have called over the rim of the world</l>
+                  <l>Whatever woman’s lover had hit her fancy,</l>
+                  <l>And yet had been great bodied and great limbed,</l>
+                  <l>Fashioned to be the mother of strong children;</l>
+                  <l>And she’d had lucky eyes and a high heart,</l>
+                  <l>And wisdom that caught fire like the dried flax,</l>
+               </lg>
+               <lg>
+                  <l>At need, and made her beautiful and fierce,</l>
+                  <l>Sudden and laughing.</l>
+                  <l>O unquiet heart,</l>
+                  <l>Why do you praise another, praising her,</l>
+                  <l>As if there were no tale but your own tale</l>
+                  <l>Worth knitting to a measure of sweet sound?</l>
+                  <l>Have I not bid you tell of that great queen</l>
+                  <l>Who has been buried some two thousand years?</l>
+                  <l>When night was at its deepest, a wild goose</l>
+                  <l>Cried from the porter’s lodge, and with long clamour</l>
+                  <l>Shook the ale horns and shields upon their hooks;</l>
+                  <l>But the horse-boys slept on, as though some power</l>
+                  <l>Had filled the house with Druid heaviness;</l>
+                  <l>And wondering who of the many changing Sidhe</l>
+                  <l>Had come as in the old times to counsel her,</l>
+                  <l>Maeve walked, yet with slow footfall being old,</l>
+                  <l>To that small chamber by the outer gate.</l>
+                  <l>The porter slept although he sat upright</l>
+                  <l>With still and stony limbs and open eyes.</l>
+                  <l>Maeve waited, and when that ear-piercing noise</l>
+                  <l/>
+                  <l>Broke from his parted lips and broke again,</l>
+                  <l>She laid a hand on either of his shoulders,</l>
+                  <l>And shook him wide awake, and bid him say</l>
+                  <l>Who of the wandering many-changing ones</l>
+                  <l>Had troubled his sleep. But all he had to say</l>
+                  <l>Was that, the air being heavy and the dogs</l>
+                  <l>More still than they had been for a good month,</l>
+                  <l>He had fallen asleep, and, though he had dreamed nothing,</l>
+                  <l>He could remember when he had had fine dreams.</l>
+                  <l>It was before the time of the great war</l>
+                  <l>Over the White-Horned Bull, and the Brown Bull.</l>
+                  <l>She turned away; he turned again to sleep</l>
+                  <l>That no god troubled now, and, wondering</l>
+                  <l>What matters were afoot among the Sidhe,</l>
+                  <l>Maeve walked through that great hall, and with a sigh</l>
+                  <l>Lifted the curtain of her sleeping room,</l>
+                  <l>Remembering that she too had seemed divine</l>
+                  <l>To many thousand eyes, and to her own</l>
+                  <l/>
+                  <l>One that the generations had long waited</l>
+                  <l>That work too difficult for mortal hands</l>
+                  <l>Might be accomplished. Bunching the curtain up</l>
+                  <l>She saw her husband Ailell sleeping there,</l>
+                  <l>And thought of days when he’d had a straight body,</l>
+                  <l>And of that famous Fergus, Nessa’s husband,</l>
+                  <l>Who had been the lover of her middle life.</l>
+                  <l>Suddenly Ailell spoke out of his sleep,</l>
+                  <l>And not with his own voice or a man’s voice,</l>
+                  <l>But with the burning, live, unshaken voice</l>
+                  <l>Of those that it may be can never age.</l>
+                  <l>He said, ‘High Queen of Cruachan and Mag Ai</l>
+                  <l>A king of the Great Plain would speak with you.’</l>
+                  <l>And with glad voice Maeve answered him, ‘What King</l>
+                  <l>Of the far wandering shadows has come to me?</l>
+                  <l>As in the old days when they would come and go</l>
+                  <l>About my threshold to counsel and to help.’</l>
+                  <l>The parted lips replied, ‘I seek your help,</l>
+                  <l>For I am Aengus and I am crossed in love.’</l>
+                  <l/>
+                  <l>‘How may a mortal whose life gutters out</l>
+                  <l>Help them that wander with hand clasping hand</l>
+                  <l>By rivers where nor rain nor hail has dimmed</l>
+                  <l>Their haughty images, that cannot fade</l>
+                  <l>Although their beauty’s like a hollow dream.’</l>
+                  <l>‘I come from the undimmed rivers to bid you call</l>
+                  <l>The children of the Maines out of sleep,</l>
+                  <l>And set them digging into Anbual’s hill.</l>
+                  <l>We shadows, while they uproot his earthy house,</l>
+                  <l>Will overthrow his shadows and carry off</l>
+                  <l>Caer, his blue eyed daughter that I love.</l>
+                  <l>I helped your fathers when they built these walls</l>
+                  <l>And I would have your help in my great need,</l>
+                  <l>Queen of high Cruachan.’</l>
+                  <l>‘I obey your will</l>
+                  <l>With speedy feet and a most thankful heart:</l>
+                  <l>For you have been, O Aengus of the birds,</l>
+                  <l>Our giver of good counsel and good luck.’</l>
+                  <l>And with a groan, as if the mortal breath</l>
+                  <l>Could but awaken sadly upon lips</l>
+               </lg>
+               <lg>
+                  <l>That happier breath had moved, her husband turned</l>
+                  <l>Face downward, tossing in a troubled sleep;</l>
+                  <l>But Maeve, and not with a slow feeble foot,</l>
+                  <l>Came to the threshold of the painted house,</l>
+                  <l>Where her grandchildren slept, and cried aloud,</l>
+                  <l>Until the pillared dark began to stir</l>
+                  <l>With shouting and the clang of unhooked arms.</l>
+                  <l>She told them of the many-changing ones;</l>
+                  <l>And all that night, and all through the next day</l>
+                  <l>To middle night, they dug into the hill.</l>
+                  <l>At middle night great cats with silver claws,</l>
+                  <l>Bodies of shadow and blind eyes like pearls,</l>
+                  <l>Came up out of the hole, and red-eared hounds</l>
+                  <l>With long white bodies came out of the air</l>
+                  <l>Suddenly, and ran at them and harried them.</l>
+                  <l>The Maines’ children dropped their spades, and stood</l>
+                  <l>With quaking joints and terror strucken faces,</l>
+                  <l>Till Maeve called out, ‘These are but common men.</l>
+               </lg>
+               <lg>
+                  <l>The Maines’ children have not dropped their spades</l>
+                  <l>Because Earth crazy for its broken power</l>
+                  <l>Casts up a show and the winds answer it</l>
+                  <l>With holy shadows.’ Her high heart was glad,</l>
+                  <l>And when the uproar ran along the grass</l>
+                  <l>She followed with light footfall in the midst,</l>
+                  <l>Till it died out where an old thorn tree stood.</l>
+                  <l>Friend of these many years, you too had stood</l>
+                  <l>With equal courage in that whirling rout;</l>
+                  <l>For you, although you’ve not her wandering heart,</l>
+                  <l>Have all that greatness, and not hers alone.</l>
+                  <l>For there is no high story about queens</l>
+                  <l>In any ancient book but tells of you,</l>
+                  <l>And when I’ve heard how they grew old and died</l>
+                  <l>Or fell into unhappiness I’ve said;</l>
+                  <l>‘She will grow old and die and she has wept!’</l>
+                  <l>And when I’d write it out anew, the words,</l>
+                  <l>Half crazy with the thought, She too has wept!</l>
+                  <l>Outrun the measure.</l>
+               </lg>
+               <lg>
+                  <l>I’d tell of that great queen</l>
+                  <l>Who stood amid a silence by the thorn</l>
+                  <l>Until two lovers came out of the air</l>
+                  <l>With bodies made out of soft fire. The one</l>
+                  <l>About whose face birds wagged their fiery wings</l>
+                  <l>Said, ‘Aengus and his sweetheart give their thanks</l>
+                  <l>To Maeve and to Maeve’s household, owing all</l>
+                  <l>In owing them the bride-bed that gives peace.’</l>
+                  <l>Then Maeve, ‘O Aengus, Master of all lovers,</l>
+                  <l>A thousand years ago you held high talk</l>
+                  <l>With the first kings of many pillared Cruachan.</l>
+                  <l>O when will you grow weary.’</l>
+                  <l>They had vanished,</l>
+                  <l>But out of the dark air over her head there came</l>
+                  <l>A murmur of soft words and meeting lips.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Baile And Aillinn</head>
+               <lg>
+                  <l>Argument. Baile and Aillinn were lovers, but</l>
+                  <l>Aengus, the Master of Love, wishing them to be</l>
+                  <l>happy in his own land among the dead, told to</l>
+                  <l>each a story of the other’s death, so that their</l>
+                  <l>hearts were broken and they died.</l>
+               </lg>
+               <lg>
+                  <l>I hardly hear the curlew cry,</l>
+                  <l>Nor the grey rush when wind is high,</l>
+                  <l>Before my thoughts begin to run</l>
+                  <l>On the heir of Ulad, Buan’s son,</l>
+                  <l>Baile who had the honey mouth,</l>
+                  <l>And that mild woman of the south,</l>
+                  <l>Aillinn, who was King Lugaid’s heir.</l>
+                  <l>Their love was never drowned in care</l>
+                  <l>Of this or that thing, nor grew cold</l>
+                  <l>Because their bodies had grown old;</l>
+                  <l>Being forbid to marry on earth</l>
+                  <l>They blossomed to immortal mirth.</l>
+                  <l>About the time when Christ was born,</l>
+                  <l>When the long wars for the White Horn</l>
+                  <l>And the Brown Bull had not yet come,</l>
+                  <l>Young Baile Honey-Mouth, whom some</l>
+                  <l>Called rather Baile Little-Land,</l>
+                  <l>Rode out of Emain with a band</l>
+                  <l>Of harpers and young men, and they</l>
+                  <l>Imagined, as they struck the way</l>
+                  <l>To many pastured Muirthemne,</l>
+                  <l>That all things fell out happily</l>
+                  <l>And there, for all that fools had said,</l>
+                  <l>Baile and Aillinn would be wed.</l>
+                  <l>They found an old man running there,</l>
+                  <l>He had ragged long grass-yellow hair;</l>
+                  <l>He had knees that stuck out of his hose;</l>
+                  <l>He had puddle water in his shoes;</l>
+                  <l>He had half a cloak to keep him dry;</l>
+                  <l>Although he had a squirrel’s eye.</l>
+                  <l>O wandering birds and rushy beds</l>
+                  <l>You put such folly in our heads</l>
+                  <l>With all this crying in the wind</l>
+                  <l>No common love is to our mind,</l>
+                  <l>And our poor Kate or Nan is less</l>
+                  <l>Than any whose unhappiness</l>
+                  <l>Awoke the harp strings long ago.</l>
+                  <l>Yet they that know all things but know</l>
+                  <l>That all life had to give us is</l>
+                  <l>A child’s laughter, a woman’s kiss.</l>
+                  <l/>
+                  <l>Who was it put so great a scorn</l>
+                  <l>In the grey reeds that night and morn</l>
+                  <l>Are trodden and broken by the herds,</l>
+                  <l>And in the light bodies of birds</l>
+                  <l>That north wind tumbles to and fro</l>
+                  <l>And pinches among hail and snow?</l>
+                  <l>That runner said, ‘I am from the south;</l>
+                  <l>I run to Baile Honey-Mouth</l>
+                  <l>To tell him how the girl Aillinn</l>
+                  <l>Rode from the country of her kin</l>
+                  <l>And old and young men rode with her:</l>
+                  <l>For all that country had been astir</l>
+                  <l>If anybody half as fair</l>
+                  <l>Had chosen a husband anywhere</l>
+                  <l>But where it could see her every day.</l>
+                  <l>When they had ridden a little way</l>
+                  <l>An old man caught the horse’s head</l>
+                  <l>With “You must home again and wed</l>
+                  <l>With somebody in your own land.”</l>
+                  <l>A young man cried and kissed her hand</l>
+                  <l>“O lady, wed with one of us;”</l>
+               </lg>
+               <lg>
+                  <l>And when no face grew piteous</l>
+                  <l>For any gentle thing she spake</l>
+                  <l>She fell and died of the heart-break.’</l>
+                  <l>Because a lover’s heart’s worn out</l>
+                  <l>Being tumbled and blown about</l>
+                  <l>By its own blind imagining,</l>
+                  <l>And will believe that anything</l>
+                  <l>That is bad enough to be true, is true,</l>
+                  <l>Baile’s heart was broken in two;</l>
+                  <l>And he being laid upon green boughs</l>
+                  <l>Was carried to the goodly house</l>
+                  <l>Where the Hound of Ulad sat before</l>
+                  <l>The brazen pillars of his door;</l>
+                  <l>His face bowed low to weep the end</l>
+                  <l>Of the harper’s daughter and her friend;</l>
+                  <l>For although years had passed away</l>
+                  <l>He always wept them on that day,</l>
+                  <l>For on that day they had been betrayed;</l>
+                  <l>And now that Honey-Mouth is laid</l>
+                  <l>Under a cairn of sleepy stone</l>
+                  <l>Before his eyes, he has tears for none,</l>
+                  <l/>
+                  <l>Although he is carrying stone, but two</l>
+                  <l>For whom the cairn’s but heaped anew.</l>
+                  <l>We hold because our memory is</l>
+                  <l>So full of that thing and of this</l>
+                  <l>That out of sight is out of mind.</l>
+                  <l>But the grey rush under the wind</l>
+                  <l>And the grey bird with crooked bill</l>
+                  <l>Have such long memories that they still</l>
+                  <l>Remember Deirdre and her man,</l>
+                  <l>And when we walk with Kate or Nan</l>
+                  <l>About the windy water side</l>
+                  <l>Our heart can hear the voices chide.</l>
+                  <l>How could we be so soon content</l>
+                  <l>Who know the way that Naoise went?</l>
+                  <l>And they have news of Deirdre’s eyes</l>
+                  <l>Who being lovely was so wise,</l>
+                  <l>Ah wise, my heart knows well how wise.</l>
+                  <l>Now had that old gaunt crafty one,</l>
+                  <l>Gathering his cloak about him, run</l>
+                  <l>Where Aillinn rode with waiting maids</l>
+                  <l>Who amid leafy lights and shades</l>
+                  <l/>
+                  <l>Dreamed of the hands that would unlace</l>
+                  <l>Their bodices in some dim place</l>
+                  <l>When they had come to the marriage bed;</l>
+                  <l>And harpers pondering with bowed head</l>
+                  <l>A music that had thought enough</l>
+                  <l>Of the ebb of all things to make love</l>
+                  <l>Grow gentle without sorrowings;</l>
+                  <l>And leather-coated men with slings</l>
+                  <l>Who peered about on every side;</l>
+                  <l>And amid leafy light he cried,</l>
+                  <l>‘He is well out of wind and wave,</l>
+                  <l>They have heaped the stones above his grave</l>
+                  <l>In Muirthemne and over it</l>
+                  <l>In changeless Ogham letters writ</l>
+                  <l>Baile that was of Rury’s seed.</l>
+                  <l>But the gods long ago decreed</l>
+                  <l>No waiting maid should ever spread</l>
+                  <l>Baile and Aillinn’s marriage bed,</l>
+                  <l>For they should clip and clip again</l>
+                  <l>Where wild bees hive on the Great Plain.</l>
+                  <l>Therefore it is but little news</l>
+                  <l>That put this hurry in my shoes.’</l>
+                  <l/>
+                  <l>And hurrying to the south he came</l>
+                  <l>To that high hill the herdsmen name</l>
+                  <l>The Hill Seat of Leighin, because</l>
+                  <l>Some god or king had made the laws</l>
+                  <l>That held the land together there,</l>
+                  <l>In old times among the clouds of the air.</l>
+                  <l>That old man climbed; the day grew dim;</l>
+                  <l>Two swans came flying up to him</l>
+                  <l>Linked by a gold chain each to each</l>
+                  <l>And with low murmuring laughing speech</l>
+                  <l>Alighted on the windy grass.</l>
+                  <l>They knew him: his changed body was</l>
+                  <l>Tall, proud and ruddy, and light wings</l>
+                  <l>Were hovering over the harp strings</l>
+                  <l>That Etain, Midhir’s wife, had wove</l>
+                  <l>In the hid place, being crazed by love.</l>
+                  <l>What shall I call them? fish that swim</l>
+                  <l>Scale rubbing scale where light is dim</l>
+                  <l>By a broad water-lily leaf;</l>
+                  <l>Or mice in the one wheaten sheaf</l>
+                  <l>Forgotten at the threshing place;</l>
+                  <l/>
+                  <l>Or birds lost in the one clear space</l>
+                  <l>Of morning light in a dim sky;</l>
+                  <l>Or it may be, the eyelids of one eye</l>
+                  <l>Or the door pillars of one house,</l>
+                  <l>Or two sweet blossoming apple boughs</l>
+                  <l>That have one shadow on the ground;</l>
+                  <l>Or the two strings that made one sound</l>
+                  <l>Where that wise harper’s finger ran;</l>
+                  <l>For this young girl and this young man</l>
+                  <l>Have happiness without an end</l>
+                  <l>Because they have made so good a friend.</l>
+                  <l>They know all wonders, for they pass</l>
+                  <l>The towery gates of Gorias</l>
+                  <l>And Findrias and Falias</l>
+                  <l>And long-forgotten Murias,</l>
+                  <l>Among the giant kings whose hoard</l>
+                  <l>Cauldron and spear and stone and sword</l>
+                  <l>Was robbed before Earth gave the wheat;</l>
+                  <l>Wandering from broken street to street</l>
+                  <l>They come where some huge watcher is</l>
+                  <l>And tremble with their love and kiss.</l>
+                  <l/>
+                  <l>They know undying things, for they</l>
+                  <l>Wander where earth withers away,</l>
+                  <l>Though nothing troubles the great streams</l>
+                  <l>But light from the pale stars, and gleams</l>
+                  <l>From the holy orchards, where there is none</l>
+                  <l>But fruit that is of precious stone,</l>
+                  <l>Or apples of the sun and moon.</l>
+                  <l>What were our praise to them: they eat</l>
+                  <l>Quiet’s wild heart, like daily meat,</l>
+                  <l>Who when night thickens are afloat</l>
+                  <l>On dappled skins in a glass boat</l>
+                  <l>Far out under a windless sky,</l>
+                  <l>While over them birds of Aengus fly,</l>
+                  <l>And over the tiller and the prow</l>
+                  <l>And waving white wings to and fro</l>
+                  <l>Awaken wanderings of light air</l>
+                  <l>To stir their coverlet and their hair.</l>
+                  <l>And poets found, old writers say,</l>
+                  <l>A yew tree where his body lay,</l>
+                  <l>But a wild apple hid the grass</l>
+                  <l/>
+                  <l>With its sweet blossom where hers was;</l>
+                  <l>And being in good heart, because</l>
+                  <l>A better time had come again</l>
+                  <l>After the deaths of many men,</l>
+                  <l>And that long fighting at the ford,</l>
+                  <l>They wrote on tablets of thin board,</l>
+                  <l>Made of the apple and the yew,</l>
+                  <l>All the love stories that they knew.</l>
+                  <l>Let rush and bird cry out their fill</l>
+                  <l>Of the harper’s daughter if they will,</l>
+                  <l>Beloved, I am not afraid of her</l>
+                  <l>She is not wiser nor lovelier,</l>
+                  <l>And you are more high of heart than she</l>
+                  <l>For all her wanderings over-sea;</l>
+                  <l>But I’d have bird and rush forget</l>
+                  <l>Those other two, for never yet</l>
+                  <l>Has lover lived but longed to wive</l>
+                  <l>Like them that are no more alive.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>The Arrow</head>
+               <lg>
+                  <l>I thought of your beauty and this arrow</l>
+                  <l>Made out of a wild thought is in my marrow.</l>
+                  <l>There’s no man may look upon her, no man,</l>
+                  <l>As when newly grown to be a woman,</l>
+                  <l>Blossom pale, she pulled down the pale blossom</l>
+                  <l>At the moth hour and hid it in her bosom.</l>
+                  <l>This beauty’s kinder yet for a reason</l>
+                  <l>I could weep that the old is out of season.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>The Folly Of Being Comforted</head>
+               <table rend="frame" xml:id="Table6"> 
+                  <row>
+                     <cell>
+                        <p>One that is ever kind said yesterday:<lb/>‘Your well beloved’s hair has threads of grey<lb/>And little shadows come about her eyes;<lb/>Time can but make it easier to be wise<lb/>Though now it’s hard, till trouble is at an end;<lb/>And so be patient, be wise and patient, friend.’<lb/>But heart, there is no comfort, not a grain.<lb/>Time can but make her beauty over again<lb/>Because of that great nobleness of hers;<lb/>The fire that stirs about her, when she stirs</p> 
+                        <p>Burns but more clearly; O she had not these ways<lb/>When all the wild summer was in her gaze.<lb/>O heart, O heart, if she’d but turn her head,<lb/>You’d know the folly of being comforted.</p>
+                     </cell>
+                  </row>
+               </table>
+               <lg>
+                  <l> </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>The Withering Of The Boughs</head>
+               <lg>
+                  <l>I cried when the moon was murmuring to the birds,</l>
+                  <l>‘Let peewit call and curlew cry where they will,</l>
+                  <l>I long for your merry and tender and pitiful words,</l>
+                  <l>For the roads are unending and there is no place to my mind.’</l>
+                  <l>The honey-pale moon lay low on the sleepy hill</l>
+                  <l>And I fell asleep upon lonely Echtge of streams;</l>
+                  <l>No boughs have withered because of the wintry wind,</l>
+                  <l>The boughs have withered because I have told them my dreams.</l>
+                  <l>I know of the leafy paths that the witches take,</l>
+                  <l>Who come with their crowns of pearl and their spindles of wool,</l>
+               </lg>
+               <lg>
+                  <l>And their secret smile, out of the depths of the lake;</l>
+                  <l>And of apple islands where the Danaan kind</l>
+                  <l>Wind and unwind their dances when the light grows cool</l>
+                  <l>On the island lawns, their feet where the pale foam gleams;</l>
+                  <l>No boughs have withered because of the wintry wind,</l>
+                  <l>The boughs have withered because I have told them my dreams.</l>
+                  <l>I know of the sleepy country, where swans fly round</l>
+                  <l>Coupled with golden chains and sing as they fly,</l>
+                  <l>A king and a queen are wandering there, and the sound</l>
+                  <l>Has made them so happy and hopeless, so deaf and so blind</l>
+                  <l>With wisdom, they wander till all the years have gone by;</l>
+               </lg>
+               <lg>
+                  <l>I know, and the curlew and peewit on Echtge of streams;</l>
+                  <l>No boughs have withered because of the wintry wind,</l>
+                  <l>The boughs have withered because I have told them my dreams.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>Adam’s Curse</head>
+               <table rend="frame" xml:id="Table8"> 
+                  <row>
+                     <cell>
+                        <p>We sat together at one summer’s end<lb/>That beautiful mild woman your close friend<lb/>And you and I, and talked of poetry.<lb/>I said ‘a line will take us hours maybe,<lb/>Yet if it does not seem a moment’s thought<lb/>Our stitching and unstitching has been naught.<lb/>Better go down upon your marrow bones<lb/>And scrub a kitchen pavement, or break stones<lb/>Like an old pauper in all kinds of weather;<lb/>For to articulate sweet sounds together<lb/>Is to work harder than all these and yet<lb/>Be thought an idler by the noisy set<lb/>Of bankers, schoolmasters, and clergymen<lb/>The martyrs call the world.’</p> 
+                        <p>That woman then<lb/>Murmured with her young voice, for whose mild sake<lb/>There’s many a one shall find out all heartache<lb/>In finding that it’s young and mild and low.<lb/>‘There is one thing that all we women know<lb/>Although we never heard of it at school,<lb/>That we must labour to be beautiful.’<lb/>I said, ‘It’s certain there is no fine thing<lb/>Since Adam’s fall but needs much labouring.<lb/>There have been lovers who thought love should be<lb/>So much compounded of high courtesy<lb/>That they would sigh and quote with learned looks<lb/>Precedents out of beautiful old books;<lb/>Yet now it seems an idle trade enough.’<lb/>We sat grown quiet at the name of love.<lb/>We saw the last embers of daylight die<lb/>And in the trembling blue-green of the sky<lb/>A moon, worn as if it had been a shell</p> 
+                        <p>Washed by time’s waters as they rose and fell<lb/>About the stars and broke in days and years.<lb/>I had a thought for no one’s but your ears;<lb/>That you were beautiful and that I strove<lb/>To love you in the old high way of love;<lb/>That it had all seemed happy, and yet we’d grown<lb/>As weary hearted as that hollow moon.</p>
+                     </cell>
+                  </row>
+               </table>
+               <lg>
+                  <l> </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>The Song Of Red Hanrahan</head>
+               <lg>
+                  <l>The old brown thorn trees break in two high over Cummen Strand</l>
+                  <l>Under a bitter black wind that blows from the left hand,</l>
+                  <l>Our courage breaks like an old tree in a black wind and dies;</l>
+                  <l>But we have hidden in our hearts the flame out of the eyes</l>
+                  <l>Of Cathleen the daughter of Houlihan.</l>
+                  <l>The wind has bundled up the clouds high over Knocknarea</l>
+               </lg>
+               <lg>
+                  <l>And thrown the thunder on the stones for all that Maeve can say.</l>
+                  <l>Angers that are like noisy clouds have set our hearts abeat;</l>
+                  <l>But we have all bent low and low and kissed the quiet feet</l>
+                  <l>Of Cathleen the daughter of Houlihan.</l>
+                  <l>The yellow pool has overflowed high up on Clooth-na-Bare,</l>
+                  <l>For the wet winds are blowing out of the clinging air;</l>
+                  <l>Like heavy flooded waters our bodies and our blood;</l>
+                  <l>But purer than a tall candle before the Holy Rood</l>
+                  <l>Is Cathleen the daughter of Houlihan.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>The Old Men Admiring Themselves In The Water</head>
+               <lg>
+                  <l>I heard the old, old men say</l>
+                  <l>‘Everything alters,</l>
+                  <l>And one by one we drop away.’</l>
+               </lg>
+               <lg>
+                  <l>They had hands like claws, and their knees</l>
+                  <l>Were twisted like the old thorn trees</l>
+                  <l>By the waters.</l>
+                  <l>I heard the old, old men say</l>
+                  <l>‘All that’s beautiful drifts away</l>
+                  <l>Like the waters.’</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Under The Moon</head>
+               <lg>
+                  <l>I have no happiness in dreaming of Brycelinde;</l>
+                  <l>Nor Avalon the grass green hollow, nor Joyous Isle,</l>
+                  <l>Where one found Lancelot crazed and hid him for a while,</l>
+                  <l>Nor Ulad when Naoise had thrown a sail upon the wind,</l>
+                  <l>Nor lands that seem too dim to be burdens on the heart,</l>
+                  <l>Land-under-Wave, where out of the moon’s light and the sun’s</l>
+                  <l>Seven old sisters wind the threads of the long lived ones,</l>
+                  <l>Land-of-the-Tower, where Aengus has thrown the gates apart,</l>
+               </lg>
+               <lg>
+                  <l>And Wood-of-Wonders, where one kills an ox at dawn</l>
+                  <l>To find it when night falls laid on a golden bier:</l>
+                  <l>Therein are many queens like Branwen, and Guinivere;</l>
+                  <l>And Niam, and Laban, and Fand, who could change to an otter or fawn</l>
+                  <l>And the wood-woman whose lover was changed to a blue-eyed hawk;</l>
+                  <l>And whether I go in my dreams by woodland, or dun, or shore,</l>
+                  <l>Or on the unpeopled waves with kings to pull at the oar,</l>
+                  <l>I hear the harp string praise them or hear their mournful talk.</l>
+                  <l>Because of a story I heard under the thin horn</l>
+                  <l>Of the third moon, that hung between the night and the day,</l>
+                  <l>To dream of women whose beauty was folded in dismay,</l>
+                  <l>Even in an old story, is a burden not to be borne.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>The Players Ask For A Blessing On The Psalteries And Themselves</head>
+               <lg>
+                  <l>Three Voices together</l>
+                  <l>Hurry to bless the hands that play,</l>
+                  <l>The mouths that speak, the notes and strings,</l>
+                  <l>O masters of the glittering town!</l>
+                  <l>O! lay the shrilly trumpet down,</l>
+                  <l>Though drunken with the flags that sway</l>
+                  <l>Over the ramparts and the towers,</l>
+                  <l>And with the waving of your wings.</l>
+               </lg>
+               <lg>
+                  <l>First Voice</l>
+                  <l>Maybe they linger by the way;</l>
+                  <l>One gathers up his purple gown;</l>
+                  <l>One leans and mutters by the wall;</l>
+                  <l>He dreads the weight of mortal hours.</l>
+               </lg>
+               <lg>
+                  <l>Second Voice</l>
+                  <l>O no, O no, they hurry down</l>
+                  <l>Like plovers that have heard the call.</l>
+               </lg>
+               <lg>
+                  <l>Third Voice</l>
+                  <l>O, kinsmen of the Three in One,</l>
+                  <l>O, kinsmen bless the hands that play.</l>
+                  <l>The notes they waken shall live on</l>
+                  <l>When all this heavy history’s done.</l>
+                  <l>Our hands, our hands must ebb away.</l>
+               </lg>
+               <lg>
+                  <l>Three Voices together</l>
+                  <l>The proud and careless notes live on</l>
+                  <l>But bless our hands that ebb away.</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>The Rider From The North</head>
+               <lg>
+                  <l>From the play of The Country of the Young.</l>
+                  <l>There’s many a strong farmer</l>
+                  <l>Whose heart would break in two</l>
+                  <l>If he could see the townland</l>
+                  <l>That we are riding to;</l>
+                  <l>Boughs have their fruit and blossom,</l>
+                  <l>At all times of the year,</l>
+                  <l>Rivers are running over</l>
+                  <l>With red beer and brown beer.</l>
+                  <l>An old man plays the bagpipes</l>
+                  <l>In a golden and silver wood,</l>
+                  <l>Queens, their eyes blue like the ice,</l>
+                  <l>Are dancing in a crowd.</l>
+                  <l/>
+                  <l>The little fox he murmured,</l>
+                  <l>‘O what is the world’s bane?’</l>
+                  <l>The sun was laughing sweetly,</l>
+                  <l>The moon plucked at my rein;</l>
+                  <l>But the little red fox murmured,</l>
+                  <l>‘O do not pluck at his rein,</l>
+                  <l>He is riding to the townland</l>
+                  <l>That is the world’s bane.’</l>
+                  <l>When their hearts are so high,</l>
+                  <l>That they would come to blows,</l>
+                  <l>They unhook their heavy swords</l>
+                  <l>From golden and silver boughs;</l>
+                  <l>But all that are killed in battle</l>
+                  <l>Awaken to life again;</l>
+                  <l>It is lucky that their story</l>
+                  <l>Is not known among men.</l>
+                  <l>For O the strong farmers</l>
+                  <l>That would let the spade lie,</l>
+                  <l>For their hearts would be like a cup</l>
+                  <l>That somebody had drunk dry.</l>
+                  <l/>
+                  <l>The little fox he murmured,</l>
+                  <l>‘O what is the world’s bane?’</l>
+                  <l>The sun was laughing sweetly,</l>
+                  <l>The moon plucked at my rein;</l>
+                  <l>But the little red fox murmured,</l>
+                  <l>‘O do not pluck at his rein,</l>
+                  <l>He is riding to the townland</l>
+                  <l>That is the world’s bane.’</l>
+                  <l>Michael will unhook his trumpet</l>
+                  <l>From a bough overhead,</l>
+                  <l>And blow a little noise</l>
+                  <l>When the supper has been spread.</l>
+                  <l>Gabriel will come from the water</l>
+                  <l>With a fish tail, and talk</l>
+                  <l>Of wonders that have happened</l>
+                  <l>On wet roads where men walk,</l>
+                  <l>And lift up an old horn</l>
+                  <l>Of hammered silver, and drink</l>
+                  <l>Till he has fallen asleep</l>
+                  <l>Upon the starry brink.</l>
+                  <l/>
+                  <l>The little fox he murmured,</l>
+                  <l>‘O what is the world’s bane?’</l>
+                  <l>The sun was laughing sweetly,</l>
+                  <l>The moon plucked at my rein;</l>
+                  <l>But the little red fox murmured,</l>
+                  <l>‘O do not pluck at his rein,</l>
+                  <l>He is riding to the townland,</l>
+                  <l>That is the world’s bane.’</l>
+               </lg>
+               <lg>
+                  <l>I made some of these poems walking about among the Seven Woods, before the big wind of nineteen hundred and three blew down so many trees, &amp; troubled the wild creatures, &amp; changed the look of things; and I thought out there a good part of the play which follows. The first shape of it came to me in a dream, but it changed much in the making, foreshadowing, it may be, a change that may bring a less dream-burdened will into my verses. I never re-wrote anything so many times; for at first I could not make these wills that stream into mere life poetical. But now I hope to do easily much more of the kind, and that our new Irish players will find the buskin and the sock.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>On Baile’s Strand: A Play</head>
+               <p rend="justify"> </p>
+               <subtitle>THE PERSONS OF THE PLAY.</subtitle>
+               <lg>
+                  <l>CUCHULLAIN, the King of Muirthemne.</l>
+                  <l>CONCOBAR, the High King of Ullad.</l>
+                  <l>DAIRE, a King.</l>
+                  <l>FINTAIN, a blind man.</l>
+                  <l>BARACH, a fool.</l>
+                  <l>A Young Man.</l>
+                  <l>Young Kings and Old Kings.</l>
+               </lg>
+               <lg>
+                  <l>SCENE: A great hall by the sea close to Dundalgan. There are two great chairs on either side of the hall, each raised a little from the ground, and on the back of the one chair is carved and painted a woman with a fish’s tail, and on the back of the other a hound. There are smaller chairs and benches raised in tiers round the walls. There is a great ale vat at one side near a small door, &amp; a large door at the back through which one can see the sea. Barach, a tall thin man with long ragged hair, dressed in skins, comes in at the side door. He is leading Fintain, a fat blind man, who is somewhat older.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>I will shut the door, for this wind out of the sea gets into my bones, and if I leave but an inch for the wind there is one like a flake of sea-frost that might come into the house.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>What is his name, fool?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>It’s a woman from among the Riders of the Sidhe. It’s Boann herself from the river. She has left the Dagda’s bed, and gone through the salt of the sea &amp; up here to the strand of Baile, and all for love of me. Let her keep her husband’s bed, for she’ll have none of me. Nobody knows how lecherous these goddesses are. I see her in every kind of shape but oftener than not she’s in the wind and cries ‘give a kiss and put your arms about me.’ But no, she’ll have no more of me. Yesterday when I put out my lips to kiss her, there was nothing there but the wind. She’s bad, Fintain. O, she’s bad. I had better shut the big door too. (He is going towards the big door but turns hearing Fintain’s voice.)</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Who has been feeling about with his stick.) What’s this and this?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>They are chairs.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>And this?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>Why, that’s a bench.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>And this?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>A big chair.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Feeling the back of the chair.) There is a sea-woman carved upon it.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>And there is another big chair on the other side of the hall.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Lead me to it. (He mutters while the fool is leading him.) That is what the High King Concobar has on his shield. The High King will be coming. They have brought out his chair. (He begins feeling the back of the other chair.) And there is a dog’s head on this. They have brought out our master’s chair. Now I know what the horse-boys were talking about. We must not stay here. The Kings are going to meet here. Now that Concobar and our master, that is his chief man, have put down all the enemies of Ullad, they are going to build up Emain again. They are going to talk over their plans for building it. Were you ever in Concobar’s town before it was burnt? O, he is a great King, for though Emain was burnt down, every war had made him richer. He has gold and silver dishes, and chessboards and candle-sticks made of precious stones. Fool, have they taken the top from the ale vat?</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>They have.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Then bring me a horn of ale quickly, for the Kings will be here in a minute. Now I can listen. Tell me what you saw this morning?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>About the young man and the fighting?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Yes.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>And after that we can go and eat the fowl, for I am hungry.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Time enough, time enough. You’re in as great a hurry as when you brought me to Aine’s Seat, where the mad dogs gather when the moon’s at the full. Go on with your story.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>I was creeping under a ditch, with the fowl in my leather bag, keeping to the shore where the farmer could not see me, when I came upon a ship drawn up upon the sands, a great red ship with a woman’s head upon it.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>A ship out of Aoife’s country. They have all a woman’s head on the bow.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>There was a young man with a pale face and red hair standing beside it. Some of our people came up whose turn it was to guard the shore. I heard them ask the young man his name. He said he was under bonds not to tell it. Then words came between them, and they fought, &amp; the young man killed half of them, and the others ran away.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>It matters nothing to us, but he has come at last.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>Who has come?</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>I know who that young man is. There is not another like him in the world. I saw him when I had my eyesight.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>You saw him?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>I used to be in Aoife’s country when I had my eyesight.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>That was before you went on shipboard and were blinded for putting a curse on the wind?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Queen Aoife had a son that was red haired and pale faced like herself, and everyone said that he would kill Cuchullain some day, but I would not have that spoken of.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>Nobody could do that. Who was his father?</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Nobody but Aoife knew that, not even he himself.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>Not even he himself! Was Aoife a goddess &amp; lecherous?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>I overheard her telling that she never had but one lover, and that he was the only man who overcame her in battle. There were some who thought him one of the Riders of the Sidhe, because the child was great of limb and strong beyond others. The child was begotten over the mountains; but come nearer and I will tell you something.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>You have thought something?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>When I hear the young girls talking about the colour of Cuchullain’s eyes, &amp; how they have seven colours, I have thought about it. That young man has Aoife’s face and hair, but he has Cuchullain’s eyes.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>How can he have Cuchullain’s eyes?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>He is Cuchullain’s son.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>And his mother has sent him hither to fight his father.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>It is all quite plain. Cuchullain went into Aoife’s country when he was a young man that he might learn skill in arms, and there he became Aoife’s lover.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>And now she hates him because he went away, and has sent the son to kill the father. I knew she was a goddess.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>And she never told him who his father was, that he might do it. I have thought it all out, fool. I know a great many things because I listen when nobody is noticing and I keep my wits awake. What ails you now?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>I have remembered that I am hungry.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Well, forget it again, and I will tell you about Aoife’s country. It is full of wonders. There are a great many Queens there who can change themselves into wolves and into swine and into white hares, and when they are in their own shapes they are stronger than almost any man; and there are young men there who have cat’s eyes and if a bird chirrup or a mouse squeak they cannot keep them shut even though it is bedtime and they sleepy; and listen, for this is a great wonder, a very great wonder, there is a long narrow bridge, and when anybody goes to cross it, that the Queens do not like, it flies up as this bench would if you were to sit on the end of it. Everybody who goes there to learn skill in arms has to cross it. It was in that country too that Cuchullain got his spear made out of dragon bones. There were two dragons fighting in the foam of the sea, &amp; their grandam was the moon, and six Queens came along the shore.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>I won’t listen to your story.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>It is a very wonderful story. Wait till you hear what the six Queens did. Their right hands were all made of silver.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>No, I will have my dinner first. You have eaten the fowl I left in front of the fire. The last time you sent me to steal something you made me forget all about it till you had eaten it up.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>No, there is plenty for us both.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>Come with me where it is.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Who is being led towards the door at the back by Barach.) O, it is all right, it is in a safe place.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>It is a fine fowl. It was the biggest in the yard.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>It had a good smell, but I hope that the wild dogs have not smelt it. (Voices are heard outside the door at the side.) Here is our master. Let us stay and talk with him. Perhaps Cuchullain will give you a new cap with a feather. He told me that he would give you a new cap with a feather, a feather with an eye that looks at you, a peacock’s feather.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>No, no. (He begins pulling Fintain towards the door.)</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>If you do not get it now, you may never get it, for the young man may kill him.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>No, no, I am hungry. What a head you have, blind man. Who but you would have remembered that the hen-wife slept for a little at noon every day.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Who is being led along very slowly and unwillingly.)</l>
+               </lg>
+               <lg>
+                  <l>Yes, I have a good head. The fowl should be done just right, but one never knows when a wild dog may come out of the woods.</l>
+               </lg>
+               <lg>
+                  <l>(They go out through the big door at the back. As they go out Cuchullain &amp; certain young Kings come in at the side door. Cuchullain though still young is a good deal older than the others. They are all very gaily dressed, and have their hair fastened with balls of gold. The young men crowd about Cuchullain with wondering attention.)</l>
+               </lg>
+               <lg>
+                  <l>FIRST YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>You have hurled that stone beyond our utmost mark</l>
+               </lg>
+               <lg>
+                  <l>Time after time, but yet you are not weary.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>SECOND YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>He has slept on the bare ground of Fuad’s Hill</l>
+               </lg>
+               <lg>
+                  <l>This week past, waiting for the bulls and the deer.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Well, why should I be weary?</l>
+               </lg>
+               <lg>
+                  <l>FIRST YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>It is certain</l>
+               </lg>
+               <lg>
+                  <l>His father was the god who wheels the sun,</l>
+               </lg>
+               <lg>
+                  <l>And not king Sualtam.</l>
+               </lg>
+               <lg>
+                  <l>THIRD YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>(To a young King who is beside him.) He came in the dawn,</l>
+               </lg>
+               <lg>
+                  <l>And folded Dectara in a sudden fire.</l>
+               </lg>
+               <lg>
+                  <l>FOURTH YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>And yet the mother’s half might well grow weary,</l>
+               </lg>
+               <lg>
+                  <l>And it new come from labours over sea.</l>
+               </lg>
+               <lg>
+                  <l>THIRD YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>He has been on islands walled about with silver,</l>
+               </lg>
+               <lg>
+                  <l>And fought with giants.</l>
+               </lg>
+               <lg>
+                  <l>(They gather about the ale vat and begin to drink.)</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Who was it that went out?</l>
+               </lg>
+               <lg>
+                  <l>THIRD YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>As we came in?</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Yes.</l>
+               </lg>
+               <lg>
+                  <l>THIRD YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>Barach and blind Fintain.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>They always flock together; the blind man</l>
+               </lg>
+               <lg>
+                  <l>Has need of the fool’s eyesight and strong body,</l>
+               </lg>
+               <lg>
+                  <l>While the poor fool has need of the other’s wit,</l>
+               </lg>
+               <lg>
+                  <l>And night and day is up to his ears in mischief</l>
+               </lg>
+               <lg>
+                  <l>That the blind man imagines. There’s no hen-yard</l>
+               </lg>
+               <lg>
+                  <l>But clucks and cackles when he passes by</l>
+               </lg>
+               <lg>
+                  <l>As if he’d been a fox. If I’d that ball</l>
+               </lg>
+               <lg>
+                  <l>That’s in your hair and the big stone again,</l>
+               </lg>
+               <lg>
+                  <l>I’d keep them tossing, though the one is heavy</l>
+               </lg>
+               <lg>
+                  <l>And the other light in the hand. A trick I learnt</l>
+               </lg>
+               <lg>
+                  <l>When I was learning arms in Aoife’s country.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>FIRST YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>What kind of woman was that Aoife?</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Comely.</l>
+               </lg>
+               <lg>
+                  <l>FIRST YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>But I have heard that she was never married,</l>
+               </lg>
+               <lg>
+                  <l>And yet that’s natural, for I have never known</l>
+               </lg>
+               <lg>
+                  <l>A fighting woman, but made her favours cheap,</l>
+               </lg>
+               <lg>
+                  <l>Or mocked at love till she grew sandy dry.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>What manner of woman do you like the best?</l>
+               </lg>
+               <lg>
+                  <l>A gentle or a fierce.</l>
+               </lg>
+               <lg>
+                  <l>FIRST YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>A gentle surely.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>I think that a fierce woman’s better, a woman</l>
+               </lg>
+               <lg>
+                  <l>That breaks away when you have thought her won,</l>
+               </lg>
+               <lg>
+                  <l>For I’d be fed and hungry at one time.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>I think that all deep passion is but a kiss</l>
+               </lg>
+               <lg>
+                  <l>In the mid battle, and a difficult peace</l>
+               </lg>
+               <lg>
+                  <l>’Twixt oil and water, candles and dark night,</l>
+               </lg>
+               <lg>
+                  <l>Hill-side and hollow, the hot-footed sun,</l>
+               </lg>
+               <lg>
+                  <l>And the cold sliding slippery-footed moon,</l>
+               </lg>
+               <lg>
+                  <l>A brief forgiveness between opposites</l>
+               </lg>
+               <lg>
+                  <l>That have been hatreds for three times the age</l>
+               </lg>
+               <lg>
+                  <l>Of his long ’stablished ground. Here’s Concobar;</l>
+               </lg>
+               <lg>
+                  <l>So I’ll be done, but keep beside me still,</l>
+               </lg>
+               <lg>
+                  <l>For while he talks of hammered bronze and asks</l>
+               </lg>
+               <lg>
+                  <l>What wood is best for building, we can talk</l>
+               </lg>
+               <lg>
+                  <l>Of a fierce woman.</l>
+               </lg>
+               <lg>
+                  <l>(Concobar, a man much older than Cuchullain, has come in through the great door at the back. He has many Kings about him. One of these Kings, Daire, a stout old man, is somewhat drunk.)</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>(To one of those about him.) Has the ship gone yet? We have need of more bronze workers and that ship I sent to Africa for gold is late.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>I knew their talk.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>(Seeing Cuchullain.) You are before us, King.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>So much the better, for I welcome you</l>
+               </lg>
+               <lg>
+                  <l>Into my Muirthemne.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>But who are these?</l>
+               </lg>
+               <lg>
+                  <l>The odour from their garments when they stir</l>
+               </lg>
+               <lg>
+                  <l>Is like a wind out of an apple garden.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>My swordsmen and harp players and fine dancers,</l>
+               </lg>
+               <lg>
+                  <l>My bosom friends.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>I should have thought, Cuchullain,</l>
+               </lg>
+               <lg>
+                  <l>My graver company would better match</l>
+               </lg>
+               <lg>
+                  <l>Your greatness and your years; but I waste breath</l>
+               </lg>
+               <lg>
+                  <l>In harping on that tale.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>You do, great King.</l>
+               </lg>
+               <lg>
+                  <l>Because their youth is the kind wandering wave</l>
+               </lg>
+               <lg>
+                  <l>That carries me about the world; and if it sank,</l>
+               </lg>
+               <lg>
+                  <l>My sword would lose its lightness.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>Yet, Cuchullain,</l>
+               </lg>
+               <lg>
+                  <l>Emain should be the foremost town of the world.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>It is the foremost town.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>No, no, it’s not.</l>
+               </lg>
+               <lg>
+                  <l>Nothing but men can make towns great, and he,</l>
+               </lg>
+               <lg>
+                  <l>The one over-topping man that’s in the world,</l>
+               </lg>
+               <lg>
+                  <l>Keeps far away.</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>He will not hear you, King,</l>
+               </lg>
+               <lg>
+                  <l>And we old men had best keep company</l>
+               </lg>
+               <lg>
+                  <l>With one another. I’ll fill the horn for you.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>I will not drink, old fool. You have drunk a horn</l>
+               </lg>
+               <lg>
+                  <l>At every door we came to.</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>You’d better drink,</l>
+               </lg>
+               <lg>
+                  <l>For old men light upon their youth again</l>
+               </lg>
+               <lg>
+                  <l>In the brown ale. When I have drunk enough,</l>
+               </lg>
+               <lg>
+                  <l>I am like Cuchullain as one pea another,</l>
+               </lg>
+               <lg>
+                  <l>And live like a bird’s flight from tree to tree.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>We’ll to our chairs for we have much to talk of,</l>
+               </lg>
+               <lg>
+                  <l>And we have Ullad and Muirthemne, and here</l>
+               </lg>
+               <lg>
+                  <l>Is Conall Muirthemne in the nick of time.</l>
+               </lg>
+               <lg>
+                  <l>(He goes to the back of stage to welcome a company of Kings who come in through the great door. The other Kings gradually get into their places. Cuchullain sits in his great chair with certain of the young men standing around him. Others of the young men, however, remain with Daire at the ale vat. Daire holds out the horn of ale to one or two of the older Kings as they pass him going to their places. They pass him by, most of them silently refusing.)</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>Will you not drink?</l>
+               </lg>
+               <lg>
+                  <l>AN OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>Not till the council’s over.</l>
+               </lg>
+               <lg>
+                  <l>A YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>But I’ll drink, Daire.</l>
+               </lg>
+               <lg>
+                  <l>ANOTHER YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>Fill me a horn too, Daire.</l>
+               </lg>
+               <lg>
+                  <l>ANOTHER YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>If I’d drunk half that you have drunk to-day,</l>
+               </lg>
+               <lg>
+                  <l>I’d be upon all fours.</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>That would be natural</l>
+               </lg>
+               <lg>
+                  <l>When Mother Earth had given you this good milk</l>
+               </lg>
+               <lg>
+                  <l>From her great breasts.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>(To one of the young Kings beside him)</l>
+               </lg>
+               <lg>
+                  <l>One is content awhile</l>
+               </lg>
+               <lg>
+                  <l>With a soft warm woman who folds up our lives</l>
+               </lg>
+               <lg>
+                  <l>In silky network. Then, one knows not why,</l>
+               </lg>
+               <lg>
+                  <l>But one’s away after a flinty heart.</l>
+               </lg>
+               <lg>
+                  <l>THE YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>How long can the net keep us?</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>All our lives</l>
+               </lg>
+               <lg>
+                  <l>If there are children, and a dozen moons</l>
+               </lg>
+               <lg>
+                  <l>If there are none, because a growing child</l>
+               </lg>
+               <lg>
+                  <l>Has so much need of watching it can make</l>
+               </lg>
+               <lg>
+                  <l>A passion that’s as changeable as the sea</l>
+               </lg>
+               <lg>
+                  <l>Change till it holds the wide earth to its heart.</l>
+               </lg>
+               <lg>
+                  <l>At least I have heard a father say it, but I</l>
+               </lg>
+               <lg>
+                  <l>Being childless do not know it. Come nearer yet;</l>
+               </lg>
+               <lg>
+                  <l>Though he is ringing that old silver rod</l>
+               </lg>
+               <lg>
+                  <l>We’ll have our own talk out. They cannot hear us.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>(Concobar who is now seated in his great chair, opposite Cuchullain, beats upon the pillar of the house that is nearest to him with a rod of silver, till the Kings have become silent. Cuchullain alone continues to talk in a low voice to those about him, but not so loud as to disturb the silence. Concobar rises and speaks standing.)</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>I have called you hither, Kings of Ullad, and Kings</l>
+               </lg>
+               <lg>
+                  <l>Of Muirthemne and Connall Muirthemne,</l>
+               </lg>
+               <lg>
+                  <l>And tributary Kings, for now there is peace—</l>
+               </lg>
+               <lg>
+                  <l>It’s time to build up Emain that was burned</l>
+               </lg>
+               <lg>
+                  <l>At the outsetting of these wars; for we,</l>
+               </lg>
+               <lg>
+                  <l>Being the foremost men, should have high chairs</l>
+               </lg>
+               <lg>
+                  <l>And be much stared at and wondered at, and speak</l>
+               </lg>
+               <lg>
+                  <l>Out of more laughing overflowing hearts</l>
+               </lg>
+               <lg>
+                  <l>Than common men. It is the art of kings</l>
+               </lg>
+               <lg>
+                  <l>To make what’s noble nobler in men’s eyes</l>
+               </lg>
+               <lg>
+                  <l>By wide uplifted roofs, where beaten gold,</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>That’s ruddy with desire, marries pale silver</l>
+               </lg>
+               <lg>
+                  <l>Among the shadowing beams; and many a time</l>
+               </lg>
+               <lg>
+                  <l>I would have called you hither to this work,</l>
+               </lg>
+               <lg>
+                  <l>But always, when I’d all but summoned you,</l>
+               </lg>
+               <lg>
+                  <l>Some war or some rebellion would break out.</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>Where’s Maine Morgor and old Usnach’s children,</l>
+               </lg>
+               <lg>
+                  <l>And that high-headed even-walking Queen,</l>
+               </lg>
+               <lg>
+                  <l>And many near as great that got their death</l>
+               </lg>
+               <lg>
+                  <l>Because you hated peace. I can remember</l>
+               </lg>
+               <lg>
+                  <l>The people crying out when Deirdre passed</l>
+               </lg>
+               <lg>
+                  <l>And Maine Morgor had a cold grey eye.</l>
+               </lg>
+               <lg>
+                  <l>Well, well, I’ll throw this heel-tap on the ground,</l>
+               </lg>
+               <lg>
+                  <l>For it may be they are thirsty.</l>
+               </lg>
+               <lg>
+                  <l>A KING.</l>
+               </lg>
+               <lg>
+                  <l>Be silent, fool.</l>
+               </lg>
+               <lg>
+                  <l>ANOTHER KING.</l>
+               </lg>
+               <lg>
+                  <l>Be silent, Daire.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>Let him speak his mind.</l>
+               </lg>
+               <lg>
+                  <l>I have no need to be afraid of ghosts,</l>
+               </lg>
+               <lg>
+                  <l>For I have made but necessary wars.</l>
+               </lg>
+               <lg>
+                  <l>I warred to strengthen Emain, or because</l>
+               </lg>
+               <lg>
+                  <l>When wars are out they marry and beget</l>
+               </lg>
+               <lg>
+                  <l>And have their generations like mankind</l>
+               </lg>
+               <lg>
+                  <l>And there’s no help for it; but I’m well content</l>
+               </lg>
+               <lg>
+                  <l>That they have ended and left the town so great,</l>
+               </lg>
+               <lg>
+                  <l>That its mere name shall be in times to come</l>
+               </lg>
+               <lg>
+                  <l>Like a great ale vat where the men of the world</l>
+               </lg>
+               <lg>
+                  <l>Shall drink no common ale but the hard will,</l>
+               </lg>
+               <lg>
+                  <l>The unquenchable hope, the friendliness of the sword.</l>
+               </lg>
+               <lg>
+                  <l>(He takes thin boards on which plans have been carved by those about him.)</l>
+               </lg>
+               <lg>
+                  <l>Give me the building plans, and have you written</l>
+               </lg>
+               <lg>
+                  <l>That we—Cuchullain is looking in his shield;</l>
+               </lg>
+               <lg>
+                  <l>It may be the pale riders of the wind</l>
+               </lg>
+               <lg>
+                  <l>Throw pictures on it, or that Mananan,</l>
+               </lg>
+               <lg>
+                  <l>His father’s friend and sometime fosterer,</l>
+               </lg>
+               <lg>
+                  <l>Foreknower of all things, has cast a vision,</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Out of the cold dark of the rich sea,</l>
+               </lg>
+               <lg>
+                  <l>Foretelling Emain’s greatness.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>No, great King,</l>
+               </lg>
+               <lg>
+                  <l>I looked on this out of mere idleness,</l>
+               </lg>
+               <lg>
+                  <l>Imagining a woman that I loved.</l>
+               </lg>
+               <lg>
+                  <l>(The sound of a trumpet without.)</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>Open the door, for that is a herald’s trumpet.</l>
+               </lg>
+               <lg>
+                  <l>(The great door at the back is flung open; a young man who is fully armed and carries a shield with a woman’s head painted on it, stands upon the threshold. Behind him are trumpeters. He walks into the centre of the hall, the trumpeting ceases.)</l>
+               </lg>
+               <lg>
+                  <l>What is your message?</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>I am of Aoife’s army.</l>
+               </lg>
+               <lg>
+                  <l>FIRST KING.</l>
+               </lg>
+               <lg>
+                  <l>Queen Aoife and her army have fallen upon us.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>SECOND KING.</l>
+               </lg>
+               <lg>
+                  <l>Out swords! Out swords!</l>
+               </lg>
+               <lg>
+                  <l>THIRD KING.</l>
+               </lg>
+               <lg>
+                  <l>They are about the house.</l>
+               </lg>
+               <lg>
+                  <l>FOURTH KING.</l>
+               </lg>
+               <lg>
+                  <l>Rush out! Rush out! Before they have fired the thatch.</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>Aoife is far away. I am alone.</l>
+               </lg>
+               <lg>
+                  <l>I have come alone in the midst of you</l>
+               </lg>
+               <lg>
+                  <l>To weigh this sword against Cuchullain’s sword.</l>
+               </lg>
+               <lg>
+                  <l>(There is a murmur amongst the Kings.)</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>And are you noble? for if of common seed</l>
+               </lg>
+               <lg>
+                  <l>You cannot weigh your sword against his sword</l>
+               </lg>
+               <lg>
+                  <l>But in mixed battle.</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>I am under bonds</l>
+               </lg>
+               <lg>
+                  <l>To tell my name to no man, but it’s noble.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>But I would know your name and not your bonds.</l>
+               </lg>
+               <lg>
+                  <l>You cannot speak in the Assembly House</l>
+               </lg>
+               <lg>
+                  <l>If you are not noble.</l>
+               </lg>
+               <lg>
+                  <l>A KING.</l>
+               </lg>
+               <lg>
+                  <l>Answer the High King.</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>(Drawing his sword.)</l>
+               </lg>
+               <lg>
+                  <l>I will give no other proof than the hawk gives</l>
+               </lg>
+               <lg>
+                  <l>That it’s no sparrow.</l>
+               </lg>
+               <lg>
+                  <l>(He is silent a moment then speaks to all.)</l>
+               </lg>
+               <lg>
+                  <l>Yet look upon me, Kings;</l>
+               </lg>
+               <lg>
+                  <l>I too am of that ancient seed and carry</l>
+               </lg>
+               <lg>
+                  <l>The signs about this body and in these bones.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>To have shown the hawk’s grey feather is enough</l>
+               </lg>
+               <lg>
+                  <l>And you speak highly too.</l>
+               </lg>
+               <lg>
+                  <l>(Cuchullain comes down from his great chair. He remains standing on the steps of the chair. The young Kings gather about him and begin to arm him.)</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>Give me that helmet!</l>
+               </lg>
+               <lg>
+                  <l>I’d thought they had grown weary sending champions.</l>
+               </lg>
+               <lg>
+                  <l>That coat will do. I’d half forgotten, boy,</l>
+               </lg>
+               <lg>
+                  <l>How all those great kings came into the mouse-trap</l>
+               </lg>
+               <lg>
+                  <l>That had been baited with Maeve’s pretty daughter.</l>
+               </lg>
+               <lg>
+                  <l>How Findabair, that blue-eyed Findabair—</l>
+               </lg>
+               <lg>
+                  <l>But the tale is worthy of a winter’s night.</l>
+               </lg>
+               <lg>
+                  <l>That buckle should be tighter. Give me your shield.</l>
+               </lg>
+               <lg>
+                  <l>There is good level ground at Baile’s Yew-tree</l>
+               </lg>
+               <lg>
+                  <l>Some dozen yards from here, and it’s but truth</l>
+               </lg>
+               <lg>
+                  <l>That I am sad to-day and this fight welcome.</l>
+               </lg>
+               <lg>
+                  <l>(He looks hard at the Young Man, and then steps down on to the floor of the Assembly House. He grasps the Young Man by the shoulder.)</l>
+               </lg>
+               <lg>
+                  <l>Hither into the light.</l>
+               </lg>
+               <lg>
+                  <l>(Turning to one of the young Kings)</l>
+               </lg>
+               <lg>
+                  <l>That’s the very tint</l>
+               </lg>
+               <lg>
+                  <l>Of her that I was speaking of but now:</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>Not a pin’s difference.</l>
+               </lg>
+               <lg>
+                  <l>(To the Young Man)</l>
+               </lg>
+               <lg>
+                  <l>You are from the North</l>
+               </lg>
+               <lg>
+                  <l>Where there are many that have that tint of hair</l>
+               </lg>
+               <lg>
+                  <l>Red brown, the light red brown. Come nearer, boy!</l>
+               </lg>
+               <lg>
+                  <l>For I would have another look at you.</l>
+               </lg>
+               <lg>
+                  <l>There’s more likeness, a pale, a stone pale cheek.</l>
+               </lg>
+               <lg>
+                  <l>What brought you, boy? Have you no fear of death?</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>Whether I live or die is in the Gods’ hands.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>That is all words, all words, a young man’s talk;</l>
+               </lg>
+               <lg>
+                  <l>I am their plough, their harrow, their very strength,</l>
+               </lg>
+               <lg>
+                  <l>For he that’s in the sun begot this body</l>
+               </lg>
+               <lg>
+                  <l>Upon a mortal woman, and I have heard tell</l>
+               </lg>
+               <lg>
+                  <l>It seemed as if he had outrun the moon,</l>
+               </lg>
+               <lg>
+                  <l>That he must always follow through waste heaven,</l>
+               </lg>
+               <lg>
+                  <l>He loved so happily. He’ll be but slow</l>
+               </lg>
+               <lg>
+                  <l>To break a tree that was so sweetly planted.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>Let’s see that arm; I’ll see it if I like.</l>
+               </lg>
+               <lg>
+                  <l>That arm had a good father and a good mother</l>
+               </lg>
+               <lg>
+                  <l>But it is not like this.</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>You are mocking me.</l>
+               </lg>
+               <lg>
+                  <l>You think I am not worthy to be fought,</l>
+               </lg>
+               <lg>
+                  <l>But I’ll not wrangle but with this talkative knife.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Put up your sword, I am not mocking you.</l>
+               </lg>
+               <lg>
+                  <l>I’d have you for my friend, but if it’s not</l>
+               </lg>
+               <lg>
+                  <l>Because you have a hot heart and a cold eye</l>
+               </lg>
+               <lg>
+                  <l>I cannot tell the reason. You’ve got her fierceness,</l>
+               </lg>
+               <lg>
+                  <l>And nobody is as fierce as those pale women.</l>
+               </lg>
+               <lg>
+                  <l>(To the young Kings)</l>
+               </lg>
+               <lg>
+                  <l>We’ll keep him here in Muirthemne awhile.</l>
+               </lg>
+               <lg>
+                  <l>A YOUNG KING.</l>
+               </lg>
+               <lg>
+                  <l>You are the leader of our pack and therefore</l>
+               </lg>
+               <lg>
+                  <l>May cry what you will.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>You’ll stop with us</l>
+               </lg>
+               <lg>
+                  <l>And we will hunt the deer and the wild bulls</l>
+               </lg>
+               <lg>
+                  <l>And, when we have grown weary, light our fires</l>
+               </lg>
+               <lg>
+                  <l>In sandy places where the wool-white foam</l>
+               </lg>
+               <lg>
+                  <l>Is murmuring and breaking, and it may be</l>
+               </lg>
+               <lg>
+                  <l>That long-haired women will come out of the dunes</l>
+               </lg>
+               <lg>
+                  <l>To dance in the yellow fire-light. You hang your head,</l>
+               </lg>
+               <lg>
+                  <l>Young man, as if it was not a good life;</l>
+               </lg>
+               <lg>
+                  <l>And yet what’s better than to hurl the spear,</l>
+               </lg>
+               <lg>
+                  <l>And hear the long-remembering harp, and dance;</l>
+               </lg>
+               <lg>
+                  <l>Friendship grows quicker in the murmuring dark;</l>
+               </lg>
+               <lg>
+                  <l>But I can see there’s no more need for words</l>
+               </lg>
+               <lg>
+                  <l>And that you’ll be my friend now.</l>
+               </lg>
+               <lg>
+                  <l>FIRST OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>Concobar,</l>
+               </lg>
+               <lg>
+                  <l>Forbid their friendship, for it will get twisted</l>
+               </lg>
+               <lg>
+                  <l>To a reproach against us.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>Until now</l>
+               </lg>
+               <lg>
+                  <l>I’d never need to cry Cuchullain on</l>
+               </lg>
+               <lg>
+                  <l>And would not now.</l>
+               </lg>
+               <lg>
+                  <l>FIRST OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>They’ll say his manhood’s quenched.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>I’ll give you gifts, but I’ll have something too,</l>
+               </lg>
+               <lg>
+                  <l>An arm-ring or the like, and if you will</l>
+               </lg>
+               <lg>
+                  <l>We’ll fight it out when you are older, boy.</l>
+               </lg>
+               <lg>
+                  <l>AN OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>Aoife will make some story out of this.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Well, well, what matter, I’ll have that arm-ring, boy.</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>There is no man I’d sooner have my friend</l>
+               </lg>
+               <lg>
+                  <l>Than you whose name has gone about the world</l>
+               </lg>
+               <lg>
+                  <l>As if it had been the wind, but Aoife’d say</l>
+               </lg>
+               <lg>
+                  <l>I had turned coward.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>I’ll give you gifts</l>
+               </lg>
+               <lg>
+                  <l>That Aoife’ll know and all her people know</l>
+               </lg>
+               <lg>
+                  <l>To have been my gifts. Mananan son of the sea</l>
+               </lg>
+               <lg>
+                  <l>Gave me this heavy purple cloak. Nine Queens</l>
+               </lg>
+               <lg>
+                  <l>Of the Land-under-Wave had woven it</l>
+               </lg>
+               <lg>
+                  <l>Out of the fleeces of the sea. O! tell her</l>
+               </lg>
+               <lg>
+                  <l>I was afraid, or tell her what you will.</l>
+               </lg>
+               <lg>
+                  <l>No! tell her that I heard a raven croak</l>
+               </lg>
+               <lg>
+                  <l>On the north side of the house and was afraid.</l>
+               </lg>
+               <lg>
+                  <l>AN OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>Some witch of the air has troubled Cuchullain’s mind.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>No witchcraft, his head is like a woman’s head</l>
+               </lg>
+               <lg>
+                  <l>I had a fancy for.</l>
+               </lg>
+               <lg>
+                  <l>SECOND OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>A witch of the air</l>
+               </lg>
+               <lg>
+                  <l>Can make a leaf confound us with memories.</l>
+               </lg>
+               <lg>
+                  <l>They have gone to school to learn the trick of it.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>But there’s no trick in this. That arm-ring, boy.</l>
+               </lg>
+               <lg>
+                  <l>THIRD OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>He shall not go unfought, I’ll fight with him.</l>
+               </lg>
+               <lg>
+                  <l>FOURTH OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>No! I will fight with him.</l>
+               </lg>
+               <lg>
+                  <l>FIRST OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>I claim the fight,</l>
+               </lg>
+               <lg>
+                  <l>For when we sent an army to her land—</l>
+               </lg>
+               <lg>
+                  <l>SECOND OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>I claim the fight, for one of Aoife’s galleys</l>
+               </lg>
+               <lg>
+                  <l>Stole my great cauldron and a herd of pigs.</l>
+               </lg>
+               <lg>
+                  <l>THIRD OLD KING.</l>
+               </lg>
+               <lg>
+                  <l>No, no, I claim it, for at Lammas’ time—</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Back! Back! Put up your swords! Put up your swords!</l>
+               </lg>
+               <lg>
+                  <l>There’s none alive that shall accept a challenge</l>
+               </lg>
+               <lg>
+                  <l>I have refused. Laegaire, put up your sword.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>No, let them come, let any three together.</l>
+               </lg>
+               <lg>
+                  <l>If they’ve a mind to, I’ll try it out with four.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>That’s spoken as I’d spoken it at your age,</l>
+               </lg>
+               <lg>
+                  <l>But you are in my house. Whatever man</l>
+               </lg>
+               <lg>
+                  <l>Would fight with you shall fight it out with me.</l>
+               </lg>
+               <lg>
+                  <l>They’re dumb. They’re dumb. How many of you would meet (drawing his sword)</l>
+               </lg>
+               <lg>
+                  <l>This mutterer, this old whistler, this sand-piper,</l>
+               </lg>
+               <lg>
+                  <l>This edge that’s greyer than the tide, this mouse</l>
+               </lg>
+               <lg>
+                  <l>That’s gnawing at the timbers of the world,</l>
+               </lg>
+               <lg>
+                  <l>This, this—Boy, I would meet them all in arms</l>
+               </lg>
+               <lg>
+                  <l>If I’d a son like you. He would avenge me</l>
+               </lg>
+               <lg>
+                  <l>When I have withstood for the last time the men</l>
+               </lg>
+               <lg>
+                  <l>Whose fathers, brothers, sons, and friends I have killed</l>
+               </lg>
+               <lg>
+                  <l>Upholding Ullad; when the four provinces</l>
+               </lg>
+               <lg>
+                  <l>Have gathered with the ravens over them.</l>
+               </lg>
+               <lg>
+                  <l>But I’d need no avenger. You and I</l>
+               </lg>
+               <lg>
+                  <l>Would scatter them like water from a dish.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>We’ll stand by one another from this out.</l>
+               </lg>
+               <lg>
+                  <l>Here is the ring.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>No, turn and turn about</l>
+               </lg>
+               <lg>
+                  <l>But my turn is first, because I am the older.</l>
+               </lg>
+               <lg>
+                  <l>Cliodna embroidered these bird wings, but Fand</l>
+               </lg>
+               <lg>
+                  <l>Made all these little golden eyes with the hairs</l>
+               </lg>
+               <lg>
+                  <l>That she had stolen out of Aengus’ beard,</l>
+               </lg>
+               <lg>
+                  <l>And therefore none that has this cloak about him</l>
+               </lg>
+               <lg>
+                  <l>Is crossed in love. The heavy inlaid brooch</l>
+               </lg>
+               <lg>
+                  <l>That Buan hammered has a merit too.</l>
+               </lg>
+               <lg>
+                  <l>(He begins spreading the cloak out on a bench, showing it to the Young Man. Suddenly Concobar beats with his silver rod on a pillar beside his chair. All turn towards him.)</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>(In a loud voice.) No more of that, I will not have this friendship.</l>
+               </lg>
+               <lg>
+                  <l>Cuchullain is my man and I forbid it;</l>
+               </lg>
+               <lg>
+                  <l>He shall not go unfought for I myself—</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Seizing Concobar.) You shall not stir, High King, I’ll hold you there.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>Witchcraft has maddened you.</l>
+               </lg>
+               <lg>
+                  <l>THE KINGS.</l>
+               </lg>
+               <lg>
+                  <l>(Shouting.) Yes, witchcraft, witchcraft.</l>
+               </lg>
+               <lg>
+                  <l>A KING.</l>
+               </lg>
+               <lg>
+                  <l>You saw another’s head upon his shoulders</l>
+               </lg>
+               <lg>
+                  <l>All of a sudden, a woman’s head, Cuchullain,</l>
+               </lg>
+               <lg>
+                  <l>Then raised your hand against the King of Ullad.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Letting Concobar go, and looking wildly about him.)</l>
+               </lg>
+               <lg>
+                  <l>Yes, yes, all of a sudden, all of a sudden.</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>Why, there’s no witchcraft in it, I myself</l>
+               </lg>
+               <lg>
+                  <l>Have made a hundred of these sudden friendships</l>
+               </lg>
+               <lg>
+                  <l>And fought it out next day. But that was folly,</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>For now that I am old I know it is best</l>
+               </lg>
+               <lg>
+                  <l>To live in comfort.</l>
+               </lg>
+               <lg>
+                  <l>A KING.</l>
+               </lg>
+               <lg>
+                  <l>Pull the fool away.</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>I’ll throw a heel-tap to the one that dies.</l>
+               </lg>
+               <lg>
+                  <l>CONCOBAR.</l>
+               </lg>
+               <lg>
+                  <l>Some witch is floating in the air above us.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Yes, witchcraft, witchcraft and the power of witchcraft.</l>
+               </lg>
+               <lg>
+                  <l>(To the Young Man)</l>
+               </lg>
+               <lg>
+                  <l>Why did you do it? was it Calatin’s daughters?</l>
+               </lg>
+               <lg>
+                  <l>Out, out, I say, for now it’s sword on sword.</l>
+               </lg>
+               <lg>
+                  <l>YOUNG MAN.</l>
+               </lg>
+               <lg>
+                  <l>But, but, I did not.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Out, I say, out, out!</l>
+               </lg>
+               <lg>
+                  <l>Sword upon sword.</l>
+               </lg>
+               <lg>
+                  <l>(He goes towards the door at back, followed by Young Man. He turns on the threshold and cries out, looking at the Young Man.)</l>
+               </lg>
+               <lg>
+                  <l>That hair my hands were drowned in!</l>
+               </lg>
+               <lg>
+                  <l>(He goes out, followed by Young Man. The other Kings begin to follow them out.)</l>
+               </lg>
+               <lg>
+                  <l>A KING.</l>
+               </lg>
+               <lg>
+                  <l>I saw him fight with Ferdiad.</l>
+               </lg>
+               <lg>
+                  <l>SECOND KING.</l>
+               </lg>
+               <lg>
+                  <l>We’ll be too late</l>
+               </lg>
+               <lg>
+                  <l>They’re such a long time getting through the door.</l>
+               </lg>
+               <lg>
+                  <l>THIRD KING.</l>
+               </lg>
+               <lg>
+                  <l>Run quicker, quicker.</l>
+               </lg>
+               <lg>
+                  <l>DAIRE.</l>
+               </lg>
+               <lg>
+                  <l>I was at the Smith’s</l>
+               </lg>
+               <lg>
+                  <l>When he that was the boy Setanta then—</l>
+               </lg>
+               <lg>
+                  <l>(Sound of fighting outside.)</l>
+               </lg>
+               <lg>
+                  <l>THIRD KING.</l>
+               </lg>
+               <lg>
+                  <l>He will have killed him. They have begun the fight!</l>
+               </lg>
+               <lg>
+                  <l>(They all go out, leaving the house silent and empty. There is a pause during which one hears the clashing of the swords. Barach and Fintain come in from side door. Barach is dragging Fintain.)</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>You have eaten it, you have eaten it, you have left me nothing but the bones.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>O, that I should have to endure such a plague.</l>
+               </lg>
+               <lg>
+                  <l>O, I ache all over. O, I am pulled in pieces.</l>
+               </lg>
+               <lg>
+                  <l>This is the way you pay me all the good I have done you!</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>You have eaten it, you have told me lies about a wild dog. Nobody has seen a wild dog about the place this twelve month. Lie there till the Kings come. O, I will tell Concobar and Cuchullain and all the Kings about you!</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>What would have happened to you but for me, and you without your wits. If I did not take care of you what would you do for food and warmth!</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>You take care of me? You stay safe and send me into every kind of danger. You sent me down the cliff for gull’s eggs while you warmed your blind eyes in the sun. And then you ate all that were good for food. You left me the eggs that were neither egg nor bird. (The blind man tries to rise. Barach makes him lie down again.)</l>
+               </lg>
+               <lg>
+                  <l>Keep quiet now till I shut the door. There is some noise outside. There are swords crossing; a high vexing noise so that I can’t be listening to myself. (He goes to the big door at the back and shuts it.) Why can’t they be quiet, why can’t they be quiet. Ah, you would get away, would you? (He follows the blind man who has been crawling along the wall and makes him lie down close to the King’s chair.) Lie there, lie there. No, you won’t get away. Lie there till the Kings come, I’ll tell them all about you. I shall tell it all. How you sit warming yourself, when you have made me light a fire of sticks, while I sit blowing it with my mouth. Do you not always make me take the windy side of the bush when it blows and the rainy side when it rains?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>O good fool, listen to me. Think of the care I have taken of you. I have brought you to many a warm hearth, where there was a good welcome for you, but you would not stay there, you were always wandering about.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>The last time you brought me in, it was not I who wandered away, but you that got put out because you took the crubeen out of the pot, when you thought nobody was looking. Keep quiet now, keep quiet till I shut the door. Here is Cuchullain, now you will be beaten. I am going to tell him everything.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Comes in and says to the fool) Give me that horn.</l>
+               </lg>
+               <lg>
+                  <l>(The fool gives him a horn which Cuchullain fills with ale and drinks.)</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Do not listen to him, listen to me.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>What are you wrangling over?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>He is fat and good for nothing. He has left me the bones and the feathers.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>What feathers?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>I left him turning a fowl at the fire. He ate it all. He left me nothing but the bones and feathers.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Do not believe him. You do not know how vain this fool is. I gave him the feathers, because I thought he would like nothing so well.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>(Barach is sitting on a bench playing with a heap of feathers which he has taken out of the breast of his coat.)</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>(Singing) When you were an acorn on the tree top—</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Where would he be but for me? I must be always thinking, thinking to get food for the two of us, and when we’ve got it, if the moon’s at the full or the tide on the turn, he’ll leave the rabbit in its snare till it is full of maggots, or let the trout slip through his hands back into the water.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>(Singing) When you were an acorn on the tree top,</l>
+               </lg>
+               <lg>
+                  <l>Then was I an eagle cock;</l>
+               </lg>
+               <lg>
+                  <l>Now that you are a withered old block,</l>
+               </lg>
+               <lg>
+                  <l>Still am I an eagle cock!</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Listen to him now! That’s the sort of talk I have to put up with day out day in. (The fool is putting the feathers into his hair. Cuchullain takes a handful of feathers out of the heap and out of the fool’s hair and begins to wipe the blood from his sword with them.)</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>He has taken my feathers to wipe his sword. It is blood that he is wiping from his sword!</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Whose blood? Whose blood?</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>That young champion’s.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>He that came out of Aoife’s country?</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>The Kings are standing round his body.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Did he fight long?</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>He thought to have saved himself with witchcraft.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>That blind man there said he would kill you. He came from Aoife’s country to kill you. That blind man said they had taught him every kind of weapon that he might do it. But I always knew that you would kill him.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>(To the blind man.) You knew him, then?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>I saw him when I had my eyes, in Aoife’s country.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>You were in Aoife’s country?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>I knew him and his mother there.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>He was about to speak of her when he died.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>He was a Queen’s son.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>What Queen, what Queen? (He seizes the blind man.)</l>
+               </lg>
+               <lg>
+                  <l>Was it Scathach? There were many Queens.</l>
+               </lg>
+               <lg>
+                  <l>All the rulers there were Queens.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>No, not Scathach.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>It was Uathach then. Speak, speak!</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>I cannot speak, you are clutching me too tightly. (Cuchullain lets him go.) I cannot remember who it was. I am not certain. It was some Queen.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>He said a while ago that the young man was Aoife’s son.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>She? No, no, she had no son when I was there.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>That blind man there said that she owned him for her son.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>I had rather he had been some other woman’s son. What father had he? A soldier out of Alba? She was an amorous woman, a proud pale amorous woman.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>None knew whose son he was.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>None knew? Did you know, old listener at doors?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>No, no, I knew nothing.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>He said a while ago that he heard Aoife boast that she’d never but the one lover, and he the only man that had overcome her in battle. (A pause.)</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Somebody is trembling. Why are you trembling, fool? the bench is shaking, why are you trembling? Is Cuchullain going to hurt us? It was not I who told you, Cuchullain.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>It is Cuchullain who is trembling. He is shaking the bench with his knees.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>He was my son, and I have killed my son.</l>
+               </lg>
+               <lg>
+                  <l>(A pause.)</l>
+               </lg>
+               <lg>
+                  <l>’Twas they that did it, the pale windy people,</l>
+               </lg>
+               <lg>
+                  <l>Where, where, where? My sword against the thunder.</l>
+               </lg>
+               <lg>
+                  <l>But no, for they have always been my friends;</l>
+               </lg>
+               <lg>
+                  <l>And though they love to blow a smoking coal</l>
+               </lg>
+               <lg>
+                  <l>Till it’s all flame, the wars they blow aflame</l>
+               </lg>
+               <lg>
+                  <l>Are full of glory, and heart uplifting pride,</l>
+               </lg>
+               <lg>
+                  <l>And not like this; the wars they love awaken</l>
+               </lg>
+               <lg>
+                  <l>Old fingers and the sleepy strings of harps.</l>
+               </lg>
+               <lg>
+                  <l>Who did it then? Are you afraid; speak out,</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>For I have put you under my protection</l>
+               </lg>
+               <lg>
+                  <l>And will reward you well. Dubthach the Chafer.</l>
+               </lg>
+               <lg>
+                  <l>He had an old grudge. No, for he is with Maeve.</l>
+               </lg>
+               <lg>
+                  <l>Laegaire did it. Why do you not speak?</l>
+               </lg>
+               <lg>
+                  <l>What is this house?</l>
+               </lg>
+               <lg>
+                  <l>(A pause.)</l>
+               </lg>
+               <lg>
+                  <l>Now I remember all.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>He will kill us. O, I am afraid!</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>(Who is before Concobar’s chair.)</l>
+               </lg>
+               <lg>
+                  <l>’Twas you who did it, you who sat up there</l>
+               </lg>
+               <lg>
+                  <l>With that old branch of silver, like a magpie</l>
+               </lg>
+               <lg>
+                  <l>Nursing a stolen spoon. Magpie, Magpie,</l>
+               </lg>
+               <lg>
+                  <l>A maggot that is eating up the earth!</l>
+               </lg>
+               <lg>
+                  <l>(Begins hacking at the chair with his sword.)</l>
+               </lg>
+               <lg>
+                  <l>No, but a magpie for he’s flown away.</l>
+               </lg>
+               <lg>
+                  <l>Where did he fly to?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>He is outside the door.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Outside the door?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>He is under Baile’s yew-tree.</l>
+               </lg>
+               <lg>
+                  <l>CUCHULLAIN.</l>
+               </lg>
+               <lg>
+                  <l>Concobar, Concobar, the sword into your heart.</l>
+               </lg>
+               <lg>
+                  <l>(He goes out. A pause. The fool goes to the great door at back and looks out after him.)</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>He is going up to King Concobar; they are all under the tree. No, no, he is standing still. There is a great wave going to break and he is looking at it. Ah! now he is running down to the sea, but he is holding up his sword as if he were going into a fight. (A pause.) Well struck, well struck!</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>What is he doing now?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>O! he is fighting the waves.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>He sees King Concobar’s crown on every one of them.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>There, he has struck at a big one. He has struck the crown off it, he has made the foam fly. There again another big one. (Shouting without.)</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Where are the Kings? What are the Kings doing?</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>They are shouting and running down to the shore, and the people are running out of the houses, they are all running.</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>You say they are running out of the houses, there will be nobody left in the houses. Listen, fool.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>There, he is down! He is up again! He is going out into the deep water.</l>
+               </lg>
+               <lg/>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>Come here, fool; come here, I say.</l>
+               </lg>
+               <lg>
+                  <l>BARACH.</l>
+               </lg>
+               <lg>
+                  <l>(Coming towards him but looking backward towards the door.) What is it?</l>
+               </lg>
+               <lg>
+                  <l>FINTAIN.</l>
+               </lg>
+               <lg>
+                  <l>There will be nobody in the houses. Come this way, come quickly; the ovens will be full; we will put our hands into the ovens. (They go out.)</l>
+               </lg>
+               <lg>
+                  <l> </l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>Essays, Etc.</head>
+               <subtitle>
+                  <hi rend="italic">By</hi> William Butler Yeats</subtitle>
+               <p rend="justify">“Leader of one of the most notable contemporary movements—the Celtic revival in Ireland, decidedly a force to be reckoned with both at the present moment and in the future.”—<hi rend="italic">Boston Transcript.</hi>
+               </p>
+               <div type="div3">
+                  <head>The Celtic Twilight</head>
+                  <p rend="justify">
+                     <hi rend="bold">With portrait and some new chapters. $1.50, </hi>
+                     <hi rend="bold italic">net</hi>
+                     <hi rend="bold">.</hi>
+                  </p>
+                  <lg>
+                     <l>“Subtle, elusive, keen with insight, and beautiful with the haunting beauty of the aptly chosen word ... a veritable contribution to literature.”—<hi rend="italic">The New York Herald.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Ideas Of Good And Evil</head>
+                  <p rend="justify">
+                     <hi rend="bold">Cloth. 12mo. $1.50, </hi>
+                     <hi rend="bold italic">net</hi>
+                     <hi rend="bold">.</hi>
+                  </p>
+                  <lg>
+                     <l>“The best book of its kind that has appeared since Maeterlinck’s ‘Buried Temple,’ full of deep thought, of excellent criticism, and of beautiful writing.”—London letter to the <hi rend="italic">Chicago Evening Post</hi>.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Where There Is Nothing</head>
+                  <p rend="justify">Vol. I. of “Plays for an Irish Theatre.” <hi rend="bold">Cloth. $1.25, </hi>
+                     <hi rend="bold italic">net</hi>
+                     <hi rend="bold">.</hi> Large paper limited edition (100 numbered copies) on Japanese vellum, <hi rend="bold">$5.00, </hi>
+                     <hi rend="bold italic">net</hi>
+                     <hi rend="bold">.</hi>
+                  </p>
+                  <div type="div4">
+                     <head>THE MACMILLAN COMPANY, Publishers</head>
+                     <p rend="center bold">66 Fifth Avenue, New York</p>
+                  </div>
+               </div>
+            </div>
+            <div type="div2">
+               <head>*** End Of This Project Gutenberg Ebook ***</head>
+               <lg>
+                  <l>Updated editions will replace the previous one—the old editions will be renamed.</l>
+               </lg>
+               <lg>
+                  <l>Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</l>
+               </lg>
+               <lg>
+                  <l>START: FULL LICENSE</l>
+               </lg>
+               <subtitle>The Full Project Gutenberg License</subtitle>
+               <p>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</p>
+               <lg>
+                  <l>To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</l>
+               </lg>
+               <lg>
+                  <l>Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</l>
+               </lg>
+               <lg>
+                  <l>1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</l>
+               </lg>
+               <lg>
+                  <l>1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</l>
+               </lg>
+               <lg>
+                  <l>1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</l>
+               </lg>
+               <lg>
+                  <l>1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</l>
+               </lg>
+               <lg>
+                  <l>1.E. Unless you have removed all references to Project Gutenberg:</l>
+               </lg>
+               <lg>
+                  <l>1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</l>
+               </lg>
+               <p rend="justify">This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</p>
+               <lg>
+                  <l>1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</l>
+               </lg>
+               <lg>
+                  <l>1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</l>
+               </lg>
+               <lg>
+                  <l>1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</l>
+               </lg>
+               <lg>
+                  <l>1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.</l>
+               </lg>
+               <lg>
+                  <l>1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</l>
+               </lg>
+               <lg>
+                  <l>1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</l>
+               </lg>
+               <lg>
+                  <l>1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</l>
+               </lg>
+               <lg>
+                  <l>• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</l>
+               </lg>
+               <lg>
+                  <l>• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</l>
+               </lg>
+               <lg>
+                  <l>• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</l>
+               </lg>
+               <lg>
+                  <l>• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</l>
+               </lg>
+               <lg>
+                  <l>1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</l>
+               </lg>
+               <lg>
+                  <l>1.F.</l>
+               </lg>
+               <lg>
+                  <l>1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</l>
+               </lg>
+               <lg>
+                  <l>1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</l>
+               </lg>
+               <lg>
+                  <l>1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</l>
+               </lg>
+               <lg>
+                  <l>1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</l>
+               </lg>
+               <lg>
+                  <l>1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</l>
+               </lg>
+               <lg>
+                  <l>1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</l>
+               </lg>
+               <lg>
+                  <l>Section 2. Information about the Mission of Project Gutenberg™</l>
+               </lg>
+               <lg>
+                  <l>Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</l>
+               </lg>
+               <lg>
+                  <l>Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</l>
+               </lg>
+               <lg>
+                  <l>Section 3. Information about the Project Gutenberg Literary Archive Foundation</l>
+               </lg>
+               <lg>
+                  <l>The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</l>
+               </lg>
+               <lg>
+                  <l>The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</l>
+               </lg>
+               <lg>
+                  <l>Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</l>
+               </lg>
+               <lg>
+                  <l>Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</l>
+               </lg>
+               <lg>
+                  <l>The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit <ref target="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</ref>.</l>
+               </lg>
+               <lg>
+                  <l>While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</l>
+               </lg>
+               <lg>
+                  <l>International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</l>
+               </lg>
+               <lg>
+                  <l>Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</l>
+               </lg>
+               <lg>
+                  <l>Section 5. General Information About Project Gutenberg™ electronic works</l>
+               </lg>
+               <lg>
+                  <l>Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</l>
+               </lg>
+               <lg>
+                  <l>Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</l>
+               </lg>
+               <lg>
+                  <l>Most people start at our website which has the main PG search facility: <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>.</l>
+               </lg>
+               <lg>
+                  <l>This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</l>
+               </lg>
+               <subtitle>The Project Gutenberg eBook of In The Seven Woods, by W. B. Yeats</subtitle>
+               <p>This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <ref target="#4214716829050816145_30652-h-1.htm.xhtml#project-gutenberg-license">Project Gutenberg License</ref>included with this ebook or online at <ptr target="https://www.gutenberg.org/license"/>. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</p>
+               <lg>
+                  <l>
+                     <hi rend="bold">Title</hi>: In The Seven Woods</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Subtitle</hi>: Being Poems Chiefly of the Irish Heroic Age</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Author</hi>: W. B. Yeats</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Release Date</hi>: December 11, 2009 [EBook #30652]</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Language</hi>: English</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Credits</hi>: Produced by Marius Masi, Meredith Bach and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>*** START OF THIS PROJECT GUTENBERG EBOOK ***</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

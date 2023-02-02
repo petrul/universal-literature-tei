@@ -1,0 +1,2812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Wild Swans at Coole</title>
+            <author>Yeats, W. B. </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2022-11-08T08:07:55Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc/>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2023-01-24T17:40:18.900882205</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>                    
+      <body>
+         <head>The Wild Swans at Coole</head>
+         <author>Yeats, W. B.</author>
+         <p rend="italic">2010-05-23</p>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg/>
+         <lg/>
+         <subtitle>THE WILD SWANS AT COOLE</subtitle>
+         <lg>
+            <l>
+               <figure>
+                  <binaryObject xml:id="d3e1783" encoding="base64" mimeType="image/jpg">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
+       2Q==
+      </binaryObject>
+               </figure>
+            </l>
+         </lg>
+         <lg>
+            <l>THE MACMILLAN COMPANY</l>
+         </lg>
+         <lg>
+            <l>NEW YORK · BOSTON · CHICAGO · DALLAS</l>
+            <l>ATLANTA · SAN FRANCISCO</l>
+         </lg>
+         <lg>
+            <l>MACMILLAN &amp; CO., Limited</l>
+         </lg>
+         <lg>
+            <l>LONDON · BOMBAY · CALCUTTA</l>
+            <l>MELBOURNE</l>
+         </lg>
+         <lg>
+            <l>THE MACMILLAN CO. OF CANADA, Ltd.</l>
+         </lg>
+         <lg>
+            <l>TORONTO</l>
+         </lg>
+         <div type="div1">
+            <head>The Wild Swans At Coole</head>
+            <lg>
+               <l>BY</l>
+            </lg>
+            <lg>
+               <l>W. B. YEATS</l>
+            </lg>
+            <lg>
+               <l>
+                  <figure>
+                     <binaryObject xml:id="d3e1831" encoding="base64" mimeType="image/jpg">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
+       ooooooooooor/9k=
+      </binaryObject>
+                  </figure>
+               </l>
+            </lg>
+            <lg>
+               <l>THE MACMILLAN COMPANY</l>
+               <l>1919</l>
+            </lg>
+            <lg>
+               <l>All rights reserved</l>
+            </lg>
+            <lg>
+               <l>Copyright, 1917 and 1918,</l>
+               <l>By MARGARET C. ANDERSON.</l>
+            </lg>
+            <lg>
+               <l>Copyright, 1918,</l>
+               <l>By HARRIET MONROE.</l>
+            </lg>
+            <lg>
+               <l>Copyright, 1918 and 1919,</l>
+               <l>By THE MACMILLAN COMPANY.</l>
+            </lg>
+            <lg>
+               <l>Set up and electrotyped. Published March, 1919.</l>
+            </lg>
+            <lg>
+               <l>
+                  <figure>
+                     <binaryObject xml:id="d3e1873" encoding="base64" mimeType="image/jpg">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
+       N1KvGjKTkgqCCfWnKABhQBz2r//Z
+      </binaryObject>
+                  </figure>
+               </l>
+            </lg>
+            <lg>
+               <l>J. S. Cushing Co.—Berwick &amp; Smith Co.</l>
+               <l>Norwood, Mass., U.S.A.</l>
+            </lg>
+            <lg/>
+            <div type="div2">
+               <head>Preface</head>
+               <p rend="justify">This book is, in part, a reprint of <hi rend="italic">The Wild Swans at Coole</hi>, printed a year ago on my sister's hand-press at Dundrum, Co. Dublin. I have not, however, reprinted a play which may be a part of a book of new plays suggested by the dance plays of Japan, and I have added a number of new poems. Michael Robartes and John Aherne, whose names occur in one or other of these, are characters in some stories I wrote years ago, who have once again become a part of the phantasmagoria through which I can alone express my convictions about the world. I have the fancy that I read the name John Aherne among those of men prosecuted for making a disturbance at the first production of "The Play Boy," which may account for his animosity to myself.</p>
+               <trailer>W. B. Y.</trailer>
+               <trailer>Ballylee, Co. Galway,<lb/>        <hi rend="italic">September 1918</hi>.</trailer>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>CONTENTS/x/</head>
+               <table rend="frame" xml:id="Table1">  
+                  <row>
+                     <cell/> 
+                     <cell>page</cell>
+                  </row> 
+                  <row>
+                     <cell>The Wild Swans at Coole</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_1">1</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>In Memory of Major Robert Gregory</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_4">4</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>An Irish Airman foresees his Death</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_13">13</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Men improve with the Years</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_14">14</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Collar-Bone of a Hare</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_15">15</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Under the Round Tower</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_17">17</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Solomon to Sheba</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_19">19</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Living Beauty</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_21">21</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>A Song</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_22">22</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>To a Young Beauty</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_23">23</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>To a Young Girl</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_24">24</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Scholars</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_25">25</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Tom O'Roughley</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_26">26</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Sad Shepherd</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_27">27</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Lines written in Dejection</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_39">39</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Dawn</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_40">40</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>On Woman</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_41">41</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Fisherman</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_44">44</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Hawk</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_46">46</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Memory</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_47">47</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Her Praise</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_48">48</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The People</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_50">50</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>His Phoenix</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_54">54</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>A Thought from Propertius</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_58">58</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Broken Dreams</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_59">59</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>A Deep-Sworn Vow</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_63">63</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Presences</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_64">64</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Balloon of the Mind</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_66">66</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>To a Squirrel at Kyle-Na-Gno</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_67">67</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>On being asked for a War Poem</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_68">68</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>In Memory of Alfred Pollexfen</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_69">69</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Upon a Dying Lady</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_72">72</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Ego Dominus Tuus</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_79">79</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>A Prayer on going into my House</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_86">86</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Phases of the Moon</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_88">88</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Cat and the Moon</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_102">102</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>The Saint and the Hunchback</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_104">104</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Two Songs of a Fool</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_106">106</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Another Song of a Fool</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_108">108</ref>
+                     </cell>
+                  </row>  
+                  <row>
+                     <cell>The Double Vision of Michael Robartes</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_109">109</ref>
+                     </cell>
+                  </row> 
+                  <row>
+                     <cell>Note</cell> 
+                     <cell>
+                        <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_115">115</ref>
+                     </cell>
+                  </row>
+               </table>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>The Wild Swans At Coole</head>
+               <lg>
+                  <l>The trees are in their autumn beauty,</l>
+                  <l>The woodland paths are dry,</l>
+                  <l>Under the October twilight the water</l>
+                  <l>Mirrors a still sky;</l>
+                  <l>Upon the brimming water among the stones</l>
+                  <l>Are nine and fifty swans.</l>
+               </lg>
+               <lg>
+                  <l>The nineteenth Autumn has come upon me</l>
+                  <l>Since I first made my count;</l>
+                  <l>I saw, before I had well finished,</l>
+                  <l>All suddenly mount</l>
+                  <l>And scatter wheeling in great broken rings</l>
+                  <l>Upon their clamorous wings.</l>
+               </lg>
+               <lg>
+                  <l>I have looked upon those brilliant creatures,</l>
+                  <l>And now my heart is sore.</l>
+                  <l>All's changed since I, hearing at twilight,</l>
+                  <l>The first time on this shore,</l>
+                  <l>The bell-beat of their wings above my head,</l>
+                  <l>Trod with a lighter tread.</l>
+               </lg>
+               <lg>
+                  <l>Unwearied still, lover by lover,</l>
+                  <l>They paddle in the cold,</l>
+                  <l>Companionable streams or climb the air;</l>
+                  <l>Their hearts have not grown old;</l>
+                  <l> Passion or conquest, wander where they will,</l>
+                  <l>Attend upon them still.</l>
+               </lg>
+               <lg>
+                  <l>But now they drift on the still water</l>
+                  <l>Mysterious, beautiful;</l>
+                  <l>Among what rushes will they build,</l>
+                  <l>By what lake's edge or pool</l>
+                  <l>Delight men's eyes, when I awake some day</l>
+                  <l>To find they have flown away?</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>In Memory Of<lb/>Major Robert Gregory</head>
+               <div type="div3">
+                  <head>1</head>
+                  <lg>
+                     <l>Now that we're almost settled in our house</l>
+                     <l>I'll name the friends that cannot sup with us</l>
+                     <l>Beside a fire of turf in the ancient tower,</l>
+                     <l>And having talked to some late hour</l>
+                     <l>Climb up the narrow winding stair to bed:</l>
+                     <l>Discoverers of forgotten truth</l>
+                     <l>Or mere companions of my youth,</l>
+                     <l>All, all are in my thoughts to-night, being dead.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>2</head>
+                  <lg>
+                     <l>Always we'd have the new friend meet the old,</l>
+                     <l>And we are hurt if either friend seem cold,</l>
+                     <l>And there is salt to lengthen out the smart</l>
+                     <l>In the affections of our heart,</l>
+                     <l>And quarrels are blown up upon that head;</l>
+                     <l>But not a friend that I would bring</l>
+                     <l>This night can set us quarrelling,</l>
+                     <l> For all that come into my mind are dead.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>3</head>
+                  <lg>
+                     <l>Lionel Johnson comes the first to mind,</l>
+                     <l>That loved his learning better than mankind,</l>
+                     <l>Though courteous to the worst; much falling he</l>
+                     <l>Brooded upon sanctity</l>
+                     <l>Till all his Greek and Latin learning seemed</l>
+                     <l>A long blast upon the horn that brought</l>
+                     <l>A little nearer to his thought</l>
+                     <l>A measureless consummation that he dreamed.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>4</head>
+                  <lg>
+                     <l>And that enquiring man John Synge comes next,</l>
+                     <l>That dying chose the living world for text</l>
+                     <l>And never could have rested in the tomb</l>
+                     <l>But that, long travelling, he had come</l>
+                     <l>Towards nightfall upon certain set apart</l>
+                     <l>In a most desolate stony place,</l>
+                     <l>Towards nightfall upon a race</l>
+                     <l>Passionate and simple like his heart.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>5</head>
+                  <lg>
+                     <l>And then I think of old George Pollexfen,</l>
+                     <l>In muscular youth well known to Mayo men</l>
+                     <l>For horsemanship at meets or at race-courses,</l>
+                     <l>That could have shown how purebred horses</l>
+                     <l>And solid men, for all their passion, live</l>
+                     <l>But as the outrageous stars incline</l>
+                     <l>By opposition, square and trine;</l>
+                     <l>Having grown sluggish and contemplative.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>6</head>
+                  <lg>
+                     <l>They were my close companions many a year,</l>
+                     <l>A portion of my mind and life, as it were,</l>
+                     <l>And now their breathless faces seem to look</l>
+                     <l>Out of some old picture-book;</l>
+                     <l>I am accustomed to their lack of breath,</l>
+                     <l>But not that my dear friend's dear son,</l>
+                     <l>Our Sidney and our perfect man,</l>
+                     <l>Could share in that discourtesy of death.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>7</head>
+                  <lg>
+                     <l>For all things the delighted eye now sees</l>
+                     <l>Were loved by him; the old storm-broken trees</l>
+                     <l>That cast their shadows upon road and bridge;</l>
+                     <l>The tower set on the stream's edge;</l>
+                     <l>The ford where drinking cattle make a stir</l>
+                     <l>Nightly, and startled by that sound</l>
+                     <l>The water-hen must change her ground;</l>
+                     <l>He might have been your heartiest welcomer.</l>
+                     <l> </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>8</head>
+                  <lg>
+                     <l>When with the Galway foxhounds he would ride</l>
+                     <l>From Castle Taylor to the Roxborough side</l>
+                     <l>Or Esserkelly plain, few kept his pace;</l>
+                     <l>At Mooneen he had leaped a place</l>
+                     <l>So perilous that half the astonished meet</l>
+                     <l>Had shut their eyes, and where was it</l>
+                     <l>He rode a race without a bit?</l>
+                     <l>And yet his mind outran the horses' feet.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>9</head>
+                  <lg>
+                     <l>We dreamed that a great painter had been born</l>
+                     <l>To cold Clare rock and Galway rock and thorn,</l>
+                     <l>To that stern colour and that delicate line</l>
+                     <l>That are our secret discipline</l>
+                     <l>Wherein the gazing heart doubles her might.</l>
+                     <l>Soldier, scholar, horseman, he,</l>
+                     <l>And yet he had the intensity</l>
+                     <l>To have published all to be a world's delight.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>10</head>
+                  <lg>
+                     <l>What other could so well have counselled us</l>
+                     <l>In all lovely intricacies of a house</l>
+                     <l>As he that practised or that understood</l>
+                     <l>All work in metal or in wood,</l>
+                     <l>In moulded plaster or in carven stone?</l>
+                     <l>Soldier, scholar, horseman, he,</l>
+                     <l>And all he did done perfectly</l>
+                     <l>As though he had but that one trade alone.</l>
+                     <l> </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>11</head>
+                  <lg>
+                     <l>Some burn damp fagots, others may consume</l>
+                     <l>The entire combustible world in one small room</l>
+                     <l>As though dried straw, and if we turn about</l>
+                     <l>The bare chimney is gone black out</l>
+                     <l>Because the work had finished in that flare.</l>
+                     <l>Soldier, scholar, horseman, he,</l>
+                     <l>As 'twere all life's epitome.</l>
+                     <l>What made us dream that he could comb grey hair?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>12</head>
+                  <lg>
+                     <l>I had thought, seeing how bitter is that wind</l>
+                     <l>That shakes the shutter, to have brought to mind</l>
+                     <l>All those that manhood tried, or childhood loved,</l>
+                     <l>Or boyish intellect approved,</l>
+                     <l>With some appropriate commentary on each;</l>
+                     <l>Until imagination brought</l>
+                     <l>A fitter welcome; but a thought</l>
+                     <l>Of that late death took all my heart for speech.</l>
+                  </lg>
+                  <lg/>
+               </div>
+            </div>
+            <div type="div2">
+               <head>AN IRISH AIRMAN FORESEES<lb/>HIS DEATH</head>
+               <lg>
+                  <l>I know that I shall meet my fate</l>
+                  <l>Somewhere among the clouds above;</l>
+                  <l>Those that I fight I do not hate</l>
+                  <l>Those that I guard I do not love;</l>
+                  <l>My country is Kiltartan Cross,</l>
+                  <l>My countrymen Kiltartan's poor,</l>
+                  <l>No likely end could bring them loss</l>
+                  <l>Or leave them happier than before.</l>
+                  <l>Nor law, nor duty bade me fight,</l>
+                  <l>Nor public man, nor angry crowds,</l>
+                  <l>A lonely impulse of delight</l>
+                  <l>Drove to this tumult in the clouds;</l>
+                  <l>I balanced all, brought all to mind,</l>
+                  <l>The years to come seemed waste of breath,</l>
+                  <l>A waste of breath the years behind</l>
+                  <l>In balance with this life, this death.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>MEN IMPROVE WITH THE<lb/>YEARS</head>
+               <lg>
+                  <l>I am worn out with dreams;</l>
+                  <l>A weather-worn, marble triton</l>
+                  <l>Among the streams;</l>
+                  <l>And all day long I look</l>
+                  <l>Upon this lady's beauty</l>
+                  <l>As though I had found in book</l>
+                  <l>A pictured beauty,</l>
+                  <l>Pleased to have filled the eyes</l>
+                  <l>Or the discerning ears,</l>
+                  <l>Delighted to be but wise,</l>
+                  <l>For men improve with the years;</l>
+                  <l>And yet and yet</l>
+                  <l>Is this my dream, or the truth?</l>
+                  <l>O would that we had met</l>
+                  <l>When I had my burning youth;</l>
+                  <l>But I grow old among dreams,</l>
+                  <l>A weather-worn, marble triton</l>
+                  <l>Among the streams.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE COLLAR-BONE OF A<lb/>HARE</head>
+               <lg>
+                  <l>Would I could cast a sail on the water</l>
+                  <l>Where many a king has gone</l>
+                  <l>And many a king's daughter,</l>
+                  <l>And alight at the comely trees and the lawn,</l>
+                  <l>The playing upon pipes and the dancing,</l>
+                  <l>And learn that the best thing is</l>
+                  <l>To change my loves while dancing</l>
+                  <l>And pay but a kiss for a kiss.</l>
+               </lg>
+               <lg>
+                  <l>I would find by the edge of that water</l>
+                  <l>The collar-bone of a hare</l>
+                  <l>Worn thin by the lapping of water,</l>
+                  <l>And pierce it through with a gimlet and stare</l>
+                  <l>At the old bitter world where they marry in churches,</l>
+                  <l>And laugh over the untroubled water</l>
+                  <l>At all who marry in churches,</l>
+                  <l>Through the white thin bone of a hare.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>UNDER THE ROUND TOWER</head>
+               <lg>
+                  <l>'Although I'd lie lapped up in linen</l>
+                  <l>A deal I'd sweat and little earn</l>
+                  <l>If I should live as live the neighbours,'</l>
+                  <l>Cried the beggar, Billy Byrne;</l>
+                  <l>'Stretch bones till the daylight come</l>
+                  <l>On great-grandfather's battered tomb.'</l>
+               </lg>
+               <lg>
+                  <l>Upon a grey old battered tombstone</l>
+                  <l>In Glendalough beside the stream,</l>
+                  <l>Where the O'Byrnes and Byrnes are buried,</l>
+                  <l>He stretched his bones and fell in a dream</l>
+                  <l>Of sun and moon that a good hour</l>
+                  <l>Bellowed and pranced in the round tower;</l>
+                  <l>Of golden king and silver lady,</l>
+                  <l>Bellowing up and bellowing round,</l>
+                  <l>Till toes mastered a sweet measure,</l>
+                  <l>Mouth mastered a sweet sound,</l>
+                  <l>Prancing round and prancing up</l>
+                  <l>Until they pranced upon the top.</l>
+               </lg>
+               <lg>
+                  <l>That golden king and that wild lady</l>
+                  <l>Sang till stars began to fade,</l>
+                  <l>Hands gripped in hands, toes close together,</l>
+                  <l> Hair spread on the wind they made;</l>
+                  <l>That lady and that golden king</l>
+                  <l>Could like a brace of blackbirds sing.</l>
+               </lg>
+               <lg>
+                  <l>'It's certain that my luck is broken,'</l>
+                  <l>That rambling jailbird Billy said;</l>
+                  <l>'Before nightfall I'll pick a pocket</l>
+                  <l>And snug it in a feather-bed,</l>
+                  <l>I cannot find the peace of home</l>
+                  <l>On great-grandfather's battered tomb.'</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>SOLOMON TO SHEBA</head>
+               <lg>
+                  <l>Sang Solomon to Sheba,</l>
+                  <l>And kissed her dusky face,</l>
+                  <l>'All day long from mid-day</l>
+                  <l>We have talked in the one place,</l>
+                  <l>All day long from shadowless noon</l>
+                  <l>We have gone round and round</l>
+                  <l>In the narrow theme of love</l>
+                  <l>Like an old horse in a pound.'</l>
+               </lg>
+               <lg>
+                  <l>To Solomon sang Sheba,</l>
+                  <l>Planted on his knees,</l>
+                  <l>'If you had broached a matter</l>
+                  <l>That might the learned please,</l>
+                  <l>You had before the sun had thrown</l>
+                  <l>Our shadows on the ground</l>
+                  <l>Discovered that my thoughts, not it,</l>
+                  <l>Are but a narrow pound.'</l>
+               </lg>
+               <lg>
+                  <l>Sang Solomon to Sheba,</l>
+                  <l>And kissed her Arab eyes,</l>
+                  <l>'There's not a man or woman</l>
+                  <l>Born under the skies</l>
+                  <l>Dare match in learning with us two,</l>
+                  <l> And all day long we have found</l>
+                  <l>There's not a thing but love can make</l>
+                  <l>The world a narrow pound.'</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE LIVING BEAUTY</head>
+               <lg>
+                  <l>I'll say and maybe dream I have drawn content—</l>
+                  <l>Seeing that time has frozen up the blood,</l>
+                  <l>The wick of youth being burned and the oil spent—</l>
+                  <l>From beauty that is cast out of a mould</l>
+                  <l>In bronze, or that in dazzling marble appears,</l>
+                  <l>Appears, and when we have gone is gone again,</l>
+                  <l>Being more indifferent to our solitude</l>
+                  <l>Than 'twere an apparition. O heart, we are old,</l>
+                  <l>The living beauty is for younger men,</l>
+                  <l>We cannot pay its tribute of wild tears.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>A SONG</head>
+               <lg>
+                  <l>I thought no more was needed</l>
+                  <l>Youth to prolong</l>
+                  <l>Than dumb-bell and foil</l>
+                  <l>To keep the body young.</l>
+                  <l>Oh, who could have foretold</l>
+                  <l>That the heart grows old?</l>
+               </lg>
+               <lg>
+                  <l>Though I have many words,</l>
+                  <l>What woman's satisfied,</l>
+                  <l>I am no longer faint</l>
+                  <l>Because at her side?</l>
+                  <l>Oh, who could have foretold</l>
+                  <l>That the heart grows old?</l>
+               </lg>
+               <lg>
+                  <l>I have not lost desire</l>
+                  <l>But the heart that I had,</l>
+                  <l>I thought 'twould burn my body</l>
+                  <l>Laid on the death-bed.</l>
+                  <l>But who could have foretold</l>
+                  <l>That the heart grows old?</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>TO A YOUNG BEAUTY</head>
+               <lg>
+                  <l>Dear fellow-artist, why so free</l>
+                  <l>With every sort of company,</l>
+                  <l>With every Jack and Jill?</l>
+                  <l>Choose your companions from the best;</l>
+                  <l>Who draws a bucket with the rest</l>
+                  <l>Soon topples down the hill.</l>
+               </lg>
+               <lg>
+                  <l>You may, that mirror for a school,</l>
+                  <l>Be passionate, not bountiful</l>
+                  <l>As common beauties may,</l>
+                  <l>Who were not born to keep in trim</l>
+                  <l>With old Ezekiel's cherubim</l>
+                  <l>But those of Beaujolet.</l>
+               </lg>
+               <lg>
+                  <l>I know what wages beauty gives,</l>
+                  <l>How hard a life her servant lives,</l>
+                  <l>Yet praise the winters gone;</l>
+                  <l>There is not a fool can call me friend,</l>
+                  <l>And I may dine at journey's end</l>
+                  <l>With Landor and with Donne.</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>TO A YOUNG GIRL</head>
+               <lg>
+                  <l>My dear, my dear, I know</l>
+                  <l>More than another</l>
+                  <l>What makes your heart beat so;</l>
+                  <l>Not even your own mother</l>
+                  <l>Can know it as I know,</l>
+                  <l>Who broke my heart for her</l>
+                  <l>When the wild thought,</l>
+                  <l>That she denies</l>
+                  <l>And has forgot,</l>
+                  <l>Set all her blood astir</l>
+                  <l>And glittered in her eyes.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE SCHOLARS</head>
+               <lg>
+                  <l>Bald heads forgetful of their sins,</l>
+                  <l>Old, learned, respectable bald heads</l>
+                  <l>Edit and annotate the lines</l>
+                  <l>That young men, tossing on their beds,</l>
+                  <l>Rhymed out in love's despair</l>
+                  <l>To flatter beauty's ignorant ear.</l>
+               </lg>
+               <lg>
+                  <l>They'll cough in the ink to the world's end;</l>
+                  <l>Wear out the carpet with their shoes</l>
+                  <l>Earning respect; have no strange friend;</l>
+                  <l>If they have sinned nobody knows.</l>
+                  <l>Lord, what would they say</l>
+                  <l>Should their Catullus walk that way?</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>TOM O'ROUGHLEY</head>
+               <lg>
+                  <l>'Though logic choppers rule the town,</l>
+                  <l>And every man and maid and boy</l>
+                  <l>Has marked a distant object down,</l>
+                  <l>An aimless joy is a pure joy,'</l>
+                  <l>Or so did Tom O'Roughley say</l>
+                  <l>That saw the surges running by,</l>
+                  <l>'And wisdom is a butterfly</l>
+                  <l>And not a gloomy bird of prey.</l>
+               </lg>
+               <lg>
+                  <l>'If little planned is little sinned</l>
+                  <l>But little need the grave distress.</l>
+                  <l>What's dying but a second wind?</l>
+                  <l>How but in zigzag wantonness</l>
+                  <l>Could trumpeter Michael be so brave?'</l>
+                  <l>Or something of that sort he said,</l>
+                  <l>'And if my dearest friend were dead</l>
+                  <l>I'd dance a measure on his grave.'</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE SAD SHEPHERD</head>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>That cry's from the first cuckoo of the year</l>
+                  <l>I wished before it ceased.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>Nor bird nor beast</l>
+                  <l>Could make me wish for anything this day,</l>
+                  <l>Being old, but that the old alone might die,</l>
+                  <l>And that would be against God's Providence.</l>
+                  <l>Let the young wish. But what has brought you here?</l>
+                  <l>Never until this moment have we met</l>
+                  <l>Where my goats browse on the scarce grass or leap</l>
+                  <l>From stone to stone.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>I am looking for strayed sheep;</l>
+                  <l>Something has troubled me and in my trouble</l>
+                  <l>I let them stray. I thought of rhyme alone,</l>
+                  <l>For rhyme can beat a measure out of trouble</l>
+                  <l>And make the daylight sweet once more; but when</l>
+                  <l>I had driven every rhyme into its place</l>
+                  <l>The sheep had gone from theirs.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>I know right well</l>
+                  <l>What turned so good a shepherd from his charge.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>He that was best in every country sport</l>
+                  <l>And every country craft, and of us all</l>
+                  <l>Most courteous to slow age and hasty youth</l>
+                  <l>Is dead.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>The boy that brings my griddle cake</l>
+                  <l>Brought the bare news.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>He had thrown the crook away</l>
+                  <l>And died in the great war beyond the sea.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>He had often played his pipes among my hills</l>
+                  <l>And when he played it was their loneliness,</l>
+                  <l>The exultation of their stone, that cried</l>
+                  <l>Under his fingers.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>I had it from his mother,</l>
+                  <l>And his own flock was browsing at the door.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>How does she bear her grief? There is not a shepherd</l>
+                  <l>But grows more gentle when he speaks her name,</l>
+                  <l>Remembering kindness done, and how can I,</l>
+                  <l>That found when I had neither goat nor grazing</l>
+                  <l>New welcome and old wisdom at her fire</l>
+                  <l>Till winter blasts were gone, but speak of her</l>
+                  <l>Even before his children and his wife.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>She goes about her house erect and calm</l>
+                  <l>Between the pantry and the linen chest,</l>
+                  <l>Or else at meadow or at grazing overlooks</l>
+                  <l>Her labouring men, as though her darling lived</l>
+                  <l>But for her grandson now; there is no change</l>
+                  <l>But such as I have seen upon her face</l>
+                  <l>Watching our shepherd sports at harvest-time</l>
+                  <l>When her son's turn was over.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>Sing your song,</l>
+                  <l>I too have rhymed my reveries, but youth</l>
+                  <l>Is hot to show whatever it has found</l>
+                  <l>And till that's done can neither work nor wait.</l>
+                  <l>Old goatherds and old goats, if in all else</l>
+                  <l>Youth can excel them in accomplishment,</l>
+                  <l>Are learned in waiting.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>You cannot but have seen</l>
+                  <l>That he alone had gathered up no gear,</l>
+                  <l>Set carpenters to work on no wide table,</l>
+                  <l>On no long bench nor lofty milking shed</l>
+                  <l>As others will, when first they take possession,</l>
+                  <l>But left the house as in his father's time</l>
+                  <l>As though he knew himself, as it were, a cuckoo,</l>
+                  <l>No settled man. And now that he is gone</l>
+                  <l>There's nothing of him left but half a score</l>
+                  <l>Of sorrowful, austere, sweet, lofty pipe tunes.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>You have put the thought in rhyme.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>I worked all day</l>
+                  <l>And when 'twas done so little had I done</l>
+                  <l>That maybe 'I am sorry' in plain prose</l>
+                  <l>Had sounded better to your mountain fancy.</l>
+               </lg>
+               <lg>
+                  <l>[<hi rend="italic">He sings.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>'Like the speckled bird that steers</l>
+                  <l>Thousands of leagues oversea,</l>
+                  <l>And runs for a while or a while half-flies</l>
+                  <l>Upon his yellow legs through our meadows,</l>
+                  <l>He stayed for a while; and we</l>
+                  <l>Had scarcely accustomed our ears</l>
+                  <l>To his speech at the break of day,</l>
+                  <l>Had scarcely accustomed our eyes</l>
+                  <l>To his shape in the lengthening shadows,</l>
+                  <l>Where the sheep are thrown in the pool,</l>
+                  <l>When he vanished from ears and eyes.</l>
+                  <l>I had wished a dear thing on that day</l>
+                  <l>I heard him first, but man is a fool.'</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>You sing as always of the natural life,</l>
+                  <l>And I that made like music in my youth</l>
+                  <l>Hearing it now have sighed for that young man</l>
+                  <l>And certain lost companions of my own.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>They say that on your barren mountain ridge</l>
+                  <l>You have measured out the road that the soul treads</l>
+                  <l>When it has vanished from our natural eyes;</l>
+                  <l>That you have talked with apparitions.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>Indeed</l>
+                  <l>My daily thoughts since the first stupor of youth</l>
+                  <l>Have found the path my goats' feet cannot find.</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>Sing, for it may be that your thoughts have plucked</l>
+                  <l>Some medicable herb to make our grief</l>
+                  <l>Less bitter.</l>
+               </lg>
+               <lg>
+                  <l>Goatherd</l>
+               </lg>
+               <lg>
+                  <l>They have brought me from that ridge</l>
+                  <l>Seed pods and flowers that are not all wild poppy.</l>
+               </lg>
+               <lg>
+                  <l>[<hi rend="italic">Sings.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>'He grows younger every second</l>
+                  <l>That were all his birthdays reckoned</l>
+                  <l>Much too solemn seemed;</l>
+                  <l>Because of what he had dreamed,</l>
+                  <l>Or the ambitions that he served,</l>
+                  <l>Much too solemn and reserved.</l>
+                  <l>Jaunting, journeying</l>
+                  <l>To his own dayspring,</l>
+                  <l>He unpacks the loaded pern</l>
+                  <l>Of all 'twas pain or joy to learn,</l>
+                  <l>Of all that he had made.</l>
+                  <l>The outrageous war shall fade;</l>
+                  <l>At some old winding whitethorn root</l>
+                  <l>He'll practice on the shepherd's flute,</l>
+                  <l>Or on the close-cropped grass</l>
+                  <l>Court his shepherd lass,</l>
+                  <l>Or run where lads reform our day-time</l>
+                  <l>Till that is their long shouting play-time;</l>
+                  <l>Knowledge he shall unwind</l>
+                  <l>Through victories of the mind,</l>
+                  <l>Till, clambering at the cradle side,</l>
+                  <l>He dreams himself his mother's pride,</l>
+                  <l>All knowledge lost in trance</l>
+                  <l>Of sweeter ignorance.'</l>
+               </lg>
+               <lg>
+                  <l>Shepherd</l>
+               </lg>
+               <lg>
+                  <l>When I have shut these ewes and this old ram</l>
+                  <l>Into the fold, we'll to the woods and there</l>
+                  <l>Cut out our rhymes on strips of new-torn bark</l>
+                  <l>But put no name and leave them at her door.</l>
+                  <l>To know the mountain and the valley grieve</l>
+                  <l>May be a quiet thought to wife and mother,</l>
+                  <l>And children when they spring up shoulder high.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>LINES WRITTEN IN<lb/>DEJECTION</head>
+               <lg>
+                  <l>When have I last looked on</l>
+                  <l>The round green eyes and the long wavering bodies</l>
+                  <l>Of the dark leopards of the moon?</l>
+                  <l>All the wild witches those most noble ladies,</l>
+                  <l>For all their broom-sticks and their tears,</l>
+                  <l>Their angry tears, are gone.</l>
+                  <l>The holy centaurs of the hills are banished;</l>
+                  <l>And I have nothing but harsh sun;</l>
+                  <l>Heroic mother moon has vanished,</l>
+                  <l>And now that I have come to fifty years</l>
+                  <l>I must endure the timid sun.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE DAWN</head>
+               <lg>
+                  <l>I would be ignorant as the dawn</l>
+                  <l>That has looked down</l>
+                  <l>On that old queen measuring a town</l>
+                  <l>With the pin of a brooch,</l>
+                  <l>Or on the withered men that saw</l>
+                  <l>From their pedantic Babylon</l>
+                  <l>The careless planets in their courses,</l>
+                  <l>The stars fade out where the moon comes,</l>
+                  <l>And took their tablets and did sums;</l>
+                  <l>I would be ignorant as the dawn</l>
+                  <l>That merely stood, rocking the glittering coach</l>
+                  <l>Above the cloudy shoulders of the horses;</l>
+                  <l>I would be—for no knowledge is worth a straw—</l>
+                  <l>Ignorant and wanton as the dawn.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>ON WOMAN</head>
+               <lg>
+                  <l>May God be praised for woman</l>
+                  <l>That gives up all her mind,</l>
+                  <l>A man may find in no man</l>
+                  <l>A friendship of her kind</l>
+                  <l>That covers all he has brought</l>
+                  <l>As with her flesh and bone,</l>
+                  <l>Nor quarrels with a thought</l>
+                  <l>Because it is not her own.</l>
+               </lg>
+               <lg>
+                  <l>Though pedantry denies</l>
+                  <l>It's plain the Bible means</l>
+                  <l>That Solomon grew wise</l>
+                  <l>While talking with his queens.</l>
+                  <l>Yet never could, although</l>
+                  <l>They say he counted grass,</l>
+                  <l>Count all the praises due</l>
+                  <l>When Sheba was his lass,</l>
+                  <l>When she the iron wrought, or</l>
+                  <l>When from the smithy fire</l>
+                  <l>It shuddered in the water:</l>
+                  <l>Harshness of their desire</l>
+                  <l>That made them stretch and yawn,</l>
+                  <l>Pleasure that comes with sleep,</l>
+                  <l>Shudder that made them one.</l>
+                  <l>What else He give or keep</l>
+                  <l> God grant me—no, not here,</l>
+                  <l>For I am not so bold</l>
+                  <l>To hope a thing so dear</l>
+                  <l>Now I am growing old,</l>
+                  <l>But when if the tale's true</l>
+                  <l>The Pestle of the moon</l>
+                  <l>That pounds up all anew</l>
+                  <l>Brings me to birth again—</l>
+                  <l>To find what once I had</l>
+                  <l>And know what once I have known,</l>
+                  <l>Until I am driven mad,</l>
+                  <l>Sleep driven from my bed,</l>
+                  <l>By tenderness and care,</l>
+                  <l>Pity, an aching head,</l>
+                  <l>Gnashing of teeth, despair;</l>
+                  <l>And all because of some one</l>
+                  <l>Perverse creature of chance,</l>
+                  <l>And live like Solomon</l>
+                  <l>That Sheba led a dance.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE FISHERMAN</head>
+               <lg>
+                  <l>Although I can see him still,</l>
+                  <l>The freckled man who goes</l>
+                  <l>To a grey place on a hill</l>
+                  <l>In grey Connemara clothes</l>
+                  <l>At dawn to cast his flies,</l>
+                  <l>It's long since I began</l>
+                  <l>To call up to the eyes</l>
+                  <l>This wise and simple man.</l>
+                  <l>All day I'd looked in the face</l>
+                  <l>What I had hoped 'twould be</l>
+                  <l>To write for my own race</l>
+                  <l>And the reality;</l>
+                  <l>The living men that I hate,</l>
+                  <l>The dead man that I loved,</l>
+                  <l>The craven man in his seat,</l>
+                  <l>The insolent unreproved,</l>
+                  <l>And no knave brought to book</l>
+                  <l>Who has won a drunken cheer,</l>
+                  <l>The witty man and his joke</l>
+                  <l>Aimed at the commonest ear,</l>
+                  <l>The clever man who cries</l>
+                  <l>The catch-cries of the clown,</l>
+                  <l>The beating down of the wise</l>
+                  <l>And great Art beaten down.</l>
+               </lg>
+               <lg>
+                  <l>Maybe a twelvemonth since</l>
+                  <l>Suddenly I began,</l>
+                  <l>In scorn of this audience,</l>
+                  <l>Imagining a man</l>
+                  <l>And his sun-freckled face,</l>
+                  <l>And grey Connemara cloth,</l>
+                  <l>Climbing up to a place</l>
+                  <l>Where stone is dark under froth,</l>
+                  <l>And the down turn of his wrist</l>
+                  <l>When the flies drop in the stream:</l>
+                  <l>A man who does not exist,</l>
+                  <l>A man who is but a dream;</l>
+                  <l>And cried, 'Before I am old</l>
+                  <l>I shall have written him one</l>
+                  <l>Poem maybe as cold</l>
+                  <l>And passionate as the dawn.'</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE HAWK</head>
+               <lg>
+                  <l>'Call down the hawk from the air;</l>
+                  <l>Let him be hooded or caged</l>
+                  <l>Till the yellow eye has grown mild,</l>
+                  <l>For larder and spit are bare,</l>
+                  <l>The old cook enraged,</l>
+                  <l>The scullion gone wild.'</l>
+               </lg>
+               <lg>
+                  <l>'I will not be clapped in a hood,</l>
+                  <l>Nor a cage, nor alight upon wrist,</l>
+                  <l>Now I have learnt to be proud</l>
+                  <l>Hovering over the wood</l>
+                  <l>In the broken mist</l>
+                  <l>Or tumbling cloud.'</l>
+               </lg>
+               <lg>
+                  <l>'What tumbling cloud did you cleave,</l>
+                  <l>Yellow-eyed hawk of the mind,</l>
+                  <l>Last evening? that I, who had sat</l>
+                  <l>Dumbfounded before a knave,</l>
+                  <l>Should give to my friend</l>
+                  <l>A pretence of wit.'</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>MEMORY</head>
+               <lg>
+                  <l>One had a lovely face,</l>
+                  <l>And two or three had charm,</l>
+                  <l>But charm and face were in vain</l>
+                  <l>Because the mountain grass</l>
+                  <l>Cannot but keep the form</l>
+                  <l>Where the mountain hare has lain.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>HER PRAISE</head>
+               <lg>
+                  <l>She is foremost of those that I would hear praised.</l>
+                  <l>I have gone about the house, gone up and down</l>
+                  <l>As a man does who has published a new book</l>
+                  <l>Or a young girl dressed out in her new gown,</l>
+                  <l>And though I have turned the talk by hook or crook</l>
+                  <l>Until her praise should be the uppermost theme,</l>
+                  <l>A woman spoke of some new tale she had read,</l>
+                  <l>A man confusedly in a half dream</l>
+                  <l>As though some other name ran in his head.</l>
+                  <l>She is foremost of those that I would hear praised.</l>
+                  <l>I will talk no more of books or the long war</l>
+                  <l>But walk by the dry thorn until I have found</l>
+                  <l>Some beggar sheltering from the wind, and there</l>
+                  <l>Manage the talk until her name come round.</l>
+                  <l>If there be rags enough he will know her name</l>
+                  <l>And be well pleased remembering it, for in the old days,</l>
+                  <l>Though she had young men's praise and old men's blame,</l>
+                  <l>Among the poor both old and young gave her praise.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE PEOPLE</head>
+               <lg>
+                  <l>'What have I earned for all that work,' I said,</l>
+                  <l>'For all that I have done at my own charge?</l>
+                  <l>The daily spite of this unmannerly town,</l>
+                  <l>Where who has served the most is most defamed,</l>
+                  <l>The reputation of his lifetime lost</l>
+                  <l>Between the night and morning. I might have lived,</l>
+                  <l>And you know well how great the longing has been,</l>
+                  <l>Where every day my footfall should have lit</l>
+                  <l>In the green shadow of Ferrara wall;</l>
+                  <l>Or climbed among the images of the past—</l>
+                  <l>The unperturbed and courtly images—</l>
+                  <l>Evening and morning, the steep street of Urbino</l>
+                  <l>To where the duchess and her people talked</l>
+                  <l>The stately midnight through until they stood</l>
+                  <l>In their great window looking at the dawn;</l>
+                  <l>I might have had no friend that could not mix</l>
+                  <l>Courtesy and passion into one like those</l>
+                  <l>That saw the wicks grow yellow in the dawn;</l>
+                  <l>I might have used the one substantial right</l>
+                  <l>My trade allows: chosen my company,</l>
+                  <l>And chosen what scenery had pleased me best.'</l>
+                  <l>Thereon my phoenix answered in reproof,</l>
+                  <l>'The drunkards, pilferers of public funds,</l>
+                  <l>All the dishonest crowd I had driven away,</l>
+                  <l>When my luck changed and they dared meet my face,</l>
+                  <l>Crawled from obscurity, and set upon me</l>
+                  <l> Those I had served and some that I had fed;</l>
+                  <l>Yet never have I, now nor any time,</l>
+                  <l>Complained of the people.'</l>
+               </lg>
+               <lg>
+                  <l>All I could reply</l>
+                  <l>Was: 'You, that have not lived in thought but deed,</l>
+                  <l>Can have the purity of a natural force,</l>
+                  <l>But I, whose virtues are the definitions</l>
+                  <l>Of the analytic mind, can neither close</l>
+                  <l>The eye of the mind nor keep my tongue from speech.'</l>
+                  <l>And yet, because my heart leaped at her words,</l>
+                  <l>I was abashed, and now they come to mind</l>
+                  <l>After nine years, I sink my head abashed.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>HIS PHOENIX</head>
+               <lg>
+                  <l>There is a queen in China, or maybe it's in Spain,</l>
+                  <l>And birthdays and holidays such praises can be heard</l>
+                  <l>Of her unblemished lineaments, a whiteness with no stain,</l>
+                  <l>That she might be that sprightly girl who was trodden by a bird;</l>
+                  <l>And there's a score of duchesses, surpassing womankind,</l>
+                  <l>Or who have found a painter to make them so for pay</l>
+                  <l>And smooth out stain and blemish with the elegance of his mind:</l>
+                  <l>I knew a phoenix in my youth so let them have their day.</l>
+               </lg>
+               <lg>
+                  <l>The young men every night applaud their Gaby's laughing eye,</l>
+                  <l>And Ruth St. Denis had more charm although she had poor luck,</l>
+                  <l>From nineteen hundred nine or ten, Pavlova's had the cry,</l>
+                  <l>And there's a player in the States who gathers up her cloak</l>
+                  <l>And flings herself out of the room when Juliet would be bride</l>
+                  <l>With all a woman's passion, a child's imperious way,</l>
+                  <l>And there are—but no matter if there are scores beside:</l>
+                  <l>I knew a phoenix in my youth so let them have their day.</l>
+               </lg>
+               <lg>
+                  <l>There's Margaret and Marjorie and Dorothy and Nan,</l>
+                  <l>A Daphne and a Mary who live in privacy;</l>
+                  <l>One's had her fill of lovers, another's had but one,</l>
+                  <l>Another boasts, 'I pick and choose and have but two or three.'</l>
+                  <l> If head and limb have beauty and the instep's high and light,</l>
+                  <l>They can spread out what sail they please for all I have to say,</l>
+                  <l>Be but the breakers of men's hearts or engines of delight:</l>
+                  <l>I knew a phoenix in my youth so let them have their day.</l>
+               </lg>
+               <lg>
+                  <l>There'll be that crowd to make men wild through all the centuries,</l>
+                  <l>And maybe there'll be some young belle walk out to make men wild</l>
+                  <l>Who is my beauty's equal, though that my heart denies,</l>
+                  <l>But not the exact likeness, the simplicity of a child,</l>
+                  <l>And that proud look as though she had gazed into the burning sun,</l>
+                  <l>And all the shapely body no tittle gone astray,</l>
+                  <l>I mourn for that most lonely thing; and yet God's will be done,</l>
+                  <l>I knew a phoenix in my youth so let them have their day.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>A THOUGHT FROM PROPERTIUS</head>
+               <lg>
+                  <l>She might, so noble from head</l>
+                  <l>To great shapely knees,</l>
+                  <l>The long flowing line,</l>
+                  <l>Have walked to the altar</l>
+                  <l>Through the holy images</l>
+                  <l>At Pallas Athene's side,</l>
+                  <l>Or been fit spoil for a centaur</l>
+                  <l>Drunk with the unmixed wine.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>BROKEN DREAMS</head>
+               <lg>
+                  <l>There is grey in your hair.</l>
+                  <l>Young men no longer suddenly catch their breath</l>
+                  <l>When you are passing;</l>
+                  <l>But maybe some old gaffer mutters a blessing</l>
+                  <l>Because it was your prayer</l>
+                  <l>Recovered him upon the bed of death.</l>
+                  <l>For your sole sake—that all heart's ache have known,</l>
+                  <l>And given to others all heart's ache,</l>
+                  <l>From meagre girlhood's putting on</l>
+                  <l>Burdensome beauty—for your sole sake</l>
+                  <l>Heaven has put away the stroke of her doom,</l>
+                  <l>So great her portion in that peace you make</l>
+                  <l>By merely walking in a room.</l>
+               </lg>
+               <lg>
+                  <l>Your beauty can but leave among us</l>
+                  <l>Vague memories, nothing but memories.</l>
+                  <l>A young man when the old men are done talking</l>
+                  <l>Will say to an old man, 'Tell me of that lady</l>
+                  <l>The poet stubborn with his passion sang us</l>
+                  <l>When age might well have chilled his blood.'</l>
+               </lg>
+               <lg>
+                  <l>Vague memories, nothing but memories,</l>
+                  <l>But in the grave all, all, shall be renewed.</l>
+                  <l> The certainty that I shall see that lady</l>
+                  <l>Leaning or standing or walking</l>
+                  <l>In the first loveliness of womanhood,</l>
+                  <l>And with the fervour of my youthful eyes,</l>
+                  <l>Has set me muttering like a fool.</l>
+               </lg>
+               <lg>
+                  <l>You are more beautiful than any one</l>
+                  <l>And yet your body had a flaw:</l>
+                  <l>Your small hands were not beautiful,</l>
+                  <l>And I am afraid that you will run</l>
+                  <l>And paddle to the wrist</l>
+                  <l>In that mysterious, always brimming lake</l>
+                  <l>Where those that have obeyed the holy law</l>
+                  <l>Paddle and are perfect; leave unchanged</l>
+                  <l>The hands that I have kissed</l>
+                  <l>For old sakes' sake.</l>
+               </lg>
+               <lg>
+                  <l>The last stroke of midnight dies.</l>
+                  <l>All day in the one chair</l>
+                  <l>From dream to dream and rhyme to rhyme I have ranged</l>
+                  <l>In rambling talk with an image of air:</l>
+                  <l>Vague memories, nothing but memories.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>A DEEP-SWORN VOW</head>
+               <lg>
+                  <l>Others because you did not keep</l>
+                  <l>That deep-sworn vow have been friends of mine;</l>
+                  <l>Yet always when I look death in the face,</l>
+                  <l>When I clamber to the heights of sleep,</l>
+                  <l>Or when I grow excited with wine,</l>
+                  <l>Suddenly I meet your face.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>PRESENCES</head>
+               <lg>
+                  <l>This night has been so strange that it seemed</l>
+                  <l>As if the hair stood up on my head.</l>
+                  <l>From going-down of the sun I have dreamed</l>
+                  <l>That women laughing, or timid or wild,</l>
+                  <l>In rustle of lace or silken stuff,</l>
+                  <l>Climbed up my creaking stair. They had read</l>
+                  <l>All I had rhymed of that monstrous thing</l>
+                  <l>Returned and yet unrequited love.</l>
+                  <l>They stood in the door and stood between</l>
+                  <l>My great wood lecturn and the fire</l>
+                  <l>Till I could hear their hearts beating:</l>
+                  <l>One is a harlot, and one a child</l>
+                  <l>That never looked upon man with desire,</l>
+                  <l>And one it may be a queen.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE BALLOON OF THE MIND</head>
+               <lg>
+                  <l>Hands, do what you're bid;</l>
+                  <l>Bring the balloon of the mind</l>
+                  <l>That bellies and drags in the wind</l>
+                  <l>Into its narrow shed.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>TO A SQUIRREL AT KYLE-NA-GNO</head>
+               <lg>
+                  <l>Come play with me;</l>
+                  <l>Why should you run</l>
+                  <l>Through the shaking tree</l>
+                  <l>As though I'd a gun</l>
+                  <l>To strike you dead?</l>
+                  <l>When all I would do</l>
+                  <l>Is to scratch your head</l>
+                  <l>And let you go.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>ON BEING ASKED FOR A<lb/>WAR POEM</head>
+               <lg>
+                  <l>I think it better that in times like these</l>
+                  <l>A poet keep his mouth shut, for in truth</l>
+                  <l>We have no gift to set a statesman right;</l>
+                  <l>He has had enough of meddling who can please</l>
+                  <l>A young girl in the indolence of her youth,</l>
+                  <l>Or an old man upon a winter's night.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>IN MEMORY OF ALFRED<lb/>POLLEXFEN</head>
+               <lg>
+                  <l>Five-and-twenty years have gone</l>
+                  <l>Since old William Pollexfen</l>
+                  <l>Laid his strong bones down in death</l>
+                  <l>By his wife Elizabeth</l>
+                  <l>In the grey stone tomb he made.</l>
+                  <l>And after twenty years they laid</l>
+                  <l>In that tomb by him and her,</l>
+                  <l>His son George, the astrologer;</l>
+                  <l>And Masons drove from miles away</l>
+                  <l>To scatter the Acacia spray</l>
+                  <l>Upon a melancholy man</l>
+                  <l>Who had ended where his breath began.</l>
+                  <l>Many a son and daughter lies</l>
+                  <l>Far from the customary skies,</l>
+                  <l>The Mall and Eades's grammar school,</l>
+                  <l>In London or in Liverpool;</l>
+                  <l>But where is laid the sailor John?</l>
+                  <l>That so many lands had known:</l>
+                  <l>Quiet lands or unquiet seas</l>
+                  <l>Where the Indians trade or Japanese.</l>
+                  <l>He never found his rest ashore,</l>
+                  <l>Moping for one voyage more.</l>
+                  <l>Where have they laid the sailor John?</l>
+               </lg>
+               <lg>
+                  <l>And yesterday the youngest son,</l>
+                  <l>A humorous, unambitious man,</l>
+                  <l>Was buried near the astrologer;</l>
+                  <l>And are we now in the tenth year?</l>
+                  <l>Since he, who had been contented long,</l>
+                  <l>A nobody in a great throng,</l>
+                  <l>Decided he would journey home,</l>
+                  <l>Now that his fiftieth year had come,</l>
+                  <l>And 'Mr. Alfred' be again</l>
+                  <l>Upon the lips of common men</l>
+                  <l>Who carried in their memory</l>
+                  <l>His childhood and his family.</l>
+                  <l>At all these death-beds women heard</l>
+                  <l>A visionary white sea-bird</l>
+                  <l>Lamenting that a man should die;</l>
+                  <l>And with that cry I have raised my cry.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>UPON A DYING LADY</head>
+               <div type="div3">
+                  <head>I</head>
+               </div>
+               <div type="div3">
+                  <head>HER COURTESY</head>
+                  <lg>
+                     <l>With the old kindness, the old distinguished grace</l>
+                     <l>She lies, her lovely piteous head amid dull red hair</l>
+                     <l>Propped upon pillows, rouge on the pallor of her face.</l>
+                     <l>She would not have us sad because she is lying there,</l>
+                     <l>And when she meets our gaze her eyes are laughter-lit,</l>
+                     <l>Her speech a wicked tale that we may vie with her</l>
+                     <l>Matching our broken-hearted wit against her wit,</l>
+                     <l>Thinking of saints and of Petronius Arbiter.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>II</head>
+               </div>
+               <div type="div3">
+                  <head>CERTAIN ARTISTS BRING HER DOLLS AND DRAWINGS</head>
+                  <lg>
+                     <l>Bring where our Beauty lies</l>
+                     <l>A new modelled doll, or drawing,</l>
+                     <l>With a friend's or an enemy's</l>
+                     <l>Features, or maybe showing</l>
+                     <l>Her features when a tress</l>
+                     <l>Of dull red hair was flowing</l>
+                     <l>Over some silken dress</l>
+                     <l>Cut in the Turkish fashion,</l>
+                     <l>Or it may be like a boy's.</l>
+                     <l>We have given the world our passion</l>
+                     <l>We have naught for death but toys.</l>
+                     <l> </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>III</head>
+               </div>
+               <div type="div3">
+                  <head>SHE TURNS THE DOLLS' FACES TO THE WALL</head>
+                  <lg>
+                     <l>Because to-day is some religious festival</l>
+                     <l> They had a priest say Mass, and even the Japanese,</l>
+                     <l>Heel up and weight on toe, must face the wall</l>
+                     <l>—Pedant in passion, learned in old courtesies,</l>
+                     <l>Vehement and witty she had seemed—; the Venetian lady</l>
+                     <l>Who had seemed to glide to some intrigue in her red shoes,</l>
+                     <l>Her domino, her panniered skirt copied from Longhi;</l>
+                     <l>The meditative critic; all are on their toes,</l>
+                     <l>Even our Beauty with her Turkish trousers on.</l>
+                     <l>Because the priest must have like every dog his day</l>
+                     <l>Or keep us all awake with baying at the moon,</l>
+                     <l>We and our dolls being but the world were best away.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>IV</head>
+               </div>
+               <div type="div3">
+                  <head>THE END OF DAY</head>
+                  <lg>
+                     <l>She is playing like a child</l>
+                     <l>And penance is the play,</l>
+                     <l>Fantastical and wild</l>
+                     <l>Because the end of day</l>
+                     <l>Shows her that some one soon</l>
+                     <l>Will come from the house, and say—</l>
+                     <l>Though play is but half-done—</l>
+                     <l>'Come in and leave the play.'—</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>V</head>
+               </div>
+               <div type="div3">
+                  <head>HER RACE</head>
+                  <lg>
+                     <l>She has not grown uncivil</l>
+                     <l>As narrow natures would</l>
+                     <l>And called the pleasures evil</l>
+                     <l>Happier days thought good;</l>
+                     <l>She knows herself a woman</l>
+                     <l>No red and white of a face,</l>
+                     <l>Or rank, raised from a common</l>
+                     <l>Unreckonable race;</l>
+                     <l>And how should her heart fail her</l>
+                     <l>Or sickness break her will</l>
+                     <l>With her dead brother's valour</l>
+                     <l>For an example still.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VI</head>
+               </div>
+               <div type="div3">
+                  <head>HER COURAGE</head>
+                  <lg>
+                     <l>When her soul flies to the predestined dancing-place</l>
+                     <l>(I have no speech but symbol, the pagan speech I made</l>
+                     <l>Amid the dreams of youth) let her come face to face,</l>
+                     <l>While wondering still to be a shade, with Grania's shade</l>
+                     <l>All but the perils of the woodland flight forgot</l>
+                     <l>That made her Dermuid dear, and some old cardinal</l>
+                     <l>Pacing with half-closed eyelids in a sunny spot</l>
+                     <l>Who had murmured of Giorgione at his latest breath—</l>
+                     <l>Aye and Achilles, Timor, Babar, Barhaim, all</l>
+                     <l>Who have lived in joy and laughed into the face of Death.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VII</head>
+               </div>
+               <div type="div3">
+                  <head>HER FRIENDS BRING HER A CHRISTMAS TREE</head>
+                  <lg>
+                     <l>Pardon, great enemy,</l>
+                     <l>Without an angry thought</l>
+                     <l> We've carried in our tree,</l>
+                     <l>And here and there have bought</l>
+                     <l>Till all the boughs are gay,</l>
+                     <l>And she may look from the bed</l>
+                     <l>On pretty things that may</l>
+                     <l>Please a fantastic head.</l>
+                     <l>Give her a little grace,</l>
+                     <l>What if a laughing eye</l>
+                     <l>Have looked into your face—</l>
+                     <l>It is about to die.</l>
+                  </lg>
+                  <lg/>
+               </div>
+            </div>
+            <div type="div2">
+               <head>EGO DOMINUS TUUS</head>
+               <lg>
+                  <l>Hic</l>
+               </lg>
+               <lg>
+                  <l>On the grey sand beside the shallow stream</l>
+                  <l>Under your old wind-beaten tower, where still</l>
+                  <l>A lamp burns on beside the open book</l>
+                  <l>That Michael Robartes left, you walk in the moon</l>
+                  <l>And though you have passed the best of life still trace</l>
+                  <l>Enthralled by the unconquerable delusion</l>
+                  <l>Magical shapes.</l>
+               </lg>
+               <lg>
+                  <l>Ille</l>
+               </lg>
+               <lg>
+                  <l>By the help of an image</l>
+                  <l>I call to my own opposite, summon all</l>
+                  <l>That I have handled least, least looked upon.</l>
+               </lg>
+               <lg>
+                  <l>Hic</l>
+               </lg>
+               <lg>
+                  <l>And I would find myself and not an image.</l>
+               </lg>
+               <lg>
+                  <l>Ille</l>
+               </lg>
+               <lg>
+                  <l>That is our modern hope and by its light</l>
+                  <l>We have lit upon the gentle, sensitive mind</l>
+                  <l>And lost the old nonchalance of the hand;</l>
+                  <l>Whether we have chosen chisel, pen or brush</l>
+                  <l>We are but critics, or but half create,</l>
+                  <l>Timid, entangled, empty and abashed</l>
+                  <l>Lacking the countenance of our friends.</l>
+               </lg>
+               <lg>
+                  <l>Hic</l>
+               </lg>
+               <lg>
+                  <l>And yet</l>
+                  <l>The chief imagination of Christendom</l>
+                  <l>Dante Alighieri so utterly found himself</l>
+                  <l>That he has made that hollow face of his</l>
+                  <l>More plain to the mind's eye than any face</l>
+                  <l>But that of Christ.</l>
+               </lg>
+               <lg>
+                  <l>Ille</l>
+               </lg>
+               <lg>
+                  <l>And did he find himself,</l>
+                  <l>Or was the hunger that had made it hollow</l>
+                  <l>A hunger for the apple on the bough</l>
+                  <l>Most out of reach? and is that spectral image</l>
+                  <l>The man that Lapo and that Guido knew?</l>
+                  <l>I think he fashioned from his opposite</l>
+                  <l>An image that might have been a stony face,</l>
+                  <l>Staring upon a bedouin's horse-hair roof</l>
+                  <l>From doored and windowed cliff, or half upturned</l>
+                  <l>Among the coarse grass and the camel dung.</l>
+                  <l>He set his chisel to the hardest stone.</l>
+                  <l>Being mocked by Guido for his lecherous life,</l>
+                  <l>Derided and deriding, driven out</l>
+                  <l>To climb that stair and eat that bitter bread,</l>
+                  <l>He found the unpersuadable justice, he found</l>
+                  <l>The most exalted lady loved by a man.</l>
+               </lg>
+               <lg>
+                  <l>Hic</l>
+               </lg>
+               <lg>
+                  <l>Yet surely there are men who have made their art</l>
+                  <l>Out of no tragic war, lovers of life,</l>
+                  <l>Impulsive men that look for happiness</l>
+                  <l>And sing when they have found it.</l>
+               </lg>
+               <lg>
+                  <l>Ille</l>
+               </lg>
+               <lg>
+                  <l>No, not sing,</l>
+                  <l>For those that love the world serve it in action,</l>
+                  <l>Grow rich, popular and full of influence,</l>
+                  <l>And should they paint or write still it is action:</l>
+                  <l>The struggle of the fly in marmalade.</l>
+                  <l>The rhetorician would deceive his neighbours,</l>
+                  <l>The sentimentalist himself; while art</l>
+                  <l>Is but a vision of reality.</l>
+                  <l>What portion in the world can the artist have</l>
+                  <l>Who has awakened from the common dream</l>
+                  <l>But dissipation and despair?</l>
+               </lg>
+               <lg>
+                  <l>Hic</l>
+               </lg>
+               <lg>
+                  <l>And yet</l>
+                  <l>No one denies to Keats love of the world;</l>
+                  <l>Remember his deliberate happiness.</l>
+               </lg>
+               <lg>
+                  <l>Ille</l>
+               </lg>
+               <lg>
+                  <l>His art is happy but who knows his mind?</l>
+                  <l>I see a schoolboy when I think of him,</l>
+                  <l>With face and nose pressed to a sweet-shop window,</l>
+                  <l>For certainly he sank into his grave</l>
+                  <l>His senses and his heart unsatisfied,</l>
+                  <l>And made—being poor, ailing and ignorant,</l>
+                  <l>Shut out from all the luxury of the world,</l>
+                  <l>The coarse-bred son of a livery stable-keeper—</l>
+                  <l>Luxuriant song.</l>
+               </lg>
+               <lg>
+                  <l>Hic</l>
+               </lg>
+               <lg>
+                  <l>Why should you leave the lamp</l>
+                  <l>Burning alone beside an open book,</l>
+                  <l>And trace these characters upon the sands;</l>
+                  <l>A style is found by sedentary toil</l>
+                  <l>And by the imitation of great masters.</l>
+               </lg>
+               <lg>
+                  <l>Ille</l>
+               </lg>
+               <lg>
+                  <l>Because I seek an image, not a book.</l>
+                  <l>Those men that in their writings are most wise</l>
+                  <l>Own nothing but their blind, stupefied hearts.</l>
+                  <l>I call to the mysterious one who yet</l>
+                  <l>Shall walk the wet sands by the edge of the stream</l>
+                  <l>And look most like me, being indeed my double,</l>
+                  <l>And prove of all imaginable things</l>
+                  <l>The most unlike, being my anti-self,</l>
+                  <l>And standing by these characters disclose</l>
+                  <l>All that I seek; and whisper it as though</l>
+                  <l>He were afraid the birds, who cry aloud</l>
+                  <l>Their momentary cries before it is dawn,</l>
+                  <l>Would carry it away to blasphemous men.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>A PRAYER ON GOING INTO MY HOUSE</head>
+               <lg>
+                  <l>God grant a blessing on this tower and cottage</l>
+                  <l>And on my heirs, if all remain unspoiled,</l>
+                  <l>No table, or chair or stool not simple enough</l>
+                  <l>For shepherd lads in Galilee; and grant</l>
+                  <l>That I myself for portions of the year</l>
+                  <l>May handle nothing and set eyes on nothing</l>
+                  <l>But what the great and passionate have used</l>
+                  <l>Throughout so many varying centuries.</l>
+                  <l>We take it for the norm; yet should I dream</l>
+                  <l>Sinbad the sailor's brought a painted chest,</l>
+                  <l>Or image, from beyond the Loadstone Mountain</l>
+                  <l>That dream is a norm; and should some limb of the devil</l>
+                  <l>Destroy the view by cutting down an ash</l>
+                  <l>That shades the road, or setting up a cottage</l>
+                  <l>Planned in a government office, shorten his life,</l>
+                  <l>Manacle his soul upon the Red Sea bottom.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE PHASES OF THE MOON</head>
+               <lg>
+                  <l>
+                     <hi rend="italic">An old man cocked his ear upon a bridge;</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">He and his friend, their faces to the South,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Had trod the uneven road. Their boots were soiled,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Their Connemara cloth worn out of shape;</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">They had kept a steady pace as though their beds,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Despite a dwindling and late risen moon,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Were distant. An old man cocked his ear.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>What made that sound?</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>A rat or water-hen</l>
+                  <l>Splashed, or an otter slid into the stream.</l>
+                  <l>We are on the bridge; that shadow is the tower,</l>
+                  <l>And the light proves that he is reading still.</l>
+                  <l>He has found, after the manner of his kind,</l>
+                  <l>Mere images; chosen this place to live in</l>
+                  <l>Because, it may be, of the candle light</l>
+                  <l>From the far tower where Milton's platonist</l>
+                  <l>Sat late, or Shelley's visionary prince:</l>
+                  <l>The lonely light that Samuel Palmer engraved,</l>
+                  <l>An image of mysterious wisdom won by toil;</l>
+                  <l>And now he seeks in book or manuscript</l>
+                  <l>What he shall never find.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>Why should not you</l>
+                  <l>Who know it all ring at his door, and speak</l>
+                  <l>Just truth enough to show that his whole life</l>
+                  <l>Will scarcely find for him a broken crust</l>
+                  <l>Of all those truths that are your daily bread;</l>
+                  <l>And when you have spoken take the roads again?</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>He wrote of me in that extravagant style</l>
+                  <l>He had learnt from Pater, and to round his tale</l>
+                  <l>Said I was dead; and dead I chose to be.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>Sing me the changes of the moon once more;</l>
+                  <l>True song, though speech: 'mine author sung it me.'</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>Twenty-and-eight the phases of the moon,</l>
+                  <l>The full and the moon's dark and all the crescents,</l>
+                  <l>Twenty-and-eight, and yet but six-and-twenty</l>
+                  <l>The cradles that a man must needs be rocked in:</l>
+                  <l>For there's no human life at the full or the dark.</l>
+                  <l>From the first crescent to the half, the dream</l>
+                  <l>But summons to adventure and the man</l>
+                  <l>Is always happy like a bird or a beast;</l>
+                  <l>But while the moon is rounding towards the full</l>
+                  <l>He follows whatever whim's most difficult</l>
+                  <l>Among whims not impossible, and though scarred</l>
+                  <l>As with the cat-o'-nine-tails of the mind,</l>
+                  <l>His body moulded from within his body</l>
+                  <l>Grows comelier. Eleven pass, and then</l>
+                  <l>Athenae takes Achilles by the hair,</l>
+                  <l>Hector is in the dust, Nietzsche is born,</l>
+                  <l>Because the heroes' crescent is the twelfth.</l>
+                  <l>And yet, twice born, twice buried, grow he must,</l>
+                  <l>Before the full moon, helpless as a worm.</l>
+                  <l>The thirteenth moon but sets the soul at war</l>
+                  <l>In its own being, and when that war's begun</l>
+                  <l>There is no muscle in the arm; and after</l>
+                  <l>Under the frenzy of the fourteenth moon</l>
+                  <l>The soul begins to tremble into stillness,</l>
+                  <l>To die into the labyrinth of itself!</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>Sing out the song; sing to the end, and sing</l>
+                  <l>The strange reward of all that discipline.</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>All thought becomes an image and the soul</l>
+                  <l>Becomes a body: that body and that soul</l>
+                  <l>Too perfect at the full to lie in a cradle,</l>
+                  <l>Too lonely for the traffic of the world:</l>
+                  <l>Body and soul cast out and cast away</l>
+                  <l>Beyond the visible world.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>All dreams of the soul</l>
+                  <l>End in a beautiful man's or woman's body.</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>Have you not always known it?</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>The song will have it</l>
+                  <l>That those that we have loved got their long fingers</l>
+                  <l>From death, and wounds, or on Sinai's top,</l>
+                  <l>Or from some bloody whip in their own hands.</l>
+                  <l>They ran from cradle to cradle till at last</l>
+                  <l>Their beauty dropped out of the loneliness</l>
+                  <l>Of body and soul.</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>The lovers' heart knows that.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>It must be that the terror in their eyes</l>
+                  <l>Is memory or foreknowledge of the hour</l>
+                  <l>When all is fed with light and heaven is bare.</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>When the moon's full those creatures of the full</l>
+                  <l>Are met on the waste hills by country men</l>
+                  <l>Who shudder and hurry by: body and soul</l>
+                  <l>Estranged amid the strangeness of themselves,</l>
+                  <l>Caught up in contemplation, the mind's eye</l>
+                  <l>Fixed upon images that once were thought,</l>
+                  <l>For separate, perfect, and immovable</l>
+                  <l>Images can break the solitude</l>
+                  <l>Of lovely, satisfied, indifferent eyes.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">And thereupon with aged, high-pitched voice</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Aherne laughed, thinking of the man within,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">His sleepless candle and laborious pen.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>And after that the crumbling of the moon.</l>
+                  <l>The soul remembering its loneliness</l>
+                  <l>Shudders in many cradles; all is changed,</l>
+                  <l>It would be the World's servant, and as it serves,</l>
+                  <l>Choosing whatever task's most difficult</l>
+                  <l>Among tasks not impossible, it takes</l>
+                  <l>Upon the body and upon the soul</l>
+                  <l>The coarseness of the drudge.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>Before the full</l>
+                  <l>It sought itself and afterwards the world.</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>Because you are forgotten, half out of life,</l>
+                  <l>And never wrote a book your thought is clear.</l>
+                  <l>Reformer, merchant, statesman, learned man,</l>
+                  <l>Dutiful husband, honest wife by turn,</l>
+                  <l>Cradle upon cradle, and all in flight and all</l>
+                  <l>Deformed because there is no deformity</l>
+                  <l>But saves us from a dream.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>And what of those</l>
+                  <l>That the last servile crescent has set free?</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>Because all dark, like those that are all light,</l>
+                  <l>They are cast beyond the verge, and in a cloud,</l>
+                  <l>Crying to one another like the bats;</l>
+                  <l>And having no desire they cannot tell</l>
+                  <l>What's good or bad, or what it is to triumph</l>
+                  <l>At the perfection of one's own obedience;</l>
+                  <l>And yet they speak what's blown into the mind;</l>
+                  <l>Deformed beyond deformity, unformed,</l>
+                  <l>Insipid as the dough before it is baked,</l>
+                  <l>They change their bodies at a word.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>And then?</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>When all the dough has been so kneaded up</l>
+                  <l>That it can take what form cook Nature fancy</l>
+                  <l>The first thin crescent is wheeled round once more.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>But the escape; the song's not finished yet.</l>
+               </lg>
+               <lg>
+                  <l>Robartes</l>
+               </lg>
+               <lg>
+                  <l>Hunchback and saint and fool are the last crescents.</l>
+                  <l>The burning bow that once could shoot an arrow</l>
+                  <l>Out of the up and down, the wagon wheel</l>
+                  <l>Of beauty's cruelty and wisdom's chatter,</l>
+                  <l>Out of that raving tide is drawn betwixt</l>
+                  <l>Deformity of body and of mind.</l>
+               </lg>
+               <lg>
+                  <l>Aherne</l>
+               </lg>
+               <lg>
+                  <l>Were not our beds far off I'd ring the bell,</l>
+                  <l>Stand under the rough roof-timbers of the hall</l>
+                  <l>Beside the castle door, where all is stark</l>
+                  <l>Austerity, a place set out for wisdom</l>
+                  <l>That he will never find; I'd play a part;</l>
+                  <l>He would never know me after all these years</l>
+                  <l>But take me for some drunken country man;</l>
+                  <l>I'd stand and mutter there until he caught</l>
+                  <l>'Hunchback and saint and fool,' and that they came</l>
+                  <l>Under the three last crescents of the moon,</l>
+                  <l>And then I'd stagger out. He'd crack his wits</l>
+                  <l>Day after day, yet never find the meaning.</l>
+                  <l/>
+                  <l>
+                     <hi rend="italic">And then he laughed to think that what seemed hard</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Should be so simple—a bat rose from the hazels</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">And circled round him with its squeaky cry,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">The light in the tower window was put out.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>THE CAT AND THE MOON</head>
+               <lg>
+                  <l>The cat went here and there</l>
+                  <l>And the moon spun round like a top,</l>
+                  <l>And the nearest kin of the moon</l>
+                  <l>The creeping cat looked up.</l>
+                  <l>Black Minnaloushe stared at the moon,</l>
+                  <l>For wander and wail as he would</l>
+                  <l>The pure cold light in the sky</l>
+                  <l>Troubled his animal blood.</l>
+                  <l>Minnaloushe runs in the grass,</l>
+                  <l>Lifting his delicate feet.</l>
+                  <l>Do you dance, Minnaloushe, do you dance?</l>
+                  <l>When two close kindred meet</l>
+                  <l>What better than call a dance,</l>
+                  <l>Maybe the moon may learn,</l>
+                  <l>Tired of that courtly fashion,</l>
+                  <l>A new dance turn.</l>
+                  <l>Minnaloushe creeps through the grass</l>
+                  <l>From moonlit place to place,</l>
+                  <l>The sacred moon overhead</l>
+                  <l>Has taken a new phase.</l>
+                  <l>Does Minnaloushe know that his pupils</l>
+                  <l>Will pass from change to change,</l>
+                  <l>And that from round to crescent,</l>
+                  <l>From crescent to round they range?</l>
+                  <l>Minnaloushe creeps through the grass</l>
+                  <l>Alone, important and wise,</l>
+                  <l> And lifts to the changing moon</l>
+                  <l>His changing eyes.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE SAINT AND THE<lb/>HUNCHBACK</head>
+               <lg>
+                  <l>Hunchback</l>
+               </lg>
+               <lg>
+                  <l>Stand up and lift your hand and bless</l>
+                  <l>A man that finds great bitterness</l>
+                  <l>In thinking of his lost renown.</l>
+                  <l>A Roman Caesar is held down</l>
+                  <l>Under this hump.</l>
+               </lg>
+               <lg>
+                  <l>Saint</l>
+               </lg>
+               <lg>
+                  <l>God tries each man</l>
+                  <l>According to a different plan.</l>
+                  <l>I shall not cease to bless because</l>
+                  <l>I lay about me with the taws</l>
+                  <l>That night and morning I may thrash</l>
+                  <l>Greek Alexander from my flesh,</l>
+                  <l>Augustus Caesar, and after these</l>
+                  <l>That great rogue Alcibiades.</l>
+               </lg>
+               <lg>
+                  <l>Hunchback</l>
+               </lg>
+               <lg>
+                  <l>To all that in your flesh have stood</l>
+                  <l>And blessed, I give my gratitude,</l>
+                  <l>Honoured by all in their degrees,</l>
+                  <l>But most to Alcibiades.</l>
+               </lg>
+            </div>
+            <div type="div2">
+               <head>TWO SONGS OF A FOOL</head>
+               <div type="div3">
+                  <head>I</head>
+                  <lg>
+                     <l>A speckled cat and a tame hare</l>
+                     <l>Eat at my hearthstone</l>
+                     <l>And sleep there;</l>
+                     <l>And both look up to me alone</l>
+                     <l>For learning and defence</l>
+                     <l>As I look up to Providence.</l>
+                  </lg>
+                  <lg>
+                     <l>I start out of my sleep to think</l>
+                     <l>Some day I may forget</l>
+                     <l>Their food and drink;</l>
+                     <l>Or, the house door left unshut,</l>
+                     <l>The hare may run till it's found</l>
+                     <l>The horn's sweet note and the tooth of the hound.</l>
+                  </lg>
+                  <lg>
+                     <l>I bear a burden that might well try</l>
+                     <l>Men that do all by rule,</l>
+                     <l>And what can I</l>
+                     <l>That am a wandering witted fool</l>
+                     <l>But pray to God that He ease</l>
+                     <l> My great responsibilities.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>II</head>
+                  <lg>
+                     <l>I slept on my three-legged stool by the fire,</l>
+                     <l>The speckled cat slept on my knee;</l>
+                     <l>We never thought to enquire</l>
+                     <l>Where the brown hare might be,</l>
+                     <l>And whether the door were shut.</l>
+                     <l>Who knows how she drank the wind</l>
+                     <l>Stretched up on two legs from the mat,</l>
+                     <l>Before she had settled her mind</l>
+                     <l>To drum with her heel and to leap:</l>
+                     <l>Had I but awakened from sleep</l>
+                     <l>And called her name she had heard,</l>
+                     <l>It may be, and had not stirred,</l>
+                     <l>That now, it may be, has found</l>
+                     <l>The horn's sweet note and the tooth of the hound.</l>
+                  </lg>
+                  <lg/>
+               </div>
+            </div>
+            <div type="div2">
+               <head>ANOTHER SONG OF A FOOL</head>
+               <lg>
+                  <l>This great purple butterfly,</l>
+                  <l>In the prison of my hands,</l>
+                  <l>Has a learning in his eye</l>
+                  <l>Not a poor fool understands.</l>
+               </lg>
+               <lg>
+                  <l>Once he lived a schoolmaster</l>
+                  <l>With a stark, denying look,</l>
+                  <l>A string of scholars went in fear</l>
+                  <l>Of his great birch and his great book.</l>
+               </lg>
+               <lg>
+                  <l>Like the clangour of a bell,</l>
+                  <l>Sweet and harsh, harsh and sweet,</l>
+                  <l>That is how he learnt so well</l>
+                  <l>To take the roses for his meat.</l>
+               </lg>
+               <lg/>
+            </div>
+            <div type="div2">
+               <head>THE DOUBLE VISION OF<lb/>MICHAEL ROBARTES</head>
+               <div type="div3">
+                  <head>I</head>
+                  <lg>
+                     <l>On the grey rock of Cashel the mind's eye</l>
+                     <l>Has called up the cold spirits that are born</l>
+                     <l>When the old moon is vanished from the sky</l>
+                     <l>And the new still hides her horn.</l>
+                  </lg>
+                  <lg>
+                     <l>Under blank eyes and fingers never still</l>
+                     <l>The particular is pounded till it is man,</l>
+                     <l>When had I my own will?</l>
+                     <l>Oh, not since life began.</l>
+                  </lg>
+                  <lg>
+                     <l>Constrained, arraigned, baffled, bent and unbent</l>
+                     <l>By these wire-jointed jaws and limbs of wood,</l>
+                     <l>Themselves obedient,</l>
+                     <l>Knowing not evil and good;</l>
+                  </lg>
+                  <lg>
+                     <l>Obedient to some hidden magical breath.</l>
+                     <l>They do not even feel, so abstract are they,</l>
+                     <l> So dead beyond our death,</l>
+                     <l>Triumph that we obey.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>II</head>
+                  <lg>
+                     <l>On the grey rock of Cashel I suddenly saw</l>
+                     <l>A Sphinx with woman breast and lion paw,</l>
+                     <l>A Buddha, hand at rest,</l>
+                     <l>Hand lifted up that blest;</l>
+                  </lg>
+                  <lg>
+                     <l>And right between these two a girl at play</l>
+                     <l>That it may be had danced her life away,</l>
+                     <l>For now being dead it seemed</l>
+                     <l>That she of dancing dreamed.</l>
+                  </lg>
+                  <lg>
+                     <l>Although I saw it all in the mind's eye</l>
+                     <l>There can be nothing solider till I die;</l>
+                     <l>I saw by the moon's light</l>
+                     <l>Now at its fifteenth night.</l>
+                  </lg>
+                  <lg>
+                     <l>One lashed her tail; her eyes lit by the moon</l>
+                     <l>Gazed upon all things known, all things unknown,</l>
+                     <l> In triumph of intellect</l>
+                     <l>With motionless head erect.</l>
+                  </lg>
+                  <lg>
+                     <l>That other's moonlit eyeballs never moved,</l>
+                     <l>Being fixed on all things loved, all things unloved,</l>
+                     <l>Yet little peace he had</l>
+                     <l>For those that love are sad.</l>
+                  </lg>
+                  <lg>
+                     <l>Oh, little did they care who danced between,</l>
+                     <l>And little she by whom her dance was seen</l>
+                     <l>So that she danced. No thought,</l>
+                     <l>Body perfection brought,</l>
+                  </lg>
+                  <lg>
+                     <l>For what but eye and ear silence the mind</l>
+                     <l>With the minute particulars of mankind?</l>
+                     <l>Mind moved yet seemed to stop</l>
+                     <l>As 'twere a spinning-top.</l>
+                  </lg>
+                  <lg>
+                     <l>In contemplation had those three so wrought</l>
+                     <l>Upon a moment, and so stretched it out</l>
+                     <l>That they, time overthrown,</l>
+                     <l>Were dead yet flesh and bone.</l>
+                     <l> </l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>III</head>
+                  <lg>
+                     <l>I knew that I had seen, had seen at last</l>
+                     <l>That girl my unremembering nights hold fast</l>
+                     <l>Or else my dreams that fly,</l>
+                     <l>If I should rub an eye,</l>
+                  </lg>
+                  <lg>
+                     <l>And yet in flying fling into my meat</l>
+                     <l>A crazy juice that makes the pulses beat</l>
+                     <l>As though I had been undone</l>
+                     <l>By Homer's Paragon</l>
+                  </lg>
+                  <lg>
+                     <l>Who never gave the burning town a thought;</l>
+                     <l>To such a pitch of folly I am brought,</l>
+                     <l>Being caught between the pull</l>
+                     <l>Of the dark moon and the full,</l>
+                  </lg>
+                  <lg>
+                     <l>The commonness of thought and images</l>
+                     <l>That have the frenzy of our Western seas.</l>
+                     <l>Thereon I made my moan,</l>
+                     <l>And after kissed a stone,</l>
+                  </lg>
+                  <lg>
+                     <l>And after that arranged it in a song</l>
+                     <l>Seeing that I, ignorant for so long,</l>
+                     <l> Had been rewarded thus</l>
+                     <l>In Cormac's ruined house.</l>
+                  </lg>
+                  <lg/>
+               </div>
+            </div>
+            <div type="div2">
+               <head>NOTE</head>
+               <lg>
+                  <l>"<hi rend="italic">Unpack the loaded pern</hi>," p. 36.</l>
+               </lg>
+               <lg>
+                  <l>When I was a child at Sligo I could see above my grandfather's trees a little column of smoke from "the pern mill," and was told that "pern" was another name for the spool, as I was accustomed to call it, on which thread was wound. One could not see the chimney for the trees, and the smoke looked as if it came from the mountain, and one day a foreign sea-captain asked me if that was a burning mountain.</l>
+               </lg>
+               <lg>
+                  <l>W. B. Y.</l>
+               </lg>
+               <lg>
+                  <l>Printed in the United States of America.</l>
+               </lg>
+               <div type="div3">
+                  <head>Transcriber's Note</head>
+                  <lg>
+                     <l>Page <ref target="#5231305167802081023_32491-h-0.htm.xhtml#Page_64">64</ref>: "lecturn" <hi rend="italic">sic</hi>—alternative spelling confirmed.</l>
+                  </lg>
+                  <lg/>
+                  <lg>
+                     <l>*** END OF THIS PROJECT GUTENBERG EBOOK ***</l>
+                  </lg>
+                  <lg>
+                     <l>Updated editions will replace the previous one—the old editions will be renamed.</l>
+                  </lg>
+                  <lg>
+                     <l>Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.</l>
+                  </lg>
+                  <lg>
+                     <l>START: FULL LICENSE</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="div2" rend="P4">
+               <head>THE FULL PROJECT GUTENBERG LICENSE</head>
+               <lg>
+                  <l>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</l>
+               </lg>
+               <lg>
+                  <l>To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.</l>
+               </lg>
+               <lg>
+                  <l>Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works</l>
+               </lg>
+               <lg>
+                  <l>1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</l>
+               </lg>
+               <lg>
+                  <l>1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.</l>
+               </lg>
+               <lg>
+                  <l>1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.</l>
+               </lg>
+               <lg>
+                  <l>1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.</l>
+               </lg>
+               <lg>
+                  <l>1.E. Unless you have removed all references to Project Gutenberg:</l>
+               </lg>
+               <lg>
+                  <l>1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:</l>
+               </lg>
+               <lg>
+                  <l>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.</l>
+               </lg>
+               <lg>
+                  <l>1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.</l>
+               </lg>
+               <lg>
+                  <l>1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.</l>
+               </lg>
+               <lg>
+                  <l>1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.</l>
+               </lg>
+               <lg>
+                  <l>1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.</l>
+               </lg>
+               <lg>
+                  <l>1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.</l>
+               </lg>
+               <lg>
+                  <l>1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.</l>
+               </lg>
+               <lg>
+                  <l>1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:</l>
+               </lg>
+               <lg>
+                  <l>• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”</l>
+               </lg>
+               <lg>
+                  <l>• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.</l>
+               </lg>
+               <lg>
+                  <l>• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</l>
+               </lg>
+               <lg>
+                  <l>• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.</l>
+               </lg>
+               <lg>
+                  <l>1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.</l>
+               </lg>
+               <lg>
+                  <l>1.F.</l>
+               </lg>
+               <lg>
+                  <l>1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</l>
+               </lg>
+               <lg>
+                  <l>1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</l>
+               </lg>
+               <lg>
+                  <l>1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</l>
+               </lg>
+               <lg>
+                  <l>1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.</l>
+               </lg>
+               <lg>
+                  <l>1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</l>
+               </lg>
+               <lg>
+                  <l>1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.</l>
+               </lg>
+               <lg>
+                  <l>Section 2. Information about the Mission of Project Gutenberg™</l>
+               </lg>
+               <lg>
+                  <l>Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</l>
+               </lg>
+               <lg>
+                  <l>Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.</l>
+               </lg>
+               <lg>
+                  <l>Section 3. Information about the Project Gutenberg Literary Archive Foundation</l>
+               </lg>
+               <lg>
+                  <l>The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.</l>
+               </lg>
+               <lg>
+                  <l>The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact</l>
+               </lg>
+               <lg>
+                  <l>Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation</l>
+               </lg>
+               <lg>
+                  <l>Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</l>
+               </lg>
+               <lg>
+                  <l>The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit <ref target="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</ref>.</l>
+               </lg>
+               <lg>
+                  <l>While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</l>
+               </lg>
+               <lg>
+                  <l>International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</l>
+               </lg>
+               <lg>
+                  <l>Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate</l>
+               </lg>
+               <lg>
+                  <l>Section 5. General Information About Project Gutenberg™ electronic works</l>
+               </lg>
+               <lg>
+                  <l>Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.</l>
+               </lg>
+               <lg>
+                  <l>Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</l>
+               </lg>
+               <lg>
+                  <l>Most people start at our website which has the main PG search facility: <ref target="https://www.gutenberg.org/">www.gutenberg.org</ref>.</l>
+               </lg>
+               <lg>
+                  <l>This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</l>
+               </lg>
+               <subtitle>The Project Gutenberg eBook of The Wild Swans at Coole, by W. B. Yeats</subtitle>
+               <lg>
+                  <l>This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <ref target="#5231305167802081023_32491-h-1.htm.xhtml#project-gutenberg-license">Project Gutenberg License</ref>included with this ebook or online at <ptr target="https://www.gutenberg.org/license"/>. If you are not located in the United States, you’ll have to check the laws of the country where you are located before using this eBook.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Title</hi>: The Wild Swans at Coole</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Author</hi>: W. B. Yeats</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Release Date</hi>: May 23, 2010 [EBook #32491]</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Language</hi>: English</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="bold">Credits</hi>: Produced by Meredith Bach and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)</l>
+               </lg>
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>*** START OF THIS PROJECT GUTENBERG EBOOK ***</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
